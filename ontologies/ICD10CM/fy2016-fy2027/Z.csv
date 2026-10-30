@@ -1,0 +1,1867 @@
+code,description,parent,first_year,last_year
+Z00,"Encounter for general examination without complaint, suspected or reported diagnosis",,2016,2027
+Z00.0,Encounter for general adult medical examination,Z00,2016,2027
+Z00.00,Encounter for general adult medical examination without abnormal findings,Z00.0,2016,2027
+Z00.01,Encounter for general adult medical examination with abnormal findings,Z00.0,2016,2027
+Z00.1,"Encounter for newborn, infant and child health examinations",Z00,2016,2027
+Z00.11,Newborn health examination,Z00.1,2016,2027
+Z00.110,Health examination for newborn under 8 days old,Z00.11,2016,2027
+Z00.111,Health examination for newborn 8 to 28 days old,Z00.11,2016,2027
+Z00.12,Encounter for routine child health examination,Z00.1,2016,2027
+Z00.121,Encounter for routine child health examination with abnormal findings,Z00.12,2016,2027
+Z00.129,Encounter for routine child health examination without abnormal findings,Z00.12,2016,2027
+Z00.2,Encounter for examination for period of rapid growth in childhood,Z00,2016,2027
+Z00.3,Encounter for examination for adolescent development state,Z00,2016,2027
+Z00.5,Encounter for examination of potential donor of organ and tissue,Z00,2016,2027
+Z00.6,Encounter for examination for normal comparison and control in clinical research program,Z00,2016,2027
+Z00.7,Encounter for examination for period of delayed growth in childhood,Z00,2016,2027
+Z00.70,Encounter for examination for period of delayed growth in childhood without abnormal findings,Z00.7,2016,2027
+Z00.71,Encounter for examination for period of delayed growth in childhood with abnormal findings,Z00.7,2016,2027
+Z00.8,Encounter for other general examination,Z00,2016,2027
+Z01,"Encounter for other special examination without complaint, suspected or reported diagnosis",,2016,2027
+Z01.0,Encounter for examination of eyes and vision,Z01,2016,2027
+Z01.00,Encounter for examination of eyes and vision without abnormal findings,Z01.0,2016,2027
+Z01.01,Encounter for examination of eyes and vision with abnormal findings,Z01.0,2016,2027
+Z01.02,Encounter for examination of eyes and vision following failed vision screening,Z01.0,2020,2027
+Z01.020,Encounter for examination of eyes and vision following failed vision screening without abnormal findings,Z01.02,2020,2027
+Z01.021,Encounter for examination of eyes and vision following failed vision screening with abnormal findings,Z01.02,2020,2027
+Z01.1,Encounter for examination of ears and hearing,Z01,2016,2027
+Z01.10,Encounter for examination of ears and hearing without abnormal findings,Z01.1,2016,2027
+Z01.11,Encounter for examination of ears and hearing with abnormal findings,Z01.1,2016,2027
+Z01.110,Encounter for hearing examination following failed hearing screening,Z01.11,2016,2027
+Z01.118,Encounter for examination of ears and hearing with other abnormal findings,Z01.11,2016,2027
+Z01.12,Encounter for hearing conservation and treatment,Z01.1,2016,2027
+Z01.2,Encounter for dental examination and cleaning,Z01,2016,2027
+Z01.20,Encounter for dental examination and cleaning without abnormal findings,Z01.2,2016,2027
+Z01.21,Encounter for dental examination and cleaning with abnormal findings,Z01.2,2016,2027
+Z01.3,Encounter for examination of blood pressure,Z01,2016,2027
+Z01.30,Encounter for examination of blood pressure without abnormal findings,Z01.3,2016,2027
+Z01.31,Encounter for examination of blood pressure with abnormal findings,Z01.3,2016,2027
+Z01.4,Encounter for gynecological examination,Z01,2016,2027
+Z01.41,Encounter for routine gynecological examination,Z01.4,2016,2027
+Z01.411,Encounter for gynecological examination (general) (routine) with abnormal findings,Z01.41,2016,2027
+Z01.419,Encounter for gynecological examination (general) (routine) without abnormal findings,Z01.41,2016,2027
+Z01.42,Encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear,Z01.4,2016,2027
+Z01.8,Encounter for other specified special examinations,Z01,2016,2027
+Z01.81,Encounter for preprocedural examinations,Z01.8,2016,2027
+Z01.810,Encounter for preprocedural cardiovascular examination,Z01.81,2016,2027
+Z01.811,Encounter for preprocedural respiratory examination,Z01.81,2016,2027
+Z01.812,Encounter for preprocedural laboratory examination,Z01.81,2016,2027
+Z01.818,Encounter for other preprocedural examination,Z01.81,2016,2027
+Z01.82,Encounter for allergy testing,Z01.8,2016,2027
+Z01.83,Encounter for blood typing,Z01.8,2016,2027
+Z01.84,Encounter for antibody response examination,Z01.8,2016,2027
+Z01.89,Encounter for other specified special examinations,Z01.8,2016,2027
+Z02,Encounter for administrative examination,,2016,2027
+Z02.0,Encounter for examination for admission to educational institution,Z02,2016,2027
+Z02.1,Encounter for pre-employment examination,Z02,2016,2027
+Z02.2,Encounter for examination for admission to residential institution,Z02,2016,2027
+Z02.3,Encounter for examination for recruitment to armed forces,Z02,2016,2027
+Z02.4,Encounter for examination for driving license,Z02,2016,2027
+Z02.5,Encounter for examination for participation in sport,Z02,2016,2027
+Z02.6,Encounter for examination for insurance purposes,Z02,2016,2027
+Z02.7,Encounter for issue of medical certificate,Z02,2016,2027
+Z02.71,Encounter for disability determination,Z02.7,2016,2027
+Z02.79,Encounter for issue of other medical certificate,Z02.7,2016,2027
+Z02.8,Encounter for other administrative examinations,Z02,2016,2027
+Z02.81,Encounter for paternity testing,Z02.8,2016,2027
+Z02.82,Encounter for adoption services,Z02.8,2016,2027
+Z02.83,Encounter for blood-alcohol and blood-drug test,Z02.8,2016,2027
+Z02.84,Encounter for child welfare exam,Z02.8,2024,2027
+Z02.89,Encounter for other administrative examinations,Z02.8,2016,2027
+Z02.9,"Encounter for administrative examinations, unspecified",Z02,2016,2027
+Z03,Encounter for medical observation for suspected diseases and conditions ruled out,,2016,2027
+Z03.6,Encounter for observation for suspected toxic effect from ingested substance ruled out,Z03,2016,2027
+Z03.7,Encounter for suspected maternal and fetal conditions ruled out,Z03,2016,2027
+Z03.71,Encounter for suspected problem with amniotic cavity and membrane ruled out,Z03.7,2016,2027
+Z03.72,Encounter for suspected placental problem ruled out,Z03.7,2016,2027
+Z03.73,Encounter for suspected fetal anomaly ruled out,Z03.7,2016,2027
+Z03.74,Encounter for suspected problem with fetal growth ruled out,Z03.7,2016,2027
+Z03.75,Encounter for suspected cervical shortening ruled out,Z03.7,2016,2027
+Z03.79,Encounter for other suspected maternal and fetal conditions ruled out,Z03.7,2016,2027
+Z03.8,Encounter for observation for other suspected diseases and conditions ruled out,Z03,2016,2027
+Z03.81,Encounter for observation for suspected exposure to biological agents ruled out,Z03.8,2016,2027
+Z03.810,Encounter for observation for suspected exposure to anthrax ruled out,Z03.81,2016,2027
+Z03.818,Encounter for observation for suspected exposure to other biological agents ruled out,Z03.81,2016,2027
+Z03.82,Encounter for observation for suspected foreign body ruled out,Z03.8,2021,2027
+Z03.821,Encounter for observation for suspected ingested foreign body ruled out,Z03.82,2021,2027
+Z03.822,Encounter for observation for suspected aspirated (inhaled) foreign body ruled out,Z03.82,2021,2027
+Z03.823,Encounter for observation for suspected inserted (injected) foreign body ruled out,Z03.82,2021,2027
+Z03.83,Encounter for observation for suspected conditions related to home physiologic monitoring device ruled out,Z03.8,2023,2027
+Z03.89,Encounter for observation for other suspected diseases and conditions ruled out,Z03.8,2016,2027
+Z04,Encounter for examination and observation for other reasons,,2016,2027
+Z04.1,Encounter for examination and observation following transport accident,Z04,2016,2027
+Z04.2,Encounter for examination and observation following work accident,Z04,2016,2027
+Z04.3,Encounter for examination and observation following other accident,Z04,2016,2027
+Z04.4,Encounter for examination and observation following alleged rape,Z04,2016,2027
+Z04.41,Encounter for examination and observation following alleged adult rape,Z04.4,2016,2027
+Z04.42,Encounter for examination and observation following alleged child rape,Z04.4,2016,2027
+Z04.6,"Encounter for general psychiatric examination, requested by authority",Z04,2016,2027
+Z04.7,Encounter for examination and observation following alleged physical abuse,Z04,2016,2027
+Z04.71,Encounter for examination and observation following alleged adult physical abuse,Z04.7,2016,2027
+Z04.72,Encounter for examination and observation following alleged child physical abuse,Z04.7,2016,2027
+Z04.8,Encounter for examination and observation for other specified reasons,Z04,2016,2027
+Z04.81,Encounter for examination and observation of victim following forced sexual exploitation,Z04.8,2019,2027
+Z04.82,Encounter for examination and observation of victim following forced labor exploitation,Z04.8,2019,2027
+Z04.89,Encounter for examination and observation for other specified reasons,Z04.8,2019,2027
+Z04.9,Encounter for examination and observation for unspecified reason,Z04,2016,2027
+Z05,Encounter for observation and evaluation of newborn for suspected diseases and conditions ruled out,,2017,2027
+Z05.0,Observation and evaluation of newborn for suspected cardiac condition ruled out,Z05,2017,2027
+Z05.1,Observation and evaluation of newborn for suspected infectious condition ruled out,Z05,2017,2027
+Z05.2,Observation and evaluation of newborn for suspected neurological condition ruled out,Z05,2017,2027
+Z05.3,Observation and evaluation of newborn for suspected respiratory condition ruled out,Z05,2017,2027
+Z05.4,"Observation and evaluation of newborn for suspected genetic, metabolic or immunologic condition ruled out",Z05,2017,2027
+Z05.41,Observation and evaluation of newborn for suspected genetic condition ruled out,Z05.4,2017,2027
+Z05.42,Observation and evaluation of newborn for suspected metabolic condition ruled out,Z05.4,2017,2027
+Z05.43,Observation and evaluation of newborn for suspected immunologic condition ruled out,Z05.4,2017,2027
+Z05.5,Observation and evaluation of newborn for suspected gastrointestinal condition ruled out,Z05,2017,2027
+Z05.6,Observation and evaluation of newborn for suspected genitourinary condition ruled out,Z05,2017,2027
+Z05.7,"Observation and evaluation of newborn for suspected skin, subcutaneous, musculoskeletal and connective tissue condition ruled out",Z05,2017,2027
+Z05.71,Observation and evaluation of newborn for suspected skin and subcutaneous tissue condition ruled out,Z05.7,2017,2027
+Z05.72,Observation and evaluation of newborn for suspected musculoskeletal condition ruled out,Z05.7,2017,2027
+Z05.73,Observation and evaluation of newborn for suspected connective tissue condition ruled out,Z05.7,2017,2027
+Z05.8,Observation and evaluation of newborn for other specified suspected condition ruled out,Z05,2017,2027
+Z05.81,Observation and evaluation of newborn for suspected condition related to home physiologic monitoring device ruled out,Z05.8,2024,2027
+Z05.89,Observation and evaluation of newborn for other specified suspected condition ruled out,Z05.8,2024,2027
+Z05.9,Observation and evaluation of newborn for unspecified suspected condition ruled out,Z05,2017,2027
+Z08,Encounter for follow-up examination after completed treatment for malignant neoplasm,,2016,2027
+Z09,Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm,,2016,2027
+Z11,Encounter for screening for infectious and parasitic diseases,,2016,2027
+Z11.0,Encounter for screening for intestinal infectious diseases,Z11,2016,2027
+Z11.1,Encounter for screening for respiratory tuberculosis,Z11,2016,2027
+Z11.2,Encounter for screening for other bacterial diseases,Z11,2016,2027
+Z11.3,Encounter for screening for infections with a predominantly sexual mode of transmission,Z11,2016,2027
+Z11.4,Encounter for screening for human immunodeficiency virus [HIV],Z11,2016,2027
+Z11.5,Encounter for screening for other viral diseases,Z11,2016,2027
+Z11.51,Encounter for screening for human papillomavirus (HPV),Z11.5,2016,2027
+Z11.52,Encounter for screening for COVID-19,Z11.5,2021,2027
+Z11.59,Encounter for screening for other viral diseases,Z11.5,2016,2027
+Z11.6,Encounter for screening for other protozoal diseases and helminthiases,Z11,2016,2027
+Z11.7,Encounter for testing for latent tuberculosis infection,Z11,2020,2027
+Z11.8,Encounter for screening for other infectious and parasitic diseases,Z11,2016,2027
+Z11.9,"Encounter for screening for infectious and parasitic diseases, unspecified",Z11,2016,2027
+Z12,Encounter for screening for malignant neoplasms,,2016,2027
+Z12.0,Encounter for screening for malignant neoplasm of stomach,Z12,2016,2027
+Z12.1,Encounter for screening for malignant neoplasm of intestinal tract,Z12,2016,2027
+Z12.10,"Encounter for screening for malignant neoplasm of intestinal tract, unspecified",Z12.1,2016,2027
+Z12.11,Encounter for screening for malignant neoplasm of colon,Z12.1,2016,2027
+Z12.12,Encounter for screening for malignant neoplasm of rectum,Z12.1,2016,2027
+Z12.13,Encounter for screening for malignant neoplasm of small intestine,Z12.1,2016,2027
+Z12.2,Encounter for screening for malignant neoplasm of respiratory organs,Z12,2016,2027
+Z12.3,Encounter for screening for malignant neoplasm of breast,Z12,2016,2027
+Z12.31,Encounter for screening mammogram for malignant neoplasm of breast,Z12.3,2016,2027
+Z12.39,Encounter for other screening for malignant neoplasm of breast,Z12.3,2016,2027
+Z12.4,Encounter for screening for malignant neoplasm of cervix,Z12,2016,2027
+Z12.5,Encounter for screening for malignant neoplasm of prostate,Z12,2016,2027
+Z12.6,Encounter for screening for malignant neoplasm of bladder,Z12,2016,2027
+Z12.7,Encounter for screening for malignant neoplasm of other genitourinary organs,Z12,2016,2027
+Z12.71,Encounter for screening for malignant neoplasm of testis,Z12.7,2016,2027
+Z12.72,Encounter for screening for malignant neoplasm of vagina,Z12.7,2016,2027
+Z12.73,Encounter for screening for malignant neoplasm of ovary,Z12.7,2016,2027
+Z12.79,Encounter for screening for malignant neoplasm of other genitourinary organs,Z12.7,2016,2027
+Z12.8,Encounter for screening for malignant neoplasm of other sites,Z12,2016,2027
+Z12.81,Encounter for screening for malignant neoplasm of oral cavity,Z12.8,2016,2027
+Z12.82,Encounter for screening for malignant neoplasm of nervous system,Z12.8,2016,2027
+Z12.83,Encounter for screening for malignant neoplasm of skin,Z12.8,2016,2027
+Z12.89,Encounter for screening for malignant neoplasm of other sites,Z12.8,2016,2027
+Z12.9,"Encounter for screening for malignant neoplasm, site unspecified",Z12,2016,2027
+Z13,Encounter for screening for other diseases and disorders,,2016,2027
+Z13.0,Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Z13,2016,2027
+Z13.1,Encounter for screening for diabetes mellitus,Z13,2016,2027
+Z13.2,"Encounter for screening for nutritional, metabolic and other endocrine disorders",Z13,2016,2027
+Z13.21,Encounter for screening for nutritional disorder,Z13.2,2016,2027
+Z13.22,Encounter for screening for metabolic disorder,Z13.2,2016,2027
+Z13.220,Encounter for screening for lipoid disorders,Z13.22,2016,2027
+Z13.228,Encounter for screening for other metabolic disorders,Z13.22,2016,2027
+Z13.29,Encounter for screening for other suspected endocrine disorder,Z13.2,2016,2027
+Z13.3,Encounter for screening examination for mental health and behavioral disorders,Z13,2019,2027
+Z13.30,"Encounter for screening examination for mental health and behavioral disorders, unspecified",Z13.3,2019,2027
+Z13.31,Encounter for screening for depression,Z13.3,2019,2027
+Z13.32,Encounter for screening for maternal depression,Z13.3,2019,2027
+Z13.39,Encounter for screening examination for other mental health and behavioral disorders,Z13.3,2019,2027
+Z13.4,Encounter for screening for certain developmental disorders in childhood,Z13,2016,2027
+Z13.40,Encounter for screening for unspecified developmental delays,Z13.4,2019,2027
+Z13.41,Encounter for autism screening,Z13.4,2019,2027
+Z13.42,Encounter for screening for global developmental delays (milestones),Z13.4,2019,2027
+Z13.49,Encounter for screening for other developmental delays,Z13.4,2019,2027
+Z13.5,Encounter for screening for eye and ear disorders,Z13,2016,2027
+Z13.6,Encounter for screening for cardiovascular disorders,Z13,2016,2027
+Z13.7,Encounter for screening for genetic and chromosomal anomalies,Z13,2016,2027
+Z13.71,Encounter for nonprocreative screening for genetic disease carrier status,Z13.7,2016,2027
+Z13.79,Encounter for other screening for genetic and chromosomal anomalies,Z13.7,2016,2027
+Z13.8,Encounter for screening for other specified diseases and disorders,Z13,2016,2027
+Z13.81,Encounter for screening for digestive system disorders,Z13.8,2016,2027
+Z13.810,Encounter for screening for upper gastrointestinal disorder,Z13.81,2016,2027
+Z13.811,Encounter for screening for lower gastrointestinal disorder,Z13.81,2016,2027
+Z13.818,Encounter for screening for other digestive system disorders,Z13.81,2016,2027
+Z13.82,Encounter for screening for musculoskeletal disorder,Z13.8,2016,2027
+Z13.820,Encounter for screening for osteoporosis,Z13.82,2016,2027
+Z13.828,Encounter for screening for other musculoskeletal disorder,Z13.82,2016,2027
+Z13.83,Encounter for screening for respiratory disorder NEC,Z13.8,2016,2027
+Z13.84,Encounter for screening for dental disorders,Z13.8,2016,2027
+Z13.85,Encounter for screening for nervous system disorders,Z13.8,2016,2027
+Z13.850,Encounter for screening for traumatic brain injury,Z13.85,2016,2027
+Z13.858,Encounter for screening for other nervous system disorders,Z13.85,2016,2027
+Z13.88,Encounter for screening for disorder due to exposure to contaminants,Z13.8,2016,2027
+Z13.89,Encounter for screening for other disorder,Z13.8,2016,2027
+Z13.9,"Encounter for screening, unspecified",Z13,2016,2027
+Z14,Genetic carrier,,2016,2027
+Z14.0,Hemophilia A carrier,Z14,2016,2027
+Z14.01,Asymptomatic hemophilia A carrier,Z14.0,2016,2027
+Z14.02,Symptomatic hemophilia A carrier,Z14.0,2016,2027
+Z14.1,Cystic fibrosis carrier,Z14,2016,2027
+Z14.8,Genetic carrier of other disease,Z14,2016,2027
+Z15,Genetic susceptibility to disease,,2016,2027
+Z15.0,Genetic susceptibility to malignant neoplasm,Z15,2016,2027
+Z15.01,Genetic susceptibility to malignant neoplasm of breast,Z15.0,2016,2027
+Z15.02,Genetic susceptibility to malignant neoplasm of ovary,Z15.0,2016,2027
+Z15.03,Genetic susceptibility to malignant neoplasm of prostate,Z15.0,2016,2027
+Z15.04,Genetic susceptibility to malignant neoplasm of endometrium,Z15.0,2016,2027
+Z15.05,Genetic susceptibility to malignant neoplasm of fallopian tube(s),Z15.0,2026,2027
+Z15.06,Genetic susceptibility to malignant neoplasm of digestive system,Z15.0,2026,2027
+Z15.060,Genetic susceptibility to colorectal cancer,Z15.06,2026,2027
+Z15.068,Genetic susceptibility to other malignant neoplasm of digestive system,Z15.06,2026,2027
+Z15.07,Genetic susceptibility to malignant neoplasm of urinary tract,Z15.0,2026,2027
+Z15.09,Genetic susceptibility to other malignant neoplasm,Z15.0,2016,2027
+Z15.1,Genetic susceptibility to epilepsy and neurodevelopmental disorders,Z15,2025,2027
+Z15.2,Genetic susceptibility to obesity,Z15,2025,2027
+Z15.3,Genetic susceptibility to kidney disease,Z15,2026,2027
+Z15.8,Genetic susceptibility to other disease,Z15,2016,2027
+Z15.81,Genetic susceptibility to multiple endocrine neoplasia [MEN],Z15.8,2016,2027
+Z15.89,Genetic susceptibility to other disease,Z15.8,2016,2027
+Z16,Resistance to antimicrobial drugs,,2016,2027
+Z16.1,Resistance to beta lactam antibiotics,Z16,2016,2027
+Z16.10,Resistance to unspecified beta lactam antibiotics,Z16.1,2016,2027
+Z16.11,Resistance to penicillins,Z16.1,2016,2027
+Z16.12,Extended spectrum beta lactamase (ESBL) resistance,Z16.1,2016,2027
+Z16.13,Resistance to carbapenem,Z16.1,2024,2027
+Z16.19,Resistance to other specified beta lactam antibiotics,Z16.1,2016,2027
+Z16.2,Resistance to other antibiotics,Z16,2016,2027
+Z16.20,Resistance to unspecified antibiotic,Z16.2,2016,2027
+Z16.21,Resistance to vancomycin,Z16.2,2016,2027
+Z16.22,Resistance to vancomycin related antibiotics,Z16.2,2016,2027
+Z16.23,Resistance to quinolones and fluoroquinolones,Z16.2,2016,2027
+Z16.24,Resistance to multiple antibiotics,Z16.2,2016,2027
+Z16.29,Resistance to other single specified antibiotic,Z16.2,2016,2027
+Z16.3,Resistance to other antimicrobial drugs,Z16,2016,2027
+Z16.30,Resistance to unspecified antimicrobial drugs,Z16.3,2016,2027
+Z16.31,Resistance to antiparasitic drug(s),Z16.3,2016,2027
+Z16.32,Resistance to antifungal drug(s),Z16.3,2016,2027
+Z16.33,Resistance to antiviral drug(s),Z16.3,2016,2027
+Z16.34,Resistance to antimycobacterial drug(s),Z16.3,2016,2027
+Z16.341,Resistance to single antimycobacterial drug,Z16.34,2016,2027
+Z16.342,Resistance to multiple antimycobacterial drugs,Z16.34,2016,2027
+Z16.35,Resistance to multiple antimicrobial drugs,Z16.3,2016,2027
+Z16.39,Resistance to other specified antimicrobial drug,Z16.3,2016,2027
+Z17,"Estrogen, and other hormones and factors receptor status",,2016,2027
+Z17.0,Estrogen receptor positive status [ER+],Z17,2016,2027
+Z17.1,Estrogen receptor negative status [ER-],Z17,2016,2027
+Z17.2,Progesterone receptor status,Z17,2025,2027
+Z17.21,Progesterone receptor positive status,Z17.2,2025,2027
+Z17.22,Progesterone receptor negative status,Z17.2,2025,2027
+Z17.3,Human epidermal growth factor 2 receptor,Z17,2025,2027
+Z17.31,Human epidermal growth factor receptor 2 positive status,Z17.3,2025,2027
+Z17.32,Human epidermal growth factor receptor 2 negative status,Z17.3,2025,2027
+Z17.4,Combined receptor status,Z17,2025,2027
+Z17.41,Hormone receptor positive,Z17.4,2025,2027
+Z17.410,Hormone receptor positive with human epidermal growth factor receptor 2 positive status,Z17.41,2025,2027
+Z17.411,Hormone receptor positive with human epidermal growth factor receptor 2 negative status,Z17.41,2025,2027
+Z17.42,Hormone receptor negative,Z17.4,2025,2027
+Z17.420,Hormone receptor negative with human epidermal growth factor receptor 2 positive status,Z17.42,2025,2027
+Z17.421,Hormone receptor negative with human epidermal growth factor receptor 2 negative status,Z17.42,2025,2027
+Z18,Retained foreign body fragments,,2016,2027
+Z18.0,Retained radioactive fragments,Z18,2016,2027
+Z18.01,Retained depleted uranium fragments,Z18.0,2016,2027
+Z18.09,Other retained radioactive fragments,Z18.0,2016,2027
+Z18.1,Retained metal fragments,Z18,2016,2027
+Z18.10,"Retained metal fragments, unspecified",Z18.1,2016,2027
+Z18.11,Retained magnetic metal fragments,Z18.1,2016,2027
+Z18.12,Retained nonmagnetic metal fragments,Z18.1,2016,2027
+Z18.2,Retained plastic fragments,Z18,2016,2027
+Z18.3,Retained organic fragments,Z18,2016,2027
+Z18.31,Retained animal quills or spines,Z18.3,2016,2027
+Z18.32,Retained tooth,Z18.3,2016,2027
+Z18.33,Retained wood fragments,Z18.3,2016,2027
+Z18.39,Other retained organic fragments,Z18.3,2016,2027
+Z18.8,Other specified retained foreign body,Z18,2016,2027
+Z18.81,Retained glass fragments,Z18.8,2016,2027
+Z18.83,Retained stone or crystalline fragments,Z18.8,2016,2027
+Z18.89,Other specified retained foreign body fragments,Z18.8,2016,2027
+Z18.9,"Retained foreign body fragments, unspecified material",Z18,2016,2027
+Z19,Hormone sensitivity malignancy status,,2017,2027
+Z19.1,Hormone sensitive malignancy status,Z19,2017,2027
+Z19.2,Hormone resistant malignancy status,Z19,2017,2027
+Z20,Contact with and (suspected) exposure to communicable diseases,,2016,2027
+Z20.0,Contact with and (suspected) exposure to intestinal infectious diseases,Z20,2016,2027
+Z20.01,Contact with and (suspected) exposure to intestinal infectious diseases due to Escherichia coli (E. coli),Z20.0,2016,2027
+Z20.09,Contact with and (suspected) exposure to other intestinal infectious diseases,Z20.0,2016,2027
+Z20.1,Contact with and (suspected) exposure to tuberculosis,Z20,2016,2027
+Z20.2,Contact with and (suspected) exposure to infections with a predominantly sexual mode of transmission,Z20,2016,2027
+Z20.3,Contact with and (suspected) exposure to rabies,Z20,2016,2027
+Z20.4,Contact with and (suspected) exposure to rubella,Z20,2016,2027
+Z20.5,Contact with and (suspected) exposure to viral hepatitis,Z20,2016,2027
+Z20.6,Contact with and (suspected) exposure to human immunodeficiency virus [HIV],Z20,2016,2027
+Z20.7,"Contact with and (suspected) exposure to pediculosis, acariasis and other infestations",Z20,2016,2027
+Z20.8,Contact with and (suspected) exposure to other communicable diseases,Z20,2016,2027
+Z20.81,Contact with and (suspected) exposure to other bacterial communicable diseases,Z20.8,2016,2027
+Z20.810,Contact with and (suspected) exposure to anthrax,Z20.81,2016,2027
+Z20.811,Contact with and (suspected) exposure to meningococcus,Z20.81,2016,2027
+Z20.818,Contact with and (suspected) exposure to other bacterial communicable diseases,Z20.81,2016,2027
+Z20.82,Contact with and (suspected) exposure to other viral communicable diseases,Z20.8,2016,2027
+Z20.820,Contact with and (suspected) exposure to varicella,Z20.82,2016,2027
+Z20.821,Contact with and (suspected) exposure to Zika virus,Z20.82,2019,2027
+Z20.822,Contact with and (suspected) exposure to COVID-19,Z20.82,2021,2027
+Z20.828,Contact with and (suspected) exposure to other viral communicable diseases,Z20.82,2016,2027
+Z20.89,Contact with and (suspected) exposure to other communicable diseases,Z20.8,2016,2027
+Z20.9,Contact with and (suspected) exposure to unspecified communicable disease,Z20,2016,2027
+Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,,2016,2027
+Z22,Carrier of infectious disease,,2016,2027
+Z22.0,Carrier of typhoid,Z22,2016,2027
+Z22.1,Carrier of other intestinal infectious diseases,Z22,2016,2027
+Z22.2,Carrier of diphtheria,Z22,2016,2027
+Z22.3,Carrier of other specified bacterial diseases,Z22,2016,2027
+Z22.31,Carrier of bacterial disease due to meningococci,Z22.3,2016,2027
+Z22.32,Carrier of bacterial disease due to staphylococci,Z22.3,2016,2027
+Z22.321,Carrier or suspected carrier of Methicillin susceptible Staphylococcus aureus,Z22.32,2016,2027
+Z22.322,Carrier or suspected carrier of Methicillin resistant Staphylococcus aureus,Z22.32,2016,2027
+Z22.33,Carrier of bacterial disease due to streptococci,Z22.3,2016,2027
+Z22.330,Carrier of Group B streptococcus,Z22.33,2016,2027
+Z22.338,Carrier of other streptococcus,Z22.33,2016,2027
+Z22.34,Carrier of Acinetobacter baumannii,Z22.3,2024,2027
+Z22.340,Carrier of carbapenem-resistant Acinetobacter baumannii,Z22.34,2024,2027
+Z22.341,Carrier of carbapenem-sensitive Acinetobacter baumannii,Z22.34,2024,2027
+Z22.349,"Carrier of Acinetobacter baumannii, unspecified",Z22.34,2024,2027
+Z22.35,Carrier of Enterobacterales,Z22.3,2024,2027
+Z22.350,Carrier of carbapenem-resistant Enterobacterales,Z22.35,2024,2027
+Z22.358,Carrier of other Enterobacterales,Z22.35,2024,2027
+Z22.359,"Carrier of Enterobacterales, unspecified",Z22.35,2024,2027
+Z22.39,Carrier of other specified bacterial diseases,Z22.3,2016,2027
+Z22.4,Carrier of infections with a predominantly sexual mode of transmission,Z22,2016,2027
+Z22.5,Carrier of viral hepatitis,Z22,2016,2016
+Z22.50,Carrier of unspecified viral hepatitis,Z22.5,2016,2016
+Z22.51,Carrier of viral hepatitis B,Z22.5,2016,2016
+Z22.52,Carrier of viral hepatitis C,Z22.5,2016,2016
+Z22.59,Carrier of other viral hepatitis,Z22.5,2016,2016
+Z22.6,Carrier of human T-lymphotropic virus type-1 [HTLV-1] infection,Z22,2016,2027
+Z22.7,Latent tuberculosis,Z22,2020,2027
+Z22.8,Carrier of other infectious diseases,Z22,2016,2027
+Z22.9,"Carrier of infectious disease, unspecified",Z22,2016,2027
+Z23,Encounter for immunization,,2016,2027
+Z28,Immunization not carried out and underimmunization status,,2016,2027
+Z28.0,Immunization not carried out because of contraindication,Z28,2016,2027
+Z28.01,Immunization not carried out because of acute illness of patient,Z28.0,2016,2027
+Z28.02,Immunization not carried out because of chronic illness or condition of patient,Z28.0,2016,2027
+Z28.03,Immunization not carried out because of immune compromised state of patient,Z28.0,2016,2027
+Z28.04,Immunization not carried out because of patient allergy to vaccine or component,Z28.0,2016,2027
+Z28.09,Immunization not carried out because of other contraindication,Z28.0,2016,2027
+Z28.1,Immunization not carried out because of patient decision for reasons of belief or group pressure,Z28,2016,2027
+Z28.2,Immunization not carried out because of patient decision for other and unspecified reason,Z28,2016,2027
+Z28.20,Immunization not carried out because of patient decision for unspecified reason,Z28.2,2016,2027
+Z28.21,Immunization not carried out because of patient refusal,Z28.2,2016,2027
+Z28.29,Immunization not carried out because of patient decision for other reason,Z28.2,2016,2027
+Z28.3,Underimmunization status,Z28,2016,2027
+Z28.31,Underimmunization for COVID-19 status,Z28.3,2023,2027
+Z28.310,Unvaccinated for COVID-19,Z28.31,2023,2027
+Z28.311,Partially vaccinated for COVID-19,Z28.31,2023,2027
+Z28.39,Other underimmunization status,Z28.3,2023,2027
+Z28.8,Immunization not carried out for other reason,Z28,2016,2027
+Z28.81,Immunization not carried out due to patient having had the disease,Z28.8,2016,2027
+Z28.82,Immunization not carried out because of caregiver refusal,Z28.8,2016,2027
+Z28.83,Immunization not carried out due to unavailability of vaccine,Z28.8,2019,2027
+Z28.89,Immunization not carried out for other reason,Z28.8,2016,2027
+Z28.9,Immunization not carried out for unspecified reason,Z28,2016,2027
+Z29,Encounter for other prophylactic measures,,2017,2027
+Z29.1,Encounter for prophylactic immunotherapy,Z29,2017,2027
+Z29.11,Encounter for prophylactic immunotherapy for respiratory syncytial virus (RSV),Z29.1,2017,2027
+Z29.12,Encounter for prophylactic antivenin,Z29.1,2017,2027
+Z29.13,Encounter for prophylactic Rho(D) immune globulin,Z29.1,2017,2027
+Z29.14,Encounter for prophylactic rabies immune globulin,Z29.1,2017,2027
+Z29.3,Encounter for prophylactic fluoride administration,Z29,2017,2027
+Z29.8,Encounter for other specified prophylactic measures,Z29,2017,2027
+Z29.81,Encounter for HIV pre-exposure prophylaxis,Z29.8,2024,2027
+Z29.89,Encounter for other specified prophylactic measures,Z29.8,2024,2027
+Z29.9,"Encounter for prophylactic measures, unspecified",Z29,2017,2027
+Z30,Encounter for contraceptive management,,2016,2027
+Z30.0,Encounter for general counseling and advice on contraception,Z30,2016,2027
+Z30.01,Encounter for initial prescription of contraceptives,Z30.0,2016,2027
+Z30.011,Encounter for initial prescription of contraceptive pills,Z30.01,2016,2027
+Z30.012,Encounter for prescription of emergency contraception,Z30.01,2016,2027
+Z30.013,Encounter for initial prescription of injectable contraceptive,Z30.01,2016,2027
+Z30.014,Encounter for initial prescription of intrauterine contraceptive device,Z30.01,2016,2027
+Z30.015,Encounter for initial prescription of vaginal ring hormonal contraceptive,Z30.01,2017,2027
+Z30.016,Encounter for initial prescription of transdermal patch hormonal contraceptive device,Z30.01,2017,2027
+Z30.017,Encounter for initial prescription of implantable subdermal contraceptive,Z30.01,2017,2027
+Z30.018,Encounter for initial prescription of other contraceptives,Z30.01,2016,2027
+Z30.019,"Encounter for initial prescription of contraceptives, unspecified",Z30.01,2016,2027
+Z30.02,Counseling and instruction in natural family planning to avoid pregnancy,Z30.0,2016,2027
+Z30.09,Encounter for other general counseling and advice on contraception,Z30.0,2016,2027
+Z30.2,Encounter for sterilization,Z30,2016,2027
+Z30.4,Encounter for surveillance of contraceptives,Z30,2016,2027
+Z30.40,"Encounter for surveillance of contraceptives, unspecified",Z30.4,2016,2027
+Z30.41,Encounter for surveillance of contraceptive pills,Z30.4,2016,2027
+Z30.42,Encounter for surveillance of injectable contraceptive,Z30.4,2016,2027
+Z30.43,Encounter for surveillance of intrauterine contraceptive device,Z30.4,2016,2027
+Z30.430,Encounter for insertion of intrauterine contraceptive device,Z30.43,2016,2027
+Z30.431,Encounter for routine checking of intrauterine contraceptive device,Z30.43,2016,2027
+Z30.432,Encounter for removal of intrauterine contraceptive device,Z30.43,2016,2027
+Z30.433,Encounter for removal and reinsertion of intrauterine contraceptive device,Z30.43,2016,2027
+Z30.44,Encounter for surveillance of vaginal ring hormonal contraceptive device,Z30.4,2017,2027
+Z30.45,Encounter for surveillance of transdermal patch hormonal contraceptive device,Z30.4,2017,2027
+Z30.46,Encounter for surveillance of implantable subdermal contraceptive,Z30.4,2017,2027
+Z30.49,Encounter for surveillance of other contraceptives,Z30.4,2016,2027
+Z30.8,Encounter for other contraceptive management,Z30,2016,2027
+Z30.9,"Encounter for contraceptive management, unspecified",Z30,2016,2027
+Z31,Encounter for procreative management,,2016,2027
+Z31.0,Encounter for reversal of previous sterilization,Z31,2016,2027
+Z31.4,Encounter for procreative investigation and testing,Z31,2016,2027
+Z31.41,Encounter for fertility testing,Z31.4,2016,2027
+Z31.42,Aftercare following sterilization reversal,Z31.4,2016,2027
+Z31.43,Encounter for genetic testing of female for procreative management,Z31.4,2016,2027
+Z31.430,Encounter of female for testing for genetic disease carrier status for procreative management,Z31.43,2016,2027
+Z31.438,Encounter for other genetic testing of female for procreative management,Z31.43,2016,2027
+Z31.44,Encounter for genetic testing of male for procreative management,Z31.4,2016,2027
+Z31.440,Encounter of male for testing for genetic disease carrier status for procreative management,Z31.44,2016,2027
+Z31.441,Encounter for testing of male partner of patient with recurrent pregnancy loss,Z31.44,2016,2027
+Z31.448,Encounter for other genetic testing of male for procreative management,Z31.44,2016,2027
+Z31.49,Encounter for other procreative investigation and testing,Z31.4,2016,2027
+Z31.5,Encounter for procreative genetic counseling,Z31,2016,2027
+Z31.6,Encounter for general counseling and advice on procreation,Z31,2016,2027
+Z31.61,Procreative counseling and advice using natural family planning,Z31.6,2016,2027
+Z31.62,Encounter for fertility preservation counseling,Z31.6,2016,2027
+Z31.69,Encounter for other general counseling and advice on procreation,Z31.6,2016,2027
+Z31.7,Encounter for procreative management and counseling for gestational carrier,Z31,2017,2027
+Z31.8,Encounter for other procreative management,Z31,2016,2027
+Z31.81,Encounter for male factor infertility in female patient,Z31.8,2016,2027
+Z31.82,Encounter for Rh incompatibility status,Z31.8,2016,2027
+Z31.83,Encounter for assisted reproductive fertility procedure cycle,Z31.8,2016,2027
+Z31.84,Encounter for fertility preservation procedure,Z31.8,2016,2027
+Z31.89,Encounter for other procreative management,Z31.8,2016,2027
+Z31.9,"Encounter for procreative management, unspecified",Z31,2016,2027
+Z32,Encounter for pregnancy test and childbirth and childcare instruction,,2016,2027
+Z32.0,Encounter for pregnancy test,Z32,2016,2027
+Z32.00,"Encounter for pregnancy test, result unknown",Z32.0,2016,2027
+Z32.01,"Encounter for pregnancy test, result positive",Z32.0,2016,2027
+Z32.02,"Encounter for pregnancy test, result negative",Z32.0,2016,2027
+Z32.2,Encounter for childbirth instruction,Z32,2016,2027
+Z32.3,Encounter for childcare instruction,Z32,2016,2027
+Z33,Pregnant state,,2016,2027
+Z33.1,"Pregnant state, incidental",Z33,2016,2027
+Z33.2,Encounter for elective termination of pregnancy,Z33,2016,2027
+Z33.3,"Pregnant state, gestational carrier",Z33,2017,2027
+Z34,Encounter for supervision of normal pregnancy,,2016,2027
+Z34.0,Encounter for supervision of normal first pregnancy,Z34,2016,2027
+Z34.00,"Encounter for supervision of normal first pregnancy, unspecified trimester",Z34.0,2016,2027
+Z34.01,"Encounter for supervision of normal first pregnancy, first trimester",Z34.0,2016,2027
+Z34.02,"Encounter for supervision of normal first pregnancy, second trimester",Z34.0,2016,2027
+Z34.03,"Encounter for supervision of normal first pregnancy, third trimester",Z34.0,2016,2027
+Z34.8,Encounter for supervision of other normal pregnancy,Z34,2016,2027
+Z34.80,"Encounter for supervision of other normal pregnancy, unspecified trimester",Z34.8,2016,2027
+Z34.81,"Encounter for supervision of other normal pregnancy, first trimester",Z34.8,2016,2027
+Z34.82,"Encounter for supervision of other normal pregnancy, second trimester",Z34.8,2016,2027
+Z34.83,"Encounter for supervision of other normal pregnancy, third trimester",Z34.8,2016,2027
+Z34.9,"Encounter for supervision of normal pregnancy, unspecified",Z34,2016,2027
+Z34.90,"Encounter for supervision of normal pregnancy, unspecified, unspecified trimester",Z34.9,2016,2027
+Z34.91,"Encounter for supervision of normal pregnancy, unspecified, first trimester",Z34.9,2016,2027
+Z34.92,"Encounter for supervision of normal pregnancy, unspecified, second trimester",Z34.9,2016,2027
+Z34.93,"Encounter for supervision of normal pregnancy, unspecified, third trimester",Z34.9,2016,2027
+Z36,Encounter for antenatal screening of mother,,2016,2027
+Z36.0,Encounter for antenatal screening for chromosomal anomalies,Z36,2018,2027
+Z36.1,Encounter for antenatal screening for raised alphafetoprotein level,Z36,2018,2027
+Z36.2,Encounter for other antenatal screening follow-up,Z36,2018,2027
+Z36.3,Encounter for antenatal screening for malformations,Z36,2018,2027
+Z36.4,Encounter for antenatal screening for fetal growth retardation,Z36,2018,2027
+Z36.5,Encounter for antenatal screening for isoimmunization,Z36,2018,2027
+Z36.8,Encounter for other antenatal screening,Z36,2018,2027
+Z36.81,Encounter for antenatal screening for hydrops fetalis,Z36.8,2018,2027
+Z36.82,Encounter for antenatal screening for nuchal translucency,Z36.8,2018,2027
+Z36.83,Encounter for fetal screening for congenital cardiac abnormalities,Z36.8,2018,2027
+Z36.84,Encounter for antenatal screening for fetal lung maturity,Z36.8,2018,2027
+Z36.85,Encounter for antenatal screening for Streptococcus B,Z36.8,2018,2027
+Z36.86,Encounter for antenatal screening for cervical length,Z36.8,2018,2027
+Z36.87,Encounter for antenatal screening for uncertain dates,Z36.8,2018,2027
+Z36.88,Encounter for antenatal screening for fetal macrosomia,Z36.8,2018,2027
+Z36.89,Encounter for other specified antenatal screening,Z36.8,2018,2027
+Z36.8A,Encounter for antenatal screening for other genetic defects,Z36.8,2018,2027
+Z36.9,"Encounter for antenatal screening, unspecified",Z36,2018,2027
+Z37,Outcome of delivery,,2016,2027
+Z37.0,Single live birth,Z37,2016,2027
+Z37.1,Single stillbirth,Z37,2016,2027
+Z37.2,"Twins, both liveborn",Z37,2016,2027
+Z37.3,"Twins, one liveborn and one stillborn",Z37,2016,2027
+Z37.4,"Twins, both stillborn",Z37,2016,2027
+Z37.5,"Other multiple births, all liveborn",Z37,2016,2027
+Z37.50,"Multiple births, unspecified, all liveborn",Z37.5,2016,2027
+Z37.51,"Triplets, all liveborn",Z37.5,2016,2027
+Z37.52,"Quadruplets, all liveborn",Z37.5,2016,2027
+Z37.53,"Quintuplets, all liveborn",Z37.5,2016,2027
+Z37.54,"Sextuplets, all liveborn",Z37.5,2016,2027
+Z37.59,"Other multiple births, all liveborn",Z37.5,2016,2027
+Z37.6,"Other multiple births, some liveborn",Z37,2016,2027
+Z37.60,"Multiple births, unspecified, some liveborn",Z37.6,2016,2027
+Z37.61,"Triplets, some liveborn",Z37.6,2016,2027
+Z37.62,"Quadruplets, some liveborn",Z37.6,2016,2027
+Z37.63,"Quintuplets, some liveborn",Z37.6,2016,2027
+Z37.64,"Sextuplets, some liveborn",Z37.6,2016,2027
+Z37.69,"Other multiple births, some liveborn",Z37.6,2016,2027
+Z37.7,"Other multiple births, all stillborn",Z37,2016,2027
+Z37.9,"Outcome of delivery, unspecified",Z37,2016,2027
+Z38,Liveborn infants according to place of birth and type of delivery,,2016,2027
+Z38.0,"Single liveborn infant, born in hospital",Z38,2016,2027
+Z38.00,"Single liveborn infant, delivered vaginally",Z38.0,2016,2027
+Z38.01,"Single liveborn infant, delivered by cesarean",Z38.0,2016,2027
+Z38.1,"Single liveborn infant, born outside hospital",Z38,2016,2027
+Z38.2,"Single liveborn infant, unspecified as to place of birth",Z38,2016,2027
+Z38.3,"Twin liveborn infant, born in hospital",Z38,2016,2027
+Z38.30,"Twin liveborn infant, delivered vaginally",Z38.3,2016,2027
+Z38.31,"Twin liveborn infant, delivered by cesarean",Z38.3,2016,2027
+Z38.4,"Twin liveborn infant, born outside hospital",Z38,2016,2027
+Z38.5,"Twin liveborn infant, unspecified as to place of birth",Z38,2016,2027
+Z38.6,"Other multiple liveborn infant, born in hospital",Z38,2016,2027
+Z38.61,"Triplet liveborn infant, delivered vaginally",Z38.6,2016,2027
+Z38.62,"Triplet liveborn infant, delivered by cesarean",Z38.6,2016,2027
+Z38.63,"Quadruplet liveborn infant, delivered vaginally",Z38.6,2016,2027
+Z38.64,"Quadruplet liveborn infant, delivered by cesarean",Z38.6,2016,2027
+Z38.65,"Quintuplet liveborn infant, delivered vaginally",Z38.6,2016,2027
+Z38.66,"Quintuplet liveborn infant, delivered by cesarean",Z38.6,2016,2027
+Z38.68,"Other multiple liveborn infant, delivered vaginally",Z38.6,2016,2027
+Z38.69,"Other multiple liveborn infant, delivered by cesarean",Z38.6,2016,2027
+Z38.7,"Other multiple liveborn infant, born outside hospital",Z38,2016,2027
+Z38.8,"Other multiple liveborn infant, unspecified as to place of birth",Z38,2016,2027
+Z39,Encounter for maternal postpartum care and examination,,2016,2027
+Z39.0,Encounter for care and examination of mother immediately after delivery,Z39,2016,2027
+Z39.1,Encounter for care and examination of lactating mother,Z39,2016,2027
+Z39.2,Encounter for routine postpartum follow-up,Z39,2016,2027
+Z3A,Weeks of gestation,,2016,2027
+Z3A.0,"Weeks of gestation of pregnancy, unspecified or less than 10 weeks",Z3A,2016,2027
+Z3A.00,Weeks of gestation of pregnancy not specified,Z3A.0,2016,2027
+Z3A.01,Less than 8 weeks gestation of pregnancy,Z3A.0,2016,2027
+Z3A.08,8 weeks gestation of pregnancy,Z3A.0,2016,2027
+Z3A.09,9 weeks gestation of pregnancy,Z3A.0,2016,2027
+Z3A.1,"Weeks of gestation of pregnancy, weeks 10-19",Z3A,2016,2027
+Z3A.10,10 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.11,11 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.12,12 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.13,13 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.14,14 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.15,15 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.16,16 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.17,17 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.18,18 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.19,19 weeks gestation of pregnancy,Z3A.1,2016,2027
+Z3A.2,"Weeks of gestation of pregnancy, weeks 20-29",Z3A,2016,2027
+Z3A.20,20 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.21,21 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.22,22 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.23,23 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.24,24 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.25,25 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.26,26 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.27,27 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.28,28 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.29,29 weeks gestation of pregnancy,Z3A.2,2016,2027
+Z3A.3,"Weeks of gestation of pregnancy, weeks 30-39",Z3A,2016,2027
+Z3A.30,30 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.31,31 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.32,32 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.33,33 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.34,34 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.35,35 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.36,36 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.37,37 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.38,38 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.39,39 weeks gestation of pregnancy,Z3A.3,2016,2027
+Z3A.4,"Weeks of gestation of pregnancy, weeks 40 or greater",Z3A,2016,2027
+Z3A.40,40 weeks gestation of pregnancy,Z3A.4,2016,2027
+Z3A.41,41 weeks gestation of pregnancy,Z3A.4,2016,2027
+Z3A.42,42 weeks gestation of pregnancy,Z3A.4,2016,2027
+Z3A.49,Greater than 42 weeks gestation of pregnancy,Z3A.4,2016,2027
+Z40,Encounter for prophylactic surgery,,2016,2027
+Z40.0,Encounter for prophylactic surgery for risk factors related to malignant neoplasms,Z40,2016,2027
+Z40.00,Encounter for prophylactic removal of unspecified organ,Z40.0,2016,2027
+Z40.01,Encounter for prophylactic removal of breast,Z40.0,2016,2027
+Z40.02,Encounter for prophylactic removal of ovary(s),Z40.0,2016,2027
+Z40.03,Encounter for prophylactic removal of fallopian tube(s),Z40.0,2018,2027
+Z40.09,Encounter for prophylactic removal of other organ,Z40.0,2016,2027
+Z40.8,Encounter for other prophylactic surgery,Z40,2016,2027
+Z40.81,Encounter for prophylactic surgery for removal of ovary(s) for persons without known genetic/familial risk factors,Z40.8,2026,2027
+Z40.82,Encounter for prophylactic surgery for removal of fallopian tube(s) for persons without known genetic/familial risk factors,Z40.8,2026,2027
+Z40.89,Encounter for other prophylactic surgery,Z40.8,2026,2027
+Z40.9,"Encounter for prophylactic surgery, unspecified",Z40,2016,2027
+Z41,Encounter for procedures for purposes other than remedying health state,,2016,2027
+Z41.1,Encounter for cosmetic surgery,Z41,2016,2027
+Z41.2,Encounter for routine and ritual male circumcision,Z41,2016,2027
+Z41.3,Encounter for ear piercing,Z41,2016,2027
+Z41.8,Encounter for other procedures for purposes other than remedying health state,Z41,2016,2027
+Z41.9,"Encounter for procedure for purposes other than remedying health state, unspecified",Z41,2016,2027
+Z42,Encounter for plastic and reconstructive surgery following medical procedure or healed injury,,2016,2027
+Z42.1,Encounter for breast reconstruction following mastectomy,Z42,2016,2027
+Z42.8,Encounter for other plastic and reconstructive surgery following medical procedure or healed injury,Z42,2016,2027
+Z43,Encounter for attention to artificial openings,,2016,2027
+Z43.0,Encounter for attention to tracheostomy,Z43,2016,2027
+Z43.1,Encounter for attention to gastrostomy,Z43,2016,2027
+Z43.2,Encounter for attention to ileostomy,Z43,2016,2027
+Z43.3,Encounter for attention to colostomy,Z43,2016,2027
+Z43.4,Encounter for attention to other artificial openings of digestive tract,Z43,2016,2027
+Z43.5,Encounter for attention to cystostomy,Z43,2016,2027
+Z43.6,Encounter for attention to other artificial openings of urinary tract,Z43,2016,2027
+Z43.7,Encounter for attention to artificial vagina,Z43,2016,2027
+Z43.8,Encounter for attention to other artificial openings,Z43,2016,2027
+Z43.9,Encounter for attention to unspecified artificial opening,Z43,2016,2027
+Z44,Encounter for fitting and adjustment of external prosthetic device,,2016,2027
+Z44.0,Encounter for fitting and adjustment of artificial arm,Z44,2016,2027
+Z44.00,Encounter for fitting and adjustment of unspecified artificial arm,Z44.0,2016,2027
+Z44.001,Encounter for fitting and adjustment of unspecified right artificial arm,Z44.00,2016,2027
+Z44.002,Encounter for fitting and adjustment of unspecified left artificial arm,Z44.00,2016,2027
+Z44.009,"Encounter for fitting and adjustment of unspecified artificial arm, unspecified arm",Z44.00,2016,2027
+Z44.01,Encounter for fitting and adjustment of complete artificial arm,Z44.0,2016,2027
+Z44.011,Encounter for fitting and adjustment of complete right artificial arm,Z44.01,2016,2027
+Z44.012,Encounter for fitting and adjustment of complete left artificial arm,Z44.01,2016,2027
+Z44.019,"Encounter for fitting and adjustment of complete artificial arm, unspecified arm",Z44.01,2016,2027
+Z44.02,Encounter for fitting and adjustment of partial artificial arm,Z44.0,2016,2027
+Z44.021,Encounter for fitting and adjustment of partial artificial right arm,Z44.02,2016,2027
+Z44.022,Encounter for fitting and adjustment of partial artificial left arm,Z44.02,2016,2027
+Z44.029,"Encounter for fitting and adjustment of partial artificial arm, unspecified arm",Z44.02,2016,2027
+Z44.1,Encounter for fitting and adjustment of artificial leg,Z44,2016,2027
+Z44.10,Encounter for fitting and adjustment of unspecified artificial leg,Z44.1,2016,2027
+Z44.101,Encounter for fitting and adjustment of unspecified right artificial leg,Z44.10,2016,2027
+Z44.102,Encounter for fitting and adjustment of unspecified left artificial leg,Z44.10,2016,2027
+Z44.109,"Encounter for fitting and adjustment of unspecified artificial leg, unspecified leg",Z44.10,2016,2027
+Z44.11,Encounter for fitting and adjustment of complete artificial leg,Z44.1,2016,2027
+Z44.111,Encounter for fitting and adjustment of complete right artificial leg,Z44.11,2016,2027
+Z44.112,Encounter for fitting and adjustment of complete left artificial leg,Z44.11,2016,2027
+Z44.119,"Encounter for fitting and adjustment of complete artificial leg, unspecified leg",Z44.11,2016,2027
+Z44.12,Encounter for fitting and adjustment of partial artificial leg,Z44.1,2016,2027
+Z44.121,Encounter for fitting and adjustment of partial artificial right leg,Z44.12,2016,2027
+Z44.122,Encounter for fitting and adjustment of partial artificial left leg,Z44.12,2016,2027
+Z44.129,"Encounter for fitting and adjustment of partial artificial leg, unspecified leg",Z44.12,2016,2027
+Z44.2,Encounter for fitting and adjustment of artificial eye,Z44,2016,2027
+Z44.20,"Encounter for fitting and adjustment of artificial eye, unspecified",Z44.2,2016,2027
+Z44.21,Encounter for fitting and adjustment of artificial right eye,Z44.2,2016,2027
+Z44.22,Encounter for fitting and adjustment of artificial left eye,Z44.2,2016,2027
+Z44.3,Encounter for fitting and adjustment of external breast prosthesis,Z44,2016,2027
+Z44.30,"Encounter for fitting and adjustment of external breast prosthesis, unspecified breast",Z44.3,2016,2027
+Z44.31,Encounter for fitting and adjustment of external right breast prosthesis,Z44.3,2016,2027
+Z44.32,Encounter for fitting and adjustment of external left breast prosthesis,Z44.3,2016,2027
+Z44.8,Encounter for fitting and adjustment of other external prosthetic devices,Z44,2016,2027
+Z44.9,Encounter for fitting and adjustment of unspecified external prosthetic device,Z44,2016,2027
+Z45,Encounter for adjustment and management of implanted device,,2016,2027
+Z45.0,Encounter for adjustment and management of cardiac device,Z45,2016,2027
+Z45.01,Encounter for adjustment and management of cardiac pacemaker,Z45.0,2016,2027
+Z45.010,Encounter for checking and testing of cardiac pacemaker pulse generator [battery],Z45.01,2016,2027
+Z45.018,Encounter for adjustment and management of other part of cardiac pacemaker,Z45.01,2016,2027
+Z45.02,Encounter for adjustment and management of automatic implantable cardiac defibrillator,Z45.0,2016,2027
+Z45.09,Encounter for adjustment and management of other cardiac device,Z45.0,2016,2027
+Z45.1,Encounter for adjustment and management of infusion pump,Z45,2016,2027
+Z45.2,Encounter for adjustment and management of vascular access device,Z45,2016,2027
+Z45.3,Encounter for adjustment and management of implanted devices of the special senses,Z45,2016,2027
+Z45.31,Encounter for adjustment and management of implanted visual substitution device,Z45.3,2016,2027
+Z45.32,Encounter for adjustment and management of implanted hearing device,Z45.3,2016,2027
+Z45.320,Encounter for adjustment and management of bone conduction device,Z45.32,2016,2027
+Z45.321,Encounter for adjustment and management of cochlear device,Z45.32,2016,2027
+Z45.328,Encounter for adjustment and management of other implanted hearing device,Z45.32,2016,2027
+Z45.4,Encounter for adjustment and management of implanted nervous system device,Z45,2016,2027
+Z45.41,Encounter for adjustment and management of cerebrospinal fluid drainage device,Z45.4,2016,2027
+Z45.42,Encounter for adjustment and management of neurostimulator,Z45.4,2016,2027
+Z45.49,Encounter for adjustment and management of other implanted nervous system device,Z45.4,2016,2027
+Z45.8,Encounter for adjustment and management of other implanted devices,Z45,2016,2027
+Z45.81,Encounter for adjustment or removal of breast implant,Z45.8,2016,2027
+Z45.811,Encounter for adjustment or removal of right breast implant,Z45.81,2016,2027
+Z45.812,Encounter for adjustment or removal of left breast implant,Z45.81,2016,2027
+Z45.819,Encounter for adjustment or removal of unspecified breast implant,Z45.81,2016,2027
+Z45.82,Encounter for adjustment or removal of myringotomy device (stent) (tube),Z45.8,2016,2027
+Z45.89,Encounter for adjustment and management of other implanted devices,Z45.8,2016,2027
+Z45.9,Encounter for adjustment and management of unspecified implanted device,Z45,2016,2027
+Z46,Encounter for fitting and adjustment of other devices,,2016,2027
+Z46.0,Encounter for fitting and adjustment of spectacles and contact lenses,Z46,2016,2027
+Z46.1,Encounter for fitting and adjustment of hearing aid,Z46,2016,2027
+Z46.2,Encounter for fitting and adjustment of other devices related to nervous system and special senses,Z46,2016,2027
+Z46.3,Encounter for fitting and adjustment of dental prosthetic device,Z46,2016,2027
+Z46.4,Encounter for fitting and adjustment of orthodontic device,Z46,2016,2027
+Z46.5,Encounter for fitting and adjustment of other gastrointestinal appliance and device,Z46,2016,2027
+Z46.51,Encounter for fitting and adjustment of gastric lap band,Z46.5,2016,2027
+Z46.59,Encounter for fitting and adjustment of other gastrointestinal appliance and device,Z46.5,2016,2027
+Z46.6,Encounter for fitting and adjustment of urinary device,Z46,2016,2027
+Z46.8,Encounter for fitting and adjustment of other specified devices,Z46,2016,2027
+Z46.81,Encounter for fitting and adjustment of insulin pump,Z46.8,2016,2027
+Z46.82,Encounter for fitting and adjustment of non-vascular catheter,Z46.8,2016,2027
+Z46.89,Encounter for fitting and adjustment of other specified devices,Z46.8,2016,2027
+Z46.9,Encounter for fitting and adjustment of unspecified device,Z46,2016,2027
+Z47,Orthopedic aftercare,,2016,2027
+Z47.1,Aftercare following joint replacement surgery,Z47,2016,2027
+Z47.2,Encounter for removal of internal fixation device,Z47,2016,2027
+Z47.3,Aftercare following explantation of joint prosthesis,Z47,2016,2027
+Z47.31,Aftercare following explantation of shoulder joint prosthesis,Z47.3,2016,2027
+Z47.32,Aftercare following explantation of hip joint prosthesis,Z47.3,2016,2027
+Z47.33,Aftercare following explantation of knee joint prosthesis,Z47.3,2016,2027
+Z47.8,Encounter for other orthopedic aftercare,Z47,2016,2027
+Z47.81,Encounter for orthopedic aftercare following surgical amputation,Z47.8,2016,2027
+Z47.82,Encounter for orthopedic aftercare following scoliosis surgery,Z47.8,2016,2027
+Z47.89,Encounter for other orthopedic aftercare,Z47.8,2016,2027
+Z48,Encounter for other postprocedural aftercare,,2016,2027
+Z48.0,"Encounter for attention to dressings, sutures and drains",Z48,2016,2027
+Z48.00,Encounter for change or removal of nonsurgical wound dressing,Z48.0,2016,2027
+Z48.01,Encounter for change or removal of surgical wound dressing,Z48.0,2016,2027
+Z48.02,Encounter for removal of sutures,Z48.0,2016,2027
+Z48.03,Encounter for change or removal of drains,Z48.0,2016,2027
+Z48.1,Encounter for planned postprocedural wound closure,Z48,2016,2027
+Z48.2,Encounter for aftercare following organ transplant,Z48,2016,2027
+Z48.21,Encounter for aftercare following heart transplant,Z48.2,2016,2027
+Z48.22,Encounter for aftercare following kidney transplant,Z48.2,2016,2027
+Z48.23,Encounter for aftercare following liver transplant,Z48.2,2016,2027
+Z48.24,Encounter for aftercare following lung transplant,Z48.2,2016,2027
+Z48.28,Encounter for aftercare following multiple organ transplant,Z48.2,2016,2027
+Z48.280,Encounter for aftercare following heart-lung transplant,Z48.28,2016,2027
+Z48.288,Encounter for aftercare following multiple organ transplant,Z48.28,2016,2027
+Z48.29,Encounter for aftercare following other organ transplant,Z48.2,2016,2027
+Z48.290,Encounter for aftercare following bone marrow transplant,Z48.29,2016,2027
+Z48.298,Encounter for aftercare following other organ transplant,Z48.29,2016,2027
+Z48.3,Aftercare following surgery for neoplasm,Z48,2016,2027
+Z48.8,Encounter for other specified postprocedural aftercare,Z48,2016,2027
+Z48.81,Encounter for surgical aftercare following surgery on specified body systems,Z48.8,2016,2027
+Z48.810,Encounter for surgical aftercare following surgery on the sense organs,Z48.81,2016,2027
+Z48.811,Encounter for surgical aftercare following surgery on the nervous system,Z48.81,2016,2027
+Z48.812,Encounter for surgical aftercare following surgery on the circulatory system,Z48.81,2016,2027
+Z48.813,Encounter for surgical aftercare following surgery on the respiratory system,Z48.81,2016,2027
+Z48.814,Encounter for surgical aftercare following surgery on the teeth or oral cavity,Z48.81,2016,2027
+Z48.815,Encounter for surgical aftercare following surgery on the digestive system,Z48.81,2016,2027
+Z48.816,Encounter for surgical aftercare following surgery on the genitourinary system,Z48.81,2016,2027
+Z48.817,Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue,Z48.81,2016,2027
+Z48.89,Encounter for other specified surgical aftercare,Z48.8,2016,2027
+Z49,Encounter for care involving renal dialysis,,2016,2027
+Z49.0,Preparatory care for renal dialysis,Z49,2016,2027
+Z49.01,Encounter for fitting and adjustment of extracorporeal dialysis catheter,Z49.0,2016,2027
+Z49.02,Encounter for fitting and adjustment of peritoneal dialysis catheter,Z49.0,2016,2027
+Z49.3,Encounter for adequacy testing for dialysis,Z49,2016,2027
+Z49.31,Encounter for adequacy testing for hemodialysis,Z49.3,2016,2027
+Z49.32,Encounter for adequacy testing for peritoneal dialysis,Z49.3,2016,2027
+Z51,Encounter for other aftercare and medical care,,2016,2027
+Z51.0,Encounter for antineoplastic radiation therapy,Z51,2016,2027
+Z51.1,Encounter for antineoplastic chemotherapy and immunotherapy,Z51,2016,2027
+Z51.11,Encounter for antineoplastic chemotherapy,Z51.1,2016,2027
+Z51.12,Encounter for antineoplastic immunotherapy,Z51.1,2016,2027
+Z51.5,Encounter for palliative care,Z51,2016,2027
+Z51.6,Encounter for desensitization to allergens,Z51,2017,2027
+Z51.8,Encounter for other specified aftercare,Z51,2016,2027
+Z51.81,Encounter for therapeutic drug level monitoring,Z51.8,2016,2027
+Z51.89,Encounter for other specified aftercare,Z51.8,2016,2027
+Z51.A,Encounter for sepsis aftercare,Z51,2025,2027
+Z52,Donors of organs and tissues,,2016,2027
+Z52.0,Blood donor,Z52,2016,2027
+Z52.00,Unspecified blood donor,Z52.0,2016,2027
+Z52.000,"Unspecified donor, whole blood",Z52.00,2016,2027
+Z52.001,"Unspecified donor, stem cells",Z52.00,2016,2027
+Z52.008,"Unspecified donor, other blood",Z52.00,2016,2027
+Z52.01,Autologous blood donor,Z52.0,2016,2027
+Z52.010,"Autologous donor, whole blood",Z52.01,2016,2027
+Z52.011,"Autologous donor, stem cells",Z52.01,2016,2027
+Z52.018,"Autologous donor, other blood",Z52.01,2016,2027
+Z52.09,Other blood donor,Z52.0,2016,2027
+Z52.090,"Other blood donor, whole blood",Z52.09,2016,2027
+Z52.091,"Other blood donor, stem cells",Z52.09,2016,2027
+Z52.098,"Other blood donor, other blood",Z52.09,2016,2027
+Z52.1,Skin donor,Z52,2016,2027
+Z52.10,"Skin donor, unspecified",Z52.1,2016,2027
+Z52.11,"Skin donor, autologous",Z52.1,2016,2027
+Z52.19,"Skin donor, other",Z52.1,2016,2027
+Z52.2,Bone donor,Z52,2016,2027
+Z52.20,"Bone donor, unspecified",Z52.2,2016,2027
+Z52.21,"Bone donor, autologous",Z52.2,2016,2027
+Z52.29,"Bone donor, other",Z52.2,2016,2027
+Z52.3,Bone marrow donor,Z52,2016,2027
+Z52.4,Kidney donor,Z52,2016,2027
+Z52.5,Cornea donor,Z52,2016,2027
+Z52.6,Liver donor,Z52,2016,2027
+Z52.8,Donor of other specified organs or tissues,Z52,2016,2027
+Z52.81,Egg (Oocyte) donor,Z52.8,2016,2027
+Z52.810,"Egg (Oocyte) donor under age 35, anonymous recipient",Z52.81,2016,2027
+Z52.811,"Egg (Oocyte) donor under age 35, designated recipient",Z52.81,2016,2027
+Z52.812,"Egg (Oocyte) donor age 35 and over, anonymous recipient",Z52.81,2016,2027
+Z52.813,"Egg (Oocyte) donor age 35 and over, designated recipient",Z52.81,2016,2027
+Z52.819,"Egg (Oocyte) donor, unspecified",Z52.81,2016,2027
+Z52.89,Donor of other specified organs or tissues,Z52.8,2016,2027
+Z52.9,Donor of unspecified organ or tissue,Z52,2016,2027
+Z53,"Persons encountering health services for specific procedures and treatment, not carried out",,2016,2027
+Z53.0,Procedure and treatment not carried out because of contraindication,Z53,2016,2027
+Z53.01,Procedure and treatment not carried out due to patient smoking,Z53.0,2016,2027
+Z53.09,Procedure and treatment not carried out because of other contraindication,Z53.0,2016,2027
+Z53.1,Procedure and treatment not carried out because of patient's decision for reasons of belief and group pressure,Z53,2016,2027
+Z53.2,Procedure and treatment not carried out because of patient's decision for other and unspecified reasons,Z53,2016,2027
+Z53.20,Procedure and treatment not carried out because of patient's decision for unspecified reasons,Z53.2,2016,2027
+Z53.21,Procedure and treatment not carried out due to patient leaving prior to being seen by health care provider,Z53.2,2016,2027
+Z53.29,Procedure and treatment not carried out because of patient's decision for other reasons,Z53.2,2016,2027
+Z53.3,Procedure converted to open procedure,Z53,2017,2027
+Z53.31,Laparoscopic surgical procedure converted to open procedure,Z53.3,2017,2027
+Z53.32,Thoracoscopic surgical procedure converted to open procedure,Z53.3,2017,2027
+Z53.33,Arthroscopic surgical procedure converted to open procedure,Z53.3,2017,2027
+Z53.39,Other specified procedure converted to open procedure,Z53.3,2017,2027
+Z53.8,Procedure and treatment not carried out for other reasons,Z53,2016,2027
+Z53.9,"Procedure and treatment not carried out, unspecified reason",Z53,2016,2027
+Z55,Problems related to education and literacy,,2016,2027
+Z55.0,Illiteracy and low-level literacy,Z55,2016,2027
+Z55.1,Schooling unavailable and unattainable,Z55,2016,2027
+Z55.2,Failed school examinations,Z55,2016,2027
+Z55.3,Underachievement in school,Z55,2016,2027
+Z55.4,Educational maladjustment and discord with teachers and classmates,Z55,2016,2027
+Z55.5,Less than a high school diploma,Z55,2022,2027
+Z55.6,Problems related to health literacy,Z55,2023,2027
+Z55.8,Other problems related to education and literacy,Z55,2016,2027
+Z55.9,"Problems related to education and literacy, unspecified",Z55,2016,2027
+Z56,Problems related to employment and unemployment,,2016,2027
+Z56.0,"Unemployment, unspecified",Z56,2016,2027
+Z56.1,Change of job,Z56,2016,2027
+Z56.2,Threat of job loss,Z56,2016,2027
+Z56.3,Stressful work schedule,Z56,2016,2027
+Z56.4,Discord with boss and workmates,Z56,2016,2027
+Z56.5,Uncongenial work environment,Z56,2016,2027
+Z56.6,Other physical and mental strain related to work,Z56,2016,2027
+Z56.8,Other problems related to employment,Z56,2016,2027
+Z56.81,Sexual harassment on the job,Z56.8,2016,2027
+Z56.82,Military deployment status,Z56.8,2016,2027
+Z56.89,Other problems related to employment,Z56.8,2016,2027
+Z56.9,Unspecified problems related to employment,Z56,2016,2027
+Z57,Occupational exposure to risk factors,,2016,2027
+Z57.0,Occupational exposure to noise,Z57,2016,2027
+Z57.1,Occupational exposure to radiation,Z57,2016,2027
+Z57.2,Occupational exposure to dust,Z57,2016,2027
+Z57.3,Occupational exposure to other air contaminants,Z57,2016,2027
+Z57.31,Occupational exposure to environmental tobacco smoke,Z57.3,2016,2027
+Z57.39,Occupational exposure to other air contaminants,Z57.3,2016,2027
+Z57.4,Occupational exposure to toxic agents in agriculture,Z57,2016,2027
+Z57.5,Occupational exposure to toxic agents in other industries,Z57,2016,2027
+Z57.6,Occupational exposure to extreme temperature,Z57,2016,2027
+Z57.7,Occupational exposure to vibration,Z57,2016,2027
+Z57.8,Occupational exposure to other risk factors,Z57,2016,2027
+Z57.9,Occupational exposure to unspecified risk factor,Z57,2016,2027
+Z58,Problems related to physical environment,,2022,2027
+Z58.6,Inadequate drinking-water supply,Z58,2022,2027
+Z58.8,Other problems related to physical environment,Z58,2023,2027
+Z58.81,Basic services unavailable in physical environment,Z58.8,2023,2027
+Z58.89,Other problems related to physical environment,Z58.8,2023,2027
+Z59,Problems related to housing and economic circumstances,,2016,2027
+Z59.0,Homelessness,Z59,2016,2027
+Z59.00,Homelessness unspecified,Z59.0,2022,2027
+Z59.01,Sheltered homelessness,Z59.0,2022,2027
+Z59.02,Unsheltered homelessness,Z59.0,2022,2027
+Z59.1,Inadequate housing,Z59,2016,2027
+Z59.10,"Inadequate housing, unspecified",Z59.1,2023,2027
+Z59.11,Inadequate housing environmental temperature,Z59.1,2023,2027
+Z59.12,Inadequate housing utilities,Z59.1,2023,2027
+Z59.19,Other inadequate housing,Z59.1,2023,2027
+Z59.2,"Discord with neighbors, lodgers and landlord",Z59,2016,2027
+Z59.3,Problems related to living in residential institution,Z59,2016,2027
+Z59.4,Lack of adequate food,Z59,2016,2027
+Z59.41,Food insecurity,Z59.4,2022,2027
+Z59.48,Other specified lack of adequate food,Z59.4,2022,2027
+Z59.5,Extreme poverty,Z59,2016,2027
+Z59.6,Low income,Z59,2016,2027
+Z59.7,Insufficient social insurance and welfare support,Z59,2016,2027
+Z59.71,Insufficient health insurance coverage,Z59.7,2025,2027
+Z59.72,Insufficient welfare support,Z59.7,2025,2027
+Z59.8,Other problems related to housing and economic circumstances,Z59,2016,2027
+Z59.81,"Housing instability, housed",Z59.8,2022,2027
+Z59.811,"Housing instability, housed, with risk of homelessness",Z59.81,2022,2027
+Z59.812,"Housing instability, housed, homelessness in past 12 months",Z59.81,2022,2027
+Z59.819,"Housing instability, housed unspecified",Z59.81,2022,2027
+Z59.82,Transportation insecurity,Z59.8,2023,2027
+Z59.86,Financial insecurity,Z59.8,2023,2027
+Z59.861,"Financial insecurity, difficulty paying for utilities",Z59.86,2026,2027
+Z59.868,Other specified financial insecurity,Z59.86,2026,2027
+Z59.869,"Financial insecurity, unspecified",Z59.86,2026,2027
+Z59.87,"Material hardship due to limited financial resources, not elsewhere classified",Z59.8,2023,2027
+Z59.89,Other problems related to housing and economic circumstances,Z59.8,2022,2027
+Z59.9,"Problem related to housing and economic circumstances, unspecified",Z59,2016,2027
+Z60,Problems related to social environment,,2016,2027
+Z60.0,Problems of adjustment to life-cycle transitions,Z60,2016,2027
+Z60.2,Problems related to living alone,Z60,2016,2027
+Z60.3,Acculturation difficulty,Z60,2016,2027
+Z60.4,Social exclusion and rejection,Z60,2016,2027
+Z60.5,Target of (perceived) adverse discrimination and persecution,Z60,2016,2027
+Z60.8,Other problems related to social environment,Z60,2016,2027
+Z60.9,"Problem related to social environment, unspecified",Z60,2016,2027
+Z62,Problems related to upbringing,,2016,2027
+Z62.0,Inadequate parental supervision and control,Z62,2016,2027
+Z62.1,Parental overprotection,Z62,2016,2027
+Z62.2,Upbringing away from parents,Z62,2016,2027
+Z62.21,Child in welfare custody,Z62.2,2016,2027
+Z62.22,Institutional upbringing,Z62.2,2016,2027
+Z62.23,Child in custody of non-parental relative,Z62.2,2024,2027
+Z62.24,Child in custody of non-relative guardian,Z62.2,2024,2027
+Z62.29,Other upbringing away from parents,Z62.2,2016,2027
+Z62.3,Hostility towards and scapegoating of child,Z62,2016,2027
+Z62.6,Inappropriate (excessive) parental pressure,Z62,2016,2027
+Z62.8,Other specified problems related to upbringing,Z62,2016,2027
+Z62.81,Personal history of abuse in childhood,Z62.8,2016,2027
+Z62.810,Personal history of physical and sexual abuse in childhood,Z62.81,2016,2027
+Z62.811,Personal history of psychological abuse in childhood,Z62.81,2016,2027
+Z62.812,Personal history of neglect in childhood,Z62.81,2016,2027
+Z62.813,Personal history of forced labor or sexual exploitation in childhood,Z62.81,2019,2027
+Z62.814,Personal history of child financial abuse,Z62.81,2023,2027
+Z62.815,Personal history of intimate partner abuse in childhood,Z62.81,2023,2027
+Z62.819,Personal history of unspecified abuse in childhood,Z62.81,2016,2027
+Z62.82,Parent-child conflict,Z62.8,2016,2027
+Z62.820,Parent-biological child conflict,Z62.82,2016,2027
+Z62.821,Parent-adopted child conflict,Z62.82,2016,2027
+Z62.822,Parent-foster child conflict,Z62.82,2016,2027
+Z62.823,Parent-step child conflict,Z62.82,2024,2027
+Z62.83,Non-parental relative or guardian-child conflict,Z62.8,2024,2027
+Z62.831,Non-parental relative-child conflict,Z62.83,2024,2027
+Z62.832,Non-relative guardian-child conflict,Z62.83,2024,2027
+Z62.833,Group home staff-child conflict,Z62.83,2024,2027
+Z62.89,Other specified problems related to upbringing,Z62.8,2016,2027
+Z62.890,Parent-child estrangement NEC,Z62.89,2016,2027
+Z62.891,Sibling rivalry,Z62.89,2016,2027
+Z62.892,Runaway [from current living environment],Z62.89,2024,2027
+Z62.898,Other specified problems related to upbringing,Z62.89,2016,2027
+Z62.9,"Problem related to upbringing, unspecified",Z62,2016,2027
+Z63,"Other problems related to primary support group, including family circumstances",,2016,2027
+Z63.0,Problems in relationship with spouse or partner,Z63,2016,2027
+Z63.1,Problems in relationship with in-laws,Z63,2016,2027
+Z63.3,Absence of family member,Z63,2016,2027
+Z63.31,Absence of family member due to military deployment,Z63.3,2016,2027
+Z63.32,Other absence of family member,Z63.3,2016,2027
+Z63.4,Disappearance and death of family member,Z63,2016,2027
+Z63.5,Disruption of family by separation and divorce,Z63,2016,2027
+Z63.6,Dependent relative needing care at home,Z63,2016,2027
+Z63.7,Other stressful life events affecting family and household,Z63,2016,2027
+Z63.71,Stress on family due to return of family member from military deployment,Z63.7,2016,2027
+Z63.72,Alcoholism and drug addiction in family,Z63.7,2016,2027
+Z63.79,Other stressful life events affecting family and household,Z63.7,2016,2027
+Z63.8,Other specified problems related to primary support group,Z63,2016,2027
+Z63.9,"Problem related to primary support group, unspecified",Z63,2016,2027
+Z64,Problems related to certain psychosocial circumstances,,2016,2027
+Z64.0,Problems related to unwanted pregnancy,Z64,2016,2027
+Z64.1,Problems related to multiparity,Z64,2016,2027
+Z64.4,Discord with counselors,Z64,2016,2027
+Z65,Problems related to other psychosocial circumstances,,2016,2027
+Z65.0,Conviction in civil and criminal proceedings without imprisonment,Z65,2016,2027
+Z65.1,Imprisonment and other incarceration,Z65,2016,2027
+Z65.2,Problems related to release from prison,Z65,2016,2027
+Z65.3,Problems related to other legal circumstances,Z65,2016,2027
+Z65.4,Victim of crime and terrorism,Z65,2016,2027
+Z65.5,"Exposure to disaster, war and other hostilities",Z65,2016,2027
+Z65.8,Other specified problems related to psychosocial circumstances,Z65,2016,2027
+Z65.9,Problem related to unspecified psychosocial circumstances,Z65,2016,2027
+Z66,Do not resuscitate,,2016,2027
+Z67,Blood type,,2016,2027
+Z67.1,Type A blood,Z67,2016,2027
+Z67.10,"Type A blood, Rh positive",Z67.1,2016,2027
+Z67.11,"Type A blood, Rh negative",Z67.1,2016,2027
+Z67.2,Type B blood,Z67,2016,2027
+Z67.20,"Type B blood, Rh positive",Z67.2,2016,2027
+Z67.21,"Type B blood, Rh negative",Z67.2,2016,2027
+Z67.3,Type AB blood,Z67,2016,2027
+Z67.30,"Type AB blood, Rh positive",Z67.3,2016,2027
+Z67.31,"Type AB blood, Rh negative",Z67.3,2016,2027
+Z67.4,Type O blood,Z67,2016,2027
+Z67.40,"Type O blood, Rh positive",Z67.4,2016,2027
+Z67.41,"Type O blood, Rh negative",Z67.4,2016,2027
+Z67.9,Unspecified blood type,Z67,2016,2027
+Z67.90,"Unspecified blood type, Rh positive",Z67.9,2016,2027
+Z67.91,"Unspecified blood type, Rh negative",Z67.9,2016,2027
+Z67.A,Duffy phenotype,Z67,2025,2027
+Z67.A1,Duffy null,Z67.A,2025,2027
+Z67.A2,Duffy a positive,Z67.A,2025,2027
+Z67.A3,Duffy b positive,Z67.A,2025,2027
+Z67.A4,Duffy a and b positive,Z67.A,2025,2027
+Z68,Body mass index [BMI],,2016,2027
+Z68.1,"Body mass index [BMI] 19.9 or less, adult",Z68,2016,2027
+Z68.18,"Body mass index [BMI] 18.4 or less, adult",Z68.1,2027,2027
+Z68.19,"Body mass index [BMI] 18.5-19.9, adult",Z68.1,2027,2027
+Z68.2,"Body mass index [BMI] 20-29, adult",Z68,2016,2027
+Z68.20,"Body mass index [BMI] 20.0-20.9, adult",Z68.2,2016,2027
+Z68.21,"Body mass index [BMI] 21.0-21.9, adult",Z68.2,2016,2027
+Z68.22,"Body mass index [BMI] 22.0-22.9, adult",Z68.2,2016,2027
+Z68.23,"Body mass index [BMI] 23.0-23.9, adult",Z68.2,2016,2027
+Z68.24,"Body mass index [BMI] 24.0-24.9, adult",Z68.2,2016,2027
+Z68.25,"Body mass index [BMI] 25.0-25.9, adult",Z68.2,2016,2027
+Z68.26,"Body mass index [BMI] 26.0-26.9, adult",Z68.2,2016,2027
+Z68.27,"Body mass index [BMI] 27.0-27.9, adult",Z68.2,2016,2027
+Z68.28,"Body mass index [BMI] 28.0-28.9, adult",Z68.2,2016,2027
+Z68.29,"Body mass index [BMI] 29.0-29.9, adult",Z68.2,2016,2027
+Z68.3,"Body mass index [BMI] 30-39, adult",Z68,2016,2027
+Z68.30,"Body mass index [BMI] 30.0-30.9, adult",Z68.3,2016,2027
+Z68.31,"Body mass index [BMI] 31.0-31.9, adult",Z68.3,2016,2027
+Z68.32,"Body mass index [BMI] 32.0-32.9, adult",Z68.3,2016,2027
+Z68.33,"Body mass index [BMI] 33.0-33.9, adult",Z68.3,2016,2027
+Z68.34,"Body mass index [BMI] 34.0-34.9, adult",Z68.3,2016,2027
+Z68.35,"Body mass index [BMI] 35.0-35.9, adult",Z68.3,2016,2027
+Z68.36,"Body mass index [BMI] 36.0-36.9, adult",Z68.3,2016,2027
+Z68.37,"Body mass index [BMI] 37.0-37.9, adult",Z68.3,2016,2027
+Z68.38,"Body mass index [BMI] 38.0-38.9, adult",Z68.3,2016,2027
+Z68.39,"Body mass index [BMI] 39.0-39.9, adult",Z68.3,2016,2027
+Z68.4,"Body mass index [BMI] 40 or greater, adult",Z68,2016,2027
+Z68.41,"Body mass index [BMI] 40.0-44.9, adult",Z68.4,2016,2027
+Z68.42,"Body mass index [BMI] 45.0-49.9, adult",Z68.4,2016,2027
+Z68.43,"Body mass index [BMI] 50.0-59.9, adult",Z68.4,2016,2027
+Z68.44,"Body mass index [BMI] 60.0-69.9, adult",Z68.4,2016,2027
+Z68.45,"Body mass index [BMI] 70 or greater, adult",Z68.4,2016,2027
+Z68.5,Body mass index [BMI] pediatric,Z68,2016,2027
+Z68.51,"Body mass index [BMI] pediatric, less than 5th percentile for age",Z68.5,2016,2027
+Z68.52,"Body mass index [BMI] pediatric, 5th percentile to less than 85th percentile for age",Z68.5,2016,2027
+Z68.53,"Body mass index [BMI] pediatric, 85th percentile to less than 95th percentile for age",Z68.5,2016,2027
+Z68.54,"Body mass index [BMI] pediatric, 95th percentile for age to less than 120% of the 95th percentile for age",Z68.5,2016,2027
+Z68.55,"Body mass index [BMI] pediatric, 120% of the 95th percentile for age to less than 140% of the 95th percentile for age",Z68.5,2025,2027
+Z68.56,"Body mass index [BMI] pediatric, greater than or equal to 140% of the 95th percentile for age",Z68.5,2025,2027
+Z69,Encounter for mental health services for victim and perpetrator of abuse,,2016,2027
+Z69.0,Encounter for mental health services for child abuse problems,Z69,2016,2027
+Z69.01,Encounter for mental health services for parental child abuse,Z69.0,2016,2027
+Z69.010,Encounter for mental health services for victim of parental child abuse,Z69.01,2016,2027
+Z69.011,Encounter for mental health services for perpetrator of parental child abuse,Z69.01,2016,2027
+Z69.02,Encounter for mental health services for non-parental child abuse,Z69.0,2016,2027
+Z69.020,Encounter for mental health services for victim of non-parental child abuse,Z69.02,2016,2027
+Z69.021,Encounter for mental health services for perpetrator of non-parental child abuse,Z69.02,2016,2027
+Z69.1,Encounter for mental health services for spousal or partner abuse problems,Z69,2016,2027
+Z69.11,Encounter for mental health services for victim of spousal or partner abuse,Z69.1,2016,2027
+Z69.12,Encounter for mental health services for perpetrator of spousal or partner abuse,Z69.1,2016,2027
+Z69.8,Encounter for mental health services for victim or perpetrator of other abuse,Z69,2016,2027
+Z69.81,Encounter for mental health services for victim of other abuse,Z69.8,2016,2027
+Z69.82,Encounter for mental health services for perpetrator of other abuse,Z69.8,2016,2027
+Z70,"Counseling related to sexual attitude, behavior and orientation",,2016,2027
+Z70.0,Counseling related to sexual attitude,Z70,2016,2027
+Z70.1,Counseling related to patient's sexual behavior and orientation,Z70,2016,2027
+Z70.2,Counseling related to sexual behavior and orientation of third party,Z70,2016,2027
+Z70.3,"Counseling related to combined concerns regarding sexual attitude, behavior and orientation",Z70,2016,2027
+Z70.8,Other sex counseling,Z70,2016,2027
+Z70.9,"Sex counseling, unspecified",Z70,2016,2027
+Z71,"Persons encountering health services for other counseling and medical advice, not elsewhere classified",,2016,2027
+Z71.0,Person encountering health services to consult on behalf of another person,Z71,2016,2027
+Z71.1,Person with feared health complaint in whom no diagnosis is made,Z71,2016,2027
+Z71.2,Person consulting for explanation of examination or test findings,Z71,2016,2027
+Z71.3,Dietary counseling and surveillance,Z71,2016,2027
+Z71.4,Alcohol abuse counseling and surveillance,Z71,2016,2027
+Z71.41,Alcohol abuse counseling and surveillance of alcoholic,Z71.4,2016,2027
+Z71.42,Counseling for family member of alcoholic,Z71.4,2016,2027
+Z71.5,Drug abuse counseling and surveillance,Z71,2016,2027
+Z71.51,Drug abuse counseling and surveillance of drug abuser,Z71.5,2016,2027
+Z71.52,Counseling for family member of drug abuser,Z71.5,2016,2027
+Z71.6,Tobacco abuse counseling,Z71,2016,2027
+Z71.7,Human immunodeficiency virus [HIV] counseling,Z71,2016,2027
+Z71.8,Other specified counseling,Z71,2016,2027
+Z71.81,Spiritual or religious counseling,Z71.8,2016,2027
+Z71.82,Exercise counseling,Z71.8,2018,2027
+Z71.83,Encounter for nonprocreative genetic counseling,Z71.8,2018,2027
+Z71.84,Encounter for health counseling related to travel,Z71.8,2020,2027
+Z71.85,Encounter for immunization safety counseling,Z71.8,2022,2027
+Z71.87,Encounter for pediatric-to-adult transition counseling,Z71.8,2023,2027
+Z71.88,Encounter for counseling for socioeconomic factors,Z71.8,2023,2027
+Z71.89,Other specified counseling,Z71.8,2016,2027
+Z71.9,"Counseling, unspecified",Z71,2016,2027
+Z72,Problems related to lifestyle,,2016,2027
+Z72.0,Tobacco use,Z72,2016,2027
+Z72.3,Lack of physical exercise,Z72,2016,2027
+Z72.4,Inappropriate diet and eating habits,Z72,2016,2027
+Z72.5,High risk sexual behavior,Z72,2016,2027
+Z72.51,High risk heterosexual behavior,Z72.5,2016,2027
+Z72.52,High risk homosexual behavior,Z72.5,2016,2027
+Z72.53,High risk bisexual behavior,Z72.5,2016,2027
+Z72.6,Gambling and betting,Z72,2016,2027
+Z72.8,Other problems related to lifestyle,Z72,2016,2027
+Z72.81,Antisocial behavior,Z72.8,2016,2027
+Z72.810,Child and adolescent antisocial behavior,Z72.81,2016,2027
+Z72.811,Adult antisocial behavior,Z72.81,2016,2027
+Z72.82,Problems related to sleep,Z72.8,2016,2027
+Z72.820,Sleep deprivation,Z72.82,2016,2027
+Z72.821,Inadequate sleep hygiene,Z72.82,2016,2027
+Z72.823,Risk of suffocation (smothering) under another while sleeping,Z72.82,2023,2027
+Z72.89,Other problems related to lifestyle,Z72.8,2016,2027
+Z72.9,"Problem related to lifestyle, unspecified",Z72,2016,2027
+Z73,Problems related to life management difficulty,,2016,2027
+Z73.0,Burn-out,Z73,2016,2027
+Z73.1,Type A behavior pattern,Z73,2016,2027
+Z73.2,Lack of relaxation and leisure,Z73,2016,2027
+Z73.3,"Stress, not elsewhere classified",Z73,2016,2027
+Z73.4,"Inadequate social skills, not elsewhere classified",Z73,2016,2027
+Z73.5,"Social role conflict, not elsewhere classified",Z73,2016,2027
+Z73.6,Limitation of activities due to disability,Z73,2016,2027
+Z73.8,Other problems related to life management difficulty,Z73,2016,2027
+Z73.81,Behavioral insomnia of childhood,Z73.8,2016,2027
+Z73.810,"Behavioral insomnia of childhood, sleep-onset association type",Z73.81,2016,2027
+Z73.811,"Behavioral insomnia of childhood, limit setting type",Z73.81,2016,2027
+Z73.812,"Behavioral insomnia of childhood, combined type",Z73.81,2016,2027
+Z73.819,"Behavioral insomnia of childhood, unspecified type",Z73.81,2016,2027
+Z73.82,Dual sensory impairment,Z73.8,2016,2027
+Z73.89,Other problems related to life management difficulty,Z73.8,2016,2027
+Z73.9,"Problem related to life management difficulty, unspecified",Z73,2016,2027
+Z74,Problems related to care provider dependency,,2016,2027
+Z74.0,Reduced mobility,Z74,2016,2027
+Z74.01,Bed confinement status,Z74.0,2016,2027
+Z74.09,Other reduced mobility,Z74.0,2016,2027
+Z74.1,Need for assistance with personal care,Z74,2016,2027
+Z74.2,Need for assistance at home and no other household member able to render care,Z74,2016,2027
+Z74.3,Need for continuous supervision,Z74,2016,2027
+Z74.8,Other problems related to care provider dependency,Z74,2016,2027
+Z74.9,"Problem related to care provider dependency, unspecified",Z74,2016,2027
+Z75,Problems related to medical facilities and other health care,,2016,2027
+Z75.0,Medical services not available in home,Z75,2016,2027
+Z75.1,Person awaiting admission to adequate facility elsewhere,Z75,2016,2027
+Z75.2,Other waiting period for investigation and treatment,Z75,2016,2027
+Z75.3,Unavailability and inaccessibility of health-care facilities,Z75,2016,2027
+Z75.4,Unavailability and inaccessibility of other helping agencies,Z75,2016,2027
+Z75.5,Holiday relief care,Z75,2016,2027
+Z75.8,Other problems related to medical facilities and other health care,Z75,2016,2027
+Z75.9,Unspecified problem related to medical facilities and other health care,Z75,2016,2027
+Z76,Persons encountering health services in other circumstances,,2016,2027
+Z76.0,Encounter for issue of repeat prescription,Z76,2016,2027
+Z76.1,Encounter for health supervision and care of foundling,Z76,2016,2027
+Z76.2,Encounter for health supervision and care of other healthy infant and child,Z76,2016,2027
+Z76.3,Healthy person accompanying sick person,Z76,2016,2027
+Z76.4,Other boarder to healthcare facility,Z76,2016,2027
+Z76.5,Malingerer [conscious simulation],Z76,2016,2027
+Z76.8,Persons encountering health services in other specified circumstances,Z76,2016,2027
+Z76.81,Expectant parent(s) prebirth pediatrician visit,Z76.8,2016,2027
+Z76.82,Awaiting organ transplant status,Z76.8,2016,2027
+Z76.89,Persons encountering health services in other specified circumstances,Z76.8,2016,2027
+Z77,Other contact with and (suspected) exposures hazardous to health,,2016,2027
+Z77.0,"Contact with and (suspected) exposure to hazardous, chiefly nonmedicinal, chemicals",Z77,2016,2027
+Z77.01,Contact with and (suspected) exposure to hazardous metals,Z77.0,2016,2027
+Z77.010,Contact with and (suspected) exposure to arsenic,Z77.01,2016,2027
+Z77.011,Contact with and (suspected) exposure to lead,Z77.01,2016,2027
+Z77.012,Contact with and (suspected) exposure to uranium,Z77.01,2016,2027
+Z77.013,Contact with and (suspected) exposure to gadolinium,Z77.01,2027,2027
+Z77.018,Contact with and (suspected) exposure to other hazardous metals,Z77.01,2016,2027
+Z77.02,Contact with and (suspected) exposure to hazardous aromatic compounds,Z77.0,2016,2027
+Z77.020,Contact with and (suspected) exposure to aromatic amines,Z77.02,2016,2027
+Z77.021,Contact with and (suspected) exposure to benzene,Z77.02,2016,2027
+Z77.028,Contact with and (suspected) exposure to other hazardous aromatic compounds,Z77.02,2016,2027
+Z77.09,"Contact with and (suspected) exposure to other hazardous, chiefly nonmedicinal, chemicals",Z77.0,2016,2027
+Z77.090,Contact with and (suspected) exposure to asbestos,Z77.09,2016,2027
+Z77.098,"Contact with and (suspected) exposure to other hazardous, chiefly nonmedicinal, chemicals",Z77.09,2016,2027
+Z77.1,Contact with and (suspected) exposure to environmental pollution and hazards in the physical environment,Z77,2016,2027
+Z77.11,Contact with and (suspected) exposure to environmental pollution,Z77.1,2016,2027
+Z77.110,Contact with and (suspected) exposure to air pollution,Z77.11,2016,2027
+Z77.111,Contact with and (suspected) exposure to water pollution,Z77.11,2016,2027
+Z77.112,Contact with and (suspected) exposure to soil pollution,Z77.11,2016,2027
+Z77.118,Contact with and (suspected) exposure to other environmental pollution,Z77.11,2016,2027
+Z77.12,Contact with and (suspected) exposure to hazards in the physical environment,Z77.1,2016,2027
+Z77.120,Contact with and (suspected) exposure to mold (toxic),Z77.12,2016,2027
+Z77.121,Contact with and (suspected) exposure to harmful algae and algae toxins,Z77.12,2016,2027
+Z77.122,Contact with and (suspected) exposure to noise,Z77.12,2016,2027
+Z77.123,Contact with and (suspected) exposure to radon and other naturally occurring radiation,Z77.12,2016,2027
+Z77.128,Contact with and (suspected) exposure to other hazards in the physical environment,Z77.12,2016,2027
+Z77.2,Contact with and (suspected) exposure to other hazardous substances,Z77,2016,2027
+Z77.21,Contact with and (suspected) exposure to potentially hazardous body fluids,Z77.2,2016,2027
+Z77.22,Contact with and (suspected) exposure to environmental tobacco smoke (acute) (chronic),Z77.2,2016,2027
+Z77.29,Contact with and (suspected) exposure to other hazardous substances,Z77.2,2016,2027
+Z77.3,Contact with and (suspected) exposure to war theater,Z77,2026,2027
+Z77.31,Contact with and (suspected) exposure to Gulf War theater,Z77.3,2026,2027
+Z77.32,Contact with and (suspected) exposure to burn pits in war theater,Z77.3,2027,2027
+Z77.33,Contact with and (suspected) exposure to Agent Orange,Z77.3,2027,2027
+Z77.39,Contact with and (suspected) exposure to other war theater,Z77.3,2026,2027
+Z77.4,Contact with and (suspected) exposure to blast overpressure,Z77,2027,2027
+Z77.40,Contact with and (suspected) exposure to unspecified blast overpressure,Z77.4,2027,2027
+Z77.41,Contact with and (suspected) exposure to low-level blast overpressure,Z77.4,2027,2027
+Z77.42,Contact with and (suspected) exposure to high-level blast overpressure,Z77.4,2027,2027
+Z77.49,Contact with and (suspected) exposure to other blast overpressure,Z77.4,2027,2027
+Z77.9,Other contact with and (suspected) exposures hazardous to health,Z77,2016,2027
+Z78,Other specified health status,,2016,2027
+Z78.0,Asymptomatic menopausal state,Z78,2016,2027
+Z78.1,Physical restraint status,Z78,2016,2027
+Z78.9,Other specified health status,Z78,2016,2027
+Z79,Long term (current) drug therapy,,2016,2027
+Z79.0,Long term (current) use of anticoagulants and antithrombotics/antiplatelets,Z79,2016,2027
+Z79.01,Long term (current) use of anticoagulants,Z79.0,2016,2027
+Z79.02,Long term (current) use of antithrombotics/antiplatelets,Z79.0,2016,2027
+Z79.1,Long term (current) use of non-steroidal anti-inflammatories (NSAID),Z79,2016,2027
+Z79.2,Long term (current) use of antibiotics,Z79,2016,2027
+Z79.3,Long term (current) use of hormonal contraceptives,Z79,2016,2027
+Z79.4,Long term (current) use of insulin,Z79,2016,2027
+Z79.5,Long term (current) use of steroids,Z79,2016,2027
+Z79.51,Long term (current) use of inhaled steroids,Z79.5,2016,2027
+Z79.52,Long term (current) use of systemic steroids,Z79.5,2016,2027
+Z79.6,Long term (current) use of immunomodulators and immunosuppressants,Z79,2023,2027
+Z79.60,Long term (current) use of unspecified immunomodulators and immunosuppressants,Z79.6,2023,2027
+Z79.61,Long term (current) use of immunomodulator,Z79.6,2023,2027
+Z79.62,Long term (current) use of immunosuppressant,Z79.6,2023,2027
+Z79.620,Long term (current) use of immunosuppressive biologic,Z79.62,2023,2027
+Z79.621,Long term (current) use of calcineurin inhibitor,Z79.62,2023,2027
+Z79.622,Long term (current) use of Janus kinase inhibitor,Z79.62,2023,2027
+Z79.623,Long term (current) use of mammalian target of rapamycin (mTOR) inhibitor,Z79.62,2023,2027
+Z79.624,Long term (current) use of inhibitors of nucleotide synthesis,Z79.62,2023,2027
+Z79.63,Long term (current) use of chemotherapeutic agent,Z79.6,2023,2027
+Z79.630,Long term (current) use of alkylating agent,Z79.63,2023,2027
+Z79.631,Long term (current) use of antimetabolite agent,Z79.63,2023,2027
+Z79.632,Long term (current) use of antitumor antibiotic,Z79.63,2023,2027
+Z79.633,Long term (current) use of mitotic inhibitor,Z79.63,2023,2027
+Z79.634,Long term (current) use of topoisomerase inhibitor,Z79.63,2023,2027
+Z79.64,Long term (current) use of myelosuppressive agent,Z79.6,2023,2027
+Z79.69,Long term (current) use of other immunomodulators and immunosuppressants,Z79.6,2023,2027
+Z79.8,Other long term (current) drug therapy,Z79,2016,2027
+Z79.81,Long term (current) use of agents affecting estrogen receptors and estrogen levels,Z79.8,2016,2027
+Z79.810,Long term (current) use of selective estrogen receptor modulators (SERMs),Z79.81,2016,2027
+Z79.811,Long term (current) use of aromatase inhibitors,Z79.81,2016,2027
+Z79.818,Long term (current) use of other agents affecting estrogen receptors and estrogen levels,Z79.81,2016,2027
+Z79.82,Long term (current) use of aspirin,Z79.8,2016,2027
+Z79.83,Long term (current) use of bisphosphonates,Z79.8,2016,2027
+Z79.84,Long term (current) use of oral hypoglycemic drugs,Z79.8,2017,2027
+Z79.85,Long-term (current) use of injectable non-insulin antidiabetic drugs,Z79.8,2023,2027
+Z79.89,Other long term (current) drug therapy,Z79.8,2016,2027
+Z79.890,Hormone replacement therapy,Z79.89,2016,2027
+Z79.891,Long term (current) use of opiate analgesic,Z79.89,2016,2027
+Z79.899,Other long term (current) drug therapy,Z79.89,2016,2027
+Z80,Family history of primary malignant neoplasm,,2016,2027
+Z80.0,Family history of malignant neoplasm of digestive organs,Z80,2016,2027
+Z80.1,"Family history of malignant neoplasm of trachea, bronchus and lung",Z80,2016,2027
+Z80.2,Family history of malignant neoplasm of other respiratory and intrathoracic organs,Z80,2016,2027
+Z80.3,Family history of malignant neoplasm of breast,Z80,2016,2027
+Z80.4,Family history of malignant neoplasm of genital organs,Z80,2016,2027
+Z80.41,Family history of malignant neoplasm of ovary,Z80.4,2016,2027
+Z80.42,Family history of malignant neoplasm of prostate,Z80.4,2016,2027
+Z80.43,Family history of malignant neoplasm of testis,Z80.4,2016,2027
+Z80.44,Family history of malignant neoplasm of fallopian tube(s),Z80.4,2026,2027
+Z80.49,Family history of malignant neoplasm of other genital organs,Z80.4,2016,2027
+Z80.5,Family history of malignant neoplasm of urinary tract,Z80,2016,2027
+Z80.51,Family history of malignant neoplasm of kidney,Z80.5,2016,2027
+Z80.52,Family history of malignant neoplasm of bladder,Z80.5,2016,2027
+Z80.59,Family history of malignant neoplasm of other urinary tract organ,Z80.5,2016,2027
+Z80.6,Family history of leukemia,Z80,2016,2027
+Z80.7,"Family history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",Z80,2016,2027
+Z80.8,Family history of malignant neoplasm of other organs or systems,Z80,2016,2027
+Z80.9,"Family history of malignant neoplasm, unspecified",Z80,2016,2027
+Z81,Family history of mental and behavioral disorders,,2016,2027
+Z81.0,Family history of intellectual disabilities,Z81,2016,2027
+Z81.1,Family history of alcohol abuse and dependence,Z81,2016,2027
+Z81.2,Family history of tobacco abuse and dependence,Z81,2016,2027
+Z81.3,Family history of other psychoactive substance abuse and dependence,Z81,2016,2027
+Z81.4,Family history of other substance abuse and dependence,Z81,2016,2027
+Z81.8,Family history of other mental and behavioral disorders,Z81,2016,2027
+Z82,Family history of certain disabilities and chronic diseases (leading to disablement),,2016,2027
+Z82.0,Family history of epilepsy and other diseases of the nervous system,Z82,2016,2027
+Z82.1,Family history of blindness and visual loss,Z82,2016,2027
+Z82.2,Family history of deafness and hearing loss,Z82,2016,2027
+Z82.3,Family history of stroke,Z82,2016,2027
+Z82.4,Family history of ischemic heart disease and other diseases of the circulatory system,Z82,2016,2027
+Z82.41,Family history of sudden cardiac death,Z82.4,2016,2027
+Z82.49,Family history of ischemic heart disease and other diseases of the circulatory system,Z82.4,2016,2027
+Z82.5,Family history of asthma and other chronic lower respiratory diseases,Z82,2016,2027
+Z82.6,Family history of arthritis and other diseases of the musculoskeletal system and connective tissue,Z82,2016,2027
+Z82.61,Family history of arthritis,Z82.6,2016,2027
+Z82.62,Family history of osteoporosis,Z82.6,2016,2027
+Z82.69,Family history of other diseases of the musculoskeletal system and connective tissue,Z82.6,2016,2027
+Z82.7,"Family history of congenital malformations, deformations and chromosomal abnormalities",Z82,2016,2027
+Z82.71,Family history of polycystic kidney,Z82.7,2016,2027
+Z82.79,"Family history of other congenital malformations, deformations and chromosomal abnormalities",Z82.7,2016,2027
+Z82.8,"Family history of other disabilities and chronic diseases leading to disablement, not elsewhere classified",Z82,2016,2027
+Z83,Family history of other specific disorders,,2016,2027
+Z83.0,Family history of human immunodeficiency virus [HIV] disease,Z83,2016,2027
+Z83.1,Family history of other infectious and parasitic diseases,Z83,2016,2027
+Z83.2,Family history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Z83,2016,2027
+Z83.3,Family history of diabetes mellitus,Z83,2016,2027
+Z83.4,"Family history of other endocrine, nutritional and metabolic diseases",Z83,2016,2027
+Z83.41,Family history of multiple endocrine neoplasia [MEN] syndrome,Z83.4,2016,2027
+Z83.42,Family history of familial hypercholesterolemia,Z83.4,2017,2027
+Z83.43,Family history of other disorder of lipoprotein metabolism and other lipidemias,Z83.4,2019,2027
+Z83.430,Family history of elevated lipoprotein(a),Z83.43,2019,2027
+Z83.438,Family history of other disorder of lipoprotein metabolism and other lipidemia,Z83.43,2019,2027
+Z83.49,"Family history of other endocrine, nutritional and metabolic diseases",Z83.4,2016,2027
+Z83.5,Family history of eye and ear disorders,Z83,2016,2027
+Z83.51,Family history of eye disorders,Z83.5,2016,2027
+Z83.511,Family history of glaucoma,Z83.51,2016,2027
+Z83.518,Family history of other specified eye disorder,Z83.51,2016,2027
+Z83.52,Family history of ear disorders,Z83.5,2016,2027
+Z83.6,Family history of other diseases of the respiratory system,Z83,2016,2027
+Z83.7,Family history of diseases of the digestive system,Z83,2016,2027
+Z83.71,Family history of colonic polyps,Z83.7,2016,2027
+Z83.710,Family history of adenomatous and serrated polyps,Z83.71,2024,2027
+Z83.711,Family history of hyperplastic colon polyps,Z83.71,2024,2027
+Z83.718,Family history of other colon polyps,Z83.71,2024,2027
+Z83.719,"Family history of colon polyps, unspecified",Z83.71,2024,2027
+Z83.72,Family history of familial adenomatous polyposis,Z83.7,2025,2027
+Z83.79,Family history of other diseases of the digestive system,Z83.7,2016,2027
+Z84,Family history of other conditions,,2016,2027
+Z84.0,Family history of diseases of the skin and subcutaneous tissue,Z84,2016,2027
+Z84.1,Family history of disorders of kidney and ureter,Z84,2016,2027
+Z84.11,Family history of APOL1-mediated kidney disease [AMKD],Z84.1,2026,2027
+Z84.19,Family history of other disorders of kidney and ureter,Z84.1,2026,2027
+Z84.2,Family history of other diseases of the genitourinary system,Z84,2016,2027
+Z84.3,Family history of consanguinity,Z84,2016,2027
+Z84.8,Family history of other specified conditions,Z84,2016,2027
+Z84.81,Family history of carrier of genetic disease,Z84.8,2016,2027
+Z84.82,Family history of sudden infant death syndrome,Z84.8,2017,2027
+Z84.89,Family history of other specified conditions,Z84.8,2016,2027
+Z84.A,Family history of exposure to diethylstilbestrol,Z84,2026,2027
+Z85,Personal history of malignant neoplasm,,2016,2027
+Z85.0,Personal history of malignant neoplasm of digestive organs,Z85,2016,2027
+Z85.00,Personal history of malignant neoplasm of unspecified digestive organ,Z85.0,2016,2027
+Z85.01,Personal history of malignant neoplasm of esophagus,Z85.0,2016,2027
+Z85.02,Personal history of malignant neoplasm of stomach,Z85.0,2016,2027
+Z85.020,Personal history of malignant carcinoid tumor of stomach,Z85.02,2016,2027
+Z85.028,Personal history of other malignant neoplasm of stomach,Z85.02,2016,2027
+Z85.03,Personal history of malignant neoplasm of large intestine,Z85.0,2016,2027
+Z85.030,Personal history of malignant carcinoid tumor of large intestine,Z85.03,2016,2027
+Z85.038,Personal history of other malignant neoplasm of large intestine,Z85.03,2016,2027
+Z85.04,"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus",Z85.0,2016,2027
+Z85.040,Personal history of malignant carcinoid tumor of rectum,Z85.04,2016,2027
+Z85.048,"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus",Z85.04,2016,2027
+Z85.05,Personal history of malignant neoplasm of liver,Z85.0,2016,2027
+Z85.06,Personal history of malignant neoplasm of small intestine,Z85.0,2016,2027
+Z85.060,Personal history of malignant carcinoid tumor of small intestine,Z85.06,2016,2027
+Z85.068,Personal history of other malignant neoplasm of small intestine,Z85.06,2016,2027
+Z85.07,Personal history of malignant neoplasm of pancreas,Z85.0,2016,2027
+Z85.09,Personal history of malignant neoplasm of other digestive organs,Z85.0,2016,2027
+Z85.1,"Personal history of malignant neoplasm of trachea, bronchus and lung",Z85,2016,2027
+Z85.11,Personal history of malignant neoplasm of bronchus and lung,Z85.1,2016,2027
+Z85.110,Personal history of malignant carcinoid tumor of bronchus and lung,Z85.11,2016,2027
+Z85.118,Personal history of other malignant neoplasm of bronchus and lung,Z85.11,2016,2027
+Z85.12,Personal history of malignant neoplasm of trachea,Z85.1,2016,2027
+Z85.2,Personal history of malignant neoplasm of other respiratory and intrathoracic organs,Z85,2016,2027
+Z85.20,Personal history of malignant neoplasm of unspecified respiratory organ,Z85.2,2016,2027
+Z85.21,Personal history of malignant neoplasm of larynx,Z85.2,2016,2027
+Z85.22,"Personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses",Z85.2,2016,2027
+Z85.23,Personal history of malignant neoplasm of thymus,Z85.2,2016,2027
+Z85.230,Personal history of malignant carcinoid tumor of thymus,Z85.23,2016,2027
+Z85.238,Personal history of other malignant neoplasm of thymus,Z85.23,2016,2027
+Z85.29,Personal history of malignant neoplasm of other respiratory and intrathoracic organs,Z85.2,2016,2027
+Z85.3,Personal history of malignant neoplasm of breast,Z85,2016,2027
+Z85.4,Personal history of malignant neoplasm of genital organs,Z85,2016,2027
+Z85.40,Personal history of malignant neoplasm of unspecified female genital organ,Z85.4,2016,2027
+Z85.41,Personal history of malignant neoplasm of cervix uteri,Z85.4,2016,2027
+Z85.42,Personal history of malignant neoplasm of other parts of uterus,Z85.4,2016,2027
+Z85.43,Personal history of malignant neoplasm of ovary,Z85.4,2016,2027
+Z85.44,Personal history of malignant neoplasm of other female genital organs,Z85.4,2016,2027
+Z85.45,Personal history of malignant neoplasm of unspecified male genital organ,Z85.4,2016,2027
+Z85.46,Personal history of malignant neoplasm of prostate,Z85.4,2016,2027
+Z85.47,Personal history of malignant neoplasm of testis,Z85.4,2016,2027
+Z85.48,Personal history of malignant neoplasm of epididymis,Z85.4,2016,2027
+Z85.49,Personal history of malignant neoplasm of other male genital organs,Z85.4,2016,2027
+Z85.4A,Personal history of malignant neoplasm of fallopian tube(s),Z85.4,2026,2027
+Z85.5,Personal history of malignant neoplasm of urinary tract,Z85,2016,2027
+Z85.50,Personal history of malignant neoplasm of unspecified urinary tract organ,Z85.5,2016,2027
+Z85.51,Personal history of malignant neoplasm of bladder,Z85.5,2016,2027
+Z85.52,Personal history of malignant neoplasm of kidney,Z85.5,2016,2027
+Z85.520,Personal history of malignant carcinoid tumor of kidney,Z85.52,2016,2027
+Z85.528,Personal history of other malignant neoplasm of kidney,Z85.52,2016,2027
+Z85.53,Personal history of malignant neoplasm of renal pelvis,Z85.5,2016,2027
+Z85.54,Personal history of malignant neoplasm of ureter,Z85.5,2016,2027
+Z85.59,Personal history of malignant neoplasm of other urinary tract organ,Z85.5,2016,2027
+Z85.6,Personal history of leukemia,Z85,2016,2027
+Z85.7,"Personal history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",Z85,2016,2027
+Z85.71,Personal history of Hodgkin lymphoma,Z85.7,2016,2027
+Z85.72,Personal history of non-Hodgkin lymphomas,Z85.7,2016,2027
+Z85.79,"Personal history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",Z85.7,2016,2027
+Z85.8,Personal history of malignant neoplasms of other organs and systems,Z85,2016,2027
+Z85.81,"Personal history of malignant neoplasm of lip, oral cavity, and pharynx",Z85.8,2016,2027
+Z85.810,Personal history of malignant neoplasm of tongue,Z85.81,2016,2027
+Z85.818,"Personal history of malignant neoplasm of other sites of lip, oral cavity, and pharynx",Z85.81,2016,2027
+Z85.819,"Personal history of malignant neoplasm of unspecified site of lip, oral cavity, and pharynx",Z85.81,2016,2027
+Z85.82,Personal history of malignant neoplasm of skin,Z85.8,2016,2027
+Z85.820,Personal history of malignant melanoma of skin,Z85.82,2016,2027
+Z85.821,Personal history of Merkel cell carcinoma,Z85.82,2016,2027
+Z85.828,Personal history of other malignant neoplasm of skin,Z85.82,2016,2027
+Z85.83,Personal history of malignant neoplasm of bone and soft tissue,Z85.8,2016,2027
+Z85.830,Personal history of malignant neoplasm of bone,Z85.83,2016,2027
+Z85.831,Personal history of malignant neoplasm of soft tissue,Z85.83,2016,2027
+Z85.84,Personal history of malignant neoplasm of eye and nervous tissue,Z85.8,2016,2027
+Z85.840,Personal history of malignant neoplasm of eye,Z85.84,2016,2027
+Z85.841,Personal history of malignant neoplasm of brain,Z85.84,2016,2027
+Z85.848,Personal history of malignant neoplasm of other parts of nervous tissue,Z85.84,2016,2027
+Z85.85,Personal history of malignant neoplasm of endocrine glands,Z85.8,2016,2027
+Z85.850,Personal history of malignant neoplasm of thyroid,Z85.85,2016,2027
+Z85.858,Personal history of malignant neoplasm of other endocrine glands,Z85.85,2016,2027
+Z85.89,Personal history of malignant neoplasm of other organs and systems,Z85.8,2016,2027
+Z85.9,"Personal history of malignant neoplasm, unspecified",Z85,2016,2027
+Z86,Personal history of certain other diseases,,2016,2027
+Z86.0,Personal history of in-situ and benign neoplasms and neoplasms of uncertain behavior,Z86,2016,2027
+Z86.00,Personal history of in-situ neoplasm,Z86.0,2016,2027
+Z86.000,Personal history of in-situ neoplasm of breast,Z86.00,2016,2027
+Z86.001,Personal history of in-situ neoplasm of cervix uteri,Z86.00,2016,2027
+Z86.002,Personal history of in-situ neoplasm of other and unspecified genital organs,Z86.00,2020,2027
+Z86.003,"Personal history of in-situ neoplasm of oral cavity, esophagus and stomach",Z86.00,2020,2027
+Z86.004,Personal history of in-situ neoplasm of other and unspecified digestive organs,Z86.00,2020,2027
+Z86.005,Personal history of in-situ neoplasm of middle ear and respiratory system,Z86.00,2020,2027
+Z86.006,Personal history of melanoma in-situ,Z86.00,2020,2027
+Z86.007,Personal history of in-situ neoplasm of skin,Z86.00,2020,2027
+Z86.008,Personal history of in-situ neoplasm of other site,Z86.00,2016,2027
+Z86.00A,Personal history of in-situ neoplasm of the fallopian tube(s),Z86.00,2026,2027
+Z86.01,Personal history of benign neoplasm,Z86.0,2016,2027
+Z86.010,Personal history of colon polyps,Z86.01,2016,2027
+Z86.0100,"Personal history of colon polyps, unspecified",Z86.010,2025,2027
+Z86.0101,Personal history of adenomatous and serrated colon polyps,Z86.010,2025,2027
+Z86.0102,Personal history of hyperplastic colon polyps,Z86.010,2025,2027
+Z86.0109,Personal history of other colon polyps,Z86.010,2025,2027
+Z86.011,Personal history of benign neoplasm of the brain,Z86.01,2016,2027
+Z86.012,Personal history of benign carcinoid tumor,Z86.01,2016,2027
+Z86.018,Personal history of other benign neoplasm,Z86.01,2016,2027
+Z86.03,Personal history of neoplasm of uncertain behavior,Z86.0,2016,2027
+Z86.1,Personal history of infectious and parasitic diseases,Z86,2016,2027
+Z86.11,Personal history of tuberculosis,Z86.1,2016,2027
+Z86.12,Personal history of poliomyelitis,Z86.1,2016,2027
+Z86.13,Personal history of malaria,Z86.1,2016,2027
+Z86.14,Personal history of Methicillin resistant Staphylococcus aureus infection,Z86.1,2016,2027
+Z86.15,Personal history of latent tuberculosis infection,Z86.1,2020,2027
+Z86.16,Personal history of COVID-19,Z86.1,2021,2027
+Z86.17,Personal history of Clostridioides difficile infection,Z86.1,2027,2027
+Z86.19,Personal history of other infectious and parasitic diseases,Z86.1,2016,2027
+Z86.2,Personal history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,Z86,2016,2027
+Z86.3,"Personal history of endocrine, nutritional and metabolic diseases",Z86,2016,2027
+Z86.31,Personal history of diabetic foot ulcer,Z86.3,2016,2027
+Z86.32,Personal history of gestational diabetes,Z86.3,2016,2027
+Z86.39,"Personal history of other endocrine, nutritional and metabolic disease",Z86.3,2016,2027
+Z86.5,Personal history of mental and behavioral disorders,Z86,2016,2027
+Z86.51,Personal history of combat and operational stress reaction,Z86.5,2016,2027
+Z86.59,Personal history of other mental and behavioral disorders,Z86.5,2016,2027
+Z86.6,Personal history of diseases of the nervous system and sense organs,Z86,2016,2027
+Z86.61,Personal history of infections of the central nervous system,Z86.6,2016,2027
+Z86.69,Personal history of other diseases of the nervous system and sense organs,Z86.6,2016,2027
+Z86.7,Personal history of diseases of the circulatory system,Z86,2016,2027
+Z86.71,Personal history of venous thrombosis and embolism,Z86.7,2016,2027
+Z86.711,Personal history of pulmonary embolism,Z86.71,2016,2027
+Z86.718,Personal history of other venous thrombosis and embolism,Z86.71,2016,2027
+Z86.72,Personal history of thrombophlebitis,Z86.7,2016,2027
+Z86.73,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",Z86.7,2016,2027
+Z86.74,Personal history of sudden cardiac arrest,Z86.7,2016,2027
+Z86.79,Personal history of other diseases of the circulatory system,Z86.7,2016,2027
+Z87,Personal history of other diseases and conditions,,2016,2027
+Z87.0,Personal history of diseases of the respiratory system,Z87,2016,2027
+Z87.01,Personal history of pneumonia (recurrent),Z87.0,2016,2027
+Z87.09,Personal history of other diseases of the respiratory system,Z87.0,2016,2027
+Z87.1,Personal history of diseases of the digestive system,Z87,2016,2027
+Z87.11,Personal history of peptic ulcer disease,Z87.1,2016,2027
+Z87.19,Personal history of other diseases of the digestive system,Z87.1,2016,2027
+Z87.2,Personal history of diseases of the skin and subcutaneous tissue,Z87,2016,2027
+Z87.3,Personal history of diseases of the musculoskeletal system and connective tissue,Z87,2016,2027
+Z87.31,Personal history of (healed) nontraumatic fracture,Z87.3,2016,2027
+Z87.310,Personal history of (healed) osteoporosis fracture,Z87.31,2016,2027
+Z87.311,Personal history of (healed) other pathological fracture,Z87.31,2016,2027
+Z87.312,Personal history of (healed) stress fracture,Z87.31,2016,2027
+Z87.39,Personal history of other diseases of the musculoskeletal system and connective tissue,Z87.3,2016,2027
+Z87.4,Personal history of diseases of genitourinary system,Z87,2016,2027
+Z87.41,Personal history of dysplasia of the female genital tract,Z87.4,2016,2027
+Z87.410,Personal history of cervical dysplasia,Z87.41,2016,2027
+Z87.411,Personal history of vaginal dysplasia,Z87.41,2016,2027
+Z87.412,Personal history of vulvar dysplasia,Z87.41,2016,2027
+Z87.42,Personal history of other diseases of the female genital tract,Z87.4,2016,2027
+Z87.43,Personal history of diseases of male genital organs,Z87.4,2016,2027
+Z87.430,Personal history of prostatic dysplasia,Z87.43,2016,2027
+Z87.438,Personal history of other diseases of male genital organs,Z87.43,2016,2027
+Z87.44,Personal history of diseases of urinary system,Z87.4,2016,2027
+Z87.440,Personal history of urinary (tract) infections,Z87.44,2016,2027
+Z87.441,Personal history of nephrotic syndrome,Z87.44,2016,2027
+Z87.442,Personal history of urinary calculi,Z87.44,2016,2027
+Z87.448,Personal history of other diseases of urinary system,Z87.44,2016,2027
+Z87.5,"Personal history of complications of pregnancy, childbirth and the puerperium",Z87,2016,2027
+Z87.51,Personal history of pre-term labor,Z87.5,2016,2027
+Z87.59,"Personal history of other complications of pregnancy, childbirth and the puerperium",Z87.5,2016,2027
+Z87.6,Personal history of certain (corrected) conditions arising in the perinatal period,Z87,2023,2027
+Z87.61,Personal history of (corrected) necrotizing enterocolitis of newborn,Z87.6,2023,2027
+Z87.68,Personal history of other (corrected) conditions arising in the perinatal period,Z87.6,2023,2027
+Z87.7,Personal history of (corrected) congenital malformations,Z87,2016,2027
+Z87.71,Personal history of (corrected) congenital malformations of genitourinary system,Z87.7,2016,2027
+Z87.710,Personal history of (corrected) hypospadias,Z87.71,2016,2027
+Z87.718,Personal history of other specified (corrected) congenital malformations of genitourinary system,Z87.71,2016,2027
+Z87.72,Personal history of (corrected) congenital malformations of nervous system and sense organs,Z87.7,2016,2027
+Z87.720,Personal history of (corrected) congenital malformations of eye,Z87.72,2016,2027
+Z87.721,Personal history of (corrected) congenital malformations of ear,Z87.72,2016,2027
+Z87.728,Personal history of other specified (corrected) congenital malformations of nervous system and sense organs,Z87.72,2016,2027
+Z87.73,Personal history of (corrected) congenital malformations of digestive system,Z87.7,2016,2027
+Z87.730,Personal history of (corrected) cleft lip and palate,Z87.73,2016,2027
+Z87.731,Personal history of (corrected) tracheoesophageal fistula or atresia,Z87.73,2023,2027
+Z87.732,Personal history of (corrected) persistent cloaca or cloacal malformations,Z87.73,2023,2027
+Z87.738,Personal history of other specified (corrected) congenital malformations of digestive system,Z87.73,2016,2027
+Z87.74,Personal history of (corrected) congenital malformations of heart and circulatory system,Z87.7,2016,2027
+Z87.75,Personal history of (corrected) congenital malformations of respiratory system,Z87.7,2016,2027
+Z87.76,"Personal history of (corrected) congenital malformations of integument, limbs and musculoskeletal system",Z87.7,2016,2027
+Z87.760,Personal history of (corrected) congenital diaphragmatic hernia or other congenital diaphragm malformations,Z87.76,2023,2027
+Z87.761,Personal history of (corrected) gastroschisis,Z87.76,2023,2027
+Z87.762,Personal history of (corrected) prune belly malformation,Z87.76,2023,2027
+Z87.763,Personal history of other (corrected) congenital abdominal wall malformations,Z87.76,2023,2027
+Z87.768,"Personal history of other specified (corrected) congenital malformations of integument, limbs and musculoskeletal system",Z87.76,2023,2027
+Z87.79,Personal history of other (corrected) congenital malformations,Z87.7,2016,2027
+Z87.790,Personal history of (corrected) congenital malformations of face and neck,Z87.79,2016,2027
+Z87.798,Personal history of other (corrected) congenital malformations,Z87.79,2016,2027
+Z87.8,Personal history of other specified conditions,Z87,2016,2027
+Z87.81,Personal history of (healed) traumatic fracture,Z87.8,2016,2027
+Z87.82,Personal history of other (healed) physical injury and trauma,Z87.8,2016,2027
+Z87.820,Personal history of traumatic brain injury,Z87.82,2016,2027
+Z87.821,Personal history of retained foreign body fully removed,Z87.82,2016,2027
+Z87.828,Personal history of other (healed) physical injury and trauma,Z87.82,2016,2027
+Z87.89,Personal history of other specified conditions,Z87.8,2016,2027
+Z87.890,Personal history of sex reassignment,Z87.89,2016,2027
+Z87.8901,Personal history of social gender transition,Z87.890,2027,2027
+Z87.8902,Personal history of medical gender transition,Z87.890,2027,2027
+Z87.8903,Personal history of surgical gender transition,Z87.890,2027,2027
+Z87.8904,Personal history of intersex surgery,Z87.890,2027,2027
+Z87.8909,Personal history of unspecified gender transition,Z87.890,2027,2027
+Z87.891,Personal history of nicotine dependence,Z87.89,2016,2027
+Z87.892,Personal history of anaphylaxis,Z87.89,2016,2027
+Z87.893,Personal history of gender detransition,Z87.89,2027,2027
+Z87.898,Personal history of other specified conditions,Z87.89,2016,2027
+Z88,"Allergy status to drugs, medicaments and biological substances",,2016,2027
+Z88.0,Allergy status to penicillin,Z88,2016,2027
+Z88.1,Allergy status to other antibiotic agents,Z88,2016,2027
+Z88.2,Allergy status to sulfonamides,Z88,2016,2027
+Z88.3,Allergy status to other anti-infective agents,Z88,2016,2027
+Z88.4,Allergy status to anesthetic agent,Z88,2016,2027
+Z88.5,Allergy status to narcotic agent,Z88,2016,2027
+Z88.6,Allergy status to analgesic agent,Z88,2016,2027
+Z88.7,Allergy status to serum and vaccine,Z88,2016,2027
+Z88.8,"Allergy status to other drugs, medicaments and biological substances",Z88,2016,2027
+Z88.9,"Allergy status to unspecified drugs, medicaments and biological substances",Z88,2016,2027
+Z89,Acquired absence of limb,,2016,2027
+Z89.0,Acquired absence of thumb and other finger(s),Z89,2016,2027
+Z89.01,Acquired absence of thumb,Z89.0,2016,2027
+Z89.011,Acquired absence of right thumb,Z89.01,2016,2027
+Z89.012,Acquired absence of left thumb,Z89.01,2016,2027
+Z89.019,Acquired absence of unspecified thumb,Z89.01,2016,2027
+Z89.02,Acquired absence of other finger(s),Z89.0,2016,2027
+Z89.021,Acquired absence of right finger(s),Z89.02,2016,2027
+Z89.022,Acquired absence of left finger(s),Z89.02,2016,2027
+Z89.029,Acquired absence of unspecified finger(s),Z89.02,2016,2027
+Z89.1,Acquired absence of hand and wrist,Z89,2016,2027
+Z89.11,Acquired absence of hand,Z89.1,2016,2027
+Z89.111,Acquired absence of right hand,Z89.11,2016,2027
+Z89.112,Acquired absence of left hand,Z89.11,2016,2027
+Z89.119,Acquired absence of unspecified hand,Z89.11,2016,2027
+Z89.12,Acquired absence of wrist,Z89.1,2016,2027
+Z89.121,Acquired absence of right wrist,Z89.12,2016,2027
+Z89.122,Acquired absence of left wrist,Z89.12,2016,2027
+Z89.129,Acquired absence of unspecified wrist,Z89.12,2016,2027
+Z89.2,Acquired absence of upper limb above wrist,Z89,2016,2027
+Z89.20,"Acquired absence of upper limb, unspecified level",Z89.2,2016,2027
+Z89.201,"Acquired absence of right upper limb, unspecified level",Z89.20,2016,2027
+Z89.202,"Acquired absence of left upper limb, unspecified level",Z89.20,2016,2027
+Z89.209,"Acquired absence of unspecified upper limb, unspecified level",Z89.20,2016,2027
+Z89.21,Acquired absence of upper limb below elbow,Z89.2,2016,2027
+Z89.211,Acquired absence of right upper limb below elbow,Z89.21,2016,2027
+Z89.212,Acquired absence of left upper limb below elbow,Z89.21,2016,2027
+Z89.219,Acquired absence of unspecified upper limb below elbow,Z89.21,2016,2027
+Z89.22,Acquired absence of upper limb above elbow,Z89.2,2016,2027
+Z89.221,Acquired absence of right upper limb above elbow,Z89.22,2016,2027
+Z89.222,Acquired absence of left upper limb above elbow,Z89.22,2016,2027
+Z89.229,Acquired absence of unspecified upper limb above elbow,Z89.22,2016,2027
+Z89.23,Acquired absence of shoulder,Z89.2,2016,2027
+Z89.231,Acquired absence of right shoulder,Z89.23,2016,2027
+Z89.232,Acquired absence of left shoulder,Z89.23,2016,2027
+Z89.239,Acquired absence of unspecified shoulder,Z89.23,2016,2027
+Z89.4,"Acquired absence of toe(s), foot, and ankle",Z89,2016,2027
+Z89.41,Acquired absence of great toe,Z89.4,2016,2027
+Z89.411,Acquired absence of right great toe,Z89.41,2016,2027
+Z89.412,Acquired absence of left great toe,Z89.41,2016,2027
+Z89.419,Acquired absence of unspecified great toe,Z89.41,2016,2027
+Z89.42,Acquired absence of other toe(s),Z89.4,2016,2027
+Z89.421,Acquired absence of other right toe(s),Z89.42,2016,2027
+Z89.422,Acquired absence of other left toe(s),Z89.42,2016,2027
+Z89.429,"Acquired absence of other toe(s), unspecified side",Z89.42,2016,2027
+Z89.43,Acquired absence of foot,Z89.4,2016,2027
+Z89.431,Acquired absence of right foot,Z89.43,2016,2027
+Z89.432,Acquired absence of left foot,Z89.43,2016,2027
+Z89.439,Acquired absence of unspecified foot,Z89.43,2016,2027
+Z89.44,Acquired absence of ankle,Z89.4,2016,2027
+Z89.441,Acquired absence of right ankle,Z89.44,2016,2027
+Z89.442,Acquired absence of left ankle,Z89.44,2016,2027
+Z89.449,Acquired absence of unspecified ankle,Z89.44,2016,2027
+Z89.5,Acquired absence of leg below knee,Z89,2016,2027
+Z89.51,Acquired absence of leg below knee,Z89.5,2016,2027
+Z89.511,Acquired absence of right leg below knee,Z89.51,2016,2027
+Z89.512,Acquired absence of left leg below knee,Z89.51,2016,2027
+Z89.519,Acquired absence of unspecified leg below knee,Z89.51,2016,2027
+Z89.52,Acquired absence of knee,Z89.5,2016,2027
+Z89.521,Acquired absence of right knee,Z89.52,2016,2027
+Z89.522,Acquired absence of left knee,Z89.52,2016,2027
+Z89.529,Acquired absence of unspecified knee,Z89.52,2016,2027
+Z89.6,Acquired absence of leg above knee,Z89,2016,2027
+Z89.61,Acquired absence of leg above knee,Z89.6,2016,2027
+Z89.611,Acquired absence of right leg above knee,Z89.61,2016,2027
+Z89.612,Acquired absence of left leg above knee,Z89.61,2016,2027
+Z89.619,Acquired absence of unspecified leg above knee,Z89.61,2016,2027
+Z89.62,Acquired absence of hip,Z89.6,2016,2027
+Z89.621,Acquired absence of right hip joint,Z89.62,2016,2027
+Z89.622,Acquired absence of left hip joint,Z89.62,2016,2027
+Z89.629,Acquired absence of unspecified hip joint,Z89.62,2016,2027
+Z89.9,"Acquired absence of limb, unspecified",Z89,2016,2027
+Z90,"Acquired absence of organs, not elsewhere classified",,2016,2027
+Z90.0,Acquired absence of part of head and neck,Z90,2016,2027
+Z90.01,Acquired absence of eye,Z90.0,2016,2027
+Z90.02,Acquired absence of larynx,Z90.0,2016,2027
+Z90.09,Acquired absence of other part of head and neck,Z90.0,2016,2027
+Z90.1,Acquired absence of breast and nipple,Z90,2016,2027
+Z90.10,Acquired absence of unspecified breast and nipple,Z90.1,2016,2027
+Z90.11,Acquired absence of right breast and nipple,Z90.1,2016,2027
+Z90.12,Acquired absence of left breast and nipple,Z90.1,2016,2027
+Z90.13,Acquired absence of bilateral breasts and nipples,Z90.1,2016,2027
+Z90.2,Acquired absence of lung [part of],Z90,2016,2027
+Z90.3,Acquired absence of stomach [part of],Z90,2016,2027
+Z90.4,Acquired absence of other specified parts of digestive tract,Z90,2016,2027
+Z90.41,Acquired absence of pancreas,Z90.4,2016,2027
+Z90.410,Acquired total absence of pancreas,Z90.41,2016,2027
+Z90.411,Acquired partial absence of pancreas,Z90.41,2016,2027
+Z90.49,Acquired absence of other specified parts of digestive tract,Z90.4,2016,2027
+Z90.5,Acquired absence of kidney,Z90,2016,2027
+Z90.6,Acquired absence of other parts of urinary tract,Z90,2016,2027
+Z90.7,Acquired absence of genital organ(s),Z90,2016,2027
+Z90.71,Acquired absence of cervix and uterus,Z90.7,2016,2027
+Z90.710,Acquired absence of both cervix and uterus,Z90.71,2016,2027
+Z90.711,Acquired absence of uterus with remaining cervical stump,Z90.71,2016,2027
+Z90.712,Acquired absence of cervix with remaining uterus,Z90.71,2016,2027
+Z90.72,Acquired absence of ovaries,Z90.7,2016,2027
+Z90.721,"Acquired absence of ovaries, unilateral",Z90.72,2016,2027
+Z90.722,"Acquired absence of ovaries, bilateral",Z90.72,2016,2027
+Z90.79,Acquired absence of other genital organ(s),Z90.7,2016,2027
+Z90.8,Acquired absence of other organs,Z90,2016,2027
+Z90.81,Acquired absence of spleen,Z90.8,2016,2027
+Z90.89,Acquired absence of other organs,Z90.8,2016,2027
+Z91,"Personal risk factors, not elsewhere classified",,2016,2027
+Z91.0,"Allergy status, other than to drugs and biological substances",Z91,2016,2027
+Z91.01,Food allergy status,Z91.0,2016,2027
+Z91.010,Allergy to peanuts,Z91.01,2016,2027
+Z91.011,Allergy to milk products,Z91.01,2016,2027
+Z91.0110,"Allergy to milk products, unspecified",Z91.011,2026,2027
+Z91.0111,Allergy to milk products with tolerance to baked milk,Z91.011,2026,2027
+Z91.0112,Allergy to milk products with reactivity to baked milk,Z91.011,2026,2027
+Z91.012,Allergy to eggs,Z91.01,2016,2027
+Z91.0120,"Allergy to eggs, unspecified",Z91.012,2026,2027
+Z91.0121,Allergy to eggs with tolerance to baked egg,Z91.012,2026,2027
+Z91.0122,Allergy to eggs with reactivity to baked egg,Z91.012,2026,2027
+Z91.013,Allergy to seafood,Z91.01,2016,2027
+Z91.014,Allergy to mammalian meats,Z91.01,2022,2027
+Z91.018,Allergy to other foods,Z91.01,2016,2027
+Z91.02,Food additives allergy status,Z91.0,2016,2027
+Z91.03,Insect allergy status,Z91.0,2016,2027
+Z91.030,Bee allergy status,Z91.03,2016,2027
+Z91.038,Other insect allergy status,Z91.03,2016,2027
+Z91.04,Nonmedicinal substance allergy status,Z91.0,2016,2027
+Z91.040,Latex allergy status,Z91.04,2016,2027
+Z91.041,Radiographic dye allergy status,Z91.04,2016,2027
+Z91.048,Other nonmedicinal substance allergy status,Z91.04,2016,2027
+Z91.09,"Other allergy status, other than to drugs and biological substances",Z91.0,2016,2027
+Z91.1,Patient's noncompliance with medical treatment and regimen,Z91,2016,2027
+Z91.11,Patient's noncompliance with dietary regimen,Z91.1,2016,2027
+Z91.110,Patient's noncompliance with dietary regimen due to financial hardship,Z91.11,2023,2027
+Z91.118,Patient's noncompliance with dietary regimen for other reason,Z91.11,2023,2027
+Z91.119,Patient's noncompliance with dietary regimen due to unspecified reason,Z91.11,2023,2027
+Z91.12,Patient's intentional underdosing of medication regimen,Z91.1,2016,2027
+Z91.120,Patient's intentional underdosing of medication regimen due to financial hardship,Z91.12,2016,2027
+Z91.128,Patient's intentional underdosing of medication regimen for other reason,Z91.12,2016,2027
+Z91.13,Patient's unintentional underdosing of medication regimen,Z91.1,2016,2027
+Z91.130,Patient's unintentional underdosing of medication regimen due to age-related debility,Z91.13,2016,2027
+Z91.138,Patient's unintentional underdosing of medication regimen for other reason,Z91.13,2016,2027
+Z91.14,Patient's other noncompliance with medication regimen,Z91.1,2016,2027
+Z91.141,Patient's other noncompliance with medication regimen due to financial hardship,Z91.14,2023,2027
+Z91.148,Patient's other noncompliance with medication regimen for other reason,Z91.14,2023,2027
+Z91.15,Patient's noncompliance with renal dialysis,Z91.1,2016,2027
+Z91.151,Patient's noncompliance with renal dialysis due to financial hardship,Z91.15,2023,2027
+Z91.158,Patient's noncompliance with renal dialysis for other reason,Z91.15,2023,2027
+Z91.19,Patient's noncompliance with other medical treatment and regimen,Z91.1,2016,2027
+Z91.190,Patient's noncompliance with other medical treatment and regimen due to financial hardship,Z91.19,2023,2027
+Z91.198,Patient's noncompliance with other medical treatment and regimen for other reason,Z91.19,2023,2027
+Z91.199,Patient's noncompliance with other medical treatment and regimen due to unspecified reason,Z91.19,2023,2027
+Z91.4,"Personal history of psychological trauma, not elsewhere classified",Z91,2016,2027
+Z91.41,Personal history of adult abuse,Z91.4,2016,2027
+Z91.410,Personal history of adult physical and sexual abuse,Z91.41,2016,2027
+Z91.411,Personal history of adult psychological abuse,Z91.41,2016,2027
+Z91.412,Personal history of adult neglect,Z91.41,2016,2027
+Z91.413,Personal history of adult financial abuse,Z91.41,2023,2027
+Z91.414,Personal history of adult intimate partner abuse,Z91.41,2023,2027
+Z91.419,Personal history of unspecified adult abuse,Z91.41,2016,2027
+Z91.42,Personal history of forced labor or sexual exploitation,Z91.4,2019,2027
+Z91.49,"Other personal history of psychological trauma, not elsewhere classified",Z91.4,2016,2027
+Z91.5,Personal history of self-harm,Z91,2016,2027
+Z91.51,Personal history of suicidal behavior,Z91.5,2022,2027
+Z91.52,Personal history of nonsuicidal self-harm,Z91.5,2022,2027
+Z91.8,"Other specified personal risk factors, not elsewhere classified",Z91,2016,2027
+Z91.81,History of falling,Z91.8,2016,2027
+Z91.82,Personal history of military deployment,Z91.8,2016,2027
+Z91.83,Wandering in diseases classified elsewhere,Z91.8,2016,2027
+Z91.84,Oral health risk factors,Z91.8,2018,2027
+Z91.841,"Risk for dental caries, low",Z91.84,2018,2027
+Z91.842,"Risk for dental caries, moderate",Z91.84,2018,2027
+Z91.843,"Risk for dental caries, high",Z91.84,2018,2027
+Z91.849,Unspecified risk for dental caries,Z91.84,2018,2027
+Z91.85,Personal history of military service,Z91.8,2024,2027
+Z91.89,"Other specified personal risk factors, not elsewhere classified",Z91.8,2016,2027
+Z91.A,Caregiver's noncompliance with patient's medical treatment and regimen,Z91,2023,2027
+Z91.A1,Caregiver's noncompliance with patient's dietary regimen,Z91.A,2023,2027
+Z91.A10,Caregiver's noncompliance with patient's dietary regimen due to financial hardship,Z91.A1,2023,2027
+Z91.A18,Caregiver's noncompliance with patient's dietary regimen for other reason,Z91.A1,2023,2027
+Z91.A2,Caregiver's intentional underdosing of patient's medication regimen,Z91.A,2023,2027
+Z91.A20,Caregiver's intentional underdosing of patient's medication regimen due to financial hardship,Z91.A2,2023,2027
+Z91.A28,Caregiver's intentional underdosing of medication regimen for other reason,Z91.A2,2023,2027
+Z91.A3,Caregiver's unintentional underdosing of patient's medication regimen,Z91.A,2023,2027
+Z91.A4,Caregiver's other noncompliance with patient's medication regimen,Z91.A,2023,2027
+Z91.A41,Caregiver's other noncompliance with patient's medication regimen due to financial hardship,Z91.A4,2024,2027
+Z91.A48,Caregiver's other noncompliance with patient's medication regimen for other reason,Z91.A4,2024,2027
+Z91.A5,Caregiver's noncompliance with patient's renal dialysis,Z91.A,2023,2027
+Z91.A51,Caregiver's noncompliance with patient's renal dialysis due to financial hardship,Z91.A5,2024,2027
+Z91.A58,Caregiver's noncompliance with patient's renal dialysis for other reason,Z91.A5,2024,2027
+Z91.A9,Caregiver's noncompliance with patient's other medical treatment and regimen,Z91.A,2023,2027
+Z91.A91,Caregiver's noncompliance with patient's other medical treatment and regimen due to financial hardship,Z91.A9,2024,2027
+Z91.A98,Caregiver's noncompliance with patient's other medical treatment and regimen for other reason,Z91.A9,2024,2027
+Z91.B,Personal risk factor of exposure to diethylstilbestrol,Z91,2026,2027
+Z92,Personal history of medical treatment,,2016,2027
+Z92.0,Personal history of contraception,Z92,2016,2027
+Z92.2,Personal history of drug therapy,Z92,2016,2027
+Z92.21,Personal history of antineoplastic chemotherapy,Z92.2,2016,2027
+Z92.22,Personal history of monoclonal drug therapy,Z92.2,2016,2027
+Z92.23,Personal history of estrogen therapy,Z92.2,2016,2027
+Z92.24,Personal history of steroid therapy,Z92.2,2016,2027
+Z92.240,Personal history of inhaled steroid therapy,Z92.24,2016,2027
+Z92.241,Personal history of systemic steroid therapy,Z92.24,2016,2027
+Z92.25,Personal history of immunosuppression therapy,Z92.2,2016,2027
+Z92.26,Personal history of immune checkpoint inhibitor therapy,Z92.2,2025,2027
+Z92.29,Personal history of other drug therapy,Z92.2,2016,2027
+Z92.3,Personal history of irradiation,Z92,2016,2027
+Z92.8,Personal history of other medical treatment,Z92,2016,2027
+Z92.81,Personal history of extracorporeal membrane oxygenation (ECMO),Z92.8,2016,2027
+Z92.82,Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility,Z92.8,2016,2027
+Z92.83,Personal history of failed moderate sedation,Z92.8,2016,2027
+Z92.84,Personal history of unintended awareness under general anesthesia,Z92.8,2017,2027
+Z92.85,Personal history of cellular therapy,Z92.8,2022,2027
+Z92.850,Personal history of Chimeric Antigen Receptor T-cell therapy,Z92.85,2022,2027
+Z92.858,Personal history of other cellular therapy,Z92.85,2022,2027
+Z92.859,"Personal history of cellular therapy, unspecified",Z92.85,2022,2027
+Z92.86,Personal history of gene therapy,Z92.8,2022,2027
+Z92.89,Personal history of other medical treatment,Z92.8,2016,2027
+Z93,Artificial opening status,,2016,2027
+Z93.0,Tracheostomy status,Z93,2016,2027
+Z93.1,Gastrostomy status,Z93,2016,2027
+Z93.2,Ileostomy status,Z93,2016,2027
+Z93.3,Colostomy status,Z93,2016,2027
+Z93.4,Other artificial openings of gastrointestinal tract status,Z93,2016,2027
+Z93.5,Cystostomy status,Z93,2016,2027
+Z93.50,Unspecified cystostomy status,Z93.5,2016,2027
+Z93.51,Cutaneous-vesicostomy status,Z93.5,2016,2027
+Z93.52,Appendico-vesicostomy status,Z93.5,2016,2027
+Z93.59,Other cystostomy status,Z93.5,2016,2027
+Z93.6,Other artificial openings of urinary tract status,Z93,2016,2027
+Z93.8,Other artificial opening status,Z93,2016,2027
+Z93.9,"Artificial opening status, unspecified",Z93,2016,2027
+Z94,Transplanted organ and tissue status,,2016,2027
+Z94.0,Kidney transplant status,Z94,2016,2027
+Z94.1,Heart transplant status,Z94,2016,2027
+Z94.2,Lung transplant status,Z94,2016,2027
+Z94.3,Heart and lungs transplant status,Z94,2016,2027
+Z94.4,Liver transplant status,Z94,2016,2027
+Z94.5,Skin transplant status,Z94,2016,2027
+Z94.6,Bone transplant status,Z94,2016,2027
+Z94.7,Corneal transplant status,Z94,2016,2027
+Z94.8,Other transplanted organ and tissue status,Z94,2016,2027
+Z94.81,Bone marrow transplant status,Z94.8,2016,2027
+Z94.82,Intestine transplant status,Z94.8,2016,2027
+Z94.83,Pancreas transplant status,Z94.8,2016,2027
+Z94.84,Stem cells transplant status,Z94.8,2016,2027
+Z94.89,Other transplanted organ and tissue status,Z94.8,2016,2027
+Z94.9,"Transplanted organ and tissue status, unspecified",Z94,2016,2027
+Z95,Presence of cardiac and vascular implants and grafts,,2016,2027
+Z95.0,Presence of cardiac pacemaker,Z95,2016,2027
+Z95.1,Presence of aortocoronary bypass graft,Z95,2016,2027
+Z95.2,Presence of prosthetic heart valve,Z95,2016,2027
+Z95.3,Presence of xenogenic heart valve,Z95,2016,2027
+Z95.4,Presence of other heart-valve replacement,Z95,2016,2027
+Z95.5,Presence of coronary angioplasty implant and graft,Z95,2016,2027
+Z95.8,Presence of other cardiac and vascular implants and grafts,Z95,2016,2027
+Z95.81,Presence of other cardiac implants and grafts,Z95.8,2016,2027
+Z95.810,Presence of automatic (implantable) cardiac defibrillator,Z95.81,2016,2027
+Z95.811,Presence of heart assist device,Z95.81,2016,2027
+Z95.812,Presence of fully implantable artificial heart,Z95.81,2016,2027
+Z95.818,Presence of other cardiac implants and grafts,Z95.81,2016,2027
+Z95.82,Presence of other vascular implants and grafts,Z95.8,2016,2027
+Z95.820,Peripheral vascular angioplasty status with implants and grafts,Z95.82,2016,2027
+Z95.828,Presence of other vascular implants and grafts,Z95.82,2016,2027
+Z95.9,"Presence of cardiac and vascular implant and graft, unspecified",Z95,2016,2027
+Z96,Presence of other functional implants,,2016,2027
+Z96.0,Presence of urogenital implants,Z96,2016,2027
+Z96.1,Presence of intraocular lens,Z96,2016,2027
+Z96.2,Presence of otological and audiological implants,Z96,2016,2027
+Z96.20,"Presence of otological and audiological implant, unspecified",Z96.2,2016,2027
+Z96.21,Cochlear implant status,Z96.2,2016,2027
+Z96.22,Myringotomy tube(s) status,Z96.2,2016,2027
+Z96.29,Presence of other otological and audiological implants,Z96.2,2016,2027
+Z96.3,Presence of artificial larynx,Z96,2016,2027
+Z96.4,Presence of endocrine implants,Z96,2016,2027
+Z96.41,Presence of insulin pump (external) (internal),Z96.4,2016,2027
+Z96.49,Presence of other endocrine implants,Z96.4,2016,2027
+Z96.5,Presence of tooth-root and mandibular implants,Z96,2016,2027
+Z96.6,Presence of orthopedic joint implants,Z96,2016,2027
+Z96.60,Presence of unspecified orthopedic joint implant,Z96.6,2016,2027
+Z96.61,Presence of artificial shoulder joint,Z96.6,2016,2027
+Z96.611,Presence of right artificial shoulder joint,Z96.61,2016,2027
+Z96.612,Presence of left artificial shoulder joint,Z96.61,2016,2027
+Z96.619,Presence of unspecified artificial shoulder joint,Z96.61,2016,2027
+Z96.62,Presence of artificial elbow joint,Z96.6,2016,2027
+Z96.621,Presence of right artificial elbow joint,Z96.62,2016,2027
+Z96.622,Presence of left artificial elbow joint,Z96.62,2016,2027
+Z96.629,Presence of unspecified artificial elbow joint,Z96.62,2016,2027
+Z96.63,Presence of artificial wrist joint,Z96.6,2016,2027
+Z96.631,Presence of right artificial wrist joint,Z96.63,2016,2027
+Z96.632,Presence of left artificial wrist joint,Z96.63,2016,2027
+Z96.639,Presence of unspecified artificial wrist joint,Z96.63,2016,2027
+Z96.64,Presence of artificial hip joint,Z96.6,2016,2027
+Z96.641,Presence of right artificial hip joint,Z96.64,2016,2027
+Z96.642,Presence of left artificial hip joint,Z96.64,2016,2027
+Z96.643,"Presence of artificial hip joint, bilateral",Z96.64,2016,2027
+Z96.649,Presence of unspecified artificial hip joint,Z96.64,2016,2027
+Z96.65,Presence of artificial knee joint,Z96.6,2016,2027
+Z96.651,Presence of right artificial knee joint,Z96.65,2016,2027
+Z96.652,Presence of left artificial knee joint,Z96.65,2016,2027
+Z96.653,"Presence of artificial knee joint, bilateral",Z96.65,2016,2027
+Z96.659,Presence of unspecified artificial knee joint,Z96.65,2016,2027
+Z96.66,Presence of artificial ankle joint,Z96.6,2016,2027
+Z96.661,Presence of right artificial ankle joint,Z96.66,2016,2027
+Z96.662,Presence of left artificial ankle joint,Z96.66,2016,2027
+Z96.669,Presence of unspecified artificial ankle joint,Z96.66,2016,2027
+Z96.69,Presence of other orthopedic joint implants,Z96.6,2016,2027
+Z96.691,Finger-joint replacement of right hand,Z96.69,2016,2027
+Z96.692,Finger-joint replacement of left hand,Z96.69,2016,2027
+Z96.693,"Finger-joint replacement, bilateral",Z96.69,2016,2027
+Z96.698,Presence of other orthopedic joint implants,Z96.69,2016,2027
+Z96.7,Presence of other bone and tendon implants,Z96,2016,2027
+Z96.8,Presence of other specified functional implants,Z96,2016,2027
+Z96.81,Presence of artificial skin,Z96.8,2016,2027
+Z96.82,Presence of neurostimulator,Z96.8,2020,2027
+Z96.89,Presence of other specified functional implants,Z96.8,2016,2027
+Z96.9,"Presence of functional implant, unspecified",Z96,2016,2027
+Z97,Presence of other devices,,2016,2027
+Z97.0,Presence of artificial eye,Z97,2016,2027
+Z97.1,Presence of artificial limb (complete) (partial),Z97,2016,2027
+Z97.10,"Presence of artificial limb (complete) (partial), unspecified",Z97.1,2016,2027
+Z97.11,Presence of artificial right arm (complete) (partial),Z97.1,2016,2027
+Z97.12,Presence of artificial left arm (complete) (partial),Z97.1,2016,2027
+Z97.13,Presence of artificial right leg (complete) (partial),Z97.1,2016,2027
+Z97.14,Presence of artificial left leg (complete) (partial),Z97.1,2016,2027
+Z97.15,"Presence of artificial arms, bilateral (complete) (partial)",Z97.1,2016,2027
+Z97.16,"Presence of artificial legs, bilateral (complete) (partial)",Z97.1,2016,2027
+Z97.2,Presence of dental prosthetic device (complete) (partial),Z97,2016,2027
+Z97.3,Presence of spectacles and contact lenses,Z97,2016,2027
+Z97.4,Presence of external hearing-aid,Z97,2016,2027
+Z97.5,Presence of (intrauterine) contraceptive device,Z97,2016,2027
+Z97.8,Presence of other specified devices,Z97,2016,2027
+Z98,Other postprocedural states,,2016,2027
+Z98.0,Intestinal bypass and anastomosis status,Z98,2016,2027
+Z98.1,Arthrodesis status,Z98,2016,2027
+Z98.2,Presence of cerebrospinal fluid drainage device,Z98,2016,2027
+Z98.3,Post therapeutic collapse of lung status,Z98,2016,2027
+Z98.4,Cataract extraction status,Z98,2016,2027
+Z98.41,"Cataract extraction status, right eye",Z98.4,2016,2027
+Z98.42,"Cataract extraction status, left eye",Z98.4,2016,2027
+Z98.49,"Cataract extraction status, unspecified eye",Z98.4,2016,2027
+Z98.5,Sterilization status,Z98,2016,2027
+Z98.51,Tubal ligation status,Z98.5,2016,2027
+Z98.52,Vasectomy status,Z98.5,2016,2027
+Z98.6,Angioplasty status,Z98,2016,2027
+Z98.61,Coronary angioplasty status,Z98.6,2016,2027
+Z98.62,Peripheral vascular angioplasty status,Z98.6,2016,2027
+Z98.8,Other specified postprocedural states,Z98,2016,2027
+Z98.81,Dental procedure status,Z98.8,2016,2027
+Z98.810,Dental sealant status,Z98.81,2016,2027
+Z98.811,Dental restoration status,Z98.81,2016,2027
+Z98.818,Other dental procedure status,Z98.81,2016,2027
+Z98.82,Breast implant status,Z98.8,2016,2027
+Z98.83,Filtering (vitreous) bleb after glaucoma surgery status,Z98.8,2016,2027
+Z98.84,Bariatric surgery status,Z98.8,2016,2027
+Z98.85,Transplanted organ removal status,Z98.8,2016,2027
+Z98.86,Personal history of breast implant removal,Z98.8,2016,2027
+Z98.87,Personal history of in utero procedure,Z98.8,2016,2027
+Z98.870,Personal history of in utero procedure during pregnancy,Z98.87,2016,2027
+Z98.871,Personal history of in utero procedure while a fetus,Z98.87,2016,2027
+Z98.89,Other specified postprocedural states,Z98.8,2016,2027
+Z98.890,Other specified postprocedural states,Z98.89,2017,2027
+Z98.891,History of uterine scar from previous surgery,Z98.89,2017,2027
+Z99,"Dependence on enabling machines and devices, not elsewhere classified",,2016,2027
+Z99.0,Dependence on aspirator,Z99,2016,2027
+Z99.1,Dependence on respirator,Z99,2016,2027
+Z99.11,Dependence on respirator [ventilator] status,Z99.1,2016,2027
+Z99.12,Encounter for respirator [ventilator] dependence during power failure,Z99.1,2016,2027
+Z99.2,Dependence on renal dialysis,Z99,2016,2027
+Z99.3,Dependence on wheelchair,Z99,2016,2027
+Z99.8,Dependence on other enabling machines and devices,Z99,2016,2027
+Z99.81,Dependence on supplemental oxygen,Z99.8,2016,2027
+Z99.89,Dependence on other enabling machines and devices,Z99.8,2016,2027

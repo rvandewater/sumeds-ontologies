@@ -1,0 +1,933 @@
+code,description,parent,first_year,last_year
+G00,"Bacterial meningitis, not elsewhere classified",,2016,2027
+G00.0,Hemophilus meningitis,G00,2016,2027
+G00.1,Pneumococcal meningitis,G00,2016,2027
+G00.2,Streptococcal meningitis,G00,2016,2027
+G00.3,Staphylococcal meningitis,G00,2016,2027
+G00.8,Other bacterial meningitis,G00,2016,2027
+G00.9,"Bacterial meningitis, unspecified",G00,2016,2027
+G01,Meningitis in bacterial diseases classified elsewhere,,2016,2027
+G02,Meningitis in other infectious and parasitic diseases classified elsewhere,,2016,2027
+G03,Meningitis due to other and unspecified causes,,2016,2027
+G03.0,Nonpyogenic meningitis,G03,2016,2027
+G03.1,Chronic meningitis,G03,2016,2027
+G03.2,Benign recurrent meningitis [Mollaret],G03,2016,2027
+G03.8,Meningitis due to other specified causes,G03,2016,2027
+G03.9,"Meningitis, unspecified",G03,2016,2027
+G04,"Encephalitis, myelitis and encephalomyelitis",,2016,2027
+G04.0,Acute disseminated encephalitis and encephalomyelitis (ADEM),G04,2016,2027
+G04.00,"Acute disseminated encephalitis and encephalomyelitis, unspecified",G04.0,2016,2027
+G04.01,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM),G04.0,2016,2027
+G04.02,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis",G04.0,2016,2027
+G04.1,Tropical spastic paraplegia,G04,2016,2027
+G04.2,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",G04,2016,2027
+G04.3,Acute necrotizing hemorrhagic encephalopathy,G04,2016,2027
+G04.30,"Acute necrotizing hemorrhagic encephalopathy, unspecified",G04.3,2016,2027
+G04.31,Postinfectious acute necrotizing hemorrhagic encephalopathy,G04.3,2016,2027
+G04.32,Postimmunization acute necrotizing hemorrhagic encephalopathy,G04.3,2016,2027
+G04.39,Other acute necrotizing hemorrhagic encephalopathy,G04.3,2016,2027
+G04.8,"Other encephalitis, myelitis and encephalomyelitis",G04,2016,2027
+G04.81,Other encephalitis and encephalomyelitis,G04.8,2016,2027
+G04.82,Acute flaccid myelitis,G04.8,2022,2027
+G04.89,Other myelitis,G04.8,2016,2027
+G04.9,"Encephalitis, myelitis and encephalomyelitis, unspecified",G04,2016,2027
+G04.90,"Encephalitis and encephalomyelitis, unspecified",G04.9,2016,2027
+G04.91,"Myelitis, unspecified",G04.9,2016,2027
+G05,"Encephalitis, myelitis and encephalomyelitis in diseases classified elsewhere",,2016,2027
+G05.3,Encephalitis and encephalomyelitis in diseases classified elsewhere,G05,2016,2027
+G05.4,Myelitis in diseases classified elsewhere,G05,2016,2027
+G06,Intracranial and intraspinal abscess and granuloma,,2016,2027
+G06.0,Intracranial abscess and granuloma,G06,2016,2027
+G06.1,Intraspinal abscess and granuloma,G06,2016,2027
+G06.2,"Extradural and subdural abscess, unspecified",G06,2016,2027
+G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,,2016,2027
+G08,Intracranial and intraspinal phlebitis and thrombophlebitis,,2016,2027
+G09,Sequelae of inflammatory diseases of central nervous system,,2016,2027
+G10,Huntington's disease,,2016,2027
+G11,Hereditary ataxia,,2016,2027
+G11.0,Congenital nonprogressive ataxia,G11,2016,2027
+G11.1,Early-onset cerebellar ataxia,G11,2016,2027
+G11.10,"Early-onset cerebellar ataxia, unspecified",G11.1,2021,2027
+G11.11,Friedreich ataxia,G11.1,2021,2027
+G11.19,Other early-onset cerebellar ataxia,G11.1,2021,2027
+G11.2,Late-onset cerebellar ataxia,G11,2016,2027
+G11.3,Cerebellar ataxia with defective DNA repair,G11,2016,2027
+G11.4,Hereditary spastic paraplegia,G11,2016,2027
+G11.5,Hypomyelination - hypogonadotropic hypogonadism - hypodontia,G11,2024,2027
+G11.6,Leukodystrophy with vanishing white matter disease,G11,2024,2027
+G11.8,Other hereditary ataxias,G11,2016,2027
+G11.9,"Hereditary ataxia, unspecified",G11,2016,2027
+G12,Spinal muscular atrophy and related syndromes,,2016,2027
+G12.0,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]",G12,2016,2027
+G12.1,Other inherited spinal muscular atrophy,G12,2016,2027
+G12.2,Motor neuron disease,G12,2016,2027
+G12.20,"Motor neuron disease, unspecified",G12.2,2016,2027
+G12.21,Amyotrophic lateral sclerosis,G12.2,2016,2027
+G12.22,Progressive bulbar palsy,G12.2,2016,2027
+G12.23,Primary lateral sclerosis,G12.2,2018,2027
+G12.24,Familial motor neuron disease,G12.2,2018,2027
+G12.25,Progressive spinal muscle atrophy,G12.2,2018,2027
+G12.29,Other motor neuron disease,G12.2,2016,2027
+G12.8,Other spinal muscular atrophies and related syndromes,G12,2016,2027
+G12.9,"Spinal muscular atrophy, unspecified",G12,2016,2027
+G13,Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere,,2016,2027
+G13.0,Paraneoplastic neuromyopathy and neuropathy,G13,2016,2027
+G13.1,Other systemic atrophy primarily affecting central nervous system in neoplastic disease,G13,2016,2027
+G13.2,Systemic atrophy primarily affecting the central nervous system in myxedema,G13,2016,2027
+G13.8,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,G13,2016,2027
+G14,Postpolio syndrome,,2016,2027
+G20,Parkinson's disease,,2016,2027
+G20.A,Parkinson's disease without dyskinesia,G20,2024,2027
+G20.A1,"Parkinson's disease without dyskinesia, without mention of fluctuations",G20.A,2024,2027
+G20.A2,"Parkinson's disease without dyskinesia, with fluctuations",G20.A,2024,2027
+G20.B,Parkinson's disease with dyskinesia,G20,2024,2027
+G20.B1,"Parkinson's disease with dyskinesia, without mention of fluctuations",G20.B,2024,2027
+G20.B2,"Parkinson's disease with dyskinesia, with fluctuations",G20.B,2024,2027
+G20.C,"Parkinsonism, unspecified",G20,2024,2027
+G21,Secondary parkinsonism,,2016,2027
+G21.0,Malignant neuroleptic syndrome,G21,2016,2027
+G21.1,Other drug-induced secondary parkinsonism,G21,2016,2027
+G21.11,Neuroleptic induced parkinsonism,G21.1,2016,2027
+G21.19,Other drug induced secondary parkinsonism,G21.1,2016,2027
+G21.2,Secondary parkinsonism due to other external agents,G21,2016,2027
+G21.3,Postencephalitic parkinsonism,G21,2016,2027
+G21.4,Vascular parkinsonism,G21,2016,2027
+G21.8,Other secondary parkinsonism,G21,2016,2027
+G21.9,"Secondary parkinsonism, unspecified",G21,2016,2027
+G23,Other degenerative diseases of basal ganglia,,2016,2027
+G23.0,Hallervorden-Spatz disease,G23,2016,2027
+G23.1,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],G23,2016,2027
+G23.2,Striatonigral degeneration,G23,2016,2027
+G23.3,Hypomyelination with atrophy of the basal ganglia and cerebellum,G23,2024,2027
+G23.8,Other specified degenerative diseases of basal ganglia,G23,2016,2027
+G23.9,"Degenerative disease of basal ganglia, unspecified",G23,2016,2027
+G24,Dystonia,,2016,2027
+G24.0,Drug induced dystonia,G24,2016,2027
+G24.01,Drug induced subacute dyskinesia,G24.0,2016,2027
+G24.02,Drug induced acute dystonia,G24.0,2016,2027
+G24.09,Other drug induced dystonia,G24.0,2016,2027
+G24.1,Genetic torsion dystonia,G24,2016,2027
+G24.2,Idiopathic nonfamilial dystonia,G24,2016,2027
+G24.3,Spasmodic torticollis,G24,2016,2027
+G24.4,Idiopathic orofacial dystonia,G24,2016,2027
+G24.5,Blepharospasm,G24,2016,2027
+G24.8,Other dystonia,G24,2016,2027
+G24.9,"Dystonia, unspecified",G24,2016,2027
+G25,Other extrapyramidal and movement disorders,,2016,2027
+G25.0,Essential tremor,G25,2016,2027
+G25.1,Drug-induced tremor,G25,2016,2027
+G25.2,Other specified forms of tremor,G25,2016,2027
+G25.3,Myoclonus,G25,2016,2027
+G25.4,Drug-induced chorea,G25,2016,2027
+G25.5,Other chorea,G25,2016,2027
+G25.6,Drug induced tics and other tics of organic origin,G25,2016,2027
+G25.61,Drug induced tics,G25.6,2016,2027
+G25.69,Other tics of organic origin,G25.6,2016,2027
+G25.7,Other and unspecified drug induced movement disorders,G25,2016,2027
+G25.70,"Drug induced movement disorder, unspecified",G25.7,2016,2027
+G25.71,Drug induced akathisia,G25.7,2016,2027
+G25.79,Other drug induced movement disorders,G25.7,2016,2027
+G25.8,Other specified extrapyramidal and movement disorders,G25,2016,2027
+G25.81,Restless legs syndrome,G25.8,2016,2027
+G25.82,Stiff-man syndrome,G25.8,2016,2027
+G25.83,Benign shuddering attacks,G25.8,2016,2027
+G25.89,Other specified extrapyramidal and movement disorders,G25.8,2016,2027
+G25.9,"Extrapyramidal and movement disorder, unspecified",G25,2016,2027
+G26,Extrapyramidal and movement disorders in diseases classified elsewhere,,2016,2027
+G30,Alzheimer's disease,,2016,2027
+G30.0,Alzheimer's disease with early onset,G30,2016,2027
+G30.1,Alzheimer's disease with late onset,G30,2016,2027
+G30.8,Other Alzheimer's disease,G30,2016,2027
+G30.9,"Alzheimer's disease, unspecified",G30,2016,2027
+G31,"Other degenerative diseases of nervous system, not elsewhere classified",,2016,2027
+G31.0,Frontotemporal dementia,G31,2016,2027
+G31.01,Pick's disease,G31.0,2016,2027
+G31.09,Other frontotemporal neurocognitive disorder,G31.0,2016,2027
+G31.1,"Senile degeneration of brain, not elsewhere classified",G31,2016,2027
+G31.2,Degeneration of nervous system due to alcohol,G31,2016,2027
+G31.8,Other specified degenerative diseases of nervous system,G31,2016,2027
+G31.80,"Leukodystrophy, unspecified",G31.8,2024,2027
+G31.81,Alpers disease,G31.8,2016,2027
+G31.82,Leigh's disease,G31.8,2016,2027
+G31.83,Neurocognitive disorder with Lewy bodies,G31.8,2016,2027
+G31.84,Mild cognitive impairment of uncertain or unknown etiology,G31.8,2016,2027
+G31.85,Corticobasal degeneration,G31.8,2016,2027
+G31.86,Alexander disease,G31.8,2024,2027
+G31.87,Primary progressive apraxia of speech,G31.8,2026,2027
+G31.89,Other specified degenerative diseases of nervous system,G31.8,2016,2027
+G31.9,"Degenerative disease of nervous system, unspecified",G31,2016,2027
+G32,Other degenerative disorders of nervous system in diseases classified elsewhere,,2016,2027
+G32.0,Subacute combined degeneration of spinal cord in diseases classified elsewhere,G32,2016,2027
+G32.8,Other specified degenerative disorders of nervous system in diseases classified elsewhere,G32,2016,2027
+G32.81,Cerebellar ataxia in diseases classified elsewhere,G32.8,2016,2027
+G32.89,Other specified degenerative disorders of nervous system in diseases classified elsewhere,G32.8,2016,2027
+G35,Multiple sclerosis,,2016,2027
+G35.A,Relapsing-remitting multiple sclerosis,G35,2026,2027
+G35.B,Primary progressive multiple sclerosis,G35,2026,2027
+G35.B0,"Primary progressive multiple sclerosis, unspecified",G35.B,2026,2027
+G35.B1,Active primary progressive multiple sclerosis,G35.B,2026,2027
+G35.B2,Non-active primary progressive multiple sclerosis,G35.B,2026,2027
+G35.C,Secondary progressive multiple sclerosis,G35,2026,2027
+G35.C0,"Secondary progressive multiple sclerosis, unspecified",G35.C,2026,2027
+G35.C1,Active secondary progressive multiple sclerosis,G35.C,2026,2027
+G35.C2,Non-active secondary progressive multiple sclerosis,G35.C,2026,2027
+G35.D,"Multiple sclerosis, unspecified",G35,2026,2027
+G36,Other acute disseminated demyelination,,2016,2027
+G36.0,Neuromyelitis optica [Devic],G36,2016,2027
+G36.1,Acute and subacute hemorrhagic leukoencephalitis [Hurst],G36,2016,2027
+G36.8,Other specified acute disseminated demyelination,G36,2016,2027
+G36.9,"Acute disseminated demyelination, unspecified",G36,2016,2027
+G37,Other demyelinating diseases of central nervous system,,2016,2027
+G37.0,Diffuse sclerosis of central nervous system,G37,2016,2027
+G37.1,Central demyelination of corpus callosum,G37,2016,2027
+G37.2,Central pontine myelinolysis,G37,2016,2027
+G37.3,Acute transverse myelitis in demyelinating disease of central nervous system,G37,2016,2027
+G37.4,Subacute necrotizing myelitis of central nervous system,G37,2016,2027
+G37.5,Concentric sclerosis [Balo] of central nervous system,G37,2016,2027
+G37.8,Other specified demyelinating diseases of central nervous system,G37,2016,2027
+G37.81,Myelin oligodendrocyte glycoprotein antibody disease,G37.8,2024,2027
+G37.89,Other specified demyelinating diseases of central nervous system,G37.8,2024,2027
+G37.9,"Demyelinating disease of central nervous system, unspecified",G37,2016,2027
+G40,Epilepsy and recurrent seizures,,2016,2027
+G40.0,Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset,G40,2016,2027
+G40.00,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable",G40.0,2016,2027
+G40.001,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, with status epilepticus",G40.00,2016,2027
+G40.009,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus",G40.00,2016,2027
+G40.01,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable",G40.0,2016,2027
+G40.011,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, with status epilepticus",G40.01,2016,2027
+G40.019,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus",G40.01,2016,2027
+G40.1,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,G40,2016,2027
+G40.10,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable",G40.1,2016,2027
+G40.101,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus",G40.10,2016,2027
+G40.109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus",G40.10,2016,2027
+G40.11,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable",G40.1,2016,2027
+G40.111,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus",G40.11,2016,2027
+G40.119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus",G40.11,2016,2027
+G40.2,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,G40,2016,2027
+G40.20,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable",G40.2,2016,2027
+G40.201,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus",G40.20,2016,2027
+G40.209,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus",G40.20,2016,2027
+G40.21,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable",G40.2,2016,2027
+G40.211,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus",G40.21,2016,2027
+G40.219,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus",G40.21,2016,2027
+G40.3,Generalized idiopathic epilepsy and epileptic syndromes,G40,2016,2027
+G40.30,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable",G40.3,2016,2027
+G40.301,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus",G40.30,2016,2027
+G40.309,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus",G40.30,2016,2027
+G40.31,"Generalized idiopathic epilepsy and epileptic syndromes, intractable",G40.3,2016,2027
+G40.311,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus",G40.31,2016,2027
+G40.319,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus",G40.31,2016,2027
+G40.4,Other generalized epilepsy and epileptic syndromes,G40,2016,2027
+G40.40,"Other generalized epilepsy and epileptic syndromes, not intractable",G40.4,2016,2027
+G40.401,"Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus",G40.40,2016,2027
+G40.409,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus",G40.40,2016,2027
+G40.41,"Other generalized epilepsy and epileptic syndromes, intractable",G40.4,2016,2027
+G40.411,"Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus",G40.41,2016,2027
+G40.419,"Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus",G40.41,2016,2027
+G40.42,Cyclin-Dependent Kinase-Like 5 Deficiency Disorder,G40.4,2021,2027
+G40.5,Epileptic seizures related to external causes,G40,2016,2027
+G40.50,"Epileptic seizures related to external causes, not intractable",G40.5,2016,2027
+G40.501,"Epileptic seizures related to external causes, not intractable, with status epilepticus",G40.50,2016,2027
+G40.509,"Epileptic seizures related to external causes, not intractable, without status epilepticus",G40.50,2016,2027
+G40.8,Other epilepsy and recurrent seizures,G40,2016,2027
+G40.80,Other epilepsy,G40.8,2016,2027
+G40.801,"Other epilepsy, not intractable, with status epilepticus",G40.80,2016,2027
+G40.802,"Other epilepsy, not intractable, without status epilepticus",G40.80,2016,2027
+G40.803,"Other epilepsy, intractable, with status epilepticus",G40.80,2016,2027
+G40.804,"Other epilepsy, intractable, without status epilepticus",G40.80,2016,2027
+G40.81,Lennox-Gastaut syndrome,G40.8,2016,2027
+G40.811,"Lennox-Gastaut syndrome, not intractable, with status epilepticus",G40.81,2016,2027
+G40.812,"Lennox-Gastaut syndrome, not intractable, without status epilepticus",G40.81,2016,2027
+G40.813,"Lennox-Gastaut syndrome, intractable, with status epilepticus",G40.81,2016,2027
+G40.814,"Lennox-Gastaut syndrome, intractable, without status epilepticus",G40.81,2016,2027
+G40.82,Epileptic spasms,G40.8,2016,2027
+G40.821,"Epileptic spasms, not intractable, with status epilepticus",G40.82,2016,2027
+G40.822,"Epileptic spasms, not intractable, without status epilepticus",G40.82,2016,2027
+G40.823,"Epileptic spasms, intractable, with status epilepticus",G40.82,2016,2027
+G40.824,"Epileptic spasms, intractable, without status epilepticus",G40.82,2016,2027
+G40.83,Dravet syndrome,G40.8,2021,2027
+G40.833,"Dravet syndrome, intractable, with status epilepticus",G40.83,2021,2027
+G40.834,"Dravet syndrome, intractable, without status epilepticus",G40.83,2021,2027
+G40.84,KCNQ2-related epilepsy,G40.8,2025,2027
+G40.841,"KCNQ2-related epilepsy, not intractable, with status epilepticus",G40.84,2025,2027
+G40.842,"KCNQ2-related epilepsy, not intractable, without status epilepticus",G40.84,2025,2027
+G40.843,"KCNQ2-related epilepsy, intractable, with status epilepticus",G40.84,2025,2027
+G40.844,"KCNQ2-related epilepsy, intractable, without status epilepticus",G40.84,2025,2027
+G40.89,Other seizures,G40.8,2016,2027
+G40.9,"Epilepsy, unspecified",G40,2016,2027
+G40.90,"Epilepsy, unspecified, not intractable",G40.9,2016,2027
+G40.901,"Epilepsy, unspecified, not intractable, with status epilepticus",G40.90,2016,2027
+G40.909,"Epilepsy, unspecified, not intractable, without status epilepticus",G40.90,2016,2027
+G40.91,"Epilepsy, unspecified, intractable",G40.9,2016,2027
+G40.911,"Epilepsy, unspecified, intractable, with status epilepticus",G40.91,2016,2027
+G40.919,"Epilepsy, unspecified, intractable, without status epilepticus",G40.91,2016,2027
+G40.A,Absence epileptic syndrome,G40,2016,2027
+G40.A0,"Absence epileptic syndrome, not intractable",G40.A,2016,2027
+G40.A01,"Absence epileptic syndrome, not intractable, with status epilepticus",G40.A0,2016,2027
+G40.A09,"Absence epileptic syndrome, not intractable, without status epilepticus",G40.A0,2016,2027
+G40.A1,"Absence epileptic syndrome, intractable",G40.A,2016,2027
+G40.A11,"Absence epileptic syndrome, intractable, with status epilepticus",G40.A1,2016,2027
+G40.A19,"Absence epileptic syndrome, intractable, without status epilepticus",G40.A1,2016,2027
+G40.B,Juvenile myoclonic epilepsy [impulsive petit mal],G40,2016,2027
+G40.B0,"Juvenile myoclonic epilepsy, not intractable",G40.B,2016,2027
+G40.B01,"Juvenile myoclonic epilepsy, not intractable, with status epilepticus",G40.B0,2016,2027
+G40.B09,"Juvenile myoclonic epilepsy, not intractable, without status epilepticus",G40.B0,2016,2027
+G40.B1,"Juvenile myoclonic epilepsy, intractable",G40.B,2016,2027
+G40.B11,"Juvenile myoclonic epilepsy, intractable, with status epilepticus",G40.B1,2016,2027
+G40.B19,"Juvenile myoclonic epilepsy, intractable, without status epilepticus",G40.B1,2016,2027
+G40.C,Lafora progressive myoclonus epilepsy,G40,2024,2027
+G40.C0,"Lafora progressive myoclonus epilepsy, not intractable",G40.C,2024,2027
+G40.C01,"Lafora progressive myoclonus epilepsy, not intractable, with status epilepticus",G40.C0,2024,2027
+G40.C09,"Lafora progressive myoclonus epilepsy, not intractable, without status epilepticus",G40.C0,2024,2027
+G40.C1,"Lafora progressive myoclonus epilepsy, intractable",G40.C,2024,2027
+G40.C11,"Lafora progressive myoclonus epilepsy, intractable, with status epilepticus",G40.C1,2024,2027
+G40.C19,"Lafora progressive myoclonus epilepsy, intractable, without status epilepticus",G40.C1,2024,2027
+G43,Migraine,,2016,2027
+G43.0,Migraine without aura,G43,2016,2027
+G43.00,"Migraine without aura, not intractable",G43.0,2016,2027
+G43.001,"Migraine without aura, not intractable, with status migrainosus",G43.00,2016,2027
+G43.009,"Migraine without aura, not intractable, without status migrainosus",G43.00,2016,2027
+G43.01,"Migraine without aura, intractable",G43.0,2016,2027
+G43.011,"Migraine without aura, intractable, with status migrainosus",G43.01,2016,2027
+G43.019,"Migraine without aura, intractable, without status migrainosus",G43.01,2016,2027
+G43.1,Migraine with aura,G43,2016,2027
+G43.10,"Migraine with aura, not intractable",G43.1,2016,2027
+G43.101,"Migraine with aura, not intractable, with status migrainosus",G43.10,2016,2027
+G43.109,"Migraine with aura, not intractable, without status migrainosus",G43.10,2016,2027
+G43.11,"Migraine with aura, intractable",G43.1,2016,2027
+G43.111,"Migraine with aura, intractable, with status migrainosus",G43.11,2016,2027
+G43.119,"Migraine with aura, intractable, without status migrainosus",G43.11,2016,2027
+G43.4,Hemiplegic migraine,G43,2016,2027
+G43.40,"Hemiplegic migraine, not intractable",G43.4,2016,2027
+G43.401,"Hemiplegic migraine, not intractable, with status migrainosus",G43.40,2016,2027
+G43.409,"Hemiplegic migraine, not intractable, without status migrainosus",G43.40,2016,2027
+G43.41,"Hemiplegic migraine, intractable",G43.4,2016,2027
+G43.411,"Hemiplegic migraine, intractable, with status migrainosus",G43.41,2016,2027
+G43.419,"Hemiplegic migraine, intractable, without status migrainosus",G43.41,2016,2027
+G43.5,Persistent migraine aura without cerebral infarction,G43,2016,2027
+G43.50,"Persistent migraine aura without cerebral infarction, not intractable",G43.5,2016,2027
+G43.501,"Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",G43.50,2016,2027
+G43.509,"Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus",G43.50,2016,2027
+G43.51,"Persistent migraine aura without cerebral infarction, intractable",G43.5,2016,2027
+G43.511,"Persistent migraine aura without cerebral infarction, intractable, with status migrainosus",G43.51,2016,2027
+G43.519,"Persistent migraine aura without cerebral infarction, intractable, without status migrainosus",G43.51,2016,2027
+G43.6,Persistent migraine aura with cerebral infarction,G43,2016,2027
+G43.60,"Persistent migraine aura with cerebral infarction, not intractable",G43.6,2016,2027
+G43.601,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",G43.60,2016,2027
+G43.609,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",G43.60,2016,2027
+G43.61,"Persistent migraine aura with cerebral infarction, intractable",G43.6,2016,2027
+G43.611,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",G43.61,2016,2027
+G43.619,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",G43.61,2016,2027
+G43.7,Chronic migraine without aura,G43,2016,2027
+G43.70,"Chronic migraine without aura, not intractable",G43.7,2016,2027
+G43.701,"Chronic migraine without aura, not intractable, with status migrainosus",G43.70,2016,2027
+G43.709,"Chronic migraine without aura, not intractable, without status migrainosus",G43.70,2016,2027
+G43.71,"Chronic migraine without aura, intractable",G43.7,2016,2027
+G43.711,"Chronic migraine without aura, intractable, with status migrainosus",G43.71,2016,2027
+G43.719,"Chronic migraine without aura, intractable, without status migrainosus",G43.71,2016,2027
+G43.8,Other migraine,G43,2016,2027
+G43.80,"Other migraine, not intractable",G43.8,2016,2027
+G43.801,"Other migraine, not intractable, with status migrainosus",G43.80,2016,2027
+G43.809,"Other migraine, not intractable, without status migrainosus",G43.80,2016,2027
+G43.81,"Other migraine, intractable",G43.8,2016,2027
+G43.811,"Other migraine, intractable, with status migrainosus",G43.81,2016,2027
+G43.819,"Other migraine, intractable, without status migrainosus",G43.81,2016,2027
+G43.82,"Menstrual migraine, not intractable",G43.8,2016,2027
+G43.821,"Menstrual migraine, not intractable, with status migrainosus",G43.82,2016,2027
+G43.829,"Menstrual migraine, not intractable, without status migrainosus",G43.82,2016,2027
+G43.83,"Menstrual migraine, intractable",G43.8,2016,2027
+G43.831,"Menstrual migraine, intractable, with status migrainosus",G43.83,2016,2027
+G43.839,"Menstrual migraine, intractable, without status migrainosus",G43.83,2016,2027
+G43.9,"Migraine, unspecified",G43,2016,2027
+G43.90,"Migraine, unspecified, not intractable",G43.9,2016,2027
+G43.901,"Migraine, unspecified, not intractable, with status migrainosus",G43.90,2016,2027
+G43.909,"Migraine, unspecified, not intractable, without status migrainosus",G43.90,2016,2027
+G43.91,"Migraine, unspecified, intractable",G43.9,2016,2027
+G43.911,"Migraine, unspecified, intractable, with status migrainosus",G43.91,2016,2027
+G43.919,"Migraine, unspecified, intractable, without status migrainosus",G43.91,2016,2027
+G43.A,Cyclical vomiting,G43,2016,2027
+G43.A0,"Cyclical vomiting, in migraine, not intractable",G43.A,2016,2027
+G43.A1,"Cyclical vomiting, in migraine, intractable",G43.A,2016,2027
+G43.B,Ophthalmoplegic migraine,G43,2016,2027
+G43.B0,"Ophthalmoplegic migraine, not intractable",G43.B,2016,2027
+G43.B1,"Ophthalmoplegic migraine, intractable",G43.B,2016,2027
+G43.C,Periodic headache syndromes in child or adult,G43,2016,2027
+G43.C0,"Periodic headache syndromes in child or adult, not intractable",G43.C,2016,2027
+G43.C1,"Periodic headache syndromes in child or adult, intractable",G43.C,2016,2027
+G43.D,Abdominal migraine,G43,2016,2027
+G43.D0,"Abdominal migraine, not intractable",G43.D,2016,2027
+G43.D1,"Abdominal migraine, intractable",G43.D,2016,2027
+G43.E,Chronic migraine with aura,G43,2024,2027
+G43.E0,"Chronic migraine with aura, not intractable",G43.E,2024,2027
+G43.E01,"Chronic migraine with aura, not intractable, with status migrainosus",G43.E0,2024,2027
+G43.E09,"Chronic migraine with aura, not intractable, without status migrainosus",G43.E0,2024,2027
+G43.E1,"Chronic migraine with aura, intractable",G43.E,2024,2027
+G43.E11,"Chronic migraine with aura, intractable, with status migrainosus",G43.E1,2024,2027
+G43.E19,"Chronic migraine with aura, intractable, without status migrainosus",G43.E1,2024,2027
+G44,Other headache syndromes,,2016,2027
+G44.0,Cluster headaches and other trigeminal autonomic cephalgias (TAC),G44,2016,2027
+G44.00,"Cluster headache syndrome, unspecified",G44.0,2016,2027
+G44.001,"Cluster headache syndrome, unspecified, intractable",G44.00,2016,2027
+G44.009,"Cluster headache syndrome, unspecified, not intractable",G44.00,2016,2027
+G44.01,Episodic cluster headache,G44.0,2016,2027
+G44.011,"Episodic cluster headache, intractable",G44.01,2016,2027
+G44.019,"Episodic cluster headache, not intractable",G44.01,2016,2027
+G44.02,Chronic cluster headache,G44.0,2016,2027
+G44.021,"Chronic cluster headache, intractable",G44.02,2016,2027
+G44.029,"Chronic cluster headache, not intractable",G44.02,2016,2027
+G44.03,Episodic paroxysmal hemicrania,G44.0,2016,2027
+G44.031,"Episodic paroxysmal hemicrania, intractable",G44.03,2016,2027
+G44.039,"Episodic paroxysmal hemicrania, not intractable",G44.03,2016,2027
+G44.04,Chronic paroxysmal hemicrania,G44.0,2016,2027
+G44.041,"Chronic paroxysmal hemicrania, intractable",G44.04,2016,2027
+G44.049,"Chronic paroxysmal hemicrania, not intractable",G44.04,2016,2027
+G44.05,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT),G44.0,2016,2027
+G44.051,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable",G44.05,2016,2027
+G44.059,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable",G44.05,2016,2027
+G44.09,Other trigeminal autonomic cephalgias (TAC),G44.0,2016,2027
+G44.091,"Other trigeminal autonomic cephalgias (TAC), intractable",G44.09,2016,2027
+G44.099,"Other trigeminal autonomic cephalgias (TAC), not intractable",G44.09,2016,2027
+G44.1,"Vascular headache, not elsewhere classified",G44,2016,2027
+G44.2,Tension-type headache,G44,2016,2027
+G44.20,"Tension-type headache, unspecified",G44.2,2016,2027
+G44.201,"Tension-type headache, unspecified, intractable",G44.20,2016,2027
+G44.209,"Tension-type headache, unspecified, not intractable",G44.20,2016,2027
+G44.21,Episodic tension-type headache,G44.2,2016,2027
+G44.211,"Episodic tension-type headache, intractable",G44.21,2016,2027
+G44.219,"Episodic tension-type headache, not intractable",G44.21,2016,2027
+G44.22,Chronic tension-type headache,G44.2,2016,2027
+G44.221,"Chronic tension-type headache, intractable",G44.22,2016,2027
+G44.229,"Chronic tension-type headache, not intractable",G44.22,2016,2027
+G44.3,Post-traumatic headache,G44,2016,2027
+G44.30,"Post-traumatic headache, unspecified",G44.3,2016,2027
+G44.301,"Post-traumatic headache, unspecified, intractable",G44.30,2016,2027
+G44.309,"Post-traumatic headache, unspecified, not intractable",G44.30,2016,2027
+G44.31,Acute post-traumatic headache,G44.3,2016,2027
+G44.311,"Acute post-traumatic headache, intractable",G44.31,2016,2027
+G44.319,"Acute post-traumatic headache, not intractable",G44.31,2016,2027
+G44.32,Chronic post-traumatic headache,G44.3,2016,2027
+G44.321,"Chronic post-traumatic headache, intractable",G44.32,2016,2027
+G44.329,"Chronic post-traumatic headache, not intractable",G44.32,2016,2027
+G44.4,"Drug-induced headache, not elsewhere classified",G44,2016,2027
+G44.40,"Drug-induced headache, not elsewhere classified, not intractable",G44.4,2016,2027
+G44.41,"Drug-induced headache, not elsewhere classified, intractable",G44.4,2016,2027
+G44.5,Complicated headache syndromes,G44,2016,2027
+G44.51,Hemicrania continua,G44.5,2016,2027
+G44.52,New daily persistent headache (NDPH),G44.5,2016,2027
+G44.53,Primary thunderclap headache,G44.5,2016,2027
+G44.59,Other complicated headache syndrome,G44.5,2016,2027
+G44.8,Other specified headache syndromes,G44,2016,2027
+G44.81,Hypnic headache,G44.8,2016,2027
+G44.82,Headache associated with sexual activity,G44.8,2016,2027
+G44.83,Primary cough headache,G44.8,2016,2027
+G44.84,Primary exertional headache,G44.8,2016,2027
+G44.85,Primary stabbing headache,G44.8,2016,2027
+G44.86,Cervicogenic headache,G44.8,2022,2027
+G44.89,Other headache syndrome,G44.8,2016,2027
+G45,Transient cerebral ischemic attacks and related syndromes,,2016,2027
+G45.0,Vertebro-basilar artery syndrome,G45,2016,2027
+G45.1,Carotid artery syndrome (hemispheric),G45,2016,2027
+G45.2,Multiple and bilateral precerebral artery syndromes,G45,2016,2027
+G45.3,Amaurosis fugax,G45,2016,2027
+G45.4,Transient global amnesia,G45,2016,2027
+G45.8,Other transient cerebral ischemic attacks and related syndromes,G45,2016,2027
+G45.9,"Transient cerebral ischemic attack, unspecified",G45,2016,2027
+G46,Vascular syndromes of brain in cerebrovascular diseases,,2016,2027
+G46.0,Middle cerebral artery syndrome,G46,2016,2027
+G46.1,Anterior cerebral artery syndrome,G46,2016,2027
+G46.2,Posterior cerebral artery syndrome,G46,2016,2027
+G46.3,Brain stem stroke syndrome,G46,2016,2027
+G46.4,Cerebellar stroke syndrome,G46,2016,2027
+G46.5,Pure motor lacunar syndrome,G46,2016,2027
+G46.6,Pure sensory lacunar syndrome,G46,2016,2027
+G46.7,Other lacunar syndromes,G46,2016,2027
+G46.8,Other vascular syndromes of brain in cerebrovascular diseases,G46,2016,2027
+G47,Sleep disorders,,2016,2027
+G47.0,Insomnia,G47,2016,2027
+G47.00,"Insomnia, unspecified",G47.0,2016,2027
+G47.01,Insomnia due to medical condition,G47.0,2016,2027
+G47.09,Other insomnia,G47.0,2016,2027
+G47.1,Hypersomnia,G47,2016,2027
+G47.10,"Hypersomnia, unspecified",G47.1,2016,2027
+G47.11,Idiopathic hypersomnia with long sleep time,G47.1,2016,2027
+G47.12,Idiopathic hypersomnia without long sleep time,G47.1,2016,2027
+G47.13,Recurrent hypersomnia,G47.1,2016,2027
+G47.14,Hypersomnia due to medical condition,G47.1,2016,2027
+G47.19,Other hypersomnia,G47.1,2016,2027
+G47.2,Circadian rhythm sleep disorders,G47,2016,2027
+G47.20,"Circadian rhythm sleep disorder, unspecified type",G47.2,2016,2027
+G47.21,"Circadian rhythm sleep disorder, delayed sleep phase type",G47.2,2016,2027
+G47.22,"Circadian rhythm sleep disorder, advanced sleep phase type",G47.2,2016,2027
+G47.23,"Circadian rhythm sleep disorder, irregular sleep wake type",G47.2,2016,2027
+G47.24,"Circadian rhythm sleep disorder, free running type",G47.2,2016,2027
+G47.25,"Circadian rhythm sleep disorder, jet lag type",G47.2,2016,2027
+G47.26,"Circadian rhythm sleep disorder, shift work type",G47.2,2016,2027
+G47.27,Circadian rhythm sleep disorder in conditions classified elsewhere,G47.2,2016,2027
+G47.29,Other circadian rhythm sleep disorder,G47.2,2016,2027
+G47.3,Sleep apnea,G47,2016,2027
+G47.30,"Sleep apnea, unspecified",G47.3,2016,2027
+G47.31,Primary central sleep apnea,G47.3,2016,2027
+G47.32,High altitude periodic breathing,G47.3,2016,2027
+G47.33,Obstructive sleep apnea (adult) (pediatric),G47.3,2016,2027
+G47.34,Idiopathic sleep related nonobstructive alveolar hypoventilation,G47.3,2016,2027
+G47.35,Congenital central alveolar hypoventilation syndrome,G47.3,2016,2027
+G47.36,Sleep related hypoventilation in conditions classified elsewhere,G47.3,2016,2027
+G47.37,Central sleep apnea in conditions classified elsewhere,G47.3,2016,2027
+G47.39,Other sleep apnea,G47.3,2016,2027
+G47.4,Narcolepsy and cataplexy,G47,2016,2027
+G47.41,Narcolepsy,G47.4,2016,2027
+G47.411,Narcolepsy with cataplexy,G47.41,2016,2027
+G47.419,Narcolepsy without cataplexy,G47.41,2016,2027
+G47.42,Narcolepsy in conditions classified elsewhere,G47.4,2016,2027
+G47.421,Narcolepsy in conditions classified elsewhere with cataplexy,G47.42,2016,2027
+G47.429,Narcolepsy in conditions classified elsewhere without cataplexy,G47.42,2016,2027
+G47.5,Parasomnia,G47,2016,2027
+G47.50,"Parasomnia, unspecified",G47.5,2016,2027
+G47.51,Confusional arousals,G47.5,2016,2027
+G47.52,REM sleep behavior disorder,G47.5,2016,2027
+G47.53,Recurrent isolated sleep paralysis,G47.5,2016,2027
+G47.54,Parasomnia in conditions classified elsewhere,G47.5,2016,2027
+G47.59,Other parasomnia,G47.5,2016,2027
+G47.6,Sleep related movement disorders,G47,2016,2027
+G47.61,Periodic limb movement disorder,G47.6,2016,2027
+G47.62,Sleep related leg cramps,G47.6,2016,2027
+G47.63,Sleep related bruxism,G47.6,2016,2027
+G47.69,Other sleep related movement disorders,G47.6,2016,2027
+G47.8,Other sleep disorders,G47,2016,2027
+G47.9,"Sleep disorder, unspecified",G47,2016,2027
+G50,Disorders of trigeminal nerve,,2016,2027
+G50.0,Trigeminal neuralgia,G50,2016,2027
+G50.1,Atypical facial pain,G50,2016,2027
+G50.8,Other disorders of trigeminal nerve,G50,2016,2027
+G50.9,"Disorder of trigeminal nerve, unspecified",G50,2016,2027
+G51,Facial nerve disorders,,2016,2027
+G51.0,Bell's palsy,G51,2016,2027
+G51.1,Geniculate ganglionitis,G51,2016,2027
+G51.2,Melkersson's syndrome,G51,2016,2027
+G51.3,Clonic hemifacial spasm,G51,2016,2027
+G51.31,"Clonic hemifacial spasm, right",G51.3,2019,2027
+G51.32,"Clonic hemifacial spasm, left",G51.3,2019,2027
+G51.33,"Clonic hemifacial spasm, bilateral",G51.3,2019,2027
+G51.39,"Clonic hemifacial spasm, unspecified",G51.3,2019,2027
+G51.4,Facial myokymia,G51,2016,2027
+G51.8,Other disorders of facial nerve,G51,2016,2027
+G51.9,"Disorder of facial nerve, unspecified",G51,2016,2027
+G52,Disorders of other cranial nerves,,2016,2027
+G52.0,Disorders of olfactory nerve,G52,2016,2027
+G52.1,Disorders of glossopharyngeal nerve,G52,2016,2027
+G52.2,Disorders of vagus nerve,G52,2016,2027
+G52.3,Disorders of hypoglossal nerve,G52,2016,2027
+G52.7,Disorders of multiple cranial nerves,G52,2016,2027
+G52.8,Disorders of other specified cranial nerves,G52,2016,2027
+G52.9,"Cranial nerve disorder, unspecified",G52,2016,2027
+G53,Cranial nerve disorders in diseases classified elsewhere,,2016,2027
+G54,Nerve root and plexus disorders,,2016,2027
+G54.0,Brachial plexus disorders,G54,2016,2027
+G54.1,Lumbosacral plexus disorders,G54,2016,2027
+G54.2,"Cervical root disorders, not elsewhere classified",G54,2016,2027
+G54.3,"Thoracic root disorders, not elsewhere classified",G54,2016,2027
+G54.4,"Lumbosacral root disorders, not elsewhere classified",G54,2016,2027
+G54.5,Neuralgic amyotrophy,G54,2016,2027
+G54.6,Phantom limb syndrome with pain,G54,2016,2027
+G54.7,Phantom limb syndrome without pain,G54,2016,2027
+G54.8,Other nerve root and plexus disorders,G54,2016,2027
+G54.9,"Nerve root and plexus disorder, unspecified",G54,2016,2027
+G55,Nerve root and plexus compressions in diseases classified elsewhere,,2016,2027
+G56,Mononeuropathies of upper limb,,2016,2027
+G56.0,Carpal tunnel syndrome,G56,2016,2027
+G56.00,"Carpal tunnel syndrome, unspecified upper limb",G56.0,2016,2027
+G56.01,"Carpal tunnel syndrome, right upper limb",G56.0,2016,2027
+G56.02,"Carpal tunnel syndrome, left upper limb",G56.0,2016,2027
+G56.03,"Carpal tunnel syndrome, bilateral upper limbs",G56.0,2017,2027
+G56.1,Other lesions of median nerve,G56,2016,2027
+G56.10,"Other lesions of median nerve, unspecified upper limb",G56.1,2016,2027
+G56.11,"Other lesions of median nerve, right upper limb",G56.1,2016,2027
+G56.12,"Other lesions of median nerve, left upper limb",G56.1,2016,2027
+G56.13,"Other lesions of median nerve, bilateral upper limbs",G56.1,2017,2027
+G56.2,Lesion of ulnar nerve,G56,2016,2027
+G56.20,"Lesion of ulnar nerve, unspecified upper limb",G56.2,2016,2027
+G56.21,"Lesion of ulnar nerve, right upper limb",G56.2,2016,2027
+G56.22,"Lesion of ulnar nerve, left upper limb",G56.2,2016,2027
+G56.23,"Lesion of ulnar nerve, bilateral upper limbs",G56.2,2017,2027
+G56.3,Lesion of radial nerve,G56,2016,2027
+G56.30,"Lesion of radial nerve, unspecified upper limb",G56.3,2016,2027
+G56.31,"Lesion of radial nerve, right upper limb",G56.3,2016,2027
+G56.32,"Lesion of radial nerve, left upper limb",G56.3,2016,2027
+G56.33,"Lesion of radial nerve, bilateral upper limbs",G56.3,2017,2027
+G56.4,Causalgia of upper limb,G56,2016,2027
+G56.40,Causalgia of unspecified upper limb,G56.4,2016,2027
+G56.41,Causalgia of right upper limb,G56.4,2016,2027
+G56.42,Causalgia of left upper limb,G56.4,2016,2027
+G56.43,Causalgia of bilateral upper limbs,G56.4,2017,2027
+G56.8,Other specified mononeuropathies of upper limb,G56,2016,2027
+G56.80,Other specified mononeuropathies of unspecified upper limb,G56.8,2016,2027
+G56.81,Other specified mononeuropathies of right upper limb,G56.8,2016,2027
+G56.82,Other specified mononeuropathies of left upper limb,G56.8,2016,2027
+G56.83,Other specified mononeuropathies of bilateral upper limbs,G56.8,2017,2027
+G56.9,Unspecified mononeuropathy of upper limb,G56,2016,2027
+G56.90,Unspecified mononeuropathy of unspecified upper limb,G56.9,2016,2027
+G56.91,Unspecified mononeuropathy of right upper limb,G56.9,2016,2027
+G56.92,Unspecified mononeuropathy of left upper limb,G56.9,2016,2027
+G56.93,Unspecified mononeuropathy of bilateral upper limbs,G56.9,2017,2027
+G57,Mononeuropathies of lower limb,,2016,2027
+G57.0,Lesion of sciatic nerve,G57,2016,2027
+G57.00,"Lesion of sciatic nerve, unspecified lower limb",G57.0,2016,2027
+G57.01,"Lesion of sciatic nerve, right lower limb",G57.0,2016,2027
+G57.02,"Lesion of sciatic nerve, left lower limb",G57.0,2016,2027
+G57.03,"Lesion of sciatic nerve, bilateral lower limbs",G57.0,2017,2027
+G57.1,Meralgia paresthetica,G57,2016,2027
+G57.10,"Meralgia paresthetica, unspecified lower limb",G57.1,2016,2027
+G57.11,"Meralgia paresthetica, right lower limb",G57.1,2016,2027
+G57.12,"Meralgia paresthetica, left lower limb",G57.1,2016,2027
+G57.13,"Meralgia paresthetica, bilateral lower limbs",G57.1,2017,2027
+G57.2,Lesion of femoral nerve,G57,2016,2027
+G57.20,"Lesion of femoral nerve, unspecified lower limb",G57.2,2016,2027
+G57.21,"Lesion of femoral nerve, right lower limb",G57.2,2016,2027
+G57.22,"Lesion of femoral nerve, left lower limb",G57.2,2016,2027
+G57.23,"Lesion of femoral nerve, bilateral lower limbs",G57.2,2017,2027
+G57.3,Lesion of lateral popliteal nerve,G57,2016,2027
+G57.30,"Lesion of lateral popliteal nerve, unspecified lower limb",G57.3,2016,2027
+G57.31,"Lesion of lateral popliteal nerve, right lower limb",G57.3,2016,2027
+G57.32,"Lesion of lateral popliteal nerve, left lower limb",G57.3,2016,2027
+G57.33,"Lesion of lateral popliteal nerve, bilateral lower limbs",G57.3,2017,2027
+G57.4,Lesion of medial popliteal nerve,G57,2016,2027
+G57.40,"Lesion of medial popliteal nerve, unspecified lower limb",G57.4,2016,2027
+G57.41,"Lesion of medial popliteal nerve, right lower limb",G57.4,2016,2027
+G57.42,"Lesion of medial popliteal nerve, left lower limb",G57.4,2016,2027
+G57.43,"Lesion of medial popliteal nerve, bilateral lower limbs",G57.4,2017,2027
+G57.5,Tarsal tunnel syndrome,G57,2016,2027
+G57.50,"Tarsal tunnel syndrome, unspecified lower limb",G57.5,2016,2027
+G57.51,"Tarsal tunnel syndrome, right lower limb",G57.5,2016,2027
+G57.52,"Tarsal tunnel syndrome, left lower limb",G57.5,2016,2027
+G57.53,"Tarsal tunnel syndrome, bilateral lower limbs",G57.5,2017,2027
+G57.6,Lesion of plantar nerve,G57,2016,2027
+G57.60,"Lesion of plantar nerve, unspecified lower limb",G57.6,2016,2027
+G57.61,"Lesion of plantar nerve, right lower limb",G57.6,2016,2027
+G57.62,"Lesion of plantar nerve, left lower limb",G57.6,2016,2027
+G57.63,"Lesion of plantar nerve, bilateral lower limbs",G57.6,2017,2027
+G57.7,Causalgia of lower limb,G57,2016,2027
+G57.70,Causalgia of unspecified lower limb,G57.7,2016,2027
+G57.71,Causalgia of right lower limb,G57.7,2016,2027
+G57.72,Causalgia of left lower limb,G57.7,2016,2027
+G57.73,Causalgia of bilateral lower limbs,G57.7,2017,2027
+G57.8,Other specified mononeuropathies of lower limb,G57,2016,2027
+G57.80,Other specified mononeuropathies of unspecified lower limb,G57.8,2016,2027
+G57.81,Other specified mononeuropathies of right lower limb,G57.8,2016,2027
+G57.82,Other specified mononeuropathies of left lower limb,G57.8,2016,2027
+G57.83,Other specified mononeuropathies of bilateral lower limbs,G57.8,2017,2027
+G57.9,Unspecified mononeuropathy of lower limb,G57,2016,2027
+G57.90,Unspecified mononeuropathy of unspecified lower limb,G57.9,2016,2027
+G57.91,Unspecified mononeuropathy of right lower limb,G57.9,2016,2027
+G57.92,Unspecified mononeuropathy of left lower limb,G57.9,2016,2027
+G57.93,Unspecified mononeuropathy of bilateral lower limbs,G57.9,2017,2027
+G58,Other mononeuropathies,,2016,2027
+G58.0,Intercostal neuropathy,G58,2016,2027
+G58.7,Mononeuritis multiplex,G58,2016,2027
+G58.8,Other specified mononeuropathies,G58,2016,2027
+G58.9,"Mononeuropathy, unspecified",G58,2016,2027
+G59,Mononeuropathy in diseases classified elsewhere,,2016,2027
+G60,Hereditary and idiopathic neuropathy,,2016,2027
+G60.0,Hereditary motor and sensory neuropathy,G60,2016,2027
+G60.1,Refsum's disease,G60,2016,2027
+G60.2,Neuropathy in association with hereditary ataxia,G60,2016,2027
+G60.3,Idiopathic progressive neuropathy,G60,2016,2027
+G60.8,Other hereditary and idiopathic neuropathies,G60,2016,2027
+G60.9,"Hereditary and idiopathic neuropathy, unspecified",G60,2016,2027
+G61,Inflammatory polyneuropathy,,2016,2027
+G61.0,Guillain-Barre syndrome,G61,2016,2027
+G61.1,Serum neuropathy,G61,2016,2027
+G61.8,Other inflammatory polyneuropathies,G61,2016,2027
+G61.81,Chronic inflammatory demyelinating polyneuritis,G61.8,2016,2027
+G61.82,Multifocal motor neuropathy,G61.8,2017,2027
+G61.89,Other inflammatory polyneuropathies,G61.8,2016,2027
+G61.9,"Inflammatory polyneuropathy, unspecified",G61,2016,2027
+G62,Other and unspecified polyneuropathies,,2016,2027
+G62.0,Drug-induced polyneuropathy,G62,2016,2027
+G62.1,Alcoholic polyneuropathy,G62,2016,2027
+G62.2,Polyneuropathy due to other toxic agents,G62,2016,2027
+G62.8,Other specified polyneuropathies,G62,2016,2027
+G62.81,Critical illness polyneuropathy,G62.8,2016,2027
+G62.82,Radiation-induced polyneuropathy,G62.8,2016,2027
+G62.89,Other specified polyneuropathies,G62.8,2016,2027
+G62.9,"Polyneuropathy, unspecified",G62,2016,2027
+G63,Polyneuropathy in diseases classified elsewhere,,2016,2027
+G64,Other disorders of peripheral nervous system,,2016,2027
+G65,Sequelae of inflammatory and toxic polyneuropathies,,2016,2027
+G65.0,Sequelae of Guillain-Barre syndrome,G65,2016,2027
+G65.1,Sequelae of other inflammatory polyneuropathy,G65,2016,2027
+G65.2,Sequelae of toxic polyneuropathy,G65,2016,2027
+G70,Myasthenia gravis and other myoneural disorders,,2016,2027
+G70.0,Myasthenia gravis,G70,2016,2027
+G70.00,Myasthenia gravis without (acute) exacerbation,G70.0,2016,2027
+G70.01,Myasthenia gravis with (acute) exacerbation,G70.0,2016,2027
+G70.1,Toxic myoneural disorders,G70,2016,2027
+G70.2,Congenital and developmental myasthenia,G70,2016,2027
+G70.8,Other specified myoneural disorders,G70,2016,2027
+G70.80,"Lambert-Eaton syndrome, unspecified",G70.8,2016,2027
+G70.81,Lambert-Eaton syndrome in disease classified elsewhere,G70.8,2016,2027
+G70.89,Other specified myoneural disorders,G70.8,2016,2027
+G70.9,"Myoneural disorder, unspecified",G70,2016,2027
+G71,Primary disorders of muscles,,2016,2027
+G71.0,Muscular dystrophy,G71,2016,2027
+G71.00,"Muscular dystrophy, unspecified",G71.0,2019,2027
+G71.01,Duchenne or Becker muscular dystrophy,G71.0,2019,2027
+G71.02,Facioscapulohumeral muscular dystrophy,G71.0,2019,2027
+G71.03,Limb girdle muscular dystrophies,G71.0,2023,2027
+G71.031,Autosomal dominant limb girdle muscular dystrophy,G71.03,2023,2027
+G71.032,Autosomal recessive limb girdle muscular dystrophy due to calpain-3 dysfunction,G71.03,2023,2027
+G71.033,Limb girdle muscular dystrophy due to dysferlin dysfunction,G71.03,2023,2027
+G71.034,Limb girdle muscular dystrophy due to sarcoglycan dysfunction,G71.03,2023,2027
+G71.0340,"Limb girdle muscular dystrophy due to sarcoglycan dysfunction, unspecified",G71.034,2023,2027
+G71.0341,Limb girdle muscular dystrophy due to alpha sarcoglycan dysfunction,G71.034,2023,2027
+G71.0342,Limb girdle muscular dystrophy due to beta sarcoglycan dysfunction,G71.034,2023,2027
+G71.0349,Limb girdle muscular dystrophy due to other sarcoglycan dysfunction,G71.034,2023,2027
+G71.035,Limb girdle muscular dystrophy due to anoctamin-5 dysfunction,G71.03,2023,2027
+G71.036,Limb girdle muscular dystrophy due to fukutin related protein dysfunction,G71.03,2026,2027
+G71.038,Other limb girdle muscular dystrophy,G71.03,2023,2027
+G71.039,"Limb girdle muscular dystrophy, unspecified",G71.03,2023,2027
+G71.09,Other specified muscular dystrophies,G71.0,2019,2027
+G71.1,Myotonic disorders,G71,2016,2027
+G71.11,Myotonic muscular dystrophy,G71.1,2016,2027
+G71.12,Myotonia congenita,G71.1,2016,2027
+G71.13,Myotonic chondrodystrophy,G71.1,2016,2027
+G71.14,Drug induced myotonia,G71.1,2016,2027
+G71.19,Other specified myotonic disorders,G71.1,2016,2027
+G71.2,Congenital myopathies,G71,2016,2027
+G71.20,"Congenital myopathy, unspecified",G71.2,2021,2027
+G71.21,Nemaline myopathy,G71.2,2021,2027
+G71.22,Centronuclear myopathy,G71.2,2021,2027
+G71.220,X-linked myotubular myopathy,G71.22,2021,2027
+G71.228,Other centronuclear myopathy,G71.22,2021,2027
+G71.29,Other congenital myopathy,G71.2,2021,2027
+G71.3,"Mitochondrial myopathy, not elsewhere classified",G71,2016,2027
+G71.8,Other primary disorders of muscles,G71,2016,2027
+G71.9,"Primary disorder of muscle, unspecified",G71,2016,2027
+G72,Other and unspecified myopathies,,2016,2027
+G72.0,Drug-induced myopathy,G72,2016,2027
+G72.1,Alcoholic myopathy,G72,2016,2027
+G72.2,Myopathy due to other toxic agents,G72,2016,2027
+G72.3,Periodic paralysis,G72,2016,2027
+G72.4,"Inflammatory and immune myopathies, not elsewhere classified",G72,2016,2027
+G72.41,Inclusion body myositis [IBM],G72.4,2016,2027
+G72.49,"Other inflammatory and immune myopathies, not elsewhere classified",G72.4,2016,2027
+G72.8,Other specified myopathies,G72,2016,2027
+G72.81,Critical illness myopathy,G72.8,2016,2027
+G72.89,Other specified myopathies,G72.8,2016,2027
+G72.9,"Myopathy, unspecified",G72,2016,2027
+G73,Disorders of myoneural junction and muscle in diseases classified elsewhere,,2016,2027
+G73.1,Lambert-Eaton syndrome in neoplastic disease,G73,2016,2027
+G73.3,Myasthenic syndromes in other diseases classified elsewhere,G73,2016,2027
+G73.7,Myopathy in diseases classified elsewhere,G73,2016,2027
+G80,Cerebral palsy,,2016,2027
+G80.0,Spastic quadriplegic cerebral palsy,G80,2016,2027
+G80.1,Spastic diplegic cerebral palsy,G80,2016,2027
+G80.2,Spastic hemiplegic cerebral palsy,G80,2016,2027
+G80.3,Athetoid cerebral palsy,G80,2016,2027
+G80.4,Ataxic cerebral palsy,G80,2016,2027
+G80.8,Other cerebral palsy,G80,2016,2027
+G80.9,"Cerebral palsy, unspecified",G80,2016,2027
+G81,Hemiplegia and hemiparesis,,2016,2027
+G81.0,Flaccid hemiplegia,G81,2016,2027
+G81.00,Flaccid hemiplegia affecting unspecified side,G81.0,2016,2027
+G81.01,Flaccid hemiplegia affecting right dominant side,G81.0,2016,2027
+G81.02,Flaccid hemiplegia affecting left dominant side,G81.0,2016,2027
+G81.03,Flaccid hemiplegia affecting right nondominant side,G81.0,2016,2027
+G81.04,Flaccid hemiplegia affecting left nondominant side,G81.0,2016,2027
+G81.1,Spastic hemiplegia,G81,2016,2027
+G81.10,Spastic hemiplegia affecting unspecified side,G81.1,2016,2027
+G81.11,Spastic hemiplegia affecting right dominant side,G81.1,2016,2027
+G81.12,Spastic hemiplegia affecting left dominant side,G81.1,2016,2027
+G81.13,Spastic hemiplegia affecting right nondominant side,G81.1,2016,2027
+G81.14,Spastic hemiplegia affecting left nondominant side,G81.1,2016,2027
+G81.9,"Hemiplegia, unspecified",G81,2016,2027
+G81.90,"Hemiplegia, unspecified affecting unspecified side",G81.9,2016,2027
+G81.91,"Hemiplegia, unspecified affecting right dominant side",G81.9,2016,2027
+G81.92,"Hemiplegia, unspecified affecting left dominant side",G81.9,2016,2027
+G81.93,"Hemiplegia, unspecified affecting right nondominant side",G81.9,2016,2027
+G81.94,"Hemiplegia, unspecified affecting left nondominant side",G81.9,2016,2027
+G82,Paraplegia (paraparesis) and quadriplegia (quadriparesis),,2016,2027
+G82.2,Paraplegia,G82,2016,2027
+G82.20,"Paraplegia, unspecified",G82.2,2016,2027
+G82.21,"Paraplegia, complete",G82.2,2016,2027
+G82.22,"Paraplegia, incomplete",G82.2,2016,2027
+G82.5,Quadriplegia,G82,2016,2027
+G82.50,"Quadriplegia, unspecified",G82.5,2016,2027
+G82.51,"Quadriplegia, C1-C4 complete",G82.5,2016,2027
+G82.52,"Quadriplegia, C1-C4 incomplete",G82.5,2016,2027
+G82.53,"Quadriplegia, C5-C7 complete",G82.5,2016,2027
+G82.54,"Quadriplegia, C5-C7 incomplete",G82.5,2016,2027
+G83,Other paralytic syndromes,,2016,2027
+G83.0,Diplegia of upper limbs,G83,2016,2027
+G83.1,Monoplegia of lower limb,G83,2016,2027
+G83.10,Monoplegia of lower limb affecting unspecified side,G83.1,2016,2027
+G83.11,Monoplegia of lower limb affecting right dominant side,G83.1,2016,2027
+G83.12,Monoplegia of lower limb affecting left dominant side,G83.1,2016,2027
+G83.13,Monoplegia of lower limb affecting right nondominant side,G83.1,2016,2027
+G83.14,Monoplegia of lower limb affecting left nondominant side,G83.1,2016,2027
+G83.2,Monoplegia of upper limb,G83,2016,2027
+G83.20,Monoplegia of upper limb affecting unspecified side,G83.2,2016,2027
+G83.21,Monoplegia of upper limb affecting right dominant side,G83.2,2016,2027
+G83.22,Monoplegia of upper limb affecting left dominant side,G83.2,2016,2027
+G83.23,Monoplegia of upper limb affecting right nondominant side,G83.2,2016,2027
+G83.24,Monoplegia of upper limb affecting left nondominant side,G83.2,2016,2027
+G83.3,"Monoplegia, unspecified",G83,2016,2027
+G83.30,"Monoplegia, unspecified affecting unspecified side",G83.3,2016,2027
+G83.31,"Monoplegia, unspecified affecting right dominant side",G83.3,2016,2027
+G83.32,"Monoplegia, unspecified affecting left dominant side",G83.3,2016,2027
+G83.33,"Monoplegia, unspecified affecting right nondominant side",G83.3,2016,2027
+G83.34,"Monoplegia, unspecified affecting left nondominant side",G83.3,2016,2027
+G83.4,Cauda equina syndrome,G83,2016,2027
+G83.5,Locked-in state,G83,2016,2027
+G83.8,Other specified paralytic syndromes,G83,2016,2027
+G83.81,Brown-Sequard syndrome,G83.8,2016,2027
+G83.82,Anterior cord syndrome,G83.8,2016,2027
+G83.83,Posterior cord syndrome,G83.8,2016,2027
+G83.84,Todd's paralysis (postepileptic),G83.8,2016,2027
+G83.89,Other specified paralytic syndromes,G83.8,2016,2027
+G83.9,"Paralytic syndrome, unspecified",G83,2016,2027
+G89,"Pain, not elsewhere classified",,2016,2027
+G89.0,Central pain syndrome,G89,2016,2027
+G89.1,"Acute pain, not elsewhere classified",G89,2016,2027
+G89.11,Acute pain due to trauma,G89.1,2016,2027
+G89.12,Acute post-thoracotomy pain,G89.1,2016,2027
+G89.18,Other acute postprocedural pain,G89.1,2016,2027
+G89.2,"Chronic pain, not elsewhere classified",G89,2016,2027
+G89.21,Chronic pain due to trauma,G89.2,2016,2027
+G89.22,Chronic post-thoracotomy pain,G89.2,2016,2027
+G89.28,Other chronic postprocedural pain,G89.2,2016,2027
+G89.29,Other chronic pain,G89.2,2016,2027
+G89.3,Neoplasm related pain (acute) (chronic),G89,2016,2027
+G89.4,Chronic pain syndrome,G89,2016,2027
+G90,Disorders of autonomic nervous system,,2016,2027
+G90.0,Idiopathic peripheral autonomic neuropathy,G90,2016,2027
+G90.01,Carotid sinus syncope,G90.0,2016,2027
+G90.09,Other idiopathic peripheral autonomic neuropathy,G90.0,2016,2027
+G90.1,Familial dysautonomia [Riley-Day],G90,2016,2027
+G90.2,Horner's syndrome,G90,2016,2027
+G90.3,Multi-system degeneration of the autonomic nervous system,G90,2016,2027
+G90.4,Autonomic dysreflexia,G90,2016,2027
+G90.5,Complex regional pain syndrome I (CRPS I),G90,2016,2027
+G90.50,"Complex regional pain syndrome I, unspecified",G90.5,2016,2027
+G90.51,Complex regional pain syndrome I of upper limb,G90.5,2016,2027
+G90.511,Complex regional pain syndrome I of right upper limb,G90.51,2016,2027
+G90.512,Complex regional pain syndrome I of left upper limb,G90.51,2016,2027
+G90.513,"Complex regional pain syndrome I of upper limb, bilateral",G90.51,2016,2027
+G90.519,Complex regional pain syndrome I of unspecified upper limb,G90.51,2016,2027
+G90.52,Complex regional pain syndrome I of lower limb,G90.5,2016,2027
+G90.521,Complex regional pain syndrome I of right lower limb,G90.52,2016,2027
+G90.522,Complex regional pain syndrome I of left lower limb,G90.52,2016,2027
+G90.523,"Complex regional pain syndrome I of lower limb, bilateral",G90.52,2016,2027
+G90.529,Complex regional pain syndrome I of unspecified lower limb,G90.52,2016,2027
+G90.59,Complex regional pain syndrome I of other specified site,G90.5,2016,2027
+G90.8,Other disorders of autonomic nervous system,G90,2016,2027
+G90.81,Serotonin syndrome,G90.8,2025,2027
+G90.89,Other disorders of autonomic nervous system,G90.8,2025,2027
+G90.9,"Disorder of the autonomic nervous system, unspecified",G90,2016,2027
+G90.A,Postural orthostatic tachycardia syndrome [POTS],G90,2023,2027
+G90.B,LMNB1-related autosomal dominant leukodystrophy,G90,2024,2027
+G91,Hydrocephalus,,2016,2027
+G91.0,Communicating hydrocephalus,G91,2016,2027
+G91.1,Obstructive hydrocephalus,G91,2016,2027
+G91.2,(Idiopathic) normal pressure hydrocephalus,G91,2016,2027
+G91.3,"Post-traumatic hydrocephalus, unspecified",G91,2016,2027
+G91.4,Hydrocephalus in diseases classified elsewhere,G91,2016,2027
+G91.8,Other hydrocephalus,G91,2016,2027
+G91.9,"Hydrocephalus, unspecified",G91,2016,2027
+G92,Toxic encephalopathy,,2016,2027
+G92.0,Immune effector cell-associated neurotoxicity syndrome,G92,2022,2027
+G92.00,"Immune effector cell-associated neurotoxicity syndrome, grade unspecified",G92.0,2022,2027
+G92.01,"Immune effector cell-associated neurotoxicity syndrome, grade 1",G92.0,2022,2027
+G92.02,"Immune effector cell-associated neurotoxicity syndrome, grade 2",G92.0,2022,2027
+G92.03,"Immune effector cell-associated neurotoxicity syndrome, grade 3",G92.0,2022,2027
+G92.04,"Immune effector cell-associated neurotoxicity syndrome, grade 4",G92.0,2022,2027
+G92.05,"Immune effector cell-associated neurotoxicity syndrome, grade 5",G92.0,2022,2027
+G92.8,Other toxic encephalopathy,G92,2022,2027
+G92.9,Unspecified toxic encephalopathy,G92,2022,2027
+G93,Other disorders of brain,,2016,2027
+G93.0,Cerebral cysts,G93,2016,2027
+G93.1,"Anoxic brain damage, not elsewhere classified",G93,2016,2027
+G93.2,Benign intracranial hypertension,G93,2016,2027
+G93.3,Postviral and related fatigue syndromes,G93,2016,2027
+G93.31,Postviral fatigue syndrome,G93.3,2023,2027
+G93.32,Myalgic encephalomyelitis/chronic fatigue syndrome,G93.3,2023,2027
+G93.39,Other post infection and related fatigue syndromes,G93.3,2023,2027
+G93.4,Other and unspecified encephalopathy,G93,2016,2027
+G93.40,"Encephalopathy, unspecified",G93.4,2016,2027
+G93.41,Metabolic encephalopathy,G93.4,2016,2027
+G93.42,Megalencephalic leukoencephalopathy with subcortical cysts,G93.4,2024,2027
+G93.43,Leukoencephalopathy with calcifications and cysts,G93.4,2024,2027
+G93.44,Adult-onset leukodystrophy with axonal spheroids,G93.4,2024,2027
+G93.45,Developmental and epileptic encephalopathy,G93.4,2025,2027
+G93.49,Other encephalopathy,G93.4,2016,2027
+G93.5,Compression of brain,G93,2016,2027
+G93.6,Cerebral edema,G93,2016,2027
+G93.7,Reye's syndrome,G93,2016,2027
+G93.8,Other specified disorders of brain,G93,2016,2027
+G93.81,Temporal sclerosis,G93.8,2016,2027
+G93.82,Brain death,G93.8,2016,2027
+G93.89,Other specified disorders of brain,G93.8,2016,2027
+G93.9,"Disorder of brain, unspecified",G93,2016,2027
+G94,Other disorders of brain in diseases classified elsewhere,,2016,2027
+G95,Other and unspecified diseases of spinal cord,,2016,2027
+G95.0,Syringomyelia and syringobulbia,G95,2016,2027
+G95.1,Vascular myelopathies,G95,2016,2027
+G95.11,Acute infarction of spinal cord (embolic) (nonembolic),G95.1,2016,2027
+G95.19,Other vascular myelopathies,G95.1,2016,2027
+G95.2,Other and unspecified cord compression,G95,2016,2027
+G95.20,Unspecified cord compression,G95.2,2016,2027
+G95.29,Other cord compression,G95.2,2016,2027
+G95.8,Other specified diseases of spinal cord,G95,2016,2027
+G95.81,Conus medullaris syndrome,G95.8,2016,2027
+G95.89,Other specified diseases of spinal cord,G95.8,2016,2027
+G95.9,"Disease of spinal cord, unspecified",G95,2016,2027
+G96,Other disorders of central nervous system,,2016,2027
+G96.0,Cerebrospinal fluid leak,G96,2016,2027
+G96.00,"Cerebrospinal fluid leak, unspecified",G96.0,2021,2027
+G96.01,"Cranial cerebrospinal fluid leak, spontaneous",G96.0,2021,2027
+G96.02,"Spinal cerebrospinal fluid leak, spontaneous",G96.0,2021,2027
+G96.08,Other cranial cerebrospinal fluid leak,G96.0,2021,2027
+G96.09,Other spinal cerebrospinal fluid leak,G96.0,2021,2027
+G96.1,"Disorders of meninges, not elsewhere classified",G96,2016,2027
+G96.11,Dural tear,G96.1,2016,2027
+G96.12,Meningeal adhesions (cerebral) (spinal),G96.1,2016,2027
+G96.19,"Other disorders of meninges, not elsewhere classified",G96.1,2016,2027
+G96.191,Perineural cyst,G96.19,2021,2027
+G96.198,"Other disorders of meninges, not elsewhere classified",G96.19,2021,2027
+G96.8,Other specified disorders of central nervous system,G96,2016,2027
+G96.81,Intracranial hypotension,G96.8,2021,2027
+G96.810,"Intracranial hypotension, unspecified",G96.81,2021,2027
+G96.811,"Intracranial hypotension, spontaneous",G96.81,2021,2027
+G96.819,Other intracranial hypotension,G96.81,2021,2027
+G96.89,Other specified disorders of central nervous system,G96.8,2021,2027
+G96.9,"Disorder of central nervous system, unspecified",G96,2016,2027
+G97,"Intraoperative and postprocedural complications and disorders of nervous system, not elsewhere classified",,2016,2027
+G97.0,Cerebrospinal fluid leak from spinal puncture,G97,2016,2027
+G97.1,Other reaction to spinal and lumbar puncture,G97,2016,2027
+G97.2,Intracranial hypotension following ventricular shunting,G97,2016,2027
+G97.3,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a procedure,G97,2016,2027
+G97.31,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a nervous system procedure,G97.3,2016,2027
+G97.32,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating other procedure,G97.3,2016,2027
+G97.4,Accidental puncture and laceration of a nervous system organ or structure during a procedure,G97,2016,2027
+G97.41,Accidental puncture or laceration of dura during a procedure,G97.4,2016,2027
+G97.48,Accidental puncture and laceration of other nervous system organ or structure during a nervous system procedure,G97.4,2016,2027
+G97.49,Accidental puncture and laceration of other nervous system organ or structure during other procedure,G97.4,2016,2027
+G97.5,Postprocedural hemorrhage of a nervous system organ or structure following a procedure,G97,2016,2027
+G97.51,Postprocedural hemorrhage of a nervous system organ or structure following a nervous system procedure,G97.5,2016,2027
+G97.52,Postprocedural hemorrhage of a nervous system organ or structure following other procedure,G97.5,2016,2027
+G97.6,Postprocedural hematoma and seroma of a nervous system organ or structure following a procedure,G97,2017,2027
+G97.61,Postprocedural hematoma of a nervous system organ or structure following a nervous system procedure,G97.6,2017,2027
+G97.62,Postprocedural hematoma of a nervous system organ or structure following other procedure,G97.6,2017,2027
+G97.63,Postprocedural seroma of a nervous system organ or structure following a nervous system procedure,G97.6,2017,2027
+G97.64,Postprocedural seroma of a nervous system organ or structure following other procedure,G97.6,2017,2027
+G97.8,Other intraoperative and postprocedural complications and disorders of nervous system,G97,2016,2027
+G97.81,Other intraoperative complications of nervous system,G97.8,2016,2027
+G97.82,Other postprocedural complications and disorders of nervous system,G97.8,2016,2027
+G97.83,Intracranial hypotension following lumbar cerebrospinal fluid shunting,G97.8,2021,2027
+G97.84,Intracranial hypotension following other procedure,G97.8,2021,2027
+G98,Other disorders of nervous system not elsewhere classified,,2016,2027
+G98.0,"Neurogenic arthritis, not elsewhere classified",G98,2016,2027
+G98.8,Other disorders of nervous system,G98,2016,2027
+G99,Other disorders of nervous system in diseases classified elsewhere,,2016,2027
+G99.0,Autonomic neuropathy in diseases classified elsewhere,G99,2016,2027
+G99.2,Myelopathy in diseases classified elsewhere,G99,2016,2027
+G99.8,Other specified disorders of nervous system in diseases classified elsewhere,G99,2016,2027

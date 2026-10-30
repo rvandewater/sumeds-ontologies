@@ -1,0 +1,479 @@
+code,description,parent,first_year,last_year
+J00,Acute nasopharyngitis [common cold],,2016,2027
+J01,Acute sinusitis,,2016,2027
+J01.0,Acute maxillary sinusitis,J01,2016,2027
+J01.00,"Acute maxillary sinusitis, unspecified",J01.0,2016,2027
+J01.01,Acute recurrent maxillary sinusitis,J01.0,2016,2027
+J01.1,Acute frontal sinusitis,J01,2016,2027
+J01.10,"Acute frontal sinusitis, unspecified",J01.1,2016,2027
+J01.11,Acute recurrent frontal sinusitis,J01.1,2016,2027
+J01.2,Acute ethmoidal sinusitis,J01,2016,2027
+J01.20,"Acute ethmoidal sinusitis, unspecified",J01.2,2016,2027
+J01.21,Acute recurrent ethmoidal sinusitis,J01.2,2016,2027
+J01.3,Acute sphenoidal sinusitis,J01,2016,2027
+J01.30,"Acute sphenoidal sinusitis, unspecified",J01.3,2016,2027
+J01.31,Acute recurrent sphenoidal sinusitis,J01.3,2016,2027
+J01.4,Acute pansinusitis,J01,2016,2027
+J01.40,"Acute pansinusitis, unspecified",J01.4,2016,2027
+J01.41,Acute recurrent pansinusitis,J01.4,2016,2027
+J01.8,Other acute sinusitis,J01,2016,2027
+J01.80,Other acute sinusitis,J01.8,2016,2027
+J01.81,Other acute recurrent sinusitis,J01.8,2016,2027
+J01.9,"Acute sinusitis, unspecified",J01,2016,2027
+J01.90,"Acute sinusitis, unspecified",J01.9,2016,2027
+J01.91,"Acute recurrent sinusitis, unspecified",J01.9,2016,2027
+J02,Acute pharyngitis,,2016,2027
+J02.0,Streptococcal pharyngitis,J02,2016,2027
+J02.8,Acute pharyngitis due to other specified organisms,J02,2016,2027
+J02.9,"Acute pharyngitis, unspecified",J02,2016,2027
+J03,Acute tonsillitis,,2016,2027
+J03.0,Streptococcal tonsillitis,J03,2016,2027
+J03.00,"Acute streptococcal tonsillitis, unspecified",J03.0,2016,2027
+J03.01,Acute recurrent streptococcal tonsillitis,J03.0,2016,2027
+J03.8,Acute tonsillitis due to other specified organisms,J03,2016,2027
+J03.80,Acute tonsillitis due to other specified organisms,J03.8,2016,2027
+J03.81,Acute recurrent tonsillitis due to other specified organisms,J03.8,2016,2027
+J03.9,"Acute tonsillitis, unspecified",J03,2016,2027
+J03.90,"Acute tonsillitis, unspecified",J03.9,2016,2027
+J03.91,"Acute recurrent tonsillitis, unspecified",J03.9,2016,2027
+J04,Acute laryngitis and tracheitis,,2016,2027
+J04.0,Acute laryngitis,J04,2016,2027
+J04.1,Acute tracheitis,J04,2016,2027
+J04.10,Acute tracheitis without obstruction,J04.1,2016,2027
+J04.11,Acute tracheitis with obstruction,J04.1,2016,2027
+J04.2,Acute laryngotracheitis,J04,2016,2027
+J04.3,"Supraglottitis, unspecified",J04,2016,2027
+J04.30,"Supraglottitis, unspecified, without obstruction",J04.3,2016,2027
+J04.31,"Supraglottitis, unspecified, with obstruction",J04.3,2016,2027
+J05,Acute obstructive laryngitis [croup] and epiglottitis,,2016,2027
+J05.0,Acute obstructive laryngitis [croup],J05,2016,2027
+J05.1,Acute epiglottitis,J05,2016,2027
+J05.10,Acute epiglottitis without obstruction,J05.1,2016,2027
+J05.11,Acute epiglottitis with obstruction,J05.1,2016,2027
+J06,Acute upper respiratory infections of multiple and unspecified sites,,2016,2027
+J06.0,Acute laryngopharyngitis,J06,2016,2027
+J06.9,"Acute upper respiratory infection, unspecified",J06,2016,2027
+J09,Influenza due to certain identified influenza viruses,,2016,2027
+J09.X,Influenza due to identified novel influenza A virus,J09,2016,2027
+J09.X1,Influenza due to identified novel influenza A virus with pneumonia,J09.X,2016,2027
+J09.X2,Influenza due to identified novel influenza A virus with other respiratory manifestations,J09.X,2016,2027
+J09.X3,Influenza due to identified novel influenza A virus with gastrointestinal manifestations,J09.X,2016,2027
+J09.X9,Influenza due to identified novel influenza A virus with other manifestations,J09.X,2016,2027
+J10,Influenza due to other identified influenza virus,,2016,2027
+J10.0,Influenza due to other identified influenza virus with pneumonia,J10,2016,2027
+J10.00,Influenza due to other identified influenza virus with unspecified type of pneumonia,J10.0,2016,2027
+J10.01,Influenza due to other identified influenza virus with the same other identified influenza virus pneumonia,J10.0,2016,2027
+J10.08,Influenza due to other identified influenza virus with other specified pneumonia,J10.0,2016,2027
+J10.1,Influenza due to other identified influenza virus with other respiratory manifestations,J10,2016,2027
+J10.2,Influenza due to other identified influenza virus with gastrointestinal manifestations,J10,2016,2027
+J10.8,Influenza due to other identified influenza virus with other manifestations,J10,2016,2027
+J10.81,Influenza due to other identified influenza virus with encephalopathy,J10.8,2016,2027
+J10.82,Influenza due to other identified influenza virus with myocarditis,J10.8,2016,2027
+J10.83,Influenza due to other identified influenza virus with otitis media,J10.8,2016,2027
+J10.89,Influenza due to other identified influenza virus with other manifestations,J10.8,2016,2027
+J11,Influenza due to unidentified influenza virus,,2016,2027
+J11.0,Influenza due to unidentified influenza virus with pneumonia,J11,2016,2027
+J11.00,Influenza due to unidentified influenza virus with unspecified type of pneumonia,J11.0,2016,2027
+J11.08,Influenza due to unidentified influenza virus with specified pneumonia,J11.0,2016,2027
+J11.1,Influenza due to unidentified influenza virus with other respiratory manifestations,J11,2016,2027
+J11.2,Influenza due to unidentified influenza virus with gastrointestinal manifestations,J11,2016,2027
+J11.8,Influenza due to unidentified influenza virus with other manifestations,J11,2016,2027
+J11.81,Influenza due to unidentified influenza virus with encephalopathy,J11.8,2016,2027
+J11.82,Influenza due to unidentified influenza virus with myocarditis,J11.8,2016,2027
+J11.83,Influenza due to unidentified influenza virus with otitis media,J11.8,2016,2027
+J11.89,Influenza due to unidentified influenza virus with other manifestations,J11.8,2016,2027
+J12,"Viral pneumonia, not elsewhere classified",,2016,2027
+J12.0,Adenoviral pneumonia,J12,2016,2027
+J12.1,Respiratory syncytial virus pneumonia,J12,2016,2027
+J12.2,Parainfluenza virus pneumonia,J12,2016,2027
+J12.3,Human metapneumovirus pneumonia,J12,2016,2027
+J12.8,Other viral pneumonia,J12,2016,2027
+J12.81,Pneumonia due to SARS-associated coronavirus,J12.8,2016,2027
+J12.82,Pneumonia due to coronavirus disease 2019,J12.8,2021,2027
+J12.89,Other viral pneumonia,J12.8,2016,2027
+J12.9,"Viral pneumonia, unspecified",J12,2016,2027
+J13,Pneumonia due to Streptococcus pneumoniae,,2016,2027
+J14,Pneumonia due to Hemophilus influenzae,,2016,2027
+J15,"Bacterial pneumonia, not elsewhere classified",,2016,2027
+J15.0,Pneumonia due to Klebsiella pneumoniae,J15,2016,2027
+J15.1,Pneumonia due to Pseudomonas,J15,2016,2027
+J15.2,Pneumonia due to staphylococcus,J15,2016,2027
+J15.20,"Pneumonia due to staphylococcus, unspecified",J15.2,2016,2027
+J15.21,Pneumonia due to staphylococcus aureus,J15.2,2016,2027
+J15.211,Pneumonia due to Methicillin susceptible Staphylococcus aureus,J15.21,2016,2027
+J15.212,Pneumonia due to Methicillin resistant Staphylococcus aureus,J15.21,2016,2027
+J15.29,Pneumonia due to other staphylococcus,J15.2,2016,2027
+J15.3,"Pneumonia due to streptococcus, group B",J15,2016,2027
+J15.4,Pneumonia due to other streptococci,J15,2016,2027
+J15.5,Pneumonia due to Escherichia coli,J15,2016,2027
+J15.6,Pneumonia due to other Gram-negative bacteria,J15,2016,2027
+J15.61,Pneumonia due to Acinetobacter baumannii,J15.6,2024,2027
+J15.69,Pneumonia due to other Gram-negative bacteria,J15.6,2024,2027
+J15.7,Pneumonia due to Mycoplasma pneumoniae,J15,2016,2027
+J15.8,Pneumonia due to other specified bacteria,J15,2016,2027
+J15.9,Unspecified bacterial pneumonia,J15,2016,2027
+J16,"Pneumonia due to other infectious organisms, not elsewhere classified",,2016,2027
+J16.0,Chlamydial pneumonia,J16,2016,2027
+J16.8,Pneumonia due to other specified infectious organisms,J16,2016,2027
+J17,Pneumonia in diseases classified elsewhere,,2016,2027
+J18,"Pneumonia, unspecified organism",,2016,2027
+J18.0,"Bronchopneumonia, unspecified organism",J18,2016,2027
+J18.1,"Lobar pneumonia, unspecified organism",J18,2016,2027
+J18.2,"Hypostatic pneumonia, unspecified organism",J18,2016,2027
+J18.8,"Other pneumonia, unspecified organism",J18,2016,2027
+J18.9,"Pneumonia, unspecified organism",J18,2016,2027
+J20,Acute bronchitis,,2016,2027
+J20.0,Acute bronchitis due to Mycoplasma pneumoniae,J20,2016,2027
+J20.1,Acute bronchitis due to Hemophilus influenzae,J20,2016,2027
+J20.2,Acute bronchitis due to streptococcus,J20,2016,2027
+J20.3,Acute bronchitis due to coxsackievirus,J20,2016,2027
+J20.4,Acute bronchitis due to parainfluenza virus,J20,2016,2027
+J20.5,Acute bronchitis due to respiratory syncytial virus,J20,2016,2027
+J20.6,Acute bronchitis due to rhinovirus,J20,2016,2027
+J20.7,Acute bronchitis due to echovirus,J20,2016,2027
+J20.8,Acute bronchitis due to other specified organisms,J20,2016,2027
+J20.9,"Acute bronchitis, unspecified",J20,2016,2027
+J21,Acute bronchiolitis,,2016,2027
+J21.0,Acute bronchiolitis due to respiratory syncytial virus,J21,2016,2027
+J21.1,Acute bronchiolitis due to human metapneumovirus,J21,2016,2027
+J21.8,Acute bronchiolitis due to other specified organisms,J21,2016,2027
+J21.9,"Acute bronchiolitis, unspecified",J21,2016,2027
+J22,Unspecified acute lower respiratory infection,,2016,2027
+J30,Vasomotor and allergic rhinitis,,2016,2027
+J30.0,Vasomotor rhinitis,J30,2016,2027
+J30.1,Allergic rhinitis due to pollen,J30,2016,2027
+J30.2,Other seasonal allergic rhinitis,J30,2016,2027
+J30.5,Allergic rhinitis due to food,J30,2016,2027
+J30.8,Other allergic rhinitis,J30,2016,2027
+J30.81,Allergic rhinitis due to animal (cat) (dog) hair and dander,J30.8,2016,2027
+J30.89,Other allergic rhinitis,J30.8,2016,2027
+J30.9,"Allergic rhinitis, unspecified",J30,2016,2027
+J31,"Chronic rhinitis, nasopharyngitis and pharyngitis",,2016,2027
+J31.0,Chronic rhinitis,J31,2016,2027
+J31.1,Chronic nasopharyngitis,J31,2016,2027
+J31.2,Chronic pharyngitis,J31,2016,2027
+J32,Chronic sinusitis,,2016,2027
+J32.0,Chronic maxillary sinusitis,J32,2016,2027
+J32.1,Chronic frontal sinusitis,J32,2016,2027
+J32.2,Chronic ethmoidal sinusitis,J32,2016,2027
+J32.3,Chronic sphenoidal sinusitis,J32,2016,2027
+J32.4,Chronic pansinusitis,J32,2016,2027
+J32.8,Other chronic sinusitis,J32,2016,2027
+J32.9,"Chronic sinusitis, unspecified",J32,2016,2027
+J33,Nasal polyp,,2016,2027
+J33.0,Polyp of nasal cavity,J33,2016,2027
+J33.1,Polypoid sinus degeneration,J33,2016,2027
+J33.8,Other polyp of sinus,J33,2016,2027
+J33.9,"Nasal polyp, unspecified",J33,2016,2027
+J34,Other and unspecified disorders of nose and nasal sinuses,,2016,2027
+J34.0,"Abscess, furuncle and carbuncle of nose",J34,2016,2027
+J34.1,Cyst and mucocele of nose and nasal sinus,J34,2016,2027
+J34.2,Deviated nasal septum,J34,2016,2027
+J34.3,Hypertrophy of nasal turbinates,J34,2016,2027
+J34.8,Other specified disorders of nose and nasal sinuses,J34,2016,2027
+J34.81,Nasal mucositis (ulcerative),J34.8,2016,2027
+J34.82,Nasal valve collapse,J34.8,2025,2027
+J34.820,Internal nasal valve collapse,J34.82,2025,2027
+J34.8200,"Internal nasal valve collapse, unspecified",J34.820,2025,2027
+J34.8201,"Internal nasal valve collapse, static",J34.820,2025,2027
+J34.8202,"Internal nasal valve collapse, dynamic",J34.820,2025,2027
+J34.821,External nasal valve collapse,J34.82,2025,2027
+J34.8210,"External nasal valve collapse, unspecified",J34.821,2025,2027
+J34.8211,"External nasal valve collapse, static",J34.821,2025,2027
+J34.8212,"External nasal valve collapse, dynamic",J34.821,2025,2027
+J34.829,"Nasal valve collapse, unspecified",J34.82,2025,2027
+J34.83,Odontogenic sinusitis,J34.8,2027,2027
+J34.830,"Odontogenic sinusitis, maxillary sinus",J34.83,2027,2027
+J34.831,"Odontogenic sinusitis, ethmoid sinus",J34.83,2027,2027
+J34.832,"Odontogenic sinusitis, frontal sinus",J34.83,2027,2027
+J34.833,"Odontogenic sinusitis, sphenoid sinus",J34.83,2027,2027
+J34.839,"Odontogenic sinusitis, unspecified",J34.83,2027,2027
+J34.89,Other specified disorders of nose and nasal sinuses,J34.8,2016,2027
+J34.9,Unspecified disorder of nose and nasal sinuses,J34,2016,2027
+J35,Chronic diseases of tonsils and adenoids,,2016,2027
+J35.0,Chronic tonsillitis and adenoiditis,J35,2016,2027
+J35.01,Chronic tonsillitis,J35.0,2016,2027
+J35.02,Chronic adenoiditis,J35.0,2016,2027
+J35.03,Chronic tonsillitis and adenoiditis,J35.0,2016,2027
+J35.1,Hypertrophy of tonsils,J35,2016,2027
+J35.2,Hypertrophy of adenoids,J35,2016,2027
+J35.3,Hypertrophy of tonsils with hypertrophy of adenoids,J35,2016,2027
+J35.8,Other chronic diseases of tonsils and adenoids,J35,2016,2027
+J35.9,"Chronic disease of tonsils and adenoids, unspecified",J35,2016,2027
+J36,Peritonsillar abscess,,2016,2027
+J37,Chronic laryngitis and laryngotracheitis,,2016,2027
+J37.0,Chronic laryngitis,J37,2016,2027
+J37.1,Chronic laryngotracheitis,J37,2016,2027
+J38,"Diseases of vocal cords and larynx, not elsewhere classified",,2016,2027
+J38.0,Paralysis of vocal cords and larynx,J38,2016,2027
+J38.00,"Paralysis of vocal cords and larynx, unspecified",J38.0,2016,2027
+J38.01,"Paralysis of vocal cords and larynx, unilateral",J38.0,2016,2027
+J38.02,"Paralysis of vocal cords and larynx, bilateral",J38.0,2016,2027
+J38.1,Polyp of vocal cord and larynx,J38,2016,2027
+J38.2,Nodules of vocal cords,J38,2016,2027
+J38.3,Other diseases of vocal cords,J38,2016,2027
+J38.4,Edema of larynx,J38,2016,2027
+J38.5,Laryngeal spasm,J38,2016,2027
+J38.6,Stenosis of larynx,J38,2016,2027
+J38.7,Other diseases of larynx,J38,2016,2027
+J39,Other diseases of upper respiratory tract,,2016,2027
+J39.0,Retropharyngeal and parapharyngeal abscess,J39,2016,2027
+J39.1,Other abscess of pharynx,J39,2016,2027
+J39.2,Other diseases of pharynx,J39,2016,2027
+J39.3,"Upper respiratory tract hypersensitivity reaction, site unspecified",J39,2016,2027
+J39.8,Other specified diseases of upper respiratory tract,J39,2016,2027
+J39.9,"Disease of upper respiratory tract, unspecified",J39,2016,2027
+J40,"Bronchitis, not specified as acute or chronic",,2016,2027
+J41,Simple and mucopurulent chronic bronchitis,,2016,2027
+J41.0,Simple chronic bronchitis,J41,2016,2027
+J41.1,Mucopurulent chronic bronchitis,J41,2016,2027
+J41.8,Mixed simple and mucopurulent chronic bronchitis,J41,2016,2027
+J42,Unspecified chronic bronchitis,,2016,2027
+J43,Emphysema,,2016,2027
+J43.0,Unilateral pulmonary emphysema [MacLeod's syndrome],J43,2016,2027
+J43.1,Panlobular emphysema,J43,2016,2027
+J43.2,Centrilobular emphysema,J43,2016,2027
+J43.8,Other emphysema,J43,2016,2027
+J43.9,"Emphysema, unspecified",J43,2016,2027
+J44,Other chronic obstructive pulmonary disease,,2016,2027
+J44.0,Chronic obstructive pulmonary disease with (acute) lower respiratory infection,J44,2016,2027
+J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,J44,2016,2027
+J44.8,Other specified chronic obstructive pulmonary disease,J44,2024,2027
+J44.81,Bronchiolitis obliterans and bronchiolitis obliterans syndrome,J44.8,2024,2027
+J44.89,Other specified chronic obstructive pulmonary disease,J44.8,2024,2027
+J44.9,"Chronic obstructive pulmonary disease, unspecified",J44,2016,2027
+J45,Asthma,,2016,2027
+J45.2,Mild intermittent asthma,J45,2016,2027
+J45.20,"Mild intermittent asthma, uncomplicated",J45.2,2016,2027
+J45.21,Mild intermittent asthma with (acute) exacerbation,J45.2,2016,2027
+J45.22,Mild intermittent asthma with status asthmaticus,J45.2,2016,2027
+J45.3,Mild persistent asthma,J45,2016,2027
+J45.30,"Mild persistent asthma, uncomplicated",J45.3,2016,2027
+J45.31,Mild persistent asthma with (acute) exacerbation,J45.3,2016,2027
+J45.32,Mild persistent asthma with status asthmaticus,J45.3,2016,2027
+J45.4,Moderate persistent asthma,J45,2016,2027
+J45.40,"Moderate persistent asthma, uncomplicated",J45.4,2016,2027
+J45.41,Moderate persistent asthma with (acute) exacerbation,J45.4,2016,2027
+J45.42,Moderate persistent asthma with status asthmaticus,J45.4,2016,2027
+J45.5,Severe persistent asthma,J45,2016,2027
+J45.50,"Severe persistent asthma, uncomplicated",J45.5,2016,2027
+J45.51,Severe persistent asthma with (acute) exacerbation,J45.5,2016,2027
+J45.52,Severe persistent asthma with status asthmaticus,J45.5,2016,2027
+J45.9,Other and unspecified asthma,J45,2016,2027
+J45.90,Unspecified asthma,J45.9,2016,2027
+J45.901,Unspecified asthma with (acute) exacerbation,J45.90,2016,2027
+J45.902,Unspecified asthma with status asthmaticus,J45.90,2016,2027
+J45.909,"Unspecified asthma, uncomplicated",J45.90,2016,2027
+J45.99,Other asthma,J45.9,2016,2027
+J45.990,Exercise induced bronchospasm,J45.99,2016,2027
+J45.991,Cough variant asthma,J45.99,2016,2027
+J45.998,Other asthma,J45.99,2016,2027
+J47,Bronchiectasis,,2016,2027
+J47.0,Bronchiectasis with acute lower respiratory infection,J47,2016,2027
+J47.1,Bronchiectasis with (acute) exacerbation,J47,2016,2027
+J47.9,"Bronchiectasis, uncomplicated",J47,2016,2027
+J4A,Chronic lung allograft dysfunction,,2024,2027
+J4A.0,Restrictive allograft syndrome,J4A,2024,2027
+J4A.8,Other chronic lung allograft dysfunction,J4A,2024,2027
+J4A.9,"Chronic lung allograft dysfunction, unspecified",J4A,2024,2027
+J4B,Pulmonary mycetoma,,2027,2027
+J60,Coalworker's pneumoconiosis,,2016,2027
+J61,Pneumoconiosis due to asbestos and other mineral fibers,,2016,2027
+J62,Pneumoconiosis due to dust containing silica,,2016,2027
+J62.0,Pneumoconiosis due to talc dust,J62,2016,2027
+J62.8,Pneumoconiosis due to other dust containing silica,J62,2016,2027
+J63,Pneumoconiosis due to other inorganic dusts,,2016,2027
+J63.0,Aluminosis (of lung),J63,2016,2027
+J63.1,Bauxite fibrosis (of lung),J63,2016,2027
+J63.2,Berylliosis,J63,2016,2027
+J63.3,Graphite fibrosis (of lung),J63,2016,2027
+J63.4,Siderosis,J63,2016,2027
+J63.5,Stannosis,J63,2016,2027
+J63.6,Pneumoconiosis due to other specified inorganic dusts,J63,2016,2027
+J64,Unspecified pneumoconiosis,,2016,2027
+J65,Pneumoconiosis associated with tuberculosis,,2016,2027
+J66,Airway disease due to specific organic dust,,2016,2027
+J66.0,Byssinosis,J66,2016,2027
+J66.1,Flax-dressers' disease,J66,2016,2027
+J66.2,Cannabinosis,J66,2016,2027
+J66.8,Airway disease due to other specific organic dusts,J66,2016,2027
+J67,Hypersensitivity pneumonitis due to organic dust,,2016,2027
+J67.0,Farmer's lung,J67,2016,2027
+J67.1,Bagassosis,J67,2016,2027
+J67.2,Bird fancier's lung,J67,2016,2027
+J67.3,Suberosis,J67,2016,2027
+J67.4,Maltworker's lung,J67,2016,2027
+J67.5,Mushroom-worker's lung,J67,2016,2027
+J67.6,Maple-bark-stripper's lung,J67,2016,2027
+J67.7,Air conditioner and humidifier lung,J67,2016,2027
+J67.8,Hypersensitivity pneumonitis due to other organic dusts,J67,2016,2027
+J67.9,Hypersensitivity pneumonitis due to unspecified organic dust,J67,2016,2027
+J68,"Respiratory conditions due to inhalation of chemicals, gases, fumes and vapors",,2016,2027
+J68.0,"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",J68,2016,2027
+J68.1,"Pulmonary edema due to chemicals, gases, fumes and vapors",J68,2016,2027
+J68.2,"Upper respiratory inflammation due to chemicals, gases, fumes and vapors, not elsewhere classified",J68,2016,2027
+J68.3,"Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapors",J68,2016,2027
+J68.4,"Chronic respiratory conditions due to chemicals, gases, fumes and vapors",J68,2016,2027
+J68.8,"Other respiratory conditions due to chemicals, gases, fumes and vapors",J68,2016,2027
+J68.9,"Unspecified respiratory condition due to chemicals, gases, fumes and vapors",J68,2016,2027
+J69,Pneumonitis due to solids and liquids,,2016,2027
+J69.0,Pneumonitis due to inhalation of food and vomit,J69,2016,2027
+J69.1,Pneumonitis due to inhalation of oils and essences,J69,2016,2027
+J69.8,Pneumonitis due to inhalation of other solids and liquids,J69,2016,2027
+J70,Respiratory conditions due to other external agents,,2016,2027
+J70.0,Acute pulmonary manifestations due to radiation,J70,2016,2027
+J70.1,Chronic and other pulmonary manifestations due to radiation,J70,2016,2027
+J70.2,Acute drug-induced interstitial lung disorders,J70,2016,2027
+J70.3,Chronic drug-induced interstitial lung disorders,J70,2016,2027
+J70.4,"Drug-induced interstitial lung disorders, unspecified",J70,2016,2027
+J70.5,Respiratory conditions due to smoke inhalation,J70,2016,2027
+J70.8,Respiratory conditions due to other specified external agents,J70,2016,2027
+J70.9,Respiratory conditions due to unspecified external agent,J70,2016,2027
+J80,Acute respiratory distress syndrome,,2016,2027
+J81,Pulmonary edema,,2016,2027
+J81.0,Acute pulmonary edema,J81,2016,2027
+J81.1,Chronic pulmonary edema,J81,2016,2027
+J82,"Pulmonary eosinophilia, not elsewhere classified",,2016,2027
+J82.8,"Pulmonary eosinophilia, not elsewhere classified",J82,2021,2027
+J82.81,Chronic eosinophilic pneumonia,J82.8,2021,2027
+J82.82,Acute eosinophilic pneumonia,J82.8,2021,2027
+J82.83,Eosinophilic asthma,J82.8,2021,2027
+J82.89,"Other pulmonary eosinophilia, not elsewhere classified",J82.8,2021,2027
+J84,Other interstitial pulmonary diseases,,2016,2027
+J84.0,Alveolar and parieto-alveolar conditions,J84,2016,2027
+J84.01,Alveolar proteinosis,J84.0,2016,2027
+J84.02,Pulmonary alveolar microlithiasis,J84.0,2016,2027
+J84.03,Idiopathic pulmonary hemosiderosis,J84.0,2016,2027
+J84.09,Other alveolar and parieto-alveolar conditions,J84.0,2016,2027
+J84.1,Other interstitial pulmonary diseases with fibrosis,J84,2016,2027
+J84.10,"Pulmonary fibrosis, unspecified",J84.1,2016,2027
+J84.11,Idiopathic interstitial pneumonia,J84.1,2016,2027
+J84.111,"Idiopathic interstitial pneumonia, not otherwise specified",J84.11,2016,2027
+J84.112,Idiopathic pulmonary fibrosis,J84.11,2016,2027
+J84.113,Idiopathic non-specific interstitial pneumonitis,J84.11,2016,2027
+J84.114,Acute interstitial pneumonitis,J84.11,2016,2027
+J84.115,Respiratory bronchiolitis interstitial lung disease,J84.11,2016,2027
+J84.116,Cryptogenic organizing pneumonia,J84.11,2016,2027
+J84.117,Desquamative interstitial pneumonia,J84.11,2016,2027
+J84.17,Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere,J84.1,2016,2027
+J84.170,Interstitial lung disease with progressive fibrotic phenotype in diseases classified elsewhere,J84.17,2021,2027
+J84.178,Other interstitial pulmonary diseases with fibrosis in diseases classified elsewhere,J84.17,2021,2027
+J84.2,Lymphoid interstitial pneumonia,J84,2016,2027
+J84.8,Other specified interstitial pulmonary diseases,J84,2016,2027
+J84.81,Lymphangioleiomyomatosis,J84.8,2016,2027
+J84.82,Adult pulmonary Langerhans cell histiocytosis,J84.8,2016,2027
+J84.83,Surfactant mutations of the lung,J84.8,2016,2027
+J84.84,Other interstitial lung diseases of childhood,J84.8,2016,2027
+J84.841,Neuroendocrine cell hyperplasia of infancy,J84.84,2016,2027
+J84.842,Pulmonary interstitial glycogenosis,J84.84,2016,2027
+J84.843,Alveolar capillary dysplasia with vein misalignment,J84.84,2016,2027
+J84.848,Other interstitial lung diseases of childhood,J84.84,2016,2027
+J84.89,Other specified interstitial pulmonary diseases,J84.8,2016,2027
+J84.9,"Interstitial pulmonary disease, unspecified",J84,2016,2027
+J85,Abscess of lung and mediastinum,,2016,2027
+J85.0,Gangrene and necrosis of lung,J85,2016,2027
+J85.1,Abscess of lung with pneumonia,J85,2016,2027
+J85.2,Abscess of lung without pneumonia,J85,2016,2027
+J85.3,Abscess of mediastinum,J85,2016,2027
+J86,Pyothorax,,2016,2027
+J86.0,Pyothorax with fistula,J86,2016,2027
+J86.9,Pyothorax without fistula,J86,2016,2027
+J90,"Pleural effusion, not elsewhere classified",,2016,2027
+J91,Pleural effusion in conditions classified elsewhere,,2016,2027
+J91.0,Malignant pleural effusion,J91,2016,2027
+J91.8,Pleural effusion in other conditions classified elsewhere,J91,2016,2027
+J92,Pleural plaque,,2016,2027
+J92.0,Pleural plaque with presence of asbestos,J92,2016,2027
+J92.9,Pleural plaque without asbestos,J92,2016,2027
+J93,Pneumothorax and air leak,,2016,2027
+J93.0,Spontaneous tension pneumothorax,J93,2016,2027
+J93.1,Other spontaneous pneumothorax,J93,2016,2027
+J93.11,Primary spontaneous pneumothorax,J93.1,2016,2027
+J93.12,Secondary spontaneous pneumothorax,J93.1,2016,2027
+J93.8,Other pneumothorax and air leak,J93,2016,2027
+J93.81,Chronic pneumothorax,J93.8,2016,2027
+J93.82,Other air leak,J93.8,2016,2027
+J93.83,Other pneumothorax,J93.8,2016,2027
+J93.9,"Pneumothorax, unspecified",J93,2016,2027
+J94,Other pleural conditions,,2016,2027
+J94.0,Chylous effusion,J94,2016,2027
+J94.1,Fibrothorax,J94,2016,2027
+J94.2,Hemothorax,J94,2016,2027
+J94.8,Other specified pleural conditions,J94,2016,2027
+J94.9,"Pleural condition, unspecified",J94,2016,2027
+J95,"Intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified",,2016,2027
+J95.0,Tracheostomy complications,J95,2016,2027
+J95.00,Unspecified tracheostomy complication,J95.0,2016,2027
+J95.01,Hemorrhage from tracheostomy stoma,J95.0,2016,2027
+J95.02,Infection of tracheostomy stoma,J95.0,2016,2027
+J95.03,Malfunction of tracheostomy stoma,J95.0,2016,2027
+J95.04,Tracheo-esophageal fistula following tracheostomy,J95.0,2016,2027
+J95.09,Other tracheostomy complication,J95.0,2016,2027
+J95.1,Acute pulmonary insufficiency following thoracic surgery,J95,2016,2027
+J95.2,Acute pulmonary insufficiency following nonthoracic surgery,J95,2016,2027
+J95.3,Chronic pulmonary insufficiency following surgery,J95,2016,2027
+J95.4,Chemical pneumonitis due to anesthesia,J95,2016,2027
+J95.5,Postprocedural subglottic stenosis,J95,2016,2027
+J95.6,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a procedure,J95,2016,2027
+J95.61,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a respiratory system procedure,J95.6,2016,2027
+J95.62,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure,J95.6,2016,2027
+J95.7,Accidental puncture and laceration of a respiratory system organ or structure during a procedure,J95,2016,2027
+J95.71,Accidental puncture and laceration of a respiratory system organ or structure during a respiratory system procedure,J95.7,2016,2027
+J95.72,Accidental puncture and laceration of a respiratory system organ or structure during other procedure,J95.7,2016,2027
+J95.8,"Other intraoperative and postprocedural complications and disorders of respiratory system, not elsewhere classified",J95,2016,2027
+J95.81,Postprocedural pneumothorax and air leak,J95.8,2016,2027
+J95.811,Postprocedural pneumothorax,J95.81,2016,2027
+J95.812,Postprocedural air leak,J95.81,2016,2027
+J95.82,Postprocedural respiratory failure,J95.8,2016,2027
+J95.821,Acute postprocedural respiratory failure,J95.82,2016,2027
+J95.822,Acute and chronic postprocedural respiratory failure,J95.82,2016,2027
+J95.83,Postprocedural hemorrhage of a respiratory system organ or structure following a procedure,J95.8,2016,2027
+J95.830,Postprocedural hemorrhage of a respiratory system organ or structure following a respiratory system procedure,J95.83,2016,2027
+J95.831,Postprocedural hemorrhage of a respiratory system organ or structure following other procedure,J95.83,2016,2027
+J95.84,Transfusion-related acute lung injury (TRALI),J95.8,2016,2027
+J95.85,Complication of respirator [ventilator],J95.8,2016,2027
+J95.850,Mechanical complication of respirator,J95.85,2016,2027
+J95.851,Ventilator associated pneumonia,J95.85,2016,2027
+J95.859,Other complication of respirator [ventilator],J95.85,2016,2027
+J95.86,Postprocedural hematoma and seroma of a respiratory system organ or structure following a procedure,J95.8,2017,2027
+J95.860,Postprocedural hematoma of a respiratory system organ or structure following a respiratory system procedure,J95.86,2017,2027
+J95.861,Postprocedural hematoma of a respiratory system organ or structure following other procedure,J95.86,2017,2027
+J95.862,Postprocedural seroma of a respiratory system organ or structure following a respiratory system procedure,J95.86,2017,2027
+J95.863,Postprocedural seroma of a respiratory system organ or structure following other procedure,J95.86,2017,2027
+J95.87,Transfusion-associated dyspnea (TAD),J95.8,2023,2027
+J95.88,"Other intraoperative complications of respiratory system, not elsewhere classified",J95.8,2016,2027
+J95.89,"Other postprocedural complications and disorders of respiratory system, not elsewhere classified",J95.8,2016,2027
+J96,"Respiratory failure, not elsewhere classified",,2016,2027
+J96.0,Acute respiratory failure,J96,2016,2027
+J96.00,"Acute respiratory failure, unspecified whether with hypoxia or hypercapnia",J96.0,2016,2027
+J96.01,Acute respiratory failure with hypoxia,J96.0,2016,2027
+J96.02,Acute respiratory failure with hypercapnia,J96.0,2016,2027
+J96.1,Chronic respiratory failure,J96,2016,2027
+J96.10,"Chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",J96.1,2016,2027
+J96.11,Chronic respiratory failure with hypoxia,J96.1,2016,2027
+J96.12,Chronic respiratory failure with hypercapnia,J96.1,2016,2027
+J96.2,Acute and chronic respiratory failure,J96,2016,2027
+J96.20,"Acute and chronic respiratory failure, unspecified whether with hypoxia or hypercapnia",J96.2,2016,2027
+J96.21,Acute and chronic respiratory failure with hypoxia,J96.2,2016,2027
+J96.22,Acute and chronic respiratory failure with hypercapnia,J96.2,2016,2027
+J96.9,"Respiratory failure, unspecified",J96,2016,2027
+J96.90,"Respiratory failure, unspecified, unspecified whether with hypoxia or hypercapnia",J96.9,2016,2027
+J96.91,"Respiratory failure, unspecified with hypoxia",J96.9,2016,2027
+J96.92,"Respiratory failure, unspecified with hypercapnia",J96.9,2016,2027
+J98,Other respiratory disorders,,2016,2027
+J98.0,"Diseases of bronchus, not elsewhere classified",J98,2016,2027
+J98.01,Acute bronchospasm,J98.0,2016,2027
+J98.09,"Other diseases of bronchus, not elsewhere classified",J98.0,2016,2027
+J98.1,Pulmonary collapse,J98,2016,2027
+J98.11,Atelectasis,J98.1,2016,2027
+J98.19,Other pulmonary collapse,J98.1,2016,2027
+J98.2,Interstitial emphysema,J98,2016,2027
+J98.3,Compensatory emphysema,J98,2016,2027
+J98.4,Other disorders of lung,J98,2016,2027
+J98.5,"Diseases of mediastinum, not elsewhere classified",J98,2016,2027
+J98.51,Mediastinitis,J98.5,2017,2027
+J98.59,"Other diseases of mediastinum, not elsewhere classified",J98.5,2017,2027
+J98.6,Disorders of diaphragm,J98,2016,2027
+J98.8,Other specified respiratory disorders,J98,2016,2027
+J98.9,"Respiratory disorder, unspecified",J98,2016,2027
+J99,Respiratory disorders in diseases classified elsewhere,,2016,2027

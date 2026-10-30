@@ -1,0 +1,197 @@
+code,description,parent,first_year,last_year
+8E,Physiological Systems and Anatomical Regions,8,2016,2027
+8E0,Other Procedures,8E,2016,2027
+8E01,Nervous System,8E0,2016,2027
+8E01X,External,8E01,2016,2027
+8E01XY,Other Method,8E01X,2016,2027
+8E01XY7,Examination of Nervous System,8E01XY,2016,2027
+8E02,Circulatory System,8E0,2016,2027
+8E023,Percutaneous,8E02,2016,2027
+8E023D,Near Infrared Spectroscopy,8E023,2016,2027
+8E023DZ,"Near Infrared Spectroscopy of Circulatory System, Percutaneous Approach",8E023D,2016,2027
+8E023F,Fiber Optic 3D Guided Procedure,8E023,2025,2027
+8E023FZ,"Fiber Optic 3D Guided Procedure of Circulatory System, Percutaneous Approach",8E023F,2025,2027
+8E02X,External,8E02,2021,2027
+8E02XD,Near Infrared Spectroscopy,8E02X,2021,2027
+8E02XDZ,"Near Infrared Spectroscopy of Circulatory System, External Approach",8E02XD,2021,2027
+8E09,Head and Neck Region,8E0,2016,2027
+8E090,Open,8E09,2016,2027
+8E090C,Robotic Assisted Procedure,8E090,2016,2027
+8E090CZ,"Robotic Assisted Procedure of Head and Neck Region, Open Approach",8E090C,2016,2027
+8E090E,Fluorescence Guided Procedure,8E090,2020,2027
+8E090EM,"Fluorescence Guided Procedure of Head and Neck Region using Aminolevulinic Acid, Open Approach",8E090E,2020,2027
+8E090EZ,"Fluorescence Guided Procedure of Head and Neck Region, Open Approach",8E090E,2020,2027
+8E093,Percutaneous,8E09,2016,2027
+8E093C,Robotic Assisted Procedure,8E093,2016,2027
+8E093CZ,"Robotic Assisted Procedure of Head and Neck Region, Percutaneous Approach",8E093C,2016,2027
+8E093E,Fluorescence Guided Procedure,8E093,2020,2027
+8E093EZ,"Fluorescence Guided Procedure of Head and Neck Region, Percutaneous Approach",8E093E,2020,2027
+8E094,Percutaneous Endoscopic,8E09,2016,2027
+8E094C,Robotic Assisted Procedure,8E094,2016,2027
+8E094CZ,"Robotic Assisted Procedure of Head and Neck Region, Percutaneous Endoscopic Approach",8E094C,2016,2027
+8E094E,Fluorescence Guided Procedure,8E094,2020,2027
+8E094EZ,"Fluorescence Guided Procedure of Head and Neck Region, Percutaneous Endoscopic Approach",8E094E,2020,2027
+8E097,Via Natural or Artificial Opening,8E09,2016,2027
+8E097C,Robotic Assisted Procedure,8E097,2016,2027
+8E097CZ,"Robotic Assisted Procedure of Head and Neck Region, Via Natural or Artificial Opening",8E097C,2016,2027
+8E097E,Fluorescence Guided Procedure,8E097,2020,2027
+8E097EZ,"Fluorescence Guided Procedure of Head and Neck Region, Via Natural or Artificial Opening",8E097E,2020,2027
+8E098,Via Natural or Artificial Opening Endoscopic,8E09,2016,2027
+8E098C,Robotic Assisted Procedure,8E098,2016,2027
+8E098CZ,"Robotic Assisted Procedure of Head and Neck Region, Via Natural or Artificial Opening Endoscopic",8E098C,2016,2027
+8E098E,Fluorescence Guided Procedure,8E098,2020,2027
+8E098EZ,"Fluorescence Guided Procedure of Head and Neck Region, Via Natural or Artificial Opening Endoscopic",8E098E,2020,2027
+8E09X,External,8E09,2016,2027
+8E09XB,Computer Assisted Procedure,8E09X,2016,2027
+8E09XBF,"Computer Assisted Procedure of Head and Neck Region, With Fluoroscopy",8E09XB,2016,2027
+8E09XBG,"Computer Assisted Procedure of Head and Neck Region, With Computerized Tomography",8E09XB,2016,2027
+8E09XBH,"Computer Assisted Procedure of Head and Neck Region, With Magnetic Resonance Imaging",8E09XB,2016,2027
+8E09XBZ,Computer Assisted Procedure of Head and Neck Region,8E09XB,2016,2027
+8E09XC,Robotic Assisted Procedure,8E09X,2016,2027
+8E09XCZ,Robotic Assisted Procedure of Head and Neck Region,8E09XC,2016,2027
+8E09XY,Other Method,8E09X,2016,2027
+8E09XY8,Suture Removal from Head and Neck Region,8E09XY,2016,2027
+8E0H,Integumentary System and Breast,8E0,2016,2027
+8E0H3,Percutaneous,8E0H,2016,2027
+8E0H30,Acupuncture,8E0H3,2016,2027
+8E0H300,Acupuncture using Anesthesia,8E0H30,2016,2027
+8E0H30Z,Acupuncture,8E0H30,2016,2027
+8E0HX,External,8E0H,2016,2027
+8E0HX6,Collection,8E0HX,2016,2027
+8E0HX62,Breast Milk Collection,8E0HX6,2016,2027
+8E0HXY,Other Method,8E0HX,2016,2027
+8E0HXY9,Piercing of Integumentary System and Breast,8E0HXY,2016,2027
+8E0K,Musculoskeletal System,8E0,2016,2027
+8E0KX,External,8E0K,2016,2027
+8E0KX1,Therapeutic Massage,8E0KX,2016,2027
+8E0KX1Z,Therapeutic Massage,8E0KX1,2016,2027
+8E0KXY,Other Method,8E0KX,2016,2027
+8E0KXY7,Examination of Musculoskeletal System,8E0KXY,2016,2027
+8E0U,Female Reproductive System,8E0,2016,2027
+8E0U0,Open,8E0U,2024,2027
+8E0U0E,Fluorescence Guided Procedure,8E0U0,2024,2027
+8E0U0EN,"Fluorescence Guided Procedure of Female Reproductive System using Pafolacianine, Open Approach",8E0U0E,2024,2027
+8E0U3,Percutaneous,8E0U,2024,2027
+8E0U3E,Fluorescence Guided Procedure,8E0U3,2024,2027
+8E0U3EN,"Fluorescence Guided Procedure of Female Reproductive System using Pafolacianine, Percutaneous Approach",8E0U3E,2024,2027
+8E0U4,Percutaneous Endoscopic,8E0U,2024,2027
+8E0U4E,Fluorescence Guided Procedure,8E0U4,2024,2027
+8E0U4EN,"Fluorescence Guided Procedure of Female Reproductive System using Pafolacianine, Percutaneous Endoscopic Approach",8E0U4E,2024,2027
+8E0U7,Via Natural or Artificial Opening,8E0U,2024,2027
+8E0U7E,Fluorescence Guided Procedure,8E0U7,2024,2027
+8E0U7EN,"Fluorescence Guided Procedure of Female Reproductive System using Pafolacianine, Via Natural or Artificial Opening",8E0U7E,2024,2027
+8E0U8,Via Natural or Artificial Opening Endoscopic,8E0U,2024,2027
+8E0U8E,Fluorescence Guided Procedure,8E0U8,2024,2027
+8E0U8EN,"Fluorescence Guided Procedure of Female Reproductive System using Pafolacianine, Via Natural or Artificial Opening Endoscopic",8E0U8E,2024,2027
+8E0UX,External,8E0U,2016,2027
+8E0UXY,Other Method,8E0UX,2016,2027
+8E0UXY7,Examination of Female Reproductive System,8E0UXY,2016,2027
+8E0V,Male Reproductive System,8E0,2016,2027
+8E0VX,External,8E0V,2016,2027
+8E0VX1,Therapeutic Massage,8E0VX,2016,2027
+8E0VX1C,Therapeutic Massage of Prostate,8E0VX1,2016,2027
+8E0VX1D,Therapeutic Massage of Rectum,8E0VX1,2016,2027
+8E0VX6,Collection,8E0VX,2016,2027
+8E0VX63,Sperm Collection,8E0VX6,2016,2027
+8E0W,Trunk Region,8E0,2016,2027
+8E0W0,Open,8E0W,2016,2027
+8E0W0C,Robotic Assisted Procedure,8E0W0,2016,2027
+8E0W0CZ,"Robotic Assisted Procedure of Trunk Region, Open Approach",8E0W0C,2016,2027
+8E0W0E,Fluorescence Guided Procedure,8E0W0,2020,2027
+8E0W0EN,"Fluorescence Guided Procedure of Trunk Region using Pafolacianine, Open Approach",8E0W0E,2024,2027
+8E0W0EZ,"Fluorescence Guided Procedure of Trunk Region, Open Approach",8E0W0E,2020,2027
+8E0W3,Percutaneous,8E0W,2016,2027
+8E0W3C,Robotic Assisted Procedure,8E0W3,2016,2027
+8E0W3CZ,"Robotic Assisted Procedure of Trunk Region, Percutaneous Approach",8E0W3C,2016,2027
+8E0W3E,Fluorescence Guided Procedure,8E0W3,2020,2027
+8E0W3EN,"Fluorescence Guided Procedure of Trunk Region using Pafolacianine, Percutaneous Approach",8E0W3E,2024,2027
+8E0W3EZ,"Fluorescence Guided Procedure of Trunk Region, Percutaneous Approach",8E0W3E,2020,2027
+8E0W4,Percutaneous Endoscopic,8E0W,2016,2027
+8E0W4C,Robotic Assisted Procedure,8E0W4,2016,2027
+8E0W4CZ,"Robotic Assisted Procedure of Trunk Region, Percutaneous Endoscopic Approach",8E0W4C,2016,2027
+8E0W4E,Fluorescence Guided Procedure,8E0W4,2020,2027
+8E0W4EN,"Fluorescence Guided Procedure of Trunk Region using Pafolacianine, Percutaneous Endoscopic Approach",8E0W4E,2024,2027
+8E0W4EZ,"Fluorescence Guided Procedure of Trunk Region, Percutaneous Endoscopic Approach",8E0W4E,2020,2027
+8E0W7,Via Natural or Artificial Opening,8E0W,2016,2027
+8E0W7C,Robotic Assisted Procedure,8E0W7,2016,2027
+8E0W7CZ,"Robotic Assisted Procedure of Trunk Region, Via Natural or Artificial Opening",8E0W7C,2016,2027
+8E0W7E,Fluorescence Guided Procedure,8E0W7,2020,2027
+8E0W7EN,"Fluorescence Guided Procedure of Trunk Region using Pafolacianine, Via Natural or Artificial Opening",8E0W7E,2024,2027
+8E0W7EZ,"Fluorescence Guided Procedure of Trunk Region, Via Natural or Artificial Opening",8E0W7E,2020,2027
+8E0W8,Via Natural or Artificial Opening Endoscopic,8E0W,2016,2027
+8E0W8C,Robotic Assisted Procedure,8E0W8,2016,2027
+8E0W8CZ,"Robotic Assisted Procedure of Trunk Region, Via Natural or Artificial Opening Endoscopic",8E0W8C,2016,2027
+8E0W8E,Fluorescence Guided Procedure,8E0W8,2020,2027
+8E0W8EN,"Fluorescence Guided Procedure of Trunk Region using Pafolacianine, Via Natural or Artificial Opening Endoscopic",8E0W8E,2024,2027
+8E0W8EZ,"Fluorescence Guided Procedure of Trunk Region, Via Natural or Artificial Opening Endoscopic",8E0W8E,2020,2027
+8E0WX,External,8E0W,2016,2027
+8E0WXB,Computer Assisted Procedure,8E0WX,2016,2027
+8E0WXBF,"Computer Assisted Procedure of Trunk Region, With Fluoroscopy",8E0WXB,2016,2027
+8E0WXBG,"Computer Assisted Procedure of Trunk Region, With Computerized Tomography",8E0WXB,2016,2027
+8E0WXBH,"Computer Assisted Procedure of Trunk Region, With Magnetic Resonance Imaging",8E0WXB,2016,2027
+8E0WXBZ,Computer Assisted Procedure of Trunk Region,8E0WXB,2016,2027
+8E0WXC,Robotic Assisted Procedure,8E0WX,2016,2027
+8E0WXCZ,Robotic Assisted Procedure of Trunk Region,8E0WXC,2016,2027
+8E0WXY,Other Method,8E0WX,2016,2027
+8E0WXY8,Suture Removal from Trunk Region,8E0WXY,2016,2027
+8E0X,Upper Extremity,8E0,2016,2027
+8E0X0,Open,8E0X,2016,2027
+8E0X0C,Robotic Assisted Procedure,8E0X0,2016,2027
+8E0X0CZ,"Robotic Assisted Procedure of Upper Extremity, Open Approach",8E0X0C,2016,2027
+8E0X0E,Fluorescence Guided Procedure,8E0X0,2020,2027
+8E0X0EZ,"Fluorescence Guided Procedure of Upper Extremity, Open Approach",8E0X0E,2020,2027
+8E0X3,Percutaneous,8E0X,2016,2027
+8E0X3C,Robotic Assisted Procedure,8E0X3,2016,2027
+8E0X3CZ,"Robotic Assisted Procedure of Upper Extremity, Percutaneous Approach",8E0X3C,2016,2027
+8E0X3E,Fluorescence Guided Procedure,8E0X3,2020,2027
+8E0X3EZ,"Fluorescence Guided Procedure of Upper Extremity, Percutaneous Approach",8E0X3E,2020,2027
+8E0X4,Percutaneous Endoscopic,8E0X,2016,2027
+8E0X4C,Robotic Assisted Procedure,8E0X4,2016,2027
+8E0X4CZ,"Robotic Assisted Procedure of Upper Extremity, Percutaneous Endoscopic Approach",8E0X4C,2016,2027
+8E0X4E,Fluorescence Guided Procedure,8E0X4,2020,2027
+8E0X4EZ,"Fluorescence Guided Procedure of Upper Extremity, Percutaneous Endoscopic Approach",8E0X4E,2020,2027
+8E0XX,External,8E0X,2016,2027
+8E0XXB,Computer Assisted Procedure,8E0XX,2016,2027
+8E0XXBF,"Computer Assisted Procedure of Upper Extremity, With Fluoroscopy",8E0XXB,2016,2027
+8E0XXBG,"Computer Assisted Procedure of Upper Extremity, With Computerized Tomography",8E0XXB,2016,2027
+8E0XXBH,"Computer Assisted Procedure of Upper Extremity, With Magnetic Resonance Imaging",8E0XXB,2016,2027
+8E0XXBZ,Computer Assisted Procedure of Upper Extremity,8E0XXB,2016,2027
+8E0XXC,Robotic Assisted Procedure,8E0XX,2016,2027
+8E0XXCZ,Robotic Assisted Procedure of Upper Extremity,8E0XXC,2016,2027
+8E0XXY,Other Method,8E0XX,2016,2027
+8E0XXY8,Suture Removal from Upper Extremity,8E0XXY,2016,2027
+8E0Y,Lower Extremity,8E0,2016,2027
+8E0Y0,Open,8E0Y,2016,2027
+8E0Y0C,Robotic Assisted Procedure,8E0Y0,2016,2027
+8E0Y0CZ,"Robotic Assisted Procedure of Lower Extremity, Open Approach",8E0Y0C,2016,2027
+8E0Y0E,Fluorescence Guided Procedure,8E0Y0,2020,2027
+8E0Y0EZ,"Fluorescence Guided Procedure of Lower Extremity, Open Approach",8E0Y0E,2020,2027
+8E0Y3,Percutaneous,8E0Y,2016,2027
+8E0Y3C,Robotic Assisted Procedure,8E0Y3,2016,2027
+8E0Y3CZ,"Robotic Assisted Procedure of Lower Extremity, Percutaneous Approach",8E0Y3C,2016,2027
+8E0Y3E,Fluorescence Guided Procedure,8E0Y3,2020,2027
+8E0Y3EZ,"Fluorescence Guided Procedure of Lower Extremity, Percutaneous Approach",8E0Y3E,2020,2027
+8E0Y4,Percutaneous Endoscopic,8E0Y,2016,2027
+8E0Y4C,Robotic Assisted Procedure,8E0Y4,2016,2027
+8E0Y4CZ,"Robotic Assisted Procedure of Lower Extremity, Percutaneous Endoscopic Approach",8E0Y4C,2016,2027
+8E0Y4E,Fluorescence Guided Procedure,8E0Y4,2020,2027
+8E0Y4EZ,"Fluorescence Guided Procedure of Lower Extremity, Percutaneous Endoscopic Approach",8E0Y4E,2020,2027
+8E0YX,External,8E0Y,2016,2027
+8E0YXB,Computer Assisted Procedure,8E0YX,2016,2027
+8E0YXBF,"Computer Assisted Procedure of Lower Extremity, With Fluoroscopy",8E0YXB,2016,2027
+8E0YXBG,"Computer Assisted Procedure of Lower Extremity, With Computerized Tomography",8E0YXB,2016,2027
+8E0YXBH,"Computer Assisted Procedure of Lower Extremity, With Magnetic Resonance Imaging",8E0YXB,2016,2027
+8E0YXBZ,Computer Assisted Procedure of Lower Extremity,8E0YXB,2016,2027
+8E0YXC,Robotic Assisted Procedure,8E0YX,2016,2027
+8E0YXCZ,Robotic Assisted Procedure of Lower Extremity,8E0YXC,2016,2027
+8E0YXY,Other Method,8E0YX,2016,2027
+8E0YXY8,Suture Removal from Lower Extremity,8E0YXY,2016,2027
+8E0Z,None,8E0,2016,2027
+8E0ZX,External,8E0Z,2016,2027
+8E0ZXG,Confocal Microscopy,8E0ZX,2026,2027
+8E0ZXGP,"External Confocal Microscopy, Intraoperative Specimen Analysis",8E0ZXG,2026,2027
+8E0ZXY,Other Method,8E0ZX,2016,2027
+8E0ZXY1,In Vitro Fertilization,8E0ZXY,2016,2027
+8E0ZXY4,Yoga Therapy,8E0ZXY,2016,2027
+8E0ZXY5,Meditation,8E0ZXY,2016,2027
+8E0ZXY6,Isolation,8E0ZXY,2016,2027

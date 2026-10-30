@@ -1,0 +1,134 @@
+code,description,parent,first_year,last_year
+GZ,None,G,2016,2027
+GZ1,Psychological Tests,GZ,2016,2027
+GZ10,Developmental,GZ1,2016,2027
+GZ10Z,None,GZ10,2016,2027
+GZ10ZZ,None,GZ10Z,2016,2027
+GZ10ZZZ,"Psychological Tests, Developmental",GZ10ZZ,2016,2027
+GZ11,Personality and Behavioral,GZ1,2016,2027
+GZ11Z,None,GZ11,2016,2027
+GZ11ZZ,None,GZ11Z,2016,2027
+GZ11ZZZ,"Psychological Tests, Personality and Behavioral",GZ11ZZ,2016,2027
+GZ12,Intellectual and Psychoeducational,GZ1,2016,2027
+GZ12Z,None,GZ12,2016,2027
+GZ12ZZ,None,GZ12Z,2016,2027
+GZ12ZZZ,"Psychological Tests, Intellectual and Psychoeducational",GZ12ZZ,2016,2027
+GZ13,Neuropsychological,GZ1,2016,2027
+GZ13Z,None,GZ13,2016,2027
+GZ13ZZ,None,GZ13Z,2016,2027
+GZ13ZZZ,"Psychological Tests, Neuropsychological",GZ13ZZ,2016,2027
+GZ14,Neurobehavioral and Cognitive Status,GZ1,2016,2027
+GZ14Z,None,GZ14,2016,2027
+GZ14ZZ,None,GZ14Z,2016,2027
+GZ14ZZZ,"Psychological Tests, Neurobehavioral and Cognitive Status",GZ14ZZ,2016,2027
+GZ2,Crisis Intervention,GZ,2016,2027
+GZ2Z,None,GZ2,2016,2027
+GZ2ZZ,None,GZ2Z,2016,2027
+GZ2ZZZ,None,GZ2ZZ,2016,2027
+GZ2ZZZZ,Crisis Intervention,GZ2ZZZ,2016,2027
+GZ3,Medication Management,GZ,2016,2027
+GZ3Z,None,GZ3,2016,2027
+GZ3ZZ,None,GZ3Z,2016,2027
+GZ3ZZZ,None,GZ3ZZ,2016,2027
+GZ3ZZZZ,Medication Management,GZ3ZZZ,2016,2027
+GZ5,Individual Psychotherapy,GZ,2016,2027
+GZ50,Interactive,GZ5,2016,2027
+GZ50Z,None,GZ50,2016,2027
+GZ50ZZ,None,GZ50Z,2016,2027
+GZ50ZZZ,"Individual Psychotherapy, Interactive",GZ50ZZ,2016,2027
+GZ51,Behavioral,GZ5,2016,2027
+GZ51Z,None,GZ51,2016,2027
+GZ51ZZ,None,GZ51Z,2016,2027
+GZ51ZZZ,"Individual Psychotherapy, Behavioral",GZ51ZZ,2016,2027
+GZ52,Cognitive,GZ5,2016,2027
+GZ52Z,None,GZ52,2016,2027
+GZ52ZZ,None,GZ52Z,2016,2027
+GZ52ZZZ,"Individual Psychotherapy, Cognitive",GZ52ZZ,2016,2027
+GZ53,Interpersonal,GZ5,2016,2027
+GZ53Z,None,GZ53,2016,2027
+GZ53ZZ,None,GZ53Z,2016,2027
+GZ53ZZZ,"Individual Psychotherapy, Interpersonal",GZ53ZZ,2016,2027
+GZ54,Psychoanalysis,GZ5,2016,2027
+GZ54Z,None,GZ54,2016,2027
+GZ54ZZ,None,GZ54Z,2016,2027
+GZ54ZZZ,"Individual Psychotherapy, Psychoanalysis",GZ54ZZ,2016,2027
+GZ55,Psychodynamic,GZ5,2016,2027
+GZ55Z,None,GZ55,2016,2027
+GZ55ZZ,None,GZ55Z,2016,2027
+GZ55ZZZ,"Individual Psychotherapy, Psychodynamic",GZ55ZZ,2016,2027
+GZ56,Supportive,GZ5,2016,2027
+GZ56Z,None,GZ56,2016,2027
+GZ56ZZ,None,GZ56Z,2016,2027
+GZ56ZZZ,"Individual Psychotherapy, Supportive",GZ56ZZ,2016,2027
+GZ58,Cognitive-Behavioral,GZ5,2016,2027
+GZ58Z,None,GZ58,2016,2027
+GZ58ZZ,None,GZ58Z,2016,2027
+GZ58ZZZ,"Individual Psychotherapy, Cognitive-Behavioral",GZ58ZZ,2016,2027
+GZ59,Psychophysiological,GZ5,2016,2027
+GZ59Z,None,GZ59,2016,2027
+GZ59ZZ,None,GZ59Z,2016,2027
+GZ59ZZZ,"Individual Psychotherapy, Psychophysiological",GZ59ZZ,2016,2027
+GZ6,Counseling,GZ,2016,2027
+GZ60,Educational,GZ6,2016,2027
+GZ60Z,None,GZ60,2016,2027
+GZ60ZZ,None,GZ60Z,2016,2027
+GZ60ZZZ,Educational Counseling,GZ60ZZ,2016,2027
+GZ61,Vocational,GZ6,2016,2027
+GZ61Z,None,GZ61,2016,2027
+GZ61ZZ,None,GZ61Z,2016,2027
+GZ61ZZZ,Vocational Counseling,GZ61ZZ,2016,2027
+GZ63,Other Counseling,GZ6,2016,2027
+GZ63Z,None,GZ63,2016,2027
+GZ63ZZ,None,GZ63Z,2016,2027
+GZ63ZZZ,Other Counseling,GZ63ZZ,2016,2027
+GZ7,Family Psychotherapy,GZ,2016,2027
+GZ72,Other Family Psychotherapy,GZ7,2016,2027
+GZ72Z,None,GZ72,2016,2027
+GZ72ZZ,None,GZ72Z,2016,2027
+GZ72ZZZ,Family Psychotherapy,GZ72ZZ,2016,2027
+GZB,Electroconvulsive Therapy,GZ,2016,2027
+GZB0,Unilateral-Single Seizure,GZB,2016,2027
+GZB0Z,None,GZB0,2016,2027
+GZB0ZZ,None,GZB0Z,2016,2027
+GZB0ZZZ,"Electroconvulsive Therapy, Unilateral-Single Seizure",GZB0ZZ,2016,2027
+GZB1,Unilateral-Multiple Seizure,GZB,2016,2023
+GZB1Z,None,GZB1,2016,2023
+GZB1ZZ,None,GZB1Z,2016,2023
+GZB1ZZZ,"Electroconvulsive Therapy, Unilateral-Multiple Seizure",GZB1ZZ,2016,2023
+GZB2,Bilateral-Single Seizure,GZB,2016,2027
+GZB2Z,None,GZB2,2016,2027
+GZB2ZZ,None,GZB2Z,2016,2027
+GZB2ZZZ,"Electroconvulsive Therapy, Bilateral-Single Seizure",GZB2ZZ,2016,2027
+GZB3,Bilateral-Multiple Seizure,GZB,2016,2023
+GZB3Z,None,GZB3,2016,2023
+GZB3ZZ,None,GZB3Z,2016,2023
+GZB3ZZZ,"Electroconvulsive Therapy, Bilateral-Multiple Seizure",GZB3ZZ,2016,2023
+GZB4,Other Electroconvulsive Therapy,GZB,2016,2027
+GZB4Z,None,GZB4,2016,2027
+GZB4ZZ,None,GZB4Z,2016,2027
+GZB4ZZZ,Other Electroconvulsive Therapy,GZB4ZZ,2016,2027
+GZC,Biofeedback,GZ,2016,2027
+GZC9,Other Biofeedback,GZC,2016,2027
+GZC9Z,None,GZC9,2016,2027
+GZC9ZZ,None,GZC9Z,2016,2027
+GZC9ZZZ,Biofeedback,GZC9ZZ,2016,2027
+GZF,Hypnosis,GZ,2016,2027
+GZFZ,None,GZF,2016,2027
+GZFZZ,None,GZFZ,2016,2027
+GZFZZZ,None,GZFZZ,2016,2027
+GZFZZZZ,Hypnosis,GZFZZZ,2016,2027
+GZG,Narcosynthesis,GZ,2016,2027
+GZGZ,None,GZG,2016,2027
+GZGZZ,None,GZGZ,2016,2027
+GZGZZZ,None,GZGZZ,2016,2027
+GZGZZZZ,Narcosynthesis,GZGZZZ,2016,2027
+GZH,Group Psychotherapy,GZ,2016,2027
+GZHZ,None,GZH,2016,2027
+GZHZZ,None,GZHZ,2016,2027
+GZHZZZ,None,GZHZZ,2016,2027
+GZHZZZZ,Group Psychotherapy,GZHZZZ,2016,2027
+GZJ,Light Therapy,GZ,2016,2027
+GZJZ,None,GZJ,2016,2027
+GZJZZ,None,GZJZ,2016,2027
+GZJZZZ,None,GZJZZ,2016,2027
+GZJZZZZ,Light Therapy,GZJZZZ,2016,2027

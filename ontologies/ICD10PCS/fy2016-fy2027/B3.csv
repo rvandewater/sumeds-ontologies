@@ -1,0 +1,1133 @@
+code,description,parent,first_year,last_year
+B3,Upper Arteries,B,2016,2027
+B30,Plain Radiography,B3,2016,2027
+B300,Thoracic Aorta,B30,2016,2027
+B3000,High Osmolar,B300,2016,2027
+B3000Z,None,B3000,2016,2027
+B3000ZZ,Plain Radiography of Thoracic Aorta using High Osmolar Contrast,B3000Z,2016,2027
+B3001,Low Osmolar,B300,2016,2027
+B3001Z,None,B3001,2016,2027
+B3001ZZ,Plain Radiography of Thoracic Aorta using Low Osmolar Contrast,B3001Z,2016,2027
+B300Y,Other Contrast,B300,2016,2027
+B300YZ,None,B300Y,2016,2027
+B300YZZ,Plain Radiography of Thoracic Aorta using Other Contrast,B300YZ,2016,2027
+B300Z,None,B300,2016,2027
+B300ZZ,None,B300Z,2016,2027
+B300ZZZ,Plain Radiography of Thoracic Aorta,B300ZZ,2016,2027
+B301,"Brachiocephalic-Subclavian Artery, Right",B30,2016,2027
+B3010,High Osmolar,B301,2016,2027
+B3010Z,None,B3010,2016,2027
+B3010ZZ,Plain Radiography of Right Brachiocephalic-Subclavian Artery using High Osmolar Contrast,B3010Z,2016,2027
+B3011,Low Osmolar,B301,2016,2027
+B3011Z,None,B3011,2016,2027
+B3011ZZ,Plain Radiography of Right Brachiocephalic-Subclavian Artery using Low Osmolar Contrast,B3011Z,2016,2027
+B301Y,Other Contrast,B301,2016,2027
+B301YZ,None,B301Y,2016,2027
+B301YZZ,Plain Radiography of Right Brachiocephalic-Subclavian Artery using Other Contrast,B301YZ,2016,2027
+B301Z,None,B301,2016,2027
+B301ZZ,None,B301Z,2016,2027
+B301ZZZ,Plain Radiography of Right Brachiocephalic-Subclavian Artery,B301ZZ,2016,2027
+B302,"Subclavian Artery, Left",B30,2016,2027
+B3020,High Osmolar,B302,2016,2027
+B3020Z,None,B3020,2016,2027
+B3020ZZ,Plain Radiography of Left Subclavian Artery using High Osmolar Contrast,B3020Z,2016,2027
+B3021,Low Osmolar,B302,2016,2027
+B3021Z,None,B3021,2016,2027
+B3021ZZ,Plain Radiography of Left Subclavian Artery using Low Osmolar Contrast,B3021Z,2016,2027
+B302Y,Other Contrast,B302,2016,2027
+B302YZ,None,B302Y,2016,2027
+B302YZZ,Plain Radiography of Left Subclavian Artery using Other Contrast,B302YZ,2016,2027
+B302Z,None,B302,2016,2027
+B302ZZ,None,B302Z,2016,2027
+B302ZZZ,Plain Radiography of Left Subclavian Artery,B302ZZ,2016,2027
+B303,"Common Carotid Artery, Right",B30,2016,2027
+B3030,High Osmolar,B303,2016,2027
+B3030Z,None,B3030,2016,2027
+B3030ZZ,Plain Radiography of Right Common Carotid Artery using High Osmolar Contrast,B3030Z,2016,2027
+B3031,Low Osmolar,B303,2016,2027
+B3031Z,None,B3031,2016,2027
+B3031ZZ,Plain Radiography of Right Common Carotid Artery using Low Osmolar Contrast,B3031Z,2016,2027
+B303Y,Other Contrast,B303,2016,2027
+B303YZ,None,B303Y,2016,2027
+B303YZZ,Plain Radiography of Right Common Carotid Artery using Other Contrast,B303YZ,2016,2027
+B303Z,None,B303,2016,2027
+B303ZZ,None,B303Z,2016,2027
+B303ZZZ,Plain Radiography of Right Common Carotid Artery,B303ZZ,2016,2027
+B304,"Common Carotid Artery, Left",B30,2016,2027
+B3040,High Osmolar,B304,2016,2027
+B3040Z,None,B3040,2016,2027
+B3040ZZ,Plain Radiography of Left Common Carotid Artery using High Osmolar Contrast,B3040Z,2016,2027
+B3041,Low Osmolar,B304,2016,2027
+B3041Z,None,B3041,2016,2027
+B3041ZZ,Plain Radiography of Left Common Carotid Artery using Low Osmolar Contrast,B3041Z,2016,2027
+B304Y,Other Contrast,B304,2016,2027
+B304YZ,None,B304Y,2016,2027
+B304YZZ,Plain Radiography of Left Common Carotid Artery using Other Contrast,B304YZ,2016,2027
+B304Z,None,B304,2016,2027
+B304ZZ,None,B304Z,2016,2027
+B304ZZZ,Plain Radiography of Left Common Carotid Artery,B304ZZ,2016,2027
+B305,"Common Carotid Arteries, Bilateral",B30,2016,2027
+B3050,High Osmolar,B305,2016,2027
+B3050Z,None,B3050,2016,2027
+B3050ZZ,Plain Radiography of Bilateral Common Carotid Arteries using High Osmolar Contrast,B3050Z,2016,2027
+B3051,Low Osmolar,B305,2016,2027
+B3051Z,None,B3051,2016,2027
+B3051ZZ,Plain Radiography of Bilateral Common Carotid Arteries using Low Osmolar Contrast,B3051Z,2016,2027
+B305Y,Other Contrast,B305,2016,2027
+B305YZ,None,B305Y,2016,2027
+B305YZZ,Plain Radiography of Bilateral Common Carotid Arteries using Other Contrast,B305YZ,2016,2027
+B305Z,None,B305,2016,2027
+B305ZZ,None,B305Z,2016,2027
+B305ZZZ,Plain Radiography of Bilateral Common Carotid Arteries,B305ZZ,2016,2027
+B306,"Internal Carotid Artery, Right",B30,2016,2027
+B3060,High Osmolar,B306,2016,2027
+B3060Z,None,B3060,2016,2027
+B3060ZZ,Plain Radiography of Right Internal Carotid Artery using High Osmolar Contrast,B3060Z,2016,2027
+B3061,Low Osmolar,B306,2016,2027
+B3061Z,None,B3061,2016,2027
+B3061ZZ,Plain Radiography of Right Internal Carotid Artery using Low Osmolar Contrast,B3061Z,2016,2027
+B306Y,Other Contrast,B306,2016,2027
+B306YZ,None,B306Y,2016,2027
+B306YZZ,Plain Radiography of Right Internal Carotid Artery using Other Contrast,B306YZ,2016,2027
+B306Z,None,B306,2016,2027
+B306ZZ,None,B306Z,2016,2027
+B306ZZZ,Plain Radiography of Right Internal Carotid Artery,B306ZZ,2016,2027
+B307,"Internal Carotid Artery, Left",B30,2016,2027
+B3070,High Osmolar,B307,2016,2027
+B3070Z,None,B3070,2016,2027
+B3070ZZ,Plain Radiography of Left Internal Carotid Artery using High Osmolar Contrast,B3070Z,2016,2027
+B3071,Low Osmolar,B307,2016,2027
+B3071Z,None,B3071,2016,2027
+B3071ZZ,Plain Radiography of Left Internal Carotid Artery using Low Osmolar Contrast,B3071Z,2016,2027
+B307Y,Other Contrast,B307,2016,2027
+B307YZ,None,B307Y,2016,2027
+B307YZZ,Plain Radiography of Left Internal Carotid Artery using Other Contrast,B307YZ,2016,2027
+B307Z,None,B307,2016,2027
+B307ZZ,None,B307Z,2016,2027
+B307ZZZ,Plain Radiography of Left Internal Carotid Artery,B307ZZ,2016,2027
+B308,"Internal Carotid Arteries, Bilateral",B30,2016,2027
+B3080,High Osmolar,B308,2016,2027
+B3080Z,None,B3080,2016,2027
+B3080ZZ,Plain Radiography of Bilateral Internal Carotid Arteries using High Osmolar Contrast,B3080Z,2016,2027
+B3081,Low Osmolar,B308,2016,2027
+B3081Z,None,B3081,2016,2027
+B3081ZZ,Plain Radiography of Bilateral Internal Carotid Arteries using Low Osmolar Contrast,B3081Z,2016,2027
+B308Y,Other Contrast,B308,2016,2027
+B308YZ,None,B308Y,2016,2027
+B308YZZ,Plain Radiography of Bilateral Internal Carotid Arteries using Other Contrast,B308YZ,2016,2027
+B308Z,None,B308,2016,2027
+B308ZZ,None,B308Z,2016,2027
+B308ZZZ,Plain Radiography of Bilateral Internal Carotid Arteries,B308ZZ,2016,2027
+B309,"External Carotid Artery, Right",B30,2016,2027
+B3090,High Osmolar,B309,2016,2027
+B3090Z,None,B3090,2016,2027
+B3090ZZ,Plain Radiography of Right External Carotid Artery using High Osmolar Contrast,B3090Z,2016,2027
+B3091,Low Osmolar,B309,2016,2027
+B3091Z,None,B3091,2016,2027
+B3091ZZ,Plain Radiography of Right External Carotid Artery using Low Osmolar Contrast,B3091Z,2016,2027
+B309Y,Other Contrast,B309,2016,2027
+B309YZ,None,B309Y,2016,2027
+B309YZZ,Plain Radiography of Right External Carotid Artery using Other Contrast,B309YZ,2016,2027
+B309Z,None,B309,2016,2027
+B309ZZ,None,B309Z,2016,2027
+B309ZZZ,Plain Radiography of Right External Carotid Artery,B309ZZ,2016,2027
+B30B,"External Carotid Artery, Left",B30,2016,2027
+B30B0,High Osmolar,B30B,2016,2027
+B30B0Z,None,B30B0,2016,2027
+B30B0ZZ,Plain Radiography of Left External Carotid Artery using High Osmolar Contrast,B30B0Z,2016,2027
+B30B1,Low Osmolar,B30B,2016,2027
+B30B1Z,None,B30B1,2016,2027
+B30B1ZZ,Plain Radiography of Left External Carotid Artery using Low Osmolar Contrast,B30B1Z,2016,2027
+B30BY,Other Contrast,B30B,2016,2027
+B30BYZ,None,B30BY,2016,2027
+B30BYZZ,Plain Radiography of Left External Carotid Artery using Other Contrast,B30BYZ,2016,2027
+B30BZ,None,B30B,2016,2027
+B30BZZ,None,B30BZ,2016,2027
+B30BZZZ,Plain Radiography of Left External Carotid Artery,B30BZZ,2016,2027
+B30C,"External Carotid Arteries, Bilateral",B30,2016,2027
+B30C0,High Osmolar,B30C,2016,2027
+B30C0Z,None,B30C0,2016,2027
+B30C0ZZ,Plain Radiography of Bilateral External Carotid Arteries using High Osmolar Contrast,B30C0Z,2016,2027
+B30C1,Low Osmolar,B30C,2016,2027
+B30C1Z,None,B30C1,2016,2027
+B30C1ZZ,Plain Radiography of Bilateral External Carotid Arteries using Low Osmolar Contrast,B30C1Z,2016,2027
+B30CY,Other Contrast,B30C,2016,2027
+B30CYZ,None,B30CY,2016,2027
+B30CYZZ,Plain Radiography of Bilateral External Carotid Arteries using Other Contrast,B30CYZ,2016,2027
+B30CZ,None,B30C,2016,2027
+B30CZZ,None,B30CZ,2016,2027
+B30CZZZ,Plain Radiography of Bilateral External Carotid Arteries,B30CZZ,2016,2027
+B30D,"Vertebral Artery, Right",B30,2016,2027
+B30D0,High Osmolar,B30D,2016,2027
+B30D0Z,None,B30D0,2016,2027
+B30D0ZZ,Plain Radiography of Right Vertebral Artery using High Osmolar Contrast,B30D0Z,2016,2027
+B30D1,Low Osmolar,B30D,2016,2027
+B30D1Z,None,B30D1,2016,2027
+B30D1ZZ,Plain Radiography of Right Vertebral Artery using Low Osmolar Contrast,B30D1Z,2016,2027
+B30DY,Other Contrast,B30D,2016,2027
+B30DYZ,None,B30DY,2016,2027
+B30DYZZ,Plain Radiography of Right Vertebral Artery using Other Contrast,B30DYZ,2016,2027
+B30DZ,None,B30D,2016,2027
+B30DZZ,None,B30DZ,2016,2027
+B30DZZZ,Plain Radiography of Right Vertebral Artery,B30DZZ,2016,2027
+B30F,"Vertebral Artery, Left",B30,2016,2027
+B30F0,High Osmolar,B30F,2016,2027
+B30F0Z,None,B30F0,2016,2027
+B30F0ZZ,Plain Radiography of Left Vertebral Artery using High Osmolar Contrast,B30F0Z,2016,2027
+B30F1,Low Osmolar,B30F,2016,2027
+B30F1Z,None,B30F1,2016,2027
+B30F1ZZ,Plain Radiography of Left Vertebral Artery using Low Osmolar Contrast,B30F1Z,2016,2027
+B30FY,Other Contrast,B30F,2016,2027
+B30FYZ,None,B30FY,2016,2027
+B30FYZZ,Plain Radiography of Left Vertebral Artery using Other Contrast,B30FYZ,2016,2027
+B30FZ,None,B30F,2016,2027
+B30FZZ,None,B30FZ,2016,2027
+B30FZZZ,Plain Radiography of Left Vertebral Artery,B30FZZ,2016,2027
+B30G,"Vertebral Arteries, Bilateral",B30,2016,2027
+B30G0,High Osmolar,B30G,2016,2027
+B30G0Z,None,B30G0,2016,2027
+B30G0ZZ,Plain Radiography of Bilateral Vertebral Arteries using High Osmolar Contrast,B30G0Z,2016,2027
+B30G1,Low Osmolar,B30G,2016,2027
+B30G1Z,None,B30G1,2016,2027
+B30G1ZZ,Plain Radiography of Bilateral Vertebral Arteries using Low Osmolar Contrast,B30G1Z,2016,2027
+B30GY,Other Contrast,B30G,2016,2027
+B30GYZ,None,B30GY,2016,2027
+B30GYZZ,Plain Radiography of Bilateral Vertebral Arteries using Other Contrast,B30GYZ,2016,2027
+B30GZ,None,B30G,2016,2027
+B30GZZ,None,B30GZ,2016,2027
+B30GZZZ,Plain Radiography of Bilateral Vertebral Arteries,B30GZZ,2016,2027
+B30H,"Upper Extremity Arteries, Right",B30,2016,2027
+B30H0,High Osmolar,B30H,2016,2027
+B30H0Z,None,B30H0,2016,2027
+B30H0ZZ,Plain Radiography of Right Upper Extremity Arteries using High Osmolar Contrast,B30H0Z,2016,2027
+B30H1,Low Osmolar,B30H,2016,2027
+B30H1Z,None,B30H1,2016,2027
+B30H1ZZ,Plain Radiography of Right Upper Extremity Arteries using Low Osmolar Contrast,B30H1Z,2016,2027
+B30HY,Other Contrast,B30H,2016,2027
+B30HYZ,None,B30HY,2016,2027
+B30HYZZ,Plain Radiography of Right Upper Extremity Arteries using Other Contrast,B30HYZ,2016,2027
+B30HZ,None,B30H,2016,2027
+B30HZZ,None,B30HZ,2016,2027
+B30HZZZ,Plain Radiography of Right Upper Extremity Arteries,B30HZZ,2016,2027
+B30J,"Upper Extremity Arteries, Left",B30,2016,2027
+B30J0,High Osmolar,B30J,2016,2027
+B30J0Z,None,B30J0,2016,2027
+B30J0ZZ,Plain Radiography of Left Upper Extremity Arteries using High Osmolar Contrast,B30J0Z,2016,2027
+B30J1,Low Osmolar,B30J,2016,2027
+B30J1Z,None,B30J1,2016,2027
+B30J1ZZ,Plain Radiography of Left Upper Extremity Arteries using Low Osmolar Contrast,B30J1Z,2016,2027
+B30JY,Other Contrast,B30J,2016,2027
+B30JYZ,None,B30JY,2016,2027
+B30JYZZ,Plain Radiography of Left Upper Extremity Arteries using Other Contrast,B30JYZ,2016,2027
+B30JZ,None,B30J,2016,2027
+B30JZZ,None,B30JZ,2016,2027
+B30JZZZ,Plain Radiography of Left Upper Extremity Arteries,B30JZZ,2016,2027
+B30K,"Upper Extremity Arteries, Bilateral",B30,2016,2027
+B30K0,High Osmolar,B30K,2016,2027
+B30K0Z,None,B30K0,2016,2027
+B30K0ZZ,Plain Radiography of Bilateral Upper Extremity Arteries using High Osmolar Contrast,B30K0Z,2016,2027
+B30K1,Low Osmolar,B30K,2016,2027
+B30K1Z,None,B30K1,2016,2027
+B30K1ZZ,Plain Radiography of Bilateral Upper Extremity Arteries using Low Osmolar Contrast,B30K1Z,2016,2027
+B30KY,Other Contrast,B30K,2016,2027
+B30KYZ,None,B30KY,2016,2027
+B30KYZZ,Plain Radiography of Bilateral Upper Extremity Arteries using Other Contrast,B30KYZ,2016,2027
+B30KZ,None,B30K,2016,2027
+B30KZZ,None,B30KZ,2016,2027
+B30KZZZ,Plain Radiography of Bilateral Upper Extremity Arteries,B30KZZ,2016,2027
+B30L,Intercostal and Bronchial Arteries,B30,2016,2027
+B30L0,High Osmolar,B30L,2016,2027
+B30L0Z,None,B30L0,2016,2027
+B30L0ZZ,Plain Radiography of Intercostal and Bronchial Arteries using High Osmolar Contrast,B30L0Z,2016,2027
+B30L1,Low Osmolar,B30L,2016,2027
+B30L1Z,None,B30L1,2016,2027
+B30L1ZZ,Plain Radiography of Intercostal and Bronchial Arteries using Low Osmolar Contrast,B30L1Z,2016,2027
+B30LY,Other Contrast,B30L,2016,2027
+B30LYZ,None,B30LY,2016,2027
+B30LYZZ,Plain Radiography of Intercostal and Bronchial Arteries using Other Contrast,B30LYZ,2016,2027
+B30LZ,None,B30L,2016,2027
+B30LZZ,None,B30LZ,2016,2027
+B30LZZZ,Plain Radiography of Intercostal and Bronchial Arteries,B30LZZ,2016,2027
+B30M,Spinal Arteries,B30,2016,2027
+B30M0,High Osmolar,B30M,2016,2027
+B30M0Z,None,B30M0,2016,2027
+B30M0ZZ,Plain Radiography of Spinal Arteries using High Osmolar Contrast,B30M0Z,2016,2027
+B30M1,Low Osmolar,B30M,2016,2027
+B30M1Z,None,B30M1,2016,2027
+B30M1ZZ,Plain Radiography of Spinal Arteries using Low Osmolar Contrast,B30M1Z,2016,2027
+B30MY,Other Contrast,B30M,2016,2027
+B30MYZ,None,B30MY,2016,2027
+B30MYZZ,Plain Radiography of Spinal Arteries using Other Contrast,B30MYZ,2016,2027
+B30MZ,None,B30M,2016,2027
+B30MZZ,None,B30MZ,2016,2027
+B30MZZZ,Plain Radiography of Spinal Arteries,B30MZZ,2016,2027
+B30N,"Upper Arteries, Other",B30,2016,2027
+B30N0,High Osmolar,B30N,2016,2027
+B30N0Z,None,B30N0,2016,2027
+B30N0ZZ,Plain Radiography of Other Upper Arteries using High Osmolar Contrast,B30N0Z,2016,2027
+B30N1,Low Osmolar,B30N,2016,2027
+B30N1Z,None,B30N1,2016,2027
+B30N1ZZ,Plain Radiography of Other Upper Arteries using Low Osmolar Contrast,B30N1Z,2016,2027
+B30NY,Other Contrast,B30N,2016,2027
+B30NYZ,None,B30NY,2016,2027
+B30NYZZ,Plain Radiography of Other Upper Arteries using Other Contrast,B30NYZ,2016,2027
+B30NZ,None,B30N,2016,2027
+B30NZZ,None,B30NZ,2016,2027
+B30NZZZ,Plain Radiography of Other Upper Arteries,B30NZZ,2016,2027
+B30P,Thoraco-Abdominal Aorta,B30,2016,2027
+B30P0,High Osmolar,B30P,2016,2027
+B30P0Z,None,B30P0,2016,2027
+B30P0ZZ,Plain Radiography of Thoraco-Abdominal Aorta using High Osmolar Contrast,B30P0Z,2016,2027
+B30P1,Low Osmolar,B30P,2016,2027
+B30P1Z,None,B30P1,2016,2027
+B30P1ZZ,Plain Radiography of Thoraco-Abdominal Aorta using Low Osmolar Contrast,B30P1Z,2016,2027
+B30PY,Other Contrast,B30P,2016,2027
+B30PYZ,None,B30PY,2016,2027
+B30PYZZ,Plain Radiography of Thoraco-Abdominal Aorta using Other Contrast,B30PYZ,2016,2027
+B30PZ,None,B30P,2016,2027
+B30PZZ,None,B30PZ,2016,2027
+B30PZZZ,Plain Radiography of Thoraco-Abdominal Aorta,B30PZZ,2016,2027
+B30Q,Cervico-Cerebral Arch,B30,2016,2027
+B30Q0,High Osmolar,B30Q,2016,2027
+B30Q0Z,None,B30Q0,2016,2027
+B30Q0ZZ,Plain Radiography of Cervico-Cerebral Arch using High Osmolar Contrast,B30Q0Z,2016,2027
+B30Q1,Low Osmolar,B30Q,2016,2027
+B30Q1Z,None,B30Q1,2016,2027
+B30Q1ZZ,Plain Radiography of Cervico-Cerebral Arch using Low Osmolar Contrast,B30Q1Z,2016,2027
+B30QY,Other Contrast,B30Q,2016,2027
+B30QYZ,None,B30QY,2016,2027
+B30QYZZ,Plain Radiography of Cervico-Cerebral Arch using Other Contrast,B30QYZ,2016,2027
+B30QZ,None,B30Q,2016,2027
+B30QZZ,None,B30QZ,2016,2027
+B30QZZZ,Plain Radiography of Cervico-Cerebral Arch,B30QZZ,2016,2027
+B30R,Intracranial Arteries,B30,2016,2027
+B30R0,High Osmolar,B30R,2016,2027
+B30R0Z,None,B30R0,2016,2027
+B30R0ZZ,Plain Radiography of Intracranial Arteries using High Osmolar Contrast,B30R0Z,2016,2027
+B30R1,Low Osmolar,B30R,2016,2027
+B30R1Z,None,B30R1,2016,2027
+B30R1ZZ,Plain Radiography of Intracranial Arteries using Low Osmolar Contrast,B30R1Z,2016,2027
+B30RY,Other Contrast,B30R,2016,2027
+B30RYZ,None,B30RY,2016,2027
+B30RYZZ,Plain Radiography of Intracranial Arteries using Other Contrast,B30RYZ,2016,2027
+B30RZ,None,B30R,2016,2027
+B30RZZ,None,B30RZ,2016,2027
+B30RZZZ,Plain Radiography of Intracranial Arteries,B30RZZ,2016,2027
+B30S,"Pulmonary Artery, Right",B30,2016,2027
+B30S0,High Osmolar,B30S,2016,2027
+B30S0Z,None,B30S0,2016,2027
+B30S0ZZ,Plain Radiography of Right Pulmonary Artery using High Osmolar Contrast,B30S0Z,2016,2027
+B30S1,Low Osmolar,B30S,2016,2027
+B30S1Z,None,B30S1,2016,2027
+B30S1ZZ,Plain Radiography of Right Pulmonary Artery using Low Osmolar Contrast,B30S1Z,2016,2027
+B30SY,Other Contrast,B30S,2016,2027
+B30SYZ,None,B30SY,2016,2027
+B30SYZZ,Plain Radiography of Right Pulmonary Artery using Other Contrast,B30SYZ,2016,2027
+B30SZ,None,B30S,2016,2027
+B30SZZ,None,B30SZ,2016,2027
+B30SZZZ,Plain Radiography of Right Pulmonary Artery,B30SZZ,2016,2027
+B30T,"Pulmonary Artery, Left",B30,2016,2027
+B30T0,High Osmolar,B30T,2016,2027
+B30T0Z,None,B30T0,2016,2027
+B30T0ZZ,Plain Radiography of Left Pulmonary Artery using High Osmolar Contrast,B30T0Z,2016,2027
+B30T1,Low Osmolar,B30T,2016,2027
+B30T1Z,None,B30T1,2016,2027
+B30T1ZZ,Plain Radiography of Left Pulmonary Artery using Low Osmolar Contrast,B30T1Z,2016,2027
+B30TY,Other Contrast,B30T,2016,2027
+B30TYZ,None,B30TY,2016,2027
+B30TYZZ,Plain Radiography of Left Pulmonary Artery using Other Contrast,B30TYZ,2016,2027
+B30TZ,None,B30T,2016,2027
+B30TZZ,None,B30TZ,2016,2027
+B30TZZZ,Plain Radiography of Left Pulmonary Artery,B30TZZ,2016,2027
+B31,Fluoroscopy,B3,2016,2027
+B310,Thoracic Aorta,B31,2016,2027
+B3100,High Osmolar,B310,2016,2027
+B31001,Laser,B3100,2016,2027
+B310010,"Fluoroscopy of Thoracic Aorta using High Osmolar Contrast, Laser Intraoperative",B31001,2016,2027
+B3100Z,None,B3100,2016,2027
+B3100ZZ,Fluoroscopy of Thoracic Aorta using High Osmolar Contrast,B3100Z,2016,2027
+B3101,Low Osmolar,B310,2016,2027
+B31011,Laser,B3101,2016,2027
+B310110,"Fluoroscopy of Thoracic Aorta using Low Osmolar Contrast, Laser Intraoperative",B31011,2016,2027
+B3101Z,None,B3101,2016,2027
+B3101ZZ,Fluoroscopy of Thoracic Aorta using Low Osmolar Contrast,B3101Z,2016,2027
+B310Y,Other Contrast,B310,2016,2027
+B310Y1,Laser,B310Y,2016,2027
+B310Y10,"Fluoroscopy of Thoracic Aorta using Other Contrast, Laser Intraoperative",B310Y1,2016,2027
+B310YZ,None,B310Y,2016,2027
+B310YZZ,Fluoroscopy of Thoracic Aorta using Other Contrast,B310YZ,2016,2027
+B310Z,None,B310,2016,2027
+B310ZZ,None,B310Z,2016,2027
+B310ZZZ,Fluoroscopy of Thoracic Aorta,B310ZZ,2016,2027
+B311,"Brachiocephalic-Subclavian Artery, Right",B31,2016,2027
+B3110,High Osmolar,B311,2016,2027
+B31101,Laser,B3110,2016,2027
+B311010,"Fluoroscopy of Right Brachiocephalic-Subclavian Artery using High Osmolar Contrast, Laser Intraoperative",B31101,2016,2027
+B3110Z,None,B3110,2016,2027
+B3110ZZ,Fluoroscopy of Right Brachiocephalic-Subclavian Artery using High Osmolar Contrast,B3110Z,2016,2027
+B3111,Low Osmolar,B311,2016,2027
+B31111,Laser,B3111,2016,2027
+B311110,"Fluoroscopy of Right Brachiocephalic-Subclavian Artery using Low Osmolar Contrast, Laser Intraoperative",B31111,2016,2027
+B3111Z,None,B3111,2016,2027
+B3111ZZ,Fluoroscopy of Right Brachiocephalic-Subclavian Artery using Low Osmolar Contrast,B3111Z,2016,2027
+B311Y,Other Contrast,B311,2016,2027
+B311Y1,Laser,B311Y,2016,2027
+B311Y10,"Fluoroscopy of Right Brachiocephalic-Subclavian Artery using Other Contrast, Laser Intraoperative",B311Y1,2016,2027
+B311YZ,None,B311Y,2016,2027
+B311YZZ,Fluoroscopy of Right Brachiocephalic-Subclavian Artery using Other Contrast,B311YZ,2016,2027
+B311Z,None,B311,2016,2027
+B311ZZ,None,B311Z,2016,2027
+B311ZZZ,Fluoroscopy of Right Brachiocephalic-Subclavian Artery,B311ZZ,2016,2027
+B312,"Subclavian Artery, Left",B31,2016,2027
+B3120,High Osmolar,B312,2016,2027
+B31201,Laser,B3120,2016,2027
+B312010,"Fluoroscopy of Left Subclavian Artery using High Osmolar Contrast, Laser Intraoperative",B31201,2016,2027
+B3120Z,None,B3120,2016,2027
+B3120ZZ,Fluoroscopy of Left Subclavian Artery using High Osmolar Contrast,B3120Z,2016,2027
+B3121,Low Osmolar,B312,2016,2027
+B31211,Laser,B3121,2016,2027
+B312110,"Fluoroscopy of Left Subclavian Artery using Low Osmolar Contrast, Laser Intraoperative",B31211,2016,2027
+B3121Z,None,B3121,2016,2027
+B3121ZZ,Fluoroscopy of Left Subclavian Artery using Low Osmolar Contrast,B3121Z,2016,2027
+B312Y,Other Contrast,B312,2016,2027
+B312Y1,Laser,B312Y,2016,2027
+B312Y10,"Fluoroscopy of Left Subclavian Artery using Other Contrast, Laser Intraoperative",B312Y1,2016,2027
+B312YZ,None,B312Y,2016,2027
+B312YZZ,Fluoroscopy of Left Subclavian Artery using Other Contrast,B312YZ,2016,2027
+B312Z,None,B312,2016,2027
+B312ZZ,None,B312Z,2016,2027
+B312ZZZ,Fluoroscopy of Left Subclavian Artery,B312ZZ,2016,2027
+B313,"Common Carotid Artery, Right",B31,2016,2027
+B3130,High Osmolar,B313,2016,2027
+B31301,Laser,B3130,2016,2027
+B313010,"Fluoroscopy of Right Common Carotid Artery using High Osmolar Contrast, Laser Intraoperative",B31301,2016,2027
+B3130Z,None,B3130,2016,2027
+B3130ZZ,Fluoroscopy of Right Common Carotid Artery using High Osmolar Contrast,B3130Z,2016,2027
+B3131,Low Osmolar,B313,2016,2027
+B31311,Laser,B3131,2016,2027
+B313110,"Fluoroscopy of Right Common Carotid Artery using Low Osmolar Contrast, Laser Intraoperative",B31311,2016,2027
+B3131Z,None,B3131,2016,2027
+B3131ZZ,Fluoroscopy of Right Common Carotid Artery using Low Osmolar Contrast,B3131Z,2016,2027
+B313Y,Other Contrast,B313,2016,2027
+B313Y1,Laser,B313Y,2016,2027
+B313Y10,"Fluoroscopy of Right Common Carotid Artery using Other Contrast, Laser Intraoperative",B313Y1,2016,2027
+B313YZ,None,B313Y,2016,2027
+B313YZZ,Fluoroscopy of Right Common Carotid Artery using Other Contrast,B313YZ,2016,2027
+B313Z,None,B313,2016,2027
+B313ZZ,None,B313Z,2016,2027
+B313ZZZ,Fluoroscopy of Right Common Carotid Artery,B313ZZ,2016,2027
+B314,"Common Carotid Artery, Left",B31,2016,2027
+B3140,High Osmolar,B314,2016,2027
+B31401,Laser,B3140,2016,2027
+B314010,"Fluoroscopy of Left Common Carotid Artery using High Osmolar Contrast, Laser Intraoperative",B31401,2016,2027
+B3140Z,None,B3140,2016,2027
+B3140ZZ,Fluoroscopy of Left Common Carotid Artery using High Osmolar Contrast,B3140Z,2016,2027
+B3141,Low Osmolar,B314,2016,2027
+B31411,Laser,B3141,2016,2027
+B314110,"Fluoroscopy of Left Common Carotid Artery using Low Osmolar Contrast, Laser Intraoperative",B31411,2016,2027
+B3141Z,None,B3141,2016,2027
+B3141ZZ,Fluoroscopy of Left Common Carotid Artery using Low Osmolar Contrast,B3141Z,2016,2027
+B314Y,Other Contrast,B314,2016,2027
+B314Y1,Laser,B314Y,2016,2027
+B314Y10,"Fluoroscopy of Left Common Carotid Artery using Other Contrast, Laser Intraoperative",B314Y1,2016,2027
+B314YZ,None,B314Y,2016,2027
+B314YZZ,Fluoroscopy of Left Common Carotid Artery using Other Contrast,B314YZ,2016,2027
+B314Z,None,B314,2016,2027
+B314ZZ,None,B314Z,2016,2027
+B314ZZZ,Fluoroscopy of Left Common Carotid Artery,B314ZZ,2016,2027
+B315,"Common Carotid Arteries, Bilateral",B31,2016,2027
+B3150,High Osmolar,B315,2016,2027
+B31501,Laser,B3150,2016,2027
+B315010,"Fluoroscopy of Bilateral Common Carotid Arteries using High Osmolar Contrast, Laser Intraoperative",B31501,2016,2027
+B3150Z,None,B3150,2016,2027
+B3150ZZ,Fluoroscopy of Bilateral Common Carotid Arteries using High Osmolar Contrast,B3150Z,2016,2027
+B3151,Low Osmolar,B315,2016,2027
+B31511,Laser,B3151,2016,2027
+B315110,"Fluoroscopy of Bilateral Common Carotid Arteries using Low Osmolar Contrast, Laser Intraoperative",B31511,2016,2027
+B3151Z,None,B3151,2016,2027
+B3151ZZ,Fluoroscopy of Bilateral Common Carotid Arteries using Low Osmolar Contrast,B3151Z,2016,2027
+B315Y,Other Contrast,B315,2016,2027
+B315Y1,Laser,B315Y,2016,2027
+B315Y10,"Fluoroscopy of Bilateral Common Carotid Arteries using Other Contrast, Laser Intraoperative",B315Y1,2016,2027
+B315YZ,None,B315Y,2016,2027
+B315YZZ,Fluoroscopy of Bilateral Common Carotid Arteries using Other Contrast,B315YZ,2016,2027
+B315Z,None,B315,2016,2027
+B315ZZ,None,B315Z,2016,2027
+B315ZZZ,Fluoroscopy of Bilateral Common Carotid Arteries,B315ZZ,2016,2027
+B316,"Internal Carotid Artery, Right",B31,2016,2027
+B3160,High Osmolar,B316,2016,2027
+B31601,Laser,B3160,2016,2027
+B316010,"Fluoroscopy of Right Internal Carotid Artery using High Osmolar Contrast, Laser Intraoperative",B31601,2016,2027
+B3160Z,None,B3160,2016,2027
+B3160ZZ,Fluoroscopy of Right Internal Carotid Artery using High Osmolar Contrast,B3160Z,2016,2027
+B3161,Low Osmolar,B316,2016,2027
+B31611,Laser,B3161,2016,2027
+B316110,"Fluoroscopy of Right Internal Carotid Artery using Low Osmolar Contrast, Laser Intraoperative",B31611,2016,2027
+B3161Z,None,B3161,2016,2027
+B3161ZZ,Fluoroscopy of Right Internal Carotid Artery using Low Osmolar Contrast,B3161Z,2016,2027
+B316Y,Other Contrast,B316,2016,2027
+B316Y1,Laser,B316Y,2016,2027
+B316Y10,"Fluoroscopy of Right Internal Carotid Artery using Other Contrast, Laser Intraoperative",B316Y1,2016,2027
+B316YZ,None,B316Y,2016,2027
+B316YZZ,Fluoroscopy of Right Internal Carotid Artery using Other Contrast,B316YZ,2016,2027
+B316Z,None,B316,2016,2027
+B316ZZ,None,B316Z,2016,2027
+B316ZZZ,Fluoroscopy of Right Internal Carotid Artery,B316ZZ,2016,2027
+B317,"Internal Carotid Artery, Left",B31,2016,2027
+B3170,High Osmolar,B317,2016,2027
+B31701,Laser,B3170,2016,2027
+B317010,"Fluoroscopy of Left Internal Carotid Artery using High Osmolar Contrast, Laser Intraoperative",B31701,2016,2027
+B3170Z,None,B3170,2016,2027
+B3170ZZ,Fluoroscopy of Left Internal Carotid Artery using High Osmolar Contrast,B3170Z,2016,2027
+B3171,Low Osmolar,B317,2016,2027
+B31711,Laser,B3171,2016,2027
+B317110,"Fluoroscopy of Left Internal Carotid Artery using Low Osmolar Contrast, Laser Intraoperative",B31711,2016,2027
+B3171Z,None,B3171,2016,2027
+B3171ZZ,Fluoroscopy of Left Internal Carotid Artery using Low Osmolar Contrast,B3171Z,2016,2027
+B317Y,Other Contrast,B317,2016,2027
+B317Y1,Laser,B317Y,2016,2027
+B317Y10,"Fluoroscopy of Left Internal Carotid Artery using Other Contrast, Laser Intraoperative",B317Y1,2016,2027
+B317YZ,None,B317Y,2016,2027
+B317YZZ,Fluoroscopy of Left Internal Carotid Artery using Other Contrast,B317YZ,2016,2027
+B317Z,None,B317,2016,2027
+B317ZZ,None,B317Z,2016,2027
+B317ZZZ,Fluoroscopy of Left Internal Carotid Artery,B317ZZ,2016,2027
+B318,"Internal Carotid Arteries, Bilateral",B31,2016,2027
+B3180,High Osmolar,B318,2016,2027
+B31801,Laser,B3180,2016,2027
+B318010,"Fluoroscopy of Bilateral Internal Carotid Arteries using High Osmolar Contrast, Laser Intraoperative",B31801,2016,2027
+B3180Z,None,B3180,2016,2027
+B3180ZZ,Fluoroscopy of Bilateral Internal Carotid Arteries using High Osmolar Contrast,B3180Z,2016,2027
+B3181,Low Osmolar,B318,2016,2027
+B31811,Laser,B3181,2016,2027
+B318110,"Fluoroscopy of Bilateral Internal Carotid Arteries using Low Osmolar Contrast, Laser Intraoperative",B31811,2016,2027
+B3181Z,None,B3181,2016,2027
+B3181ZZ,Fluoroscopy of Bilateral Internal Carotid Arteries using Low Osmolar Contrast,B3181Z,2016,2027
+B318Y,Other Contrast,B318,2016,2027
+B318Y1,Laser,B318Y,2016,2027
+B318Y10,"Fluoroscopy of Bilateral Internal Carotid Arteries using Other Contrast, Laser Intraoperative",B318Y1,2016,2027
+B318YZ,None,B318Y,2016,2027
+B318YZZ,Fluoroscopy of Bilateral Internal Carotid Arteries using Other Contrast,B318YZ,2016,2027
+B318Z,None,B318,2016,2027
+B318ZZ,None,B318Z,2016,2027
+B318ZZZ,Fluoroscopy of Bilateral Internal Carotid Arteries,B318ZZ,2016,2027
+B319,"External Carotid Artery, Right",B31,2016,2027
+B3190,High Osmolar,B319,2016,2027
+B31901,Laser,B3190,2016,2027
+B319010,"Fluoroscopy of Right External Carotid Artery using High Osmolar Contrast, Laser Intraoperative",B31901,2016,2027
+B3190Z,None,B3190,2016,2027
+B3190ZZ,Fluoroscopy of Right External Carotid Artery using High Osmolar Contrast,B3190Z,2016,2027
+B3191,Low Osmolar,B319,2016,2027
+B31911,Laser,B3191,2016,2027
+B319110,"Fluoroscopy of Right External Carotid Artery using Low Osmolar Contrast, Laser Intraoperative",B31911,2016,2027
+B3191Z,None,B3191,2016,2027
+B3191ZZ,Fluoroscopy of Right External Carotid Artery using Low Osmolar Contrast,B3191Z,2016,2027
+B319Y,Other Contrast,B319,2016,2027
+B319Y1,Laser,B319Y,2016,2027
+B319Y10,"Fluoroscopy of Right External Carotid Artery using Other Contrast, Laser Intraoperative",B319Y1,2016,2027
+B319YZ,None,B319Y,2016,2027
+B319YZZ,Fluoroscopy of Right External Carotid Artery using Other Contrast,B319YZ,2016,2027
+B319Z,None,B319,2016,2027
+B319ZZ,None,B319Z,2016,2027
+B319ZZZ,Fluoroscopy of Right External Carotid Artery,B319ZZ,2016,2027
+B31B,"External Carotid Artery, Left",B31,2016,2027
+B31B0,High Osmolar,B31B,2016,2027
+B31B01,Laser,B31B0,2016,2027
+B31B010,"Fluoroscopy of Left External Carotid Artery using High Osmolar Contrast, Laser Intraoperative",B31B01,2016,2027
+B31B0Z,None,B31B0,2016,2027
+B31B0ZZ,Fluoroscopy of Left External Carotid Artery using High Osmolar Contrast,B31B0Z,2016,2027
+B31B1,Low Osmolar,B31B,2016,2027
+B31B11,Laser,B31B1,2016,2027
+B31B110,"Fluoroscopy of Left External Carotid Artery using Low Osmolar Contrast, Laser Intraoperative",B31B11,2016,2027
+B31B1Z,None,B31B1,2016,2027
+B31B1ZZ,Fluoroscopy of Left External Carotid Artery using Low Osmolar Contrast,B31B1Z,2016,2027
+B31BY,Other Contrast,B31B,2016,2027
+B31BY1,Laser,B31BY,2016,2027
+B31BY10,"Fluoroscopy of Left External Carotid Artery using Other Contrast, Laser Intraoperative",B31BY1,2016,2027
+B31BYZ,None,B31BY,2016,2027
+B31BYZZ,Fluoroscopy of Left External Carotid Artery using Other Contrast,B31BYZ,2016,2027
+B31BZ,None,B31B,2016,2027
+B31BZZ,None,B31BZ,2016,2027
+B31BZZZ,Fluoroscopy of Left External Carotid Artery,B31BZZ,2016,2027
+B31C,"External Carotid Arteries, Bilateral",B31,2016,2027
+B31C0,High Osmolar,B31C,2016,2027
+B31C01,Laser,B31C0,2016,2027
+B31C010,"Fluoroscopy of Bilateral External Carotid Arteries using High Osmolar Contrast, Laser Intraoperative",B31C01,2016,2027
+B31C0Z,None,B31C0,2016,2027
+B31C0ZZ,Fluoroscopy of Bilateral External Carotid Arteries using High Osmolar Contrast,B31C0Z,2016,2027
+B31C1,Low Osmolar,B31C,2016,2027
+B31C11,Laser,B31C1,2016,2027
+B31C110,"Fluoroscopy of Bilateral External Carotid Arteries using Low Osmolar Contrast, Laser Intraoperative",B31C11,2016,2027
+B31C1Z,None,B31C1,2016,2027
+B31C1ZZ,Fluoroscopy of Bilateral External Carotid Arteries using Low Osmolar Contrast,B31C1Z,2016,2027
+B31CY,Other Contrast,B31C,2016,2027
+B31CY1,Laser,B31CY,2016,2027
+B31CY10,"Fluoroscopy of Bilateral External Carotid Arteries using Other Contrast, Laser Intraoperative",B31CY1,2016,2027
+B31CYZ,None,B31CY,2016,2027
+B31CYZZ,Fluoroscopy of Bilateral External Carotid Arteries using Other Contrast,B31CYZ,2016,2027
+B31CZ,None,B31C,2016,2027
+B31CZZ,None,B31CZ,2016,2027
+B31CZZZ,Fluoroscopy of Bilateral External Carotid Arteries,B31CZZ,2016,2027
+B31D,"Vertebral Artery, Right",B31,2016,2027
+B31D0,High Osmolar,B31D,2016,2027
+B31D01,Laser,B31D0,2016,2027
+B31D010,"Fluoroscopy of Right Vertebral Artery using High Osmolar Contrast, Laser Intraoperative",B31D01,2016,2027
+B31D0Z,None,B31D0,2016,2027
+B31D0ZZ,Fluoroscopy of Right Vertebral Artery using High Osmolar Contrast,B31D0Z,2016,2027
+B31D1,Low Osmolar,B31D,2016,2027
+B31D11,Laser,B31D1,2016,2027
+B31D110,"Fluoroscopy of Right Vertebral Artery using Low Osmolar Contrast, Laser Intraoperative",B31D11,2016,2027
+B31D1Z,None,B31D1,2016,2027
+B31D1ZZ,Fluoroscopy of Right Vertebral Artery using Low Osmolar Contrast,B31D1Z,2016,2027
+B31DY,Other Contrast,B31D,2016,2027
+B31DY1,Laser,B31DY,2016,2027
+B31DY10,"Fluoroscopy of Right Vertebral Artery using Other Contrast, Laser Intraoperative",B31DY1,2016,2027
+B31DYZ,None,B31DY,2016,2027
+B31DYZZ,Fluoroscopy of Right Vertebral Artery using Other Contrast,B31DYZ,2016,2027
+B31DZ,None,B31D,2016,2027
+B31DZZ,None,B31DZ,2016,2027
+B31DZZZ,Fluoroscopy of Right Vertebral Artery,B31DZZ,2016,2027
+B31F,"Vertebral Artery, Left",B31,2016,2027
+B31F0,High Osmolar,B31F,2016,2027
+B31F01,Laser,B31F0,2016,2027
+B31F010,"Fluoroscopy of Left Vertebral Artery using High Osmolar Contrast, Laser Intraoperative",B31F01,2016,2027
+B31F0Z,None,B31F0,2016,2027
+B31F0ZZ,Fluoroscopy of Left Vertebral Artery using High Osmolar Contrast,B31F0Z,2016,2027
+B31F1,Low Osmolar,B31F,2016,2027
+B31F11,Laser,B31F1,2016,2027
+B31F110,"Fluoroscopy of Left Vertebral Artery using Low Osmolar Contrast, Laser Intraoperative",B31F11,2016,2027
+B31F1Z,None,B31F1,2016,2027
+B31F1ZZ,Fluoroscopy of Left Vertebral Artery using Low Osmolar Contrast,B31F1Z,2016,2027
+B31FY,Other Contrast,B31F,2016,2027
+B31FY1,Laser,B31FY,2016,2027
+B31FY10,"Fluoroscopy of Left Vertebral Artery using Other Contrast, Laser Intraoperative",B31FY1,2016,2027
+B31FYZ,None,B31FY,2016,2027
+B31FYZZ,Fluoroscopy of Left Vertebral Artery using Other Contrast,B31FYZ,2016,2027
+B31FZ,None,B31F,2016,2027
+B31FZZ,None,B31FZ,2016,2027
+B31FZZZ,Fluoroscopy of Left Vertebral Artery,B31FZZ,2016,2027
+B31G,"Vertebral Arteries, Bilateral",B31,2016,2027
+B31G0,High Osmolar,B31G,2016,2027
+B31G01,Laser,B31G0,2016,2027
+B31G010,"Fluoroscopy of Bilateral Vertebral Arteries using High Osmolar Contrast, Laser Intraoperative",B31G01,2016,2027
+B31G0Z,None,B31G0,2016,2027
+B31G0ZZ,Fluoroscopy of Bilateral Vertebral Arteries using High Osmolar Contrast,B31G0Z,2016,2027
+B31G1,Low Osmolar,B31G,2016,2027
+B31G11,Laser,B31G1,2016,2027
+B31G110,"Fluoroscopy of Bilateral Vertebral Arteries using Low Osmolar Contrast, Laser Intraoperative",B31G11,2016,2027
+B31G1Z,None,B31G1,2016,2027
+B31G1ZZ,Fluoroscopy of Bilateral Vertebral Arteries using Low Osmolar Contrast,B31G1Z,2016,2027
+B31GY,Other Contrast,B31G,2016,2027
+B31GY1,Laser,B31GY,2016,2027
+B31GY10,"Fluoroscopy of Bilateral Vertebral Arteries using Other Contrast, Laser Intraoperative",B31GY1,2016,2027
+B31GYZ,None,B31GY,2016,2027
+B31GYZZ,Fluoroscopy of Bilateral Vertebral Arteries using Other Contrast,B31GYZ,2016,2027
+B31GZ,None,B31G,2016,2027
+B31GZZ,None,B31GZ,2016,2027
+B31GZZZ,Fluoroscopy of Bilateral Vertebral Arteries,B31GZZ,2016,2027
+B31H,"Upper Extremity Arteries, Right",B31,2016,2027
+B31H0,High Osmolar,B31H,2016,2027
+B31H01,Laser,B31H0,2016,2027
+B31H010,"Fluoroscopy of Right Upper Extremity Arteries using High Osmolar Contrast, Laser Intraoperative",B31H01,2016,2027
+B31H0Z,None,B31H0,2016,2027
+B31H0ZZ,Fluoroscopy of Right Upper Extremity Arteries using High Osmolar Contrast,B31H0Z,2016,2027
+B31H1,Low Osmolar,B31H,2016,2027
+B31H11,Laser,B31H1,2016,2027
+B31H110,"Fluoroscopy of Right Upper Extremity Arteries using Low Osmolar Contrast, Laser Intraoperative",B31H11,2016,2027
+B31H1Z,None,B31H1,2016,2027
+B31H1ZZ,Fluoroscopy of Right Upper Extremity Arteries using Low Osmolar Contrast,B31H1Z,2016,2027
+B31HY,Other Contrast,B31H,2016,2027
+B31HY1,Laser,B31HY,2016,2027
+B31HY10,"Fluoroscopy of Right Upper Extremity Arteries using Other Contrast, Laser Intraoperative",B31HY1,2016,2027
+B31HYZ,None,B31HY,2016,2027
+B31HYZZ,Fluoroscopy of Right Upper Extremity Arteries using Other Contrast,B31HYZ,2016,2027
+B31HZ,None,B31H,2016,2027
+B31HZZ,None,B31HZ,2016,2027
+B31HZZZ,Fluoroscopy of Right Upper Extremity Arteries,B31HZZ,2016,2027
+B31J,"Upper Extremity Arteries, Left",B31,2016,2027
+B31J0,High Osmolar,B31J,2016,2027
+B31J01,Laser,B31J0,2016,2027
+B31J010,"Fluoroscopy of Left Upper Extremity Arteries using High Osmolar Contrast, Laser Intraoperative",B31J01,2016,2027
+B31J0Z,None,B31J0,2016,2027
+B31J0ZZ,Fluoroscopy of Left Upper Extremity Arteries using High Osmolar Contrast,B31J0Z,2016,2027
+B31J1,Low Osmolar,B31J,2016,2027
+B31J11,Laser,B31J1,2016,2027
+B31J110,"Fluoroscopy of Left Upper Extremity Arteries using Low Osmolar Contrast, Laser Intraoperative",B31J11,2016,2027
+B31J1Z,None,B31J1,2016,2027
+B31J1ZZ,Fluoroscopy of Left Upper Extremity Arteries using Low Osmolar Contrast,B31J1Z,2016,2027
+B31JY,Other Contrast,B31J,2016,2027
+B31JY1,Laser,B31JY,2016,2027
+B31JY10,"Fluoroscopy of Left Upper Extremity Arteries using Other Contrast, Laser Intraoperative",B31JY1,2016,2027
+B31JYZ,None,B31JY,2016,2027
+B31JYZZ,Fluoroscopy of Left Upper Extremity Arteries using Other Contrast,B31JYZ,2016,2027
+B31JZ,None,B31J,2016,2027
+B31JZZ,None,B31JZ,2016,2027
+B31JZZZ,Fluoroscopy of Left Upper Extremity Arteries,B31JZZ,2016,2027
+B31K,"Upper Extremity Arteries, Bilateral",B31,2016,2027
+B31K0,High Osmolar,B31K,2016,2027
+B31K01,Laser,B31K0,2016,2027
+B31K010,"Fluoroscopy of Bilateral Upper Extremity Arteries using High Osmolar Contrast, Laser Intraoperative",B31K01,2016,2027
+B31K0Z,None,B31K0,2016,2027
+B31K0ZZ,Fluoroscopy of Bilateral Upper Extremity Arteries using High Osmolar Contrast,B31K0Z,2016,2027
+B31K1,Low Osmolar,B31K,2016,2027
+B31K11,Laser,B31K1,2016,2027
+B31K110,"Fluoroscopy of Bilateral Upper Extremity Arteries using Low Osmolar Contrast, Laser Intraoperative",B31K11,2016,2027
+B31K1Z,None,B31K1,2016,2027
+B31K1ZZ,Fluoroscopy of Bilateral Upper Extremity Arteries using Low Osmolar Contrast,B31K1Z,2016,2027
+B31KY,Other Contrast,B31K,2016,2027
+B31KY1,Laser,B31KY,2016,2027
+B31KY10,"Fluoroscopy of Bilateral Upper Extremity Arteries using Other Contrast, Laser Intraoperative",B31KY1,2016,2027
+B31KYZ,None,B31KY,2016,2027
+B31KYZZ,Fluoroscopy of Bilateral Upper Extremity Arteries using Other Contrast,B31KYZ,2016,2027
+B31KZ,None,B31K,2016,2027
+B31KZZ,None,B31KZ,2016,2027
+B31KZZZ,Fluoroscopy of Bilateral Upper Extremity Arteries,B31KZZ,2016,2027
+B31L,Intercostal and Bronchial Arteries,B31,2016,2027
+B31L0,High Osmolar,B31L,2016,2027
+B31L01,Laser,B31L0,2016,2027
+B31L010,"Fluoroscopy of Intercostal and Bronchial Arteries using High Osmolar Contrast, Laser Intraoperative",B31L01,2016,2027
+B31L0Z,None,B31L0,2016,2027
+B31L0ZZ,Fluoroscopy of Intercostal and Bronchial Arteries using High Osmolar Contrast,B31L0Z,2016,2027
+B31L1,Low Osmolar,B31L,2016,2027
+B31L11,Laser,B31L1,2016,2027
+B31L110,"Fluoroscopy of Intercostal and Bronchial Arteries using Low Osmolar Contrast, Laser Intraoperative",B31L11,2016,2027
+B31L1Z,None,B31L1,2016,2027
+B31L1ZZ,Fluoroscopy of Intercostal and Bronchial Arteries using Low Osmolar Contrast,B31L1Z,2016,2027
+B31LY,Other Contrast,B31L,2016,2027
+B31LY1,Laser,B31LY,2016,2027
+B31LY10,"Fluoroscopy of Intercostal and Bronchial Arteries using Other Contrast, Laser Intraoperative",B31LY1,2016,2027
+B31LYZ,None,B31LY,2016,2027
+B31LYZZ,Fluoroscopy of Intercostal and Bronchial Arteries using Other Contrast,B31LYZ,2016,2027
+B31LZ,None,B31L,2016,2027
+B31LZZ,None,B31LZ,2016,2027
+B31LZZZ,Fluoroscopy of Intercostal and Bronchial Arteries,B31LZZ,2016,2027
+B31M,Spinal Arteries,B31,2016,2027
+B31M0,High Osmolar,B31M,2016,2027
+B31M01,Laser,B31M0,2016,2027
+B31M010,"Fluoroscopy of Spinal Arteries using High Osmolar Contrast, Laser Intraoperative",B31M01,2016,2027
+B31M0Z,None,B31M0,2016,2027
+B31M0ZZ,Fluoroscopy of Spinal Arteries using High Osmolar Contrast,B31M0Z,2016,2027
+B31M1,Low Osmolar,B31M,2016,2027
+B31M11,Laser,B31M1,2016,2027
+B31M110,"Fluoroscopy of Spinal Arteries using Low Osmolar Contrast, Laser Intraoperative",B31M11,2016,2027
+B31M1Z,None,B31M1,2016,2027
+B31M1ZZ,Fluoroscopy of Spinal Arteries using Low Osmolar Contrast,B31M1Z,2016,2027
+B31MY,Other Contrast,B31M,2016,2027
+B31MY1,Laser,B31MY,2016,2027
+B31MY10,"Fluoroscopy of Spinal Arteries using Other Contrast, Laser Intraoperative",B31MY1,2016,2027
+B31MYZ,None,B31MY,2016,2027
+B31MYZZ,Fluoroscopy of Spinal Arteries using Other Contrast,B31MYZ,2016,2027
+B31MZ,None,B31M,2016,2027
+B31MZZ,None,B31MZ,2016,2027
+B31MZZZ,Fluoroscopy of Spinal Arteries,B31MZZ,2016,2027
+B31N,"Upper Arteries, Other",B31,2016,2027
+B31N0,High Osmolar,B31N,2016,2027
+B31N01,Laser,B31N0,2016,2027
+B31N010,"Fluoroscopy of Other Upper Arteries using High Osmolar Contrast, Laser Intraoperative",B31N01,2016,2027
+B31N0Z,None,B31N0,2016,2027
+B31N0ZZ,Fluoroscopy of Other Upper Arteries using High Osmolar Contrast,B31N0Z,2016,2027
+B31N1,Low Osmolar,B31N,2016,2027
+B31N11,Laser,B31N1,2016,2027
+B31N110,"Fluoroscopy of Other Upper Arteries using Low Osmolar Contrast, Laser Intraoperative",B31N11,2016,2027
+B31N1Z,None,B31N1,2016,2027
+B31N1ZZ,Fluoroscopy of Other Upper Arteries using Low Osmolar Contrast,B31N1Z,2016,2027
+B31NY,Other Contrast,B31N,2016,2027
+B31NY1,Laser,B31NY,2016,2027
+B31NY10,"Fluoroscopy of Other Upper Arteries using Other Contrast, Laser Intraoperative",B31NY1,2016,2027
+B31NYZ,None,B31NY,2016,2027
+B31NYZZ,Fluoroscopy of Other Upper Arteries using Other Contrast,B31NYZ,2016,2027
+B31NZ,None,B31N,2016,2027
+B31NZZ,None,B31NZ,2016,2027
+B31NZZZ,Fluoroscopy of Other Upper Arteries,B31NZZ,2016,2027
+B31P,Thoraco-Abdominal Aorta,B31,2016,2027
+B31P0,High Osmolar,B31P,2016,2027
+B31P01,Laser,B31P0,2016,2027
+B31P010,"Fluoroscopy of Thoraco-Abdominal Aorta using High Osmolar Contrast, Laser Intraoperative",B31P01,2016,2027
+B31P0Z,None,B31P0,2016,2027
+B31P0ZZ,Fluoroscopy of Thoraco-Abdominal Aorta using High Osmolar Contrast,B31P0Z,2016,2027
+B31P1,Low Osmolar,B31P,2016,2027
+B31P11,Laser,B31P1,2016,2027
+B31P110,"Fluoroscopy of Thoraco-Abdominal Aorta using Low Osmolar Contrast, Laser Intraoperative",B31P11,2016,2027
+B31P1Z,None,B31P1,2016,2027
+B31P1ZZ,Fluoroscopy of Thoraco-Abdominal Aorta using Low Osmolar Contrast,B31P1Z,2016,2027
+B31PY,Other Contrast,B31P,2016,2027
+B31PY1,Laser,B31PY,2016,2027
+B31PY10,"Fluoroscopy of Thoraco-Abdominal Aorta using Other Contrast, Laser Intraoperative",B31PY1,2016,2027
+B31PYZ,None,B31PY,2016,2027
+B31PYZZ,Fluoroscopy of Thoraco-Abdominal Aorta using Other Contrast,B31PYZ,2016,2027
+B31PZ,None,B31P,2016,2027
+B31PZZ,None,B31PZ,2016,2027
+B31PZZZ,Fluoroscopy of Thoraco-Abdominal Aorta,B31PZZ,2016,2027
+B31Q,Cervico-Cerebral Arch,B31,2016,2027
+B31Q0,High Osmolar,B31Q,2016,2027
+B31Q01,Laser,B31Q0,2016,2027
+B31Q010,"Fluoroscopy of Cervico-Cerebral Arch using High Osmolar Contrast, Laser Intraoperative",B31Q01,2016,2027
+B31Q0Z,None,B31Q0,2016,2027
+B31Q0ZZ,Fluoroscopy of Cervico-Cerebral Arch using High Osmolar Contrast,B31Q0Z,2016,2027
+B31Q1,Low Osmolar,B31Q,2016,2027
+B31Q11,Laser,B31Q1,2016,2027
+B31Q110,"Fluoroscopy of Cervico-Cerebral Arch using Low Osmolar Contrast, Laser Intraoperative",B31Q11,2016,2027
+B31Q1Z,None,B31Q1,2016,2027
+B31Q1ZZ,Fluoroscopy of Cervico-Cerebral Arch using Low Osmolar Contrast,B31Q1Z,2016,2027
+B31QY,Other Contrast,B31Q,2016,2027
+B31QY1,Laser,B31QY,2016,2027
+B31QY10,"Fluoroscopy of Cervico-Cerebral Arch using Other Contrast, Laser Intraoperative",B31QY1,2016,2027
+B31QYZ,None,B31QY,2016,2027
+B31QYZZ,Fluoroscopy of Cervico-Cerebral Arch using Other Contrast,B31QYZ,2016,2027
+B31QZ,None,B31Q,2016,2027
+B31QZZ,None,B31QZ,2016,2027
+B31QZZZ,Fluoroscopy of Cervico-Cerebral Arch,B31QZZ,2016,2027
+B31R,Intracranial Arteries,B31,2016,2027
+B31R0,High Osmolar,B31R,2016,2027
+B31R01,Laser,B31R0,2016,2027
+B31R010,"Fluoroscopy of Intracranial Arteries using High Osmolar Contrast, Laser Intraoperative",B31R01,2016,2027
+B31R0Z,None,B31R0,2016,2027
+B31R0ZZ,Fluoroscopy of Intracranial Arteries using High Osmolar Contrast,B31R0Z,2016,2027
+B31R1,Low Osmolar,B31R,2016,2027
+B31R11,Laser,B31R1,2016,2027
+B31R110,"Fluoroscopy of Intracranial Arteries using Low Osmolar Contrast, Laser Intraoperative",B31R11,2016,2027
+B31R1Z,None,B31R1,2016,2027
+B31R1ZZ,Fluoroscopy of Intracranial Arteries using Low Osmolar Contrast,B31R1Z,2016,2027
+B31RY,Other Contrast,B31R,2016,2027
+B31RY1,Laser,B31RY,2016,2027
+B31RY10,"Fluoroscopy of Intracranial Arteries using Other Contrast, Laser Intraoperative",B31RY1,2016,2027
+B31RYZ,None,B31RY,2016,2027
+B31RYZZ,Fluoroscopy of Intracranial Arteries using Other Contrast,B31RYZ,2016,2027
+B31RZ,None,B31R,2016,2027
+B31RZZ,None,B31RZ,2016,2027
+B31RZZZ,Fluoroscopy of Intracranial Arteries,B31RZZ,2016,2027
+B31S,"Pulmonary Artery, Right",B31,2016,2027
+B31S0,High Osmolar,B31S,2016,2027
+B31S01,Laser,B31S0,2016,2027
+B31S010,"Fluoroscopy of Right Pulmonary Artery using High Osmolar Contrast, Laser Intraoperative",B31S01,2016,2027
+B31S0Z,None,B31S0,2016,2027
+B31S0ZZ,Fluoroscopy of Right Pulmonary Artery using High Osmolar Contrast,B31S0Z,2016,2027
+B31S1,Low Osmolar,B31S,2016,2027
+B31S11,Laser,B31S1,2016,2027
+B31S110,"Fluoroscopy of Right Pulmonary Artery using Low Osmolar Contrast, Laser Intraoperative",B31S11,2016,2027
+B31S1Z,None,B31S1,2016,2027
+B31S1ZZ,Fluoroscopy of Right Pulmonary Artery using Low Osmolar Contrast,B31S1Z,2016,2027
+B31SY,Other Contrast,B31S,2016,2027
+B31SY1,Laser,B31SY,2016,2027
+B31SY10,"Fluoroscopy of Right Pulmonary Artery using Other Contrast, Laser Intraoperative",B31SY1,2016,2027
+B31SYZ,None,B31SY,2016,2027
+B31SYZZ,Fluoroscopy of Right Pulmonary Artery using Other Contrast,B31SYZ,2016,2027
+B31SZ,None,B31S,2016,2027
+B31SZZ,None,B31SZ,2016,2027
+B31SZZZ,Fluoroscopy of Right Pulmonary Artery,B31SZZ,2016,2027
+B31T,"Pulmonary Artery, Left",B31,2016,2027
+B31T0,High Osmolar,B31T,2016,2027
+B31T01,Laser,B31T0,2016,2027
+B31T010,"Fluoroscopy of Left Pulmonary Artery using High Osmolar Contrast, Laser Intraoperative",B31T01,2016,2027
+B31T0Z,None,B31T0,2016,2027
+B31T0ZZ,Fluoroscopy of Left Pulmonary Artery using High Osmolar Contrast,B31T0Z,2016,2027
+B31T1,Low Osmolar,B31T,2016,2027
+B31T11,Laser,B31T1,2016,2027
+B31T110,"Fluoroscopy of Left Pulmonary Artery using Low Osmolar Contrast, Laser Intraoperative",B31T11,2016,2027
+B31T1Z,None,B31T1,2016,2027
+B31T1ZZ,Fluoroscopy of Left Pulmonary Artery using Low Osmolar Contrast,B31T1Z,2016,2027
+B31TY,Other Contrast,B31T,2016,2027
+B31TY1,Laser,B31TY,2016,2027
+B31TY10,"Fluoroscopy of Left Pulmonary Artery using Other Contrast, Laser Intraoperative",B31TY1,2016,2027
+B31TYZ,None,B31TY,2016,2027
+B31TYZZ,Fluoroscopy of Left Pulmonary Artery using Other Contrast,B31TYZ,2016,2027
+B31TZ,None,B31T,2016,2027
+B31TZZ,None,B31TZ,2016,2027
+B31TZZZ,Fluoroscopy of Left Pulmonary Artery,B31TZZ,2016,2027
+B31U,Pulmonary Trunk,B31,2018,2027
+B31U0,High Osmolar,B31U,2018,2027
+B31U01,Laser,B31U0,2018,2027
+B31U010,"Fluoroscopy of Pulmonary Trunk using High Osmolar Contrast, Laser Intraoperative",B31U01,2018,2027
+B31U0Z,None,B31U0,2018,2027
+B31U0ZZ,Fluoroscopy of Pulmonary Trunk using High Osmolar Contrast,B31U0Z,2018,2027
+B31U1,Low Osmolar,B31U,2018,2027
+B31U11,Laser,B31U1,2018,2027
+B31U110,"Fluoroscopy of Pulmonary Trunk using Low Osmolar Contrast, Laser Intraoperative",B31U11,2018,2027
+B31U1Z,None,B31U1,2018,2027
+B31U1ZZ,Fluoroscopy of Pulmonary Trunk using Low Osmolar Contrast,B31U1Z,2018,2027
+B31UY,Other Contrast,B31U,2018,2027
+B31UY1,Laser,B31UY,2018,2027
+B31UY10,"Fluoroscopy of Pulmonary Trunk using Other Contrast, Laser Intraoperative",B31UY1,2018,2027
+B31UYZ,None,B31UY,2018,2027
+B31UYZZ,Fluoroscopy of Pulmonary Trunk using Other Contrast,B31UYZ,2018,2027
+B31UZ,None,B31U,2018,2027
+B31UZZ,None,B31UZ,2018,2027
+B31UZZZ,Fluoroscopy of Pulmonary Trunk,B31UZZ,2018,2027
+B32,Computerized Tomography (CT Scan),B3,2016,2027
+B320,Thoracic Aorta,B32,2016,2027
+B3200,High Osmolar,B320,2016,2027
+B3200Z,None,B3200,2016,2027
+B3200ZZ,Computerized Tomography (CT Scan) of Thoracic Aorta using High Osmolar Contrast,B3200Z,2016,2027
+B3201,Low Osmolar,B320,2016,2027
+B3201Z,None,B3201,2016,2027
+B3201ZZ,Computerized Tomography (CT Scan) of Thoracic Aorta using Low Osmolar Contrast,B3201Z,2016,2027
+B320Y,Other Contrast,B320,2016,2027
+B320YZ,None,B320Y,2016,2027
+B320YZZ,Computerized Tomography (CT Scan) of Thoracic Aorta using Other Contrast,B320YZ,2016,2027
+B320Z,None,B320,2016,2027
+B320Z2,Intravascular Optical Coherence,B320Z,2016,2027
+B320Z2Z,Computerized Tomography (CT Scan) of Thoracic Aorta using Intravascular Optical Coherence,B320Z2,2016,2027
+B320ZZ,None,B320Z,2016,2027
+B320ZZZ,Computerized Tomography (CT Scan) of Thoracic Aorta,B320ZZ,2016,2027
+B325,"Common Carotid Arteries, Bilateral",B32,2016,2027
+B3250,High Osmolar,B325,2016,2027
+B3250Z,None,B3250,2016,2027
+B3250ZZ,Computerized Tomography (CT Scan) of Bilateral Common Carotid Arteries using High Osmolar Contrast,B3250Z,2016,2027
+B3251,Low Osmolar,B325,2016,2027
+B3251Z,None,B3251,2016,2027
+B3251ZZ,Computerized Tomography (CT Scan) of Bilateral Common Carotid Arteries using Low Osmolar Contrast,B3251Z,2016,2027
+B325Y,Other Contrast,B325,2016,2027
+B325YZ,None,B325Y,2016,2027
+B325YZZ,Computerized Tomography (CT Scan) of Bilateral Common Carotid Arteries using Other Contrast,B325YZ,2016,2027
+B325Z,None,B325,2016,2027
+B325Z2,Intravascular Optical Coherence,B325Z,2016,2027
+B325Z2Z,Computerized Tomography (CT Scan) of Bilateral Common Carotid Arteries using Intravascular Optical Coherence,B325Z2,2016,2027
+B325ZZ,None,B325Z,2016,2027
+B325ZZZ,Computerized Tomography (CT Scan) of Bilateral Common Carotid Arteries,B325ZZ,2016,2027
+B328,"Internal Carotid Arteries, Bilateral",B32,2016,2027
+B3280,High Osmolar,B328,2016,2027
+B3280Z,None,B3280,2016,2027
+B3280ZZ,Computerized Tomography (CT Scan) of Bilateral Internal Carotid Arteries using High Osmolar Contrast,B3280Z,2016,2027
+B3281,Low Osmolar,B328,2016,2027
+B3281Z,None,B3281,2016,2027
+B3281ZZ,Computerized Tomography (CT Scan) of Bilateral Internal Carotid Arteries using Low Osmolar Contrast,B3281Z,2016,2027
+B328Y,Other Contrast,B328,2016,2027
+B328YZ,None,B328Y,2016,2027
+B328YZZ,Computerized Tomography (CT Scan) of Bilateral Internal Carotid Arteries using Other Contrast,B328YZ,2016,2027
+B328Z,None,B328,2016,2027
+B328Z2,Intravascular Optical Coherence,B328Z,2016,2027
+B328Z2Z,Computerized Tomography (CT Scan) of Bilateral Internal Carotid Arteries using Intravascular Optical Coherence,B328Z2,2016,2027
+B328ZZ,None,B328Z,2016,2027
+B328ZZZ,Computerized Tomography (CT Scan) of Bilateral Internal Carotid Arteries,B328ZZ,2016,2027
+B32G,"Vertebral Arteries, Bilateral",B32,2016,2027
+B32G0,High Osmolar,B32G,2016,2027
+B32G0Z,None,B32G0,2016,2027
+B32G0ZZ,Computerized Tomography (CT Scan) of Bilateral Vertebral Arteries using High Osmolar Contrast,B32G0Z,2016,2027
+B32G1,Low Osmolar,B32G,2016,2027
+B32G1Z,None,B32G1,2016,2027
+B32G1ZZ,Computerized Tomography (CT Scan) of Bilateral Vertebral Arteries using Low Osmolar Contrast,B32G1Z,2016,2027
+B32GY,Other Contrast,B32G,2016,2027
+B32GYZ,None,B32GY,2016,2027
+B32GYZZ,Computerized Tomography (CT Scan) of Bilateral Vertebral Arteries using Other Contrast,B32GYZ,2016,2027
+B32GZ,None,B32G,2016,2027
+B32GZ2,Intravascular Optical Coherence,B32GZ,2016,2027
+B32GZ2Z,Computerized Tomography (CT Scan) of Bilateral Vertebral Arteries using Intravascular Optical Coherence,B32GZ2,2016,2027
+B32GZZ,None,B32GZ,2016,2027
+B32GZZZ,Computerized Tomography (CT Scan) of Bilateral Vertebral Arteries,B32GZZ,2016,2027
+B32R,Intracranial Arteries,B32,2016,2027
+B32R0,High Osmolar,B32R,2016,2027
+B32R0Z,None,B32R0,2016,2027
+B32R0ZZ,Computerized Tomography (CT Scan) of Intracranial Arteries using High Osmolar Contrast,B32R0Z,2016,2027
+B32R1,Low Osmolar,B32R,2016,2027
+B32R1Z,None,B32R1,2016,2027
+B32R1ZZ,Computerized Tomography (CT Scan) of Intracranial Arteries using Low Osmolar Contrast,B32R1Z,2016,2027
+B32RY,Other Contrast,B32R,2016,2027
+B32RYZ,None,B32RY,2016,2027
+B32RYZZ,Computerized Tomography (CT Scan) of Intracranial Arteries using Other Contrast,B32RYZ,2016,2027
+B32RZ,None,B32R,2016,2027
+B32RZ2,Intravascular Optical Coherence,B32RZ,2016,2027
+B32RZ2Z,Computerized Tomography (CT Scan) of Intracranial Arteries using Intravascular Optical Coherence,B32RZ2,2016,2027
+B32RZZ,None,B32RZ,2016,2027
+B32RZZZ,Computerized Tomography (CT Scan) of Intracranial Arteries,B32RZZ,2016,2027
+B32S,"Pulmonary Artery, Right",B32,2016,2027
+B32S0,High Osmolar,B32S,2016,2027
+B32S0Z,None,B32S0,2016,2027
+B32S0ZZ,Computerized Tomography (CT Scan) of Right Pulmonary Artery using High Osmolar Contrast,B32S0Z,2016,2027
+B32S1,Low Osmolar,B32S,2016,2027
+B32S1Z,None,B32S1,2016,2027
+B32S1ZZ,Computerized Tomography (CT Scan) of Right Pulmonary Artery using Low Osmolar Contrast,B32S1Z,2016,2027
+B32SY,Other Contrast,B32S,2016,2027
+B32SYZ,None,B32SY,2016,2027
+B32SYZZ,Computerized Tomography (CT Scan) of Right Pulmonary Artery using Other Contrast,B32SYZ,2016,2027
+B32SZ,None,B32S,2016,2027
+B32SZ2,Intravascular Optical Coherence,B32SZ,2016,2027
+B32SZ2Z,Computerized Tomography (CT Scan) of Right Pulmonary Artery using Intravascular Optical Coherence,B32SZ2,2016,2027
+B32SZZ,None,B32SZ,2016,2027
+B32SZZZ,Computerized Tomography (CT Scan) of Right Pulmonary Artery,B32SZZ,2016,2027
+B32T,"Pulmonary Artery, Left",B32,2016,2027
+B32T0,High Osmolar,B32T,2016,2027
+B32T0Z,None,B32T0,2016,2027
+B32T0ZZ,Computerized Tomography (CT Scan) of Left Pulmonary Artery using High Osmolar Contrast,B32T0Z,2016,2027
+B32T1,Low Osmolar,B32T,2016,2027
+B32T1Z,None,B32T1,2016,2027
+B32T1ZZ,Computerized Tomography (CT Scan) of Left Pulmonary Artery using Low Osmolar Contrast,B32T1Z,2016,2027
+B32TY,Other Contrast,B32T,2016,2027
+B32TYZ,None,B32TY,2016,2027
+B32TYZZ,Computerized Tomography (CT Scan) of Left Pulmonary Artery using Other Contrast,B32TYZ,2016,2027
+B32TZ,None,B32T,2016,2027
+B32TZ2,Intravascular Optical Coherence,B32TZ,2016,2027
+B32TZ2Z,Computerized Tomography (CT Scan) of Left Pulmonary Artery using Intravascular Optical Coherence,B32TZ2,2016,2027
+B32TZZ,None,B32TZ,2016,2027
+B32TZZZ,Computerized Tomography (CT Scan) of Left Pulmonary Artery,B32TZZ,2016,2027
+B33,Magnetic Resonance Imaging (MRI),B3,2016,2027
+B330,Thoracic Aorta,B33,2016,2027
+B330Y,Other Contrast,B330,2016,2027
+B330Y0,Unenhanced and Enhanced,B330Y,2016,2027
+B330Y0Z,"Magnetic Resonance Imaging (MRI) of Thoracic Aorta using Other Contrast, Unenhanced and Enhanced",B330Y0,2016,2027
+B330YZ,None,B330Y,2016,2027
+B330YZZ,Magnetic Resonance Imaging (MRI) of Thoracic Aorta using Other Contrast,B330YZ,2016,2027
+B330Z,None,B330,2016,2027
+B330ZZ,None,B330Z,2016,2027
+B330ZZZ,Magnetic Resonance Imaging (MRI) of Thoracic Aorta,B330ZZ,2016,2027
+B335,"Common Carotid Arteries, Bilateral",B33,2016,2027
+B335Y,Other Contrast,B335,2016,2027
+B335Y0,Unenhanced and Enhanced,B335Y,2016,2027
+B335Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Common Carotid Arteries using Other Contrast, Unenhanced and Enhanced",B335Y0,2016,2027
+B335YZ,None,B335Y,2016,2027
+B335YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Common Carotid Arteries using Other Contrast,B335YZ,2016,2027
+B335Z,None,B335,2016,2027
+B335ZZ,None,B335Z,2016,2027
+B335ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Common Carotid Arteries,B335ZZ,2016,2027
+B338,"Internal Carotid Arteries, Bilateral",B33,2016,2027
+B338Y,Other Contrast,B338,2016,2027
+B338Y0,Unenhanced and Enhanced,B338Y,2016,2027
+B338Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Internal Carotid Arteries using Other Contrast, Unenhanced and Enhanced",B338Y0,2016,2027
+B338YZ,None,B338Y,2016,2027
+B338YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Internal Carotid Arteries using Other Contrast,B338YZ,2016,2027
+B338Z,None,B338,2016,2027
+B338ZZ,None,B338Z,2016,2027
+B338ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Internal Carotid Arteries,B338ZZ,2016,2027
+B33G,"Vertebral Arteries, Bilateral",B33,2016,2027
+B33GY,Other Contrast,B33G,2016,2027
+B33GY0,Unenhanced and Enhanced,B33GY,2016,2027
+B33GY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Vertebral Arteries using Other Contrast, Unenhanced and Enhanced",B33GY0,2016,2027
+B33GYZ,None,B33GY,2016,2027
+B33GYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Vertebral Arteries using Other Contrast,B33GYZ,2016,2027
+B33GZ,None,B33G,2016,2027
+B33GZZ,None,B33GZ,2016,2027
+B33GZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Vertebral Arteries,B33GZZ,2016,2027
+B33H,"Upper Extremity Arteries, Right",B33,2016,2027
+B33HY,Other Contrast,B33H,2016,2027
+B33HY0,Unenhanced and Enhanced,B33HY,2016,2027
+B33HY0Z,"Magnetic Resonance Imaging (MRI) of Right Upper Extremity Arteries using Other Contrast, Unenhanced and Enhanced",B33HY0,2016,2027
+B33HYZ,None,B33HY,2016,2027
+B33HYZZ,Magnetic Resonance Imaging (MRI) of Right Upper Extremity Arteries using Other Contrast,B33HYZ,2016,2027
+B33HZ,None,B33H,2016,2027
+B33HZZ,None,B33HZ,2016,2027
+B33HZZZ,Magnetic Resonance Imaging (MRI) of Right Upper Extremity Arteries,B33HZZ,2016,2027
+B33J,"Upper Extremity Arteries, Left",B33,2016,2027
+B33JY,Other Contrast,B33J,2016,2027
+B33JY0,Unenhanced and Enhanced,B33JY,2016,2027
+B33JY0Z,"Magnetic Resonance Imaging (MRI) of Left Upper Extremity Arteries using Other Contrast, Unenhanced and Enhanced",B33JY0,2016,2027
+B33JYZ,None,B33JY,2016,2027
+B33JYZZ,Magnetic Resonance Imaging (MRI) of Left Upper Extremity Arteries using Other Contrast,B33JYZ,2016,2027
+B33JZ,None,B33J,2016,2027
+B33JZZ,None,B33JZ,2016,2027
+B33JZZZ,Magnetic Resonance Imaging (MRI) of Left Upper Extremity Arteries,B33JZZ,2016,2027
+B33K,"Upper Extremity Arteries, Bilateral",B33,2016,2027
+B33KY,Other Contrast,B33K,2016,2027
+B33KY0,Unenhanced and Enhanced,B33KY,2016,2027
+B33KY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Upper Extremity Arteries using Other Contrast, Unenhanced and Enhanced",B33KY0,2016,2027
+B33KYZ,None,B33KY,2016,2027
+B33KYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Upper Extremity Arteries using Other Contrast,B33KYZ,2016,2027
+B33KZ,None,B33K,2016,2027
+B33KZZ,None,B33KZ,2016,2027
+B33KZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Upper Extremity Arteries,B33KZZ,2016,2027
+B33M,Spinal Arteries,B33,2016,2027
+B33MY,Other Contrast,B33M,2016,2027
+B33MY0,Unenhanced and Enhanced,B33MY,2016,2027
+B33MY0Z,"Magnetic Resonance Imaging (MRI) of Spinal Arteries using Other Contrast, Unenhanced and Enhanced",B33MY0,2016,2027
+B33MYZ,None,B33MY,2016,2027
+B33MYZZ,Magnetic Resonance Imaging (MRI) of Spinal Arteries using Other Contrast,B33MYZ,2016,2027
+B33MZ,None,B33M,2016,2027
+B33MZZ,None,B33MZ,2016,2027
+B33MZZZ,Magnetic Resonance Imaging (MRI) of Spinal Arteries,B33MZZ,2016,2027
+B33Q,Cervico-Cerebral Arch,B33,2016,2027
+B33QY,Other Contrast,B33Q,2016,2027
+B33QY0,Unenhanced and Enhanced,B33QY,2016,2027
+B33QY0Z,"Magnetic Resonance Imaging (MRI) of Cervico-Cerebral Arch using Other Contrast, Unenhanced and Enhanced",B33QY0,2016,2027
+B33QYZ,None,B33QY,2016,2027
+B33QYZZ,Magnetic Resonance Imaging (MRI) of Cervico-Cerebral Arch using Other Contrast,B33QYZ,2016,2027
+B33QZ,None,B33Q,2016,2027
+B33QZZ,None,B33QZ,2016,2027
+B33QZZZ,Magnetic Resonance Imaging (MRI) of Cervico-Cerebral Arch,B33QZZ,2016,2027
+B33R,Intracranial Arteries,B33,2016,2027
+B33RY,Other Contrast,B33R,2016,2027
+B33RY0,Unenhanced and Enhanced,B33RY,2016,2027
+B33RY0Z,"Magnetic Resonance Imaging (MRI) of Intracranial Arteries using Other Contrast, Unenhanced and Enhanced",B33RY0,2016,2027
+B33RYZ,None,B33RY,2016,2027
+B33RYZZ,Magnetic Resonance Imaging (MRI) of Intracranial Arteries using Other Contrast,B33RYZ,2016,2027
+B33RZ,None,B33R,2016,2027
+B33RZZ,None,B33RZ,2016,2027
+B33RZZZ,Magnetic Resonance Imaging (MRI) of Intracranial Arteries,B33RZZ,2016,2027
+B34,Ultrasonography,B3,2016,2027
+B340,Thoracic Aorta,B34,2016,2027
+B340Z,None,B340,2016,2027
+B340ZZ,None,B340Z,2016,2027
+B340ZZ3,"Ultrasonography of Thoracic Aorta, Intravascular",B340ZZ,2016,2027
+B340ZZZ,Ultrasonography of Thoracic Aorta,B340ZZ,2016,2027
+B341,"Brachiocephalic-Subclavian Artery, Right",B34,2016,2027
+B341Z,None,B341,2016,2027
+B341ZZ,None,B341Z,2016,2027
+B341ZZ3,"Ultrasonography of Right Brachiocephalic-Subclavian Artery, Intravascular",B341ZZ,2016,2027
+B341ZZZ,Ultrasonography of Right Brachiocephalic-Subclavian Artery,B341ZZ,2016,2027
+B342,"Subclavian Artery, Left",B34,2016,2027
+B342Z,None,B342,2016,2027
+B342ZZ,None,B342Z,2016,2027
+B342ZZ3,"Ultrasonography of Left Subclavian Artery, Intravascular",B342ZZ,2016,2027
+B342ZZZ,Ultrasonography of Left Subclavian Artery,B342ZZ,2016,2027
+B343,"Common Carotid Artery, Right",B34,2016,2027
+B343Z,None,B343,2016,2027
+B343ZZ,None,B343Z,2016,2027
+B343ZZ3,"Ultrasonography of Right Common Carotid Artery, Intravascular",B343ZZ,2016,2027
+B343ZZZ,Ultrasonography of Right Common Carotid Artery,B343ZZ,2016,2027
+B344,"Common Carotid Artery, Left",B34,2016,2027
+B344Z,None,B344,2016,2027
+B344ZZ,None,B344Z,2016,2027
+B344ZZ3,"Ultrasonography of Left Common Carotid Artery, Intravascular",B344ZZ,2016,2027
+B344ZZZ,Ultrasonography of Left Common Carotid Artery,B344ZZ,2016,2027
+B345,"Common Carotid Arteries, Bilateral",B34,2016,2027
+B345Z,None,B345,2016,2027
+B345ZZ,None,B345Z,2016,2027
+B345ZZ3,"Ultrasonography of Bilateral Common Carotid Arteries, Intravascular",B345ZZ,2016,2027
+B345ZZZ,Ultrasonography of Bilateral Common Carotid Arteries,B345ZZ,2016,2027
+B346,"Internal Carotid Artery, Right",B34,2016,2027
+B346Z,None,B346,2016,2027
+B346ZZ,None,B346Z,2016,2027
+B346ZZ3,"Ultrasonography of Right Internal Carotid Artery, Intravascular",B346ZZ,2016,2027
+B346ZZZ,Ultrasonography of Right Internal Carotid Artery,B346ZZ,2016,2027
+B347,"Internal Carotid Artery, Left",B34,2016,2027
+B347Z,None,B347,2016,2027
+B347ZZ,None,B347Z,2016,2027
+B347ZZ3,"Ultrasonography of Left Internal Carotid Artery, Intravascular",B347ZZ,2016,2027
+B347ZZZ,Ultrasonography of Left Internal Carotid Artery,B347ZZ,2016,2027
+B348,"Internal Carotid Arteries, Bilateral",B34,2016,2027
+B348Z,None,B348,2016,2027
+B348ZZ,None,B348Z,2016,2027
+B348ZZ3,"Ultrasonography of Bilateral Internal Carotid Arteries, Intravascular",B348ZZ,2016,2027
+B348ZZZ,Ultrasonography of Bilateral Internal Carotid Arteries,B348ZZ,2016,2027
+B34H,"Upper Extremity Arteries, Right",B34,2016,2027
+B34HZ,None,B34H,2016,2027
+B34HZZ,None,B34HZ,2016,2027
+B34HZZ3,"Ultrasonography of Right Upper Extremity Arteries, Intravascular",B34HZZ,2016,2027
+B34HZZZ,Ultrasonography of Right Upper Extremity Arteries,B34HZZ,2016,2027
+B34J,"Upper Extremity Arteries, Left",B34,2016,2027
+B34JZ,None,B34J,2016,2027
+B34JZZ,None,B34JZ,2016,2027
+B34JZZ3,"Ultrasonography of Left Upper Extremity Arteries, Intravascular",B34JZZ,2016,2027
+B34JZZZ,Ultrasonography of Left Upper Extremity Arteries,B34JZZ,2016,2027
+B34K,"Upper Extremity Arteries, Bilateral",B34,2016,2027
+B34KZ,None,B34K,2016,2027
+B34KZZ,None,B34KZ,2016,2027
+B34KZZ3,"Ultrasonography of Bilateral Upper Extremity Arteries, Intravascular",B34KZZ,2016,2027
+B34KZZZ,Ultrasonography of Bilateral Upper Extremity Arteries,B34KZZ,2016,2027
+B34R,Intracranial Arteries,B34,2016,2027
+B34RZ,None,B34R,2016,2027
+B34RZZ,None,B34RZ,2016,2027
+B34RZZ3,"Ultrasonography of Intracranial Arteries, Intravascular",B34RZZ,2016,2027
+B34RZZZ,Ultrasonography of Intracranial Arteries,B34RZZ,2016,2027
+B34S,"Pulmonary Artery, Right",B34,2016,2027
+B34SZ,None,B34S,2016,2027
+B34SZZ,None,B34SZ,2016,2027
+B34SZZ3,"Ultrasonography of Right Pulmonary Artery, Intravascular",B34SZZ,2016,2027
+B34SZZZ,Ultrasonography of Right Pulmonary Artery,B34SZZ,2016,2027
+B34T,"Pulmonary Artery, Left",B34,2016,2027
+B34TZ,None,B34T,2016,2027
+B34TZZ,None,B34TZ,2016,2027
+B34TZZ3,"Ultrasonography of Left Pulmonary Artery, Intravascular",B34TZZ,2016,2027
+B34TZZZ,Ultrasonography of Left Pulmonary Artery,B34TZZ,2016,2027
+B34V,Ophthalmic Arteries,B34,2016,2027
+B34VZ,None,B34V,2016,2027
+B34VZZ,None,B34VZ,2016,2027
+B34VZZ3,"Ultrasonography of Ophthalmic Arteries, Intravascular",B34VZZ,2016,2027
+B34VZZZ,Ultrasonography of Ophthalmic Arteries,B34VZZ,2016,2027

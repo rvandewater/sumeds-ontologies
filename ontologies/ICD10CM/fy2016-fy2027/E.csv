@@ -1,0 +1,1271 @@
+code,description,parent,first_year,last_year
+E00,Congenital iodine-deficiency syndrome,,2016,2027
+E00.0,"Congenital iodine-deficiency syndrome, neurological type",E00,2016,2027
+E00.1,"Congenital iodine-deficiency syndrome, myxedematous type",E00,2016,2027
+E00.2,"Congenital iodine-deficiency syndrome, mixed type",E00,2016,2027
+E00.9,"Congenital iodine-deficiency syndrome, unspecified",E00,2016,2027
+E01,Iodine-deficiency related thyroid disorders and allied conditions,,2016,2027
+E01.0,Iodine-deficiency related diffuse (endemic) goiter,E01,2016,2027
+E01.1,Iodine-deficiency related multinodular (endemic) goiter,E01,2016,2027
+E01.2,"Iodine-deficiency related (endemic) goiter, unspecified",E01,2016,2027
+E01.8,Other iodine-deficiency related thyroid disorders and allied conditions,E01,2016,2027
+E02,Subclinical iodine-deficiency hypothyroidism,,2016,2027
+E03,Other hypothyroidism,,2016,2027
+E03.0,Congenital hypothyroidism with diffuse goiter,E03,2016,2027
+E03.1,Congenital hypothyroidism without goiter,E03,2016,2027
+E03.2,Hypothyroidism due to medicaments and other exogenous substances,E03,2016,2027
+E03.3,Postinfectious hypothyroidism,E03,2016,2027
+E03.4,Atrophy of thyroid (acquired),E03,2016,2027
+E03.5,Myxedema coma,E03,2016,2027
+E03.8,Other specified hypothyroidism,E03,2016,2027
+E03.9,"Hypothyroidism, unspecified",E03,2016,2027
+E04,Other nontoxic goiter,,2016,2027
+E04.0,Nontoxic diffuse goiter,E04,2016,2027
+E04.1,Nontoxic single thyroid nodule,E04,2016,2027
+E04.2,Nontoxic multinodular goiter,E04,2016,2027
+E04.8,Other specified nontoxic goiter,E04,2016,2027
+E04.9,"Nontoxic goiter, unspecified",E04,2016,2027
+E05,Thyrotoxicosis [hyperthyroidism],,2016,2027
+E05.0,Thyrotoxicosis with diffuse goiter,E05,2016,2027
+E05.00,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm,E05.0,2016,2027
+E05.01,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm,E05.0,2016,2027
+E05.1,Thyrotoxicosis with toxic single thyroid nodule,E05,2016,2027
+E05.10,Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm,E05.1,2016,2027
+E05.11,Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm,E05.1,2016,2027
+E05.2,Thyrotoxicosis with toxic multinodular goiter,E05,2016,2027
+E05.20,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm,E05.2,2016,2027
+E05.21,Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm,E05.2,2016,2027
+E05.3,Thyrotoxicosis from ectopic thyroid tissue,E05,2016,2027
+E05.30,Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm,E05.3,2016,2027
+E05.31,Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm,E05.3,2016,2027
+E05.4,Thyrotoxicosis factitia,E05,2016,2027
+E05.40,Thyrotoxicosis factitia without thyrotoxic crisis or storm,E05.4,2016,2027
+E05.41,Thyrotoxicosis factitia with thyrotoxic crisis or storm,E05.4,2016,2027
+E05.8,Other thyrotoxicosis,E05,2016,2027
+E05.80,Other thyrotoxicosis without thyrotoxic crisis or storm,E05.8,2016,2027
+E05.81,Other thyrotoxicosis with thyrotoxic crisis or storm,E05.8,2016,2027
+E05.9,"Thyrotoxicosis, unspecified",E05,2016,2027
+E05.90,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm",E05.9,2016,2027
+E05.91,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm",E05.9,2016,2027
+E06,Thyroiditis,,2016,2027
+E06.0,Acute thyroiditis,E06,2016,2027
+E06.1,Subacute thyroiditis,E06,2016,2027
+E06.2,Chronic thyroiditis with transient thyrotoxicosis,E06,2016,2027
+E06.3,Autoimmune thyroiditis,E06,2016,2027
+E06.4,Drug-induced thyroiditis,E06,2016,2027
+E06.5,Other chronic thyroiditis,E06,2016,2027
+E06.9,"Thyroiditis, unspecified",E06,2016,2027
+E07,Other disorders of thyroid,,2016,2027
+E07.0,Hypersecretion of calcitonin,E07,2016,2027
+E07.1,Dyshormogenetic goiter,E07,2016,2027
+E07.8,Other specified disorders of thyroid,E07,2016,2027
+E07.81,Sick-euthyroid syndrome,E07.8,2016,2027
+E07.89,Other specified disorders of thyroid,E07.8,2016,2027
+E07.9,"Disorder of thyroid, unspecified",E07,2016,2027
+E08,Diabetes mellitus due to underlying condition,,2016,2027
+E08.0,Diabetes mellitus due to underlying condition with hyperosmolarity,E08,2016,2027
+E08.00,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),E08.0,2016,2027
+E08.01,Diabetes mellitus due to underlying condition with hyperosmolarity with coma,E08.0,2016,2027
+E08.1,Diabetes mellitus due to underlying condition with ketoacidosis,E08,2016,2027
+E08.10,Diabetes mellitus due to underlying condition with ketoacidosis without coma,E08.1,2016,2027
+E08.11,Diabetes mellitus due to underlying condition with ketoacidosis with coma,E08.1,2016,2027
+E08.2,Diabetes mellitus due to underlying condition with kidney complications,E08,2016,2027
+E08.21,Diabetes mellitus due to underlying condition with diabetic nephropathy,E08.2,2016,2027
+E08.22,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease,E08.2,2016,2027
+E08.29,Diabetes mellitus due to underlying condition with other diabetic kidney complication,E08.2,2016,2027
+E08.3,Diabetes mellitus due to underlying condition with ophthalmic complications,E08,2016,2027
+E08.31,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy,E08.3,2016,2027
+E08.311,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy with macular edema,E08.31,2016,2027
+E08.319,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy without macular edema,E08.31,2016,2027
+E08.32,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy,E08.3,2016,2027
+E08.321,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema,E08.32,2016,2027
+E08.3211,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, right eye",E08.321,2017,2027
+E08.3212,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, left eye",E08.321,2017,2027
+E08.3213,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, bilateral",E08.321,2017,2027
+E08.3219,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",E08.321,2017,2027
+E08.329,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema,E08.32,2016,2027
+E08.3291,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, right eye",E08.329,2017,2027
+E08.3292,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, left eye",E08.329,2017,2027
+E08.3293,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, bilateral",E08.329,2017,2027
+E08.3299,"Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye",E08.329,2017,2027
+E08.33,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy,E08.3,2016,2027
+E08.331,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema,E08.33,2016,2027
+E08.3311,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, right eye",E08.331,2017,2027
+E08.3312,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, left eye",E08.331,2017,2027
+E08.3313,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, bilateral",E08.331,2017,2027
+E08.3319,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye",E08.331,2017,2027
+E08.339,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema,E08.33,2016,2027
+E08.3391,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, right eye",E08.339,2017,2027
+E08.3392,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, left eye",E08.339,2017,2027
+E08.3393,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, bilateral",E08.339,2017,2027
+E08.3399,"Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye",E08.339,2017,2027
+E08.34,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy,E08.3,2016,2027
+E08.341,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema,E08.34,2016,2027
+E08.3411,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, right eye",E08.341,2017,2027
+E08.3412,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, left eye",E08.341,2017,2027
+E08.3413,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, bilateral",E08.341,2017,2027
+E08.3419,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye",E08.341,2017,2027
+E08.349,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema,E08.34,2016,2027
+E08.3491,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, right eye",E08.349,2017,2027
+E08.3492,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, left eye",E08.349,2017,2027
+E08.3493,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, bilateral",E08.349,2017,2027
+E08.3499,"Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye",E08.349,2017,2027
+E08.35,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy,E08.3,2016,2027
+E08.351,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema,E08.35,2016,2027
+E08.3511,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, right eye",E08.351,2017,2027
+E08.3512,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, left eye",E08.351,2017,2027
+E08.3513,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, bilateral",E08.351,2017,2027
+E08.3519,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema, unspecified eye",E08.351,2017,2027
+E08.352,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula,E08.35,2017,2027
+E08.3521,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",E08.352,2017,2027
+E08.3522,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye",E08.352,2017,2027
+E08.3523,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral",E08.352,2017,2027
+E08.3529,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye",E08.352,2017,2027
+E08.353,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula,E08.35,2017,2027
+E08.3531,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye",E08.353,2017,2027
+E08.3532,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye",E08.353,2017,2027
+E08.3533,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral",E08.353,2017,2027
+E08.3539,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye",E08.353,2017,2027
+E08.354,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,E08.35,2017,2027
+E08.3541,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye",E08.354,2017,2027
+E08.3542,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye",E08.354,2017,2027
+E08.3543,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral",E08.354,2017,2027
+E08.3549,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye",E08.354,2017,2027
+E08.355,Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy,E08.35,2017,2027
+E08.3551,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, right eye",E08.355,2017,2027
+E08.3552,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, left eye",E08.355,2017,2027
+E08.3553,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, bilateral",E08.355,2017,2027
+E08.3559,"Diabetes mellitus due to underlying condition with stable proliferative diabetic retinopathy, unspecified eye",E08.355,2017,2027
+E08.359,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema,E08.35,2016,2027
+E08.3591,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, right eye",E08.359,2017,2027
+E08.3592,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, left eye",E08.359,2017,2027
+E08.3593,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, bilateral",E08.359,2017,2027
+E08.3599,"Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema, unspecified eye",E08.359,2017,2027
+E08.36,Diabetes mellitus due to underlying condition with diabetic cataract,E08.3,2016,2027
+E08.37,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment",E08.3,2017,2027
+E08.37X1,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, right eye",E08.37,2017,2027
+E08.37X2,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, left eye",E08.37,2017,2027
+E08.37X3,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, bilateral",E08.37,2017,2027
+E08.37X9,"Diabetes mellitus due to underlying condition with diabetic macular edema, resolved following treatment, unspecified eye",E08.37,2017,2027
+E08.39,Diabetes mellitus due to underlying condition with other diabetic ophthalmic complication,E08.3,2016,2027
+E08.4,Diabetes mellitus due to underlying condition with neurological complications,E08,2016,2027
+E08.40,"Diabetes mellitus due to underlying condition with diabetic neuropathy, unspecified",E08.4,2016,2027
+E08.41,Diabetes mellitus due to underlying condition with diabetic mononeuropathy,E08.4,2016,2027
+E08.42,Diabetes mellitus due to underlying condition with diabetic polyneuropathy,E08.4,2016,2027
+E08.43,Diabetes mellitus due to underlying condition with diabetic autonomic (poly)neuropathy,E08.4,2016,2027
+E08.44,Diabetes mellitus due to underlying condition with diabetic amyotrophy,E08.4,2016,2027
+E08.49,Diabetes mellitus due to underlying condition with other diabetic neurological complication,E08.4,2016,2027
+E08.5,Diabetes mellitus due to underlying condition with circulatory complications,E08,2016,2027
+E08.51,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy without gangrene,E08.5,2016,2027
+E08.52,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy with gangrene,E08.5,2016,2027
+E08.59,Diabetes mellitus due to underlying condition with other circulatory complications,E08.5,2016,2027
+E08.6,Diabetes mellitus due to underlying condition with other specified complications,E08,2016,2027
+E08.61,Diabetes mellitus due to underlying condition with diabetic arthropathy,E08.6,2016,2027
+E08.610,Diabetes mellitus due to underlying condition with diabetic neuropathic arthropathy,E08.61,2016,2027
+E08.618,Diabetes mellitus due to underlying condition with other diabetic arthropathy,E08.61,2016,2027
+E08.62,Diabetes mellitus due to underlying condition with skin complications,E08.6,2016,2027
+E08.620,Diabetes mellitus due to underlying condition with diabetic dermatitis,E08.62,2016,2027
+E08.621,Diabetes mellitus due to underlying condition with foot ulcer,E08.62,2016,2027
+E08.622,Diabetes mellitus due to underlying condition with other skin ulcer,E08.62,2016,2027
+E08.628,Diabetes mellitus due to underlying condition with other skin complications,E08.62,2016,2027
+E08.63,Diabetes mellitus due to underlying condition with oral complications,E08.6,2016,2027
+E08.630,Diabetes mellitus due to underlying condition with periodontal disease,E08.63,2016,2027
+E08.638,Diabetes mellitus due to underlying condition with other oral complications,E08.63,2016,2027
+E08.64,Diabetes mellitus due to underlying condition with hypoglycemia,E08.6,2016,2027
+E08.641,Diabetes mellitus due to underlying condition with hypoglycemia with coma,E08.64,2016,2027
+E08.649,Diabetes mellitus due to underlying condition with hypoglycemia without coma,E08.64,2016,2027
+E08.65,Diabetes mellitus due to underlying condition with hyperglycemia,E08.6,2016,2027
+E08.69,Diabetes mellitus due to underlying condition with other specified complication,E08.6,2016,2027
+E08.8,Diabetes mellitus due to underlying condition with unspecified complications,E08,2016,2027
+E08.9,Diabetes mellitus due to underlying condition without complications,E08,2016,2027
+E09,Drug or chemical induced diabetes mellitus,,2016,2027
+E09.0,Drug or chemical induced diabetes mellitus with hyperosmolarity,E09,2016,2027
+E09.00,Drug or chemical induced diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),E09.0,2016,2027
+E09.01,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma,E09.0,2016,2027
+E09.1,Drug or chemical induced diabetes mellitus with ketoacidosis,E09,2016,2027
+E09.10,Drug or chemical induced diabetes mellitus with ketoacidosis without coma,E09.1,2016,2027
+E09.11,Drug or chemical induced diabetes mellitus with ketoacidosis with coma,E09.1,2016,2027
+E09.2,Drug or chemical induced diabetes mellitus with kidney complications,E09,2016,2027
+E09.21,Drug or chemical induced diabetes mellitus with diabetic nephropathy,E09.2,2016,2027
+E09.22,Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease,E09.2,2016,2027
+E09.29,Drug or chemical induced diabetes mellitus with other diabetic kidney complication,E09.2,2016,2027
+E09.3,Drug or chemical induced diabetes mellitus with ophthalmic complications,E09,2016,2027
+E09.31,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy,E09.3,2016,2027
+E09.311,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy with macular edema,E09.31,2016,2027
+E09.319,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy without macular edema,E09.31,2016,2027
+E09.32,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy,E09.3,2016,2027
+E09.321,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,E09.32,2016,2027
+E09.3211,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye",E09.321,2017,2027
+E09.3212,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye",E09.321,2017,2027
+E09.3213,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral",E09.321,2017,2027
+E09.3219,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",E09.321,2017,2027
+E09.329,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,E09.32,2016,2027
+E09.3291,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye",E09.329,2017,2027
+E09.3292,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye",E09.329,2017,2027
+E09.3293,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral",E09.329,2017,2027
+E09.3299,"Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye",E09.329,2017,2027
+E09.33,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy,E09.3,2016,2027
+E09.331,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,E09.33,2016,2027
+E09.3311,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye",E09.331,2017,2027
+E09.3312,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye",E09.331,2017,2027
+E09.3313,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral",E09.331,2017,2027
+E09.3319,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye",E09.331,2017,2027
+E09.339,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,E09.33,2016,2027
+E09.3391,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye",E09.339,2017,2027
+E09.3392,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye",E09.339,2017,2027
+E09.3393,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral",E09.339,2017,2027
+E09.3399,"Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye",E09.339,2017,2027
+E09.34,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy,E09.3,2016,2027
+E09.341,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,E09.34,2016,2027
+E09.3411,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye",E09.341,2017,2027
+E09.3412,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye",E09.341,2017,2027
+E09.3413,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral",E09.341,2017,2027
+E09.3419,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye",E09.341,2017,2027
+E09.349,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,E09.34,2016,2027
+E09.3491,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye",E09.349,2017,2027
+E09.3492,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye",E09.349,2017,2027
+E09.3493,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral",E09.349,2017,2027
+E09.3499,"Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye",E09.349,2017,2027
+E09.35,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy,E09.3,2016,2027
+E09.351,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema,E09.35,2016,2027
+E09.3511,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye",E09.351,2017,2027
+E09.3512,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye",E09.351,2017,2027
+E09.3513,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",E09.351,2017,2027
+E09.3519,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye",E09.351,2017,2027
+E09.352,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula,E09.35,2017,2027
+E09.3521,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",E09.352,2017,2027
+E09.3522,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye",E09.352,2017,2027
+E09.3523,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral",E09.352,2017,2027
+E09.3529,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye",E09.352,2017,2027
+E09.353,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula,E09.35,2017,2027
+E09.3531,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye",E09.353,2017,2027
+E09.3532,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye",E09.353,2017,2027
+E09.3533,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral",E09.353,2017,2027
+E09.3539,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye",E09.353,2017,2027
+E09.354,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,E09.35,2017,2027
+E09.3541,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye",E09.354,2017,2027
+E09.3542,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye",E09.354,2017,2027
+E09.3543,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral",E09.354,2017,2027
+E09.3549,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye",E09.354,2017,2027
+E09.355,Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy,E09.35,2017,2027
+E09.3551,"Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy, right eye",E09.355,2017,2027
+E09.3552,"Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy, left eye",E09.355,2017,2027
+E09.3553,"Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy, bilateral",E09.355,2017,2027
+E09.3559,"Drug or chemical induced diabetes mellitus with stable proliferative diabetic retinopathy, unspecified eye",E09.355,2017,2027
+E09.359,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema,E09.35,2016,2027
+E09.3591,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye",E09.359,2017,2027
+E09.3592,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye",E09.359,2017,2027
+E09.3593,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral",E09.359,2017,2027
+E09.3599,"Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye",E09.359,2017,2027
+E09.36,Drug or chemical induced diabetes mellitus with diabetic cataract,E09.3,2016,2027
+E09.37,"Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment",E09.3,2017,2027
+E09.37X1,"Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment, right eye",E09.37,2017,2027
+E09.37X2,"Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment, left eye",E09.37,2017,2027
+E09.37X3,"Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral",E09.37,2017,2027
+E09.37X9,"Drug or chemical induced diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye",E09.37,2017,2027
+E09.39,Drug or chemical induced diabetes mellitus with other diabetic ophthalmic complication,E09.3,2016,2027
+E09.4,Drug or chemical induced diabetes mellitus with neurological complications,E09,2016,2027
+E09.40,"Drug or chemical induced diabetes mellitus with neurological complications with diabetic neuropathy, unspecified",E09.4,2016,2027
+E09.41,Drug or chemical induced diabetes mellitus with neurological complications with diabetic mononeuropathy,E09.4,2016,2027
+E09.42,Drug or chemical induced diabetes mellitus with neurological complications with diabetic polyneuropathy,E09.4,2016,2027
+E09.43,Drug or chemical induced diabetes mellitus with neurological complications with diabetic autonomic (poly)neuropathy,E09.4,2016,2027
+E09.44,Drug or chemical induced diabetes mellitus with neurological complications with diabetic amyotrophy,E09.4,2016,2027
+E09.49,Drug or chemical induced diabetes mellitus with neurological complications with other diabetic neurological complication,E09.4,2016,2027
+E09.5,Drug or chemical induced diabetes mellitus with circulatory complications,E09,2016,2027
+E09.51,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy without gangrene,E09.5,2016,2027
+E09.52,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy with gangrene,E09.5,2016,2027
+E09.59,Drug or chemical induced diabetes mellitus with other circulatory complications,E09.5,2016,2027
+E09.6,Drug or chemical induced diabetes mellitus with other specified complications,E09,2016,2027
+E09.61,Drug or chemical induced diabetes mellitus with diabetic arthropathy,E09.6,2016,2027
+E09.610,Drug or chemical induced diabetes mellitus with diabetic neuropathic arthropathy,E09.61,2016,2027
+E09.618,Drug or chemical induced diabetes mellitus with other diabetic arthropathy,E09.61,2016,2027
+E09.62,Drug or chemical induced diabetes mellitus with skin complications,E09.6,2016,2027
+E09.620,Drug or chemical induced diabetes mellitus with diabetic dermatitis,E09.62,2016,2027
+E09.621,Drug or chemical induced diabetes mellitus with foot ulcer,E09.62,2016,2027
+E09.622,Drug or chemical induced diabetes mellitus with other skin ulcer,E09.62,2016,2027
+E09.628,Drug or chemical induced diabetes mellitus with other skin complications,E09.62,2016,2027
+E09.63,Drug or chemical induced diabetes mellitus with oral complications,E09.6,2016,2027
+E09.630,Drug or chemical induced diabetes mellitus with periodontal disease,E09.63,2016,2027
+E09.638,Drug or chemical induced diabetes mellitus with other oral complications,E09.63,2016,2027
+E09.64,Drug or chemical induced diabetes mellitus with hypoglycemia,E09.6,2016,2027
+E09.641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma,E09.64,2016,2027
+E09.649,Drug or chemical induced diabetes mellitus with hypoglycemia without coma,E09.64,2016,2027
+E09.65,Drug or chemical induced diabetes mellitus with hyperglycemia,E09.6,2016,2027
+E09.69,Drug or chemical induced diabetes mellitus with other specified complication,E09.6,2016,2027
+E09.8,Drug or chemical induced diabetes mellitus with unspecified complications,E09,2016,2027
+E09.9,Drug or chemical induced diabetes mellitus without complications,E09,2016,2027
+E10,Type 1 diabetes mellitus,,2016,2027
+E10.1,Type 1 diabetes mellitus with ketoacidosis,E10,2016,2027
+E10.10,Type 1 diabetes mellitus with ketoacidosis without coma,E10.1,2016,2027
+E10.11,Type 1 diabetes mellitus with ketoacidosis with coma,E10.1,2016,2027
+E10.2,Type 1 diabetes mellitus with kidney complications,E10,2016,2027
+E10.21,Type 1 diabetes mellitus with diabetic nephropathy,E10.2,2016,2027
+E10.22,Type 1 diabetes mellitus with diabetic chronic kidney disease,E10.2,2016,2027
+E10.29,Type 1 diabetes mellitus with other diabetic kidney complication,E10.2,2016,2027
+E10.3,Type 1 diabetes mellitus with ophthalmic complications,E10,2016,2027
+E10.31,Type 1 diabetes mellitus with unspecified diabetic retinopathy,E10.3,2016,2027
+E10.311,Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema,E10.31,2016,2027
+E10.319,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema,E10.31,2016,2027
+E10.32,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy,E10.3,2016,2027
+E10.321,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,E10.32,2016,2027
+E10.3211,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye",E10.321,2017,2027
+E10.3212,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye",E10.321,2017,2027
+E10.3213,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral",E10.321,2017,2027
+E10.3219,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",E10.321,2017,2027
+E10.329,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,E10.32,2016,2027
+E10.3291,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye",E10.329,2017,2027
+E10.3292,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye",E10.329,2017,2027
+E10.3293,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral",E10.329,2017,2027
+E10.3299,"Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye",E10.329,2017,2027
+E10.33,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy,E10.3,2016,2027
+E10.331,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,E10.33,2016,2027
+E10.3311,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye",E10.331,2017,2027
+E10.3312,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye",E10.331,2017,2027
+E10.3313,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral",E10.331,2017,2027
+E10.3319,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye",E10.331,2017,2027
+E10.339,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,E10.33,2016,2027
+E10.3391,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye",E10.339,2017,2027
+E10.3392,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye",E10.339,2017,2027
+E10.3393,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral",E10.339,2017,2027
+E10.3399,"Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye",E10.339,2017,2027
+E10.34,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy,E10.3,2016,2027
+E10.341,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,E10.34,2016,2027
+E10.3411,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye",E10.341,2017,2027
+E10.3412,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye",E10.341,2017,2027
+E10.3413,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral",E10.341,2017,2027
+E10.3419,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye",E10.341,2017,2027
+E10.349,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,E10.34,2016,2027
+E10.3491,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye",E10.349,2017,2027
+E10.3492,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye",E10.349,2017,2027
+E10.3493,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral",E10.349,2017,2027
+E10.3499,"Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye",E10.349,2017,2027
+E10.35,Type 1 diabetes mellitus with proliferative diabetic retinopathy,E10.3,2016,2027
+E10.351,Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema,E10.35,2016,2027
+E10.3511,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye",E10.351,2017,2027
+E10.3512,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye",E10.351,2017,2027
+E10.3513,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",E10.351,2017,2027
+E10.3519,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye",E10.351,2017,2027
+E10.352,Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula,E10.35,2017,2027
+E10.3521,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",E10.352,2017,2027
+E10.3522,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye",E10.352,2017,2027
+E10.3523,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral",E10.352,2017,2027
+E10.3529,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye",E10.352,2017,2027
+E10.353,Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula,E10.35,2017,2027
+E10.3531,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye",E10.353,2017,2027
+E10.3532,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye",E10.353,2017,2027
+E10.3533,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral",E10.353,2017,2027
+E10.3539,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye",E10.353,2017,2027
+E10.354,Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,E10.35,2017,2027
+E10.3541,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye",E10.354,2017,2027
+E10.3542,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye",E10.354,2017,2027
+E10.3543,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral",E10.354,2017,2027
+E10.3549,"Type 1 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye",E10.354,2017,2027
+E10.355,Type 1 diabetes mellitus with stable proliferative diabetic retinopathy,E10.35,2017,2027
+E10.3551,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, right eye",E10.355,2017,2027
+E10.3552,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, left eye",E10.355,2017,2027
+E10.3553,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, bilateral",E10.355,2017,2027
+E10.3559,"Type 1 diabetes mellitus with stable proliferative diabetic retinopathy, unspecified eye",E10.355,2017,2027
+E10.359,Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema,E10.35,2016,2027
+E10.3591,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye",E10.359,2017,2027
+E10.3592,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye",E10.359,2017,2027
+E10.3593,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral",E10.359,2017,2027
+E10.3599,"Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye",E10.359,2017,2027
+E10.36,Type 1 diabetes mellitus with diabetic cataract,E10.3,2016,2027
+E10.37,"Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment",E10.3,2017,2027
+E10.37X1,"Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, right eye",E10.37,2017,2027
+E10.37X2,"Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, left eye",E10.37,2017,2027
+E10.37X3,"Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral",E10.37,2017,2027
+E10.37X9,"Type 1 diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye",E10.37,2017,2027
+E10.39,Type 1 diabetes mellitus with other diabetic ophthalmic complication,E10.3,2016,2027
+E10.4,Type 1 diabetes mellitus with neurological complications,E10,2016,2027
+E10.40,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified",E10.4,2016,2027
+E10.41,Type 1 diabetes mellitus with diabetic mononeuropathy,E10.4,2016,2027
+E10.42,Type 1 diabetes mellitus with diabetic polyneuropathy,E10.4,2016,2027
+E10.43,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy,E10.4,2016,2027
+E10.44,Type 1 diabetes mellitus with diabetic amyotrophy,E10.4,2016,2027
+E10.49,Type 1 diabetes mellitus with other diabetic neurological complication,E10.4,2016,2027
+E10.5,Type 1 diabetes mellitus with circulatory complications,E10,2016,2027
+E10.51,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene,E10.5,2016,2027
+E10.52,Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene,E10.5,2016,2027
+E10.59,Type 1 diabetes mellitus with other circulatory complications,E10.5,2016,2027
+E10.6,Type 1 diabetes mellitus with other specified complications,E10,2016,2027
+E10.61,Type 1 diabetes mellitus with diabetic arthropathy,E10.6,2016,2027
+E10.610,Type 1 diabetes mellitus with diabetic neuropathic arthropathy,E10.61,2016,2027
+E10.618,Type 1 diabetes mellitus with other diabetic arthropathy,E10.61,2016,2027
+E10.62,Type 1 diabetes mellitus with skin complications,E10.6,2016,2027
+E10.620,Type 1 diabetes mellitus with diabetic dermatitis,E10.62,2016,2027
+E10.621,Type 1 diabetes mellitus with foot ulcer,E10.62,2016,2027
+E10.622,Type 1 diabetes mellitus with other skin ulcer,E10.62,2016,2027
+E10.628,Type 1 diabetes mellitus with other skin complications,E10.62,2016,2027
+E10.63,Type 1 diabetes mellitus with oral complications,E10.6,2016,2027
+E10.630,Type 1 diabetes mellitus with periodontal disease,E10.63,2016,2027
+E10.638,Type 1 diabetes mellitus with other oral complications,E10.63,2016,2027
+E10.64,Type 1 diabetes mellitus with hypoglycemia,E10.6,2016,2027
+E10.641,Type 1 diabetes mellitus with hypoglycemia with coma,E10.64,2016,2027
+E10.649,Type 1 diabetes mellitus with hypoglycemia without coma,E10.64,2016,2027
+E10.65,Type 1 diabetes mellitus with hyperglycemia,E10.6,2016,2027
+E10.69,Type 1 diabetes mellitus with other specified complication,E10.6,2016,2027
+E10.8,Type 1 diabetes mellitus with unspecified complications,E10,2016,2027
+E10.9,Type 1 diabetes mellitus without complications,E10,2016,2027
+E10.A,"Type 1 diabetes mellitus, presymptomatic",E10,2025,2027
+E10.A0,"Type 1 diabetes mellitus, presymptomatic, unspecified",E10.A,2025,2027
+E10.A1,"Type 1 diabetes mellitus, presymptomatic, Stage 1",E10.A,2025,2027
+E10.A2,"Type 1 diabetes mellitus, presymptomatic, Stage 2",E10.A,2025,2027
+E11,Type 2 diabetes mellitus,,2016,2027
+E11.0,Type 2 diabetes mellitus with hyperosmolarity,E11,2016,2027
+E11.00,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),E11.0,2016,2027
+E11.01,Type 2 diabetes mellitus with hyperosmolarity with coma,E11.0,2016,2027
+E11.1,Type 2 diabetes mellitus with ketoacidosis,E11,2018,2027
+E11.10,Type 2 diabetes mellitus with ketoacidosis without coma,E11.1,2018,2027
+E11.11,Type 2 diabetes mellitus with ketoacidosis with coma,E11.1,2018,2027
+E11.2,Type 2 diabetes mellitus with kidney complications,E11,2016,2027
+E11.21,Type 2 diabetes mellitus with diabetic nephropathy,E11.2,2016,2027
+E11.22,Type 2 diabetes mellitus with diabetic chronic kidney disease,E11.2,2016,2027
+E11.29,Type 2 diabetes mellitus with other diabetic kidney complication,E11.2,2016,2027
+E11.3,Type 2 diabetes mellitus with ophthalmic complications,E11,2016,2027
+E11.31,Type 2 diabetes mellitus with unspecified diabetic retinopathy,E11.3,2016,2027
+E11.311,Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema,E11.31,2016,2027
+E11.319,Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,E11.31,2016,2027
+E11.32,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy,E11.3,2016,2027
+E11.321,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,E11.32,2016,2027
+E11.3211,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye",E11.321,2017,2027
+E11.3212,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye",E11.321,2017,2027
+E11.3213,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral",E11.321,2017,2027
+E11.3219,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",E11.321,2017,2027
+E11.329,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,E11.32,2016,2027
+E11.3291,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye",E11.329,2017,2027
+E11.3292,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye",E11.329,2017,2027
+E11.3293,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral",E11.329,2017,2027
+E11.3299,"Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye",E11.329,2017,2027
+E11.33,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy,E11.3,2016,2027
+E11.331,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,E11.33,2016,2027
+E11.3311,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye",E11.331,2017,2027
+E11.3312,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye",E11.331,2017,2027
+E11.3313,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral",E11.331,2017,2027
+E11.3319,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye",E11.331,2017,2027
+E11.339,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,E11.33,2016,2027
+E11.3391,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye",E11.339,2017,2027
+E11.3392,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye",E11.339,2017,2027
+E11.3393,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral",E11.339,2017,2027
+E11.3399,"Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye",E11.339,2017,2027
+E11.34,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy,E11.3,2016,2027
+E11.341,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,E11.34,2016,2027
+E11.3411,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye",E11.341,2017,2027
+E11.3412,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye",E11.341,2017,2027
+E11.3413,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral",E11.341,2017,2027
+E11.3419,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye",E11.341,2017,2027
+E11.349,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,E11.34,2016,2027
+E11.3491,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye",E11.349,2017,2027
+E11.3492,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye",E11.349,2017,2027
+E11.3493,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral",E11.349,2017,2027
+E11.3499,"Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye",E11.349,2017,2027
+E11.35,Type 2 diabetes mellitus with proliferative diabetic retinopathy,E11.3,2016,2027
+E11.351,Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema,E11.35,2016,2027
+E11.3511,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye",E11.351,2017,2027
+E11.3512,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye",E11.351,2017,2027
+E11.3513,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",E11.351,2017,2027
+E11.3519,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye",E11.351,2017,2027
+E11.352,Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula,E11.35,2017,2027
+E11.3521,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",E11.352,2017,2027
+E11.3522,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye",E11.352,2017,2027
+E11.3523,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral",E11.352,2017,2027
+E11.3529,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye",E11.352,2017,2027
+E11.353,Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula,E11.35,2017,2027
+E11.3531,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye",E11.353,2017,2027
+E11.3532,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye",E11.353,2017,2027
+E11.3533,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral",E11.353,2017,2027
+E11.3539,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye",E11.353,2017,2027
+E11.354,Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,E11.35,2017,2027
+E11.3541,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye",E11.354,2017,2027
+E11.3542,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye",E11.354,2017,2027
+E11.3543,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral",E11.354,2017,2027
+E11.3549,"Type 2 diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye",E11.354,2017,2027
+E11.355,Type 2 diabetes mellitus with stable proliferative diabetic retinopathy,E11.35,2017,2027
+E11.3551,"Type 2 diabetes mellitus with stable proliferative diabetic retinopathy, right eye",E11.355,2017,2027
+E11.3552,"Type 2 diabetes mellitus with stable proliferative diabetic retinopathy, left eye",E11.355,2017,2027
+E11.3553,"Type 2 diabetes mellitus with stable proliferative diabetic retinopathy, bilateral",E11.355,2017,2027
+E11.3559,"Type 2 diabetes mellitus with stable proliferative diabetic retinopathy, unspecified eye",E11.355,2017,2027
+E11.359,Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema,E11.35,2016,2027
+E11.3591,"Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye",E11.359,2017,2027
+E11.3592,"Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye",E11.359,2017,2027
+E11.3593,"Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral",E11.359,2017,2027
+E11.3599,"Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye",E11.359,2017,2027
+E11.36,Type 2 diabetes mellitus with diabetic cataract,E11.3,2016,2027
+E11.37,"Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment",E11.3,2017,2027
+E11.37X1,"Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, right eye",E11.37,2017,2027
+E11.37X2,"Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, left eye",E11.37,2017,2027
+E11.37X3,"Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral",E11.37,2017,2027
+E11.37X9,"Type 2 diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye",E11.37,2017,2027
+E11.39,Type 2 diabetes mellitus with other diabetic ophthalmic complication,E11.3,2016,2027
+E11.4,Type 2 diabetes mellitus with neurological complications,E11,2016,2027
+E11.40,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",E11.4,2016,2027
+E11.41,Type 2 diabetes mellitus with diabetic mononeuropathy,E11.4,2016,2027
+E11.42,Type 2 diabetes mellitus with diabetic polyneuropathy,E11.4,2016,2027
+E11.43,Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy,E11.4,2016,2027
+E11.44,Type 2 diabetes mellitus with diabetic amyotrophy,E11.4,2016,2027
+E11.49,Type 2 diabetes mellitus with other diabetic neurological complication,E11.4,2016,2027
+E11.5,Type 2 diabetes mellitus with circulatory complications,E11,2016,2027
+E11.51,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,E11.5,2016,2027
+E11.52,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,E11.5,2016,2027
+E11.59,Type 2 diabetes mellitus with other circulatory complications,E11.5,2016,2027
+E11.6,Type 2 diabetes mellitus with other specified complications,E11,2016,2027
+E11.61,Type 2 diabetes mellitus with diabetic arthropathy,E11.6,2016,2027
+E11.610,Type 2 diabetes mellitus with diabetic neuropathic arthropathy,E11.61,2016,2027
+E11.618,Type 2 diabetes mellitus with other diabetic arthropathy,E11.61,2016,2027
+E11.62,Type 2 diabetes mellitus with skin complications,E11.6,2016,2027
+E11.620,Type 2 diabetes mellitus with diabetic dermatitis,E11.62,2016,2027
+E11.621,Type 2 diabetes mellitus with foot ulcer,E11.62,2016,2027
+E11.622,Type 2 diabetes mellitus with other skin ulcer,E11.62,2016,2027
+E11.628,Type 2 diabetes mellitus with other skin complications,E11.62,2016,2027
+E11.63,Type 2 diabetes mellitus with oral complications,E11.6,2016,2027
+E11.630,Type 2 diabetes mellitus with periodontal disease,E11.63,2016,2027
+E11.638,Type 2 diabetes mellitus with other oral complications,E11.63,2016,2027
+E11.64,Type 2 diabetes mellitus with hypoglycemia,E11.6,2016,2027
+E11.641,Type 2 diabetes mellitus with hypoglycemia with coma,E11.64,2016,2027
+E11.649,Type 2 diabetes mellitus with hypoglycemia without coma,E11.64,2016,2027
+E11.65,Type 2 diabetes mellitus with hyperglycemia,E11.6,2016,2027
+E11.69,Type 2 diabetes mellitus with other specified complication,E11.6,2016,2027
+E11.8,Type 2 diabetes mellitus with unspecified complications,E11,2016,2027
+E11.9,Type 2 diabetes mellitus without complications,E11,2016,2027
+E11.A,Type 2 diabetes mellitus without complications in remission,E11,2026,2027
+E13,Other specified diabetes mellitus,,2016,2027
+E13.0,Other specified diabetes mellitus with hyperosmolarity,E13,2016,2027
+E13.00,Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),E13.0,2016,2027
+E13.01,Other specified diabetes mellitus with hyperosmolarity with coma,E13.0,2016,2027
+E13.1,Other specified diabetes mellitus with ketoacidosis,E13,2016,2027
+E13.10,Other specified diabetes mellitus with ketoacidosis without coma,E13.1,2016,2027
+E13.11,Other specified diabetes mellitus with ketoacidosis with coma,E13.1,2016,2027
+E13.2,Other specified diabetes mellitus with kidney complications,E13,2016,2027
+E13.21,Other specified diabetes mellitus with diabetic nephropathy,E13.2,2016,2027
+E13.22,Other specified diabetes mellitus with diabetic chronic kidney disease,E13.2,2016,2027
+E13.29,Other specified diabetes mellitus with other diabetic kidney complication,E13.2,2016,2027
+E13.3,Other specified diabetes mellitus with ophthalmic complications,E13,2016,2027
+E13.31,Other specified diabetes mellitus with unspecified diabetic retinopathy,E13.3,2016,2027
+E13.311,Other specified diabetes mellitus with unspecified diabetic retinopathy with macular edema,E13.31,2016,2027
+E13.319,Other specified diabetes mellitus with unspecified diabetic retinopathy without macular edema,E13.31,2016,2027
+E13.32,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy,E13.3,2016,2027
+E13.321,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,E13.32,2016,2027
+E13.3211,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, right eye",E13.321,2017,2027
+E13.3212,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, left eye",E13.321,2017,2027
+E13.3213,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, bilateral",E13.321,2017,2027
+E13.3219,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema, unspecified eye",E13.321,2017,2027
+E13.329,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,E13.32,2016,2027
+E13.3291,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, right eye",E13.329,2017,2027
+E13.3292,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, left eye",E13.329,2017,2027
+E13.3293,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, bilateral",E13.329,2017,2027
+E13.3299,"Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema, unspecified eye",E13.329,2017,2027
+E13.33,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy,E13.3,2016,2027
+E13.331,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,E13.33,2016,2027
+E13.3311,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, right eye",E13.331,2017,2027
+E13.3312,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, left eye",E13.331,2017,2027
+E13.3313,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, bilateral",E13.331,2017,2027
+E13.3319,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema, unspecified eye",E13.331,2017,2027
+E13.339,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,E13.33,2016,2027
+E13.3391,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, right eye",E13.339,2017,2027
+E13.3392,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, left eye",E13.339,2017,2027
+E13.3393,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, bilateral",E13.339,2017,2027
+E13.3399,"Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema, unspecified eye",E13.339,2017,2027
+E13.34,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy,E13.3,2016,2027
+E13.341,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,E13.34,2016,2027
+E13.3411,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, right eye",E13.341,2017,2027
+E13.3412,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, left eye",E13.341,2017,2027
+E13.3413,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, bilateral",E13.341,2017,2027
+E13.3419,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema, unspecified eye",E13.341,2017,2027
+E13.349,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,E13.34,2016,2027
+E13.3491,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, right eye",E13.349,2017,2027
+E13.3492,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, left eye",E13.349,2017,2027
+E13.3493,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, bilateral",E13.349,2017,2027
+E13.3499,"Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema, unspecified eye",E13.349,2017,2027
+E13.35,Other specified diabetes mellitus with proliferative diabetic retinopathy,E13.3,2016,2027
+E13.351,Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema,E13.35,2016,2027
+E13.3511,"Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, right eye",E13.351,2017,2027
+E13.3512,"Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, left eye",E13.351,2017,2027
+E13.3513,"Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, bilateral",E13.351,2017,2027
+E13.3519,"Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema, unspecified eye",E13.351,2017,2027
+E13.352,Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula,E13.35,2017,2027
+E13.3521,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, right eye",E13.352,2017,2027
+E13.3522,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, left eye",E13.352,2017,2027
+E13.3523,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, bilateral",E13.352,2017,2027
+E13.3529,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment involving the macula, unspecified eye",E13.352,2017,2027
+E13.353,Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula,E13.35,2017,2027
+E13.3531,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, right eye",E13.353,2017,2027
+E13.3532,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, left eye",E13.353,2017,2027
+E13.3533,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, bilateral",E13.353,2017,2027
+E13.3539,"Other specified diabetes mellitus with proliferative diabetic retinopathy with traction retinal detachment not involving the macula, unspecified eye",E13.353,2017,2027
+E13.354,Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment,E13.35,2017,2027
+E13.3541,"Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, right eye",E13.354,2017,2027
+E13.3542,"Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, left eye",E13.354,2017,2027
+E13.3543,"Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, bilateral",E13.354,2017,2027
+E13.3549,"Other specified diabetes mellitus with proliferative diabetic retinopathy with combined traction retinal detachment and rhegmatogenous retinal detachment, unspecified eye",E13.354,2017,2027
+E13.355,Other specified diabetes mellitus with stable proliferative diabetic retinopathy,E13.35,2017,2027
+E13.3551,"Other specified diabetes mellitus with stable proliferative diabetic retinopathy, right eye",E13.355,2017,2027
+E13.3552,"Other specified diabetes mellitus with stable proliferative diabetic retinopathy, left eye",E13.355,2017,2027
+E13.3553,"Other specified diabetes mellitus with stable proliferative diabetic retinopathy, bilateral",E13.355,2017,2027
+E13.3559,"Other specified diabetes mellitus with stable proliferative diabetic retinopathy, unspecified eye",E13.355,2017,2027
+E13.359,Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema,E13.35,2016,2027
+E13.3591,"Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, right eye",E13.359,2017,2027
+E13.3592,"Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, left eye",E13.359,2017,2027
+E13.3593,"Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, bilateral",E13.359,2017,2027
+E13.3599,"Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema, unspecified eye",E13.359,2017,2027
+E13.36,Other specified diabetes mellitus with diabetic cataract,E13.3,2016,2027
+E13.37,"Other specified diabetes mellitus with diabetic macular edema, resolved following treatment",E13.3,2017,2027
+E13.37X1,"Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, right eye",E13.37,2017,2027
+E13.37X2,"Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, left eye",E13.37,2017,2027
+E13.37X3,"Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, bilateral",E13.37,2017,2027
+E13.37X9,"Other specified diabetes mellitus with diabetic macular edema, resolved following treatment, unspecified eye",E13.37,2017,2027
+E13.39,Other specified diabetes mellitus with other diabetic ophthalmic complication,E13.3,2016,2027
+E13.4,Other specified diabetes mellitus with neurological complications,E13,2016,2027
+E13.40,"Other specified diabetes mellitus with diabetic neuropathy, unspecified",E13.4,2016,2027
+E13.41,Other specified diabetes mellitus with diabetic mononeuropathy,E13.4,2016,2027
+E13.42,Other specified diabetes mellitus with diabetic polyneuropathy,E13.4,2016,2027
+E13.43,Other specified diabetes mellitus with diabetic autonomic (poly)neuropathy,E13.4,2016,2027
+E13.44,Other specified diabetes mellitus with diabetic amyotrophy,E13.4,2016,2027
+E13.49,Other specified diabetes mellitus with other diabetic neurological complication,E13.4,2016,2027
+E13.5,Other specified diabetes mellitus with circulatory complications,E13,2016,2027
+E13.51,Other specified diabetes mellitus with diabetic peripheral angiopathy without gangrene,E13.5,2016,2027
+E13.52,Other specified diabetes mellitus with diabetic peripheral angiopathy with gangrene,E13.5,2016,2027
+E13.59,Other specified diabetes mellitus with other circulatory complications,E13.5,2016,2027
+E13.6,Other specified diabetes mellitus with other specified complications,E13,2016,2027
+E13.61,Other specified diabetes mellitus with diabetic arthropathy,E13.6,2016,2027
+E13.610,Other specified diabetes mellitus with diabetic neuropathic arthropathy,E13.61,2016,2027
+E13.618,Other specified diabetes mellitus with other diabetic arthropathy,E13.61,2016,2027
+E13.62,Other specified diabetes mellitus with skin complications,E13.6,2016,2027
+E13.620,Other specified diabetes mellitus with diabetic dermatitis,E13.62,2016,2027
+E13.621,Other specified diabetes mellitus with foot ulcer,E13.62,2016,2027
+E13.622,Other specified diabetes mellitus with other skin ulcer,E13.62,2016,2027
+E13.628,Other specified diabetes mellitus with other skin complications,E13.62,2016,2027
+E13.63,Other specified diabetes mellitus with oral complications,E13.6,2016,2027
+E13.630,Other specified diabetes mellitus with periodontal disease,E13.63,2016,2027
+E13.638,Other specified diabetes mellitus with other oral complications,E13.63,2016,2027
+E13.64,Other specified diabetes mellitus with hypoglycemia,E13.6,2016,2027
+E13.641,Other specified diabetes mellitus with hypoglycemia with coma,E13.64,2016,2027
+E13.649,Other specified diabetes mellitus with hypoglycemia without coma,E13.64,2016,2027
+E13.65,Other specified diabetes mellitus with hyperglycemia,E13.6,2016,2027
+E13.69,Other specified diabetes mellitus with other specified complication,E13.6,2016,2027
+E13.8,Other specified diabetes mellitus with unspecified complications,E13,2016,2027
+E13.9,Other specified diabetes mellitus without complications,E13,2016,2027
+E15,Nondiabetic hypoglycemic coma,,2016,2027
+E16,Other disorders of pancreatic internal secretion,,2016,2027
+E16.0,Drug-induced hypoglycemia without coma,E16,2016,2027
+E16.1,Other hypoglycemia,E16,2016,2027
+E16.2,"Hypoglycemia, unspecified",E16,2016,2027
+E16.3,Increased secretion of glucagon,E16,2016,2027
+E16.4,Increased secretion of gastrin,E16,2016,2027
+E16.8,Other specified disorders of pancreatic internal secretion,E16,2016,2027
+E16.9,"Disorder of pancreatic internal secretion, unspecified",E16,2016,2027
+E16.A,Hypoglycemia level,E16,2025,2027
+E16.A1,Hypoglycemia level 1,E16.A,2025,2027
+E16.A2,Hypoglycemia level 2,E16.A,2025,2027
+E16.A3,Hypoglycemia level 3,E16.A,2025,2027
+E20,Hypoparathyroidism,,2016,2027
+E20.0,Idiopathic hypoparathyroidism,E20,2016,2027
+E20.1,Pseudohypoparathyroidism,E20,2016,2027
+E20.8,Other hypoparathyroidism,E20,2016,2027
+E20.81,Hypoparathyroidism due to impaired parathyroid hormone secretion,E20.8,2024,2027
+E20.810,Autosomal dominant hypocalcemia,E20.81,2024,2027
+E20.811,Secondary hypoparathyroidism in diseases classified elsewhere,E20.81,2024,2027
+E20.812,Autoimmune hypoparathyroidism,E20.81,2024,2027
+E20.818,Other specified hypoparathyroidism due to impaired parathyroid hormone secretion,E20.81,2024,2027
+E20.819,"Hypoparathyroidism due to impaired parathyroid hormone secretion, unspecified",E20.81,2024,2027
+E20.89,Other specified hypoparathyroidism,E20.8,2024,2027
+E20.9,"Hypoparathyroidism, unspecified",E20,2016,2027
+E21,Hyperparathyroidism and other disorders of parathyroid gland,,2016,2027
+E21.0,Primary hyperparathyroidism,E21,2016,2027
+E21.1,"Secondary hyperparathyroidism, not elsewhere classified",E21,2016,2027
+E21.2,Other hyperparathyroidism,E21,2016,2027
+E21.3,"Hyperparathyroidism, unspecified",E21,2016,2027
+E21.4,Other specified disorders of parathyroid gland,E21,2016,2027
+E21.5,"Disorder of parathyroid gland, unspecified",E21,2016,2027
+E22,Hyperfunction of pituitary gland,,2016,2027
+E22.0,Acromegaly and pituitary gigantism,E22,2016,2027
+E22.1,Hyperprolactinemia,E22,2016,2027
+E22.2,Syndrome of inappropriate secretion of antidiuretic hormone,E22,2016,2027
+E22.8,Other hyperfunction of pituitary gland,E22,2016,2027
+E22.9,"Hyperfunction of pituitary gland, unspecified",E22,2016,2027
+E23,Hypofunction and other disorders of the pituitary gland,,2016,2027
+E23.0,Hypopituitarism,E23,2016,2027
+E23.1,Drug-induced hypopituitarism,E23,2016,2027
+E23.2,Diabetes insipidus,E23,2016,2027
+E23.3,"Hypothalamic dysfunction, not elsewhere classified",E23,2016,2027
+E23.6,Other disorders of pituitary gland,E23,2016,2027
+E23.7,"Disorder of pituitary gland, unspecified",E23,2016,2027
+E24,Cushing's syndrome,,2016,2027
+E24.0,Pituitary-dependent Cushing's disease,E24,2016,2027
+E24.1,Nelson's syndrome,E24,2016,2027
+E24.2,Drug-induced Cushing's syndrome,E24,2016,2027
+E24.3,Ectopic ACTH syndrome,E24,2016,2027
+E24.4,Alcohol-induced pseudo-Cushing's syndrome,E24,2016,2027
+E24.8,Other Cushing's syndrome,E24,2016,2027
+E24.9,"Cushing's syndrome, unspecified",E24,2016,2027
+E25,Adrenogenital disorders,,2016,2027
+E25.0,Congenital adrenogenital disorders associated with enzyme deficiency,E25,2016,2027
+E25.8,Other adrenogenital disorders,E25,2016,2027
+E25.9,"Adrenogenital disorder, unspecified",E25,2016,2027
+E26,Hyperaldosteronism,,2016,2027
+E26.0,Primary hyperaldosteronism,E26,2016,2027
+E26.01,Conn's syndrome,E26.0,2016,2027
+E26.02,Glucocorticoid-remediable aldosteronism,E26.0,2016,2027
+E26.09,Other primary hyperaldosteronism,E26.0,2016,2027
+E26.1,Secondary hyperaldosteronism,E26,2016,2027
+E26.8,Other hyperaldosteronism,E26,2016,2027
+E26.81,Bartter's syndrome,E26.8,2016,2027
+E26.89,Other hyperaldosteronism,E26.8,2016,2027
+E26.9,"Hyperaldosteronism, unspecified",E26,2016,2027
+E27,Other disorders of adrenal gland,,2016,2027
+E27.0,Other adrenocortical overactivity,E27,2016,2027
+E27.1,Primary adrenocortical insufficiency,E27,2016,2027
+E27.2,Addisonian crisis,E27,2016,2027
+E27.3,Drug-induced adrenocortical insufficiency,E27,2016,2027
+E27.4,Other and unspecified adrenocortical insufficiency,E27,2016,2027
+E27.40,Unspecified adrenocortical insufficiency,E27.4,2016,2027
+E27.49,Other adrenocortical insufficiency,E27.4,2016,2027
+E27.5,Adrenomedullary hyperfunction,E27,2016,2027
+E27.8,Other specified disorders of adrenal gland,E27,2016,2027
+E27.9,"Disorder of adrenal gland, unspecified",E27,2016,2027
+E28,Ovarian dysfunction,,2016,2027
+E28.0,Estrogen excess,E28,2016,2027
+E28.1,Androgen excess,E28,2016,2027
+E28.2,Polycystic ovarian syndrome,E28,2016,2027
+E28.3,Primary ovarian failure,E28,2016,2027
+E28.31,Premature menopause,E28.3,2016,2027
+E28.310,Symptomatic premature menopause,E28.31,2016,2027
+E28.319,Asymptomatic premature menopause,E28.31,2016,2027
+E28.39,Other primary ovarian failure,E28.3,2016,2027
+E28.8,Other ovarian dysfunction,E28,2016,2027
+E28.9,"Ovarian dysfunction, unspecified",E28,2016,2027
+E29,Testicular dysfunction,,2016,2027
+E29.0,Testicular hyperfunction,E29,2016,2027
+E29.1,Testicular hypofunction,E29,2016,2027
+E29.8,Other testicular dysfunction,E29,2016,2027
+E29.9,"Testicular dysfunction, unspecified",E29,2016,2027
+E30,"Disorders of puberty, not elsewhere classified",,2016,2027
+E30.0,Delayed puberty,E30,2016,2027
+E30.1,Precocious puberty,E30,2016,2027
+E30.8,Other disorders of puberty,E30,2016,2027
+E30.9,"Disorder of puberty, unspecified",E30,2016,2027
+E31,Polyglandular dysfunction,,2016,2027
+E31.0,Autoimmune polyglandular failure,E31,2016,2027
+E31.1,Polyglandular hyperfunction,E31,2016,2027
+E31.2,Multiple endocrine neoplasia [MEN] syndromes,E31,2016,2027
+E31.20,"Multiple endocrine neoplasia [MEN] syndrome, unspecified",E31.2,2016,2027
+E31.21,Multiple endocrine neoplasia [MEN] type I,E31.2,2016,2027
+E31.22,Multiple endocrine neoplasia [MEN] type IIA,E31.2,2016,2027
+E31.23,Multiple endocrine neoplasia [MEN] type IIB,E31.2,2016,2027
+E31.8,Other polyglandular dysfunction,E31,2016,2027
+E31.9,"Polyglandular dysfunction, unspecified",E31,2016,2027
+E32,Diseases of thymus,,2016,2027
+E32.0,Persistent hyperplasia of thymus,E32,2016,2027
+E32.1,Abscess of thymus,E32,2016,2027
+E32.8,Other diseases of thymus,E32,2016,2027
+E32.9,"Disease of thymus, unspecified",E32,2016,2027
+E34,Other endocrine disorders,,2016,2027
+E34.0,Carcinoid syndrome,E34,2016,2027
+E34.00,"Carcinoid syndrome, unspecified",E34.0,2025,2027
+E34.01,Carcinoid heart syndrome,E34.0,2025,2027
+E34.09,Other carcinoid syndrome,E34.0,2025,2027
+E34.1,Other hypersecretion of intestinal hormones,E34,2016,2027
+E34.2,"Ectopic hormone secretion, not elsewhere classified",E34,2016,2027
+E34.3,Short stature due to endocrine disorder,E34,2016,2027
+E34.30,"Short stature due to endocrine disorder, unspecified",E34.3,2023,2027
+E34.31,Constitutional short stature,E34.3,2023,2027
+E34.32,Genetic causes of short stature,E34.3,2023,2027
+E34.321,Primary insulin-like growth factor-1 (IGF-1) deficiency,E34.32,2023,2027
+E34.322,Insulin-like growth factor-1 (IGF-1) resistance,E34.32,2023,2027
+E34.328,Other genetic causes of short stature,E34.32,2023,2027
+E34.329,Unspecified genetic causes of short stature,E34.32,2023,2027
+E34.39,Other short stature due to endocrine disorder,E34.3,2023,2027
+E34.4,Constitutional tall stature,E34,2016,2027
+E34.5,Androgen insensitivity syndrome,E34,2016,2027
+E34.50,"Androgen insensitivity syndrome, unspecified",E34.5,2016,2027
+E34.51,Complete androgen insensitivity syndrome,E34.5,2016,2027
+E34.52,Partial androgen insensitivity syndrome,E34.5,2016,2027
+E34.8,Other specified endocrine disorders,E34,2016,2027
+E34.9,"Endocrine disorder, unspecified",E34,2016,2027
+E35,Disorders of endocrine glands in diseases classified elsewhere,,2016,2027
+E36,Intraoperative complications of endocrine system,,2016,2027
+E36.0,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating a procedure,E36,2016,2027
+E36.01,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating an endocrine system procedure,E36.0,2016,2027
+E36.02,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating other procedure,E36.0,2016,2027
+E36.1,Accidental puncture and laceration of an endocrine system organ or structure during a procedure,E36,2016,2027
+E36.11,Accidental puncture and laceration of an endocrine system organ or structure during an endocrine system procedure,E36.1,2016,2027
+E36.12,Accidental puncture and laceration of an endocrine system organ or structure during other procedure,E36.1,2016,2027
+E36.8,Other intraoperative complications of endocrine system,E36,2016,2027
+E40,Kwashiorkor,,2016,2027
+E41,Nutritional marasmus,,2016,2027
+E42,Marasmic kwashiorkor,,2016,2027
+E43,Unspecified severe protein-calorie malnutrition,,2016,2027
+E44,Protein-calorie malnutrition of moderate and mild degree,,2016,2027
+E44.0,Moderate protein-calorie malnutrition,E44,2016,2027
+E44.1,Mild protein-calorie malnutrition,E44,2016,2027
+E45,Retarded development following protein-calorie malnutrition,,2016,2027
+E46,Unspecified protein-calorie malnutrition,,2016,2027
+E50,Vitamin A deficiency,,2016,2027
+E50.0,Vitamin A deficiency with conjunctival xerosis,E50,2016,2027
+E50.1,Vitamin A deficiency with Bitot's spot and conjunctival xerosis,E50,2016,2027
+E50.2,Vitamin A deficiency with corneal xerosis,E50,2016,2027
+E50.3,Vitamin A deficiency with corneal ulceration and xerosis,E50,2016,2027
+E50.4,Vitamin A deficiency with keratomalacia,E50,2016,2027
+E50.5,Vitamin A deficiency with night blindness,E50,2016,2027
+E50.6,Vitamin A deficiency with xerophthalmic scars of cornea,E50,2016,2027
+E50.7,Other ocular manifestations of vitamin A deficiency,E50,2016,2027
+E50.8,Other manifestations of vitamin A deficiency,E50,2016,2027
+E50.9,"Vitamin A deficiency, unspecified",E50,2016,2027
+E51,Thiamine deficiency,,2016,2027
+E51.1,Beriberi,E51,2016,2027
+E51.11,Dry beriberi,E51.1,2016,2027
+E51.12,Wet beriberi,E51.1,2016,2027
+E51.2,Wernicke's encephalopathy,E51,2016,2027
+E51.8,Other manifestations of thiamine deficiency,E51,2016,2027
+E51.9,"Thiamine deficiency, unspecified",E51,2016,2027
+E52,Niacin deficiency [pellagra],,2016,2027
+E53,Deficiency of other B group vitamins,,2016,2027
+E53.0,Riboflavin deficiency,E53,2016,2027
+E53.1,Pyridoxine deficiency,E53,2016,2027
+E53.8,Deficiency of other specified B group vitamins,E53,2016,2027
+E53.9,"Vitamin B deficiency, unspecified",E53,2016,2027
+E54,Ascorbic acid deficiency,,2016,2027
+E55,Vitamin D deficiency,,2016,2027
+E55.0,"Rickets, active",E55,2016,2027
+E55.9,"Vitamin D deficiency, unspecified",E55,2016,2027
+E56,Other vitamin deficiencies,,2016,2027
+E56.0,Deficiency of vitamin E,E56,2016,2027
+E56.1,Deficiency of vitamin K,E56,2016,2027
+E56.8,Deficiency of other vitamins,E56,2016,2027
+E56.9,"Vitamin deficiency, unspecified",E56,2016,2027
+E58,Dietary calcium deficiency,,2016,2027
+E59,Dietary selenium deficiency,,2016,2027
+E60,Dietary zinc deficiency,,2016,2027
+E61,Deficiency of other nutrient elements,,2016,2027
+E61.0,Copper deficiency,E61,2016,2027
+E61.1,Iron deficiency,E61,2016,2027
+E61.2,Magnesium deficiency,E61,2016,2027
+E61.3,Manganese deficiency,E61,2016,2027
+E61.4,Chromium deficiency,E61,2016,2027
+E61.5,Molybdenum deficiency,E61,2016,2027
+E61.6,Vanadium deficiency,E61,2016,2027
+E61.7,Deficiency of multiple nutrient elements,E61,2016,2027
+E61.8,Deficiency of other specified nutrient elements,E61,2016,2027
+E61.9,"Deficiency of nutrient element, unspecified",E61,2016,2027
+E63,Other nutritional deficiencies,,2016,2027
+E63.0,Essential fatty acid [EFA] deficiency,E63,2016,2027
+E63.1,Imbalance of constituents of food intake,E63,2016,2027
+E63.8,Other specified nutritional deficiencies,E63,2016,2027
+E63.9,"Nutritional deficiency, unspecified",E63,2016,2027
+E64,Sequelae of malnutrition and other nutritional deficiencies,,2016,2027
+E64.0,Sequelae of protein-calorie malnutrition,E64,2016,2027
+E64.1,Sequelae of vitamin A deficiency,E64,2016,2027
+E64.2,Sequelae of vitamin C deficiency,E64,2016,2027
+E64.3,Sequelae of rickets,E64,2016,2027
+E64.8,Sequelae of other nutritional deficiencies,E64,2016,2027
+E64.9,Sequelae of unspecified nutritional deficiency,E64,2016,2027
+E65,Localized adiposity,,2016,2027
+E66,Overweight and obesity,,2016,2027
+E66.0,Obesity due to excess calories,E66,2016,2027
+E66.01,Morbid (severe) obesity due to excess calories,E66.0,2016,2027
+E66.09,Other obesity due to excess calories,E66.0,2016,2027
+E66.1,Drug-induced obesity,E66,2016,2027
+E66.2,Morbid (severe) obesity with alveolar hypoventilation,E66,2016,2027
+E66.3,Overweight,E66,2016,2027
+E66.8,Other obesity,E66,2016,2027
+E66.81,Obesity class,E66.8,2025,2027
+E66.811,"Obesity, class 1",E66.81,2025,2027
+E66.812,"Obesity, class 2",E66.81,2025,2027
+E66.813,"Obesity, class 3",E66.81,2025,2027
+E66.89,Other obesity not elsewhere classified,E66.8,2025,2027
+E66.9,"Obesity, unspecified",E66,2016,2027
+E67,Other hyperalimentation,,2016,2027
+E67.0,Hypervitaminosis A,E67,2016,2027
+E67.1,Hypercarotenemia,E67,2016,2027
+E67.2,Megavitamin-B6 syndrome,E67,2016,2027
+E67.3,Hypervitaminosis D,E67,2016,2027
+E67.8,Other specified hyperalimentation,E67,2016,2027
+E68,Sequelae of hyperalimentation,,2016,2027
+E70,Disorders of aromatic amino-acid metabolism,,2016,2027
+E70.0,Classical phenylketonuria,E70,2016,2027
+E70.1,Other hyperphenylalaninemias,E70,2016,2027
+E70.2,Disorders of tyrosine metabolism,E70,2016,2027
+E70.20,"Disorder of tyrosine metabolism, unspecified",E70.2,2016,2027
+E70.21,Tyrosinemia,E70.2,2016,2027
+E70.29,Other disorders of tyrosine metabolism,E70.2,2016,2027
+E70.3,Albinism,E70,2016,2027
+E70.30,"Albinism, unspecified",E70.3,2016,2027
+E70.31,Ocular albinism,E70.3,2016,2027
+E70.310,X-linked ocular albinism,E70.31,2016,2027
+E70.311,Autosomal recessive ocular albinism,E70.31,2016,2027
+E70.318,Other ocular albinism,E70.31,2016,2027
+E70.319,"Ocular albinism, unspecified",E70.31,2016,2027
+E70.32,Oculocutaneous albinism,E70.3,2016,2027
+E70.320,Tyrosinase negative oculocutaneous albinism,E70.32,2016,2027
+E70.321,Tyrosinase positive oculocutaneous albinism,E70.32,2016,2027
+E70.328,Other oculocutaneous albinism,E70.32,2016,2027
+E70.329,"Oculocutaneous albinism, unspecified",E70.32,2016,2027
+E70.33,Albinism with hematologic abnormality,E70.3,2016,2027
+E70.330,Chediak-Higashi syndrome,E70.33,2016,2027
+E70.331,Hermansky-Pudlak syndrome,E70.33,2016,2027
+E70.338,Other albinism with hematologic abnormality,E70.33,2016,2027
+E70.339,"Albinism with hematologic abnormality, unspecified",E70.33,2016,2027
+E70.39,Other specified albinism,E70.3,2016,2027
+E70.4,Disorders of histidine metabolism,E70,2016,2027
+E70.40,"Disorders of histidine metabolism, unspecified",E70.4,2016,2027
+E70.41,Histidinemia,E70.4,2016,2027
+E70.49,Other disorders of histidine metabolism,E70.4,2016,2027
+E70.5,Disorders of tryptophan metabolism,E70,2016,2027
+E70.8,Other disorders of aromatic amino-acid metabolism,E70,2016,2027
+E70.81,Aromatic L-amino acid decarboxylase deficiency,E70.8,2021,2027
+E70.89,Other disorders of aromatic amino-acid metabolism,E70.8,2021,2027
+E70.9,"Disorder of aromatic amino-acid metabolism, unspecified",E70,2016,2027
+E71,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism,,2016,2027
+E71.0,Maple-syrup-urine disease,E71,2016,2027
+E71.1,Other disorders of branched-chain amino-acid metabolism,E71,2016,2027
+E71.11,Branched-chain organic acidurias,E71.1,2016,2027
+E71.110,Isovaleric acidemia,E71.11,2016,2027
+E71.111,3-methylglutaconic aciduria,E71.11,2016,2027
+E71.118,Other branched-chain organic acidurias,E71.11,2016,2027
+E71.12,Disorders of propionate metabolism,E71.1,2016,2027
+E71.120,Methylmalonic acidemia,E71.12,2016,2027
+E71.121,Propionic acidemia,E71.12,2016,2027
+E71.128,Other disorders of propionate metabolism,E71.12,2016,2027
+E71.19,Other disorders of branched-chain amino-acid metabolism,E71.1,2016,2027
+E71.2,"Disorder of branched-chain amino-acid metabolism, unspecified",E71,2016,2027
+E71.3,Disorders of fatty-acid metabolism,E71,2016,2027
+E71.30,"Disorder of fatty-acid metabolism, unspecified",E71.3,2016,2027
+E71.31,Disorders of fatty-acid oxidation,E71.3,2016,2027
+E71.310,Long chain/very long chain acyl CoA dehydrogenase deficiency,E71.31,2016,2027
+E71.311,Medium chain acyl CoA dehydrogenase deficiency,E71.31,2016,2027
+E71.312,Short chain acyl CoA dehydrogenase deficiency,E71.31,2016,2027
+E71.313,Glutaric aciduria type II,E71.31,2016,2027
+E71.314,Muscle carnitine palmitoyltransferase deficiency,E71.31,2016,2027
+E71.318,Other disorders of fatty-acid oxidation,E71.31,2016,2027
+E71.32,Disorders of ketone metabolism,E71.3,2016,2027
+E71.39,Other disorders of fatty-acid metabolism,E71.3,2016,2027
+E71.4,Disorders of carnitine metabolism,E71,2016,2027
+E71.40,"Disorder of carnitine metabolism, unspecified",E71.4,2016,2027
+E71.41,Primary carnitine deficiency,E71.4,2016,2027
+E71.42,Carnitine deficiency due to inborn errors of metabolism,E71.4,2016,2027
+E71.43,Iatrogenic carnitine deficiency,E71.4,2016,2027
+E71.44,Other secondary carnitine deficiency,E71.4,2016,2027
+E71.440,Ruvalcaba-Myhre-Smith syndrome,E71.44,2016,2027
+E71.448,Other secondary carnitine deficiency,E71.44,2016,2027
+E71.5,Peroxisomal disorders,E71,2016,2027
+E71.50,"Peroxisomal disorder, unspecified",E71.5,2016,2027
+E71.51,Disorders of peroxisome biogenesis,E71.5,2016,2027
+E71.510,Zellweger syndrome,E71.51,2016,2027
+E71.511,Neonatal adrenoleukodystrophy,E71.51,2016,2027
+E71.518,Other disorders of peroxisome biogenesis,E71.51,2016,2027
+E71.52,X-linked adrenoleukodystrophy,E71.5,2016,2027
+E71.520,Childhood cerebral X-linked adrenoleukodystrophy,E71.52,2016,2027
+E71.521,Adolescent X-linked adrenoleukodystrophy,E71.52,2016,2027
+E71.522,Adrenomyeloneuropathy,E71.52,2016,2027
+E71.528,Other X-linked adrenoleukodystrophy,E71.52,2016,2027
+E71.529,"X-linked adrenoleukodystrophy, unspecified type",E71.52,2016,2027
+E71.53,Other group 2 peroxisomal disorders,E71.5,2016,2027
+E71.54,Other peroxisomal disorders,E71.5,2016,2027
+E71.540,Rhizomelic chondrodysplasia punctata,E71.54,2016,2027
+E71.541,Zellweger-like syndrome,E71.54,2016,2027
+E71.542,Other group 3 peroxisomal disorders,E71.54,2016,2027
+E71.548,Other peroxisomal disorders,E71.54,2016,2027
+E72,Other disorders of amino-acid metabolism,,2016,2027
+E72.0,Disorders of amino-acid transport,E72,2016,2027
+E72.00,"Disorders of amino-acid transport, unspecified",E72.0,2016,2027
+E72.01,Cystinuria,E72.0,2016,2027
+E72.02,Hartnup's disease,E72.0,2016,2027
+E72.03,Lowe's syndrome,E72.0,2016,2027
+E72.04,Cystinosis,E72.0,2016,2027
+E72.09,Other disorders of amino-acid transport,E72.0,2016,2027
+E72.1,Disorders of sulfur-bearing amino-acid metabolism,E72,2016,2027
+E72.10,"Disorders of sulfur-bearing amino-acid metabolism, unspecified",E72.1,2016,2027
+E72.11,Homocystinuria,E72.1,2016,2027
+E72.12,Methylenetetrahydrofolate reductase deficiency,E72.1,2016,2027
+E72.19,Other disorders of sulfur-bearing amino-acid metabolism,E72.1,2016,2027
+E72.2,Disorders of urea cycle metabolism,E72,2016,2027
+E72.20,"Disorder of urea cycle metabolism, unspecified",E72.2,2016,2027
+E72.21,Argininemia,E72.2,2016,2027
+E72.22,Arginosuccinic aciduria,E72.2,2016,2027
+E72.23,Citrullinemia,E72.2,2016,2027
+E72.29,Other disorders of urea cycle metabolism,E72.2,2016,2027
+E72.3,Disorders of lysine and hydroxylysine metabolism,E72,2016,2027
+E72.4,Disorders of ornithine metabolism,E72,2016,2027
+E72.5,Disorders of glycine metabolism,E72,2016,2027
+E72.50,"Disorder of glycine metabolism, unspecified",E72.5,2016,2027
+E72.51,Non-ketotic hyperglycinemia,E72.5,2016,2027
+E72.52,Trimethylaminuria,E72.5,2016,2027
+E72.53,Primary hyperoxaluria,E72.5,2016,2027
+E72.530,"Primary hyperoxaluria, type 1",E72.53,2026,2027
+E72.538,Other specified primary hyperoxaluria,E72.53,2026,2027
+E72.539,"Primary hyperoxaluria, unspecified",E72.53,2026,2027
+E72.54,Secondary hyperoxaluria,E72.5,2026,2027
+E72.540,Dietary hyperoxaluria,E72.54,2026,2027
+E72.541,Enteric hyperoxaluria,E72.54,2026,2027
+E72.548,Other secondary hyperoxaluria,E72.54,2026,2027
+E72.549,"Secondary hyperoxaluria, unspecified",E72.54,2026,2027
+E72.59,Other disorders of glycine metabolism,E72.5,2016,2027
+E72.8,Other specified disorders of amino-acid metabolism,E72,2016,2027
+E72.81,Disorders of gamma aminobutyric acid metabolism,E72.8,2019,2027
+E72.89,Other specified disorders of amino-acid metabolism,E72.8,2019,2027
+E72.9,"Disorder of amino-acid metabolism, unspecified",E72,2016,2027
+E73,Lactose intolerance,,2016,2027
+E73.0,Congenital lactase deficiency,E73,2016,2027
+E73.1,Secondary lactase deficiency,E73,2016,2027
+E73.8,Other lactose intolerance,E73,2016,2027
+E73.9,"Lactose intolerance, unspecified",E73,2016,2027
+E74,Other disorders of carbohydrate metabolism,,2016,2027
+E74.0,Glycogen storage disease,E74,2016,2027
+E74.00,"Glycogen storage disease, unspecified",E74.0,2016,2027
+E74.01,von Gierke disease,E74.0,2016,2027
+E74.02,Pompe disease,E74.0,2016,2027
+E74.03,Cori disease,E74.0,2016,2027
+E74.04,McArdle disease,E74.0,2016,2027
+E74.05,Lysosome-associated membrane protein 2 [LAMP2] deficiency,E74.0,2024,2027
+E74.09,Other glycogen storage disease,E74.0,2016,2027
+E74.1,Disorders of fructose metabolism,E74,2016,2027
+E74.10,"Disorder of fructose metabolism, unspecified",E74.1,2016,2027
+E74.11,Essential fructosuria,E74.1,2016,2027
+E74.12,Hereditary fructose intolerance,E74.1,2016,2027
+E74.19,Other disorders of fructose metabolism,E74.1,2016,2027
+E74.2,Disorders of galactose metabolism,E74,2016,2027
+E74.20,"Disorders of galactose metabolism, unspecified",E74.2,2016,2027
+E74.21,Galactosemia,E74.2,2016,2027
+E74.29,Other disorders of galactose metabolism,E74.2,2016,2027
+E74.3,Other disorders of intestinal carbohydrate absorption,E74,2016,2027
+E74.31,Sucrase-isomaltase deficiency,E74.3,2016,2027
+E74.39,Other disorders of intestinal carbohydrate absorption,E74.3,2016,2027
+E74.4,Disorders of pyruvate metabolism and gluconeogenesis,E74,2016,2027
+E74.8,Other specified disorders of carbohydrate metabolism,E74,2016,2027
+E74.81,"Disorders of glucose transport, not elsewhere classified",E74.8,2021,2027
+E74.810,Glucose transporter protein type 1 deficiency,E74.81,2021,2027
+E74.818,Other disorders of glucose transport,E74.81,2021,2027
+E74.819,"Disorders of glucose transport, unspecified",E74.81,2021,2027
+E74.82,Disorders of citrate metabolism,E74.8,2025,2027
+E74.820,SLC13A5 Citrate Transporter Disorder,E74.82,2025,2027
+E74.829,Other disorders of citrate metabolism,E74.82,2025,2027
+E74.89,Other specified disorders of carbohydrate metabolism,E74.8,2021,2027
+E74.9,"Disorder of carbohydrate metabolism, unspecified",E74,2016,2027
+E75,Disorders of sphingolipid metabolism and other lipid storage disorders,,2016,2027
+E75.0,GM2 gangliosidosis,E75,2016,2027
+E75.00,"GM2 gangliosidosis, unspecified",E75.0,2016,2027
+E75.01,Sandhoff disease,E75.0,2016,2027
+E75.02,Tay-Sachs disease,E75.0,2016,2027
+E75.09,Other GM2 gangliosidosis,E75.0,2016,2027
+E75.1,Other and unspecified gangliosidosis,E75,2016,2027
+E75.10,Unspecified gangliosidosis,E75.1,2016,2027
+E75.11,Mucolipidosis IV,E75.1,2016,2027
+E75.19,Other gangliosidosis,E75.1,2016,2027
+E75.2,Other sphingolipidosis,E75,2016,2027
+E75.21,Fabry (-Anderson) disease,E75.2,2016,2027
+E75.22,Gaucher disease,E75.2,2016,2027
+E75.23,Krabbe disease,E75.2,2016,2027
+E75.24,Niemann-Pick disease,E75.2,2016,2027
+E75.240,Niemann-Pick disease type A,E75.24,2016,2027
+E75.241,Niemann-Pick disease type B,E75.24,2016,2027
+E75.242,Niemann-Pick disease type C,E75.24,2016,2027
+E75.243,Niemann-Pick disease type D,E75.24,2016,2027
+E75.244,Niemann-Pick disease type A/B,E75.24,2022,2027
+E75.248,Other Niemann-Pick disease,E75.24,2016,2027
+E75.249,"Niemann-Pick disease, unspecified",E75.24,2016,2027
+E75.25,Metachromatic leukodystrophy,E75.2,2016,2027
+E75.26,Sulfatase deficiency,E75.2,2019,2027
+E75.27,Pelizaeus-Merzbacher disease,E75.2,2024,2027
+E75.28,Canavan disease,E75.2,2024,2027
+E75.29,Other sphingolipidosis,E75.2,2016,2027
+E75.3,"Sphingolipidosis, unspecified",E75,2016,2027
+E75.4,Neuronal ceroid lipofuscinosis,E75,2016,2027
+E75.5,Other lipid storage disorders,E75,2016,2027
+E75.6,"Lipid storage disorder, unspecified",E75,2016,2027
+E76,Disorders of glycosaminoglycan metabolism,,2016,2027
+E76.0,"Mucopolysaccharidosis, type I",E76,2016,2027
+E76.01,Hurler's syndrome,E76.0,2016,2027
+E76.02,Hurler-Scheie syndrome,E76.0,2016,2027
+E76.03,Scheie's syndrome,E76.0,2016,2027
+E76.1,"Mucopolysaccharidosis, type II",E76,2016,2027
+E76.2,Other mucopolysaccharidoses,E76,2016,2027
+E76.21,Morquio mucopolysaccharidoses,E76.2,2016,2027
+E76.210,Morquio A mucopolysaccharidoses,E76.21,2016,2027
+E76.211,Morquio B mucopolysaccharidoses,E76.21,2016,2027
+E76.219,"Morquio mucopolysaccharidoses, unspecified",E76.21,2016,2027
+E76.22,Sanfilippo mucopolysaccharidoses,E76.2,2016,2027
+E76.29,Other mucopolysaccharidoses,E76.2,2016,2027
+E76.3,"Mucopolysaccharidosis, unspecified",E76,2016,2027
+E76.8,Other disorders of glucosaminoglycan metabolism,E76,2016,2027
+E76.9,"Glucosaminoglycan metabolism disorder, unspecified",E76,2016,2027
+E77,Disorders of glycoprotein metabolism,,2016,2027
+E77.0,Defects in post-translational modification of lysosomal enzymes,E77,2016,2027
+E77.1,Defects in glycoprotein degradation,E77,2016,2027
+E77.8,Other disorders of glycoprotein metabolism,E77,2016,2027
+E77.9,"Disorder of glycoprotein metabolism, unspecified",E77,2016,2027
+E78,Disorders of lipoprotein metabolism and other lipidemias,,2016,2027
+E78.0,Pure hypercholesterolemia,E78,2016,2027
+E78.00,"Pure hypercholesterolemia, unspecified",E78.0,2017,2027
+E78.01,Familial hypercholesterolemia,E78.0,2017,2027
+E78.010,Homozygous familial hypercholesterolemia [HoFH],E78.01,2026,2027
+E78.011,Heterozygous familial hypercholesterolemia [HeFH],E78.01,2026,2027
+E78.019,"Familial hypercholesterolemia, unspecified",E78.01,2026,2027
+E78.1,Pure hyperglyceridemia,E78,2016,2027
+E78.2,Mixed hyperlipidemia,E78,2016,2027
+E78.3,Hyperchylomicronemia,E78,2016,2027
+E78.4,Other hyperlipidemia,E78,2016,2027
+E78.41,Elevated Lipoprotein(a),E78.4,2019,2027
+E78.49,Other hyperlipidemia,E78.4,2019,2027
+E78.5,"Hyperlipidemia, unspecified",E78,2016,2027
+E78.6,Lipoprotein deficiency,E78,2016,2027
+E78.7,Disorders of bile acid and cholesterol metabolism,E78,2016,2027
+E78.70,"Disorder of bile acid and cholesterol metabolism, unspecified",E78.7,2016,2027
+E78.71,Barth syndrome,E78.7,2016,2027
+E78.72,Smith-Lemli-Opitz syndrome,E78.7,2016,2027
+E78.79,Other disorders of bile acid and cholesterol metabolism,E78.7,2016,2027
+E78.8,Other disorders of lipoprotein metabolism,E78,2016,2027
+E78.81,Lipoid dermatoarthritis,E78.8,2016,2027
+E78.89,Other lipoprotein metabolism disorders,E78.8,2016,2027
+E78.9,"Disorder of lipoprotein metabolism, unspecified",E78,2016,2027
+E79,Disorders of purine and pyrimidine metabolism,,2016,2027
+E79.0,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,E79,2016,2027
+E79.1,Lesch-Nyhan syndrome,E79,2016,2027
+E79.2,Myoadenylate deaminase deficiency,E79,2016,2027
+E79.8,Other disorders of purine and pyrimidine metabolism,E79,2016,2027
+E79.81,Aicardi-Goutieres syndrome,E79.8,2024,2027
+E79.82,Hereditary xanthinuria,E79.8,2024,2027
+E79.89,Other specified disorders of purine and pyrimidine metabolism,E79.8,2024,2027
+E79.9,"Disorder of purine and pyrimidine metabolism, unspecified",E79,2016,2027
+E80,Disorders of porphyrin and bilirubin metabolism,,2016,2027
+E80.0,Hereditary erythropoietic porphyria,E80,2016,2027
+E80.1,Porphyria cutanea tarda,E80,2016,2027
+E80.2,Other and unspecified porphyria,E80,2016,2027
+E80.20,Unspecified porphyria,E80.2,2016,2027
+E80.21,Acute intermittent (hepatic) porphyria,E80.2,2016,2027
+E80.29,Other porphyria,E80.2,2016,2027
+E80.3,Defects of catalase and peroxidase,E80,2016,2027
+E80.4,Gilbert syndrome,E80,2016,2027
+E80.5,Crigler-Najjar syndrome,E80,2016,2027
+E80.6,Other disorders of bilirubin metabolism,E80,2016,2027
+E80.7,"Disorder of bilirubin metabolism, unspecified",E80,2016,2027
+E83,Disorders of mineral metabolism,,2016,2027
+E83.0,Disorders of copper metabolism,E83,2016,2027
+E83.00,"Disorder of copper metabolism, unspecified",E83.0,2016,2027
+E83.01,Wilson's disease,E83.0,2016,2027
+E83.09,Other disorders of copper metabolism,E83.0,2016,2027
+E83.1,Disorders of iron metabolism,E83,2016,2027
+E83.10,"Disorder of iron metabolism, unspecified",E83.1,2016,2027
+E83.11,Hemochromatosis,E83.1,2016,2027
+E83.110,Hereditary hemochromatosis,E83.11,2016,2027
+E83.111,Hemochromatosis due to repeated red blood cell transfusions,E83.11,2016,2027
+E83.118,Other hemochromatosis,E83.11,2016,2027
+E83.119,"Hemochromatosis, unspecified",E83.11,2016,2027
+E83.19,Other disorders of iron metabolism,E83.1,2016,2027
+E83.2,Disorders of zinc metabolism,E83,2016,2027
+E83.3,Disorders of phosphorus metabolism and phosphatases,E83,2016,2027
+E83.30,"Disorder of phosphorus metabolism, unspecified",E83.3,2016,2027
+E83.31,Familial hypophosphatemia,E83.3,2016,2027
+E83.32,Hereditary vitamin D-dependent rickets (type 1) (type 2),E83.3,2016,2027
+E83.39,Other disorders of phosphorus metabolism,E83.3,2016,2027
+E83.4,Disorders of magnesium metabolism,E83,2016,2027
+E83.40,"Disorders of magnesium metabolism, unspecified",E83.4,2016,2027
+E83.41,Hypermagnesemia,E83.4,2016,2027
+E83.42,Hypomagnesemia,E83.4,2016,2027
+E83.49,Other disorders of magnesium metabolism,E83.4,2016,2027
+E83.5,Disorders of calcium metabolism,E83,2016,2027
+E83.50,Unspecified disorder of calcium metabolism,E83.5,2016,2027
+E83.51,Hypocalcemia,E83.5,2016,2027
+E83.52,Hypercalcemia,E83.5,2016,2027
+E83.59,Other disorders of calcium metabolism,E83.5,2016,2027
+E83.8,Other disorders of mineral metabolism,E83,2016,2027
+E83.81,Hungry bone syndrome,E83.8,2016,2027
+E83.82,Disorders of pyrophosphate metabolism,E83.8,2026,2027
+E83.820,Generalized arterial calcification of infancy with unspecified genetic causality,E83.82,2026,2027
+E83.821,ENPP1 deficiency causing generalized arterial calcification of infancy,E83.82,2026,2027
+E83.822,ENPP1 deficiency causing autosomal recessive hypophosphatemic rickets type 2,E83.82,2026,2027
+E83.823,ABCC6 deficiency causing generalized arterial calcification of infancy,E83.82,2026,2027
+E83.824,ABCC6 deficiency causing pseudoxanthoma elasticum,E83.82,2026,2027
+E83.825,CD73 deficiency causing arterial calcification,E83.82,2026,2027
+E83.89,Other disorders of mineral metabolism,E83.8,2016,2027
+E83.9,"Disorder of mineral metabolism, unspecified",E83,2016,2027
+E84,Cystic fibrosis,,2016,2027
+E84.0,Cystic fibrosis with pulmonary manifestations,E84,2016,2027
+E84.1,Cystic fibrosis with intestinal manifestations,E84,2016,2027
+E84.11,Meconium ileus in cystic fibrosis,E84.1,2016,2027
+E84.19,Cystic fibrosis with other intestinal manifestations,E84.1,2016,2027
+E84.8,Cystic fibrosis with other manifestations,E84,2016,2027
+E84.9,"Cystic fibrosis, unspecified",E84,2016,2027
+E85,Amyloidosis,,2016,2027
+E85.0,Non-neuropathic heredofamilial amyloidosis,E85,2016,2027
+E85.1,Neuropathic heredofamilial amyloidosis,E85,2016,2027
+E85.2,"Heredofamilial amyloidosis, unspecified",E85,2016,2027
+E85.3,Secondary systemic amyloidosis,E85,2016,2027
+E85.4,Organ-limited amyloidosis,E85,2016,2027
+E85.8,Other amyloidosis,E85,2016,2027
+E85.81,Light chain (AL) amyloidosis,E85.8,2018,2027
+E85.82,Wild-type transthyretin-related (ATTR) amyloidosis,E85.8,2018,2027
+E85.89,Other amyloidosis,E85.8,2018,2027
+E85.9,"Amyloidosis, unspecified",E85,2016,2027
+E86,Volume depletion,,2016,2027
+E86.0,Dehydration,E86,2016,2027
+E86.1,Hypovolemia,E86,2016,2027
+E86.9,"Volume depletion, unspecified",E86,2016,2027
+E87,"Other disorders of fluid, electrolyte and acid-base balance",,2016,2027
+E87.0,Hyperosmolality and hypernatremia,E87,2016,2027
+E87.1,Hypo-osmolality and hyponatremia,E87,2016,2027
+E87.2,Acidosis,E87,2016,2027
+E87.20,"Acidosis, unspecified",E87.2,2023,2027
+E87.21,Acute metabolic acidosis,E87.2,2023,2027
+E87.22,Chronic metabolic acidosis,E87.2,2023,2027
+E87.29,Other acidosis,E87.2,2023,2027
+E87.3,Alkalosis,E87,2016,2027
+E87.4,Mixed disorder of acid-base balance,E87,2016,2027
+E87.5,Hyperkalemia,E87,2016,2027
+E87.6,Hypokalemia,E87,2016,2027
+E87.7,Fluid overload,E87,2016,2027
+E87.70,"Fluid overload, unspecified",E87.7,2016,2027
+E87.71,Transfusion associated circulatory overload,E87.7,2016,2027
+E87.79,Other fluid overload,E87.7,2016,2027
+E87.8,"Other disorders of electrolyte and fluid balance, not elsewhere classified",E87,2016,2027
+E88,Other and unspecified metabolic disorders,,2016,2027
+E88.0,"Disorders of plasma-protein metabolism, not elsewhere classified",E88,2016,2027
+E88.01,Alpha-1-antitrypsin deficiency,E88.0,2016,2027
+E88.02,Plasminogen deficiency,E88.0,2019,2027
+E88.09,"Other disorders of plasma-protein metabolism, not elsewhere classified",E88.0,2016,2027
+E88.1,"Lipodystrophy, not elsewhere classified",E88,2016,2027
+E88.10,"Lipodystrophy, unspecified",E88.1,2026,2027
+E88.11,Partial lipodystrophy,E88.1,2026,2027
+E88.12,Generalized lipodystrophy,E88.1,2026,2027
+E88.13,Localized lipodystrophy,E88.1,2026,2027
+E88.14,HIV-associated lipodystrophy,E88.1,2026,2027
+E88.19,"Other lipodystrophy, not elsewhere classified",E88.1,2026,2027
+E88.2,"Lipomatosis, not elsewhere classified",E88,2016,2027
+E88.3,Tumor lysis syndrome,E88,2016,2027
+E88.4,Mitochondrial metabolism disorders,E88,2016,2027
+E88.40,"Mitochondrial metabolism disorder, unspecified",E88.4,2016,2027
+E88.41,MELAS syndrome,E88.4,2016,2027
+E88.42,MERRF syndrome,E88.4,2016,2027
+E88.43,Disorders of mitochondrial tRNA synthetases,E88.4,2024,2027
+E88.49,Other mitochondrial metabolism disorders,E88.4,2016,2027
+E88.8,Other specified metabolic disorders,E88,2016,2027
+E88.81,Metabolic syndrome and other insulin resistance,E88.8,2016,2027
+E88.810,Metabolic syndrome,E88.81,2024,2027
+E88.811,"Insulin resistance syndrome, Type A",E88.81,2024,2027
+E88.818,Other insulin resistance,E88.81,2024,2027
+E88.819,"Insulin resistance, unspecified",E88.81,2024,2027
+E88.82,Obesity due to disruption of MC4R pathway,E88.8,2025,2027
+E88.89,Other specified metabolic disorders,E88.8,2016,2027
+E88.9,"Metabolic disorder, unspecified",E88,2016,2027
+E88.A,Wasting disease (syndrome) due to underlying condition,E88,2024,2027
+E89,"Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified",,2016,2027
+E89.0,Postprocedural hypothyroidism,E89,2016,2027
+E89.1,Postprocedural hypoinsulinemia,E89,2016,2027
+E89.2,Postprocedural hypoparathyroidism,E89,2016,2027
+E89.3,Postprocedural hypopituitarism,E89,2016,2027
+E89.4,Postprocedural ovarian failure,E89,2016,2027
+E89.40,Asymptomatic postprocedural ovarian failure,E89.4,2016,2027
+E89.41,Symptomatic postprocedural ovarian failure,E89.4,2016,2027
+E89.5,Postprocedural testicular hypofunction,E89,2016,2027
+E89.6,Postprocedural adrenocortical (-medullary) hypofunction,E89,2016,2027
+E89.8,Other postprocedural endocrine and metabolic complications and disorders,E89,2016,2027
+E89.81,Postprocedural hemorrhage of an endocrine system organ or structure following a procedure,E89.8,2016,2027
+E89.810,Postprocedural hemorrhage of an endocrine system organ or structure following an endocrine system procedure,E89.81,2016,2027
+E89.811,Postprocedural hemorrhage of an endocrine system organ or structure following other procedure,E89.81,2016,2027
+E89.82,Postprocedural hematoma and seroma of an endocrine system organ or structure,E89.8,2017,2027
+E89.820,Postprocedural hematoma of an endocrine system organ or structure following an endocrine system procedure,E89.82,2017,2027
+E89.821,Postprocedural hematoma of an endocrine system organ or structure following other procedure,E89.82,2017,2027
+E89.822,Postprocedural seroma of an endocrine system organ or structure following an endocrine system procedure,E89.82,2017,2027
+E89.823,Postprocedural seroma of an endocrine system organ or structure following other procedure,E89.82,2017,2027
+E89.83,Postprocedural hypoglycemia following a procedure,E89.8,2027,2027
+E89.830,Post bariatric hypoglycemia,E89.83,2027,2027
+E89.838,Other postprocedural hypoglycemia,E89.83,2027,2027
+E89.89,Other postprocedural endocrine and metabolic complications and disorders,E89.8,2016,2027

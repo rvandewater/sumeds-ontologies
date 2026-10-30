@@ -1,0 +1,89 @@
+code,description,parent,first_year,last_year
+XX,Physiological Systems,X,2020,2027
+XX2,Monitoring,XX,2024,2027
+XX20,Central Nervous,XX2,2024,2027
+XX20X,External,XX20,2024,2027
+XX20X8,"Brain Electrical Activity, Computer-aided Detection and Notification",XX20X,2024,2027
+XX20X89,"Monitoring of Brain Electrical Activity, Computer-aided Detection and Notification, New Technology Group 9",XX20X8,2024,2027
+XX25,Circulatory,XX2,2025,2027
+XX25X,External,XX25,2025,2027
+XX25X0,"Blood Flow, Adhesive Ultrasound Patch Technology",XX25X,2025,2027
+XX25X0A,"Monitoring of Blood Flow, Adhesive Ultrasound Patch Technology, New Technology Group 10",XX25X0,2025,2027
+XX2F,Musculoskeletal,XX2,2024,2027
+XX2F3,Percutaneous,XX2F,2024,2027
+XX2F3W,"Muscle Compartment Pressure, Micro-Electro-Mechanical System",XX2F3,2024,2027
+XX2F3W9,"Monitoring of Musculoskeletal Muscle Compartment Pressure, Micro-Electro-Mechanical System, Percutaneous Approach, New Technology Group 9",XX2F3W,2024,2027
+XX2K,Subcutaneous Tissue,XX2,2024,2027
+XX2KX,External,XX2K,2024,2027
+XX2KXD,"Interstitial Glucose, Wearable Sensor",XX2KX,2026,2027
+XX2KXDB,"Monitoring of Interstitial Glucose, Wearable Sensor, External Approach, New Technology Group 11",XX2KXD,2026,2027
+XX2KXP,"Interstitial Fluid Volume, Sub-Epidermal Moisture using Electrical Biocapacitance",XX2KX,2024,2027
+XX2KXP9,"Monitoring of Interstitial Fluid Volume, Sub-Epidermal Moisture using Electrical Biocapacitance, External Approach, New Technology Group 9",XX2KXP,2024,2027
+XXA,Assistance,XX,2025,2027
+XXA5,Circulatory,XXA,2025,2027
+XXA53,Percutaneous,XXA5,2025,2027
+XXA536,"Filtration, Blood Pathogens",XXA53,2025,2027
+XXA536A,"Circulatory Filtration, Blood Pathogens, Percutaneous Approach, New Technology Group 10",XXA536,2025,2027
+XXA539,"Filtration, Ticagrelor",XXA53,2026,2027
+XXA539B,"Circulatory Filtration, Ticagrelor, Percutaneous Approach, New Technology Group 11",XXA539,2026,2027
+XXE,Measurement,XX,2020,2027
+XXE0,Central Nervous,XXE,2022,2027
+XXE0X,External,XXE0,2022,2027
+XXE0X0,"Intracranial Vascular Activity, Computer-aided Assessment",XXE0X,2022,2027
+XXE0X07,"Measurement of Intracranial Vascular Activity, Computer-aided Assessment, New Technology Group 7",XXE0X0,2022,2027
+XXE0X1,"Intracranial Cerebrospinal Fluid Flow, Computer-aided Triage and Notification",XXE0X,2025,2027
+XXE0X1A,"Measurement of Intracranial Cerebrospinal Fluid Flow, Computer-aided Triage and Notification, New Technology Group 10",XXE0X1,2025,2027
+XXE0X4,"Brain Electrical Activity, Computer-aided Semiologic Analysis",XXE0X,2023,2027
+XXE0X48,"Measurement of Brain Electrical Activity, Computer-aided Semiologic Analysis, New Technology Group 8",XXE0X4,2023,2027
+XXE2,Cardiac,XXE,2024,2027
+XXE2X,External,XXE2,2024,2027
+XXE2X1,"Output, Computer-aided Assessment",XXE2X,2024,2027
+XXE2X19,"Measurement of Cardiac Output, Computer-aided Assessment, New Technology Group 9",XXE2X1,2024,2027
+XXE2XH,"Cardiac Conduction Mechanism, Computer-aided Mapping for Planning",XXE2X,2027,2027
+XXE2XHC,"Measurement of Cardiac Conduction Mechanism, Computer-aided Mapping for Planning, New Technology Group 12",XXE2XH,2027,2027
+XXE3,Arterial,XXE,2022,2027
+XXE3X,External,XXE3,2022,2027
+XXE3X2,"Pulmonary Artery Flow, Computer-aided Triage and Notification",XXE3X,2022,2027
+XXE3X27,"Measurement of Pulmonary Artery Flow, Computer-aided Triage and Notification, New Technology Group 7",XXE3X2,2022,2027
+XXE3X5,"Coronary Artery Flow, Quantitative Flow Ratio Analysis",XXE3X,2023,2027
+XXE3X58,"Measurement of Coronary Artery Flow, Quantitative Flow Ratio Analysis, New Technology Group 8",XXE3X5,2023,2027
+XXE3X6,"Coronary Artery Flow, Computer-aided Valve Modeling and Notification",XXE3X,2023,2027
+XXE3X68,"Measurement of Coronary Artery Flow, Computer-aided Valve Modeling and Notification, New Technology Group 8",XXE3X6,2023,2027
+XXE5,Circulatory,XXE,2020,2027
+XXE5X,External,XXE5,2020,2027
+XXE5X2,"Infection, Phenotypic Fully Automated Rapid Susceptibility Technology with Controlled Inoculum",XXE5X,2025,2027
+XXE5X2A,"Measurement of Infection, Phenotypic Fully Automated Rapid Susceptibility Technology with Controlled Inoculum, New Technology Group 10",XXE5X2,2025,2027
+XXE5X3,"Infection, Whole Blood Reverse Transcription and Quantitative Real-time Polymerase Chain Reaction",XXE5X,2023,2027
+XXE5X38,"Measurement of Infection, Whole Blood Reverse Transcription and Quantitative Real-time Polymerase Chain Reaction, New Technology Group 8",XXE5X3,2023,2027
+XXE5X4,"Infection, Positive Blood Culture Small Molecule Sensor Array Technology",XXE5X,2025,2027
+XXE5X4A,"Measurement of Infection, Positive Blood Culture Small Molecule Sensor Array Technology, New Technology Group 10",XXE5X4,2025,2027
+XXE5X5,"Immune Response, Whole Blood Cellular Assessment via Microfluidic Deformability",XXE5X,2025,2027
+XXE5X5A,"Measurement of Immune Response, Whole Blood Cellular Assessment via Microfluidic Deformability, New Technology Group 10",XXE5X5,2025,2027
+XXE5XB,"Infection and Immune Response, Gene Expression Testing System",XXE5X,2026,2027
+XXE5XBB,"Measurement of Infection and Immune Response, Gene Expression Testing System, New Technology Group 11",XXE5XB,2026,2027
+XXE5XM,"Infection, Whole Blood Nucleic Acid-base Microbial Detection",XXE5X,2020,2024
+XXE5XM5,"Measurement of Infection, Whole Blood Nucleic Acid-base Microbial Detection, New Technology Group 5",XXE5XM,2020,2024
+XXE5XN,"Infection, Positive Blood Culture Fluorescence Hybridization for Organism Identification, Concentration and Susceptibility",XXE5X,2021,2025
+XXE5XN6,"Measurement of Infection, Positive Blood Culture Fluorescence Hybridization for Organism Identification, Concentration and Susceptibility, New Technology Group 6",XXE5XN,2021,2025
+XXE5XR,"Infection, Mechanical Initial Specimen Diversion Technique Using Active Negative Pressure",XXE5X,2022,2026
+XXE5XR7,"Measurement of Infection, Mechanical Initial Specimen Diversion Technique Using Active Negative Pressure, New Technology Group 7",XXE5XR,2022,2026
+XXE5XT,"Intracranial Arterial Flow, Whole Blood mRNA",XXE5X,2022,2026
+XXE5XT7,"Measurement of Intracranial Arterial Flow, Whole Blood mRNA, New Technology Group 7",XXE5XT,2022,2026
+XXE5XV,"Infection, Serum/Plasma Nanoparticle Fluorescence SARS-CoV-2 Antibody Detection",XXE5X,2022,2027
+XXE5XV7,"Measurement of Infection, Serum/Plasma Nanoparticle Fluorescence SARS-CoV-2 Antibody Detection, New Technology Group 7",XXE5XV,2022,2027
+XXE5XY,"Infection, Other Positive Blood/Isolated Colonies Bimodal Phenotypic Susceptibility Technology",XXE5X,2024,2027
+XXE5XY9,"Measurement of Infection, Other Positive Blood/Isolated Colonies Bimodal Phenotypic Susceptibility Technology, New Technology Group 9",XXE5XY,2024,2027
+XXE9,Nose,XXE,2022,2027
+XXE97,Via Natural or Artificial Opening,XXE9,2022,2027
+XXE97U,"Infection, Nasopharyngeal Fluid SARS-CoV-2 Polymerase Chain Reaction",XXE97,2022,2027
+XXE97U7,"Measurement of Infection, Nasopharyngeal Fluid SARS-CoV-2 Polymerase Chain Reaction, New Technology Group 7",XXE97U,2022,2027
+XXEB,Respiratory,XXE,2021,2025
+XXEBX,External,XXEB,2021,2025
+XXEBXQ,"Infection, Lower Respiratory Fluid Nucleic Acid-base Microbial Detection",XXEBX,2021,2025
+XXEBXQ6,"Measurement of Infection, Lower Respiratory Fluid Nucleic Acid-base Microbial Detection, New Technology Group 6",XXEBXQ,2021,2025
+XXEZ,None,XXE,2026,2027
+XXEZX,External,XXEZ,2026,2027
+XXEZXA,"Macronutrient Content, Computer-aided Assessment for Nutrition Management",XXEZX,2026,2027
+XXEZXAB,"Measurement of Macronutrient Content, Computer-aided Assessment for Nutrition Management, New Technology Group 11",XXEZXA,2026,2027
+XXEZXC,"Infection, Computer-aided Triage and Notification",XXEZX,2026,2027
+XXEZXCB,"Measurement of Infection, Computer-aided Triage and Notification, New Technology Group 11",XXEZXC,2026,2027

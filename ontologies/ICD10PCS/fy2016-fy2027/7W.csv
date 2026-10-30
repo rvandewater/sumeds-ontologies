@@ -1,0 +1,223 @@
+code,description,parent,first_year,last_year
+7W,Anatomical Regions,7,2016,2027
+7W0,Treatment,7W,2016,2027
+7W00,Head,7W0,2016,2027
+7W00X,External,7W00,2016,2027
+7W00X0,Articulatory-Raising,7W00X,2016,2027
+7W00X0Z,Osteopathic Treatment of Head using Articulatory-Raising Forces,7W00X0,2016,2027
+7W00X1,Fascial Release,7W00X,2016,2027
+7W00X1Z,Osteopathic Treatment of Head using Fascial Release,7W00X1,2016,2027
+7W00X2,General Mobilization,7W00X,2016,2027
+7W00X2Z,Osteopathic Treatment of Head using General Mobilization,7W00X2,2016,2027
+7W00X3,High Velocity-Low Amplitude,7W00X,2016,2027
+7W00X3Z,Osteopathic Treatment of Head using High Velocity-Low Amplitude Forces,7W00X3,2016,2027
+7W00X4,Indirect,7W00X,2016,2027
+7W00X4Z,Osteopathic Treatment of Head using Indirect Forces,7W00X4,2016,2027
+7W00X5,Low Velocity-High Amplitude,7W00X,2016,2027
+7W00X5Z,Osteopathic Treatment of Head using Low Velocity-High Amplitude Forces,7W00X5,2016,2027
+7W00X6,Lymphatic Pump,7W00X,2016,2027
+7W00X6Z,Osteopathic Treatment of Head using Lymphatic Pump,7W00X6,2016,2027
+7W00X7,Muscle Energy-Isometric,7W00X,2016,2027
+7W00X7Z,Osteopathic Treatment of Head using Muscle Energy-Isometric Forces,7W00X7,2016,2027
+7W00X8,Muscle Energy-Isotonic,7W00X,2016,2027
+7W00X8Z,Osteopathic Treatment of Head using Muscle Energy-Isotonic Forces,7W00X8,2016,2027
+7W00X9,Other Method,7W00X,2016,2027
+7W00X9Z,Osteopathic Treatment of Head using Other Method,7W00X9,2016,2027
+7W01,Cervical,7W0,2016,2027
+7W01X,External,7W01,2016,2027
+7W01X0,Articulatory-Raising,7W01X,2016,2027
+7W01X0Z,Osteopathic Treatment of Cervical Region using Articulatory-Raising Forces,7W01X0,2016,2027
+7W01X1,Fascial Release,7W01X,2016,2027
+7W01X1Z,Osteopathic Treatment of Cervical Region using Fascial Release,7W01X1,2016,2027
+7W01X2,General Mobilization,7W01X,2016,2027
+7W01X2Z,Osteopathic Treatment of Cervical Region using General Mobilization,7W01X2,2016,2027
+7W01X3,High Velocity-Low Amplitude,7W01X,2016,2027
+7W01X3Z,Osteopathic Treatment of Cervical Region using High Velocity-Low Amplitude Forces,7W01X3,2016,2027
+7W01X4,Indirect,7W01X,2016,2027
+7W01X4Z,Osteopathic Treatment of Cervical Region using Indirect Forces,7W01X4,2016,2027
+7W01X5,Low Velocity-High Amplitude,7W01X,2016,2027
+7W01X5Z,Osteopathic Treatment of Cervical Region using Low Velocity-High Amplitude Forces,7W01X5,2016,2027
+7W01X6,Lymphatic Pump,7W01X,2016,2027
+7W01X6Z,Osteopathic Treatment of Cervical Region using Lymphatic Pump,7W01X6,2016,2027
+7W01X7,Muscle Energy-Isometric,7W01X,2016,2027
+7W01X7Z,Osteopathic Treatment of Cervical Region using Muscle Energy-Isometric Forces,7W01X7,2016,2027
+7W01X8,Muscle Energy-Isotonic,7W01X,2016,2027
+7W01X8Z,Osteopathic Treatment of Cervical Region using Muscle Energy-Isotonic Forces,7W01X8,2016,2027
+7W01X9,Other Method,7W01X,2016,2027
+7W01X9Z,Osteopathic Treatment of Cervical Region using Other Method,7W01X9,2016,2027
+7W02,Thoracic,7W0,2016,2027
+7W02X,External,7W02,2016,2027
+7W02X0,Articulatory-Raising,7W02X,2016,2027
+7W02X0Z,Osteopathic Treatment of Thoracic Region using Articulatory-Raising Forces,7W02X0,2016,2027
+7W02X1,Fascial Release,7W02X,2016,2027
+7W02X1Z,Osteopathic Treatment of Thoracic Region using Fascial Release,7W02X1,2016,2027
+7W02X2,General Mobilization,7W02X,2016,2027
+7W02X2Z,Osteopathic Treatment of Thoracic Region using General Mobilization,7W02X2,2016,2027
+7W02X3,High Velocity-Low Amplitude,7W02X,2016,2027
+7W02X3Z,Osteopathic Treatment of Thoracic Region using High Velocity-Low Amplitude Forces,7W02X3,2016,2027
+7W02X4,Indirect,7W02X,2016,2027
+7W02X4Z,Osteopathic Treatment of Thoracic Region using Indirect Forces,7W02X4,2016,2027
+7W02X5,Low Velocity-High Amplitude,7W02X,2016,2027
+7W02X5Z,Osteopathic Treatment of Thoracic Region using Low Velocity-High Amplitude Forces,7W02X5,2016,2027
+7W02X6,Lymphatic Pump,7W02X,2016,2027
+7W02X6Z,Osteopathic Treatment of Thoracic Region using Lymphatic Pump,7W02X6,2016,2027
+7W02X7,Muscle Energy-Isometric,7W02X,2016,2027
+7W02X7Z,Osteopathic Treatment of Thoracic Region using Muscle Energy-Isometric Forces,7W02X7,2016,2027
+7W02X8,Muscle Energy-Isotonic,7W02X,2016,2027
+7W02X8Z,Osteopathic Treatment of Thoracic Region using Muscle Energy-Isotonic Forces,7W02X8,2016,2027
+7W02X9,Other Method,7W02X,2016,2027
+7W02X9Z,Osteopathic Treatment of Thoracic Region using Other Method,7W02X9,2016,2027
+7W03,Lumbar,7W0,2016,2027
+7W03X,External,7W03,2016,2027
+7W03X0,Articulatory-Raising,7W03X,2016,2027
+7W03X0Z,Osteopathic Treatment of Lumbar Region using Articulatory-Raising Forces,7W03X0,2016,2027
+7W03X1,Fascial Release,7W03X,2016,2027
+7W03X1Z,Osteopathic Treatment of Lumbar Region using Fascial Release,7W03X1,2016,2027
+7W03X2,General Mobilization,7W03X,2016,2027
+7W03X2Z,Osteopathic Treatment of Lumbar Region using General Mobilization,7W03X2,2016,2027
+7W03X3,High Velocity-Low Amplitude,7W03X,2016,2027
+7W03X3Z,Osteopathic Treatment of Lumbar Region using High Velocity-Low Amplitude Forces,7W03X3,2016,2027
+7W03X4,Indirect,7W03X,2016,2027
+7W03X4Z,Osteopathic Treatment of Lumbar Region using Indirect Forces,7W03X4,2016,2027
+7W03X5,Low Velocity-High Amplitude,7W03X,2016,2027
+7W03X5Z,Osteopathic Treatment of Lumbar Region using Low Velocity-High Amplitude Forces,7W03X5,2016,2027
+7W03X6,Lymphatic Pump,7W03X,2016,2027
+7W03X6Z,Osteopathic Treatment of Lumbar Region using Lymphatic Pump,7W03X6,2016,2027
+7W03X7,Muscle Energy-Isometric,7W03X,2016,2027
+7W03X7Z,Osteopathic Treatment of Lumbar Region using Muscle Energy-Isometric Forces,7W03X7,2016,2027
+7W03X8,Muscle Energy-Isotonic,7W03X,2016,2027
+7W03X8Z,Osteopathic Treatment of Lumbar Region using Muscle Energy-Isotonic Forces,7W03X8,2016,2027
+7W03X9,Other Method,7W03X,2016,2027
+7W03X9Z,Osteopathic Treatment of Lumbar Region using Other Method,7W03X9,2016,2027
+7W04,Sacrum,7W0,2016,2027
+7W04X,External,7W04,2016,2027
+7W04X0,Articulatory-Raising,7W04X,2016,2027
+7W04X0Z,Osteopathic Treatment of Sacrum using Articulatory-Raising Forces,7W04X0,2016,2027
+7W04X1,Fascial Release,7W04X,2016,2027
+7W04X1Z,Osteopathic Treatment of Sacrum using Fascial Release,7W04X1,2016,2027
+7W04X2,General Mobilization,7W04X,2016,2027
+7W04X2Z,Osteopathic Treatment of Sacrum using General Mobilization,7W04X2,2016,2027
+7W04X3,High Velocity-Low Amplitude,7W04X,2016,2027
+7W04X3Z,Osteopathic Treatment of Sacrum using High Velocity-Low Amplitude Forces,7W04X3,2016,2027
+7W04X4,Indirect,7W04X,2016,2027
+7W04X4Z,Osteopathic Treatment of Sacrum using Indirect Forces,7W04X4,2016,2027
+7W04X5,Low Velocity-High Amplitude,7W04X,2016,2027
+7W04X5Z,Osteopathic Treatment of Sacrum using Low Velocity-High Amplitude Forces,7W04X5,2016,2027
+7W04X6,Lymphatic Pump,7W04X,2016,2027
+7W04X6Z,Osteopathic Treatment of Sacrum using Lymphatic Pump,7W04X6,2016,2027
+7W04X7,Muscle Energy-Isometric,7W04X,2016,2027
+7W04X7Z,Osteopathic Treatment of Sacrum using Muscle Energy-Isometric Forces,7W04X7,2016,2027
+7W04X8,Muscle Energy-Isotonic,7W04X,2016,2027
+7W04X8Z,Osteopathic Treatment of Sacrum using Muscle Energy-Isotonic Forces,7W04X8,2016,2027
+7W04X9,Other Method,7W04X,2016,2027
+7W04X9Z,Osteopathic Treatment of Sacrum using Other Method,7W04X9,2016,2027
+7W05,Pelvis,7W0,2016,2027
+7W05X,External,7W05,2016,2027
+7W05X0,Articulatory-Raising,7W05X,2016,2027
+7W05X0Z,Osteopathic Treatment of Pelvis using Articulatory-Raising Forces,7W05X0,2016,2027
+7W05X1,Fascial Release,7W05X,2016,2027
+7W05X1Z,Osteopathic Treatment of Pelvis using Fascial Release,7W05X1,2016,2027
+7W05X2,General Mobilization,7W05X,2016,2027
+7W05X2Z,Osteopathic Treatment of Pelvis using General Mobilization,7W05X2,2016,2027
+7W05X3,High Velocity-Low Amplitude,7W05X,2016,2027
+7W05X3Z,Osteopathic Treatment of Pelvis using High Velocity-Low Amplitude Forces,7W05X3,2016,2027
+7W05X4,Indirect,7W05X,2016,2027
+7W05X4Z,Osteopathic Treatment of Pelvis using Indirect Forces,7W05X4,2016,2027
+7W05X5,Low Velocity-High Amplitude,7W05X,2016,2027
+7W05X5Z,Osteopathic Treatment of Pelvis using Low Velocity-High Amplitude Forces,7W05X5,2016,2027
+7W05X6,Lymphatic Pump,7W05X,2016,2027
+7W05X6Z,Osteopathic Treatment of Pelvis using Lymphatic Pump,7W05X6,2016,2027
+7W05X7,Muscle Energy-Isometric,7W05X,2016,2027
+7W05X7Z,Osteopathic Treatment of Pelvis using Muscle Energy-Isometric Forces,7W05X7,2016,2027
+7W05X8,Muscle Energy-Isotonic,7W05X,2016,2027
+7W05X8Z,Osteopathic Treatment of Pelvis using Muscle Energy-Isotonic Forces,7W05X8,2016,2027
+7W05X9,Other Method,7W05X,2016,2027
+7W05X9Z,Osteopathic Treatment of Pelvis using Other Method,7W05X9,2016,2027
+7W06,Lower Extremities,7W0,2016,2027
+7W06X,External,7W06,2016,2027
+7W06X0,Articulatory-Raising,7W06X,2016,2027
+7W06X0Z,Osteopathic Treatment of Lower Extremities using Articulatory-Raising Forces,7W06X0,2016,2027
+7W06X1,Fascial Release,7W06X,2016,2027
+7W06X1Z,Osteopathic Treatment of Lower Extremities using Fascial Release,7W06X1,2016,2027
+7W06X2,General Mobilization,7W06X,2016,2027
+7W06X2Z,Osteopathic Treatment of Lower Extremities using General Mobilization,7W06X2,2016,2027
+7W06X3,High Velocity-Low Amplitude,7W06X,2016,2027
+7W06X3Z,Osteopathic Treatment of Lower Extremities using High Velocity-Low Amplitude Forces,7W06X3,2016,2027
+7W06X4,Indirect,7W06X,2016,2027
+7W06X4Z,Osteopathic Treatment of Lower Extremities using Indirect Forces,7W06X4,2016,2027
+7W06X5,Low Velocity-High Amplitude,7W06X,2016,2027
+7W06X5Z,Osteopathic Treatment of Lower Extremities using Low Velocity-High Amplitude Forces,7W06X5,2016,2027
+7W06X6,Lymphatic Pump,7W06X,2016,2027
+7W06X6Z,Osteopathic Treatment of Lower Extremities using Lymphatic Pump,7W06X6,2016,2027
+7W06X7,Muscle Energy-Isometric,7W06X,2016,2027
+7W06X7Z,Osteopathic Treatment of Lower Extremities using Muscle Energy-Isometric Forces,7W06X7,2016,2027
+7W06X8,Muscle Energy-Isotonic,7W06X,2016,2027
+7W06X8Z,Osteopathic Treatment of Lower Extremities using Muscle Energy-Isotonic Forces,7W06X8,2016,2027
+7W06X9,Other Method,7W06X,2016,2027
+7W06X9Z,Osteopathic Treatment of Lower Extremities using Other Method,7W06X9,2016,2027
+7W07,Upper Extremities,7W0,2016,2027
+7W07X,External,7W07,2016,2027
+7W07X0,Articulatory-Raising,7W07X,2016,2027
+7W07X0Z,Osteopathic Treatment of Upper Extremities using Articulatory-Raising Forces,7W07X0,2016,2027
+7W07X1,Fascial Release,7W07X,2016,2027
+7W07X1Z,Osteopathic Treatment of Upper Extremities using Fascial Release,7W07X1,2016,2027
+7W07X2,General Mobilization,7W07X,2016,2027
+7W07X2Z,Osteopathic Treatment of Upper Extremities using General Mobilization,7W07X2,2016,2027
+7W07X3,High Velocity-Low Amplitude,7W07X,2016,2027
+7W07X3Z,Osteopathic Treatment of Upper Extremities using High Velocity-Low Amplitude Forces,7W07X3,2016,2027
+7W07X4,Indirect,7W07X,2016,2027
+7W07X4Z,Osteopathic Treatment of Upper Extremities using Indirect Forces,7W07X4,2016,2027
+7W07X5,Low Velocity-High Amplitude,7W07X,2016,2027
+7W07X5Z,Osteopathic Treatment of Upper Extremities using Low Velocity-High Amplitude Forces,7W07X5,2016,2027
+7W07X6,Lymphatic Pump,7W07X,2016,2027
+7W07X6Z,Osteopathic Treatment of Upper Extremities using Lymphatic Pump,7W07X6,2016,2027
+7W07X7,Muscle Energy-Isometric,7W07X,2016,2027
+7W07X7Z,Osteopathic Treatment of Upper Extremities using Muscle Energy-Isometric Forces,7W07X7,2016,2027
+7W07X8,Muscle Energy-Isotonic,7W07X,2016,2027
+7W07X8Z,Osteopathic Treatment of Upper Extremities using Muscle Energy-Isotonic Forces,7W07X8,2016,2027
+7W07X9,Other Method,7W07X,2016,2027
+7W07X9Z,Osteopathic Treatment of Upper Extremities using Other Method,7W07X9,2016,2027
+7W08,Rib Cage,7W0,2016,2027
+7W08X,External,7W08,2016,2027
+7W08X0,Articulatory-Raising,7W08X,2016,2027
+7W08X0Z,Osteopathic Treatment of Rib Cage using Articulatory-Raising Forces,7W08X0,2016,2027
+7W08X1,Fascial Release,7W08X,2016,2027
+7W08X1Z,Osteopathic Treatment of Rib Cage using Fascial Release,7W08X1,2016,2027
+7W08X2,General Mobilization,7W08X,2016,2027
+7W08X2Z,Osteopathic Treatment of Rib Cage using General Mobilization,7W08X2,2016,2027
+7W08X3,High Velocity-Low Amplitude,7W08X,2016,2027
+7W08X3Z,Osteopathic Treatment of Rib Cage using High Velocity-Low Amplitude Forces,7W08X3,2016,2027
+7W08X4,Indirect,7W08X,2016,2027
+7W08X4Z,Osteopathic Treatment of Rib Cage using Indirect Forces,7W08X4,2016,2027
+7W08X5,Low Velocity-High Amplitude,7W08X,2016,2027
+7W08X5Z,Osteopathic Treatment of Rib Cage using Low Velocity-High Amplitude Forces,7W08X5,2016,2027
+7W08X6,Lymphatic Pump,7W08X,2016,2027
+7W08X6Z,Osteopathic Treatment of Rib Cage using Lymphatic Pump,7W08X6,2016,2027
+7W08X7,Muscle Energy-Isometric,7W08X,2016,2027
+7W08X7Z,Osteopathic Treatment of Rib Cage using Muscle Energy-Isometric Forces,7W08X7,2016,2027
+7W08X8,Muscle Energy-Isotonic,7W08X,2016,2027
+7W08X8Z,Osteopathic Treatment of Rib Cage using Muscle Energy-Isotonic Forces,7W08X8,2016,2027
+7W08X9,Other Method,7W08X,2016,2027
+7W08X9Z,Osteopathic Treatment of Rib Cage using Other Method,7W08X9,2016,2027
+7W09,Abdomen,7W0,2016,2027
+7W09X,External,7W09,2016,2027
+7W09X0,Articulatory-Raising,7W09X,2016,2027
+7W09X0Z,Osteopathic Treatment of Abdomen using Articulatory-Raising Forces,7W09X0,2016,2027
+7W09X1,Fascial Release,7W09X,2016,2027
+7W09X1Z,Osteopathic Treatment of Abdomen using Fascial Release,7W09X1,2016,2027
+7W09X2,General Mobilization,7W09X,2016,2027
+7W09X2Z,Osteopathic Treatment of Abdomen using General Mobilization,7W09X2,2016,2027
+7W09X3,High Velocity-Low Amplitude,7W09X,2016,2027
+7W09X3Z,Osteopathic Treatment of Abdomen using High Velocity-Low Amplitude Forces,7W09X3,2016,2027
+7W09X4,Indirect,7W09X,2016,2027
+7W09X4Z,Osteopathic Treatment of Abdomen using Indirect Forces,7W09X4,2016,2027
+7W09X5,Low Velocity-High Amplitude,7W09X,2016,2027
+7W09X5Z,Osteopathic Treatment of Abdomen using Low Velocity-High Amplitude Forces,7W09X5,2016,2027
+7W09X6,Lymphatic Pump,7W09X,2016,2027
+7W09X6Z,Osteopathic Treatment of Abdomen using Lymphatic Pump,7W09X6,2016,2027
+7W09X7,Muscle Energy-Isometric,7W09X,2016,2027
+7W09X7Z,Osteopathic Treatment of Abdomen using Muscle Energy-Isometric Forces,7W09X7,2016,2027
+7W09X8,Muscle Energy-Isotonic,7W09X,2016,2027
+7W09X8Z,Osteopathic Treatment of Abdomen using Muscle Energy-Isotonic Forces,7W09X8,2016,2027
+7W09X9,Other Method,7W09X,2016,2027
+7W09X9Z,Osteopathic Treatment of Abdomen using Other Method,7W09X9,2016,2027

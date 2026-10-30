@@ -1,0 +1,39 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install "pytest<9"
+      - run: python -m pytest -q tests
+      - name: Check every manifest and file against index.json
+        run: |
+          python - <<'PY'
+          import hashlib, json, pathlib
+          root = pathlib.Path("ontologies")
+          index = json.loads((root / "index.json").read_text())
+          def check(path, sha):
+              digest = hashlib.sha256((root / path).read_bytes()).hexdigest()
+              assert digest == sha, f"{path}: {digest} != {sha}"
+          checked = 0
+          for group in ("vocabularies", "crosswalks"):
+              for entry in index.get(group, {}).values():
+                  check(entry["manifest"], entry["sha256"])
+                  base = entry["manifest"].rsplit("/", 1)[0]
+                  manifest = json.loads((root / entry["manifest"]).read_text())
+                  files = manifest.get("shards") or manifest.get("tables") or {}
+                  for item in files.values():
+                      if "sha256" in item and "file" in item:
+                          check(f"{base}/{item['file']}", item["sha256"])
+                          checked += 1
+          print(f"verified {checked} files")
+          PY

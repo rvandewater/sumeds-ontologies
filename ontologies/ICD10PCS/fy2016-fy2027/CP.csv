@@ -1,0 +1,218 @@
+code,description,parent,first_year,last_year
+CP,Musculoskeletal System,C,2016,2027
+CP1,Planar Nuclear Medicine Imaging,CP,2016,2027
+CP11,Skull,CP1,2016,2027
+CP111,Technetium 99m (Tc-99m),CP11,2016,2027
+CP111Z,None,CP111,2016,2027
+CP111ZZ,Planar Nuclear Medicine Imaging of Skull using Technetium 99m (Tc-99m),CP111Z,2016,2027
+CP11Y,Other Radionuclide,CP11,2016,2027
+CP11YZ,None,CP11Y,2016,2027
+CP11YZZ,Planar Nuclear Medicine Imaging of Skull using Other Radionuclide,CP11YZ,2016,2027
+CP14,Thorax,CP1,2016,2027
+CP141,Technetium 99m (Tc-99m),CP14,2016,2027
+CP141Z,None,CP141,2016,2027
+CP141ZZ,Planar Nuclear Medicine Imaging of Thorax using Technetium 99m (Tc-99m),CP141Z,2016,2027
+CP14Y,Other Radionuclide,CP14,2016,2027
+CP14YZ,None,CP14Y,2016,2027
+CP14YZZ,Planar Nuclear Medicine Imaging of Thorax using Other Radionuclide,CP14YZ,2016,2027
+CP15,Spine,CP1,2016,2027
+CP151,Technetium 99m (Tc-99m),CP15,2016,2027
+CP151Z,None,CP151,2016,2027
+CP151ZZ,Planar Nuclear Medicine Imaging of Spine using Technetium 99m (Tc-99m),CP151Z,2016,2027
+CP15Y,Other Radionuclide,CP15,2016,2027
+CP15YZ,None,CP15Y,2016,2027
+CP15YZZ,Planar Nuclear Medicine Imaging of Spine using Other Radionuclide,CP15YZ,2016,2027
+CP16,Pelvis,CP1,2016,2027
+CP161,Technetium 99m (Tc-99m),CP16,2016,2027
+CP161Z,None,CP161,2016,2027
+CP161ZZ,Planar Nuclear Medicine Imaging of Pelvis using Technetium 99m (Tc-99m),CP161Z,2016,2027
+CP16Y,Other Radionuclide,CP16,2016,2027
+CP16YZ,None,CP16Y,2016,2027
+CP16YZZ,Planar Nuclear Medicine Imaging of Pelvis using Other Radionuclide,CP16YZ,2016,2027
+CP17,Spine and Pelvis,CP1,2016,2027
+CP171,Technetium 99m (Tc-99m),CP17,2016,2027
+CP171Z,None,CP171,2016,2027
+CP171ZZ,Planar Nuclear Medicine Imaging of Spine and Pelvis using Technetium 99m (Tc-99m),CP171Z,2016,2027
+CP17Y,Other Radionuclide,CP17,2016,2027
+CP17YZ,None,CP17Y,2016,2027
+CP17YZZ,Planar Nuclear Medicine Imaging of Spine and Pelvis using Other Radionuclide,CP17YZ,2016,2027
+CP18,"Upper Extremity, Right",CP1,2016,2027
+CP181,Technetium 99m (Tc-99m),CP18,2016,2027
+CP181Z,None,CP181,2016,2027
+CP181ZZ,Planar Nuclear Medicine Imaging of Right Upper Extremity using Technetium 99m (Tc-99m),CP181Z,2016,2027
+CP18Y,Other Radionuclide,CP18,2016,2027
+CP18YZ,None,CP18Y,2016,2027
+CP18YZZ,Planar Nuclear Medicine Imaging of Right Upper Extremity using Other Radionuclide,CP18YZ,2016,2027
+CP19,"Upper Extremity, Left",CP1,2016,2027
+CP191,Technetium 99m (Tc-99m),CP19,2016,2027
+CP191Z,None,CP191,2016,2027
+CP191ZZ,Planar Nuclear Medicine Imaging of Left Upper Extremity using Technetium 99m (Tc-99m),CP191Z,2016,2027
+CP19Y,Other Radionuclide,CP19,2016,2027
+CP19YZ,None,CP19Y,2016,2027
+CP19YZZ,Planar Nuclear Medicine Imaging of Left Upper Extremity using Other Radionuclide,CP19YZ,2016,2027
+CP1B,"Upper Extremities, Bilateral",CP1,2016,2027
+CP1B1,Technetium 99m (Tc-99m),CP1B,2016,2027
+CP1B1Z,None,CP1B1,2016,2027
+CP1B1ZZ,Planar Nuclear Medicine Imaging of Bilateral Upper Extremities using Technetium 99m (Tc-99m),CP1B1Z,2016,2027
+CP1BY,Other Radionuclide,CP1B,2016,2027
+CP1BYZ,None,CP1BY,2016,2027
+CP1BYZZ,Planar Nuclear Medicine Imaging of Bilateral Upper Extremities using Other Radionuclide,CP1BYZ,2016,2027
+CP1C,"Lower Extremity, Right",CP1,2016,2027
+CP1C1,Technetium 99m (Tc-99m),CP1C,2016,2027
+CP1C1Z,None,CP1C1,2016,2027
+CP1C1ZZ,Planar Nuclear Medicine Imaging of Right Lower Extremity using Technetium 99m (Tc-99m),CP1C1Z,2016,2027
+CP1CY,Other Radionuclide,CP1C,2016,2027
+CP1CYZ,None,CP1CY,2016,2027
+CP1CYZZ,Planar Nuclear Medicine Imaging of Right Lower Extremity using Other Radionuclide,CP1CYZ,2016,2027
+CP1D,"Lower Extremity, Left",CP1,2016,2027
+CP1D1,Technetium 99m (Tc-99m),CP1D,2016,2027
+CP1D1Z,None,CP1D1,2016,2027
+CP1D1ZZ,Planar Nuclear Medicine Imaging of Left Lower Extremity using Technetium 99m (Tc-99m),CP1D1Z,2016,2027
+CP1DY,Other Radionuclide,CP1D,2016,2027
+CP1DYZ,None,CP1DY,2016,2027
+CP1DYZZ,Planar Nuclear Medicine Imaging of Left Lower Extremity using Other Radionuclide,CP1DYZ,2016,2027
+CP1F,"Lower Extremities, Bilateral",CP1,2016,2027
+CP1F1,Technetium 99m (Tc-99m),CP1F,2016,2027
+CP1F1Z,None,CP1F1,2016,2027
+CP1F1ZZ,Planar Nuclear Medicine Imaging of Bilateral Lower Extremities using Technetium 99m (Tc-99m),CP1F1Z,2016,2027
+CP1FY,Other Radionuclide,CP1F,2016,2027
+CP1FYZ,None,CP1FY,2016,2027
+CP1FYZZ,Planar Nuclear Medicine Imaging of Bilateral Lower Extremities using Other Radionuclide,CP1FYZ,2016,2027
+CP1Y,"Musculoskeletal System, Other",CP1,2016,2027
+CP1YY,Other Radionuclide,CP1Y,2016,2027
+CP1YYZ,None,CP1YY,2016,2027
+CP1YYZZ,"Planar Nuclear Medicine Imaging of Musculoskeletal System, Other using Other Radionuclide",CP1YYZ,2016,2027
+CP1Z,"Musculoskeletal System, All",CP1,2016,2027
+CP1Z1,Technetium 99m (Tc-99m),CP1Z,2016,2027
+CP1Z1Z,None,CP1Z1,2016,2027
+CP1Z1ZZ,"Planar Nuclear Medicine Imaging of Musculoskeletal System, All using Technetium 99m (Tc-99m)",CP1Z1Z,2016,2027
+CP1ZY,Other Radionuclide,CP1Z,2016,2027
+CP1ZYZ,None,CP1ZY,2016,2027
+CP1ZYZZ,"Planar Nuclear Medicine Imaging of Musculoskeletal System, All using Other Radionuclide",CP1ZYZ,2016,2027
+CP2,Tomographic (Tomo) Nuclear Medicine Imaging,CP,2016,2027
+CP21,Skull,CP2,2016,2027
+CP211,Technetium 99m (Tc-99m),CP21,2016,2027
+CP211Z,None,CP211,2016,2027
+CP211ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Skull using Technetium 99m (Tc-99m),CP211Z,2016,2027
+CP21Y,Other Radionuclide,CP21,2016,2027
+CP21YZ,None,CP21Y,2016,2027
+CP21YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Skull using Other Radionuclide,CP21YZ,2016,2027
+CP22,Cervical Spine,CP2,2016,2027
+CP221,Technetium 99m (Tc-99m),CP22,2016,2027
+CP221Z,None,CP221,2016,2027
+CP221ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Cervical Spine using Technetium 99m (Tc-99m),CP221Z,2016,2027
+CP22Y,Other Radionuclide,CP22,2016,2027
+CP22YZ,None,CP22Y,2016,2027
+CP22YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Cervical Spine using Other Radionuclide,CP22YZ,2016,2027
+CP23,Skull and Cervical Spine,CP2,2016,2027
+CP231,Technetium 99m (Tc-99m),CP23,2016,2027
+CP231Z,None,CP231,2016,2027
+CP231ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Skull and Cervical Spine using Technetium 99m (Tc-99m),CP231Z,2016,2027
+CP23Y,Other Radionuclide,CP23,2016,2027
+CP23YZ,None,CP23Y,2016,2027
+CP23YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Skull and Cervical Spine using Other Radionuclide,CP23YZ,2016,2027
+CP24,Thorax,CP2,2016,2027
+CP241,Technetium 99m (Tc-99m),CP24,2016,2027
+CP241Z,None,CP241,2016,2027
+CP241ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Thorax using Technetium 99m (Tc-99m),CP241Z,2016,2027
+CP24Y,Other Radionuclide,CP24,2016,2027
+CP24YZ,None,CP24Y,2016,2027
+CP24YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Thorax using Other Radionuclide,CP24YZ,2016,2027
+CP26,Pelvis,CP2,2016,2027
+CP261,Technetium 99m (Tc-99m),CP26,2016,2027
+CP261Z,None,CP261,2016,2027
+CP261ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvis using Technetium 99m (Tc-99m),CP261Z,2016,2027
+CP26Y,Other Radionuclide,CP26,2016,2027
+CP26YZ,None,CP26Y,2016,2027
+CP26YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvis using Other Radionuclide,CP26YZ,2016,2027
+CP27,Spine and Pelvis,CP2,2016,2027
+CP271,Technetium 99m (Tc-99m),CP27,2016,2027
+CP271Z,None,CP271,2016,2027
+CP271ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Spine and Pelvis using Technetium 99m (Tc-99m),CP271Z,2016,2027
+CP27Y,Other Radionuclide,CP27,2016,2027
+CP27YZ,None,CP27Y,2016,2027
+CP27YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Spine and Pelvis using Other Radionuclide,CP27YZ,2016,2027
+CP28,"Upper Extremity, Right",CP2,2016,2027
+CP281,Technetium 99m (Tc-99m),CP28,2016,2027
+CP281Z,None,CP281,2016,2027
+CP281ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Upper Extremity using Technetium 99m (Tc-99m),CP281Z,2016,2027
+CP28Y,Other Radionuclide,CP28,2016,2027
+CP28YZ,None,CP28Y,2016,2027
+CP28YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Upper Extremity using Other Radionuclide,CP28YZ,2016,2027
+CP29,"Upper Extremity, Left",CP2,2016,2027
+CP291,Technetium 99m (Tc-99m),CP29,2016,2027
+CP291Z,None,CP291,2016,2027
+CP291ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Upper Extremity using Technetium 99m (Tc-99m),CP291Z,2016,2027
+CP29Y,Other Radionuclide,CP29,2016,2027
+CP29YZ,None,CP29Y,2016,2027
+CP29YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Upper Extremity using Other Radionuclide,CP29YZ,2016,2027
+CP2B,"Upper Extremities, Bilateral",CP2,2016,2027
+CP2B1,Technetium 99m (Tc-99m),CP2B,2016,2027
+CP2B1Z,None,CP2B1,2016,2027
+CP2B1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Upper Extremities using Technetium 99m (Tc-99m),CP2B1Z,2016,2027
+CP2BY,Other Radionuclide,CP2B,2016,2027
+CP2BYZ,None,CP2BY,2016,2027
+CP2BYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Upper Extremities using Other Radionuclide,CP2BYZ,2016,2027
+CP2C,"Lower Extremity, Right",CP2,2016,2027
+CP2C1,Technetium 99m (Tc-99m),CP2C,2016,2027
+CP2C1Z,None,CP2C1,2016,2027
+CP2C1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Lower Extremity using Technetium 99m (Tc-99m),CP2C1Z,2016,2027
+CP2CY,Other Radionuclide,CP2C,2016,2027
+CP2CYZ,None,CP2CY,2016,2027
+CP2CYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Lower Extremity using Other Radionuclide,CP2CYZ,2016,2027
+CP2D,"Lower Extremity, Left",CP2,2016,2027
+CP2D1,Technetium 99m (Tc-99m),CP2D,2016,2027
+CP2D1Z,None,CP2D1,2016,2027
+CP2D1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Lower Extremity using Technetium 99m (Tc-99m),CP2D1Z,2016,2027
+CP2DY,Other Radionuclide,CP2D,2016,2027
+CP2DYZ,None,CP2DY,2016,2027
+CP2DYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Lower Extremity using Other Radionuclide,CP2DYZ,2016,2027
+CP2F,"Lower Extremities, Bilateral",CP2,2016,2027
+CP2F1,Technetium 99m (Tc-99m),CP2F,2016,2027
+CP2F1Z,None,CP2F1,2016,2027
+CP2F1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Lower Extremities using Technetium 99m (Tc-99m),CP2F1Z,2016,2027
+CP2FY,Other Radionuclide,CP2F,2016,2027
+CP2FYZ,None,CP2FY,2016,2027
+CP2FYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Lower Extremities using Other Radionuclide,CP2FYZ,2016,2027
+CP2G,Thoracic Spine,CP2,2016,2027
+CP2G1,Technetium 99m (Tc-99m),CP2G,2016,2027
+CP2G1Z,None,CP2G1,2016,2027
+CP2G1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Thoracic Spine using Technetium 99m (Tc-99m),CP2G1Z,2016,2027
+CP2GY,Other Radionuclide,CP2G,2016,2027
+CP2GYZ,None,CP2GY,2016,2027
+CP2GYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Thoracic Spine using Other Radionuclide,CP2GYZ,2016,2027
+CP2H,Lumbar Spine,CP2,2016,2027
+CP2H1,Technetium 99m (Tc-99m),CP2H,2016,2027
+CP2H1Z,None,CP2H1,2016,2027
+CP2H1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lumbar Spine using Technetium 99m (Tc-99m),CP2H1Z,2016,2027
+CP2HY,Other Radionuclide,CP2H,2016,2027
+CP2HYZ,None,CP2HY,2016,2027
+CP2HYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lumbar Spine using Other Radionuclide,CP2HYZ,2016,2027
+CP2J,Thoracolumbar Spine,CP2,2016,2027
+CP2J1,Technetium 99m (Tc-99m),CP2J,2016,2027
+CP2J1Z,None,CP2J1,2016,2027
+CP2J1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Thoracolumbar Spine using Technetium 99m (Tc-99m),CP2J1Z,2016,2027
+CP2JY,Other Radionuclide,CP2J,2016,2027
+CP2JYZ,None,CP2JY,2016,2027
+CP2JYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Thoracolumbar Spine using Other Radionuclide,CP2JYZ,2016,2027
+CP2Y,"Musculoskeletal System, Other",CP2,2016,2027
+CP2YY,Other Radionuclide,CP2Y,2016,2027
+CP2YYZ,None,CP2YY,2016,2027
+CP2YYZZ,"Tomographic (Tomo) Nuclear Medicine Imaging of Musculoskeletal System, Other using Other Radionuclide",CP2YYZ,2016,2027
+CP5,Nonimaging Nuclear Medicine Probe,CP,2016,2027
+CP55,Spine,CP5,2016,2027
+CP55Z,None,CP55,2016,2027
+CP55ZZ,None,CP55Z,2016,2027
+CP55ZZZ,Nonimaging Nuclear Medicine Probe of Spine,CP55ZZ,2016,2027
+CP5N,Upper Extremities,CP5,2016,2027
+CP5NZ,None,CP5N,2016,2027
+CP5NZZ,None,CP5NZ,2016,2027
+CP5NZZZ,Nonimaging Nuclear Medicine Probe of Upper Extremities,CP5NZZ,2016,2027
+CP5P,Lower Extremities,CP5,2016,2027
+CP5PZ,None,CP5P,2016,2027
+CP5PZZ,None,CP5PZ,2016,2027
+CP5PZZZ,Nonimaging Nuclear Medicine Probe of Lower Extremities,CP5PZZ,2016,2027
+CP5Y,"Musculoskeletal System, Other",CP5,2016,2027
+CP5YY,Other Radionuclide,CP5Y,2016,2027
+CP5YYZ,None,CP5YY,2016,2027
+CP5YYZZ,"Nonimaging Nuclear Medicine Probe of Musculoskeletal System, Other using Other Radionuclide",CP5YYZ,2016,2027

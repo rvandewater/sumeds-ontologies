@@ -1,0 +1,508 @@
+code,description,parent,first_year,last_year
+X2,Cardiovascular System,X,2016,2027
+X27,Dilation,X2,2020,2027
+X272,Inferior Vena Cava and Iliocaval Confluence,X27,2026,2027
+X2723,Percutaneous,X272,2026,2027
+X2723C,"Intraluminal Device, Open-structure Polymer Lattice",X2723,2026,2027
+X2723CB,"Dilation of Inferior Vena Cava and Iliocaval Confluence with Open-structure Polymer Lattice Intraluminal Device, Percutaneous Approach, New Technology Group 11",X2723C,2026,2027
+X273,"Pulmonary Artery, Right",X27,2026,2027
+X2733,Percutaneous,X273,2026,2027
+X27339,"Intraluminal Device, Expandable",X2733,2026,2027
+X27339B,"Dilation of Right Pulmonary Artery with Expandable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27339,2026,2027
+X274,"Pulmonary Artery, Left",X27,2026,2027
+X2743,Percutaneous,X274,2026,2027
+X27439,"Intraluminal Device, Expandable",X2743,2026,2027
+X27439B,"Dilation of Left Pulmonary Artery with Expandable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27439,2026,2027
+X275,"Subclavian Vein, Right",X27,2026,2027
+X2753,Percutaneous,X275,2026,2027
+X27535,"Intraluminal Device, Cell Impermeable",X2753,2026,2027
+X27535B,"Dilation of Right Subclavian Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27535,2026,2027
+X276,"Subclavian Vein, Left",X27,2026,2027
+X2763,Percutaneous,X276,2026,2027
+X27635,"Intraluminal Device, Cell Impermeable",X2763,2026,2027
+X27635B,"Dilation of Left Subclavian Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27635,2026,2027
+X277,"Axillary Vein, Right",X27,2026,2027
+X2773,Percutaneous,X277,2026,2027
+X27735,"Intraluminal Device, Cell Impermeable",X2773,2026,2027
+X27735B,"Dilation of Right Axillary Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27735,2026,2027
+X278,"Axillary Vein, Left",X27,2026,2027
+X2783,Percutaneous,X278,2026,2027
+X27835,"Intraluminal Device, Cell Impermeable",X2783,2026,2027
+X27835B,"Dilation of Left Axillary Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27835,2026,2027
+X279,"Brachial Vein, Right",X27,2026,2027
+X2793,Percutaneous,X279,2026,2027
+X27935,"Intraluminal Device, Cell Impermeable",X2793,2026,2027
+X27935B,"Dilation of Right Brachial Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27935,2026,2027
+X27A,"Brachial Vein, Left",X27,2026,2027
+X27A3,Percutaneous,X27A,2026,2027
+X27A35,"Intraluminal Device, Cell Impermeable",X27A3,2026,2027
+X27A35B,"Dilation of Left Brachial Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27A35,2026,2027
+X27B,"Basilic Vein, Right",X27,2026,2027
+X27B3,Percutaneous,X27B,2026,2027
+X27B35,"Intraluminal Device, Cell Impermeable",X27B3,2026,2027
+X27B35B,"Dilation of Right Basilic Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27B35,2026,2027
+X27C,"Basilic Vein, Left",X27,2026,2027
+X27C3,Percutaneous,X27C,2026,2027
+X27C35,"Intraluminal Device, Cell Impermeable",X27C3,2026,2027
+X27C35B,"Dilation of Left Basilic Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27C35,2026,2027
+X27D,"Cephalic Vein, Right",X27,2026,2027
+X27D3,Percutaneous,X27D,2026,2027
+X27D35,"Intraluminal Device, Cell Impermeable",X27D3,2026,2027
+X27D35B,"Dilation of Right Cephalic Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27D35,2026,2027
+X27E,"Cephalic Vein, Left",X27,2026,2027
+X27E3,Percutaneous,X27E,2026,2027
+X27E35,"Intraluminal Device, Cell Impermeable",X27E3,2026,2027
+X27E35B,"Dilation of Left Cephalic Vein with Cell Impermeable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27E35,2026,2027
+X27H,"Femoral Artery, Right",X27,2020,2024
+X27H3,Percutaneous,X27H,2020,2024
+X27H38,"Intraluminal Device, Sustained Release Drug-eluting",X27H3,2020,2024
+X27H385,"Dilation of Right Femoral Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27H38,2020,2024
+X27H39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27H3,2020,2024
+X27H395,"Dilation of Right Femoral Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27H39,2020,2024
+X27H3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27H3,2020,2024
+X27H3B5,"Dilation of Right Femoral Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27H3B,2020,2024
+X27H3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27H3,2020,2024
+X27H3C5,"Dilation of Right Femoral Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27H3C,2020,2024
+X27J,"Femoral Artery, Left",X27,2020,2024
+X27J3,Percutaneous,X27J,2020,2024
+X27J38,"Intraluminal Device, Sustained Release Drug-eluting",X27J3,2020,2024
+X27J385,"Dilation of Left Femoral Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27J38,2020,2024
+X27J39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27J3,2020,2024
+X27J395,"Dilation of Left Femoral Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27J39,2020,2024
+X27J3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27J3,2020,2024
+X27J3B5,"Dilation of Left Femoral Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27J3B,2020,2024
+X27J3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27J3,2020,2024
+X27J3C5,"Dilation of Left Femoral Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27J3C,2020,2024
+X27K,"Popliteal Artery, Proximal Right",X27,2020,2024
+X27K3,Percutaneous,X27K,2020,2024
+X27K38,"Intraluminal Device, Sustained Release Drug-eluting",X27K3,2020,2024
+X27K385,"Dilation of Proximal Right Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27K38,2020,2024
+X27K39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27K3,2020,2024
+X27K395,"Dilation of Proximal Right Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27K39,2020,2024
+X27K3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27K3,2020,2024
+X27K3B5,"Dilation of Proximal Right Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27K3B,2020,2024
+X27K3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27K3,2020,2024
+X27K3C5,"Dilation of Proximal Right Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27K3C,2020,2024
+X27L,"Popliteal Artery, Proximal Left",X27,2020,2024
+X27L3,Percutaneous,X27L,2020,2024
+X27L38,"Intraluminal Device, Sustained Release Drug-eluting",X27L3,2020,2024
+X27L385,"Dilation of Proximal Left Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27L38,2020,2024
+X27L39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27L3,2020,2024
+X27L395,"Dilation of Proximal Left Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27L39,2020,2024
+X27L3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27L3,2020,2024
+X27L3B5,"Dilation of Proximal Left Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27L3B,2020,2024
+X27L3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27L3,2020,2024
+X27L3C5,"Dilation of Proximal Left Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27L3C,2020,2024
+X27M,"Popliteal Artery, Distal Right",X27,2020,2024
+X27M3,Percutaneous,X27M,2020,2024
+X27M38,"Intraluminal Device, Sustained Release Drug-eluting",X27M3,2020,2024
+X27M385,"Dilation of Distal Right Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27M38,2020,2024
+X27M39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27M3,2020,2024
+X27M395,"Dilation of Distal Right Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27M39,2020,2024
+X27M3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27M3,2020,2024
+X27M3B5,"Dilation of Distal Right Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27M3B,2020,2024
+X27M3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27M3,2020,2024
+X27M3C5,"Dilation of Distal Right Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27M3C,2020,2024
+X27N,"Popliteal Artery, Distal Left",X27,2020,2024
+X27N3,Percutaneous,X27N,2020,2024
+X27N38,"Intraluminal Device, Sustained Release Drug-eluting",X27N3,2020,2024
+X27N385,"Dilation of Distal Left Popliteal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27N38,2020,2024
+X27N39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27N3,2020,2024
+X27N395,"Dilation of Distal Left Popliteal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27N39,2020,2024
+X27N3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27N3,2020,2024
+X27N3B5,"Dilation of Distal Left Popliteal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27N3B,2020,2024
+X27N3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27N3,2020,2024
+X27N3C5,"Dilation of Distal Left Popliteal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27N3C,2020,2024
+X27P,"Anterior Tibial Artery, Right",X27,2020,2027
+X27P3,Percutaneous,X27P,2020,2027
+X27P38,"Intraluminal Device, Sustained Release Drug-eluting",X27P3,2020,2024
+X27P385,"Dilation of Right Anterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27P38,2020,2024
+X27P39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27P3,2020,2024
+X27P395,"Dilation of Right Anterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27P39,2020,2024
+X27P3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27P3,2020,2024
+X27P3B5,"Dilation of Right Anterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27P3B,2020,2024
+X27P3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27P3,2020,2024
+X27P3C5,"Dilation of Right Anterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27P3C,2020,2024
+X27P3N,"Intraluminal Device(s), Small-diameter",X27P3,2027,2027
+X27P3NC,"Dilation of Right Anterior Tibial Artery with Intraluminal Device(s), Small-diameter, Percutaneous Approach, New Technology Group 12",X27P3N,2027,2027
+X27P3T,"Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s)",X27P3,2025,2027
+X27P3TA,"Dilation of Right Anterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",X27P3T,2025,2027
+X27Q,"Anterior Tibial Artery, Left",X27,2020,2027
+X27Q3,Percutaneous,X27Q,2020,2027
+X27Q38,"Intraluminal Device, Sustained Release Drug-eluting",X27Q3,2020,2024
+X27Q385,"Dilation of Left Anterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27Q38,2020,2024
+X27Q39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27Q3,2020,2024
+X27Q395,"Dilation of Left Anterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27Q39,2020,2024
+X27Q3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27Q3,2020,2024
+X27Q3B5,"Dilation of Left Anterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27Q3B,2020,2024
+X27Q3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27Q3,2020,2024
+X27Q3C5,"Dilation of Left Anterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27Q3C,2020,2024
+X27Q3N,"Intraluminal Device(s), Small-diameter",X27Q3,2027,2027
+X27Q3NC,"Dilation of Left Anterior Tibial Artery with Intraluminal Device(s), Small-diameter, Percutaneous Approach, New Technology Group 12",X27Q3N,2027,2027
+X27Q3T,"Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s)",X27Q3,2025,2027
+X27Q3TA,"Dilation of Left Anterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",X27Q3T,2025,2027
+X27R,"Posterior Tibial Artery, Right",X27,2020,2027
+X27R3,Percutaneous,X27R,2020,2027
+X27R38,"Intraluminal Device, Sustained Release Drug-eluting",X27R3,2020,2024
+X27R385,"Dilation of Right Posterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27R38,2020,2024
+X27R39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27R3,2020,2024
+X27R395,"Dilation of Right Posterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27R39,2020,2024
+X27R3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27R3,2020,2024
+X27R3B5,"Dilation of Right Posterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27R3B,2020,2024
+X27R3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27R3,2020,2024
+X27R3C5,"Dilation of Right Posterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27R3C,2020,2024
+X27R3N,"Intraluminal Device(s), Small-diameter",X27R3,2027,2027
+X27R3NC,"Dilation of Right Posterior Tibial Artery with Intraluminal Device(s), Small-diameter, Percutaneous Approach, New Technology Group 12",X27R3N,2027,2027
+X27R3T,"Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s)",X27R3,2025,2027
+X27R3TA,"Dilation of Right Posterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",X27R3T,2025,2027
+X27S,"Posterior Tibial Artery, Left",X27,2020,2027
+X27S3,Percutaneous,X27S,2020,2027
+X27S38,"Intraluminal Device, Sustained Release Drug-eluting",X27S3,2020,2024
+X27S385,"Dilation of Left Posterior Tibial Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27S38,2020,2024
+X27S39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27S3,2020,2024
+X27S395,"Dilation of Left Posterior Tibial Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27S39,2020,2024
+X27S3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27S3,2020,2024
+X27S3B5,"Dilation of Left Posterior Tibial Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27S3B,2020,2024
+X27S3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27S3,2020,2024
+X27S3C5,"Dilation of Left Posterior Tibial Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27S3C,2020,2024
+X27S3N,"Intraluminal Device(s), Small-diameter",X27S3,2027,2027
+X27S3NC,"Dilation of Left Posterior Tibial Artery with Intraluminal Device(s), Small-diameter, Percutaneous Approach, New Technology Group 12",X27S3N,2027,2027
+X27S3T,"Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s)",X27S3,2025,2027
+X27S3TA,"Dilation of Left Posterior Tibial Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",X27S3T,2025,2027
+X27T,"Peroneal Artery, Right",X27,2020,2027
+X27T3,Percutaneous,X27T,2020,2027
+X27T38,"Intraluminal Device, Sustained Release Drug-eluting",X27T3,2020,2024
+X27T385,"Dilation of Right Peroneal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27T38,2020,2024
+X27T39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27T3,2020,2024
+X27T395,"Dilation of Right Peroneal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27T39,2020,2024
+X27T3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27T3,2020,2024
+X27T3B5,"Dilation of Right Peroneal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27T3B,2020,2024
+X27T3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27T3,2020,2024
+X27T3C5,"Dilation of Right Peroneal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27T3C,2020,2024
+X27T3N,"Intraluminal Device(s), Small-diameter",X27T3,2027,2027
+X27T3NC,"Dilation of Right Peroneal Artery with Intraluminal Device(s), Small-diameter, Percutaneous Approach, New Technology Group 12",X27T3N,2027,2027
+X27T3T,"Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s)",X27T3,2025,2027
+X27T3TA,"Dilation of Right Peroneal Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",X27T3T,2025,2027
+X27U,"Peroneal Artery, Left",X27,2020,2027
+X27U3,Percutaneous,X27U,2020,2027
+X27U38,"Intraluminal Device, Sustained Release Drug-eluting",X27U3,2020,2024
+X27U385,"Dilation of Left Peroneal Artery with Sustained Release Drug-eluting Intraluminal Device, Percutaneous Approach, New Technology Group 5",X27U38,2020,2024
+X27U39,"Intraluminal Device, Sustained Release Drug-eluting, Two",X27U3,2020,2024
+X27U395,"Dilation of Left Peroneal Artery with Two Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27U39,2020,2024
+X27U3B,"Intraluminal Device, Sustained Release Drug-eluting, Three",X27U3,2020,2024
+X27U3B5,"Dilation of Left Peroneal Artery with Three Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27U3B,2020,2024
+X27U3C,"Intraluminal Device, Sustained Release Drug-eluting, Four or More",X27U3,2020,2024
+X27U3C5,"Dilation of Left Peroneal Artery with Four or More Sustained Release Drug-eluting Intraluminal Devices, Percutaneous Approach, New Technology Group 5",X27U3C,2020,2024
+X27U3N,"Intraluminal Device(s), Small-diameter",X27U3,2027,2027
+X27U3NC,"Dilation of Left Peroneal Artery with Intraluminal Device(s), Small-diameter, Percutaneous Approach, New Technology Group 12",X27U3N,2027,2027
+X27U3T,"Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s)",X27U3,2025,2027
+X27U3TA,"Dilation of Left Peroneal Artery with Intraluminal Device, Everolimus-eluting Resorbable Scaffold(s), Percutaneous Approach, New Technology Group 10",X27U3T,2025,2027
+X27W,"Thoracic Aorta, Descending",X27,2026,2027
+X27W3,Percutaneous,X27W,2026,2027
+X27W39,"Intraluminal Device, Expandable",X27W3,2026,2027
+X27W39B,"Dilation of Thoracic Aorta, Descending with Expandable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27W39,2026,2027
+X27X,"Thoracic Aorta, Ascending/Arch",X27,2026,2027
+X27X3,Percutaneous,X27X,2026,2027
+X27X39,"Intraluminal Device, Expandable",X27X3,2026,2027
+X27X39B,"Dilation of Thoracic Aorta, Ascending/Arch with Expandable Intraluminal Device, Percutaneous Approach, New Technology Group 11",X27X39,2026,2027
+X28,Division,X2,2025,2027
+X28F,Aortic Valve,X28,2025,2027
+X28F3,Percutaneous,X28F,2025,2027
+X28F3V,Intraluminal Bioprosthetic Valve Leaflet Splitting Technology in Existing Valve,X28F3,2025,2027
+X28F3VA,"Division of Aortic Valve using Intraluminal Bioprosthetic Valve Leaflet Splitting Technology in Existing Valve, Percutaneous Approach, New Technology Group 10",X28F3V,2025,2027
+X28F3W,"Leaflet Laceration, Radiofrequency Energy",X28F3,2026,2027
+X28F3WB,"Division of Aortic Valve using Leaflet Laceration, Radiofrequency Energy, Percutaneous Approach, New Technology Group 11",X28F3W,2026,2027
+X28M,Ventricular Septum,X28,2027,2027
+X28M3,Percutaneous,X28M,2027,2027
+X28M3D,Transcatheter Septal Scoring Technique,X28M3,2027,2027
+X28M3DC,"Division of Ventricular Septum using Transcatheter Septal Scoring Technique, Percutaneous Approach, New Technology Group 12",X28M3D,2027,2027
+X2A,Assistance,X2,2017,2027
+X2A5,Innominate Artery and Left Common Carotid Artery,X2A,2017,2025
+X2A53,Percutaneous,X2A5,2017,2025
+X2A531,"Cerebral Embolic Filtration, Dual Filter",X2A53,2017,2025
+X2A5312,"Cerebral Embolic Filtration, Dual Filter in Innominate Artery and Left Common Carotid Artery, Percutaneous Approach, New Technology Group 2",X2A531,2017,2025
+X2A6,Aortic Arch,X2A,2020,2025
+X2A63,Percutaneous,X2A6,2020,2025
+X2A632,"Cerebral Embolic Filtration, Single Deflection Filter",X2A63,2020,2025
+X2A6325,"Cerebral Embolic Filtration, Single Deflection Filter in Aortic Arch, Percutaneous Approach, New Technology Group 5",X2A632,2020,2025
+X2A7,Coronary Sinus,X2A,2023,2027
+X2A73,Percutaneous,X2A7,2023,2027
+X2A735,Intermittent Coronary Sinus Occlusion,X2A73,2023,2027
+X2A7358,"Intermittent Coronary Sinus Occlusion, Percutaneous Approach, New Technology Group 8",X2A735,2023,2027
+X2AH,"Common Carotid Artery, Right",X2A,2021,2027
+X2AH3,Percutaneous,X2AH,2021,2027
+X2AH33,"Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit",X2AH3,2021,2025
+X2AH336,"Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit from Right Common Carotid Artery, Percutaneous Approach, New Technology Group 6",X2AH33,2021,2025
+X2AH34,"Cerebral Embolic Filtration, Single Integrated Distal Filter",X2AH3,2026,2027
+X2AH34B,"Right Common Carotid Artery Cerebral Embolic Filtration, Single Integrated Distal Filter, Percutaneous Approach, New Technology Group 11",X2AH34,2026,2027
+X2AJ,"Common Carotid Artery, Left",X2A,2021,2027
+X2AJ3,Percutaneous,X2AJ,2021,2027
+X2AJ33,"Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit",X2AJ3,2021,2025
+X2AJ336,"Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit from Left Common Carotid Artery, Percutaneous Approach, New Technology Group 6",X2AJ33,2021,2025
+X2AJ34,"Cerebral Embolic Filtration, Single Integrated Distal Filter",X2AJ3,2026,2027
+X2AJ34B,"Left Common Carotid Artery Cerebral Embolic Filtration, Single Integrated Distal Filter, Percutaneous Approach, New Technology Group 11",X2AJ34,2026,2027
+X2AK,"Internal Carotid Artery, Right",X2A,2026,2027
+X2AK3,Percutaneous,X2AK,2026,2027
+X2AK34,"Cerebral Embolic Filtration, Single Integrated Distal Filter",X2AK3,2026,2027
+X2AK34B,"Right Internal Carotid Artery Cerebral Embolic Filtration, Single Integrated Distal Filter, Percutaneous Approach, New Technology Group 11",X2AK34,2026,2027
+X2AL,"Internal Carotid Artery, Left",X2A,2026,2027
+X2AL3,Percutaneous,X2AL,2026,2027
+X2AL34,"Cerebral Embolic Filtration, Single Integrated Distal Filter",X2AL3,2026,2027
+X2AL34B,"Left Internal Carotid Artery Cerebral Embolic Filtration, Single Integrated Distal Filter, Percutaneous Approach, New Technology Group 11",X2AL34,2026,2027
+X2C,Extirpation,X2,2016,2027
+X2C0,"Coronary Artery, One Artery",X2C,2016,2021
+X2C03,Percutaneous,X2C0,2016,2021
+X2C036,Orbital Atherectomy Technology,X2C03,2016,2021
+X2C0361,"Extirpation of Matter from Coronary Artery, One Artery using Orbital Atherectomy Technology, Percutaneous Approach, New Technology Group 1",X2C036,2016,2021
+X2C1,"Coronary Artery, Two Arteries",X2C,2016,2021
+X2C13,Percutaneous,X2C1,2016,2021
+X2C136,Orbital Atherectomy Technology,X2C13,2016,2021
+X2C1361,"Extirpation of Matter from Coronary Artery, Two Arteries using Orbital Atherectomy Technology, Percutaneous Approach, New Technology Group 1",X2C136,2016,2021
+X2C2,"Coronary Artery, Three Arteries",X2C,2016,2021
+X2C23,Percutaneous,X2C2,2016,2021
+X2C236,Orbital Atherectomy Technology,X2C23,2016,2021
+X2C2361,"Extirpation of Matter from Coronary Artery, Three Arteries using Orbital Atherectomy Technology, Percutaneous Approach, New Technology Group 1",X2C236,2016,2021
+X2C3,"Coronary Artery, Four or More Arteries",X2C,2016,2021
+X2C33,Percutaneous,X2C3,2016,2021
+X2C336,Orbital Atherectomy Technology,X2C33,2016,2021
+X2C3361,"Extirpation of Matter from Coronary Artery, Four or More Arteries using Orbital Atherectomy Technology, Percutaneous Approach, New Technology Group 1",X2C336,2016,2021
+X2CP,Abdominal Aorta,X2C,2022,2027
+X2CP3,Percutaneous,X2CP,2022,2027
+X2CP3T,Computer-aided Mechanical Aspiration,X2CP3,2022,2027
+X2CP3T7,"Extirpation of Matter from Abdominal Aorta using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CP3T,2022,2027
+X2CQ,"Upper Extremity Vein, Right",X2C,2022,2027
+X2CQ3,Percutaneous,X2CQ,2022,2027
+X2CQ3T,Computer-aided Mechanical Aspiration,X2CQ3,2022,2027
+X2CQ3T7,"Extirpation of Matter from Right Upper Extremity Vein using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CQ3T,2022,2027
+X2CR,"Upper Extremity Vein, Left",X2C,2022,2027
+X2CR3,Percutaneous,X2CR,2022,2027
+X2CR3T,Computer-aided Mechanical Aspiration,X2CR3,2022,2027
+X2CR3T7,"Extirpation of Matter from Left Upper Extremity Vein using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CR3T,2022,2027
+X2CS,"Lower Extremity Artery, Right",X2C,2022,2027
+X2CS3,Percutaneous,X2CS,2022,2027
+X2CS3T,Computer-aided Mechanical Aspiration,X2CS3,2022,2027
+X2CS3T7,"Extirpation of Matter from Right Lower Extremity Artery using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CS3T,2022,2027
+X2CT,"Lower Extremity Artery, Left",X2C,2022,2027
+X2CT3,Percutaneous,X2CT,2022,2027
+X2CT3T,Computer-aided Mechanical Aspiration,X2CT3,2022,2027
+X2CT3T7,"Extirpation of Matter from Left Lower Extremity Artery using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CT3T,2022,2027
+X2CU,"Lower Extremity Vein, Right",X2C,2022,2027
+X2CU3,Percutaneous,X2CU,2022,2027
+X2CU3T,Computer-aided Mechanical Aspiration,X2CU3,2022,2027
+X2CU3T7,"Extirpation of Matter from Right Lower Extremity Vein using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CU3T,2022,2027
+X2CV,"Lower Extremity Vein, Left",X2C,2022,2027
+X2CV3,Percutaneous,X2CV,2022,2027
+X2CV3T,Computer-aided Mechanical Aspiration,X2CV3,2022,2027
+X2CV3T7,"Extirpation of Matter from Left Lower Extremity Vein using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CV3T,2022,2027
+X2CY,Great Vessel,X2C,2022,2027
+X2CY3,Percutaneous,X2CY,2022,2027
+X2CY3T,Computer-aided Mechanical Aspiration,X2CY3,2022,2027
+X2CY3T7,"Extirpation of Matter from Great Vessel using Computer-aided Mechanical Aspiration, Percutaneous Approach, New Technology Group 7",X2CY3T,2022,2027
+X2H,Insertion,X2,2024,2027
+X2H0,Inferior Vena Cava,X2H,2024,2027
+X2H03,Percutaneous,X2H0,2024,2027
+X2H03B,Volume Sensor Management Device,X2H03,2026,2027
+X2H03BB,"Insertion of Volume Sensor Management Device into Inferior Vena Cava, Percutaneous Approach, New Technology Group 11",X2H03B,2026,2027
+X2H03R,"Intraluminal Device, Bioprosthetic Valve",X2H03,2024,2027
+X2H03R9,"Insertion of Intraluminal Device, Bioprosthetic Valve into Inferior Vena Cava, Percutaneous Approach, New Technology Group 9",X2H03R,2024,2027
+X2H1,Superior Vena Cava,X2H,2024,2027
+X2H13,Percutaneous,X2H1,2024,2027
+X2H13R,"Intraluminal Device, Bioprosthetic Valve",X2H13,2024,2027
+X2H13R9,"Insertion of Intraluminal Device, Bioprosthetic Valve into Superior Vena Cava, Percutaneous Approach, New Technology Group 9",X2H13R,2024,2027
+X2H13X,Temporary Phrenic Nerve/Diaphragm Stimulation Electrodes,X2H13,2026,2027
+X2H13XB,"Insertion of Temporary Phrenic Nerve/Diaphragm Stimulation Electrodes into Superior Vena Cava, Percutaneous Approach, New Technology Group 11",X2H13X,2026,2027
+X2H2,"Femoral Vein, Right",X2H,2024,2027
+X2H20,Open,X2H2,2024,2027
+X2H20R,"Intraluminal Device, Bioprosthetic Valve",X2H20,2024,2027
+X2H20R9,"Insertion of Intraluminal Device, Bioprosthetic Valve into Right Femoral Vein, Open Approach, New Technology Group 9",X2H20R,2024,2027
+X2H3,"Femoral Vein, Left",X2H,2024,2027
+X2H30,Open,X2H3,2024,2027
+X2H30R,"Intraluminal Device, Bioprosthetic Valve",X2H30,2024,2027
+X2H30R9,"Insertion of Intraluminal Device, Bioprosthetic Valve into Left Femoral Vein, Open Approach, New Technology Group 9",X2H30R,2024,2027
+X2H4,"Innominate Vein, Left",X2H,2027,2027
+X2H43,Percutaneous,X2H4,2027,2027
+X2H43M,"Temporary Intraluminal Device, Venous Angle Decompression using Impeller Pump",X2H43,2027,2027
+X2H43MC,"Insertion of Temporary Intraluminal Device, Venous Angle Decompression using Impeller Pump into Left Innominate Vein, Percutaneous Approach, New Technology Group 12",X2H43M,2027,2027
+X2H6,"Atrium, Right",X2H,2024,2027
+X2H63,Percutaneous,X2H6,2024,2027
+X2H63V,"Intracardiac Pacemaker, Dual-Chamber",X2H63,2024,2027
+X2H63V9,"Insertion of Dual-Chamber Intracardiac Pacemaker into Right Atrium, Percutaneous Approach, New Technology Group 9",X2H63V,2024,2027
+X2HK,"Ventricle, Right",X2H,2024,2027
+X2HK3,Percutaneous,X2HK,2024,2027
+X2HK3V,"Intracardiac Pacemaker, Dual-Chamber",X2HK3,2024,2027
+X2HK3V9,"Insertion of Dual-Chamber Intracardiac Pacemaker into Right Ventricle, Percutaneous Approach, New Technology Group 9",X2HK3V,2024,2027
+X2HL,"Axillary Artery, Right",X2H,2024,2027
+X2HL0,Open,X2HL,2024,2027
+X2HL0F,Conduit to Short-term External Heart Assist System,X2HL0,2024,2027
+X2HL0F9,"Insertion of Conduit to Short-term External Heart Assist System into Right Axillary Artery, Open Approach, New Technology Group 9",X2HL0F,2024,2027
+X2HM,Ventricular Septum,X2H,2024,2027
+X2HM0,Open,X2HM,2024,2027
+X2HM0F,Conduit to Short-term External Heart Assist System,X2HM0,2024,2027
+X2HM0F9,"Insertion of Conduit to Short-term External Heart Assist System into Left Axillary Artery, Open Approach, New Technology Group 9",X2HM0F,2024,2027
+X2HM3,Percutaneous,X2HM,2026,2027
+X2HM3G,"Defibrillator Lead, Lumenless Small-diameter",X2HM3,2026,2027
+X2HM3GB,"Insertion of Lumenless Small-diameter Defibrillator Lead into Ventricular Septum, Percutaneous Approach, New Technology Group 11",X2HM3G,2026,2027
+X2HN,"Ventricle, Left",X2H,2026,2027
+X2HN3,Percutaneous,X2HN,2026,2027
+X2HN37,Endocardiac Pacing Electrode,X2HN3,2026,2027
+X2HN37B,"Insertion of Endocardiac Pacing Electrode into Left Ventricle, Percutaneous Approach, New Technology Group 11",X2HN37,2026,2027
+X2HP,"Anterior Tibial Artery, Right",X2H,2026,2027
+X2HP3,Percutaneous,X2HP,2026,2027
+X2HP38,"Intraluminal Device, Temporary",X2HP3,2026,2027
+X2HP38B,"Insertion of Temporary Intraluminal Device into Right Anterior Tibial Artery, Percutaneous Approach, New Technology Group 11",X2HP38,2026,2027
+X2HQ,"Anterior Tibial Artery, Left",X2H,2026,2027
+X2HQ3,Percutaneous,X2HQ,2026,2027
+X2HQ38,"Intraluminal Device, Temporary",X2HQ3,2026,2027
+X2HQ38B,"Insertion of Temporary Intraluminal Device into Left Anterior Tibial Artery, Percutaneous Approach, New Technology Group 11",X2HQ38,2026,2027
+X2HR,"Posterior Tibial Artery, Right",X2H,2026,2027
+X2HR3,Percutaneous,X2HR,2026,2027
+X2HR38,"Intraluminal Device, Temporary",X2HR3,2026,2027
+X2HR38B,"Insertion of Temporary Intraluminal Device into Right Posterior Tibial Artery, Percutaneous Approach, New Technology Group 11",X2HR38,2026,2027
+X2HS,"Posterior Tibial Artery, Left",X2H,2026,2027
+X2HS3,Percutaneous,X2HS,2026,2027
+X2HS38,"Intraluminal Device, Temporary",X2HS3,2026,2027
+X2HS38B,"Insertion of Temporary Intraluminal Device into Left Posterior Tibial Artery, Percutaneous Approach, New Technology Group 11",X2HS38,2026,2027
+X2HT,"Peroneal Artery, Right",X2H,2026,2027
+X2HT3,Percutaneous,X2HT,2026,2027
+X2HT38,"Intraluminal Device, Temporary",X2HT3,2026,2027
+X2HT38B,"Insertion of Temporary Intraluminal Device into Right Peroneal Artery, Percutaneous Approach, New Technology Group 11",X2HT38,2026,2027
+X2HU,"Peroneal Artery, Left",X2H,2026,2027
+X2HU3,Percutaneous,X2HU,2026,2027
+X2HU38,"Intraluminal Device, Temporary",X2HU3,2026,2027
+X2HU38B,"Insertion of Temporary Intraluminal Device into Left Peroneal Artery, Percutaneous Approach, New Technology Group 11",X2HU38,2026,2027
+X2HV,"Ventricle, Right",X2H,2026,2027
+X2HV3,Percutaneous,X2HV,2026,2027
+X2HV3G,"Defibrillator Lead, Lumenless Small-diameter",X2HV3,2026,2027
+X2HV3GB,"Insertion of Lumenless Small-diameter Defibrillator Lead into Right Ventricle, Percutaneous Approach, New Technology Group 11",X2HV3G,2026,2027
+X2HX,"Thoracic Aorta, Ascending",X2H,2024,2027
+X2HX0,Open,X2HX,2024,2027
+X2HX0F,Conduit to Short-term External Heart Assist System,X2HX0,2024,2027
+X2HX0F9,"Insertion of Conduit to Short-term External Heart Assist System into Thoracic Aorta, Ascending, Open Approach, New Technology Group 9",X2HX0F,2024,2027
+X2J,Inspection,X2,2022,2027
+X2JA,Heart,X2J,2022,2027
+X2JAX,External,X2JA,2022,2027
+X2JAX4,"Transthoracic Echocardiography, Computer-aided Guidance",X2JAX,2022,2027
+X2JAX47,"Inspection of Heart using Transthoracic Echocardiography, Computer-aided Guidance, New Technology Group 7",X2JAX4,2022,2027
+X2K,Bypass,X2,2022,2027
+X2K0,Inferior Vena Cava,X2K,2026,2027
+X2K00,Open,X2K0,2026,2027
+X2K00F,Autologous Cell Seeded Tissue Engineered Resorbable Scaffold to Pulmonary Artery,X2K00,2026,2027
+X2K00FB,"Bypass Inferior Vena Cava using Autologous Cell Seeded Tissue Engineered Resorbable Scaffold to Pulmonary Artery, Open Approach, New Technology Group 11",X2K00F,2026,2027
+X2KA,"Atrium, Left",X2K,2025,2027
+X2KA3,Percutaneous,X2KA,2025,2027
+X2KA30,Conduit through Coronary Sinus to Right Atrium,X2KA3,2025,2027
+X2KA30A,"Bypass Left Atrium using Conduit through Coronary Sinus to Right Atrium, Percutaneous Approach, New Technology Group 10",X2KA30,2025,2027
+X2KB,"Radial Artery, Right",X2K,2022,2026
+X2KB3,Percutaneous,X2KB,2022,2026
+X2KB31,Thermal Resistance Energy,X2KB3,2022,2026
+X2KB317,"Bypass Right Radial Artery using Thermal Resistance Energy, Percutaneous Approach, New Technology Group 7",X2KB31,2022,2026
+X2KC,"Radial Artery, Left",X2K,2022,2026
+X2KC3,Percutaneous,X2KC,2022,2026
+X2KC31,Thermal Resistance Energy,X2KC3,2022,2026
+X2KC317,"Bypass Left Radial Artery using Thermal Resistance Energy, Percutaneous Approach, New Technology Group 7",X2KC31,2022,2026
+X2KG,Hepatic Vein,X2K,2026,2027
+X2KG0,Open,X2KG,2026,2027
+X2KG0F,Autologous Cell Seeded Tissue Engineered Resorbable Scaffold to Pulmonary Artery,X2KG0,2026,2027
+X2KG0FB,"Bypass Hepatic Vein using Autologous Cell Seeded Tissue Engineered Resorbable Scaffold to Pulmonary Artery, Open Approach, New Technology Group 11",X2KG0F,2026,2027
+X2KH,"Femoral Artery, Right",X2K,2024,2027
+X2KH3,Percutaneous,X2KH,2024,2027
+X2KH3D,Conduit through Femoral Vein to Superficial Femoral Artery,X2KH3,2024,2027
+X2KH3D9,"Bypass Right Femoral Artery using Conduit through Femoral Vein to Superficial Femoral Artery, Percutaneous Approach, New Technology Group 9",X2KH3D,2024,2027
+X2KH3E,Conduit through Femoral Vein to Popliteal Artery,X2KH3,2024,2027
+X2KH3E9,"Bypass Right Femoral Artery using Conduit through Femoral Vein to Popliteal Artery, Percutaneous Approach, New Technology Group 9",X2KH3E,2024,2027
+X2KJ,"Femoral Artery, Left",X2K,2024,2027
+X2KJ3,Percutaneous,X2KJ,2024,2027
+X2KJ3D,Conduit through Femoral Vein to Superficial Femoral Artery,X2KJ3,2024,2027
+X2KJ3D9,"Bypass Left Femoral Artery using Conduit through Femoral Vein to Superficial Femoral Artery, Percutaneous Approach, New Technology Group 9",X2KJ3D,2024,2027
+X2KJ3E,Conduit through Femoral Vein to Popliteal Artery,X2KJ3,2024,2027
+X2KJ3E9,"Bypass Left Femoral Artery using Conduit through Femoral Vein to Popliteal Artery, Percutaneous Approach, New Technology Group 9",X2KJ3E,2024,2027
+X2R,Replacement,X2,2017,2027
+X2R5,"Upper Extremity Artery, Right",X2R,2025,2027
+X2R50,Open,X2R5,2025,2027
+X2R50W,Bioengineered Human Acellular Vessel,X2R50,2025,2027
+X2R50WA,"Replacement of Right Upper Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",X2R50W,2025,2027
+X2R6,"Upper Extremity Artery, Left",X2R,2025,2027
+X2R60,Open,X2R6,2025,2027
+X2R60W,Bioengineered Human Acellular Vessel,X2R60,2025,2027
+X2R60WA,"Replacement of Left Upper Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",X2R60W,2025,2027
+X2R7,"Lower Extremity Artery, Right",X2R,2025,2027
+X2R70,Open,X2R7,2025,2027
+X2R70W,Bioengineered Human Acellular Vessel,X2R70,2025,2027
+X2R70WA,"Replacement of Right Lower Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",X2R70W,2025,2027
+X2R8,"Lower Extremity Artery, Left",X2R,2025,2027
+X2R80,Open,X2R8,2025,2027
+X2R80W,Bioengineered Human Acellular Vessel,X2R80,2025,2027
+X2R80WA,"Replacement of Left Lower Extremity Artery using Bioengineered Human Acellular Vessel, Open Approach, New Technology Group 10",X2R80W,2025,2027
+X2RF,Aortic Valve,X2R,2017,2027
+X2RF0,Open,X2RF,2017,2022
+X2RF03,"Zooplastic Tissue, Rapid Deployment Technique",X2RF0,2017,2022
+X2RF032,"Replacement of Aortic Valve using Zooplastic Tissue, Rapid Deployment Technique, Open Approach, New Technology Group 2",X2RF03,2017,2022
+X2RF3,Percutaneous,X2RF,2017,2027
+X2RF33,"Zooplastic Tissue, Rapid Deployment Technique",X2RF3,2017,2022
+X2RF332,"Replacement of Aortic Valve using Zooplastic Tissue, Rapid Deployment Technique, Percutaneous Approach, New Technology Group 2",X2RF33,2017,2022
+X2RF3L,"Zooplastic Tissue, with Integrated Native Leaflet Clipping Locators",X2RF3,2027,2027
+X2RF3LC,"Replacement of Aortic Valve using Zooplastic Tissue, with Integrated Native Leaflet Clipping Locators, Percutaneous Approach, New Technology Group 12",X2RF3L,2027,2027
+X2RF4,Percutaneous Endoscopic,X2RF,2017,2022
+X2RF43,"Zooplastic Tissue, Rapid Deployment Technique",X2RF4,2017,2022
+X2RF432,"Replacement of Aortic Valve using Zooplastic Tissue, Rapid Deployment Technique, Percutaneous Endoscopic Approach, New Technology Group 2",X2RF43,2017,2022
+X2RG,Mitral Valve,X2R,2027,2027
+X2RG3,Percutaneous,X2RG,2027,2027
+X2RG3F,"Bioprosthetic Valve, Balloon-expandable with Dock",X2RG3,2027,2027
+X2RG3FC,"Replacement of Mitral Valve with Balloon-expandable Bioprosthetic Valve with Dock, Percutaneous Approach, New Technology Group 12",X2RG3F,2027,2027
+X2RH,Pulmonary Valve,X2R,2027,2027
+X2RH0,Open,X2RH,2027,2027
+X2RH0G,"Synthetic Substitute, Size-Adjustable",X2RH0,2027,2027
+X2RH0GC,"Replacement of Pulmonary Valve using Size-Adjustable Synthetic Substitute, Open Approach, New Technology Group 12",X2RH0G,2027,2027
+X2RJ,Tricuspid Valve,X2R,2025,2027
+X2RJ3,Percutaneous,X2RJ,2025,2027
+X2RJ3R,Multi-plane Flex Technology Bioprosthetic Valve,X2RJ3,2025,2027
+X2RJ3RA,"Replacement of Tricuspid Valve with Multi-plane Flex Technology Bioprosthetic Valve, Percutaneous Approach, New Technology Group 10",X2RJ3R,2025,2027
+X2RX,"Thoracic Aorta, Arch",X2R,2022,2027
+X2RX0,Open,X2RX,2022,2027
+X2RX0N,Branched Synthetic Substitute with Intraluminal Device,X2RX0,2022,2027
+X2RX0N7,"Replacement of Thoracic Aorta, Arch using Branched Synthetic Substitute with Intraluminal Device, Open Approach, New Technology Group 7",X2RX0N,2022,2027
+X2U,Supplement,X2,2024,2027
+X2U4,Coronary Artery/Arteries,X2U,2024,2027
+X2U40,Open,X2U4,2024,2027
+X2U407,Vein Graft Extraluminal Support Device(s),X2U40,2024,2027
+X2U4079,"Supplement Coronary Artery/Arteries with Vein Graft Extraluminal Support Device(s), Open Approach, New Technology Group 9",X2U407,2024,2027
+X2U9,"Atrium, Right",X2U,2025,2027
+X2U93,Percutaneous,X2U9,2025,2027
+X2U93Y,"Intraluminal Device, Heterotopic Bioprosthetic Valve(s)",X2U93,2025,2027
+X2U93YA,"Supplement Right Atrium with Intraluminal Device, Heterotopic Bioprosthetic Valve(s), Percutaneous Approach, New Technology Group 10",X2U93Y,2025,2027
+X2UQ,"Upper Extremity Vein, Right",X2U,2024,2027
+X2UQ0,Open,X2UQ,2024,2027
+X2UQ0P,"Synthetic Substitute, Extraluminal Support Device",X2UQ0,2024,2027
+X2UQ0P9,"Supplement Right Upper Extremity Vein with Synthetic Substitute, Extraluminal Support Device, Open Approach, New Technology Group 9",X2UQ0P,2024,2027
+X2UR,"Upper Extremity Vein, Left",X2U,2024,2027
+X2UR0,Open,X2UR,2024,2027
+X2UR0P,"Synthetic Substitute, Extraluminal Support Device",X2UR0,2024,2027
+X2UR0P9,"Supplement Left Upper Extremity Vein with Synthetic Substitute, Extraluminal Support Device, Open Approach, New Technology Group 9",X2UR0P,2024,2027
+X2V,Restriction,X2,2022,2027
+X2V7,Coronary Sinus,X2V,2022,2027
+X2V73,Percutaneous,X2V7,2022,2027
+X2V73Q,Reduction Device,X2V73,2022,2027
+X2V73Q7,"Restriction of Coronary Sinus with Reduction Device, Percutaneous Approach, New Technology Group 7",X2V73Q,2022,2027
+X2VE,Descending Thoracic Aorta and Abdominal Aorta,X2V,2025,2027
+X2VE3,Percutaneous,X2VE,2025,2027
+X2VE3S,"Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries",X2VE3,2025,2027
+X2VE3SA,"Restriction of Descending Thoracic Aorta and Abdominal Aorta using Branched Intraluminal Device, Manufactured Integrated System, Four or More Arteries, Percutaneous Approach, New Technology Group 10",X2VE3S,2025,2027
+X2VJ,"Thoracic Aorta, Ascending and Arch",X2V,2027,2027
+X2VJ3,Percutaneous,X2VJ,2027,2027
+X2VJ3H,"Branched Intraluminal Device, Integrated System with Innominate Branch",X2VJ3,2027,2027
+X2VJ3HC,"Restriction of Thoracic Aorta, Ascending and Arch using Branched Intraluminal Device, Integrated System with Innominate Branch, Percutaneous Approach, New Technology Group 12",X2VJ3H,2027,2027
+X2VW,"Thoracic Aorta, Descending",X2V,2022,2027
+X2VW0,Open,X2VW,2022,2027
+X2VW0N,Branched Synthetic Substitute with Intraluminal Device,X2VW0,2022,2027
+X2VW0N7,"Restriction of Thoracic Aorta, Descending using Branched Synthetic Substitute with Intraluminal Device, Open Approach, New Technology Group 7",X2VW0N,2022,2027
+X2VW3,Percutaneous,X2VW,2027,2027
+X2VW3J,"Branched Intraluminal Device, Integrated System Extension",X2VW3,2027,2027
+X2VW3JC,"Restriction of Thoracic Aorta, Descending using Branched Intraluminal Device, Integrated System Extension, Percutaneous Approach, New Technology Group 12",X2VW3J,2027,2027
+X2VX,"Thoracic Aorta, Arch",X2V,2027,2027
+X2VX0,Open,X2VX,2027,2027
+X2VX0K,"Branched Intraluminal Device, with Conical Collar",X2VX0,2027,2027
+X2VX0KC,"Restriction of Thoracic Aorta, Arch using Branched Intraluminal Device, with Conical Collar, Open Approach, New Technology Group 12",X2VX0K,2027,2027
+X2VY,Thoracic Aortic Arch and Descending Thoracic Aorta,X2V,2026,2027
+X2VY0,Open,X2VY,2026,2027
+X2VY06,"Intraluminal Device, Uncovered with Support Cuff",X2VY0,2026,2027
+X2VY06B,"Restriction of Thoracic Aortic Arch and Descending Thoracic Aorta using Uncovered Intraluminal Device with Support Cuff, Open Approach, New Technology Group 11",X2VY06,2026,2027

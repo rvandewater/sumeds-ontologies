@@ -1,0 +1,50 @@
+code,description,parent,first_year,last_year
+CB,Respiratory System,C,2016,2027
+CB1,Planar Nuclear Medicine Imaging,CB,2016,2027
+CB12,Lungs and Bronchi,CB1,2016,2027
+CB121,Technetium 99m (Tc-99m),CB12,2016,2027
+CB121Z,None,CB121,2016,2027
+CB121ZZ,Planar Nuclear Medicine Imaging of Lungs and Bronchi using Technetium 99m (Tc-99m),CB121Z,2016,2027
+CB129,Krypton (Kr-81m),CB12,2016,2027
+CB129Z,None,CB129,2016,2027
+CB129ZZ,Planar Nuclear Medicine Imaging of Lungs and Bronchi using Krypton (Kr-81m),CB129Z,2016,2027
+CB12T,Xenon 127 (Xe-127),CB12,2016,2027
+CB12TZ,None,CB12T,2016,2027
+CB12TZZ,Planar Nuclear Medicine Imaging of Lungs and Bronchi using Xenon 127 (Xe-127),CB12TZ,2016,2027
+CB12V,Xenon 133 (Xe-133),CB12,2016,2027
+CB12VZ,None,CB12V,2016,2027
+CB12VZZ,Planar Nuclear Medicine Imaging of Lungs and Bronchi using Xenon 133 (Xe-133),CB12VZ,2016,2027
+CB12Y,Other Radionuclide,CB12,2016,2027
+CB12YZ,None,CB12Y,2016,2027
+CB12YZZ,Planar Nuclear Medicine Imaging of Lungs and Bronchi using Other Radionuclide,CB12YZ,2016,2027
+CB1Y,Respiratory System,CB1,2016,2027
+CB1YY,Other Radionuclide,CB1Y,2016,2027
+CB1YYZ,None,CB1YY,2016,2027
+CB1YYZZ,Planar Nuclear Medicine Imaging of Respiratory System using Other Radionuclide,CB1YYZ,2016,2027
+CB2,Tomographic (Tomo) Nuclear Medicine Imaging,CB,2016,2027
+CB22,Lungs and Bronchi,CB2,2016,2027
+CB221,Technetium 99m (Tc-99m),CB22,2016,2027
+CB221Z,None,CB221,2016,2027
+CB221ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lungs and Bronchi using Technetium 99m (Tc-99m),CB221Z,2016,2027
+CB229,Krypton (Kr-81m),CB22,2016,2027
+CB229Z,None,CB229,2016,2027
+CB229ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lungs and Bronchi using Krypton (Kr-81m),CB229Z,2016,2027
+CB22Y,Other Radionuclide,CB22,2016,2027
+CB22YZ,None,CB22Y,2016,2027
+CB22YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lungs and Bronchi using Other Radionuclide,CB22YZ,2016,2027
+CB2Y,Respiratory System,CB2,2016,2027
+CB2YY,Other Radionuclide,CB2Y,2016,2027
+CB2YYZ,None,CB2YY,2016,2027
+CB2YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Respiratory System using Other Radionuclide,CB2YYZ,2016,2027
+CB3,Positron Emission Tomographic (PET) Imaging,CB,2016,2027
+CB32,Lungs and Bronchi,CB3,2016,2027
+CB32K,Fluorine 18 (F-18),CB32,2016,2027
+CB32KZ,None,CB32K,2016,2027
+CB32KZZ,Positron Emission Tomographic (PET) Imaging of Lungs and Bronchi using Fluorine 18 (F-18),CB32KZ,2016,2027
+CB32Y,Other Radionuclide,CB32,2016,2027
+CB32YZ,None,CB32Y,2016,2027
+CB32YZZ,Positron Emission Tomographic (PET) Imaging of Lungs and Bronchi using Other Radionuclide,CB32YZ,2016,2027
+CB3Y,Respiratory System,CB3,2016,2027
+CB3YY,Other Radionuclide,CB3Y,2016,2027
+CB3YYZ,None,CB3YY,2016,2027
+CB3YYZZ,Positron Emission Tomographic (PET) Imaging of Respiratory System using Other Radionuclide,CB3YYZ,2016,2027

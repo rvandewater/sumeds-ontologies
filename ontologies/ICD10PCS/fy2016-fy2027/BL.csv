@@ -1,0 +1,56 @@
+code,description,parent,first_year,last_year
+BL,Connective Tissue,B,2016,2027
+BL3,Magnetic Resonance Imaging (MRI),BL,2016,2027
+BL30,"Connective Tissue, Upper Extremity",BL3,2016,2027
+BL30Y,Other Contrast,BL30,2016,2027
+BL30Y0,Unenhanced and Enhanced,BL30Y,2016,2027
+BL30Y0Z,"Magnetic Resonance Imaging (MRI) of Upper Extremity Connective Tissue using Other Contrast, Unenhanced and Enhanced",BL30Y0,2016,2027
+BL30YZ,None,BL30Y,2016,2027
+BL30YZZ,Magnetic Resonance Imaging (MRI) of Upper Extremity Connective Tissue using Other Contrast,BL30YZ,2016,2027
+BL30Z,None,BL30,2016,2027
+BL30ZZ,None,BL30Z,2016,2027
+BL30ZZZ,Magnetic Resonance Imaging (MRI) of Upper Extremity Connective Tissue,BL30ZZ,2016,2027
+BL31,"Connective Tissue, Lower Extremity",BL3,2016,2027
+BL31Y,Other Contrast,BL31,2016,2027
+BL31Y0,Unenhanced and Enhanced,BL31Y,2016,2027
+BL31Y0Z,"Magnetic Resonance Imaging (MRI) of Lower Extremity Connective Tissue using Other Contrast, Unenhanced and Enhanced",BL31Y0,2016,2027
+BL31YZ,None,BL31Y,2016,2027
+BL31YZZ,Magnetic Resonance Imaging (MRI) of Lower Extremity Connective Tissue using Other Contrast,BL31YZ,2016,2027
+BL31Z,None,BL31,2016,2027
+BL31ZZ,None,BL31Z,2016,2027
+BL31ZZZ,Magnetic Resonance Imaging (MRI) of Lower Extremity Connective Tissue,BL31ZZ,2016,2027
+BL32,"Tendons, Upper Extremity",BL3,2016,2027
+BL32Y,Other Contrast,BL32,2016,2027
+BL32Y0,Unenhanced and Enhanced,BL32Y,2016,2027
+BL32Y0Z,"Magnetic Resonance Imaging (MRI) of Upper Extremity Tendons using Other Contrast, Unenhanced and Enhanced",BL32Y0,2016,2027
+BL32YZ,None,BL32Y,2016,2027
+BL32YZZ,Magnetic Resonance Imaging (MRI) of Upper Extremity Tendons using Other Contrast,BL32YZ,2016,2027
+BL32Z,None,BL32,2016,2027
+BL32ZZ,None,BL32Z,2016,2027
+BL32ZZZ,Magnetic Resonance Imaging (MRI) of Upper Extremity Tendons,BL32ZZ,2016,2027
+BL33,"Tendons, Lower Extremity",BL3,2016,2027
+BL33Y,Other Contrast,BL33,2016,2027
+BL33Y0,Unenhanced and Enhanced,BL33Y,2016,2027
+BL33Y0Z,"Magnetic Resonance Imaging (MRI) of Lower Extremity Tendons using Other Contrast, Unenhanced and Enhanced",BL33Y0,2016,2027
+BL33YZ,None,BL33Y,2016,2027
+BL33YZZ,Magnetic Resonance Imaging (MRI) of Lower Extremity Tendons using Other Contrast,BL33YZ,2016,2027
+BL33Z,None,BL33,2016,2027
+BL33ZZ,None,BL33Z,2016,2027
+BL33ZZZ,Magnetic Resonance Imaging (MRI) of Lower Extremity Tendons,BL33ZZ,2016,2027
+BL4,Ultrasonography,BL,2016,2027
+BL40,"Connective Tissue, Upper Extremity",BL4,2016,2027
+BL40Z,None,BL40,2016,2027
+BL40ZZ,None,BL40Z,2016,2027
+BL40ZZZ,Ultrasonography of Upper Extremity Connective Tissue,BL40ZZ,2016,2027
+BL41,"Connective Tissue, Lower Extremity",BL4,2016,2027
+BL41Z,None,BL41,2016,2027
+BL41ZZ,None,BL41Z,2016,2027
+BL41ZZZ,Ultrasonography of Lower Extremity Connective Tissue,BL41ZZ,2016,2027
+BL42,"Tendons, Upper Extremity",BL4,2016,2027
+BL42Z,None,BL42,2016,2027
+BL42ZZ,None,BL42Z,2016,2027
+BL42ZZZ,Ultrasonography of Upper Extremity Tendons,BL42ZZ,2016,2027
+BL43,"Tendons, Lower Extremity",BL4,2016,2027
+BL43Z,None,BL43,2016,2027
+BL43ZZ,None,BL43Z,2016,2027
+BL43ZZZ,Ultrasonography of Lower Extremity Tendons,BL43ZZ,2016,2027

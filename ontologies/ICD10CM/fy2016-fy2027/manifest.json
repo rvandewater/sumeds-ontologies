@@ -1,0 +1,303 @@
+{
+ "schema": "sumeds-ontology-pack/0.1",
+ "vocabulary": "ICD10CM",
+ "release": "fy2016-fy2027",
+ "title": "ICD-10-CM diagnoses, union of FY2016 to FY2027",
+ "code_format": "OMOP concept_code: dotted, e.g. I50.23",
+ "columns": [
+  "code",
+  "description",
+  "parent",
+  "first_year",
+  "last_year"
+ ],
+ "fields": {
+  "code": "code",
+  "description": "description",
+  "parent": "parent"
+ },
+ "parent": "nearest shorter truncation in the pack; 3-character categories are roots",
+ "years": "first and last fiscal year whose release contains the code",
+ "shard_key_length": 1,
+ "rows": 99085,
+ "bytes": 9727879,
+ "license": "Public domain. ICD-10-CM and ICD-9-CM are published by the National Center for Health Statistics (CDC/NCHS) and ICD-10-PCS and the ICD-9-CM v32 descriptions by the Centers for Medicare & Medicaid Services (CMS). As works of the U.S. Government they are not subject to copyright in the United States (17 U.S.C. 105).",
+ "sources": [
+  {
+   "id": "icd10cm-fy2016",
+   "publisher": "CDC/NCHS",
+   "release": "FY2016",
+   "fiscal_year": 2016,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2016/ICD10CM_FY2016_code_descriptions.zip",
+   "sha256": "89a04f5c03754ae72a76e5a751a712f570ae38ba592c032c146dc96ff9f49c89",
+   "file": "icd10cm_order_2016.txt"
+  },
+  {
+   "id": "icd10cm-fy2017",
+   "publisher": "CDC/NCHS",
+   "release": "FY2017",
+   "fiscal_year": 2017,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2017/icd10cm_order_2017.txt",
+   "sha256": "f3540a91e0186a4f963875f755e6b7b3b0e9251bf647a3c515102df8f541b47f",
+   "file": "icd10cm_order_2017.txt"
+  },
+  {
+   "id": "icd10cm-fy2018",
+   "publisher": "CDC/NCHS",
+   "release": "FY2018",
+   "fiscal_year": 2018,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2018/2018-ICD-10-Code-Order-Descriptions.zip",
+   "sha256": "9be0496f74887b563029569579ca345d091c31547cc81973e3725a212d0cce78",
+   "file": "icd10cm_order_2018.txt"
+  },
+  {
+   "id": "icd10cm-fy2019",
+   "publisher": "CDC/NCHS",
+   "release": "FY2019",
+   "fiscal_year": 2019,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2019/icd10cm_order_2019.txt",
+   "sha256": "c3d6a88945ba1416848f6f7bea738d382484a8c469dff585e58172b9a573aeb4",
+   "file": "icd10cm_order_2019.txt"
+  },
+  {
+   "id": "icd10cm-fy2020",
+   "publisher": "CDC/NCHS",
+   "release": "FY2020",
+   "fiscal_year": 2020,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2020/icd10cm_order_2020.txt",
+   "sha256": "80991e20ffb60086ba0340572dd0e3e2248c6647c31a06fadcb30b419dac02bc",
+   "file": "icd10cm_order_2020.txt"
+  },
+  {
+   "id": "icd10cm-fy2021",
+   "publisher": "CDC/NCHS",
+   "release": "FY2021",
+   "fiscal_year": 2021,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2021/icd10cm-codes-order-Jan-2021.zip",
+   "sha256": "dffa100f5bc7e588cca63257c0da0668094b31ba9812283eba893d082d2e909f",
+   "file": "icd10cm-order-Jan-2021.txt"
+  },
+  {
+   "id": "icd10cm-fy2022",
+   "publisher": "CDC/NCHS",
+   "release": "FY2022",
+   "fiscal_year": 2022,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2022/Code%20Descriptions%20zip.zip",
+   "sha256": "bab2b3b041cf4b999f8380f3198c1dd6ca404ba7d5513ec60efc813a97f7c214",
+   "file": "Code Descriptions/icd10cm-order-2022.txt"
+  },
+  {
+   "id": "icd10cm-fy2023",
+   "publisher": "CDC/NCHS",
+   "release": "FY2023",
+   "fiscal_year": 2023,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2023/icd10-Order-CodeFiles2023.zip",
+   "sha256": "a7bfd4511dc154bff96fe0ced5fcd633bd26f997ccd6ae386f5c24595e1789b5",
+   "file": "icd10cm-order-2023.txt"
+  },
+  {
+   "id": "icd10cm-fy2023-apr",
+   "publisher": "CDC/NCHS",
+   "release": "FY2023 April 1 update",
+   "fiscal_year": 2023,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/April-1-2023-Update/icd10cm-code%20descriptions-%20April%201%202023.zip",
+   "sha256": "ec693d01f562e83eaf20c2b73bba3b32e5591e8fe42f9b74e85b3c6ead0feacb",
+   "file": "icd10cm-order- April 1 2023.txt"
+  },
+  {
+   "id": "icd10cm-fy2024",
+   "publisher": "CDC/NCHS",
+   "release": "FY2024",
+   "fiscal_year": 2024,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2024/icd10cm-CodesDescriptions-2024.zip",
+   "sha256": "a3f3d21bfced02ce422699dbc10b952594783b12674bd2c133e8221ba3b5c260",
+   "file": "icd10cm-order-2024.txt"
+  },
+  {
+   "id": "icd10cm-fy2025",
+   "publisher": "CDC/NCHS",
+   "release": "FY2025",
+   "fiscal_year": 2025,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2025/ICD10-CM%20Code%20Descriptions%202025.zip",
+   "sha256": "5a9ff9e18d90a9979a144559a93e377624795369123cebf76817c44f565f0c60",
+   "file": "icd10cm-order-2025.txt"
+  },
+  {
+   "id": "icd10cm-fy2026",
+   "publisher": "CDC/NCHS",
+   "release": "FY2026",
+   "fiscal_year": 2026,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2026/icd10cm-Code%20Descriptions-2026.zip",
+   "sha256": "a852eb91b3344ae38476e63816976ee1eeb94dcced7151118324f060e8499f88",
+   "file": "icd10cm-order-2026.txt"
+  },
+  {
+   "id": "icd10cm-fy2027",
+   "publisher": "CDC/NCHS",
+   "release": "FY2027",
+   "fiscal_year": 2027,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM/2027/icd10cm-code-descriptions-2027.zip",
+   "sha256": "93e3ad6004badf470c55bfe679b748ae88fd9b2b421851e409eec382c7713b9a",
+   "file": "icd10cm-code-descriptions-2027/icd10cm-order-2027.txt"
+  }
+ ],
+ "build": "python3 scripts/build_ontology_packs.py --output ontologies ICD10CM",
+ "shards": {
+  "A": {
+   "file": "A.csv",
+   "rows": 695,
+   "bytes": 36876,
+   "sha256": "67e79b926bfe3a759669c10cfd2a93c7ebfa0a7c4daed7652234de895d2f471e"
+  },
+  "B": {
+   "file": "B.csv",
+   "rows": 614,
+   "bytes": 33886,
+   "sha256": "ef9139505dae73e32538fa7e0922857e5a049467a8ba451106469ddc69e2af38"
+  },
+  "C": {
+   "file": "C.csv",
+   "rows": 1542,
+   "bytes": 117878,
+   "sha256": "3b0a9804576500aa4c2c1cf8b4f05263171c9f67e32322acf757518550288878"
+  },
+  "D": {
+   "file": "D.csv",
+   "rows": 1042,
+   "bytes": 69829,
+   "sha256": "2f60c915e1f1f9d3895c9a880584f6465c6f580f9051294703f3f7abf0581182"
+  },
+  "E": {
+   "file": "E.csv",
+   "rows": 1270,
+   "bytes": 111026,
+   "sha256": "94338b0eaff442f90c95b9662d0cded11e1b72e1536f2279af9137ebf9cbfa74"
+  },
+  "F": {
+   "file": "F.csv",
+   "rows": 1113,
+   "bytes": 87328,
+   "sha256": "21eab29231ba73bc936291ee7d570dd8090a5ffaec43dbcb3a7d0cad1a0dfa03"
+  },
+  "G": {
+   "file": "G.csv",
+   "rows": 932,
+   "bytes": 63856,
+   "sha256": "841c85d65c86c47063672ecd88ef10af97bb0f91a1d69e6f6a743b2e0ebc0fc9"
+  },
+  "H": {
+   "file": "H.csv",
+   "rows": 4346,
+   "bytes": 301031,
+   "sha256": "5a81b69c73d64dc490303206e2d0ecbf08d1b06a4c4cfc18cceb874d8bf921d5"
+  },
+  "I": {
+   "file": "I.csv",
+   "rows": 1810,
+   "bytes": 163748,
+   "sha256": "ed79a5a5f8bc6892e3d16481900c2721106d696f40e7b2690543377f411f6dd8"
+  },
+  "J": {
+   "file": "J.csv",
+   "rows": 478,
+   "bytes": 30218,
+   "sha256": "28280729018acab5860c5c73267535d9ef2165f5bf47e462ca7a56896176d5a5"
+  },
+  "K": {
+   "file": "K.csv",
+   "rows": 1117,
+   "bytes": 74671,
+   "sha256": "3efd3719aa6aef975e39b00bbe4e5c6e9a5313c402042f83c284e9b74573a75d"
+  },
+  "L": {
+   "file": "L.csv",
+   "rows": 1207,
+   "bytes": 85961,
+   "sha256": "7d2f8f4c0593945e6f5d257c54b026ec3c586e2fe442b811fb455c67da90c45c"
+  },
+  "M": {
+   "file": "M.csv",
+   "rows": 8707,
+   "bytes": 704815,
+   "sha256": "ef7845f81177ec9ba4b1da4db4615e05091429451eb02f7a3843eab9e96dfee9"
+  },
+  "N": {
+   "file": "N.csv",
+   "rows": 1047,
+   "bytes": 69060,
+   "sha256": "89fb0f0e06b7eb6fbc0fea31434ed61e221897a7012e7d8e4d83a650bb59a8b1"
+  },
+  "O": {
+   "file": "O.csv",
+   "rows": 3093,
+   "bytes": 291459,
+   "sha256": "1305a020d1b83911e403b07aa94c640ae03f3a530845db07fd170269e87a0ad0"
+  },
+  "P": {
+   "file": "P.csv",
+   "rows": 565,
+   "bytes": 37896,
+   "sha256": "ebe2c645acf56b6d75fc0506285c5f5f29d5065f44fa9a5eeb41806e40740f95"
+  },
+  "Q": {
+   "file": "Q.csv",
+   "rows": 1096,
+   "bytes": 66351,
+   "sha256": "ece552a9d5c0c852335988dffd7f13d1fa85e440f2f0e2d413d0459ba60711e1"
+  },
+  "R": {
+   "file": "R.csv",
+   "rows": 963,
+   "bytes": 62580,
+   "sha256": "8ccfdb1b96b4333b8de7a439cce8ab22dc0006da7542144a0f6cef539c54ed6c"
+  },
+  "S": {
+   "file": "S.csv",
+   "rows": 39931,
+   "bytes": 4535538,
+   "sha256": "5d9e0398906235aa4de7415c5d4c450d7a90b7c542833539c2135a4a31a9272f"
+  },
+  "T": {
+   "file": "T.csv",
+   "rows": 14751,
+   "bytes": 1429325,
+   "sha256": "9299c8d0cbcb458f9015fdc6a80d6f8965507dfe879fbd707272c508414a6dc7"
+  },
+  "U": {
+   "file": "U.csv",
+   "rows": 5,
+   "bytes": 252,
+   "sha256": "2d442cff1e4869256976867defad2f8dfab1d82f1caa53ba67e1708db649c4d9"
+  },
+  "V": {
+   "file": "V.csv",
+   "rows": 6093,
+   "bytes": 775042,
+   "sha256": "e56d38c0ce812116e5a11a22b37b3e1c5ac24757de379c1ba09dd9ace86e0bf6"
+  },
+  "W": {
+   "file": "W.csv",
+   "rows": 1876,
+   "bytes": 152351,
+   "sha256": "ea286e999845c9b7c8d5de30d5ef92bd17167c10f4765af4cedc39b735ed4921"
+  },
+  "X": {
+   "file": "X.csv",
+   "rows": 696,
+   "bytes": 56468,
+   "sha256": "9d2918f94684f8e2a7230be2ff6d9dc7377e6b88b794bd85395196b881489095"
+  },
+  "Y": {
+   "file": "Y.csv",
+   "rows": 2230,
+   "bytes": 233169,
+   "sha256": "fd7f29de283f09da17ad9828d3d5b5579bebea533433196202e8d2645fddb408"
+  },
+  "Z": {
+   "file": "Z.csv",
+   "rows": 1866,
+   "bytes": 137265,
+   "sha256": "218746e14594ec1ab9b5f4cfeb5ee9ecd4133d47077018f1f18a62455233b965"
+  }
+ }
+}

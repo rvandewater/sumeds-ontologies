@@ -1,0 +1,566 @@
+code,description,parent,first_year,last_year
+P00,Newborn affected by maternal conditions that may be unrelated to present pregnancy,,2016,2027
+P00.0,Newborn affected by maternal hypertensive disorders,P00,2016,2027
+P00.1,Newborn affected by maternal renal and urinary tract diseases,P00,2016,2027
+P00.2,Newborn affected by maternal infectious and parasitic diseases,P00,2016,2027
+P00.3,Newborn affected by other maternal circulatory and respiratory diseases,P00,2016,2027
+P00.4,Newborn affected by maternal nutritional disorders,P00,2016,2027
+P00.5,Newborn affected by maternal injury,P00,2016,2027
+P00.6,Newborn affected by surgical procedure on mother,P00,2016,2027
+P00.7,"Newborn affected by other medical procedures on mother, not elsewhere classified",P00,2016,2027
+P00.8,Newborn affected by other maternal conditions,P00,2016,2027
+P00.81,Newborn affected by periodontal disease in mother,P00.8,2016,2027
+P00.82,Newborn affected by (positive) maternal group B streptococcus (GBS) colonization,P00.8,2022,2027
+P00.89,Newborn affected by other maternal conditions,P00.8,2016,2027
+P00.9,Newborn affected by unspecified maternal condition,P00,2016,2027
+P01,Newborn affected by maternal complications of pregnancy,,2016,2027
+P01.0,Newborn affected by incompetent cervix,P01,2016,2027
+P01.1,Newborn affected by premature rupture of membranes,P01,2016,2027
+P01.2,Newborn affected by oligohydramnios,P01,2016,2027
+P01.3,Newborn affected by polyhydramnios,P01,2016,2027
+P01.4,Newborn affected by ectopic pregnancy,P01,2016,2027
+P01.5,Newborn affected by multiple pregnancy,P01,2016,2027
+P01.6,Newborn affected by maternal death,P01,2016,2027
+P01.7,Newborn affected by malpresentation before labor,P01,2016,2027
+P01.8,Newborn affected by other maternal complications of pregnancy,P01,2016,2027
+P01.9,"Newborn affected by maternal complication of pregnancy, unspecified",P01,2016,2027
+P02,"Newborn affected by complications of placenta, cord and membranes",,2016,2027
+P02.0,Newborn affected by placenta previa,P02,2016,2027
+P02.1,Newborn affected by other forms of placental separation and hemorrhage,P02,2016,2027
+P02.2,Newborn affected by other and unspecified morphological and functional abnormalities of placenta,P02,2016,2027
+P02.20,Newborn affected by unspecified morphological and functional abnormalities of placenta,P02.2,2016,2027
+P02.29,Newborn affected by other morphological and functional abnormalities of placenta,P02.2,2016,2027
+P02.3,Newborn affected by placental transfusion syndromes,P02,2016,2027
+P02.4,Newborn affected by prolapsed cord,P02,2016,2027
+P02.5,Newborn affected by other compression of umbilical cord,P02,2016,2027
+P02.6,Newborn affected by other and unspecified conditions of umbilical cord,P02,2016,2027
+P02.60,Newborn affected by unspecified conditions of umbilical cord,P02.6,2016,2027
+P02.69,Newborn affected by other conditions of umbilical cord,P02.6,2016,2027
+P02.7,Newborn affected by chorioamnionitis,P02,2016,2027
+P02.70,Newborn affected by fetal inflammatory response syndrome,P02.7,2019,2027
+P02.78,Newborn affected by other conditions from chorioamnionitis,P02.7,2019,2027
+P02.8,Newborn affected by other abnormalities of membranes,P02,2016,2027
+P02.9,"Newborn affected by abnormality of membranes, unspecified",P02,2016,2027
+P03,Newborn affected by other complications of labor and delivery,,2016,2027
+P03.0,Newborn affected by breech delivery and extraction,P03,2016,2027
+P03.1,"Newborn affected by other malpresentation, malposition and disproportion during labor and delivery",P03,2016,2027
+P03.2,Newborn affected by forceps delivery,P03,2016,2027
+P03.3,Newborn affected by delivery by vacuum extractor [ventouse],P03,2016,2027
+P03.4,Newborn affected by Cesarean delivery,P03,2016,2027
+P03.5,Newborn affected by precipitate delivery,P03,2016,2027
+P03.6,Newborn affected by abnormal uterine contractions,P03,2016,2027
+P03.8,Newborn affected by other specified complications of labor and delivery,P03,2016,2027
+P03.81,Newborn affected by abnormality in fetal (intrauterine) heart rate or rhythm,P03.8,2016,2027
+P03.810,Newborn affected by abnormality in fetal (intrauterine) heart rate or rhythm before the onset of labor,P03.81,2016,2027
+P03.811,Newborn affected by abnormality in fetal (intrauterine) heart rate or rhythm during labor,P03.81,2016,2027
+P03.819,"Newborn affected by abnormality in fetal (intrauterine) heart rate or rhythm, unspecified as to time of onset",P03.81,2016,2027
+P03.82,Meconium passage during delivery,P03.8,2016,2027
+P03.89,Newborn affected by other specified complications of labor and delivery,P03.8,2016,2027
+P03.9,"Newborn affected by complication of labor and delivery, unspecified",P03,2016,2027
+P04,Newborn affected by noxious substances transmitted via placenta or breast milk,,2016,2027
+P04.0,"Newborn affected by maternal anesthesia and analgesia in pregnancy, labor and delivery",P04,2016,2027
+P04.1,Newborn affected by other maternal medication,P04,2016,2027
+P04.11,Newborn affected by maternal antineoplastic chemotherapy,P04.1,2019,2027
+P04.12,Newborn affected by maternal cytotoxic drugs,P04.1,2019,2027
+P04.13,Newborn affected by maternal use of anticonvulsants,P04.1,2019,2027
+P04.14,Newborn affected by maternal use of opiates,P04.1,2019,2027
+P04.15,Newborn affected by maternal use of antidepressants,P04.1,2019,2027
+P04.16,Newborn affected by maternal use of amphetamines,P04.1,2019,2027
+P04.17,Newborn affected by maternal use of sedative-hypnotics,P04.1,2019,2027
+P04.18,Newborn affected by other maternal medication,P04.1,2019,2027
+P04.19,Newborn affected by maternal use of unspecified medication,P04.1,2019,2027
+P04.1A,Newborn affected by maternal use of anxiolytics,P04.1,2019,2027
+P04.2,Newborn affected by maternal use of tobacco,P04,2016,2027
+P04.3,Newborn affected by maternal use of alcohol,P04,2016,2027
+P04.4,Newborn affected by maternal use of drugs of addiction,P04,2016,2027
+P04.40,Newborn affected by maternal use of unspecified drugs of addiction,P04.4,2019,2027
+P04.41,Newborn affected by maternal use of cocaine,P04.4,2016,2027
+P04.42,Newborn affected by maternal use of hallucinogens,P04.4,2019,2027
+P04.49,Newborn affected by maternal use of other drugs of addiction,P04.4,2016,2027
+P04.5,Newborn affected by maternal use of nutritional chemical substances,P04,2016,2027
+P04.6,Newborn affected by maternal exposure to environmental chemical substances,P04,2016,2027
+P04.8,Newborn affected by other maternal noxious substances,P04,2016,2027
+P04.81,Newborn affected by maternal use of cannabis,P04.8,2019,2027
+P04.89,Newborn affected by other maternal noxious substances,P04.8,2019,2027
+P04.9,"Newborn affected by maternal noxious substance, unspecified",P04,2016,2027
+P05,Disorders of newborn related to slow fetal growth and fetal malnutrition,,2016,2027
+P05.0,Newborn light for gestational age,P05,2016,2027
+P05.00,"Newborn light for gestational age, unspecified weight",P05.0,2016,2027
+P05.01,"Newborn light for gestational age, less than 500 grams",P05.0,2016,2027
+P05.02,"Newborn light for gestational age, 500-749 grams",P05.0,2016,2027
+P05.03,"Newborn light for gestational age, 750-999 grams",P05.0,2016,2027
+P05.04,"Newborn light for gestational age, 1000-1249 grams",P05.0,2016,2027
+P05.05,"Newborn light for gestational age, 1250-1499 grams",P05.0,2016,2027
+P05.06,"Newborn light for gestational age, 1500-1749 grams",P05.0,2016,2027
+P05.07,"Newborn light for gestational age, 1750-1999 grams",P05.0,2016,2027
+P05.08,"Newborn light for gestational age, 2000-2499 grams",P05.0,2016,2027
+P05.09,"Newborn light for gestational age, 2500 grams and over",P05.0,2017,2027
+P05.1,Newborn small for gestational age,P05,2016,2027
+P05.10,"Newborn small for gestational age, unspecified weight",P05.1,2016,2027
+P05.11,"Newborn small for gestational age, less than 500 grams",P05.1,2016,2027
+P05.12,"Newborn small for gestational age, 500-749 grams",P05.1,2016,2027
+P05.13,"Newborn small for gestational age, 750-999 grams",P05.1,2016,2027
+P05.14,"Newborn small for gestational age, 1000-1249 grams",P05.1,2016,2027
+P05.15,"Newborn small for gestational age, 1250-1499 grams",P05.1,2016,2027
+P05.16,"Newborn small for gestational age, 1500-1749 grams",P05.1,2016,2027
+P05.17,"Newborn small for gestational age, 1750-1999 grams",P05.1,2016,2027
+P05.18,"Newborn small for gestational age, 2000-2499 grams",P05.1,2016,2027
+P05.19,"Newborn small for gestational age, other",P05.1,2017,2027
+P05.2,Newborn affected by fetal (intrauterine) malnutrition not light or small for gestational age,P05,2016,2027
+P05.9,"Newborn affected by slow intrauterine growth, unspecified",P05,2016,2027
+P07,"Disorders of newborn related to short gestation and low birth weight, not elsewhere classified",,2016,2027
+P07.0,Extremely low birth weight newborn,P07,2016,2027
+P07.00,"Extremely low birth weight newborn, unspecified weight",P07.0,2016,2027
+P07.01,"Extremely low birth weight newborn, less than 500 grams",P07.0,2016,2027
+P07.02,"Extremely low birth weight newborn, 500-749 grams",P07.0,2016,2027
+P07.03,"Extremely low birth weight newborn, 750-999 grams",P07.0,2016,2027
+P07.1,Other low birth weight newborn,P07,2016,2027
+P07.10,"Other low birth weight newborn, unspecified weight",P07.1,2016,2027
+P07.14,"Other low birth weight newborn, 1000-1249 grams",P07.1,2016,2027
+P07.15,"Other low birth weight newborn, 1250-1499 grams",P07.1,2016,2027
+P07.16,"Other low birth weight newborn, 1500-1749 grams",P07.1,2016,2027
+P07.17,"Other low birth weight newborn, 1750-1999 grams",P07.1,2016,2027
+P07.18,"Other low birth weight newborn, 2000-2499 grams",P07.1,2016,2027
+P07.2,Extreme immaturity of newborn,P07,2016,2027
+P07.20,"Extreme immaturity of newborn, unspecified weeks of gestation",P07.2,2016,2027
+P07.21,"Extreme immaturity of newborn, gestational age less than 23 completed weeks",P07.2,2016,2027
+P07.22,"Extreme immaturity of newborn, gestational age 23 completed weeks",P07.2,2016,2027
+P07.23,"Extreme immaturity of newborn, gestational age 24 completed weeks",P07.2,2016,2027
+P07.24,"Extreme immaturity of newborn, gestational age 25 completed weeks",P07.2,2016,2027
+P07.25,"Extreme immaturity of newborn, gestational age 26 completed weeks",P07.2,2016,2027
+P07.26,"Extreme immaturity of newborn, gestational age 27 completed weeks",P07.2,2016,2027
+P07.3,Preterm [premature] newborn [other],P07,2016,2027
+P07.30,"Preterm newborn, unspecified weeks of gestation",P07.3,2016,2027
+P07.31,"Preterm newborn, gestational age 28 completed weeks",P07.3,2016,2027
+P07.32,"Preterm newborn, gestational age 29 completed weeks",P07.3,2016,2027
+P07.33,"Preterm newborn, gestational age 30 completed weeks",P07.3,2016,2027
+P07.34,"Preterm newborn, gestational age 31 completed weeks",P07.3,2016,2027
+P07.35,"Preterm newborn, gestational age 32 completed weeks",P07.3,2016,2027
+P07.36,"Preterm newborn, gestational age 33 completed weeks",P07.3,2016,2027
+P07.37,"Preterm newborn, gestational age 34 completed weeks",P07.3,2016,2027
+P07.38,"Preterm newborn, gestational age 35 completed weeks",P07.3,2016,2027
+P07.39,"Preterm newborn, gestational age 36 completed weeks",P07.3,2016,2027
+P08,Disorders of newborn related to long gestation and high birth weight,,2016,2027
+P08.0,Exceptionally large newborn baby,P08,2016,2027
+P08.1,Other heavy for gestational age newborn,P08,2016,2027
+P08.2,"Late newborn, not heavy for gestational age",P08,2016,2027
+P08.21,Post-term newborn,P08.2,2016,2027
+P08.22,Prolonged gestation of newborn,P08.2,2016,2027
+P09,Abnormal findings on neonatal screening,,2016,2027
+P09.1,Abnormal findings on neonatal screening for inborn errors of metabolism,P09,2022,2027
+P09.2,Abnormal findings on neonatal screening for congenital endocrine disease,P09,2022,2027
+P09.3,Abnormal findings on neonatal screening for congenital hematologic disorders,P09,2022,2027
+P09.4,Abnormal findings on neonatal screening for cystic fibrosis,P09,2022,2027
+P09.5,Abnormal findings on neonatal screening for critical congenital heart disease,P09,2022,2027
+P09.6,Abnormal findings on neonatal hearing screening,P09,2022,2027
+P09.8,Other abnormal findings on neonatal screening,P09,2022,2027
+P09.9,"Abnormal findings on neonatal screening, unspecified",P09,2022,2027
+P10,Intracranial laceration and hemorrhage due to birth injury,,2016,2027
+P10.0,Subdural hemorrhage due to birth injury,P10,2016,2027
+P10.1,Cerebral hemorrhage due to birth injury,P10,2016,2027
+P10.2,Intraventricular hemorrhage due to birth injury,P10,2016,2027
+P10.3,Subarachnoid hemorrhage due to birth injury,P10,2016,2027
+P10.4,Tentorial tear due to birth injury,P10,2016,2027
+P10.8,Other intracranial lacerations and hemorrhages due to birth injury,P10,2016,2027
+P10.9,Unspecified intracranial laceration and hemorrhage due to birth injury,P10,2016,2027
+P11,Other birth injuries to central nervous system,,2016,2027
+P11.0,Cerebral edema due to birth injury,P11,2016,2027
+P11.1,Other specified brain damage due to birth injury,P11,2016,2027
+P11.2,Unspecified brain damage due to birth injury,P11,2016,2027
+P11.3,Birth injury to facial nerve,P11,2016,2027
+P11.4,Birth injury to other cranial nerves,P11,2016,2027
+P11.5,Birth injury to spine and spinal cord,P11,2016,2027
+P11.9,"Birth injury to central nervous system, unspecified",P11,2016,2027
+P12,Birth injury to scalp,,2016,2027
+P12.0,Cephalhematoma due to birth injury,P12,2016,2027
+P12.1,Chignon (from vacuum extraction) due to birth injury,P12,2016,2027
+P12.2,Epicranial subaponeurotic hemorrhage due to birth injury,P12,2016,2027
+P12.3,Bruising of scalp due to birth injury,P12,2016,2027
+P12.4,Injury of scalp of newborn due to monitoring equipment,P12,2016,2027
+P12.8,Other birth injuries to scalp,P12,2016,2027
+P12.81,Caput succedaneum,P12.8,2016,2027
+P12.89,Other birth injuries to scalp,P12.8,2016,2027
+P12.9,"Birth injury to scalp, unspecified",P12,2016,2027
+P13,Birth injury to skeleton,,2016,2027
+P13.0,Fracture of skull due to birth injury,P13,2016,2027
+P13.1,Other birth injuries to skull,P13,2016,2027
+P13.2,Birth injury to femur,P13,2016,2027
+P13.3,Birth injury to other long bones,P13,2016,2027
+P13.4,Fracture of clavicle due to birth injury,P13,2016,2027
+P13.8,Birth injuries to other parts of skeleton,P13,2016,2027
+P13.9,"Birth injury to skeleton, unspecified",P13,2016,2027
+P14,Birth injury to peripheral nervous system,,2016,2027
+P14.0,Erb's paralysis due to birth injury,P14,2016,2027
+P14.1,Klumpke's paralysis due to birth injury,P14,2016,2027
+P14.2,Phrenic nerve paralysis due to birth injury,P14,2016,2027
+P14.3,Other brachial plexus birth injuries,P14,2016,2027
+P14.8,Birth injuries to other parts of peripheral nervous system,P14,2016,2027
+P14.9,"Birth injury to peripheral nervous system, unspecified",P14,2016,2027
+P15,Other birth injuries,,2016,2027
+P15.0,Birth injury to liver,P15,2016,2027
+P15.1,Birth injury to spleen,P15,2016,2027
+P15.2,Sternomastoid injury due to birth injury,P15,2016,2027
+P15.3,Birth injury to eye,P15,2016,2027
+P15.4,Birth injury to face,P15,2016,2027
+P15.5,Birth injury to external genitalia,P15,2016,2027
+P15.6,Subcutaneous fat necrosis due to birth injury,P15,2016,2027
+P15.8,Other specified birth injuries,P15,2016,2027
+P15.9,"Birth injury, unspecified",P15,2016,2027
+P19,Metabolic acidemia in newborn,,2016,2027
+P19.0,Metabolic acidemia in newborn first noted before onset of labor,P19,2016,2027
+P19.1,Metabolic acidemia in newborn first noted during labor,P19,2016,2027
+P19.2,Metabolic acidemia noted at birth,P19,2016,2027
+P19.9,"Metabolic acidemia in newborn, unspecified",P19,2016,2027
+P22,Respiratory distress of newborn,,2016,2027
+P22.0,Respiratory distress syndrome of newborn,P22,2016,2027
+P22.1,Transient tachypnea of newborn,P22,2016,2027
+P22.8,Other respiratory distress of newborn,P22,2016,2027
+P22.9,"Respiratory distress of newborn, unspecified",P22,2016,2027
+P23,Congenital pneumonia,,2016,2027
+P23.0,Congenital pneumonia due to viral agent,P23,2016,2027
+P23.1,Congenital pneumonia due to Chlamydia,P23,2016,2027
+P23.2,Congenital pneumonia due to staphylococcus,P23,2016,2027
+P23.3,"Congenital pneumonia due to streptococcus, group B",P23,2016,2027
+P23.4,Congenital pneumonia due to Escherichia coli,P23,2016,2027
+P23.5,Congenital pneumonia due to Pseudomonas,P23,2016,2027
+P23.6,Congenital pneumonia due to other bacterial agents,P23,2016,2027
+P23.8,Congenital pneumonia due to other organisms,P23,2016,2027
+P23.9,"Congenital pneumonia, unspecified",P23,2016,2027
+P24,Neonatal aspiration,,2016,2027
+P24.0,Meconium aspiration,P24,2016,2027
+P24.00,Meconium aspiration without respiratory symptoms,P24.0,2016,2027
+P24.01,Meconium aspiration with respiratory symptoms,P24.0,2016,2027
+P24.1,Neonatal aspiration of (clear) amniotic fluid and mucus,P24,2016,2027
+P24.10,Neonatal aspiration of (clear) amniotic fluid and mucus without respiratory symptoms,P24.1,2016,2027
+P24.11,Neonatal aspiration of (clear) amniotic fluid and mucus with respiratory symptoms,P24.1,2016,2027
+P24.2,Neonatal aspiration of blood,P24,2016,2027
+P24.20,Neonatal aspiration of blood without respiratory symptoms,P24.2,2016,2027
+P24.21,Neonatal aspiration of blood with respiratory symptoms,P24.2,2016,2027
+P24.3,Neonatal aspiration of milk and regurgitated food,P24,2016,2027
+P24.30,Neonatal aspiration of milk and regurgitated food without respiratory symptoms,P24.3,2016,2027
+P24.31,Neonatal aspiration of milk and regurgitated food with respiratory symptoms,P24.3,2016,2027
+P24.8,Other neonatal aspiration,P24,2016,2027
+P24.80,Other neonatal aspiration without respiratory symptoms,P24.8,2016,2027
+P24.81,Other neonatal aspiration with respiratory symptoms,P24.8,2016,2027
+P24.9,"Neonatal aspiration, unspecified",P24,2016,2027
+P25,Interstitial emphysema and related conditions originating in the perinatal period,,2016,2027
+P25.0,Interstitial emphysema originating in the perinatal period,P25,2016,2027
+P25.1,Pneumothorax originating in the perinatal period,P25,2016,2027
+P25.2,Pneumomediastinum originating in the perinatal period,P25,2016,2027
+P25.3,Pneumopericardium originating in the perinatal period,P25,2016,2027
+P25.8,Other conditions related to interstitial emphysema originating in the perinatal period,P25,2016,2027
+P26,Pulmonary hemorrhage originating in the perinatal period,,2016,2027
+P26.0,Tracheobronchial hemorrhage originating in the perinatal period,P26,2016,2027
+P26.1,Massive pulmonary hemorrhage originating in the perinatal period,P26,2016,2027
+P26.8,Other pulmonary hemorrhages originating in the perinatal period,P26,2016,2027
+P26.9,Unspecified pulmonary hemorrhage originating in the perinatal period,P26,2016,2027
+P27,Chronic respiratory disease originating in the perinatal period,,2016,2027
+P27.0,Wilson-Mikity syndrome,P27,2016,2027
+P27.1,Bronchopulmonary dysplasia originating in the perinatal period,P27,2016,2027
+P27.8,Other chronic respiratory diseases originating in the perinatal period,P27,2016,2027
+P27.9,Unspecified chronic respiratory disease originating in the perinatal period,P27,2016,2027
+P28,Other respiratory conditions originating in the perinatal period,,2016,2027
+P28.0,Primary atelectasis of newborn,P28,2016,2027
+P28.1,Other and unspecified atelectasis of newborn,P28,2016,2027
+P28.10,Unspecified atelectasis of newborn,P28.1,2016,2027
+P28.11,Resorption atelectasis without respiratory distress syndrome,P28.1,2016,2027
+P28.19,Other atelectasis of newborn,P28.1,2016,2027
+P28.2,Cyanotic attacks of newborn,P28,2016,2027
+P28.3,Primary sleep apnea of newborn,P28,2016,2027
+P28.30,"Primary sleep apnea of newborn, unspecified",P28.3,2023,2027
+P28.31,Primary central sleep apnea of newborn,P28.3,2023,2027
+P28.32,Primary obstructive sleep apnea of newborn,P28.3,2023,2027
+P28.33,Primary mixed sleep apnea of newborn,P28.3,2023,2027
+P28.39,Other primary sleep apnea of newborn,P28.3,2023,2027
+P28.4,Other apnea of newborn,P28,2016,2027
+P28.40,Unspecified apnea of newborn,P28.4,2023,2027
+P28.41,Central neonatal apnea of newborn,P28.4,2023,2027
+P28.42,Obstructive apnea of newborn,P28.4,2023,2027
+P28.43,Mixed neonatal apnea of newborn,P28.4,2023,2027
+P28.49,Other apnea of newborn,P28.4,2023,2027
+P28.5,Respiratory failure of newborn,P28,2016,2027
+P28.8,Other specified respiratory conditions of newborn,P28,2016,2027
+P28.81,Respiratory arrest of newborn,P28.8,2016,2027
+P28.89,Other specified respiratory conditions of newborn,P28.8,2016,2027
+P28.9,"Respiratory condition of newborn, unspecified",P28,2016,2027
+P29,Cardiovascular disorders originating in the perinatal period,,2016,2027
+P29.0,Neonatal cardiac failure,P29,2016,2027
+P29.1,Neonatal cardiac dysrhythmia,P29,2016,2027
+P29.11,Neonatal tachycardia,P29.1,2016,2027
+P29.12,Neonatal bradycardia,P29.1,2016,2027
+P29.2,Neonatal hypertension,P29,2016,2027
+P29.3,Persistent fetal circulation,P29,2016,2027
+P29.30,Pulmonary hypertension of newborn,P29.3,2018,2027
+P29.38,Other persistent fetal circulation,P29.3,2018,2027
+P29.4,Transient myocardial ischemia in newborn,P29,2016,2027
+P29.8,Other cardiovascular disorders originating in the perinatal period,P29,2016,2027
+P29.81,Cardiac arrest of newborn,P29.8,2016,2027
+P29.89,Other cardiovascular disorders originating in the perinatal period,P29.8,2016,2027
+P29.9,"Cardiovascular disorder originating in the perinatal period, unspecified",P29,2016,2027
+P35,Congenital viral diseases,,2016,2027
+P35.0,Congenital rubella syndrome,P35,2016,2027
+P35.1,Congenital cytomegalovirus infection,P35,2016,2027
+P35.2,Congenital herpesviral [herpes simplex] infection,P35,2016,2027
+P35.3,Congenital viral hepatitis,P35,2016,2027
+P35.4,Congenital Zika virus disease,P35,2019,2027
+P35.8,Other congenital viral diseases,P35,2016,2027
+P35.9,"Congenital viral disease, unspecified",P35,2016,2027
+P36,Bacterial sepsis of newborn,,2016,2027
+P36.0,"Sepsis of newborn due to streptococcus, group B",P36,2016,2027
+P36.1,Sepsis of newborn due to other and unspecified streptococci,P36,2016,2027
+P36.10,Sepsis of newborn due to unspecified streptococci,P36.1,2016,2027
+P36.19,Sepsis of newborn due to other streptococci,P36.1,2016,2027
+P36.2,Sepsis of newborn due to Staphylococcus aureus,P36,2016,2027
+P36.3,Sepsis of newborn due to other and unspecified staphylococci,P36,2016,2027
+P36.30,Sepsis of newborn due to unspecified staphylococci,P36.3,2016,2027
+P36.39,Sepsis of newborn due to other staphylococci,P36.3,2016,2027
+P36.4,Sepsis of newborn due to Escherichia coli,P36,2016,2027
+P36.5,Sepsis of newborn due to anaerobes,P36,2016,2027
+P36.8,Other bacterial sepsis of newborn,P36,2016,2027
+P36.9,"Bacterial sepsis of newborn, unspecified",P36,2016,2027
+P37,Other congenital infectious and parasitic diseases,,2016,2027
+P37.0,Congenital tuberculosis,P37,2016,2027
+P37.1,Congenital toxoplasmosis,P37,2016,2027
+P37.2,Neonatal (disseminated) listeriosis,P37,2016,2027
+P37.3,Congenital falciparum malaria,P37,2016,2027
+P37.4,Other congenital malaria,P37,2016,2027
+P37.5,Neonatal candidiasis,P37,2016,2027
+P37.8,Other specified congenital infectious and parasitic diseases,P37,2016,2027
+P37.9,"Congenital infectious or parasitic disease, unspecified",P37,2016,2027
+P38,Omphalitis of newborn,,2016,2027
+P38.1,Omphalitis with mild hemorrhage,P38,2016,2027
+P38.9,Omphalitis without hemorrhage,P38,2016,2027
+P39,Other infections specific to the perinatal period,,2016,2027
+P39.0,Neonatal infective mastitis,P39,2016,2027
+P39.1,Neonatal conjunctivitis and dacryocystitis,P39,2016,2027
+P39.2,"Intra-amniotic infection affecting newborn, not elsewhere classified",P39,2016,2027
+P39.3,Neonatal urinary tract infection,P39,2016,2027
+P39.4,Neonatal skin infection,P39,2016,2027
+P39.8,Other specified infections specific to the perinatal period,P39,2016,2027
+P39.9,"Infection specific to the perinatal period, unspecified",P39,2016,2027
+P50,Newborn affected by intrauterine (fetal) blood loss,,2016,2027
+P50.0,Newborn affected by intrauterine (fetal) blood loss from vasa previa,P50,2016,2027
+P50.1,Newborn affected by intrauterine (fetal) blood loss from ruptured cord,P50,2016,2027
+P50.2,Newborn affected by intrauterine (fetal) blood loss from placenta,P50,2016,2027
+P50.3,Newborn affected by hemorrhage into co-twin,P50,2016,2027
+P50.4,Newborn affected by hemorrhage into maternal circulation,P50,2016,2027
+P50.5,Newborn affected by intrauterine (fetal) blood loss from cut end of co-twin's cord,P50,2016,2027
+P50.8,Newborn affected by other intrauterine (fetal) blood loss,P50,2016,2027
+P50.9,"Newborn affected by intrauterine (fetal) blood loss, unspecified",P50,2016,2027
+P51,Umbilical hemorrhage of newborn,,2016,2027
+P51.0,Massive umbilical hemorrhage of newborn,P51,2016,2027
+P51.8,Other umbilical hemorrhages of newborn,P51,2016,2027
+P51.9,"Umbilical hemorrhage of newborn, unspecified",P51,2016,2027
+P52,Intracranial nontraumatic hemorrhage of newborn,,2016,2027
+P52.0,"Intraventricular (nontraumatic) hemorrhage, grade 1, of newborn",P52,2016,2027
+P52.1,"Intraventricular (nontraumatic) hemorrhage, grade 2, of newborn",P52,2016,2027
+P52.2,"Intraventricular (nontraumatic) hemorrhage, grade 3 and grade 4, of newborn",P52,2016,2027
+P52.21,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",P52.2,2016,2027
+P52.22,"Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",P52.2,2016,2027
+P52.3,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,P52,2016,2027
+P52.4,Intracerebral (nontraumatic) hemorrhage of newborn,P52,2016,2027
+P52.5,Subarachnoid (nontraumatic) hemorrhage of newborn,P52,2016,2027
+P52.6,Cerebellar (nontraumatic) and posterior fossa hemorrhage of newborn,P52,2016,2027
+P52.8,Other intracranial (nontraumatic) hemorrhages of newborn,P52,2016,2027
+P52.9,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",P52,2016,2027
+P53,Hemorrhagic disease of newborn,,2016,2027
+P54,Other neonatal hemorrhages,,2016,2027
+P54.0,Neonatal hematemesis,P54,2016,2027
+P54.1,Neonatal melena,P54,2016,2027
+P54.2,Neonatal rectal hemorrhage,P54,2016,2027
+P54.3,Other neonatal gastrointestinal hemorrhage,P54,2016,2027
+P54.4,Neonatal adrenal hemorrhage,P54,2016,2027
+P54.5,Neonatal cutaneous hemorrhage,P54,2016,2027
+P54.6,Neonatal vaginal hemorrhage,P54,2016,2027
+P54.8,Other specified neonatal hemorrhages,P54,2016,2027
+P54.9,"Neonatal hemorrhage, unspecified",P54,2016,2027
+P55,Hemolytic disease of newborn,,2016,2027
+P55.0,Rh isoimmunization of newborn,P55,2016,2027
+P55.1,ABO isoimmunization of newborn,P55,2016,2027
+P55.8,Other hemolytic diseases of newborn,P55,2016,2027
+P55.9,"Hemolytic disease of newborn, unspecified",P55,2016,2027
+P56,Hydrops fetalis due to hemolytic disease,,2016,2027
+P56.0,Hydrops fetalis due to isoimmunization,P56,2016,2027
+P56.9,Hydrops fetalis due to other and unspecified hemolytic disease,P56,2016,2027
+P56.90,Hydrops fetalis due to unspecified hemolytic disease,P56.9,2016,2027
+P56.99,Hydrops fetalis due to other hemolytic disease,P56.9,2016,2027
+P57,Kernicterus,,2016,2027
+P57.0,Kernicterus due to isoimmunization,P57,2016,2027
+P57.8,Other specified kernicterus,P57,2016,2027
+P57.9,"Kernicterus, unspecified",P57,2016,2027
+P58,Neonatal jaundice due to other excessive hemolysis,,2016,2027
+P58.0,Neonatal jaundice due to bruising,P58,2016,2027
+P58.1,Neonatal jaundice due to bleeding,P58,2016,2027
+P58.2,Neonatal jaundice due to infection,P58,2016,2027
+P58.3,Neonatal jaundice due to polycythemia,P58,2016,2027
+P58.4,Neonatal jaundice due to drugs or toxins transmitted from mother or given to newborn,P58,2016,2027
+P58.41,Neonatal jaundice due to drugs or toxins transmitted from mother,P58.4,2016,2027
+P58.42,Neonatal jaundice due to drugs or toxins given to newborn,P58.4,2016,2027
+P58.5,Neonatal jaundice due to swallowed maternal blood,P58,2016,2027
+P58.8,Neonatal jaundice due to other specified excessive hemolysis,P58,2016,2027
+P58.9,"Neonatal jaundice due to excessive hemolysis, unspecified",P58,2016,2027
+P59,Neonatal jaundice from other and unspecified causes,,2016,2027
+P59.0,Neonatal jaundice associated with preterm delivery,P59,2016,2027
+P59.1,Inspissated bile syndrome,P59,2016,2027
+P59.2,Neonatal jaundice from other and unspecified hepatocellular damage,P59,2016,2027
+P59.20,Neonatal jaundice from unspecified hepatocellular damage,P59.2,2016,2027
+P59.29,Neonatal jaundice from other hepatocellular damage,P59.2,2016,2027
+P59.3,Neonatal jaundice from breast milk inhibitor,P59,2016,2027
+P59.8,Neonatal jaundice from other specified causes,P59,2016,2027
+P59.9,"Neonatal jaundice, unspecified",P59,2016,2027
+P60,Disseminated intravascular coagulation of newborn,,2016,2027
+P61,Other perinatal hematological disorders,,2016,2027
+P61.0,Transient neonatal thrombocytopenia,P61,2016,2027
+P61.1,Polycythemia neonatorum,P61,2016,2027
+P61.2,Anemia of prematurity,P61,2016,2027
+P61.3,Congenital anemia from fetal blood loss,P61,2016,2027
+P61.4,"Other congenital anemias, not elsewhere classified",P61,2016,2027
+P61.5,Transient neonatal neutropenia,P61,2016,2027
+P61.6,Other transient neonatal disorders of coagulation,P61,2016,2027
+P61.8,Other specified perinatal hematological disorders,P61,2016,2027
+P61.9,"Perinatal hematological disorder, unspecified",P61,2016,2027
+P70,Transitory disorders of carbohydrate metabolism specific to newborn,,2016,2027
+P70.0,Syndrome of infant of mother with gestational diabetes,P70,2016,2027
+P70.1,Syndrome of infant of a diabetic mother,P70,2016,2027
+P70.2,Neonatal diabetes mellitus,P70,2016,2027
+P70.3,Iatrogenic neonatal hypoglycemia,P70,2016,2027
+P70.4,Other neonatal hypoglycemia,P70,2016,2027
+P70.8,Other transitory disorders of carbohydrate metabolism of newborn,P70,2016,2027
+P70.9,"Transitory disorder of carbohydrate metabolism of newborn, unspecified",P70,2016,2027
+P71,Transitory neonatal disorders of calcium and magnesium metabolism,,2016,2027
+P71.0,Cow's milk hypocalcemia in newborn,P71,2016,2027
+P71.1,Other neonatal hypocalcemia,P71,2016,2027
+P71.2,Neonatal hypomagnesemia,P71,2016,2027
+P71.3,Neonatal tetany without calcium or magnesium deficiency,P71,2016,2027
+P71.4,Transitory neonatal hypoparathyroidism,P71,2016,2027
+P71.8,Other transitory neonatal disorders of calcium and magnesium metabolism,P71,2016,2027
+P71.9,"Transitory neonatal disorder of calcium and magnesium metabolism, unspecified",P71,2016,2027
+P72,Other transitory neonatal endocrine disorders,,2016,2027
+P72.0,"Neonatal goiter, not elsewhere classified",P72,2016,2027
+P72.1,Transitory neonatal hyperthyroidism,P72,2016,2027
+P72.2,"Other transitory neonatal disorders of thyroid function, not elsewhere classified",P72,2016,2027
+P72.8,Other specified transitory neonatal endocrine disorders,P72,2016,2027
+P72.9,"Transitory neonatal endocrine disorder, unspecified",P72,2016,2027
+P74,Other transitory neonatal electrolyte and metabolic disturbances,,2016,2027
+P74.0,Late metabolic acidosis of newborn,P74,2016,2027
+P74.1,Dehydration of newborn,P74,2016,2027
+P74.2,Disturbances of sodium balance of newborn,P74,2016,2027
+P74.21,Hypernatremia of newborn,P74.2,2019,2027
+P74.22,Hyponatremia of newborn,P74.2,2019,2027
+P74.3,Disturbances of potassium balance of newborn,P74,2016,2027
+P74.31,Hyperkalemia of newborn,P74.3,2019,2027
+P74.32,Hypokalemia of newborn,P74.3,2019,2027
+P74.4,Other transitory electrolyte disturbances of newborn,P74,2016,2027
+P74.41,Alkalosis of newborn,P74.4,2019,2027
+P74.42,Disturbances of chlorine balance of newborn,P74.4,2019,2027
+P74.421,Hyperchloremia of newborn,P74.42,2019,2027
+P74.422,Hypochloremia of newborn,P74.42,2019,2027
+P74.49,Other transitory electrolyte disturbance of newborn,P74.4,2019,2027
+P74.5,Transitory tyrosinemia of newborn,P74,2016,2027
+P74.6,Transitory hyperammonemia of newborn,P74,2016,2027
+P74.8,Other transitory metabolic disturbances of newborn,P74,2016,2027
+P74.9,"Transitory metabolic disturbance of newborn, unspecified",P74,2016,2027
+P76,Other intestinal obstruction of newborn,,2016,2027
+P76.0,Meconium plug syndrome,P76,2016,2027
+P76.1,Transitory ileus of newborn,P76,2016,2027
+P76.2,Intestinal obstruction due to inspissated milk,P76,2016,2027
+P76.8,Other specified intestinal obstruction of newborn,P76,2016,2027
+P76.9,"Intestinal obstruction of newborn, unspecified",P76,2016,2027
+P77,Necrotizing enterocolitis of newborn,,2016,2027
+P77.1,Stage 1 necrotizing enterocolitis in newborn,P77,2016,2027
+P77.2,Stage 2 necrotizing enterocolitis in newborn,P77,2016,2027
+P77.3,Stage 3 necrotizing enterocolitis in newborn,P77,2016,2027
+P77.9,"Necrotizing enterocolitis in newborn, unspecified",P77,2016,2027
+P78,Other perinatal digestive system disorders,,2016,2027
+P78.0,Perinatal intestinal perforation,P78,2016,2027
+P78.1,Other neonatal peritonitis,P78,2016,2027
+P78.2,Neonatal hematemesis and melena due to swallowed maternal blood,P78,2016,2027
+P78.3,Noninfective neonatal diarrhea,P78,2016,2027
+P78.8,Other specified perinatal digestive system disorders,P78,2016,2027
+P78.81,Congenital cirrhosis (of liver),P78.8,2016,2027
+P78.82,Peptic ulcer of newborn,P78.8,2016,2027
+P78.83,Newborn esophageal reflux,P78.8,2016,2027
+P78.84,Gestational alloimmune liver disease,P78.8,2018,2027
+P78.89,Other specified perinatal digestive system disorders,P78.8,2016,2027
+P78.9,"Perinatal digestive system disorder, unspecified",P78,2016,2027
+P80,Hypothermia of newborn,,2016,2027
+P80.0,Cold injury syndrome,P80,2016,2027
+P80.8,Other hypothermia of newborn,P80,2016,2027
+P80.9,"Hypothermia of newborn, unspecified",P80,2016,2027
+P81,Other disturbances of temperature regulation of newborn,,2016,2027
+P81.0,Environmental hyperthermia of newborn,P81,2016,2027
+P81.8,Other specified disturbances of temperature regulation of newborn,P81,2016,2027
+P81.9,"Disturbance of temperature regulation of newborn, unspecified",P81,2016,2027
+P83,Other conditions of integument specific to newborn,,2016,2027
+P83.0,Sclerema neonatorum,P83,2016,2027
+P83.1,Neonatal erythema toxicum,P83,2016,2027
+P83.2,Hydrops fetalis not due to hemolytic disease,P83,2016,2027
+P83.3,Other and unspecified edema specific to newborn,P83,2016,2027
+P83.30,Unspecified edema specific to newborn,P83.3,2016,2027
+P83.39,Other edema specific to newborn,P83.3,2016,2027
+P83.4,Breast engorgement of newborn,P83,2016,2027
+P83.5,Congenital hydrocele,P83,2016,2027
+P83.6,Umbilical polyp of newborn,P83,2016,2027
+P83.8,Other specified conditions of integument specific to newborn,P83,2016,2027
+P83.81,Umbilical granuloma,P83.8,2018,2027
+P83.88,Other specified conditions of integument specific to newborn,P83.8,2018,2027
+P83.9,"Condition of the integument specific to newborn, unspecified",P83,2016,2027
+P84,Other problems with newborn,,2016,2027
+P90,Convulsions of newborn,,2016,2027
+P91,Other disturbances of cerebral status of newborn,,2016,2027
+P91.0,Neonatal cerebral ischemia,P91,2016,2027
+P91.1,Acquired periventricular cysts of newborn,P91,2016,2027
+P91.2,Neonatal cerebral leukomalacia,P91,2016,2027
+P91.3,Neonatal cerebral irritability,P91,2016,2027
+P91.4,Neonatal cerebral depression,P91,2016,2027
+P91.5,Neonatal coma,P91,2016,2027
+P91.6,Hypoxic ischemic encephalopathy [HIE],P91,2016,2027
+P91.60,"Hypoxic ischemic encephalopathy [HIE], unspecified",P91.6,2016,2027
+P91.61,Mild hypoxic ischemic encephalopathy [HIE],P91.6,2016,2027
+P91.62,Moderate hypoxic ischemic encephalopathy [HIE],P91.6,2016,2027
+P91.63,Severe hypoxic ischemic encephalopathy [HIE],P91.6,2016,2027
+P91.8,Other specified disturbances of cerebral status of newborn,P91,2016,2027
+P91.81,Neonatal encephalopathy,P91.8,2018,2027
+P91.811,Neonatal encephalopathy in diseases classified elsewhere,P91.81,2018,2027
+P91.819,"Neonatal encephalopathy, unspecified",P91.81,2018,2027
+P91.82,Neonatal cerebral infarction,P91.8,2021,2027
+P91.821,"Neonatal cerebral infarction, right side of brain",P91.82,2021,2027
+P91.822,"Neonatal cerebral infarction, left side of brain",P91.82,2021,2027
+P91.823,"Neonatal cerebral infarction, bilateral",P91.82,2021,2027
+P91.829,"Neonatal cerebral infarction, unspecified side",P91.82,2021,2027
+P91.88,Other specified disturbances of cerebral status of newborn,P91.8,2018,2027
+P91.9,"Disturbance of cerebral status of newborn, unspecified",P91,2016,2027
+P92,Feeding problems of newborn,,2016,2027
+P92.0,Vomiting of newborn,P92,2016,2027
+P92.01,Bilious vomiting of newborn,P92.0,2016,2027
+P92.09,Other vomiting of newborn,P92.0,2016,2027
+P92.1,Regurgitation and rumination of newborn,P92,2016,2027
+P92.2,Slow feeding of newborn,P92,2016,2027
+P92.3,Underfeeding of newborn,P92,2016,2027
+P92.4,Overfeeding of newborn,P92,2016,2027
+P92.5,Neonatal difficulty in feeding at breast,P92,2016,2027
+P92.6,Failure to thrive in newborn,P92,2016,2027
+P92.8,Other feeding problems of newborn,P92,2016,2027
+P92.9,"Feeding problem of newborn, unspecified",P92,2016,2027
+P93,Reactions and intoxications due to drugs administered to newborn,,2016,2027
+P93.0,Grey baby syndrome,P93,2016,2027
+P93.8,Other reactions and intoxications due to drugs administered to newborn,P93,2016,2027
+P94,Disorders of muscle tone of newborn,,2016,2027
+P94.0,Transient neonatal myasthenia gravis,P94,2016,2027
+P94.1,Congenital hypertonia,P94,2016,2027
+P94.2,Congenital hypotonia,P94,2016,2027
+P94.8,Other disorders of muscle tone of newborn,P94,2016,2027
+P94.9,"Disorder of muscle tone of newborn, unspecified",P94,2016,2027
+P95,Stillbirth,,2016,2027
+P96,Other conditions originating in the perinatal period,,2016,2027
+P96.0,Congenital renal failure,P96,2016,2027
+P96.1,Neonatal withdrawal symptoms from maternal use of drugs of addiction,P96,2016,2027
+P96.2,Withdrawal symptoms from therapeutic use of drugs in newborn,P96,2016,2027
+P96.3,Wide cranial sutures of newborn,P96,2016,2027
+P96.5,Complication to newborn due to (fetal) intrauterine procedure,P96,2016,2027
+P96.8,Other specified conditions originating in the perinatal period,P96,2016,2027
+P96.81,Exposure to (parental) (environmental) tobacco smoke in the perinatal period,P96.8,2016,2027
+P96.82,Delayed separation of umbilical cord,P96.8,2016,2027
+P96.83,Meconium staining,P96.8,2016,2027
+P96.89,Other specified conditions originating in the perinatal period,P96.8,2016,2027
+P96.9,"Condition originating in the perinatal period, unspecified",P96,2016,2027

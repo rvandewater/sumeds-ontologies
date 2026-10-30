@@ -1,0 +1,172 @@
+code,description,parent,first_year,last_year
+B0,Central Nervous System,B,2016,2027
+B00,Plain Radiography,B0,2016,2027
+B00B,Spinal Cord,B00,2016,2027
+B00B0,High Osmolar,B00B,2016,2027
+B00B0Z,None,B00B0,2016,2027
+B00B0ZZ,Plain Radiography of Spinal Cord using High Osmolar Contrast,B00B0Z,2016,2027
+B00B1,Low Osmolar,B00B,2016,2027
+B00B1Z,None,B00B1,2016,2027
+B00B1ZZ,Plain Radiography of Spinal Cord using Low Osmolar Contrast,B00B1Z,2016,2027
+B00BY,Other Contrast,B00B,2016,2027
+B00BYZ,None,B00BY,2016,2027
+B00BYZZ,Plain Radiography of Spinal Cord using Other Contrast,B00BYZ,2016,2027
+B00BZ,None,B00B,2016,2027
+B00BZZ,None,B00BZ,2016,2027
+B00BZZZ,Plain Radiography of Spinal Cord,B00BZZ,2016,2027
+B01,Fluoroscopy,B0,2016,2027
+B01B,Spinal Cord,B01,2016,2027
+B01B0,High Osmolar,B01B,2016,2027
+B01B0Z,None,B01B0,2016,2027
+B01B0ZZ,Fluoroscopy of Spinal Cord using High Osmolar Contrast,B01B0Z,2016,2027
+B01B1,Low Osmolar,B01B,2016,2027
+B01B1Z,None,B01B1,2016,2027
+B01B1ZZ,Fluoroscopy of Spinal Cord using Low Osmolar Contrast,B01B1Z,2016,2027
+B01BY,Other Contrast,B01B,2016,2027
+B01BYZ,None,B01BY,2016,2027
+B01BYZZ,Fluoroscopy of Spinal Cord using Other Contrast,B01BYZ,2016,2027
+B01BZ,None,B01B,2016,2027
+B01BZZ,None,B01BZ,2016,2027
+B01BZZZ,Fluoroscopy of Spinal Cord,B01BZZ,2016,2027
+B02,Computerized Tomography (CT Scan),B0,2016,2027
+B020,Brain,B02,2016,2027
+B0200,High Osmolar,B020,2016,2027
+B02000,Unenhanced and Enhanced,B0200,2016,2027
+B02000Z,"Computerized Tomography (CT Scan) of Brain using High Osmolar Contrast, Unenhanced and Enhanced",B02000,2016,2027
+B0200Z,None,B0200,2016,2027
+B0200ZZ,Computerized Tomography (CT Scan) of Brain using High Osmolar Contrast,B0200Z,2016,2027
+B0201,Low Osmolar,B020,2016,2027
+B02010,Unenhanced and Enhanced,B0201,2016,2027
+B02010Z,"Computerized Tomography (CT Scan) of Brain using Low Osmolar Contrast, Unenhanced and Enhanced",B02010,2016,2027
+B0201Z,None,B0201,2016,2027
+B0201ZZ,Computerized Tomography (CT Scan) of Brain using Low Osmolar Contrast,B0201Z,2016,2027
+B020Y,Other Contrast,B020,2016,2027
+B020Y0,Unenhanced and Enhanced,B020Y,2016,2027
+B020Y0Z,"Computerized Tomography (CT Scan) of Brain using Other Contrast, Unenhanced and Enhanced",B020Y0,2016,2027
+B020YZ,None,B020Y,2016,2027
+B020YZZ,Computerized Tomography (CT Scan) of Brain using Other Contrast,B020YZ,2016,2027
+B020Z,None,B020,2016,2027
+B020ZZ,None,B020Z,2016,2027
+B020ZZZ,Computerized Tomography (CT Scan) of Brain,B020ZZ,2016,2027
+B027,Cisterna,B02,2016,2027
+B0270,High Osmolar,B027,2016,2027
+B02700,Unenhanced and Enhanced,B0270,2016,2027
+B02700Z,"Computerized Tomography (CT Scan) of Cisterna using High Osmolar Contrast, Unenhanced and Enhanced",B02700,2016,2027
+B0270Z,None,B0270,2016,2027
+B0270ZZ,Computerized Tomography (CT Scan) of Cisterna using High Osmolar Contrast,B0270Z,2016,2027
+B0271,Low Osmolar,B027,2016,2027
+B02710,Unenhanced and Enhanced,B0271,2016,2027
+B02710Z,"Computerized Tomography (CT Scan) of Cisterna using Low Osmolar Contrast, Unenhanced and Enhanced",B02710,2016,2027
+B0271Z,None,B0271,2016,2027
+B0271ZZ,Computerized Tomography (CT Scan) of Cisterna using Low Osmolar Contrast,B0271Z,2016,2027
+B027Y,Other Contrast,B027,2016,2027
+B027Y0,Unenhanced and Enhanced,B027Y,2016,2027
+B027Y0Z,"Computerized Tomography (CT Scan) of Cisterna using Other Contrast, Unenhanced and Enhanced",B027Y0,2016,2027
+B027YZ,None,B027Y,2016,2027
+B027YZZ,Computerized Tomography (CT Scan) of Cisterna using Other Contrast,B027YZ,2016,2027
+B027Z,None,B027,2016,2027
+B027ZZ,None,B027Z,2016,2027
+B027ZZZ,Computerized Tomography (CT Scan) of Cisterna,B027ZZ,2016,2027
+B028,Cerebral Ventricle(s),B02,2016,2027
+B0280,High Osmolar,B028,2016,2027
+B02800,Unenhanced and Enhanced,B0280,2016,2027
+B02800Z,"Computerized Tomography (CT Scan) of Cerebral Ventricle(s) using High Osmolar Contrast, Unenhanced and Enhanced",B02800,2016,2027
+B0280Z,None,B0280,2016,2027
+B0280ZZ,Computerized Tomography (CT Scan) of Cerebral Ventricle(s) using High Osmolar Contrast,B0280Z,2016,2027
+B0281,Low Osmolar,B028,2016,2027
+B02810,Unenhanced and Enhanced,B0281,2016,2027
+B02810Z,"Computerized Tomography (CT Scan) of Cerebral Ventricle(s) using Low Osmolar Contrast, Unenhanced and Enhanced",B02810,2016,2027
+B0281Z,None,B0281,2016,2027
+B0281ZZ,Computerized Tomography (CT Scan) of Cerebral Ventricle(s) using Low Osmolar Contrast,B0281Z,2016,2027
+B028Y,Other Contrast,B028,2016,2027
+B028Y0,Unenhanced and Enhanced,B028Y,2016,2027
+B028Y0Z,"Computerized Tomography (CT Scan) of Cerebral Ventricle(s) using Other Contrast, Unenhanced and Enhanced",B028Y0,2016,2027
+B028YZ,None,B028Y,2016,2027
+B028YZZ,Computerized Tomography (CT Scan) of Cerebral Ventricle(s) using Other Contrast,B028YZ,2016,2027
+B028Z,None,B028,2016,2027
+B028ZZ,None,B028Z,2016,2027
+B028ZZZ,Computerized Tomography (CT Scan) of Cerebral Ventricle(s),B028ZZ,2016,2027
+B029,Sella Turcica/Pituitary Gland,B02,2016,2027
+B0290,High Osmolar,B029,2016,2027
+B02900,Unenhanced and Enhanced,B0290,2016,2027
+B02900Z,"Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland using High Osmolar Contrast, Unenhanced and Enhanced",B02900,2016,2027
+B0290Z,None,B0290,2016,2027
+B0290ZZ,Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland using High Osmolar Contrast,B0290Z,2016,2027
+B0291,Low Osmolar,B029,2016,2027
+B02910,Unenhanced and Enhanced,B0291,2016,2027
+B02910Z,"Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland using Low Osmolar Contrast, Unenhanced and Enhanced",B02910,2016,2027
+B0291Z,None,B0291,2016,2027
+B0291ZZ,Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland using Low Osmolar Contrast,B0291Z,2016,2027
+B029Y,Other Contrast,B029,2016,2027
+B029Y0,Unenhanced and Enhanced,B029Y,2016,2027
+B029Y0Z,"Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland using Other Contrast, Unenhanced and Enhanced",B029Y0,2016,2027
+B029YZ,None,B029Y,2016,2027
+B029YZZ,Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland using Other Contrast,B029YZ,2016,2027
+B029Z,None,B029,2016,2027
+B029ZZ,None,B029Z,2016,2027
+B029ZZZ,Computerized Tomography (CT Scan) of Sella Turcica/Pituitary Gland,B029ZZ,2016,2027
+B02B,Spinal Cord,B02,2016,2027
+B02B0,High Osmolar,B02B,2016,2027
+B02B00,Unenhanced and Enhanced,B02B0,2016,2027
+B02B00Z,"Computerized Tomography (CT Scan) of Spinal Cord using High Osmolar Contrast, Unenhanced and Enhanced",B02B00,2016,2027
+B02B0Z,None,B02B0,2016,2027
+B02B0ZZ,Computerized Tomography (CT Scan) of Spinal Cord using High Osmolar Contrast,B02B0Z,2016,2027
+B02B1,Low Osmolar,B02B,2016,2027
+B02B10,Unenhanced and Enhanced,B02B1,2016,2027
+B02B10Z,"Computerized Tomography (CT Scan) of Spinal Cord using Low Osmolar Contrast, Unenhanced and Enhanced",B02B10,2016,2027
+B02B1Z,None,B02B1,2016,2027
+B02B1ZZ,Computerized Tomography (CT Scan) of Spinal Cord using Low Osmolar Contrast,B02B1Z,2016,2027
+B02BY,Other Contrast,B02B,2016,2027
+B02BY0,Unenhanced and Enhanced,B02BY,2016,2027
+B02BY0Z,"Computerized Tomography (CT Scan) of Spinal Cord using Other Contrast, Unenhanced and Enhanced",B02BY0,2016,2027
+B02BYZ,None,B02BY,2016,2027
+B02BYZZ,Computerized Tomography (CT Scan) of Spinal Cord using Other Contrast,B02BYZ,2016,2027
+B02BZ,None,B02B,2016,2027
+B02BZZ,None,B02BZ,2016,2027
+B02BZZZ,Computerized Tomography (CT Scan) of Spinal Cord,B02BZZ,2016,2027
+B03,Magnetic Resonance Imaging (MRI),B0,2016,2027
+B030,Brain,B03,2016,2027
+B030Y,Other Contrast,B030,2016,2027
+B030Y0,Unenhanced and Enhanced,B030Y,2016,2027
+B030Y0Z,"Magnetic Resonance Imaging (MRI) of Brain using Other Contrast, Unenhanced and Enhanced",B030Y0,2016,2027
+B030YZ,None,B030Y,2016,2027
+B030YZZ,Magnetic Resonance Imaging (MRI) of Brain using Other Contrast,B030YZ,2016,2027
+B030Z,None,B030,2016,2027
+B030ZZ,None,B030Z,2016,2027
+B030ZZZ,Magnetic Resonance Imaging (MRI) of Brain,B030ZZ,2016,2027
+B039,Sella Turcica/Pituitary Gland,B03,2016,2027
+B039Y,Other Contrast,B039,2016,2027
+B039Y0,Unenhanced and Enhanced,B039Y,2016,2027
+B039Y0Z,"Magnetic Resonance Imaging (MRI) of Sella Turcica/Pituitary Gland using Other Contrast, Unenhanced and Enhanced",B039Y0,2016,2027
+B039YZ,None,B039Y,2016,2027
+B039YZZ,Magnetic Resonance Imaging (MRI) of Sella Turcica/Pituitary Gland using Other Contrast,B039YZ,2016,2027
+B039Z,None,B039,2016,2027
+B039ZZ,None,B039Z,2016,2027
+B039ZZZ,Magnetic Resonance Imaging (MRI) of Sella Turcica/Pituitary Gland,B039ZZ,2016,2027
+B03B,Spinal Cord,B03,2016,2027
+B03BY,Other Contrast,B03B,2016,2027
+B03BY0,Unenhanced and Enhanced,B03BY,2016,2027
+B03BY0Z,"Magnetic Resonance Imaging (MRI) of Spinal Cord using Other Contrast, Unenhanced and Enhanced",B03BY0,2016,2027
+B03BYZ,None,B03BY,2016,2027
+B03BYZZ,Magnetic Resonance Imaging (MRI) of Spinal Cord using Other Contrast,B03BYZ,2016,2027
+B03BZ,None,B03B,2016,2027
+B03BZZ,None,B03BZ,2016,2027
+B03BZZZ,Magnetic Resonance Imaging (MRI) of Spinal Cord,B03BZZ,2016,2027
+B03C,Acoustic Nerves,B03,2016,2027
+B03CY,Other Contrast,B03C,2016,2027
+B03CY0,Unenhanced and Enhanced,B03CY,2016,2027
+B03CY0Z,"Magnetic Resonance Imaging (MRI) of Acoustic Nerves using Other Contrast, Unenhanced and Enhanced",B03CY0,2016,2027
+B03CYZ,None,B03CY,2016,2027
+B03CYZZ,Magnetic Resonance Imaging (MRI) of Acoustic Nerves using Other Contrast,B03CYZ,2016,2027
+B03CZ,None,B03C,2016,2027
+B03CZZ,None,B03CZ,2016,2027
+B03CZZZ,Magnetic Resonance Imaging (MRI) of Acoustic Nerves,B03CZZ,2016,2027
+B04,Ultrasonography,B0,2016,2027
+B040,Brain,B04,2016,2027
+B040Z,None,B040,2016,2027
+B040ZZ,None,B040Z,2016,2027
+B040ZZZ,Ultrasonography of Brain,B040ZZ,2016,2027
+B04B,Spinal Cord,B04,2016,2027
+B04BZ,None,B04B,2016,2027
+B04BZZ,None,B04BZ,2016,2027
+B04BZZZ,Ultrasonography of Spinal Cord,B04BZZ,2016,2027

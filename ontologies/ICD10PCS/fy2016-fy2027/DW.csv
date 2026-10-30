@@ -1,0 +1,415 @@
+code,description,parent,first_year,last_year
+DW,Anatomical Regions,D,2016,2027
+DW0,Beam Radiation,DW,2016,2027
+DW01,Head and Neck,DW0,2016,2027
+DW010,Photons <1 MeV,DW01,2016,2027
+DW010Z,None,DW010,2016,2027
+DW010ZZ,Beam Radiation of Head and Neck using Photons <1 MeV,DW010Z,2016,2027
+DW011,Photons 1 - 10 MeV,DW01,2016,2027
+DW011Z,None,DW011,2016,2027
+DW011ZZ,Beam Radiation of Head and Neck using Photons 1 - 10 MeV,DW011Z,2016,2027
+DW012,Photons >10 MeV,DW01,2016,2027
+DW012Z,None,DW012,2016,2027
+DW012ZZ,Beam Radiation of Head and Neck using Photons >10 MeV,DW012Z,2016,2027
+DW013,Electrons,DW01,2016,2027
+DW013Z,None,DW013,2016,2027
+DW013Z0,"Beam Radiation of Head and Neck using Electrons, Intraoperative",DW013Z,2016,2027
+DW013ZZ,Beam Radiation of Head and Neck using Electrons,DW013Z,2016,2027
+DW014,"Heavy Particles (Protons,Ions)",DW01,2016,2027
+DW014Z,None,DW014,2016,2027
+DW014ZZ,"Beam Radiation of Head and Neck using Heavy Particles (Protons,Ions)",DW014Z,2016,2027
+DW015,Neutrons,DW01,2016,2027
+DW015Z,None,DW015,2016,2027
+DW015ZZ,Beam Radiation of Head and Neck using Neutrons,DW015Z,2016,2027
+DW016,Neutron Capture,DW01,2016,2027
+DW016Z,None,DW016,2016,2027
+DW016ZZ,Beam Radiation of Head and Neck using Neutron Capture,DW016Z,2016,2027
+DW02,Chest,DW0,2016,2027
+DW020,Photons <1 MeV,DW02,2016,2027
+DW020Z,None,DW020,2016,2027
+DW020ZZ,Beam Radiation of Chest using Photons <1 MeV,DW020Z,2016,2027
+DW021,Photons 1 - 10 MeV,DW02,2016,2027
+DW021Z,None,DW021,2016,2027
+DW021ZZ,Beam Radiation of Chest using Photons 1 - 10 MeV,DW021Z,2016,2027
+DW022,Photons >10 MeV,DW02,2016,2027
+DW022Z,None,DW022,2016,2027
+DW022ZZ,Beam Radiation of Chest using Photons >10 MeV,DW022Z,2016,2027
+DW023,Electrons,DW02,2016,2027
+DW023Z,None,DW023,2016,2027
+DW023Z0,"Beam Radiation of Chest using Electrons, Intraoperative",DW023Z,2016,2027
+DW023ZZ,Beam Radiation of Chest using Electrons,DW023Z,2016,2027
+DW024,"Heavy Particles (Protons,Ions)",DW02,2016,2027
+DW024Z,None,DW024,2016,2027
+DW024ZZ,"Beam Radiation of Chest using Heavy Particles (Protons,Ions)",DW024Z,2016,2027
+DW025,Neutrons,DW02,2016,2027
+DW025Z,None,DW025,2016,2027
+DW025ZZ,Beam Radiation of Chest using Neutrons,DW025Z,2016,2027
+DW026,Neutron Capture,DW02,2016,2027
+DW026Z,None,DW026,2016,2027
+DW026ZZ,Beam Radiation of Chest using Neutron Capture,DW026Z,2016,2027
+DW03,Abdomen,DW0,2016,2027
+DW030,Photons <1 MeV,DW03,2016,2027
+DW030Z,None,DW030,2016,2027
+DW030ZZ,Beam Radiation of Abdomen using Photons <1 MeV,DW030Z,2016,2027
+DW031,Photons 1 - 10 MeV,DW03,2016,2027
+DW031Z,None,DW031,2016,2027
+DW031ZZ,Beam Radiation of Abdomen using Photons 1 - 10 MeV,DW031Z,2016,2027
+DW032,Photons >10 MeV,DW03,2016,2027
+DW032Z,None,DW032,2016,2027
+DW032ZZ,Beam Radiation of Abdomen using Photons >10 MeV,DW032Z,2016,2027
+DW033,Electrons,DW03,2016,2027
+DW033Z,None,DW033,2016,2027
+DW033Z0,"Beam Radiation of Abdomen using Electrons, Intraoperative",DW033Z,2016,2027
+DW033ZZ,Beam Radiation of Abdomen using Electrons,DW033Z,2016,2027
+DW034,"Heavy Particles (Protons,Ions)",DW03,2016,2027
+DW034Z,None,DW034,2016,2027
+DW034ZZ,"Beam Radiation of Abdomen using Heavy Particles (Protons,Ions)",DW034Z,2016,2027
+DW035,Neutrons,DW03,2016,2027
+DW035Z,None,DW035,2016,2027
+DW035ZZ,Beam Radiation of Abdomen using Neutrons,DW035Z,2016,2027
+DW036,Neutron Capture,DW03,2016,2027
+DW036Z,None,DW036,2016,2027
+DW036ZZ,Beam Radiation of Abdomen using Neutron Capture,DW036Z,2016,2027
+DW04,Hemibody,DW0,2016,2027
+DW040,Photons <1 MeV,DW04,2016,2027
+DW040Z,None,DW040,2016,2027
+DW040ZZ,Beam Radiation of Hemibody using Photons <1 MeV,DW040Z,2016,2027
+DW041,Photons 1 - 10 MeV,DW04,2016,2027
+DW041Z,None,DW041,2016,2027
+DW041ZZ,Beam Radiation of Hemibody using Photons 1 - 10 MeV,DW041Z,2016,2027
+DW042,Photons >10 MeV,DW04,2016,2027
+DW042Z,None,DW042,2016,2027
+DW042ZZ,Beam Radiation of Hemibody using Photons >10 MeV,DW042Z,2016,2027
+DW043,Electrons,DW04,2016,2027
+DW043Z,None,DW043,2016,2027
+DW043Z0,"Beam Radiation of Hemibody using Electrons, Intraoperative",DW043Z,2016,2027
+DW043ZZ,Beam Radiation of Hemibody using Electrons,DW043Z,2016,2027
+DW044,"Heavy Particles (Protons,Ions)",DW04,2016,2027
+DW044Z,None,DW044,2016,2027
+DW044ZZ,"Beam Radiation of Hemibody using Heavy Particles (Protons,Ions)",DW044Z,2016,2027
+DW045,Neutrons,DW04,2016,2027
+DW045Z,None,DW045,2016,2027
+DW045ZZ,Beam Radiation of Hemibody using Neutrons,DW045Z,2016,2027
+DW046,Neutron Capture,DW04,2016,2027
+DW046Z,None,DW046,2016,2027
+DW046ZZ,Beam Radiation of Hemibody using Neutron Capture,DW046Z,2016,2027
+DW05,Whole Body,DW0,2016,2027
+DW050,Photons <1 MeV,DW05,2016,2027
+DW050Z,None,DW050,2016,2027
+DW050ZZ,Beam Radiation of Whole Body using Photons <1 MeV,DW050Z,2016,2027
+DW051,Photons 1 - 10 MeV,DW05,2016,2027
+DW051Z,None,DW051,2016,2027
+DW051ZZ,Beam Radiation of Whole Body using Photons 1 - 10 MeV,DW051Z,2016,2027
+DW052,Photons >10 MeV,DW05,2016,2027
+DW052Z,None,DW052,2016,2027
+DW052ZZ,Beam Radiation of Whole Body using Photons >10 MeV,DW052Z,2016,2027
+DW053,Electrons,DW05,2016,2027
+DW053Z,None,DW053,2016,2027
+DW053Z0,"Beam Radiation of Whole Body using Electrons, Intraoperative",DW053Z,2016,2027
+DW053ZZ,Beam Radiation of Whole Body using Electrons,DW053Z,2016,2027
+DW054,"Heavy Particles (Protons,Ions)",DW05,2016,2027
+DW054Z,None,DW054,2016,2027
+DW054ZZ,"Beam Radiation of Whole Body using Heavy Particles (Protons,Ions)",DW054Z,2016,2027
+DW055,Neutrons,DW05,2016,2027
+DW055Z,None,DW055,2016,2027
+DW055ZZ,Beam Radiation of Whole Body using Neutrons,DW055Z,2016,2027
+DW056,Neutron Capture,DW05,2016,2027
+DW056Z,None,DW056,2016,2027
+DW056ZZ,Beam Radiation of Whole Body using Neutron Capture,DW056Z,2016,2027
+DW06,Pelvic Region,DW0,2016,2027
+DW060,Photons <1 MeV,DW06,2016,2027
+DW060Z,None,DW060,2016,2027
+DW060ZZ,Beam Radiation of Pelvic Region using Photons <1 MeV,DW060Z,2016,2027
+DW061,Photons 1 - 10 MeV,DW06,2016,2027
+DW061Z,None,DW061,2016,2027
+DW061ZZ,Beam Radiation of Pelvic Region using Photons 1 - 10 MeV,DW061Z,2016,2027
+DW062,Photons >10 MeV,DW06,2016,2027
+DW062Z,None,DW062,2016,2027
+DW062ZZ,Beam Radiation of Pelvic Region using Photons >10 MeV,DW062Z,2016,2027
+DW063,Electrons,DW06,2016,2027
+DW063Z,None,DW063,2016,2027
+DW063Z0,"Beam Radiation of Pelvic Region using Electrons, Intraoperative",DW063Z,2016,2027
+DW063ZZ,Beam Radiation of Pelvic Region using Electrons,DW063Z,2016,2027
+DW064,"Heavy Particles (Protons,Ions)",DW06,2016,2027
+DW064Z,None,DW064,2016,2027
+DW064ZZ,"Beam Radiation of Pelvic Region using Heavy Particles (Protons,Ions)",DW064Z,2016,2027
+DW065,Neutrons,DW06,2016,2027
+DW065Z,None,DW065,2016,2027
+DW065ZZ,Beam Radiation of Pelvic Region using Neutrons,DW065Z,2016,2027
+DW066,Neutron Capture,DW06,2016,2027
+DW066Z,None,DW066,2016,2027
+DW066ZZ,Beam Radiation of Pelvic Region using Neutron Capture,DW066Z,2016,2027
+DW1,Brachytherapy,DW,2016,2027
+DW10,Cranial Cavity,DW1,2020,2027
+DW10B,Low Dose Rate (LDR),DW10,2020,2027
+DW10BB,Palladium 103 (Pd-103),DW10B,2020,2027
+DW10BB1,"Low Dose Rate (LDR) Brachytherapy of Cranial Cavity using Palladium 103 (Pd-103), Unidirectional Source",DW10BB,2020,2027
+DW10BBZ,Low Dose Rate (LDR) Brachytherapy of Cranial Cavity using Palladium 103 (Pd-103),DW10BB,2020,2027
+DW11,Head and Neck,DW1,2016,2027
+DW119,High Dose Rate (HDR),DW11,2016,2027
+DW1197,Cesium 137 (Cs-137),DW119,2016,2027
+DW1197Z,High Dose Rate (HDR) Brachytherapy of Head and Neck using Cesium 137 (Cs-137),DW1197,2016,2027
+DW1198,Iridium 192 (Ir-192),DW119,2016,2027
+DW1198Z,High Dose Rate (HDR) Brachytherapy of Head and Neck using Iridium 192 (Ir-192),DW1198,2016,2027
+DW1199,Iodine 125 (I-125),DW119,2016,2027
+DW1199Z,High Dose Rate (HDR) Brachytherapy of Head and Neck using Iodine 125 (I-125),DW1199,2016,2027
+DW119B,Palladium 103 (Pd-103),DW119,2016,2027
+DW119BZ,High Dose Rate (HDR) Brachytherapy of Head and Neck using Palladium 103 (Pd-103),DW119B,2016,2027
+DW119C,Californium 252 (Cf-252),DW119,2016,2027
+DW119CZ,High Dose Rate (HDR) Brachytherapy of Head and Neck using Californium 252 (Cf-252),DW119C,2016,2027
+DW119Y,Other Isotope,DW119,2016,2027
+DW119YZ,High Dose Rate (HDR) Brachytherapy of Head and Neck using Other Isotope,DW119Y,2016,2027
+DW11B,Low Dose Rate (LDR),DW11,2016,2027
+DW11B6,Cesium 131 (Cs-131),DW11B,2021,2027
+DW11B6Z,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Cesium 131 (Cs-131),DW11B6,2021,2027
+DW11B7,Cesium 137 (Cs-137),DW11B,2016,2027
+DW11B7Z,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Cesium 137 (Cs-137),DW11B7,2016,2027
+DW11B8,Iridium 192 (Ir-192),DW11B,2016,2027
+DW11B8Z,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Iridium 192 (Ir-192),DW11B8,2016,2027
+DW11B9,Iodine 125 (I-125),DW11B,2016,2027
+DW11B9Z,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Iodine 125 (I-125),DW11B9,2016,2027
+DW11BB,Palladium 103 (Pd-103),DW11B,2016,2027
+DW11BB1,"Low Dose Rate (LDR) Brachytherapy of Head and Neck using Palladium 103 (Pd-103), Unidirectional Source",DW11BB,2020,2027
+DW11BBZ,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Palladium 103 (Pd-103),DW11BB,2016,2027
+DW11BC,Californium 252 (Cf-252),DW11B,2016,2027
+DW11BCZ,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Californium 252 (Cf-252),DW11BC,2016,2027
+DW11BY,Other Isotope,DW11B,2016,2027
+DW11BYZ,Low Dose Rate (LDR) Brachytherapy of Head and Neck using Other Isotope,DW11BY,2016,2027
+DW12,Chest,DW1,2016,2027
+DW129,High Dose Rate (HDR),DW12,2016,2027
+DW1297,Cesium 137 (Cs-137),DW129,2016,2027
+DW1297Z,High Dose Rate (HDR) Brachytherapy of Chest using Cesium 137 (Cs-137),DW1297,2016,2027
+DW1298,Iridium 192 (Ir-192),DW129,2016,2027
+DW1298Z,High Dose Rate (HDR) Brachytherapy of Chest using Iridium 192 (Ir-192),DW1298,2016,2027
+DW1299,Iodine 125 (I-125),DW129,2016,2027
+DW1299Z,High Dose Rate (HDR) Brachytherapy of Chest using Iodine 125 (I-125),DW1299,2016,2027
+DW129B,Palladium 103 (Pd-103),DW129,2016,2027
+DW129BZ,High Dose Rate (HDR) Brachytherapy of Chest using Palladium 103 (Pd-103),DW129B,2016,2027
+DW129C,Californium 252 (Cf-252),DW129,2016,2027
+DW129CZ,High Dose Rate (HDR) Brachytherapy of Chest using Californium 252 (Cf-252),DW129C,2016,2027
+DW129Y,Other Isotope,DW129,2016,2027
+DW129YZ,High Dose Rate (HDR) Brachytherapy of Chest using Other Isotope,DW129Y,2016,2027
+DW12B,Low Dose Rate (LDR),DW12,2016,2027
+DW12B6,Cesium 131 (Cs-131),DW12B,2021,2027
+DW12B6Z,Low Dose Rate (LDR) Brachytherapy of Chest using Cesium 131 (Cs-131),DW12B6,2021,2027
+DW12B7,Cesium 137 (Cs-137),DW12B,2016,2027
+DW12B7Z,Low Dose Rate (LDR) Brachytherapy of Chest using Cesium 137 (Cs-137),DW12B7,2016,2027
+DW12B8,Iridium 192 (Ir-192),DW12B,2016,2027
+DW12B8Z,Low Dose Rate (LDR) Brachytherapy of Chest using Iridium 192 (Ir-192),DW12B8,2016,2027
+DW12B9,Iodine 125 (I-125),DW12B,2016,2027
+DW12B9Z,Low Dose Rate (LDR) Brachytherapy of Chest using Iodine 125 (I-125),DW12B9,2016,2027
+DW12BB,Palladium 103 (Pd-103),DW12B,2016,2027
+DW12BB1,"Low Dose Rate (LDR) Brachytherapy of Chest using Palladium 103 (Pd-103), Unidirectional Source",DW12BB,2020,2027
+DW12BBZ,Low Dose Rate (LDR) Brachytherapy of Chest using Palladium 103 (Pd-103),DW12BB,2016,2027
+DW12BC,Californium 252 (Cf-252),DW12B,2016,2027
+DW12BCZ,Low Dose Rate (LDR) Brachytherapy of Chest using Californium 252 (Cf-252),DW12BC,2016,2027
+DW12BY,Other Isotope,DW12B,2016,2027
+DW12BYZ,Low Dose Rate (LDR) Brachytherapy of Chest using Other Isotope,DW12BY,2016,2027
+DW13,Abdomen,DW1,2016,2027
+DW139,High Dose Rate (HDR),DW13,2016,2027
+DW1397,Cesium 137 (Cs-137),DW139,2016,2027
+DW1397Z,High Dose Rate (HDR) Brachytherapy of Abdomen using Cesium 137 (Cs-137),DW1397,2016,2027
+DW1398,Iridium 192 (Ir-192),DW139,2016,2027
+DW1398Z,High Dose Rate (HDR) Brachytherapy of Abdomen using Iridium 192 (Ir-192),DW1398,2016,2027
+DW1399,Iodine 125 (I-125),DW139,2016,2027
+DW1399Z,High Dose Rate (HDR) Brachytherapy of Abdomen using Iodine 125 (I-125),DW1399,2016,2027
+DW139B,Palladium 103 (Pd-103),DW139,2016,2027
+DW139BZ,High Dose Rate (HDR) Brachytherapy of Abdomen using Palladium 103 (Pd-103),DW139B,2016,2027
+DW139C,Californium 252 (Cf-252),DW139,2016,2027
+DW139CZ,High Dose Rate (HDR) Brachytherapy of Abdomen using Californium 252 (Cf-252),DW139C,2016,2027
+DW139Y,Other Isotope,DW139,2016,2027
+DW139YZ,High Dose Rate (HDR) Brachytherapy of Abdomen using Other Isotope,DW139Y,2016,2027
+DW13B,Low Dose Rate (LDR),DW13,2016,2027
+DW13B6,Cesium 131 (Cs-131),DW13B,2021,2027
+DW13B6Z,Low Dose Rate (LDR) Brachytherapy of Abdomen using Cesium 131 (Cs-131),DW13B6,2021,2027
+DW13B7,Cesium 137 (Cs-137),DW13B,2016,2027
+DW13B7Z,Low Dose Rate (LDR) Brachytherapy of Abdomen using Cesium 137 (Cs-137),DW13B7,2016,2027
+DW13B8,Iridium 192 (Ir-192),DW13B,2016,2027
+DW13B8Z,Low Dose Rate (LDR) Brachytherapy of Abdomen using Iridium 192 (Ir-192),DW13B8,2016,2027
+DW13B9,Iodine 125 (I-125),DW13B,2016,2027
+DW13B9Z,Low Dose Rate (LDR) Brachytherapy of Abdomen using Iodine 125 (I-125),DW13B9,2016,2027
+DW13BB,Palladium 103 (Pd-103),DW13B,2016,2027
+DW13BB1,"Low Dose Rate (LDR) Brachytherapy of Abdomen using Palladium 103 (Pd-103), Unidirectional Source",DW13BB,2020,2027
+DW13BBZ,Low Dose Rate (LDR) Brachytherapy of Abdomen using Palladium 103 (Pd-103),DW13BB,2016,2027
+DW13BC,Californium 252 (Cf-252),DW13B,2016,2027
+DW13BCZ,Low Dose Rate (LDR) Brachytherapy of Abdomen using Californium 252 (Cf-252),DW13BC,2016,2027
+DW13BY,Other Isotope,DW13B,2016,2027
+DW13BYZ,Low Dose Rate (LDR) Brachytherapy of Abdomen using Other Isotope,DW13BY,2016,2027
+DW16,Pelvic Region,DW1,2016,2027
+DW169,High Dose Rate (HDR),DW16,2016,2027
+DW1697,Cesium 137 (Cs-137),DW169,2016,2027
+DW1697Z,High Dose Rate (HDR) Brachytherapy of Pelvic Region using Cesium 137 (Cs-137),DW1697,2016,2027
+DW1698,Iridium 192 (Ir-192),DW169,2016,2027
+DW1698Z,High Dose Rate (HDR) Brachytherapy of Pelvic Region using Iridium 192 (Ir-192),DW1698,2016,2027
+DW1699,Iodine 125 (I-125),DW169,2016,2027
+DW1699Z,High Dose Rate (HDR) Brachytherapy of Pelvic Region using Iodine 125 (I-125),DW1699,2016,2027
+DW169B,Palladium 103 (Pd-103),DW169,2016,2027
+DW169BZ,High Dose Rate (HDR) Brachytherapy of Pelvic Region using Palladium 103 (Pd-103),DW169B,2016,2027
+DW169C,Californium 252 (Cf-252),DW169,2016,2027
+DW169CZ,High Dose Rate (HDR) Brachytherapy of Pelvic Region using Californium 252 (Cf-252),DW169C,2016,2027
+DW169Y,Other Isotope,DW169,2016,2027
+DW169YZ,High Dose Rate (HDR) Brachytherapy of Pelvic Region using Other Isotope,DW169Y,2016,2027
+DW16B,Low Dose Rate (LDR),DW16,2016,2027
+DW16B6,Cesium 131 (Cs-131),DW16B,2021,2027
+DW16B6Z,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Cesium 131 (Cs-131),DW16B6,2021,2027
+DW16B7,Cesium 137 (Cs-137),DW16B,2016,2027
+DW16B7Z,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Cesium 137 (Cs-137),DW16B7,2016,2027
+DW16B8,Iridium 192 (Ir-192),DW16B,2016,2027
+DW16B8Z,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Iridium 192 (Ir-192),DW16B8,2016,2027
+DW16B9,Iodine 125 (I-125),DW16B,2016,2027
+DW16B9Z,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Iodine 125 (I-125),DW16B9,2016,2027
+DW16BB,Palladium 103 (Pd-103),DW16B,2016,2027
+DW16BB1,"Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Palladium 103 (Pd-103), Unidirectional Source",DW16BB,2020,2027
+DW16BBZ,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Palladium 103 (Pd-103),DW16BB,2016,2027
+DW16BC,Californium 252 (Cf-252),DW16B,2016,2027
+DW16BCZ,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Californium 252 (Cf-252),DW16BC,2016,2027
+DW16BY,Other Isotope,DW16B,2016,2027
+DW16BYZ,Low Dose Rate (LDR) Brachytherapy of Pelvic Region using Other Isotope,DW16BY,2016,2027
+DW1K,Upper Back,DW1,2020,2027
+DW1KB,Low Dose Rate (LDR),DW1K,2020,2027
+DW1KBB,Palladium 103 (Pd-103),DW1KB,2020,2027
+DW1KBB1,"Low Dose Rate (LDR) Brachytherapy of Upper Back using Palladium 103 (Pd-103), Unidirectional Source",DW1KBB,2020,2027
+DW1KBBZ,Low Dose Rate (LDR) Brachytherapy of Upper Back using Palladium 103 (Pd-103),DW1KBB,2020,2027
+DW1L,Lower Back,DW1,2020,2027
+DW1LB,Low Dose Rate (LDR),DW1L,2020,2027
+DW1LBB,Palladium 103 (Pd-103),DW1LB,2020,2027
+DW1LBB1,"Low Dose Rate (LDR) Brachytherapy of Lower Back using Palladium 103 (Pd-103), Unidirectional Source",DW1LBB,2020,2027
+DW1LBBZ,Low Dose Rate (LDR) Brachytherapy of Lower Back using Palladium 103 (Pd-103),DW1LBB,2020,2027
+DW1P,Gastrointestinal Tract,DW1,2020,2027
+DW1PB,Low Dose Rate (LDR),DW1P,2020,2027
+DW1PBB,Palladium 103 (Pd-103),DW1PB,2020,2027
+DW1PBB1,"Low Dose Rate (LDR) Brachytherapy of Gastrointestinal Tract using Palladium 103 (Pd-103), Unidirectional Source",DW1PBB,2020,2027
+DW1PBBZ,Low Dose Rate (LDR) Brachytherapy of Gastrointestinal Tract using Palladium 103 (Pd-103),DW1PBB,2020,2027
+DW1Q,Respiratory Tract,DW1,2020,2027
+DW1QB,Low Dose Rate (LDR),DW1Q,2020,2027
+DW1QBB,Palladium 103 (Pd-103),DW1QB,2020,2027
+DW1QBB1,"Low Dose Rate (LDR) Brachytherapy of Respiratory Tract using Palladium 103 (Pd-103), Unidirectional Source",DW1QBB,2020,2027
+DW1QBBZ,Low Dose Rate (LDR) Brachytherapy of Respiratory Tract using Palladium 103 (Pd-103),DW1QBB,2020,2027
+DW1R,Genitourinary Tract,DW1,2020,2027
+DW1RB,Low Dose Rate (LDR),DW1R,2020,2027
+DW1RBB,Palladium 103 (Pd-103),DW1RB,2020,2027
+DW1RBB1,"Low Dose Rate (LDR) Brachytherapy of Genitourinary Tract using Palladium 103 (Pd-103), Unidirectional Source",DW1RBB,2020,2027
+DW1RBBZ,Low Dose Rate (LDR) Brachytherapy of Genitourinary Tract using Palladium 103 (Pd-103),DW1RBB,2020,2027
+DW1X,Upper Extremity,DW1,2020,2027
+DW1XB,Low Dose Rate (LDR),DW1X,2020,2027
+DW1XBB,Palladium 103 (Pd-103),DW1XB,2020,2027
+DW1XBB1,"Low Dose Rate (LDR) Brachytherapy of Upper Extremity using Palladium 103 (Pd-103), Unidirectional Source",DW1XBB,2020,2027
+DW1XBBZ,Low Dose Rate (LDR) Brachytherapy of Upper Extremity using Palladium 103 (Pd-103),DW1XBB,2020,2027
+DW1Y,Lower Extremity,DW1,2020,2027
+DW1YB,Low Dose Rate (LDR),DW1Y,2020,2027
+DW1YBB,Palladium 103 (Pd-103),DW1YB,2020,2027
+DW1YBB1,"Low Dose Rate (LDR) Brachytherapy of Lower Extremity using Palladium 103 (Pd-103), Unidirectional Source",DW1YBB,2020,2027
+DW1YBBZ,Low Dose Rate (LDR) Brachytherapy of Lower Extremity using Palladium 103 (Pd-103),DW1YBB,2020,2027
+DW2,Stereotactic Radiosurgery,DW,2016,2027
+DW21,Head and Neck,DW2,2016,2027
+DW21D,Stereotactic Other Photon Radiosurgery,DW21,2016,2027
+DW21DZ,None,DW21D,2016,2027
+DW21DZZ,Stereotactic Other Photon Radiosurgery of Head and Neck,DW21DZ,2016,2027
+DW21H,Stereotactic Particulate Radiosurgery,DW21,2016,2027
+DW21HZ,None,DW21H,2016,2027
+DW21HZZ,Stereotactic Particulate Radiosurgery of Head and Neck,DW21HZ,2016,2027
+DW21J,Stereotactic Gamma Beam Radiosurgery,DW21,2016,2027
+DW21JZ,None,DW21J,2016,2027
+DW21JZZ,Stereotactic Gamma Beam Radiosurgery of Head and Neck,DW21JZ,2016,2027
+DW22,Chest,DW2,2016,2027
+DW22D,Stereotactic Other Photon Radiosurgery,DW22,2016,2027
+DW22DZ,None,DW22D,2016,2027
+DW22DZZ,Stereotactic Other Photon Radiosurgery of Chest,DW22DZ,2016,2027
+DW22H,Stereotactic Particulate Radiosurgery,DW22,2016,2027
+DW22HZ,None,DW22H,2016,2027
+DW22HZZ,Stereotactic Particulate Radiosurgery of Chest,DW22HZ,2016,2027
+DW22J,Stereotactic Gamma Beam Radiosurgery,DW22,2016,2027
+DW22JZ,None,DW22J,2016,2027
+DW22JZZ,Stereotactic Gamma Beam Radiosurgery of Chest,DW22JZ,2016,2027
+DW23,Abdomen,DW2,2016,2027
+DW23D,Stereotactic Other Photon Radiosurgery,DW23,2016,2027
+DW23DZ,None,DW23D,2016,2027
+DW23DZZ,Stereotactic Other Photon Radiosurgery of Abdomen,DW23DZ,2016,2027
+DW23H,Stereotactic Particulate Radiosurgery,DW23,2016,2027
+DW23HZ,None,DW23H,2016,2027
+DW23HZZ,Stereotactic Particulate Radiosurgery of Abdomen,DW23HZ,2016,2027
+DW23J,Stereotactic Gamma Beam Radiosurgery,DW23,2016,2027
+DW23JZ,None,DW23J,2016,2027
+DW23JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen,DW23JZ,2016,2027
+DW26,Pelvic Region,DW2,2016,2027
+DW26D,Stereotactic Other Photon Radiosurgery,DW26,2016,2027
+DW26DZ,None,DW26D,2016,2027
+DW26DZZ,Stereotactic Other Photon Radiosurgery of Pelvic Region,DW26DZ,2016,2027
+DW26H,Stereotactic Particulate Radiosurgery,DW26,2016,2027
+DW26HZ,None,DW26H,2016,2027
+DW26HZZ,Stereotactic Particulate Radiosurgery of Pelvic Region,DW26HZ,2016,2027
+DW26J,Stereotactic Gamma Beam Radiosurgery,DW26,2016,2027
+DW26JZ,None,DW26J,2016,2027
+DW26JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvic Region,DW26JZ,2016,2027
+DWY,Other Radiation,DW,2016,2027
+DWY1,Head and Neck,DWY,2016,2027
+DWY17,Contact Radiation,DWY1,2016,2027
+DWY17Z,None,DWY17,2016,2027
+DWY17ZZ,Contact Radiation of Head and Neck,DWY17Z,2016,2027
+DWY18,Hyperthermia,DWY1,2016,2027
+DWY18Z,None,DWY18,2016,2027
+DWY18ZZ,Hyperthermia of Head and Neck,DWY18Z,2016,2027
+DWY1F,Plaque Radiation,DWY1,2016,2027
+DWY1FZ,None,DWY1F,2016,2027
+DWY1FZZ,Plaque Radiation of Head and Neck,DWY1FZ,2016,2027
+DWY2,Chest,DWY,2016,2027
+DWY27,Contact Radiation,DWY2,2016,2027
+DWY27Z,None,DWY27,2016,2027
+DWY27ZZ,Contact Radiation of Chest,DWY27Z,2016,2027
+DWY28,Hyperthermia,DWY2,2016,2027
+DWY28Z,None,DWY28,2016,2027
+DWY28ZZ,Hyperthermia of Chest,DWY28Z,2016,2027
+DWY2F,Plaque Radiation,DWY2,2016,2027
+DWY2FZ,None,DWY2F,2016,2027
+DWY2FZZ,Plaque Radiation of Chest,DWY2FZ,2016,2027
+DWY3,Abdomen,DWY,2016,2027
+DWY37,Contact Radiation,DWY3,2016,2027
+DWY37Z,None,DWY37,2016,2027
+DWY37ZZ,Contact Radiation of Abdomen,DWY37Z,2016,2027
+DWY38,Hyperthermia,DWY3,2016,2027
+DWY38Z,None,DWY38,2016,2027
+DWY38ZZ,Hyperthermia of Abdomen,DWY38Z,2016,2027
+DWY3F,Plaque Radiation,DWY3,2016,2027
+DWY3FZ,None,DWY3F,2016,2027
+DWY3FZZ,Plaque Radiation of Abdomen,DWY3FZ,2016,2027
+DWY4,Hemibody,DWY,2016,2027
+DWY47,Contact Radiation,DWY4,2016,2027
+DWY47Z,None,DWY47,2016,2027
+DWY47ZZ,Contact Radiation of Hemibody,DWY47Z,2016,2027
+DWY48,Hyperthermia,DWY4,2016,2027
+DWY48Z,None,DWY48,2016,2027
+DWY48ZZ,Hyperthermia of Hemibody,DWY48Z,2016,2027
+DWY4F,Plaque Radiation,DWY4,2016,2027
+DWY4FZ,None,DWY4F,2016,2027
+DWY4FZZ,Plaque Radiation of Hemibody,DWY4FZ,2016,2027
+DWY5,Whole Body,DWY,2016,2027
+DWY57,Contact Radiation,DWY5,2016,2027
+DWY57Z,None,DWY57,2016,2027
+DWY57ZZ,Contact Radiation of Whole Body,DWY57Z,2016,2027
+DWY58,Hyperthermia,DWY5,2016,2027
+DWY58Z,None,DWY58,2016,2027
+DWY58ZZ,Hyperthermia of Whole Body,DWY58Z,2016,2027
+DWY5F,Plaque Radiation,DWY5,2016,2027
+DWY5FZ,None,DWY5F,2016,2027
+DWY5FZZ,Plaque Radiation of Whole Body,DWY5FZ,2016,2027
+DWY5G,Isotope Administration,DWY5,2016,2027
+DWY5GD,Iodine 131 (I-131),DWY5G,2016,2027
+DWY5GDZ,Isotope Administration to Whole Body using Iodine 131 (I-131),DWY5GD,2016,2027
+DWY5GF,Phosphorus 32 (P-32),DWY5G,2016,2027
+DWY5GFZ,Isotope Administration to Whole Body using Phosphorus 32 (P-32),DWY5GF,2016,2027
+DWY5GG,Strontium 89 (Sr-89),DWY5G,2016,2027
+DWY5GGZ,Isotope Administration to Whole Body using Strontium 89 (Sr-89),DWY5GG,2016,2027
+DWY5GH,Strontium 90 (Sr-90),DWY5G,2016,2027
+DWY5GHZ,Isotope Administration to Whole Body using Strontium 90 (Sr-90),DWY5GH,2016,2027
+DWY5GY,Other Isotope,DWY5G,2016,2027
+DWY5GYZ,Isotope Administration to Whole Body using Other Isotope,DWY5GY,2016,2027
+DWY6,Pelvic Region,DWY,2016,2027
+DWY67,Contact Radiation,DWY6,2016,2027
+DWY67Z,None,DWY67,2016,2027
+DWY67ZZ,Contact Radiation of Pelvic Region,DWY67Z,2016,2027
+DWY68,Hyperthermia,DWY6,2016,2027
+DWY68Z,None,DWY68,2016,2027
+DWY68ZZ,Hyperthermia of Pelvic Region,DWY68Z,2016,2027
+DWY6F,Plaque Radiation,DWY6,2016,2027
+DWY6FZ,None,DWY6F,2016,2027
+DWY6FZZ,Plaque Radiation of Pelvic Region,DWY6FZ,2016,2027

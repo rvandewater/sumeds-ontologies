@@ -1,0 +1,234 @@
+code,description,parent,first_year,last_year
+DU,Female Reproductive System,D,2016,2027
+DU0,Beam Radiation,DU,2016,2027
+DU00,Ovary,DU0,2016,2027
+DU000,Photons <1 MeV,DU00,2016,2027
+DU000Z,None,DU000,2016,2027
+DU000ZZ,Beam Radiation of Ovary using Photons <1 MeV,DU000Z,2016,2027
+DU001,Photons 1 - 10 MeV,DU00,2016,2027
+DU001Z,None,DU001,2016,2027
+DU001ZZ,Beam Radiation of Ovary using Photons 1 - 10 MeV,DU001Z,2016,2027
+DU002,Photons >10 MeV,DU00,2016,2027
+DU002Z,None,DU002,2016,2027
+DU002ZZ,Beam Radiation of Ovary using Photons >10 MeV,DU002Z,2016,2027
+DU003,Electrons,DU00,2016,2027
+DU003Z,None,DU003,2016,2027
+DU003Z0,"Beam Radiation of Ovary using Electrons, Intraoperative",DU003Z,2016,2027
+DU003ZZ,Beam Radiation of Ovary using Electrons,DU003Z,2016,2027
+DU004,"Heavy Particles (Protons,Ions)",DU00,2016,2027
+DU004Z,None,DU004,2016,2027
+DU004ZZ,"Beam Radiation of Ovary using Heavy Particles (Protons,Ions)",DU004Z,2016,2027
+DU005,Neutrons,DU00,2016,2027
+DU005Z,None,DU005,2016,2027
+DU005ZZ,Beam Radiation of Ovary using Neutrons,DU005Z,2016,2027
+DU006,Neutron Capture,DU00,2016,2027
+DU006Z,None,DU006,2016,2027
+DU006ZZ,Beam Radiation of Ovary using Neutron Capture,DU006Z,2016,2027
+DU01,Cervix,DU0,2016,2027
+DU010,Photons <1 MeV,DU01,2016,2027
+DU010Z,None,DU010,2016,2027
+DU010ZZ,Beam Radiation of Cervix using Photons <1 MeV,DU010Z,2016,2027
+DU011,Photons 1 - 10 MeV,DU01,2016,2027
+DU011Z,None,DU011,2016,2027
+DU011ZZ,Beam Radiation of Cervix using Photons 1 - 10 MeV,DU011Z,2016,2027
+DU012,Photons >10 MeV,DU01,2016,2027
+DU012Z,None,DU012,2016,2027
+DU012ZZ,Beam Radiation of Cervix using Photons >10 MeV,DU012Z,2016,2027
+DU013,Electrons,DU01,2016,2027
+DU013Z,None,DU013,2016,2027
+DU013Z0,"Beam Radiation of Cervix using Electrons, Intraoperative",DU013Z,2016,2027
+DU013ZZ,Beam Radiation of Cervix using Electrons,DU013Z,2016,2027
+DU014,"Heavy Particles (Protons,Ions)",DU01,2016,2027
+DU014Z,None,DU014,2016,2027
+DU014ZZ,"Beam Radiation of Cervix using Heavy Particles (Protons,Ions)",DU014Z,2016,2027
+DU015,Neutrons,DU01,2016,2027
+DU015Z,None,DU015,2016,2027
+DU015ZZ,Beam Radiation of Cervix using Neutrons,DU015Z,2016,2027
+DU016,Neutron Capture,DU01,2016,2027
+DU016Z,None,DU016,2016,2027
+DU016ZZ,Beam Radiation of Cervix using Neutron Capture,DU016Z,2016,2027
+DU02,Uterus,DU0,2016,2027
+DU020,Photons <1 MeV,DU02,2016,2027
+DU020Z,None,DU020,2016,2027
+DU020ZZ,Beam Radiation of Uterus using Photons <1 MeV,DU020Z,2016,2027
+DU021,Photons 1 - 10 MeV,DU02,2016,2027
+DU021Z,None,DU021,2016,2027
+DU021ZZ,Beam Radiation of Uterus using Photons 1 - 10 MeV,DU021Z,2016,2027
+DU022,Photons >10 MeV,DU02,2016,2027
+DU022Z,None,DU022,2016,2027
+DU022ZZ,Beam Radiation of Uterus using Photons >10 MeV,DU022Z,2016,2027
+DU023,Electrons,DU02,2016,2027
+DU023Z,None,DU023,2016,2027
+DU023Z0,"Beam Radiation of Uterus using Electrons, Intraoperative",DU023Z,2016,2027
+DU023ZZ,Beam Radiation of Uterus using Electrons,DU023Z,2016,2027
+DU024,"Heavy Particles (Protons,Ions)",DU02,2016,2027
+DU024Z,None,DU024,2016,2027
+DU024ZZ,"Beam Radiation of Uterus using Heavy Particles (Protons,Ions)",DU024Z,2016,2027
+DU025,Neutrons,DU02,2016,2027
+DU025Z,None,DU025,2016,2027
+DU025ZZ,Beam Radiation of Uterus using Neutrons,DU025Z,2016,2027
+DU026,Neutron Capture,DU02,2016,2027
+DU026Z,None,DU026,2016,2027
+DU026ZZ,Beam Radiation of Uterus using Neutron Capture,DU026Z,2016,2027
+DU1,Brachytherapy,DU,2016,2027
+DU10,Ovary,DU1,2016,2027
+DU109,High Dose Rate (HDR),DU10,2016,2027
+DU1097,Cesium 137 (Cs-137),DU109,2016,2027
+DU1097Z,High Dose Rate (HDR) Brachytherapy of Ovary using Cesium 137 (Cs-137),DU1097,2016,2027
+DU1098,Iridium 192 (Ir-192),DU109,2016,2027
+DU1098Z,High Dose Rate (HDR) Brachytherapy of Ovary using Iridium 192 (Ir-192),DU1098,2016,2027
+DU1099,Iodine 125 (I-125),DU109,2016,2027
+DU1099Z,High Dose Rate (HDR) Brachytherapy of Ovary using Iodine 125 (I-125),DU1099,2016,2027
+DU109B,Palladium 103 (Pd-103),DU109,2016,2027
+DU109BZ,High Dose Rate (HDR) Brachytherapy of Ovary using Palladium 103 (Pd-103),DU109B,2016,2027
+DU109C,Californium 252 (Cf-252),DU109,2016,2027
+DU109CZ,High Dose Rate (HDR) Brachytherapy of Ovary using Californium 252 (Cf-252),DU109C,2016,2027
+DU109Y,Other Isotope,DU109,2016,2027
+DU109YZ,High Dose Rate (HDR) Brachytherapy of Ovary using Other Isotope,DU109Y,2016,2027
+DU10B,Low Dose Rate (LDR),DU10,2016,2027
+DU10B6,Cesium 131 (Cs-131),DU10B,2021,2027
+DU10B6Z,Low Dose Rate (LDR) Brachytherapy of Ovary using Cesium 131 (Cs-131),DU10B6,2021,2027
+DU10B7,Cesium 137 (Cs-137),DU10B,2016,2027
+DU10B7Z,Low Dose Rate (LDR) Brachytherapy of Ovary using Cesium 137 (Cs-137),DU10B7,2016,2027
+DU10B8,Iridium 192 (Ir-192),DU10B,2016,2027
+DU10B8Z,Low Dose Rate (LDR) Brachytherapy of Ovary using Iridium 192 (Ir-192),DU10B8,2016,2027
+DU10B9,Iodine 125 (I-125),DU10B,2016,2027
+DU10B9Z,Low Dose Rate (LDR) Brachytherapy of Ovary using Iodine 125 (I-125),DU10B9,2016,2027
+DU10BB,Palladium 103 (Pd-103),DU10B,2016,2027
+DU10BB1,"Low Dose Rate (LDR) Brachytherapy of Ovary using Palladium 103 (Pd-103), Unidirectional Source",DU10BB,2020,2027
+DU10BBZ,Low Dose Rate (LDR) Brachytherapy of Ovary using Palladium 103 (Pd-103),DU10BB,2016,2027
+DU10BC,Californium 252 (Cf-252),DU10B,2016,2027
+DU10BCZ,Low Dose Rate (LDR) Brachytherapy of Ovary using Californium 252 (Cf-252),DU10BC,2016,2027
+DU10BY,Other Isotope,DU10B,2016,2027
+DU10BYZ,Low Dose Rate (LDR) Brachytherapy of Ovary using Other Isotope,DU10BY,2016,2027
+DU11,Cervix,DU1,2016,2027
+DU119,High Dose Rate (HDR),DU11,2016,2027
+DU1197,Cesium 137 (Cs-137),DU119,2016,2027
+DU1197Z,High Dose Rate (HDR) Brachytherapy of Cervix using Cesium 137 (Cs-137),DU1197,2016,2027
+DU1198,Iridium 192 (Ir-192),DU119,2016,2027
+DU1198Z,High Dose Rate (HDR) Brachytherapy of Cervix using Iridium 192 (Ir-192),DU1198,2016,2027
+DU1199,Iodine 125 (I-125),DU119,2016,2027
+DU1199Z,High Dose Rate (HDR) Brachytherapy of Cervix using Iodine 125 (I-125),DU1199,2016,2027
+DU119B,Palladium 103 (Pd-103),DU119,2016,2027
+DU119BZ,High Dose Rate (HDR) Brachytherapy of Cervix using Palladium 103 (Pd-103),DU119B,2016,2027
+DU119C,Californium 252 (Cf-252),DU119,2016,2027
+DU119CZ,High Dose Rate (HDR) Brachytherapy of Cervix using Californium 252 (Cf-252),DU119C,2016,2027
+DU119Y,Other Isotope,DU119,2016,2027
+DU119YZ,High Dose Rate (HDR) Brachytherapy of Cervix using Other Isotope,DU119Y,2016,2027
+DU11B,Low Dose Rate (LDR),DU11,2016,2027
+DU11B6,Cesium 131 (Cs-131),DU11B,2021,2027
+DU11B6Z,Low Dose Rate (LDR) Brachytherapy of Cervix using Cesium 131 (Cs-131),DU11B6,2021,2027
+DU11B7,Cesium 137 (Cs-137),DU11B,2016,2027
+DU11B7Z,Low Dose Rate (LDR) Brachytherapy of Cervix using Cesium 137 (Cs-137),DU11B7,2016,2027
+DU11B8,Iridium 192 (Ir-192),DU11B,2016,2027
+DU11B8Z,Low Dose Rate (LDR) Brachytherapy of Cervix using Iridium 192 (Ir-192),DU11B8,2016,2027
+DU11B9,Iodine 125 (I-125),DU11B,2016,2027
+DU11B9Z,Low Dose Rate (LDR) Brachytherapy of Cervix using Iodine 125 (I-125),DU11B9,2016,2027
+DU11BB,Palladium 103 (Pd-103),DU11B,2016,2027
+DU11BB1,"Low Dose Rate (LDR) Brachytherapy of Cervix using Palladium 103 (Pd-103), Unidirectional Source",DU11BB,2020,2027
+DU11BBZ,Low Dose Rate (LDR) Brachytherapy of Cervix using Palladium 103 (Pd-103),DU11BB,2016,2027
+DU11BC,Californium 252 (Cf-252),DU11B,2016,2027
+DU11BCZ,Low Dose Rate (LDR) Brachytherapy of Cervix using Californium 252 (Cf-252),DU11BC,2016,2027
+DU11BY,Other Isotope,DU11B,2016,2027
+DU11BYZ,Low Dose Rate (LDR) Brachytherapy of Cervix using Other Isotope,DU11BY,2016,2027
+DU12,Uterus,DU1,2016,2027
+DU129,High Dose Rate (HDR),DU12,2016,2027
+DU1297,Cesium 137 (Cs-137),DU129,2016,2027
+DU1297Z,High Dose Rate (HDR) Brachytherapy of Uterus using Cesium 137 (Cs-137),DU1297,2016,2027
+DU1298,Iridium 192 (Ir-192),DU129,2016,2027
+DU1298Z,High Dose Rate (HDR) Brachytherapy of Uterus using Iridium 192 (Ir-192),DU1298,2016,2027
+DU1299,Iodine 125 (I-125),DU129,2016,2027
+DU1299Z,High Dose Rate (HDR) Brachytherapy of Uterus using Iodine 125 (I-125),DU1299,2016,2027
+DU129B,Palladium 103 (Pd-103),DU129,2016,2027
+DU129BZ,High Dose Rate (HDR) Brachytherapy of Uterus using Palladium 103 (Pd-103),DU129B,2016,2027
+DU129C,Californium 252 (Cf-252),DU129,2016,2027
+DU129CZ,High Dose Rate (HDR) Brachytherapy of Uterus using Californium 252 (Cf-252),DU129C,2016,2027
+DU129Y,Other Isotope,DU129,2016,2027
+DU129YZ,High Dose Rate (HDR) Brachytherapy of Uterus using Other Isotope,DU129Y,2016,2027
+DU12B,Low Dose Rate (LDR),DU12,2016,2027
+DU12B6,Cesium 131 (Cs-131),DU12B,2021,2027
+DU12B6Z,Low Dose Rate (LDR) Brachytherapy of Uterus using Cesium 131 (Cs-131),DU12B6,2021,2027
+DU12B7,Cesium 137 (Cs-137),DU12B,2016,2027
+DU12B7Z,Low Dose Rate (LDR) Brachytherapy of Uterus using Cesium 137 (Cs-137),DU12B7,2016,2027
+DU12B8,Iridium 192 (Ir-192),DU12B,2016,2027
+DU12B8Z,Low Dose Rate (LDR) Brachytherapy of Uterus using Iridium 192 (Ir-192),DU12B8,2016,2027
+DU12B9,Iodine 125 (I-125),DU12B,2016,2027
+DU12B9Z,Low Dose Rate (LDR) Brachytherapy of Uterus using Iodine 125 (I-125),DU12B9,2016,2027
+DU12BB,Palladium 103 (Pd-103),DU12B,2016,2027
+DU12BB1,"Low Dose Rate (LDR) Brachytherapy of Uterus using Palladium 103 (Pd-103), Unidirectional Source",DU12BB,2020,2027
+DU12BBZ,Low Dose Rate (LDR) Brachytherapy of Uterus using Palladium 103 (Pd-103),DU12BB,2016,2027
+DU12BC,Californium 252 (Cf-252),DU12B,2016,2027
+DU12BCZ,Low Dose Rate (LDR) Brachytherapy of Uterus using Californium 252 (Cf-252),DU12BC,2016,2027
+DU12BY,Other Isotope,DU12B,2016,2027
+DU12BYZ,Low Dose Rate (LDR) Brachytherapy of Uterus using Other Isotope,DU12BY,2016,2027
+DU2,Stereotactic Radiosurgery,DU,2016,2027
+DU20,Ovary,DU2,2016,2027
+DU20D,Stereotactic Other Photon Radiosurgery,DU20,2016,2027
+DU20DZ,None,DU20D,2016,2027
+DU20DZZ,Stereotactic Other Photon Radiosurgery of Ovary,DU20DZ,2016,2027
+DU20H,Stereotactic Particulate Radiosurgery,DU20,2016,2027
+DU20HZ,None,DU20H,2016,2027
+DU20HZZ,Stereotactic Particulate Radiosurgery of Ovary,DU20HZ,2016,2027
+DU20J,Stereotactic Gamma Beam Radiosurgery,DU20,2016,2027
+DU20JZ,None,DU20J,2016,2027
+DU20JZZ,Stereotactic Gamma Beam Radiosurgery of Ovary,DU20JZ,2016,2027
+DU21,Cervix,DU2,2016,2027
+DU21D,Stereotactic Other Photon Radiosurgery,DU21,2016,2027
+DU21DZ,None,DU21D,2016,2027
+DU21DZZ,Stereotactic Other Photon Radiosurgery of Cervix,DU21DZ,2016,2027
+DU21H,Stereotactic Particulate Radiosurgery,DU21,2016,2027
+DU21HZ,None,DU21H,2016,2027
+DU21HZZ,Stereotactic Particulate Radiosurgery of Cervix,DU21HZ,2016,2027
+DU21J,Stereotactic Gamma Beam Radiosurgery,DU21,2016,2027
+DU21JZ,None,DU21J,2016,2027
+DU21JZZ,Stereotactic Gamma Beam Radiosurgery of Cervix,DU21JZ,2016,2027
+DU22,Uterus,DU2,2016,2027
+DU22D,Stereotactic Other Photon Radiosurgery,DU22,2016,2027
+DU22DZ,None,DU22D,2016,2027
+DU22DZZ,Stereotactic Other Photon Radiosurgery of Uterus,DU22DZ,2016,2027
+DU22H,Stereotactic Particulate Radiosurgery,DU22,2016,2027
+DU22HZ,None,DU22H,2016,2027
+DU22HZZ,Stereotactic Particulate Radiosurgery of Uterus,DU22HZ,2016,2027
+DU22J,Stereotactic Gamma Beam Radiosurgery,DU22,2016,2027
+DU22JZ,None,DU22J,2016,2027
+DU22JZZ,Stereotactic Gamma Beam Radiosurgery of Uterus,DU22JZ,2016,2027
+DUY,Other Radiation,DU,2016,2027
+DUY0,Ovary,DUY,2016,2027
+DUY07,Contact Radiation,DUY0,2016,2027
+DUY07Z,None,DUY07,2016,2027
+DUY07ZZ,Contact Radiation of Ovary,DUY07Z,2016,2027
+DUY08,Hyperthermia,DUY0,2016,2027
+DUY08Z,None,DUY08,2016,2027
+DUY08ZZ,Hyperthermia of Ovary,DUY08Z,2016,2027
+DUY0C,Intraoperative Radiation Therapy (IORT),DUY0,2016,2027
+DUY0CZ,None,DUY0C,2016,2027
+DUY0CZZ,Intraoperative Radiation Therapy (IORT) of Ovary,DUY0CZ,2016,2027
+DUY0F,Plaque Radiation,DUY0,2016,2027
+DUY0FZ,None,DUY0F,2016,2027
+DUY0FZZ,Plaque Radiation of Ovary,DUY0FZ,2016,2027
+DUY1,Cervix,DUY,2016,2027
+DUY17,Contact Radiation,DUY1,2016,2027
+DUY17Z,None,DUY17,2016,2027
+DUY17ZZ,Contact Radiation of Cervix,DUY17Z,2016,2027
+DUY18,Hyperthermia,DUY1,2016,2027
+DUY18Z,None,DUY18,2016,2027
+DUY18ZZ,Hyperthermia of Cervix,DUY18Z,2016,2027
+DUY1C,Intraoperative Radiation Therapy (IORT),DUY1,2016,2027
+DUY1CZ,None,DUY1C,2016,2027
+DUY1CZZ,Intraoperative Radiation Therapy (IORT) of Cervix,DUY1CZ,2016,2027
+DUY1F,Plaque Radiation,DUY1,2016,2027
+DUY1FZ,None,DUY1F,2016,2027
+DUY1FZZ,Plaque Radiation of Cervix,DUY1FZ,2016,2027
+DUY2,Uterus,DUY,2016,2027
+DUY27,Contact Radiation,DUY2,2016,2027
+DUY27Z,None,DUY27,2016,2027
+DUY27ZZ,Contact Radiation of Uterus,DUY27Z,2016,2027
+DUY28,Hyperthermia,DUY2,2016,2027
+DUY28Z,None,DUY28,2016,2027
+DUY28ZZ,Hyperthermia of Uterus,DUY28Z,2016,2027
+DUY2C,Intraoperative Radiation Therapy (IORT),DUY2,2016,2027
+DUY2CZ,None,DUY2C,2016,2027
+DUY2CZZ,Intraoperative Radiation Therapy (IORT) of Uterus,DUY2CZ,2016,2027
+DUY2F,Plaque Radiation,DUY2,2016,2027
+DUY2FZ,None,DUY2F,2016,2027
+DUY2FZZ,Plaque Radiation of Uterus,DUY2FZ,2016,2027

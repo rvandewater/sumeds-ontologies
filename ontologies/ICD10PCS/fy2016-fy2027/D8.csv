@@ -1,0 +1,79 @@
+code,description,parent,first_year,last_year
+D8,Eye,D,2016,2027
+D80,Beam Radiation,D8,2016,2027
+D800,Eye,D80,2016,2027
+D8000,Photons <1 MeV,D800,2016,2027
+D8000Z,None,D8000,2016,2027
+D8000ZZ,Beam Radiation of Eye using Photons <1 MeV,D8000Z,2016,2027
+D8001,Photons 1 - 10 MeV,D800,2016,2027
+D8001Z,None,D8001,2016,2027
+D8001ZZ,Beam Radiation of Eye using Photons 1 - 10 MeV,D8001Z,2016,2027
+D8002,Photons >10 MeV,D800,2016,2027
+D8002Z,None,D8002,2016,2027
+D8002ZZ,Beam Radiation of Eye using Photons >10 MeV,D8002Z,2016,2027
+D8003,Electrons,D800,2016,2027
+D8003Z,None,D8003,2016,2027
+D8003Z0,"Beam Radiation of Eye using Electrons, Intraoperative",D8003Z,2016,2027
+D8003ZZ,Beam Radiation of Eye using Electrons,D8003Z,2016,2027
+D8004,"Heavy Particles (Protons,Ions)",D800,2016,2027
+D8004Z,None,D8004,2016,2027
+D8004ZZ,"Beam Radiation of Eye using Heavy Particles (Protons,Ions)",D8004Z,2016,2027
+D8005,Neutrons,D800,2016,2027
+D8005Z,None,D8005,2016,2027
+D8005ZZ,Beam Radiation of Eye using Neutrons,D8005Z,2016,2027
+D8006,Neutron Capture,D800,2016,2027
+D8006Z,None,D8006,2016,2027
+D8006ZZ,Beam Radiation of Eye using Neutron Capture,D8006Z,2016,2027
+D81,Brachytherapy,D8,2016,2027
+D810,Eye,D81,2016,2027
+D8109,High Dose Rate (HDR),D810,2016,2027
+D81097,Cesium 137 (Cs-137),D8109,2016,2027
+D81097Z,High Dose Rate (HDR) Brachytherapy of Eye using Cesium 137 (Cs-137),D81097,2016,2027
+D81098,Iridium 192 (Ir-192),D8109,2016,2027
+D81098Z,High Dose Rate (HDR) Brachytherapy of Eye using Iridium 192 (Ir-192),D81098,2016,2027
+D81099,Iodine 125 (I-125),D8109,2016,2027
+D81099Z,High Dose Rate (HDR) Brachytherapy of Eye using Iodine 125 (I-125),D81099,2016,2027
+D8109B,Palladium 103 (Pd-103),D8109,2016,2027
+D8109BZ,High Dose Rate (HDR) Brachytherapy of Eye using Palladium 103 (Pd-103),D8109B,2016,2027
+D8109C,Californium 252 (Cf-252),D8109,2016,2027
+D8109CZ,High Dose Rate (HDR) Brachytherapy of Eye using Californium 252 (Cf-252),D8109C,2016,2027
+D8109Y,Other Isotope,D8109,2016,2027
+D8109YZ,High Dose Rate (HDR) Brachytherapy of Eye using Other Isotope,D8109Y,2016,2027
+D810B,Low Dose Rate (LDR),D810,2016,2027
+D810B6,Cesium 131 (Cs-131),D810B,2021,2027
+D810B6Z,Low Dose Rate (LDR) Brachytherapy of Eye using Cesium 131 (Cs-131),D810B6,2021,2027
+D810B7,Cesium 137 (Cs-137),D810B,2016,2027
+D810B7Z,Low Dose Rate (LDR) Brachytherapy of Eye using Cesium 137 (Cs-137),D810B7,2016,2027
+D810B8,Iridium 192 (Ir-192),D810B,2016,2027
+D810B8Z,Low Dose Rate (LDR) Brachytherapy of Eye using Iridium 192 (Ir-192),D810B8,2016,2027
+D810B9,Iodine 125 (I-125),D810B,2016,2027
+D810B9Z,Low Dose Rate (LDR) Brachytherapy of Eye using Iodine 125 (I-125),D810B9,2016,2027
+D810BB,Palladium 103 (Pd-103),D810B,2016,2027
+D810BB1,"Low Dose Rate (LDR) Brachytherapy of Eye using Palladium 103 (Pd-103), Unidirectional Source",D810BB,2020,2027
+D810BBZ,Low Dose Rate (LDR) Brachytherapy of Eye using Palladium 103 (Pd-103),D810BB,2016,2027
+D810BC,Californium 252 (Cf-252),D810B,2016,2027
+D810BCZ,Low Dose Rate (LDR) Brachytherapy of Eye using Californium 252 (Cf-252),D810BC,2016,2027
+D810BY,Other Isotope,D810B,2016,2027
+D810BYZ,Low Dose Rate (LDR) Brachytherapy of Eye using Other Isotope,D810BY,2016,2027
+D82,Stereotactic Radiosurgery,D8,2016,2027
+D820,Eye,D82,2016,2027
+D820D,Stereotactic Other Photon Radiosurgery,D820,2016,2027
+D820DZ,None,D820D,2016,2027
+D820DZZ,Stereotactic Other Photon Radiosurgery of Eye,D820DZ,2016,2027
+D820H,Stereotactic Particulate Radiosurgery,D820,2016,2027
+D820HZ,None,D820H,2016,2027
+D820HZZ,Stereotactic Particulate Radiosurgery of Eye,D820HZ,2016,2027
+D820J,Stereotactic Gamma Beam Radiosurgery,D820,2016,2027
+D820JZ,None,D820J,2016,2027
+D820JZZ,Stereotactic Gamma Beam Radiosurgery of Eye,D820JZ,2016,2027
+D8Y,Other Radiation,D8,2016,2027
+D8Y0,Eye,D8Y,2016,2027
+D8Y07,Contact Radiation,D8Y0,2016,2027
+D8Y07Z,None,D8Y07,2016,2027
+D8Y07ZZ,Contact Radiation of Eye,D8Y07Z,2016,2027
+D8Y08,Hyperthermia,D8Y0,2016,2027
+D8Y08Z,None,D8Y08,2016,2027
+D8Y08ZZ,Hyperthermia of Eye,D8Y08Z,2016,2027
+D8Y0F,Plaque Radiation,D8Y0,2016,2027
+D8Y0FZ,None,D8Y0F,2016,2027
+D8Y0FZZ,Plaque Radiation of Eye,D8Y0FZ,2016,2027

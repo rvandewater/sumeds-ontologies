@@ -1,0 +1,367 @@
+code,description,parent,first_year,last_year
+DP,Musculoskeletal System,D,2016,2027
+DP0,Beam Radiation,DP,2016,2027
+DP00,Skull,DP0,2016,2027
+DP000,Photons <1 MeV,DP00,2016,2027
+DP000Z,None,DP000,2016,2027
+DP000ZZ,Beam Radiation of Skull using Photons <1 MeV,DP000Z,2016,2027
+DP001,Photons 1 - 10 MeV,DP00,2016,2027
+DP001Z,None,DP001,2016,2027
+DP001ZZ,Beam Radiation of Skull using Photons 1 - 10 MeV,DP001Z,2016,2027
+DP002,Photons >10 MeV,DP00,2016,2027
+DP002Z,None,DP002,2016,2027
+DP002ZZ,Beam Radiation of Skull using Photons >10 MeV,DP002Z,2016,2027
+DP003,Electrons,DP00,2016,2027
+DP003Z,None,DP003,2016,2027
+DP003Z0,"Beam Radiation of Skull using Electrons, Intraoperative",DP003Z,2016,2027
+DP003ZZ,Beam Radiation of Skull using Electrons,DP003Z,2016,2027
+DP004,"Heavy Particles (Protons,Ions)",DP00,2016,2027
+DP004Z,None,DP004,2016,2027
+DP004ZZ,"Beam Radiation of Skull using Heavy Particles (Protons,Ions)",DP004Z,2016,2027
+DP005,Neutrons,DP00,2016,2027
+DP005Z,None,DP005,2016,2027
+DP005ZZ,Beam Radiation of Skull using Neutrons,DP005Z,2016,2027
+DP006,Neutron Capture,DP00,2016,2027
+DP006Z,None,DP006,2016,2027
+DP006ZZ,Beam Radiation of Skull using Neutron Capture,DP006Z,2016,2027
+DP02,Maxilla,DP0,2016,2027
+DP020,Photons <1 MeV,DP02,2016,2027
+DP020Z,None,DP020,2016,2027
+DP020ZZ,Beam Radiation of Maxilla using Photons <1 MeV,DP020Z,2016,2027
+DP021,Photons 1 - 10 MeV,DP02,2016,2027
+DP021Z,None,DP021,2016,2027
+DP021ZZ,Beam Radiation of Maxilla using Photons 1 - 10 MeV,DP021Z,2016,2027
+DP022,Photons >10 MeV,DP02,2016,2027
+DP022Z,None,DP022,2016,2027
+DP022ZZ,Beam Radiation of Maxilla using Photons >10 MeV,DP022Z,2016,2027
+DP023,Electrons,DP02,2016,2027
+DP023Z,None,DP023,2016,2027
+DP023Z0,"Beam Radiation of Maxilla using Electrons, Intraoperative",DP023Z,2016,2027
+DP023ZZ,Beam Radiation of Maxilla using Electrons,DP023Z,2016,2027
+DP024,"Heavy Particles (Protons,Ions)",DP02,2016,2027
+DP024Z,None,DP024,2016,2027
+DP024ZZ,"Beam Radiation of Maxilla using Heavy Particles (Protons,Ions)",DP024Z,2016,2027
+DP025,Neutrons,DP02,2016,2027
+DP025Z,None,DP025,2016,2027
+DP025ZZ,Beam Radiation of Maxilla using Neutrons,DP025Z,2016,2027
+DP026,Neutron Capture,DP02,2016,2027
+DP026Z,None,DP026,2016,2027
+DP026ZZ,Beam Radiation of Maxilla using Neutron Capture,DP026Z,2016,2027
+DP03,Mandible,DP0,2016,2027
+DP030,Photons <1 MeV,DP03,2016,2027
+DP030Z,None,DP030,2016,2027
+DP030ZZ,Beam Radiation of Mandible using Photons <1 MeV,DP030Z,2016,2027
+DP031,Photons 1 - 10 MeV,DP03,2016,2027
+DP031Z,None,DP031,2016,2027
+DP031ZZ,Beam Radiation of Mandible using Photons 1 - 10 MeV,DP031Z,2016,2027
+DP032,Photons >10 MeV,DP03,2016,2027
+DP032Z,None,DP032,2016,2027
+DP032ZZ,Beam Radiation of Mandible using Photons >10 MeV,DP032Z,2016,2027
+DP033,Electrons,DP03,2016,2027
+DP033Z,None,DP033,2016,2027
+DP033Z0,"Beam Radiation of Mandible using Electrons, Intraoperative",DP033Z,2016,2027
+DP033ZZ,Beam Radiation of Mandible using Electrons,DP033Z,2016,2027
+DP034,"Heavy Particles (Protons,Ions)",DP03,2016,2027
+DP034Z,None,DP034,2016,2027
+DP034ZZ,"Beam Radiation of Mandible using Heavy Particles (Protons,Ions)",DP034Z,2016,2027
+DP035,Neutrons,DP03,2016,2027
+DP035Z,None,DP035,2016,2027
+DP035ZZ,Beam Radiation of Mandible using Neutrons,DP035Z,2016,2027
+DP036,Neutron Capture,DP03,2016,2027
+DP036Z,None,DP036,2016,2027
+DP036ZZ,Beam Radiation of Mandible using Neutron Capture,DP036Z,2016,2027
+DP04,Sternum,DP0,2016,2027
+DP040,Photons <1 MeV,DP04,2016,2027
+DP040Z,None,DP040,2016,2027
+DP040ZZ,Beam Radiation of Sternum using Photons <1 MeV,DP040Z,2016,2027
+DP041,Photons 1 - 10 MeV,DP04,2016,2027
+DP041Z,None,DP041,2016,2027
+DP041ZZ,Beam Radiation of Sternum using Photons 1 - 10 MeV,DP041Z,2016,2027
+DP042,Photons >10 MeV,DP04,2016,2027
+DP042Z,None,DP042,2016,2027
+DP042ZZ,Beam Radiation of Sternum using Photons >10 MeV,DP042Z,2016,2027
+DP043,Electrons,DP04,2016,2027
+DP043Z,None,DP043,2016,2027
+DP043Z0,"Beam Radiation of Sternum using Electrons, Intraoperative",DP043Z,2016,2027
+DP043ZZ,Beam Radiation of Sternum using Electrons,DP043Z,2016,2027
+DP044,"Heavy Particles (Protons,Ions)",DP04,2016,2027
+DP044Z,None,DP044,2016,2027
+DP044ZZ,"Beam Radiation of Sternum using Heavy Particles (Protons,Ions)",DP044Z,2016,2027
+DP045,Neutrons,DP04,2016,2027
+DP045Z,None,DP045,2016,2027
+DP045ZZ,Beam Radiation of Sternum using Neutrons,DP045Z,2016,2027
+DP046,Neutron Capture,DP04,2016,2027
+DP046Z,None,DP046,2016,2027
+DP046ZZ,Beam Radiation of Sternum using Neutron Capture,DP046Z,2016,2027
+DP05,Rib(s),DP0,2016,2027
+DP050,Photons <1 MeV,DP05,2016,2027
+DP050Z,None,DP050,2016,2027
+DP050ZZ,Beam Radiation of Rib(s) using Photons <1 MeV,DP050Z,2016,2027
+DP051,Photons 1 - 10 MeV,DP05,2016,2027
+DP051Z,None,DP051,2016,2027
+DP051ZZ,Beam Radiation of Rib(s) using Photons 1 - 10 MeV,DP051Z,2016,2027
+DP052,Photons >10 MeV,DP05,2016,2027
+DP052Z,None,DP052,2016,2027
+DP052ZZ,Beam Radiation of Rib(s) using Photons >10 MeV,DP052Z,2016,2027
+DP053,Electrons,DP05,2016,2027
+DP053Z,None,DP053,2016,2027
+DP053Z0,"Beam Radiation of Rib(s) using Electrons, Intraoperative",DP053Z,2016,2027
+DP053ZZ,Beam Radiation of Rib(s) using Electrons,DP053Z,2016,2027
+DP054,"Heavy Particles (Protons,Ions)",DP05,2016,2027
+DP054Z,None,DP054,2016,2027
+DP054ZZ,"Beam Radiation of Rib(s) using Heavy Particles (Protons,Ions)",DP054Z,2016,2027
+DP055,Neutrons,DP05,2016,2027
+DP055Z,None,DP055,2016,2027
+DP055ZZ,Beam Radiation of Rib(s) using Neutrons,DP055Z,2016,2027
+DP056,Neutron Capture,DP05,2016,2027
+DP056Z,None,DP056,2016,2027
+DP056ZZ,Beam Radiation of Rib(s) using Neutron Capture,DP056Z,2016,2027
+DP06,Humerus,DP0,2016,2027
+DP060,Photons <1 MeV,DP06,2016,2027
+DP060Z,None,DP060,2016,2027
+DP060ZZ,Beam Radiation of Humerus using Photons <1 MeV,DP060Z,2016,2027
+DP061,Photons 1 - 10 MeV,DP06,2016,2027
+DP061Z,None,DP061,2016,2027
+DP061ZZ,Beam Radiation of Humerus using Photons 1 - 10 MeV,DP061Z,2016,2027
+DP062,Photons >10 MeV,DP06,2016,2027
+DP062Z,None,DP062,2016,2027
+DP062ZZ,Beam Radiation of Humerus using Photons >10 MeV,DP062Z,2016,2027
+DP063,Electrons,DP06,2016,2027
+DP063Z,None,DP063,2016,2027
+DP063Z0,"Beam Radiation of Humerus using Electrons, Intraoperative",DP063Z,2016,2027
+DP063ZZ,Beam Radiation of Humerus using Electrons,DP063Z,2016,2027
+DP064,"Heavy Particles (Protons,Ions)",DP06,2016,2027
+DP064Z,None,DP064,2016,2027
+DP064ZZ,"Beam Radiation of Humerus using Heavy Particles (Protons,Ions)",DP064Z,2016,2027
+DP065,Neutrons,DP06,2016,2027
+DP065Z,None,DP065,2016,2027
+DP065ZZ,Beam Radiation of Humerus using Neutrons,DP065Z,2016,2027
+DP066,Neutron Capture,DP06,2016,2027
+DP066Z,None,DP066,2016,2027
+DP066ZZ,Beam Radiation of Humerus using Neutron Capture,DP066Z,2016,2027
+DP07,Radius/Ulna,DP0,2016,2027
+DP070,Photons <1 MeV,DP07,2016,2027
+DP070Z,None,DP070,2016,2027
+DP070ZZ,Beam Radiation of Radius/Ulna using Photons <1 MeV,DP070Z,2016,2027
+DP071,Photons 1 - 10 MeV,DP07,2016,2027
+DP071Z,None,DP071,2016,2027
+DP071ZZ,Beam Radiation of Radius/Ulna using Photons 1 - 10 MeV,DP071Z,2016,2027
+DP072,Photons >10 MeV,DP07,2016,2027
+DP072Z,None,DP072,2016,2027
+DP072ZZ,Beam Radiation of Radius/Ulna using Photons >10 MeV,DP072Z,2016,2027
+DP073,Electrons,DP07,2016,2027
+DP073Z,None,DP073,2016,2027
+DP073Z0,"Beam Radiation of Radius/Ulna using Electrons, Intraoperative",DP073Z,2016,2027
+DP073ZZ,Beam Radiation of Radius/Ulna using Electrons,DP073Z,2016,2027
+DP074,"Heavy Particles (Protons,Ions)",DP07,2016,2027
+DP074Z,None,DP074,2016,2027
+DP074ZZ,"Beam Radiation of Radius/Ulna using Heavy Particles (Protons,Ions)",DP074Z,2016,2027
+DP075,Neutrons,DP07,2016,2027
+DP075Z,None,DP075,2016,2027
+DP075ZZ,Beam Radiation of Radius/Ulna using Neutrons,DP075Z,2016,2027
+DP076,Neutron Capture,DP07,2016,2027
+DP076Z,None,DP076,2016,2027
+DP076ZZ,Beam Radiation of Radius/Ulna using Neutron Capture,DP076Z,2016,2027
+DP08,Pelvic Bones,DP0,2016,2027
+DP080,Photons <1 MeV,DP08,2016,2027
+DP080Z,None,DP080,2016,2027
+DP080ZZ,Beam Radiation of Pelvic Bones using Photons <1 MeV,DP080Z,2016,2027
+DP081,Photons 1 - 10 MeV,DP08,2016,2027
+DP081Z,None,DP081,2016,2027
+DP081ZZ,Beam Radiation of Pelvic Bones using Photons 1 - 10 MeV,DP081Z,2016,2027
+DP082,Photons >10 MeV,DP08,2016,2027
+DP082Z,None,DP082,2016,2027
+DP082ZZ,Beam Radiation of Pelvic Bones using Photons >10 MeV,DP082Z,2016,2027
+DP083,Electrons,DP08,2016,2027
+DP083Z,None,DP083,2016,2027
+DP083Z0,"Beam Radiation of Pelvic Bones using Electrons, Intraoperative",DP083Z,2016,2027
+DP083ZZ,Beam Radiation of Pelvic Bones using Electrons,DP083Z,2016,2027
+DP084,"Heavy Particles (Protons,Ions)",DP08,2016,2027
+DP084Z,None,DP084,2016,2027
+DP084ZZ,"Beam Radiation of Pelvic Bones using Heavy Particles (Protons,Ions)",DP084Z,2016,2027
+DP085,Neutrons,DP08,2016,2027
+DP085Z,None,DP085,2016,2027
+DP085ZZ,Beam Radiation of Pelvic Bones using Neutrons,DP085Z,2016,2027
+DP086,Neutron Capture,DP08,2016,2027
+DP086Z,None,DP086,2016,2027
+DP086ZZ,Beam Radiation of Pelvic Bones using Neutron Capture,DP086Z,2016,2027
+DP09,Femur,DP0,2016,2027
+DP090,Photons <1 MeV,DP09,2016,2027
+DP090Z,None,DP090,2016,2027
+DP090ZZ,Beam Radiation of Femur using Photons <1 MeV,DP090Z,2016,2027
+DP091,Photons 1 - 10 MeV,DP09,2016,2027
+DP091Z,None,DP091,2016,2027
+DP091ZZ,Beam Radiation of Femur using Photons 1 - 10 MeV,DP091Z,2016,2027
+DP092,Photons >10 MeV,DP09,2016,2027
+DP092Z,None,DP092,2016,2027
+DP092ZZ,Beam Radiation of Femur using Photons >10 MeV,DP092Z,2016,2027
+DP093,Electrons,DP09,2016,2027
+DP093Z,None,DP093,2016,2027
+DP093Z0,"Beam Radiation of Femur using Electrons, Intraoperative",DP093Z,2016,2027
+DP093ZZ,Beam Radiation of Femur using Electrons,DP093Z,2016,2027
+DP094,"Heavy Particles (Protons,Ions)",DP09,2016,2027
+DP094Z,None,DP094,2016,2027
+DP094ZZ,"Beam Radiation of Femur using Heavy Particles (Protons,Ions)",DP094Z,2016,2027
+DP095,Neutrons,DP09,2016,2027
+DP095Z,None,DP095,2016,2027
+DP095ZZ,Beam Radiation of Femur using Neutrons,DP095Z,2016,2027
+DP096,Neutron Capture,DP09,2016,2027
+DP096Z,None,DP096,2016,2027
+DP096ZZ,Beam Radiation of Femur using Neutron Capture,DP096Z,2016,2027
+DP0B,Tibia/Fibula,DP0,2016,2027
+DP0B0,Photons <1 MeV,DP0B,2016,2027
+DP0B0Z,None,DP0B0,2016,2027
+DP0B0ZZ,Beam Radiation of Tibia/Fibula using Photons <1 MeV,DP0B0Z,2016,2027
+DP0B1,Photons 1 - 10 MeV,DP0B,2016,2027
+DP0B1Z,None,DP0B1,2016,2027
+DP0B1ZZ,Beam Radiation of Tibia/Fibula using Photons 1 - 10 MeV,DP0B1Z,2016,2027
+DP0B2,Photons >10 MeV,DP0B,2016,2027
+DP0B2Z,None,DP0B2,2016,2027
+DP0B2ZZ,Beam Radiation of Tibia/Fibula using Photons >10 MeV,DP0B2Z,2016,2027
+DP0B3,Electrons,DP0B,2016,2027
+DP0B3Z,None,DP0B3,2016,2027
+DP0B3Z0,"Beam Radiation of Tibia/Fibula using Electrons, Intraoperative",DP0B3Z,2016,2027
+DP0B3ZZ,Beam Radiation of Tibia/Fibula using Electrons,DP0B3Z,2016,2027
+DP0B4,"Heavy Particles (Protons,Ions)",DP0B,2016,2027
+DP0B4Z,None,DP0B4,2016,2027
+DP0B4ZZ,"Beam Radiation of Tibia/Fibula using Heavy Particles (Protons,Ions)",DP0B4Z,2016,2027
+DP0B5,Neutrons,DP0B,2016,2027
+DP0B5Z,None,DP0B5,2016,2027
+DP0B5ZZ,Beam Radiation of Tibia/Fibula using Neutrons,DP0B5Z,2016,2027
+DP0B6,Neutron Capture,DP0B,2016,2027
+DP0B6Z,None,DP0B6,2016,2027
+DP0B6ZZ,Beam Radiation of Tibia/Fibula using Neutron Capture,DP0B6Z,2016,2027
+DP0C,Other Bone,DP0,2016,2027
+DP0C0,Photons <1 MeV,DP0C,2016,2027
+DP0C0Z,None,DP0C0,2016,2027
+DP0C0ZZ,Beam Radiation of Other Bone using Photons <1 MeV,DP0C0Z,2016,2027
+DP0C1,Photons 1 - 10 MeV,DP0C,2016,2027
+DP0C1Z,None,DP0C1,2016,2027
+DP0C1ZZ,Beam Radiation of Other Bone using Photons 1 - 10 MeV,DP0C1Z,2016,2027
+DP0C2,Photons >10 MeV,DP0C,2016,2027
+DP0C2Z,None,DP0C2,2016,2027
+DP0C2ZZ,Beam Radiation of Other Bone using Photons >10 MeV,DP0C2Z,2016,2027
+DP0C3,Electrons,DP0C,2016,2027
+DP0C3Z,None,DP0C3,2016,2027
+DP0C3Z0,"Beam Radiation of Other Bone using Electrons, Intraoperative",DP0C3Z,2016,2027
+DP0C3ZZ,Beam Radiation of Other Bone using Electrons,DP0C3Z,2016,2027
+DP0C4,"Heavy Particles (Protons,Ions)",DP0C,2016,2027
+DP0C4Z,None,DP0C4,2016,2027
+DP0C4ZZ,"Beam Radiation of Other Bone using Heavy Particles (Protons,Ions)",DP0C4Z,2016,2027
+DP0C5,Neutrons,DP0C,2016,2027
+DP0C5Z,None,DP0C5,2016,2027
+DP0C5ZZ,Beam Radiation of Other Bone using Neutrons,DP0C5Z,2016,2027
+DP0C6,Neutron Capture,DP0C,2016,2027
+DP0C6Z,None,DP0C6,2016,2027
+DP0C6ZZ,Beam Radiation of Other Bone using Neutron Capture,DP0C6Z,2016,2027
+DPY,Other Radiation,DP,2016,2027
+DPY0,Skull,DPY,2016,2027
+DPY07,Contact Radiation,DPY0,2016,2027
+DPY07Z,None,DPY07,2016,2027
+DPY07ZZ,Contact Radiation of Skull,DPY07Z,2016,2027
+DPY08,Hyperthermia,DPY0,2016,2027
+DPY08Z,None,DPY08,2016,2027
+DPY08ZZ,Hyperthermia of Skull,DPY08Z,2016,2027
+DPY0F,Plaque Radiation,DPY0,2016,2027
+DPY0FZ,None,DPY0F,2016,2027
+DPY0FZZ,Plaque Radiation of Skull,DPY0FZ,2016,2027
+DPY2,Maxilla,DPY,2016,2027
+DPY27,Contact Radiation,DPY2,2016,2027
+DPY27Z,None,DPY27,2016,2027
+DPY27ZZ,Contact Radiation of Maxilla,DPY27Z,2016,2027
+DPY28,Hyperthermia,DPY2,2016,2027
+DPY28Z,None,DPY28,2016,2027
+DPY28ZZ,Hyperthermia of Maxilla,DPY28Z,2016,2027
+DPY2F,Plaque Radiation,DPY2,2016,2027
+DPY2FZ,None,DPY2F,2016,2027
+DPY2FZZ,Plaque Radiation of Maxilla,DPY2FZ,2016,2027
+DPY3,Mandible,DPY,2016,2027
+DPY37,Contact Radiation,DPY3,2016,2027
+DPY37Z,None,DPY37,2016,2027
+DPY37ZZ,Contact Radiation of Mandible,DPY37Z,2016,2027
+DPY38,Hyperthermia,DPY3,2016,2027
+DPY38Z,None,DPY38,2016,2027
+DPY38ZZ,Hyperthermia of Mandible,DPY38Z,2016,2027
+DPY3F,Plaque Radiation,DPY3,2016,2027
+DPY3FZ,None,DPY3F,2016,2027
+DPY3FZZ,Plaque Radiation of Mandible,DPY3FZ,2016,2027
+DPY4,Sternum,DPY,2016,2027
+DPY47,Contact Radiation,DPY4,2016,2027
+DPY47Z,None,DPY47,2016,2027
+DPY47ZZ,Contact Radiation of Sternum,DPY47Z,2016,2027
+DPY48,Hyperthermia,DPY4,2016,2027
+DPY48Z,None,DPY48,2016,2027
+DPY48ZZ,Hyperthermia of Sternum,DPY48Z,2016,2027
+DPY4F,Plaque Radiation,DPY4,2016,2027
+DPY4FZ,None,DPY4F,2016,2027
+DPY4FZZ,Plaque Radiation of Sternum,DPY4FZ,2016,2027
+DPY5,Rib(s),DPY,2016,2027
+DPY57,Contact Radiation,DPY5,2016,2027
+DPY57Z,None,DPY57,2016,2027
+DPY57ZZ,Contact Radiation of Rib(s),DPY57Z,2016,2027
+DPY58,Hyperthermia,DPY5,2016,2027
+DPY58Z,None,DPY58,2016,2027
+DPY58ZZ,Hyperthermia of Rib(s),DPY58Z,2016,2027
+DPY5F,Plaque Radiation,DPY5,2016,2027
+DPY5FZ,None,DPY5F,2016,2027
+DPY5FZZ,Plaque Radiation of Rib(s),DPY5FZ,2016,2027
+DPY6,Humerus,DPY,2016,2027
+DPY67,Contact Radiation,DPY6,2016,2027
+DPY67Z,None,DPY67,2016,2027
+DPY67ZZ,Contact Radiation of Humerus,DPY67Z,2016,2027
+DPY68,Hyperthermia,DPY6,2016,2027
+DPY68Z,None,DPY68,2016,2027
+DPY68ZZ,Hyperthermia of Humerus,DPY68Z,2016,2027
+DPY6F,Plaque Radiation,DPY6,2016,2027
+DPY6FZ,None,DPY6F,2016,2027
+DPY6FZZ,Plaque Radiation of Humerus,DPY6FZ,2016,2027
+DPY7,Radius/Ulna,DPY,2016,2027
+DPY77,Contact Radiation,DPY7,2016,2027
+DPY77Z,None,DPY77,2016,2027
+DPY77ZZ,Contact Radiation of Radius/Ulna,DPY77Z,2016,2027
+DPY78,Hyperthermia,DPY7,2016,2027
+DPY78Z,None,DPY78,2016,2027
+DPY78ZZ,Hyperthermia of Radius/Ulna,DPY78Z,2016,2027
+DPY7F,Plaque Radiation,DPY7,2016,2027
+DPY7FZ,None,DPY7F,2016,2027
+DPY7FZZ,Plaque Radiation of Radius/Ulna,DPY7FZ,2016,2027
+DPY8,Pelvic Bones,DPY,2016,2027
+DPY87,Contact Radiation,DPY8,2016,2027
+DPY87Z,None,DPY87,2016,2027
+DPY87ZZ,Contact Radiation of Pelvic Bones,DPY87Z,2016,2027
+DPY88,Hyperthermia,DPY8,2016,2027
+DPY88Z,None,DPY88,2016,2027
+DPY88ZZ,Hyperthermia of Pelvic Bones,DPY88Z,2016,2027
+DPY8F,Plaque Radiation,DPY8,2016,2027
+DPY8FZ,None,DPY8F,2016,2027
+DPY8FZZ,Plaque Radiation of Pelvic Bones,DPY8FZ,2016,2027
+DPY9,Femur,DPY,2016,2027
+DPY97,Contact Radiation,DPY9,2016,2027
+DPY97Z,None,DPY97,2016,2027
+DPY97ZZ,Contact Radiation of Femur,DPY97Z,2016,2027
+DPY98,Hyperthermia,DPY9,2016,2027
+DPY98Z,None,DPY98,2016,2027
+DPY98ZZ,Hyperthermia of Femur,DPY98Z,2016,2027
+DPY9F,Plaque Radiation,DPY9,2016,2027
+DPY9FZ,None,DPY9F,2016,2027
+DPY9FZZ,Plaque Radiation of Femur,DPY9FZ,2016,2027
+DPYB,Tibia/Fibula,DPY,2016,2027
+DPYB7,Contact Radiation,DPYB,2016,2027
+DPYB7Z,None,DPYB7,2016,2027
+DPYB7ZZ,Contact Radiation of Tibia/Fibula,DPYB7Z,2016,2027
+DPYB8,Hyperthermia,DPYB,2016,2027
+DPYB8Z,None,DPYB8,2016,2027
+DPYB8ZZ,Hyperthermia of Tibia/Fibula,DPYB8Z,2016,2027
+DPYBF,Plaque Radiation,DPYB,2016,2027
+DPYBFZ,None,DPYBF,2016,2027
+DPYBFZZ,Plaque Radiation of Tibia/Fibula,DPYBFZ,2016,2027
+DPYC,Other Bone,DPY,2016,2027
+DPYC7,Contact Radiation,DPYC,2016,2027
+DPYC7Z,None,DPYC7,2016,2027
+DPYC7ZZ,Contact Radiation of Other Bone,DPYC7Z,2016,2027
+DPYC8,Hyperthermia,DPYC,2016,2027
+DPYC8Z,None,DPYC8,2016,2027
+DPYC8ZZ,Hyperthermia of Other Bone,DPYC8Z,2016,2027
+DPYCF,Plaque Radiation,DPYC,2016,2027
+DPYCFZ,None,DPYCF,2016,2027
+DPYCFZZ,Plaque Radiation of Other Bone,DPYCFZ,2016,2027

@@ -1,0 +1,602 @@
+code,description,parent,first_year,last_year
+CW,Anatomical Regions,C,2016,2027
+CW1,Planar Nuclear Medicine Imaging,CW,2016,2027
+CW10,Abdomen,CW1,2016,2027
+CW101,Technetium 99m (Tc-99m),CW10,2016,2027
+CW101Z,None,CW101,2016,2027
+CW101ZZ,Planar Nuclear Medicine Imaging of Abdomen using Technetium 99m (Tc-99m),CW101Z,2016,2027
+CW10D,Indium 111 (In-111),CW10,2016,2027
+CW10DZ,None,CW10D,2016,2027
+CW10DZZ,Planar Nuclear Medicine Imaging of Abdomen using Indium 111 (In-111),CW10DZ,2016,2027
+CW10F,Iodine 123 (I-123),CW10,2016,2027
+CW10FZ,None,CW10F,2016,2027
+CW10FZZ,Planar Nuclear Medicine Imaging of Abdomen using Iodine 123 (I-123),CW10FZ,2016,2027
+CW10G,Iodine 131 (I-131),CW10,2016,2027
+CW10GZ,None,CW10G,2016,2027
+CW10GZZ,Planar Nuclear Medicine Imaging of Abdomen using Iodine 131 (I-131),CW10GZ,2016,2027
+CW10L,Gallium 67 (Ga-67),CW10,2016,2027
+CW10LZ,None,CW10L,2016,2027
+CW10LZZ,Planar Nuclear Medicine Imaging of Abdomen using Gallium 67 (Ga-67),CW10LZ,2016,2027
+CW10S,Thallium 201 (Tl-201),CW10,2016,2027
+CW10SZ,None,CW10S,2016,2027
+CW10SZZ,Planar Nuclear Medicine Imaging of Abdomen using Thallium 201 (Tl-201),CW10SZ,2016,2027
+CW10Y,Other Radionuclide,CW10,2016,2027
+CW10YZ,None,CW10Y,2016,2027
+CW10YZZ,Planar Nuclear Medicine Imaging of Abdomen using Other Radionuclide,CW10YZ,2016,2027
+CW11,Abdomen and Pelvis,CW1,2016,2027
+CW111,Technetium 99m (Tc-99m),CW11,2016,2027
+CW111Z,None,CW111,2016,2027
+CW111ZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Technetium 99m (Tc-99m),CW111Z,2016,2027
+CW11D,Indium 111 (In-111),CW11,2016,2027
+CW11DZ,None,CW11D,2016,2027
+CW11DZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Indium 111 (In-111),CW11DZ,2016,2027
+CW11F,Iodine 123 (I-123),CW11,2016,2027
+CW11FZ,None,CW11F,2016,2027
+CW11FZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Iodine 123 (I-123),CW11FZ,2016,2027
+CW11G,Iodine 131 (I-131),CW11,2016,2027
+CW11GZ,None,CW11G,2016,2027
+CW11GZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Iodine 131 (I-131),CW11GZ,2016,2027
+CW11L,Gallium 67 (Ga-67),CW11,2016,2027
+CW11LZ,None,CW11L,2016,2027
+CW11LZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Gallium 67 (Ga-67),CW11LZ,2016,2027
+CW11S,Thallium 201 (Tl-201),CW11,2016,2027
+CW11SZ,None,CW11S,2016,2027
+CW11SZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Thallium 201 (Tl-201),CW11SZ,2016,2027
+CW11Y,Other Radionuclide,CW11,2016,2027
+CW11YZ,None,CW11Y,2016,2027
+CW11YZZ,Planar Nuclear Medicine Imaging of Abdomen and Pelvis using Other Radionuclide,CW11YZ,2016,2027
+CW13,Chest,CW1,2016,2027
+CW131,Technetium 99m (Tc-99m),CW13,2016,2027
+CW131Z,None,CW131,2016,2027
+CW131ZZ,Planar Nuclear Medicine Imaging of Chest using Technetium 99m (Tc-99m),CW131Z,2016,2027
+CW13D,Indium 111 (In-111),CW13,2016,2027
+CW13DZ,None,CW13D,2016,2027
+CW13DZZ,Planar Nuclear Medicine Imaging of Chest using Indium 111 (In-111),CW13DZ,2016,2027
+CW13F,Iodine 123 (I-123),CW13,2016,2027
+CW13FZ,None,CW13F,2016,2027
+CW13FZZ,Planar Nuclear Medicine Imaging of Chest using Iodine 123 (I-123),CW13FZ,2016,2027
+CW13G,Iodine 131 (I-131),CW13,2016,2027
+CW13GZ,None,CW13G,2016,2027
+CW13GZZ,Planar Nuclear Medicine Imaging of Chest using Iodine 131 (I-131),CW13GZ,2016,2027
+CW13K,Fluorine 18 (F-18),CW13,2016,2027
+CW13KZ,None,CW13K,2016,2027
+CW13KZZ,Planar Nuclear Medicine Imaging of Chest using Fluorine 18 (F-18),CW13KZ,2016,2027
+CW13L,Gallium 67 (Ga-67),CW13,2016,2027
+CW13LZ,None,CW13L,2016,2027
+CW13LZZ,Planar Nuclear Medicine Imaging of Chest using Gallium 67 (Ga-67),CW13LZ,2016,2027
+CW13S,Thallium 201 (Tl-201),CW13,2016,2027
+CW13SZ,None,CW13S,2016,2027
+CW13SZZ,Planar Nuclear Medicine Imaging of Chest using Thallium 201 (Tl-201),CW13SZ,2016,2027
+CW13Y,Other Radionuclide,CW13,2016,2027
+CW13YZ,None,CW13Y,2016,2027
+CW13YZZ,Planar Nuclear Medicine Imaging of Chest using Other Radionuclide,CW13YZ,2016,2027
+CW14,Chest and Abdomen,CW1,2016,2027
+CW141,Technetium 99m (Tc-99m),CW14,2016,2027
+CW141Z,None,CW141,2016,2027
+CW141ZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Technetium 99m (Tc-99m),CW141Z,2016,2027
+CW14D,Indium 111 (In-111),CW14,2016,2027
+CW14DZ,None,CW14D,2016,2027
+CW14DZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Indium 111 (In-111),CW14DZ,2016,2027
+CW14F,Iodine 123 (I-123),CW14,2016,2027
+CW14FZ,None,CW14F,2016,2027
+CW14FZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Iodine 123 (I-123),CW14FZ,2016,2027
+CW14G,Iodine 131 (I-131),CW14,2016,2027
+CW14GZ,None,CW14G,2016,2027
+CW14GZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Iodine 131 (I-131),CW14GZ,2016,2027
+CW14L,Gallium 67 (Ga-67),CW14,2016,2027
+CW14LZ,None,CW14L,2016,2027
+CW14LZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Gallium 67 (Ga-67),CW14LZ,2016,2027
+CW14S,Thallium 201 (Tl-201),CW14,2016,2027
+CW14SZ,None,CW14S,2016,2027
+CW14SZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Thallium 201 (Tl-201),CW14SZ,2016,2027
+CW14Y,Other Radionuclide,CW14,2016,2027
+CW14YZ,None,CW14Y,2016,2027
+CW14YZZ,Planar Nuclear Medicine Imaging of Chest and Abdomen using Other Radionuclide,CW14YZ,2016,2027
+CW16,Chest and Neck,CW1,2016,2027
+CW161,Technetium 99m (Tc-99m),CW16,2016,2027
+CW161Z,None,CW161,2016,2027
+CW161ZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Technetium 99m (Tc-99m),CW161Z,2016,2027
+CW16D,Indium 111 (In-111),CW16,2016,2027
+CW16DZ,None,CW16D,2016,2027
+CW16DZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Indium 111 (In-111),CW16DZ,2016,2027
+CW16F,Iodine 123 (I-123),CW16,2016,2027
+CW16FZ,None,CW16F,2016,2027
+CW16FZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Iodine 123 (I-123),CW16FZ,2016,2027
+CW16G,Iodine 131 (I-131),CW16,2016,2027
+CW16GZ,None,CW16G,2016,2027
+CW16GZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Iodine 131 (I-131),CW16GZ,2016,2027
+CW16L,Gallium 67 (Ga-67),CW16,2016,2027
+CW16LZ,None,CW16L,2016,2027
+CW16LZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Gallium 67 (Ga-67),CW16LZ,2016,2027
+CW16S,Thallium 201 (Tl-201),CW16,2016,2027
+CW16SZ,None,CW16S,2016,2027
+CW16SZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Thallium 201 (Tl-201),CW16SZ,2016,2027
+CW16Y,Other Radionuclide,CW16,2016,2027
+CW16YZ,None,CW16Y,2016,2027
+CW16YZZ,Planar Nuclear Medicine Imaging of Chest and Neck using Other Radionuclide,CW16YZ,2016,2027
+CW1B,Head and Neck,CW1,2016,2027
+CW1B1,Technetium 99m (Tc-99m),CW1B,2016,2027
+CW1B1Z,None,CW1B1,2016,2027
+CW1B1ZZ,Planar Nuclear Medicine Imaging of Head and Neck using Technetium 99m (Tc-99m),CW1B1Z,2016,2027
+CW1BD,Indium 111 (In-111),CW1B,2016,2027
+CW1BDZ,None,CW1BD,2016,2027
+CW1BDZZ,Planar Nuclear Medicine Imaging of Head and Neck using Indium 111 (In-111),CW1BDZ,2016,2027
+CW1BF,Iodine 123 (I-123),CW1B,2016,2027
+CW1BFZ,None,CW1BF,2016,2027
+CW1BFZZ,Planar Nuclear Medicine Imaging of Head and Neck using Iodine 123 (I-123),CW1BFZ,2016,2027
+CW1BG,Iodine 131 (I-131),CW1B,2016,2027
+CW1BGZ,None,CW1BG,2016,2027
+CW1BGZZ,Planar Nuclear Medicine Imaging of Head and Neck using Iodine 131 (I-131),CW1BGZ,2016,2027
+CW1BL,Gallium 67 (Ga-67),CW1B,2016,2027
+CW1BLZ,None,CW1BL,2016,2027
+CW1BLZZ,Planar Nuclear Medicine Imaging of Head and Neck using Gallium 67 (Ga-67),CW1BLZ,2016,2027
+CW1BS,Thallium 201 (Tl-201),CW1B,2016,2027
+CW1BSZ,None,CW1BS,2016,2027
+CW1BSZZ,Planar Nuclear Medicine Imaging of Head and Neck using Thallium 201 (Tl-201),CW1BSZ,2016,2027
+CW1BY,Other Radionuclide,CW1B,2016,2027
+CW1BYZ,None,CW1BY,2016,2027
+CW1BYZZ,Planar Nuclear Medicine Imaging of Head and Neck using Other Radionuclide,CW1BYZ,2016,2027
+CW1D,Lower Extremity,CW1,2016,2027
+CW1D1,Technetium 99m (Tc-99m),CW1D,2016,2027
+CW1D1Z,None,CW1D1,2016,2027
+CW1D1ZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Technetium 99m (Tc-99m),CW1D1Z,2016,2027
+CW1DD,Indium 111 (In-111),CW1D,2016,2027
+CW1DDZ,None,CW1DD,2016,2027
+CW1DDZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Indium 111 (In-111),CW1DDZ,2016,2027
+CW1DF,Iodine 123 (I-123),CW1D,2016,2027
+CW1DFZ,None,CW1DF,2016,2027
+CW1DFZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Iodine 123 (I-123),CW1DFZ,2016,2027
+CW1DG,Iodine 131 (I-131),CW1D,2016,2027
+CW1DGZ,None,CW1DG,2016,2027
+CW1DGZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Iodine 131 (I-131),CW1DGZ,2016,2027
+CW1DL,Gallium 67 (Ga-67),CW1D,2016,2027
+CW1DLZ,None,CW1DL,2016,2027
+CW1DLZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Gallium 67 (Ga-67),CW1DLZ,2016,2027
+CW1DS,Thallium 201 (Tl-201),CW1D,2016,2027
+CW1DSZ,None,CW1DS,2016,2027
+CW1DSZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Thallium 201 (Tl-201),CW1DSZ,2016,2027
+CW1DY,Other Radionuclide,CW1D,2016,2027
+CW1DYZ,None,CW1DY,2016,2027
+CW1DYZZ,Planar Nuclear Medicine Imaging of Lower Extremity using Other Radionuclide,CW1DYZ,2016,2027
+CW1J,Pelvic Region,CW1,2016,2027
+CW1J1,Technetium 99m (Tc-99m),CW1J,2016,2027
+CW1J1Z,None,CW1J1,2016,2027
+CW1J1ZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Technetium 99m (Tc-99m),CW1J1Z,2016,2027
+CW1JD,Indium 111 (In-111),CW1J,2016,2027
+CW1JDZ,None,CW1JD,2016,2027
+CW1JDZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111),CW1JDZ,2016,2027
+CW1JF,Iodine 123 (I-123),CW1J,2016,2027
+CW1JFZ,None,CW1JF,2016,2027
+CW1JFZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Iodine 123 (I-123),CW1JFZ,2016,2027
+CW1JG,Iodine 131 (I-131),CW1J,2016,2027
+CW1JGZ,None,CW1JG,2016,2027
+CW1JGZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Iodine 131 (I-131),CW1JGZ,2016,2027
+CW1JL,Gallium 67 (Ga-67),CW1J,2016,2027
+CW1JLZ,None,CW1JL,2016,2027
+CW1JLZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Gallium 67 (Ga-67),CW1JLZ,2016,2027
+CW1JS,Thallium 201 (Tl-201),CW1J,2016,2027
+CW1JSZ,None,CW1JS,2016,2027
+CW1JSZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Thallium 201 (Tl-201),CW1JSZ,2016,2027
+CW1JY,Other Radionuclide,CW1J,2016,2027
+CW1JYZ,None,CW1JY,2016,2027
+CW1JYZZ,Planar Nuclear Medicine Imaging of Pelvic Region using Other Radionuclide,CW1JYZ,2016,2027
+CW1M,Upper Extremity,CW1,2016,2027
+CW1M1,Technetium 99m (Tc-99m),CW1M,2016,2027
+CW1M1Z,None,CW1M1,2016,2027
+CW1M1ZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Technetium 99m (Tc-99m),CW1M1Z,2016,2027
+CW1MD,Indium 111 (In-111),CW1M,2016,2027
+CW1MDZ,None,CW1MD,2016,2027
+CW1MDZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Indium 111 (In-111),CW1MDZ,2016,2027
+CW1MF,Iodine 123 (I-123),CW1M,2016,2027
+CW1MFZ,None,CW1MF,2016,2027
+CW1MFZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Iodine 123 (I-123),CW1MFZ,2016,2027
+CW1MG,Iodine 131 (I-131),CW1M,2016,2027
+CW1MGZ,None,CW1MG,2016,2027
+CW1MGZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Iodine 131 (I-131),CW1MGZ,2016,2027
+CW1ML,Gallium 67 (Ga-67),CW1M,2016,2027
+CW1MLZ,None,CW1ML,2016,2027
+CW1MLZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Gallium 67 (Ga-67),CW1MLZ,2016,2027
+CW1MS,Thallium 201 (Tl-201),CW1M,2016,2027
+CW1MSZ,None,CW1MS,2016,2027
+CW1MSZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Thallium 201 (Tl-201),CW1MSZ,2016,2027
+CW1MY,Other Radionuclide,CW1M,2016,2027
+CW1MYZ,None,CW1MY,2016,2027
+CW1MYZZ,Planar Nuclear Medicine Imaging of Upper Extremity using Other Radionuclide,CW1MYZ,2016,2027
+CW1N,Whole Body,CW1,2016,2027
+CW1N1,Technetium 99m (Tc-99m),CW1N,2016,2027
+CW1N1Z,None,CW1N1,2016,2027
+CW1N1ZZ,Planar Nuclear Medicine Imaging of Whole Body using Technetium 99m (Tc-99m),CW1N1Z,2016,2027
+CW1ND,Indium 111 (In-111),CW1N,2016,2027
+CW1NDZ,None,CW1ND,2016,2027
+CW1NDZZ,Planar Nuclear Medicine Imaging of Whole Body using Indium 111 (In-111),CW1NDZ,2016,2027
+CW1NF,Iodine 123 (I-123),CW1N,2016,2027
+CW1NFZ,None,CW1NF,2016,2027
+CW1NFZZ,Planar Nuclear Medicine Imaging of Whole Body using Iodine 123 (I-123),CW1NFZ,2016,2027
+CW1NG,Iodine 131 (I-131),CW1N,2016,2027
+CW1NGZ,None,CW1NG,2016,2027
+CW1NGZZ,Planar Nuclear Medicine Imaging of Whole Body using Iodine 131 (I-131),CW1NGZ,2016,2027
+CW1NL,Gallium 67 (Ga-67),CW1N,2016,2027
+CW1NLZ,None,CW1NL,2016,2027
+CW1NLZZ,Planar Nuclear Medicine Imaging of Whole Body using Gallium 67 (Ga-67),CW1NLZ,2016,2027
+CW1NS,Thallium 201 (Tl-201),CW1N,2016,2027
+CW1NSZ,None,CW1NS,2016,2027
+CW1NSZZ,Planar Nuclear Medicine Imaging of Whole Body using Thallium 201 (Tl-201),CW1NSZ,2016,2027
+CW1NY,Other Radionuclide,CW1N,2016,2027
+CW1NYZ,None,CW1NY,2016,2027
+CW1NYZZ,Planar Nuclear Medicine Imaging of Whole Body using Other Radionuclide,CW1NYZ,2016,2027
+CW1Y,"Anatomical Regions, Multiple",CW1,2016,2027
+CW1YY,Other Radionuclide,CW1Y,2016,2027
+CW1YYZ,None,CW1YY,2016,2027
+CW1YYZZ,Planar Nuclear Medicine Imaging of Multiple Anatomical Regions using Other Radionuclide,CW1YYZ,2016,2027
+CW1Z,"Anatomical Region, Other",CW1,2016,2027
+CW1ZZ,None,CW1Z,2016,2027
+CW1ZZZ,None,CW1ZZ,2016,2027
+CW1ZZZZ,Planar Nuclear Medicine Imaging of Other Anatomical Region,CW1ZZZ,2016,2027
+CW2,Tomographic (Tomo) Nuclear Medicine Imaging,CW,2016,2027
+CW20,Abdomen,CW2,2016,2027
+CW201,Technetium 99m (Tc-99m),CW20,2016,2027
+CW201Z,None,CW201,2016,2027
+CW201ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Technetium 99m (Tc-99m),CW201Z,2016,2027
+CW20D,Indium 111 (In-111),CW20,2016,2027
+CW20DZ,None,CW20D,2016,2027
+CW20DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Indium 111 (In-111),CW20DZ,2016,2027
+CW20F,Iodine 123 (I-123),CW20,2016,2027
+CW20FZ,None,CW20F,2016,2027
+CW20FZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Iodine 123 (I-123),CW20FZ,2016,2027
+CW20G,Iodine 131 (I-131),CW20,2016,2027
+CW20GZ,None,CW20G,2016,2027
+CW20GZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Iodine 131 (I-131),CW20GZ,2016,2027
+CW20K,Fluorine 18 (F-18),CW20,2016,2027
+CW20KZ,None,CW20K,2016,2027
+CW20KZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Fluorine 18 (F-18),CW20KZ,2016,2027
+CW20L,Gallium 67 (Ga-67),CW20,2016,2027
+CW20LZ,None,CW20L,2016,2027
+CW20LZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Gallium 67 (Ga-67),CW20LZ,2016,2027
+CW20S,Thallium 201 (Tl-201),CW20,2016,2027
+CW20SZ,None,CW20S,2016,2027
+CW20SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Thallium 201 (Tl-201),CW20SZ,2016,2027
+CW20Y,Other Radionuclide,CW20,2016,2027
+CW20YZ,None,CW20Y,2016,2027
+CW20YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen using Other Radionuclide,CW20YZ,2016,2027
+CW21,Abdomen and Pelvis,CW2,2016,2027
+CW211,Technetium 99m (Tc-99m),CW21,2016,2027
+CW211Z,None,CW211,2016,2027
+CW211ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Technetium 99m (Tc-99m),CW211Z,2016,2027
+CW21D,Indium 111 (In-111),CW21,2016,2027
+CW21DZ,None,CW21D,2016,2027
+CW21DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Indium 111 (In-111),CW21DZ,2016,2027
+CW21F,Iodine 123 (I-123),CW21,2016,2027
+CW21FZ,None,CW21F,2016,2027
+CW21FZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Iodine 123 (I-123),CW21FZ,2016,2027
+CW21G,Iodine 131 (I-131),CW21,2016,2027
+CW21GZ,None,CW21G,2016,2027
+CW21GZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Iodine 131 (I-131),CW21GZ,2016,2027
+CW21K,Fluorine 18 (F-18),CW21,2016,2027
+CW21KZ,None,CW21K,2016,2027
+CW21KZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Fluorine 18 (F-18),CW21KZ,2016,2027
+CW21L,Gallium 67 (Ga-67),CW21,2016,2027
+CW21LZ,None,CW21L,2016,2027
+CW21LZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Gallium 67 (Ga-67),CW21LZ,2016,2027
+CW21S,Thallium 201 (Tl-201),CW21,2016,2027
+CW21SZ,None,CW21S,2016,2027
+CW21SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Thallium 201 (Tl-201),CW21SZ,2016,2027
+CW21Y,Other Radionuclide,CW21,2016,2027
+CW21YZ,None,CW21Y,2016,2027
+CW21YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Abdomen and Pelvis using Other Radionuclide,CW21YZ,2016,2027
+CW23,Chest,CW2,2016,2027
+CW231,Technetium 99m (Tc-99m),CW23,2016,2027
+CW231Z,None,CW231,2016,2027
+CW231ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Technetium 99m (Tc-99m),CW231Z,2016,2027
+CW23D,Indium 111 (In-111),CW23,2016,2027
+CW23DZ,None,CW23D,2016,2027
+CW23DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Indium 111 (In-111),CW23DZ,2016,2027
+CW23F,Iodine 123 (I-123),CW23,2016,2027
+CW23FZ,None,CW23F,2016,2027
+CW23FZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Iodine 123 (I-123),CW23FZ,2016,2027
+CW23G,Iodine 131 (I-131),CW23,2016,2027
+CW23GZ,None,CW23G,2016,2027
+CW23GZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Iodine 131 (I-131),CW23GZ,2016,2027
+CW23K,Fluorine 18 (F-18),CW23,2016,2027
+CW23KZ,None,CW23K,2016,2027
+CW23KZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Fluorine 18 (F-18),CW23KZ,2016,2027
+CW23L,Gallium 67 (Ga-67),CW23,2016,2027
+CW23LZ,None,CW23L,2016,2027
+CW23LZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Gallium 67 (Ga-67),CW23LZ,2016,2027
+CW23S,Thallium 201 (Tl-201),CW23,2016,2027
+CW23SZ,None,CW23S,2016,2027
+CW23SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Thallium 201 (Tl-201),CW23SZ,2016,2027
+CW23Y,Other Radionuclide,CW23,2016,2027
+CW23YZ,None,CW23Y,2016,2027
+CW23YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest using Other Radionuclide,CW23YZ,2016,2027
+CW24,Chest and Abdomen,CW2,2016,2027
+CW241,Technetium 99m (Tc-99m),CW24,2016,2027
+CW241Z,None,CW241,2016,2027
+CW241ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Technetium 99m (Tc-99m),CW241Z,2016,2027
+CW24D,Indium 111 (In-111),CW24,2016,2027
+CW24DZ,None,CW24D,2016,2027
+CW24DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Indium 111 (In-111),CW24DZ,2016,2027
+CW24F,Iodine 123 (I-123),CW24,2016,2027
+CW24FZ,None,CW24F,2016,2027
+CW24FZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Iodine 123 (I-123),CW24FZ,2016,2027
+CW24G,Iodine 131 (I-131),CW24,2016,2027
+CW24GZ,None,CW24G,2016,2027
+CW24GZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Iodine 131 (I-131),CW24GZ,2016,2027
+CW24K,Fluorine 18 (F-18),CW24,2016,2027
+CW24KZ,None,CW24K,2016,2027
+CW24KZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Fluorine 18 (F-18),CW24KZ,2016,2027
+CW24L,Gallium 67 (Ga-67),CW24,2016,2027
+CW24LZ,None,CW24L,2016,2027
+CW24LZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Gallium 67 (Ga-67),CW24LZ,2016,2027
+CW24S,Thallium 201 (Tl-201),CW24,2016,2027
+CW24SZ,None,CW24S,2016,2027
+CW24SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Thallium 201 (Tl-201),CW24SZ,2016,2027
+CW24Y,Other Radionuclide,CW24,2016,2027
+CW24YZ,None,CW24Y,2016,2027
+CW24YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Abdomen using Other Radionuclide,CW24YZ,2016,2027
+CW26,Chest and Neck,CW2,2016,2027
+CW261,Technetium 99m (Tc-99m),CW26,2016,2027
+CW261Z,None,CW261,2016,2027
+CW261ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Technetium 99m (Tc-99m),CW261Z,2016,2027
+CW26D,Indium 111 (In-111),CW26,2016,2027
+CW26DZ,None,CW26D,2016,2027
+CW26DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Indium 111 (In-111),CW26DZ,2016,2027
+CW26F,Iodine 123 (I-123),CW26,2016,2027
+CW26FZ,None,CW26F,2016,2027
+CW26FZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Iodine 123 (I-123),CW26FZ,2016,2027
+CW26G,Iodine 131 (I-131),CW26,2016,2027
+CW26GZ,None,CW26G,2016,2027
+CW26GZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Iodine 131 (I-131),CW26GZ,2016,2027
+CW26K,Fluorine 18 (F-18),CW26,2016,2027
+CW26KZ,None,CW26K,2016,2027
+CW26KZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Fluorine 18 (F-18),CW26KZ,2016,2027
+CW26L,Gallium 67 (Ga-67),CW26,2016,2027
+CW26LZ,None,CW26L,2016,2027
+CW26LZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Gallium 67 (Ga-67),CW26LZ,2016,2027
+CW26S,Thallium 201 (Tl-201),CW26,2016,2027
+CW26SZ,None,CW26S,2016,2027
+CW26SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Thallium 201 (Tl-201),CW26SZ,2016,2027
+CW26Y,Other Radionuclide,CW26,2016,2027
+CW26YZ,None,CW26Y,2016,2027
+CW26YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Chest and Neck using Other Radionuclide,CW26YZ,2016,2027
+CW2B,Head and Neck,CW2,2016,2027
+CW2B1,Technetium 99m (Tc-99m),CW2B,2016,2027
+CW2B1Z,None,CW2B1,2016,2027
+CW2B1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Technetium 99m (Tc-99m),CW2B1Z,2016,2027
+CW2BD,Indium 111 (In-111),CW2B,2016,2027
+CW2BDZ,None,CW2BD,2016,2027
+CW2BDZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Indium 111 (In-111),CW2BDZ,2016,2027
+CW2BF,Iodine 123 (I-123),CW2B,2016,2027
+CW2BFZ,None,CW2BF,2016,2027
+CW2BFZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Iodine 123 (I-123),CW2BFZ,2016,2027
+CW2BG,Iodine 131 (I-131),CW2B,2016,2027
+CW2BGZ,None,CW2BG,2016,2027
+CW2BGZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Iodine 131 (I-131),CW2BGZ,2016,2027
+CW2BK,Fluorine 18 (F-18),CW2B,2016,2027
+CW2BKZ,None,CW2BK,2016,2027
+CW2BKZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Fluorine 18 (F-18),CW2BKZ,2016,2027
+CW2BL,Gallium 67 (Ga-67),CW2B,2016,2027
+CW2BLZ,None,CW2BL,2016,2027
+CW2BLZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Gallium 67 (Ga-67),CW2BLZ,2016,2027
+CW2BS,Thallium 201 (Tl-201),CW2B,2016,2027
+CW2BSZ,None,CW2BS,2016,2027
+CW2BSZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Thallium 201 (Tl-201),CW2BSZ,2016,2027
+CW2BY,Other Radionuclide,CW2B,2016,2027
+CW2BYZ,None,CW2BY,2016,2027
+CW2BYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Head and Neck using Other Radionuclide,CW2BYZ,2016,2027
+CW2D,Lower Extremity,CW2,2016,2027
+CW2D1,Technetium 99m (Tc-99m),CW2D,2016,2027
+CW2D1Z,None,CW2D1,2016,2027
+CW2D1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Technetium 99m (Tc-99m),CW2D1Z,2016,2027
+CW2DD,Indium 111 (In-111),CW2D,2016,2027
+CW2DDZ,None,CW2DD,2016,2027
+CW2DDZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Indium 111 (In-111),CW2DDZ,2016,2027
+CW2DF,Iodine 123 (I-123),CW2D,2016,2027
+CW2DFZ,None,CW2DF,2016,2027
+CW2DFZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Iodine 123 (I-123),CW2DFZ,2016,2027
+CW2DG,Iodine 131 (I-131),CW2D,2016,2027
+CW2DGZ,None,CW2DG,2016,2027
+CW2DGZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Iodine 131 (I-131),CW2DGZ,2016,2027
+CW2DK,Fluorine 18 (F-18),CW2D,2016,2027
+CW2DKZ,None,CW2DK,2016,2027
+CW2DKZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Fluorine 18 (F-18),CW2DKZ,2016,2027
+CW2DL,Gallium 67 (Ga-67),CW2D,2016,2027
+CW2DLZ,None,CW2DL,2016,2027
+CW2DLZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Gallium 67 (Ga-67),CW2DLZ,2016,2027
+CW2DS,Thallium 201 (Tl-201),CW2D,2016,2027
+CW2DSZ,None,CW2DS,2016,2027
+CW2DSZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Thallium 201 (Tl-201),CW2DSZ,2016,2027
+CW2DY,Other Radionuclide,CW2D,2016,2027
+CW2DYZ,None,CW2DY,2016,2027
+CW2DYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lower Extremity using Other Radionuclide,CW2DYZ,2016,2027
+CW2J,Pelvic Region,CW2,2016,2027
+CW2J1,Technetium 99m (Tc-99m),CW2J,2016,2027
+CW2J1Z,None,CW2J1,2016,2027
+CW2J1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Technetium 99m (Tc-99m),CW2J1Z,2016,2027
+CW2JD,Indium 111 (In-111),CW2J,2016,2027
+CW2JDZ,None,CW2JD,2016,2027
+CW2JDZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Indium 111 (In-111),CW2JDZ,2016,2027
+CW2JF,Iodine 123 (I-123),CW2J,2016,2027
+CW2JFZ,None,CW2JF,2016,2027
+CW2JFZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Iodine 123 (I-123),CW2JFZ,2016,2027
+CW2JG,Iodine 131 (I-131),CW2J,2016,2027
+CW2JGZ,None,CW2JG,2016,2027
+CW2JGZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Iodine 131 (I-131),CW2JGZ,2016,2027
+CW2JK,Fluorine 18 (F-18),CW2J,2016,2027
+CW2JKZ,None,CW2JK,2016,2027
+CW2JKZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Fluorine 18 (F-18),CW2JKZ,2016,2027
+CW2JL,Gallium 67 (Ga-67),CW2J,2016,2027
+CW2JLZ,None,CW2JL,2016,2027
+CW2JLZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Gallium 67 (Ga-67),CW2JLZ,2016,2027
+CW2JS,Thallium 201 (Tl-201),CW2J,2016,2027
+CW2JSZ,None,CW2JS,2016,2027
+CW2JSZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Thallium 201 (Tl-201),CW2JSZ,2016,2027
+CW2JY,Other Radionuclide,CW2J,2016,2027
+CW2JYZ,None,CW2JY,2016,2027
+CW2JYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Pelvic Region using Other Radionuclide,CW2JYZ,2016,2027
+CW2M,Upper Extremity,CW2,2016,2027
+CW2M1,Technetium 99m (Tc-99m),CW2M,2016,2027
+CW2M1Z,None,CW2M1,2016,2027
+CW2M1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Technetium 99m (Tc-99m),CW2M1Z,2016,2027
+CW2MD,Indium 111 (In-111),CW2M,2016,2027
+CW2MDZ,None,CW2MD,2016,2027
+CW2MDZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Indium 111 (In-111),CW2MDZ,2016,2027
+CW2MF,Iodine 123 (I-123),CW2M,2016,2027
+CW2MFZ,None,CW2MF,2016,2027
+CW2MFZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Iodine 123 (I-123),CW2MFZ,2016,2027
+CW2MG,Iodine 131 (I-131),CW2M,2016,2027
+CW2MGZ,None,CW2MG,2016,2027
+CW2MGZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Iodine 131 (I-131),CW2MGZ,2016,2027
+CW2MK,Fluorine 18 (F-18),CW2M,2016,2027
+CW2MKZ,None,CW2MK,2016,2027
+CW2MKZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Fluorine 18 (F-18),CW2MKZ,2016,2027
+CW2ML,Gallium 67 (Ga-67),CW2M,2016,2027
+CW2MLZ,None,CW2ML,2016,2027
+CW2MLZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Gallium 67 (Ga-67),CW2MLZ,2016,2027
+CW2MS,Thallium 201 (Tl-201),CW2M,2016,2027
+CW2MSZ,None,CW2MS,2016,2027
+CW2MSZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Thallium 201 (Tl-201),CW2MSZ,2016,2027
+CW2MY,Other Radionuclide,CW2M,2016,2027
+CW2MYZ,None,CW2MY,2016,2027
+CW2MYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Upper Extremity using Other Radionuclide,CW2MYZ,2016,2027
+CW2Y,"Anatomical Regions, Multiple",CW2,2016,2027
+CW2YY,Other Radionuclide,CW2Y,2016,2027
+CW2YYZ,None,CW2YY,2016,2027
+CW2YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Multiple Anatomical Regions using Other Radionuclide,CW2YYZ,2016,2027
+CW3,Positron Emission Tomographic (PET) Imaging,CW,2016,2027
+CW3N,Whole Body,CW3,2016,2027
+CW3NY,Other Radionuclide,CW3N,2016,2027
+CW3NYZ,None,CW3NY,2016,2027
+CW3NYZZ,Positron Emission Tomographic (PET) Imaging of Whole Body using Other Radionuclide,CW3NYZ,2016,2027
+CW5,Nonimaging Nuclear Medicine Probe,CW,2016,2027
+CW50,Abdomen,CW5,2016,2027
+CW501,Technetium 99m (Tc-99m),CW50,2016,2027
+CW501Z,None,CW501,2016,2027
+CW501ZZ,Nonimaging Nuclear Medicine Probe of Abdomen using Technetium 99m (Tc-99m),CW501Z,2016,2027
+CW50D,Indium 111 (In-111),CW50,2016,2027
+CW50DZ,None,CW50D,2016,2027
+CW50DZZ,Nonimaging Nuclear Medicine Probe of Abdomen using Indium 111 (In-111),CW50DZ,2016,2027
+CW50Y,Other Radionuclide,CW50,2016,2027
+CW50YZ,None,CW50Y,2016,2027
+CW50YZZ,Nonimaging Nuclear Medicine Probe of Abdomen using Other Radionuclide,CW50YZ,2016,2027
+CW51,Abdomen and Pelvis,CW5,2016,2027
+CW511,Technetium 99m (Tc-99m),CW51,2016,2027
+CW511Z,None,CW511,2016,2027
+CW511ZZ,Nonimaging Nuclear Medicine Probe of Abdomen and Pelvis using Technetium 99m (Tc-99m),CW511Z,2016,2027
+CW51D,Indium 111 (In-111),CW51,2016,2027
+CW51DZ,None,CW51D,2016,2027
+CW51DZZ,Nonimaging Nuclear Medicine Probe of Abdomen and Pelvis using Indium 111 (In-111),CW51DZ,2016,2027
+CW51Y,Other Radionuclide,CW51,2016,2027
+CW51YZ,None,CW51Y,2016,2027
+CW51YZZ,Nonimaging Nuclear Medicine Probe of Abdomen and Pelvis using Other Radionuclide,CW51YZ,2016,2027
+CW53,Chest,CW5,2016,2027
+CW531,Technetium 99m (Tc-99m),CW53,2016,2027
+CW531Z,None,CW531,2016,2027
+CW531ZZ,Nonimaging Nuclear Medicine Probe of Chest using Technetium 99m (Tc-99m),CW531Z,2016,2027
+CW53D,Indium 111 (In-111),CW53,2016,2027
+CW53DZ,None,CW53D,2016,2027
+CW53DZZ,Nonimaging Nuclear Medicine Probe of Chest using Indium 111 (In-111),CW53DZ,2016,2027
+CW53Y,Other Radionuclide,CW53,2016,2027
+CW53YZ,None,CW53Y,2016,2027
+CW53YZZ,Nonimaging Nuclear Medicine Probe of Chest using Other Radionuclide,CW53YZ,2016,2027
+CW54,Chest and Abdomen,CW5,2016,2027
+CW541,Technetium 99m (Tc-99m),CW54,2016,2027
+CW541Z,None,CW541,2016,2027
+CW541ZZ,Nonimaging Nuclear Medicine Probe of Chest and Abdomen using Technetium 99m (Tc-99m),CW541Z,2016,2027
+CW54D,Indium 111 (In-111),CW54,2016,2027
+CW54DZ,None,CW54D,2016,2027
+CW54DZZ,Nonimaging Nuclear Medicine Probe of Chest and Abdomen using Indium 111 (In-111),CW54DZ,2016,2027
+CW54Y,Other Radionuclide,CW54,2016,2027
+CW54YZ,None,CW54Y,2016,2027
+CW54YZZ,Nonimaging Nuclear Medicine Probe of Chest and Abdomen using Other Radionuclide,CW54YZ,2016,2027
+CW56,Chest and Neck,CW5,2016,2027
+CW561,Technetium 99m (Tc-99m),CW56,2016,2027
+CW561Z,None,CW561,2016,2027
+CW561ZZ,Nonimaging Nuclear Medicine Probe of Chest and Neck using Technetium 99m (Tc-99m),CW561Z,2016,2027
+CW56D,Indium 111 (In-111),CW56,2016,2027
+CW56DZ,None,CW56D,2016,2027
+CW56DZZ,Nonimaging Nuclear Medicine Probe of Chest and Neck using Indium 111 (In-111),CW56DZ,2016,2027
+CW56Y,Other Radionuclide,CW56,2016,2027
+CW56YZ,None,CW56Y,2016,2027
+CW56YZZ,Nonimaging Nuclear Medicine Probe of Chest and Neck using Other Radionuclide,CW56YZ,2016,2027
+CW5B,Head and Neck,CW5,2016,2027
+CW5B1,Technetium 99m (Tc-99m),CW5B,2016,2027
+CW5B1Z,None,CW5B1,2016,2027
+CW5B1ZZ,Nonimaging Nuclear Medicine Probe of Head and Neck using Technetium 99m (Tc-99m),CW5B1Z,2016,2027
+CW5BD,Indium 111 (In-111),CW5B,2016,2027
+CW5BDZ,None,CW5BD,2016,2027
+CW5BDZZ,Nonimaging Nuclear Medicine Probe of Head and Neck using Indium 111 (In-111),CW5BDZ,2016,2027
+CW5BY,Other Radionuclide,CW5B,2016,2027
+CW5BYZ,None,CW5BY,2016,2027
+CW5BYZZ,Nonimaging Nuclear Medicine Probe of Head and Neck using Other Radionuclide,CW5BYZ,2016,2027
+CW5D,Lower Extremity,CW5,2016,2027
+CW5D1,Technetium 99m (Tc-99m),CW5D,2016,2027
+CW5D1Z,None,CW5D1,2016,2027
+CW5D1ZZ,Nonimaging Nuclear Medicine Probe of Lower Extremity using Technetium 99m (Tc-99m),CW5D1Z,2016,2027
+CW5DD,Indium 111 (In-111),CW5D,2016,2027
+CW5DDZ,None,CW5DD,2016,2027
+CW5DDZZ,Nonimaging Nuclear Medicine Probe of Lower Extremity using Indium 111 (In-111),CW5DDZ,2016,2027
+CW5DY,Other Radionuclide,CW5D,2016,2027
+CW5DYZ,None,CW5DY,2016,2027
+CW5DYZZ,Nonimaging Nuclear Medicine Probe of Lower Extremity using Other Radionuclide,CW5DYZ,2016,2027
+CW5J,Pelvic Region,CW5,2016,2027
+CW5J1,Technetium 99m (Tc-99m),CW5J,2016,2027
+CW5J1Z,None,CW5J1,2016,2027
+CW5J1ZZ,Nonimaging Nuclear Medicine Probe of Pelvic Region using Technetium 99m (Tc-99m),CW5J1Z,2016,2027
+CW5JD,Indium 111 (In-111),CW5J,2016,2027
+CW5JDZ,None,CW5JD,2016,2027
+CW5JDZZ,Nonimaging Nuclear Medicine Probe of Pelvic Region using Indium 111 (In-111),CW5JDZ,2016,2027
+CW5JY,Other Radionuclide,CW5J,2016,2027
+CW5JYZ,None,CW5JY,2016,2027
+CW5JYZZ,Nonimaging Nuclear Medicine Probe of Pelvic Region using Other Radionuclide,CW5JYZ,2016,2027
+CW5M,Upper Extremity,CW5,2016,2027
+CW5M1,Technetium 99m (Tc-99m),CW5M,2016,2027
+CW5M1Z,None,CW5M1,2016,2027
+CW5M1ZZ,Nonimaging Nuclear Medicine Probe of Upper Extremity using Technetium 99m (Tc-99m),CW5M1Z,2016,2027
+CW5MD,Indium 111 (In-111),CW5M,2016,2027
+CW5MDZ,None,CW5MD,2016,2027
+CW5MDZZ,Nonimaging Nuclear Medicine Probe of Upper Extremity using Indium 111 (In-111),CW5MDZ,2016,2027
+CW5MY,Other Radionuclide,CW5M,2016,2027
+CW5MYZ,None,CW5MY,2016,2027
+CW5MYZZ,Nonimaging Nuclear Medicine Probe of Upper Extremity using Other Radionuclide,CW5MYZ,2016,2027
+CW7,Systemic Nuclear Medicine Therapy,CW,2016,2027
+CW70,Abdomen,CW7,2016,2027
+CW70N,Phosphorus 32 (P-32),CW70,2016,2027
+CW70NZ,None,CW70N,2016,2027
+CW70NZZ,Systemic Nuclear Medicine Therapy of Abdomen using Phosphorus 32 (P-32),CW70NZ,2016,2027
+CW70Y,Other Radionuclide,CW70,2016,2027
+CW70YZ,None,CW70Y,2016,2027
+CW70YZZ,Systemic Nuclear Medicine Therapy of Abdomen using Other Radionuclide,CW70YZ,2016,2027
+CW73,Chest,CW7,2016,2027
+CW73N,Phosphorus 32 (P-32),CW73,2016,2027
+CW73NZ,None,CW73N,2016,2027
+CW73NZZ,Systemic Nuclear Medicine Therapy of Chest using Phosphorus 32 (P-32),CW73NZ,2016,2027
+CW73Y,Other Radionuclide,CW73,2016,2027
+CW73YZ,None,CW73Y,2016,2027
+CW73YZZ,Systemic Nuclear Medicine Therapy of Chest using Other Radionuclide,CW73YZ,2016,2027
+CW7G,Thyroid,CW7,2016,2027
+CW7GG,Iodine 131 (I-131),CW7G,2016,2027
+CW7GGZ,None,CW7GG,2016,2027
+CW7GGZZ,Systemic Nuclear Medicine Therapy of Thyroid using Iodine 131 (I-131),CW7GGZ,2016,2027
+CW7GY,Other Radionuclide,CW7G,2016,2027
+CW7GYZ,None,CW7GY,2016,2027
+CW7GYZZ,Systemic Nuclear Medicine Therapy of Thyroid using Other Radionuclide,CW7GYZ,2016,2027
+CW7N,Whole Body,CW7,2016,2027
+CW7N8,Samarium 153 (Sm-153),CW7N,2016,2027
+CW7N8Z,None,CW7N8,2016,2027
+CW7N8ZZ,Systemic Nuclear Medicine Therapy of Whole Body using Samarium 153 (Sm-153),CW7N8Z,2016,2027
+CW7NG,Iodine 131 (I-131),CW7N,2016,2027
+CW7NGZ,None,CW7NG,2016,2027
+CW7NGZZ,Systemic Nuclear Medicine Therapy of Whole Body using Iodine 131 (I-131),CW7NGZ,2016,2027
+CW7NN,Phosphorus 32 (P-32),CW7N,2016,2027
+CW7NNZ,None,CW7NN,2016,2027
+CW7NNZZ,Systemic Nuclear Medicine Therapy of Whole Body using Phosphorus 32 (P-32),CW7NNZ,2016,2027
+CW7NP,Strontium 89 (Sr-89),CW7N,2016,2027
+CW7NPZ,None,CW7NP,2016,2027
+CW7NPZZ,Systemic Nuclear Medicine Therapy of Whole Body using Strontium 89 (Sr-89),CW7NPZ,2016,2027
+CW7NY,Other Radionuclide,CW7N,2016,2027
+CW7NYZ,None,CW7NY,2016,2027
+CW7NYZZ,Systemic Nuclear Medicine Therapy of Whole Body using Other Radionuclide,CW7NYZ,2016,2027
+CW7Y,"Anatomical Regions, Multiple",CW7,2016,2027
+CW7YY,Other Radionuclide,CW7Y,2016,2027
+CW7YYZ,None,CW7YY,2016,2027
+CW7YYZZ,Systemic Nuclear Medicine Therapy of Multiple Anatomical Regions using Other Radionuclide,CW7YYZ,2016,2027

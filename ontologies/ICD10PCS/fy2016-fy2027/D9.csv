@@ -1,0 +1,882 @@
+code,description,parent,first_year,last_year
+D9,"Ear, Nose, Mouth and Throat",D,2016,2027
+D90,Beam Radiation,D9,2016,2027
+D900,Ear,D90,2016,2027
+D9000,Photons <1 MeV,D900,2016,2027
+D9000Z,None,D9000,2016,2027
+D9000ZZ,Beam Radiation of Ear using Photons <1 MeV,D9000Z,2016,2027
+D9001,Photons 1 - 10 MeV,D900,2016,2027
+D9001Z,None,D9001,2016,2027
+D9001ZZ,Beam Radiation of Ear using Photons 1 - 10 MeV,D9001Z,2016,2027
+D9002,Photons >10 MeV,D900,2016,2027
+D9002Z,None,D9002,2016,2027
+D9002ZZ,Beam Radiation of Ear using Photons >10 MeV,D9002Z,2016,2027
+D9003,Electrons,D900,2016,2027
+D9003Z,None,D9003,2016,2027
+D9003Z0,"Beam Radiation of Ear using Electrons, Intraoperative",D9003Z,2016,2027
+D9003ZZ,Beam Radiation of Ear using Electrons,D9003Z,2016,2027
+D9004,"Heavy Particles (Protons,Ions)",D900,2016,2027
+D9004Z,None,D9004,2016,2027
+D9004ZZ,"Beam Radiation of Ear using Heavy Particles (Protons,Ions)",D9004Z,2016,2027
+D9005,Neutrons,D900,2016,2027
+D9005Z,None,D9005,2016,2027
+D9005ZZ,Beam Radiation of Ear using Neutrons,D9005Z,2016,2027
+D9006,Neutron Capture,D900,2016,2027
+D9006Z,None,D9006,2016,2027
+D9006ZZ,Beam Radiation of Ear using Neutron Capture,D9006Z,2016,2027
+D901,Nose,D90,2016,2027
+D9010,Photons <1 MeV,D901,2016,2027
+D9010Z,None,D9010,2016,2027
+D9010ZZ,Beam Radiation of Nose using Photons <1 MeV,D9010Z,2016,2027
+D9011,Photons 1 - 10 MeV,D901,2016,2027
+D9011Z,None,D9011,2016,2027
+D9011ZZ,Beam Radiation of Nose using Photons 1 - 10 MeV,D9011Z,2016,2027
+D9012,Photons >10 MeV,D901,2016,2027
+D9012Z,None,D9012,2016,2027
+D9012ZZ,Beam Radiation of Nose using Photons >10 MeV,D9012Z,2016,2027
+D9013,Electrons,D901,2016,2027
+D9013Z,None,D9013,2016,2027
+D9013Z0,"Beam Radiation of Nose using Electrons, Intraoperative",D9013Z,2016,2027
+D9013ZZ,Beam Radiation of Nose using Electrons,D9013Z,2016,2027
+D9014,"Heavy Particles (Protons,Ions)",D901,2016,2027
+D9014Z,None,D9014,2016,2027
+D9014ZZ,"Beam Radiation of Nose using Heavy Particles (Protons,Ions)",D9014Z,2016,2027
+D9015,Neutrons,D901,2016,2027
+D9015Z,None,D9015,2016,2027
+D9015ZZ,Beam Radiation of Nose using Neutrons,D9015Z,2016,2027
+D9016,Neutron Capture,D901,2016,2027
+D9016Z,None,D9016,2016,2027
+D9016ZZ,Beam Radiation of Nose using Neutron Capture,D9016Z,2016,2027
+D903,Hypopharynx,D90,2016,2027
+D9030,Photons <1 MeV,D903,2016,2027
+D9030Z,None,D9030,2016,2027
+D9030ZZ,Beam Radiation of Hypopharynx using Photons <1 MeV,D9030Z,2016,2027
+D9031,Photons 1 - 10 MeV,D903,2016,2027
+D9031Z,None,D9031,2016,2027
+D9031ZZ,Beam Radiation of Hypopharynx using Photons 1 - 10 MeV,D9031Z,2016,2027
+D9032,Photons >10 MeV,D903,2016,2027
+D9032Z,None,D9032,2016,2027
+D9032ZZ,Beam Radiation of Hypopharynx using Photons >10 MeV,D9032Z,2016,2027
+D9033,Electrons,D903,2016,2027
+D9033Z,None,D9033,2016,2027
+D9033Z0,"Beam Radiation of Hypopharynx using Electrons, Intraoperative",D9033Z,2016,2027
+D9033ZZ,Beam Radiation of Hypopharynx using Electrons,D9033Z,2016,2027
+D9034,"Heavy Particles (Protons,Ions)",D903,2016,2027
+D9034Z,None,D9034,2016,2027
+D9034ZZ,"Beam Radiation of Hypopharynx using Heavy Particles (Protons,Ions)",D9034Z,2016,2027
+D9035,Neutrons,D903,2016,2027
+D9035Z,None,D9035,2016,2027
+D9035ZZ,Beam Radiation of Hypopharynx using Neutrons,D9035Z,2016,2027
+D9036,Neutron Capture,D903,2016,2027
+D9036Z,None,D9036,2016,2027
+D9036ZZ,Beam Radiation of Hypopharynx using Neutron Capture,D9036Z,2016,2027
+D904,Mouth,D90,2016,2027
+D9040,Photons <1 MeV,D904,2016,2027
+D9040Z,None,D9040,2016,2027
+D9040ZZ,Beam Radiation of Mouth using Photons <1 MeV,D9040Z,2016,2027
+D9041,Photons 1 - 10 MeV,D904,2016,2027
+D9041Z,None,D9041,2016,2027
+D9041ZZ,Beam Radiation of Mouth using Photons 1 - 10 MeV,D9041Z,2016,2027
+D9042,Photons >10 MeV,D904,2016,2027
+D9042Z,None,D9042,2016,2027
+D9042ZZ,Beam Radiation of Mouth using Photons >10 MeV,D9042Z,2016,2027
+D9043,Electrons,D904,2016,2027
+D9043Z,None,D9043,2016,2027
+D9043Z0,"Beam Radiation of Mouth using Electrons, Intraoperative",D9043Z,2016,2027
+D9043ZZ,Beam Radiation of Mouth using Electrons,D9043Z,2016,2027
+D9044,"Heavy Particles (Protons,Ions)",D904,2016,2027
+D9044Z,None,D9044,2016,2027
+D9044ZZ,"Beam Radiation of Mouth using Heavy Particles (Protons,Ions)",D9044Z,2016,2027
+D9045,Neutrons,D904,2016,2027
+D9045Z,None,D9045,2016,2027
+D9045ZZ,Beam Radiation of Mouth using Neutrons,D9045Z,2016,2027
+D9046,Neutron Capture,D904,2016,2027
+D9046Z,None,D9046,2016,2027
+D9046ZZ,Beam Radiation of Mouth using Neutron Capture,D9046Z,2016,2027
+D905,Tongue,D90,2016,2027
+D9050,Photons <1 MeV,D905,2016,2027
+D9050Z,None,D9050,2016,2027
+D9050ZZ,Beam Radiation of Tongue using Photons <1 MeV,D9050Z,2016,2027
+D9051,Photons 1 - 10 MeV,D905,2016,2027
+D9051Z,None,D9051,2016,2027
+D9051ZZ,Beam Radiation of Tongue using Photons 1 - 10 MeV,D9051Z,2016,2027
+D9052,Photons >10 MeV,D905,2016,2027
+D9052Z,None,D9052,2016,2027
+D9052ZZ,Beam Radiation of Tongue using Photons >10 MeV,D9052Z,2016,2027
+D9053,Electrons,D905,2016,2027
+D9053Z,None,D9053,2016,2027
+D9053Z0,"Beam Radiation of Tongue using Electrons, Intraoperative",D9053Z,2016,2027
+D9053ZZ,Beam Radiation of Tongue using Electrons,D9053Z,2016,2027
+D9054,"Heavy Particles (Protons,Ions)",D905,2016,2027
+D9054Z,None,D9054,2016,2027
+D9054ZZ,"Beam Radiation of Tongue using Heavy Particles (Protons,Ions)",D9054Z,2016,2027
+D9055,Neutrons,D905,2016,2027
+D9055Z,None,D9055,2016,2027
+D9055ZZ,Beam Radiation of Tongue using Neutrons,D9055Z,2016,2027
+D9056,Neutron Capture,D905,2016,2027
+D9056Z,None,D9056,2016,2027
+D9056ZZ,Beam Radiation of Tongue using Neutron Capture,D9056Z,2016,2027
+D906,Salivary Glands,D90,2016,2027
+D9060,Photons <1 MeV,D906,2016,2027
+D9060Z,None,D9060,2016,2027
+D9060ZZ,Beam Radiation of Salivary Glands using Photons <1 MeV,D9060Z,2016,2027
+D9061,Photons 1 - 10 MeV,D906,2016,2027
+D9061Z,None,D9061,2016,2027
+D9061ZZ,Beam Radiation of Salivary Glands using Photons 1 - 10 MeV,D9061Z,2016,2027
+D9062,Photons >10 MeV,D906,2016,2027
+D9062Z,None,D9062,2016,2027
+D9062ZZ,Beam Radiation of Salivary Glands using Photons >10 MeV,D9062Z,2016,2027
+D9063,Electrons,D906,2016,2027
+D9063Z,None,D9063,2016,2027
+D9063Z0,"Beam Radiation of Salivary Glands using Electrons, Intraoperative",D9063Z,2016,2027
+D9063ZZ,Beam Radiation of Salivary Glands using Electrons,D9063Z,2016,2027
+D9064,"Heavy Particles (Protons,Ions)",D906,2016,2027
+D9064Z,None,D9064,2016,2027
+D9064ZZ,"Beam Radiation of Salivary Glands using Heavy Particles (Protons,Ions)",D9064Z,2016,2027
+D9065,Neutrons,D906,2016,2027
+D9065Z,None,D9065,2016,2027
+D9065ZZ,Beam Radiation of Salivary Glands using Neutrons,D9065Z,2016,2027
+D9066,Neutron Capture,D906,2016,2027
+D9066Z,None,D9066,2016,2027
+D9066ZZ,Beam Radiation of Salivary Glands using Neutron Capture,D9066Z,2016,2027
+D907,Sinuses,D90,2016,2027
+D9070,Photons <1 MeV,D907,2016,2027
+D9070Z,None,D9070,2016,2027
+D9070ZZ,Beam Radiation of Sinuses using Photons <1 MeV,D9070Z,2016,2027
+D9071,Photons 1 - 10 MeV,D907,2016,2027
+D9071Z,None,D9071,2016,2027
+D9071ZZ,Beam Radiation of Sinuses using Photons 1 - 10 MeV,D9071Z,2016,2027
+D9072,Photons >10 MeV,D907,2016,2027
+D9072Z,None,D9072,2016,2027
+D9072ZZ,Beam Radiation of Sinuses using Photons >10 MeV,D9072Z,2016,2027
+D9073,Electrons,D907,2016,2027
+D9073Z,None,D9073,2016,2027
+D9073Z0,"Beam Radiation of Sinuses using Electrons, Intraoperative",D9073Z,2016,2027
+D9073ZZ,Beam Radiation of Sinuses using Electrons,D9073Z,2016,2027
+D9074,"Heavy Particles (Protons,Ions)",D907,2016,2027
+D9074Z,None,D9074,2016,2027
+D9074ZZ,"Beam Radiation of Sinuses using Heavy Particles (Protons,Ions)",D9074Z,2016,2027
+D9075,Neutrons,D907,2016,2027
+D9075Z,None,D9075,2016,2027
+D9075ZZ,Beam Radiation of Sinuses using Neutrons,D9075Z,2016,2027
+D9076,Neutron Capture,D907,2016,2027
+D9076Z,None,D9076,2016,2027
+D9076ZZ,Beam Radiation of Sinuses using Neutron Capture,D9076Z,2016,2027
+D908,Hard Palate,D90,2016,2027
+D9080,Photons <1 MeV,D908,2016,2027
+D9080Z,None,D9080,2016,2027
+D9080ZZ,Beam Radiation of Hard Palate using Photons <1 MeV,D9080Z,2016,2027
+D9081,Photons 1 - 10 MeV,D908,2016,2027
+D9081Z,None,D9081,2016,2027
+D9081ZZ,Beam Radiation of Hard Palate using Photons 1 - 10 MeV,D9081Z,2016,2027
+D9082,Photons >10 MeV,D908,2016,2027
+D9082Z,None,D9082,2016,2027
+D9082ZZ,Beam Radiation of Hard Palate using Photons >10 MeV,D9082Z,2016,2027
+D9083,Electrons,D908,2016,2027
+D9083Z,None,D9083,2016,2027
+D9083Z0,"Beam Radiation of Hard Palate using Electrons, Intraoperative",D9083Z,2016,2027
+D9083ZZ,Beam Radiation of Hard Palate using Electrons,D9083Z,2016,2027
+D9084,"Heavy Particles (Protons,Ions)",D908,2016,2027
+D9084Z,None,D9084,2016,2027
+D9084ZZ,"Beam Radiation of Hard Palate using Heavy Particles (Protons,Ions)",D9084Z,2016,2027
+D9085,Neutrons,D908,2016,2027
+D9085Z,None,D9085,2016,2027
+D9085ZZ,Beam Radiation of Hard Palate using Neutrons,D9085Z,2016,2027
+D9086,Neutron Capture,D908,2016,2027
+D9086Z,None,D9086,2016,2027
+D9086ZZ,Beam Radiation of Hard Palate using Neutron Capture,D9086Z,2016,2027
+D909,Soft Palate,D90,2016,2027
+D9090,Photons <1 MeV,D909,2016,2027
+D9090Z,None,D9090,2016,2027
+D9090ZZ,Beam Radiation of Soft Palate using Photons <1 MeV,D9090Z,2016,2027
+D9091,Photons 1 - 10 MeV,D909,2016,2027
+D9091Z,None,D9091,2016,2027
+D9091ZZ,Beam Radiation of Soft Palate using Photons 1 - 10 MeV,D9091Z,2016,2027
+D9092,Photons >10 MeV,D909,2016,2027
+D9092Z,None,D9092,2016,2027
+D9092ZZ,Beam Radiation of Soft Palate using Photons >10 MeV,D9092Z,2016,2027
+D9093,Electrons,D909,2016,2027
+D9093Z,None,D9093,2016,2027
+D9093Z0,"Beam Radiation of Soft Palate using Electrons, Intraoperative",D9093Z,2016,2027
+D9093ZZ,Beam Radiation of Soft Palate using Electrons,D9093Z,2016,2027
+D9094,"Heavy Particles (Protons,Ions)",D909,2016,2027
+D9094Z,None,D9094,2016,2027
+D9094ZZ,"Beam Radiation of Soft Palate using Heavy Particles (Protons,Ions)",D9094Z,2016,2027
+D9095,Neutrons,D909,2016,2027
+D9095Z,None,D9095,2016,2027
+D9095ZZ,Beam Radiation of Soft Palate using Neutrons,D9095Z,2016,2027
+D9096,Neutron Capture,D909,2016,2027
+D9096Z,None,D9096,2016,2027
+D9096ZZ,Beam Radiation of Soft Palate using Neutron Capture,D9096Z,2016,2027
+D90B,Larynx,D90,2016,2027
+D90B0,Photons <1 MeV,D90B,2016,2027
+D90B0Z,None,D90B0,2016,2027
+D90B0ZZ,Beam Radiation of Larynx using Photons <1 MeV,D90B0Z,2016,2027
+D90B1,Photons 1 - 10 MeV,D90B,2016,2027
+D90B1Z,None,D90B1,2016,2027
+D90B1ZZ,Beam Radiation of Larynx using Photons 1 - 10 MeV,D90B1Z,2016,2027
+D90B2,Photons >10 MeV,D90B,2016,2027
+D90B2Z,None,D90B2,2016,2027
+D90B2ZZ,Beam Radiation of Larynx using Photons >10 MeV,D90B2Z,2016,2027
+D90B3,Electrons,D90B,2016,2027
+D90B3Z,None,D90B3,2016,2027
+D90B3Z0,"Beam Radiation of Larynx using Electrons, Intraoperative",D90B3Z,2016,2027
+D90B3ZZ,Beam Radiation of Larynx using Electrons,D90B3Z,2016,2027
+D90B4,"Heavy Particles (Protons,Ions)",D90B,2016,2027
+D90B4Z,None,D90B4,2016,2027
+D90B4ZZ,"Beam Radiation of Larynx using Heavy Particles (Protons,Ions)",D90B4Z,2016,2027
+D90B5,Neutrons,D90B,2016,2027
+D90B5Z,None,D90B5,2016,2027
+D90B5ZZ,Beam Radiation of Larynx using Neutrons,D90B5Z,2016,2027
+D90B6,Neutron Capture,D90B,2016,2027
+D90B6Z,None,D90B6,2016,2027
+D90B6ZZ,Beam Radiation of Larynx using Neutron Capture,D90B6Z,2016,2027
+D90D,Nasopharynx,D90,2016,2027
+D90D0,Photons <1 MeV,D90D,2016,2027
+D90D0Z,None,D90D0,2016,2027
+D90D0ZZ,Beam Radiation of Nasopharynx using Photons <1 MeV,D90D0Z,2016,2027
+D90D1,Photons 1 - 10 MeV,D90D,2016,2027
+D90D1Z,None,D90D1,2016,2027
+D90D1ZZ,Beam Radiation of Nasopharynx using Photons 1 - 10 MeV,D90D1Z,2016,2027
+D90D2,Photons >10 MeV,D90D,2016,2027
+D90D2Z,None,D90D2,2016,2027
+D90D2ZZ,Beam Radiation of Nasopharynx using Photons >10 MeV,D90D2Z,2016,2027
+D90D3,Electrons,D90D,2016,2027
+D90D3Z,None,D90D3,2016,2027
+D90D3Z0,"Beam Radiation of Nasopharynx using Electrons, Intraoperative",D90D3Z,2016,2027
+D90D3ZZ,Beam Radiation of Nasopharynx using Electrons,D90D3Z,2016,2027
+D90D4,"Heavy Particles (Protons,Ions)",D90D,2016,2027
+D90D4Z,None,D90D4,2016,2027
+D90D4ZZ,"Beam Radiation of Nasopharynx using Heavy Particles (Protons,Ions)",D90D4Z,2016,2027
+D90D5,Neutrons,D90D,2016,2027
+D90D5Z,None,D90D5,2016,2027
+D90D5ZZ,Beam Radiation of Nasopharynx using Neutrons,D90D5Z,2016,2027
+D90D6,Neutron Capture,D90D,2016,2027
+D90D6Z,None,D90D6,2016,2027
+D90D6ZZ,Beam Radiation of Nasopharynx using Neutron Capture,D90D6Z,2016,2027
+D90F,Oropharynx,D90,2016,2027
+D90F0,Photons <1 MeV,D90F,2016,2027
+D90F0Z,None,D90F0,2016,2027
+D90F0ZZ,Beam Radiation of Oropharynx using Photons <1 MeV,D90F0Z,2016,2027
+D90F1,Photons 1 - 10 MeV,D90F,2016,2027
+D90F1Z,None,D90F1,2016,2027
+D90F1ZZ,Beam Radiation of Oropharynx using Photons 1 - 10 MeV,D90F1Z,2016,2027
+D90F2,Photons >10 MeV,D90F,2016,2027
+D90F2Z,None,D90F2,2016,2027
+D90F2ZZ,Beam Radiation of Oropharynx using Photons >10 MeV,D90F2Z,2016,2027
+D90F3,Electrons,D90F,2016,2027
+D90F3Z,None,D90F3,2016,2027
+D90F3Z0,"Beam Radiation of Oropharynx using Electrons, Intraoperative",D90F3Z,2016,2027
+D90F3ZZ,Beam Radiation of Oropharynx using Electrons,D90F3Z,2016,2027
+D90F4,"Heavy Particles (Protons,Ions)",D90F,2016,2027
+D90F4Z,None,D90F4,2016,2027
+D90F4ZZ,"Beam Radiation of Oropharynx using Heavy Particles (Protons,Ions)",D90F4Z,2016,2027
+D90F5,Neutrons,D90F,2016,2027
+D90F5Z,None,D90F5,2016,2027
+D90F5ZZ,Beam Radiation of Oropharynx using Neutrons,D90F5Z,2016,2027
+D90F6,Neutron Capture,D90F,2016,2027
+D90F6Z,None,D90F6,2016,2027
+D90F6ZZ,Beam Radiation of Oropharynx using Neutron Capture,D90F6Z,2016,2027
+D91,Brachytherapy,D9,2016,2027
+D910,Ear,D91,2016,2027
+D9109,High Dose Rate (HDR),D910,2016,2027
+D91097,Cesium 137 (Cs-137),D9109,2016,2027
+D91097Z,High Dose Rate (HDR) Brachytherapy of Ear using Cesium 137 (Cs-137),D91097,2016,2027
+D91098,Iridium 192 (Ir-192),D9109,2016,2027
+D91098Z,High Dose Rate (HDR) Brachytherapy of Ear using Iridium 192 (Ir-192),D91098,2016,2027
+D91099,Iodine 125 (I-125),D9109,2016,2027
+D91099Z,High Dose Rate (HDR) Brachytherapy of Ear using Iodine 125 (I-125),D91099,2016,2027
+D9109B,Palladium 103 (Pd-103),D9109,2016,2027
+D9109BZ,High Dose Rate (HDR) Brachytherapy of Ear using Palladium 103 (Pd-103),D9109B,2016,2027
+D9109C,Californium 252 (Cf-252),D9109,2016,2027
+D9109CZ,High Dose Rate (HDR) Brachytherapy of Ear using Californium 252 (Cf-252),D9109C,2016,2027
+D9109Y,Other Isotope,D9109,2016,2027
+D9109YZ,High Dose Rate (HDR) Brachytherapy of Ear using Other Isotope,D9109Y,2016,2027
+D910B,Low Dose Rate (LDR),D910,2016,2027
+D910B6,Cesium 131 (Cs-131),D910B,2021,2027
+D910B6Z,Low Dose Rate (LDR) Brachytherapy of Ear using Cesium 131 (Cs-131),D910B6,2021,2027
+D910B7,Cesium 137 (Cs-137),D910B,2016,2027
+D910B7Z,Low Dose Rate (LDR) Brachytherapy of Ear using Cesium 137 (Cs-137),D910B7,2016,2027
+D910B8,Iridium 192 (Ir-192),D910B,2016,2027
+D910B8Z,Low Dose Rate (LDR) Brachytherapy of Ear using Iridium 192 (Ir-192),D910B8,2016,2027
+D910B9,Iodine 125 (I-125),D910B,2016,2027
+D910B9Z,Low Dose Rate (LDR) Brachytherapy of Ear using Iodine 125 (I-125),D910B9,2016,2027
+D910BB,Palladium 103 (Pd-103),D910B,2016,2027
+D910BB1,"Low Dose Rate (LDR) Brachytherapy of Ear using Palladium 103 (Pd-103), Unidirectional Source",D910BB,2020,2027
+D910BBZ,Low Dose Rate (LDR) Brachytherapy of Ear using Palladium 103 (Pd-103),D910BB,2016,2027
+D910BC,Californium 252 (Cf-252),D910B,2016,2027
+D910BCZ,Low Dose Rate (LDR) Brachytherapy of Ear using Californium 252 (Cf-252),D910BC,2016,2027
+D910BY,Other Isotope,D910B,2016,2027
+D910BYZ,Low Dose Rate (LDR) Brachytherapy of Ear using Other Isotope,D910BY,2016,2027
+D911,Nose,D91,2016,2027
+D9119,High Dose Rate (HDR),D911,2016,2027
+D91197,Cesium 137 (Cs-137),D9119,2016,2027
+D91197Z,High Dose Rate (HDR) Brachytherapy of Nose using Cesium 137 (Cs-137),D91197,2016,2027
+D91198,Iridium 192 (Ir-192),D9119,2016,2027
+D91198Z,High Dose Rate (HDR) Brachytherapy of Nose using Iridium 192 (Ir-192),D91198,2016,2027
+D91199,Iodine 125 (I-125),D9119,2016,2027
+D91199Z,High Dose Rate (HDR) Brachytherapy of Nose using Iodine 125 (I-125),D91199,2016,2027
+D9119B,Palladium 103 (Pd-103),D9119,2016,2027
+D9119BZ,High Dose Rate (HDR) Brachytherapy of Nose using Palladium 103 (Pd-103),D9119B,2016,2027
+D9119C,Californium 252 (Cf-252),D9119,2016,2027
+D9119CZ,High Dose Rate (HDR) Brachytherapy of Nose using Californium 252 (Cf-252),D9119C,2016,2027
+D9119Y,Other Isotope,D9119,2016,2027
+D9119YZ,High Dose Rate (HDR) Brachytherapy of Nose using Other Isotope,D9119Y,2016,2027
+D911B,Low Dose Rate (LDR),D911,2016,2027
+D911B6,Cesium 131 (Cs-131),D911B,2021,2027
+D911B6Z,Low Dose Rate (LDR) Brachytherapy of Nose using Cesium 131 (Cs-131),D911B6,2021,2027
+D911B7,Cesium 137 (Cs-137),D911B,2016,2027
+D911B7Z,Low Dose Rate (LDR) Brachytherapy of Nose using Cesium 137 (Cs-137),D911B7,2016,2027
+D911B8,Iridium 192 (Ir-192),D911B,2016,2027
+D911B8Z,Low Dose Rate (LDR) Brachytherapy of Nose using Iridium 192 (Ir-192),D911B8,2016,2027
+D911B9,Iodine 125 (I-125),D911B,2016,2027
+D911B9Z,Low Dose Rate (LDR) Brachytherapy of Nose using Iodine 125 (I-125),D911B9,2016,2027
+D911BB,Palladium 103 (Pd-103),D911B,2016,2027
+D911BB1,"Low Dose Rate (LDR) Brachytherapy of Nose using Palladium 103 (Pd-103), Unidirectional Source",D911BB,2020,2027
+D911BBZ,Low Dose Rate (LDR) Brachytherapy of Nose using Palladium 103 (Pd-103),D911BB,2016,2027
+D911BC,Californium 252 (Cf-252),D911B,2016,2027
+D911BCZ,Low Dose Rate (LDR) Brachytherapy of Nose using Californium 252 (Cf-252),D911BC,2016,2027
+D911BY,Other Isotope,D911B,2016,2027
+D911BYZ,Low Dose Rate (LDR) Brachytherapy of Nose using Other Isotope,D911BY,2016,2027
+D913,Hypopharynx,D91,2016,2027
+D9139,High Dose Rate (HDR),D913,2016,2027
+D91397,Cesium 137 (Cs-137),D9139,2016,2027
+D91397Z,High Dose Rate (HDR) Brachytherapy of Hypopharynx using Cesium 137 (Cs-137),D91397,2016,2027
+D91398,Iridium 192 (Ir-192),D9139,2016,2027
+D91398Z,High Dose Rate (HDR) Brachytherapy of Hypopharynx using Iridium 192 (Ir-192),D91398,2016,2027
+D91399,Iodine 125 (I-125),D9139,2016,2027
+D91399Z,High Dose Rate (HDR) Brachytherapy of Hypopharynx using Iodine 125 (I-125),D91399,2016,2027
+D9139B,Palladium 103 (Pd-103),D9139,2016,2027
+D9139BZ,High Dose Rate (HDR) Brachytherapy of Hypopharynx using Palladium 103 (Pd-103),D9139B,2016,2027
+D9139C,Californium 252 (Cf-252),D9139,2016,2027
+D9139CZ,High Dose Rate (HDR) Brachytherapy of Hypopharynx using Californium 252 (Cf-252),D9139C,2016,2027
+D9139Y,Other Isotope,D9139,2016,2027
+D9139YZ,High Dose Rate (HDR) Brachytherapy of Hypopharynx using Other Isotope,D9139Y,2016,2027
+D913B,Low Dose Rate (LDR),D913,2016,2027
+D913B6,Cesium 131 (Cs-131),D913B,2021,2027
+D913B6Z,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Cesium 131 (Cs-131),D913B6,2021,2027
+D913B7,Cesium 137 (Cs-137),D913B,2016,2027
+D913B7Z,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Cesium 137 (Cs-137),D913B7,2016,2027
+D913B8,Iridium 192 (Ir-192),D913B,2016,2027
+D913B8Z,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Iridium 192 (Ir-192),D913B8,2016,2027
+D913B9,Iodine 125 (I-125),D913B,2016,2027
+D913B9Z,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Iodine 125 (I-125),D913B9,2016,2027
+D913BB,Palladium 103 (Pd-103),D913B,2016,2027
+D913BB1,"Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Palladium 103 (Pd-103), Unidirectional Source",D913BB,2020,2027
+D913BBZ,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Palladium 103 (Pd-103),D913BB,2016,2027
+D913BC,Californium 252 (Cf-252),D913B,2016,2027
+D913BCZ,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Californium 252 (Cf-252),D913BC,2016,2027
+D913BY,Other Isotope,D913B,2016,2027
+D913BYZ,Low Dose Rate (LDR) Brachytherapy of Hypopharynx using Other Isotope,D913BY,2016,2027
+D914,Mouth,D91,2016,2027
+D9149,High Dose Rate (HDR),D914,2016,2027
+D91497,Cesium 137 (Cs-137),D9149,2016,2027
+D91497Z,High Dose Rate (HDR) Brachytherapy of Mouth using Cesium 137 (Cs-137),D91497,2016,2027
+D91498,Iridium 192 (Ir-192),D9149,2016,2027
+D91498Z,High Dose Rate (HDR) Brachytherapy of Mouth using Iridium 192 (Ir-192),D91498,2016,2027
+D91499,Iodine 125 (I-125),D9149,2016,2027
+D91499Z,High Dose Rate (HDR) Brachytherapy of Mouth using Iodine 125 (I-125),D91499,2016,2027
+D9149B,Palladium 103 (Pd-103),D9149,2016,2027
+D9149BZ,High Dose Rate (HDR) Brachytherapy of Mouth using Palladium 103 (Pd-103),D9149B,2016,2027
+D9149C,Californium 252 (Cf-252),D9149,2016,2027
+D9149CZ,High Dose Rate (HDR) Brachytherapy of Mouth using Californium 252 (Cf-252),D9149C,2016,2027
+D9149Y,Other Isotope,D9149,2016,2027
+D9149YZ,High Dose Rate (HDR) Brachytherapy of Mouth using Other Isotope,D9149Y,2016,2027
+D914B,Low Dose Rate (LDR),D914,2016,2027
+D914B6,Cesium 131 (Cs-131),D914B,2021,2027
+D914B6Z,Low Dose Rate (LDR) Brachytherapy of Mouth using Cesium 131 (Cs-131),D914B6,2021,2027
+D914B7,Cesium 137 (Cs-137),D914B,2016,2027
+D914B7Z,Low Dose Rate (LDR) Brachytherapy of Mouth using Cesium 137 (Cs-137),D914B7,2016,2027
+D914B8,Iridium 192 (Ir-192),D914B,2016,2027
+D914B8Z,Low Dose Rate (LDR) Brachytherapy of Mouth using Iridium 192 (Ir-192),D914B8,2016,2027
+D914B9,Iodine 125 (I-125),D914B,2016,2027
+D914B9Z,Low Dose Rate (LDR) Brachytherapy of Mouth using Iodine 125 (I-125),D914B9,2016,2027
+D914BB,Palladium 103 (Pd-103),D914B,2016,2027
+D914BB1,"Low Dose Rate (LDR) Brachytherapy of Mouth using Palladium 103 (Pd-103), Unidirectional Source",D914BB,2020,2027
+D914BBZ,Low Dose Rate (LDR) Brachytherapy of Mouth using Palladium 103 (Pd-103),D914BB,2016,2027
+D914BC,Californium 252 (Cf-252),D914B,2016,2027
+D914BCZ,Low Dose Rate (LDR) Brachytherapy of Mouth using Californium 252 (Cf-252),D914BC,2016,2027
+D914BY,Other Isotope,D914B,2016,2027
+D914BYZ,Low Dose Rate (LDR) Brachytherapy of Mouth using Other Isotope,D914BY,2016,2027
+D915,Tongue,D91,2016,2027
+D9159,High Dose Rate (HDR),D915,2016,2027
+D91597,Cesium 137 (Cs-137),D9159,2016,2027
+D91597Z,High Dose Rate (HDR) Brachytherapy of Tongue using Cesium 137 (Cs-137),D91597,2016,2027
+D91598,Iridium 192 (Ir-192),D9159,2016,2027
+D91598Z,High Dose Rate (HDR) Brachytherapy of Tongue using Iridium 192 (Ir-192),D91598,2016,2027
+D91599,Iodine 125 (I-125),D9159,2016,2027
+D91599Z,High Dose Rate (HDR) Brachytherapy of Tongue using Iodine 125 (I-125),D91599,2016,2027
+D9159B,Palladium 103 (Pd-103),D9159,2016,2027
+D9159BZ,High Dose Rate (HDR) Brachytherapy of Tongue using Palladium 103 (Pd-103),D9159B,2016,2027
+D9159C,Californium 252 (Cf-252),D9159,2016,2027
+D9159CZ,High Dose Rate (HDR) Brachytherapy of Tongue using Californium 252 (Cf-252),D9159C,2016,2027
+D9159Y,Other Isotope,D9159,2016,2027
+D9159YZ,High Dose Rate (HDR) Brachytherapy of Tongue using Other Isotope,D9159Y,2016,2027
+D915B,Low Dose Rate (LDR),D915,2016,2027
+D915B6,Cesium 131 (Cs-131),D915B,2021,2027
+D915B6Z,Low Dose Rate (LDR) Brachytherapy of Tongue using Cesium 131 (Cs-131),D915B6,2021,2027
+D915B7,Cesium 137 (Cs-137),D915B,2016,2027
+D915B7Z,Low Dose Rate (LDR) Brachytherapy of Tongue using Cesium 137 (Cs-137),D915B7,2016,2027
+D915B8,Iridium 192 (Ir-192),D915B,2016,2027
+D915B8Z,Low Dose Rate (LDR) Brachytherapy of Tongue using Iridium 192 (Ir-192),D915B8,2016,2027
+D915B9,Iodine 125 (I-125),D915B,2016,2027
+D915B9Z,Low Dose Rate (LDR) Brachytherapy of Tongue using Iodine 125 (I-125),D915B9,2016,2027
+D915BB,Palladium 103 (Pd-103),D915B,2016,2027
+D915BB1,"Low Dose Rate (LDR) Brachytherapy of Tongue using Palladium 103 (Pd-103), Unidirectional Source",D915BB,2020,2027
+D915BBZ,Low Dose Rate (LDR) Brachytherapy of Tongue using Palladium 103 (Pd-103),D915BB,2016,2027
+D915BC,Californium 252 (Cf-252),D915B,2016,2027
+D915BCZ,Low Dose Rate (LDR) Brachytherapy of Tongue using Californium 252 (Cf-252),D915BC,2016,2027
+D915BY,Other Isotope,D915B,2016,2027
+D915BYZ,Low Dose Rate (LDR) Brachytherapy of Tongue using Other Isotope,D915BY,2016,2027
+D916,Salivary Glands,D91,2016,2027
+D9169,High Dose Rate (HDR),D916,2016,2027
+D91697,Cesium 137 (Cs-137),D9169,2016,2027
+D91697Z,High Dose Rate (HDR) Brachytherapy of Salivary Glands using Cesium 137 (Cs-137),D91697,2016,2027
+D91698,Iridium 192 (Ir-192),D9169,2016,2027
+D91698Z,High Dose Rate (HDR) Brachytherapy of Salivary Glands using Iridium 192 (Ir-192),D91698,2016,2027
+D91699,Iodine 125 (I-125),D9169,2016,2027
+D91699Z,High Dose Rate (HDR) Brachytherapy of Salivary Glands using Iodine 125 (I-125),D91699,2016,2027
+D9169B,Palladium 103 (Pd-103),D9169,2016,2027
+D9169BZ,High Dose Rate (HDR) Brachytherapy of Salivary Glands using Palladium 103 (Pd-103),D9169B,2016,2027
+D9169C,Californium 252 (Cf-252),D9169,2016,2027
+D9169CZ,High Dose Rate (HDR) Brachytherapy of Salivary Glands using Californium 252 (Cf-252),D9169C,2016,2027
+D9169Y,Other Isotope,D9169,2016,2027
+D9169YZ,High Dose Rate (HDR) Brachytherapy of Salivary Glands using Other Isotope,D9169Y,2016,2027
+D916B,Low Dose Rate (LDR),D916,2016,2027
+D916B6,Cesium 131 (Cs-131),D916B,2021,2027
+D916B6Z,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Cesium 131 (Cs-131),D916B6,2021,2027
+D916B7,Cesium 137 (Cs-137),D916B,2016,2027
+D916B7Z,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Cesium 137 (Cs-137),D916B7,2016,2027
+D916B8,Iridium 192 (Ir-192),D916B,2016,2027
+D916B8Z,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Iridium 192 (Ir-192),D916B8,2016,2027
+D916B9,Iodine 125 (I-125),D916B,2016,2027
+D916B9Z,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Iodine 125 (I-125),D916B9,2016,2027
+D916BB,Palladium 103 (Pd-103),D916B,2016,2027
+D916BB1,"Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Palladium 103 (Pd-103), Unidirectional Source",D916BB,2020,2027
+D916BBZ,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Palladium 103 (Pd-103),D916BB,2016,2027
+D916BC,Californium 252 (Cf-252),D916B,2016,2027
+D916BCZ,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Californium 252 (Cf-252),D916BC,2016,2027
+D916BY,Other Isotope,D916B,2016,2027
+D916BYZ,Low Dose Rate (LDR) Brachytherapy of Salivary Glands using Other Isotope,D916BY,2016,2027
+D917,Sinuses,D91,2016,2027
+D9179,High Dose Rate (HDR),D917,2016,2027
+D91797,Cesium 137 (Cs-137),D9179,2016,2027
+D91797Z,High Dose Rate (HDR) Brachytherapy of Sinuses using Cesium 137 (Cs-137),D91797,2016,2027
+D91798,Iridium 192 (Ir-192),D9179,2016,2027
+D91798Z,High Dose Rate (HDR) Brachytherapy of Sinuses using Iridium 192 (Ir-192),D91798,2016,2027
+D91799,Iodine 125 (I-125),D9179,2016,2027
+D91799Z,High Dose Rate (HDR) Brachytherapy of Sinuses using Iodine 125 (I-125),D91799,2016,2027
+D9179B,Palladium 103 (Pd-103),D9179,2016,2027
+D9179BZ,High Dose Rate (HDR) Brachytherapy of Sinuses using Palladium 103 (Pd-103),D9179B,2016,2027
+D9179C,Californium 252 (Cf-252),D9179,2016,2027
+D9179CZ,High Dose Rate (HDR) Brachytherapy of Sinuses using Californium 252 (Cf-252),D9179C,2016,2027
+D9179Y,Other Isotope,D9179,2016,2027
+D9179YZ,High Dose Rate (HDR) Brachytherapy of Sinuses using Other Isotope,D9179Y,2016,2027
+D917B,Low Dose Rate (LDR),D917,2016,2027
+D917B6,Cesium 131 (Cs-131),D917B,2021,2027
+D917B6Z,Low Dose Rate (LDR) Brachytherapy of Sinuses using Cesium 131 (Cs-131),D917B6,2021,2027
+D917B7,Cesium 137 (Cs-137),D917B,2016,2027
+D917B7Z,Low Dose Rate (LDR) Brachytherapy of Sinuses using Cesium 137 (Cs-137),D917B7,2016,2027
+D917B8,Iridium 192 (Ir-192),D917B,2016,2027
+D917B8Z,Low Dose Rate (LDR) Brachytherapy of Sinuses using Iridium 192 (Ir-192),D917B8,2016,2027
+D917B9,Iodine 125 (I-125),D917B,2016,2027
+D917B9Z,Low Dose Rate (LDR) Brachytherapy of Sinuses using Iodine 125 (I-125),D917B9,2016,2027
+D917BB,Palladium 103 (Pd-103),D917B,2016,2027
+D917BB1,"Low Dose Rate (LDR) Brachytherapy of Sinuses using Palladium 103 (Pd-103), Unidirectional Source",D917BB,2020,2027
+D917BBZ,Low Dose Rate (LDR) Brachytherapy of Sinuses using Palladium 103 (Pd-103),D917BB,2016,2027
+D917BC,Californium 252 (Cf-252),D917B,2016,2027
+D917BCZ,Low Dose Rate (LDR) Brachytherapy of Sinuses using Californium 252 (Cf-252),D917BC,2016,2027
+D917BY,Other Isotope,D917B,2016,2027
+D917BYZ,Low Dose Rate (LDR) Brachytherapy of Sinuses using Other Isotope,D917BY,2016,2027
+D918,Hard Palate,D91,2016,2027
+D9189,High Dose Rate (HDR),D918,2016,2027
+D91897,Cesium 137 (Cs-137),D9189,2016,2027
+D91897Z,High Dose Rate (HDR) Brachytherapy of Hard Palate using Cesium 137 (Cs-137),D91897,2016,2027
+D91898,Iridium 192 (Ir-192),D9189,2016,2027
+D91898Z,High Dose Rate (HDR) Brachytherapy of Hard Palate using Iridium 192 (Ir-192),D91898,2016,2027
+D91899,Iodine 125 (I-125),D9189,2016,2027
+D91899Z,High Dose Rate (HDR) Brachytherapy of Hard Palate using Iodine 125 (I-125),D91899,2016,2027
+D9189B,Palladium 103 (Pd-103),D9189,2016,2027
+D9189BZ,High Dose Rate (HDR) Brachytherapy of Hard Palate using Palladium 103 (Pd-103),D9189B,2016,2027
+D9189C,Californium 252 (Cf-252),D9189,2016,2027
+D9189CZ,High Dose Rate (HDR) Brachytherapy of Hard Palate using Californium 252 (Cf-252),D9189C,2016,2027
+D9189Y,Other Isotope,D9189,2016,2027
+D9189YZ,High Dose Rate (HDR) Brachytherapy of Hard Palate using Other Isotope,D9189Y,2016,2027
+D918B,Low Dose Rate (LDR),D918,2016,2027
+D918B6,Cesium 131 (Cs-131),D918B,2021,2027
+D918B6Z,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Cesium 131 (Cs-131),D918B6,2021,2027
+D918B7,Cesium 137 (Cs-137),D918B,2016,2027
+D918B7Z,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Cesium 137 (Cs-137),D918B7,2016,2027
+D918B8,Iridium 192 (Ir-192),D918B,2016,2027
+D918B8Z,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Iridium 192 (Ir-192),D918B8,2016,2027
+D918B9,Iodine 125 (I-125),D918B,2016,2027
+D918B9Z,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Iodine 125 (I-125),D918B9,2016,2027
+D918BB,Palladium 103 (Pd-103),D918B,2016,2027
+D918BB1,"Low Dose Rate (LDR) Brachytherapy of Hard Palate using Palladium 103 (Pd-103), Unidirectional Source",D918BB,2020,2027
+D918BBZ,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Palladium 103 (Pd-103),D918BB,2016,2027
+D918BC,Californium 252 (Cf-252),D918B,2016,2027
+D918BCZ,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Californium 252 (Cf-252),D918BC,2016,2027
+D918BY,Other Isotope,D918B,2016,2027
+D918BYZ,Low Dose Rate (LDR) Brachytherapy of Hard Palate using Other Isotope,D918BY,2016,2027
+D919,Soft Palate,D91,2016,2027
+D9199,High Dose Rate (HDR),D919,2016,2027
+D91997,Cesium 137 (Cs-137),D9199,2016,2027
+D91997Z,High Dose Rate (HDR) Brachytherapy of Soft Palate using Cesium 137 (Cs-137),D91997,2016,2027
+D91998,Iridium 192 (Ir-192),D9199,2016,2027
+D91998Z,High Dose Rate (HDR) Brachytherapy of Soft Palate using Iridium 192 (Ir-192),D91998,2016,2027
+D91999,Iodine 125 (I-125),D9199,2016,2027
+D91999Z,High Dose Rate (HDR) Brachytherapy of Soft Palate using Iodine 125 (I-125),D91999,2016,2027
+D9199B,Palladium 103 (Pd-103),D9199,2016,2027
+D9199BZ,High Dose Rate (HDR) Brachytherapy of Soft Palate using Palladium 103 (Pd-103),D9199B,2016,2027
+D9199C,Californium 252 (Cf-252),D9199,2016,2027
+D9199CZ,High Dose Rate (HDR) Brachytherapy of Soft Palate using Californium 252 (Cf-252),D9199C,2016,2027
+D9199Y,Other Isotope,D9199,2016,2027
+D9199YZ,High Dose Rate (HDR) Brachytherapy of Soft Palate using Other Isotope,D9199Y,2016,2027
+D919B,Low Dose Rate (LDR),D919,2016,2027
+D919B6,Cesium 131 (Cs-131),D919B,2021,2027
+D919B6Z,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Cesium 131 (Cs-131),D919B6,2021,2027
+D919B7,Cesium 137 (Cs-137),D919B,2016,2027
+D919B7Z,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Cesium 137 (Cs-137),D919B7,2016,2027
+D919B8,Iridium 192 (Ir-192),D919B,2016,2027
+D919B8Z,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Iridium 192 (Ir-192),D919B8,2016,2027
+D919B9,Iodine 125 (I-125),D919B,2016,2027
+D919B9Z,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Iodine 125 (I-125),D919B9,2016,2027
+D919BB,Palladium 103 (Pd-103),D919B,2016,2027
+D919BB1,"Low Dose Rate (LDR) Brachytherapy of Soft Palate using Palladium 103 (Pd-103), Unidirectional Source",D919BB,2020,2027
+D919BBZ,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Palladium 103 (Pd-103),D919BB,2016,2027
+D919BC,Californium 252 (Cf-252),D919B,2016,2027
+D919BCZ,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Californium 252 (Cf-252),D919BC,2016,2027
+D919BY,Other Isotope,D919B,2016,2027
+D919BYZ,Low Dose Rate (LDR) Brachytherapy of Soft Palate using Other Isotope,D919BY,2016,2027
+D91B,Larynx,D91,2016,2027
+D91B9,High Dose Rate (HDR),D91B,2016,2027
+D91B97,Cesium 137 (Cs-137),D91B9,2016,2027
+D91B97Z,High Dose Rate (HDR) Brachytherapy of Larynx using Cesium 137 (Cs-137),D91B97,2016,2027
+D91B98,Iridium 192 (Ir-192),D91B9,2016,2027
+D91B98Z,High Dose Rate (HDR) Brachytherapy of Larynx using Iridium 192 (Ir-192),D91B98,2016,2027
+D91B99,Iodine 125 (I-125),D91B9,2016,2027
+D91B99Z,High Dose Rate (HDR) Brachytherapy of Larynx using Iodine 125 (I-125),D91B99,2016,2027
+D91B9B,Palladium 103 (Pd-103),D91B9,2016,2027
+D91B9BZ,High Dose Rate (HDR) Brachytherapy of Larynx using Palladium 103 (Pd-103),D91B9B,2016,2027
+D91B9C,Californium 252 (Cf-252),D91B9,2016,2027
+D91B9CZ,High Dose Rate (HDR) Brachytherapy of Larynx using Californium 252 (Cf-252),D91B9C,2016,2027
+D91B9Y,Other Isotope,D91B9,2016,2027
+D91B9YZ,High Dose Rate (HDR) Brachytherapy of Larynx using Other Isotope,D91B9Y,2016,2027
+D91BB,Low Dose Rate (LDR),D91B,2016,2027
+D91BB6,Cesium 131 (Cs-131),D91BB,2021,2027
+D91BB6Z,Low Dose Rate (LDR) Brachytherapy of Larynx using Cesium 131 (Cs-131),D91BB6,2021,2027
+D91BB7,Cesium 137 (Cs-137),D91BB,2016,2027
+D91BB7Z,Low Dose Rate (LDR) Brachytherapy of Larynx using Cesium 137 (Cs-137),D91BB7,2016,2027
+D91BB8,Iridium 192 (Ir-192),D91BB,2016,2027
+D91BB8Z,Low Dose Rate (LDR) Brachytherapy of Larynx using Iridium 192 (Ir-192),D91BB8,2016,2027
+D91BB9,Iodine 125 (I-125),D91BB,2016,2027
+D91BB9Z,Low Dose Rate (LDR) Brachytherapy of Larynx using Iodine 125 (I-125),D91BB9,2016,2027
+D91BBB,Palladium 103 (Pd-103),D91BB,2016,2027
+D91BBB1,"Low Dose Rate (LDR) Brachytherapy of Larynx using Palladium 103 (Pd-103), Unidirectional Source",D91BBB,2020,2027
+D91BBBZ,Low Dose Rate (LDR) Brachytherapy of Larynx using Palladium 103 (Pd-103),D91BBB,2016,2027
+D91BBC,Californium 252 (Cf-252),D91BB,2016,2027
+D91BBCZ,Low Dose Rate (LDR) Brachytherapy of Larynx using Californium 252 (Cf-252),D91BBC,2016,2027
+D91BBY,Other Isotope,D91BB,2016,2027
+D91BBYZ,Low Dose Rate (LDR) Brachytherapy of Larynx using Other Isotope,D91BBY,2016,2027
+D91D,Nasopharynx,D91,2016,2027
+D91D9,High Dose Rate (HDR),D91D,2016,2027
+D91D97,Cesium 137 (Cs-137),D91D9,2016,2027
+D91D97Z,High Dose Rate (HDR) Brachytherapy of Nasopharynx using Cesium 137 (Cs-137),D91D97,2016,2027
+D91D98,Iridium 192 (Ir-192),D91D9,2016,2027
+D91D98Z,High Dose Rate (HDR) Brachytherapy of Nasopharynx using Iridium 192 (Ir-192),D91D98,2016,2027
+D91D99,Iodine 125 (I-125),D91D9,2016,2027
+D91D99Z,High Dose Rate (HDR) Brachytherapy of Nasopharynx using Iodine 125 (I-125),D91D99,2016,2027
+D91D9B,Palladium 103 (Pd-103),D91D9,2016,2027
+D91D9BZ,High Dose Rate (HDR) Brachytherapy of Nasopharynx using Palladium 103 (Pd-103),D91D9B,2016,2027
+D91D9C,Californium 252 (Cf-252),D91D9,2016,2027
+D91D9CZ,High Dose Rate (HDR) Brachytherapy of Nasopharynx using Californium 252 (Cf-252),D91D9C,2016,2027
+D91D9Y,Other Isotope,D91D9,2016,2027
+D91D9YZ,High Dose Rate (HDR) Brachytherapy of Nasopharynx using Other Isotope,D91D9Y,2016,2027
+D91DB,Low Dose Rate (LDR),D91D,2016,2027
+D91DB6,Cesium 131 (Cs-131),D91DB,2021,2027
+D91DB6Z,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Cesium 131 (Cs-131),D91DB6,2021,2027
+D91DB7,Cesium 137 (Cs-137),D91DB,2016,2027
+D91DB7Z,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Cesium 137 (Cs-137),D91DB7,2016,2027
+D91DB8,Iridium 192 (Ir-192),D91DB,2016,2027
+D91DB8Z,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Iridium 192 (Ir-192),D91DB8,2016,2027
+D91DB9,Iodine 125 (I-125),D91DB,2016,2027
+D91DB9Z,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Iodine 125 (I-125),D91DB9,2016,2027
+D91DBB,Palladium 103 (Pd-103),D91DB,2016,2027
+D91DBB1,"Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Palladium 103 (Pd-103), Unidirectional Source",D91DBB,2020,2027
+D91DBBZ,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Palladium 103 (Pd-103),D91DBB,2016,2027
+D91DBC,Californium 252 (Cf-252),D91DB,2016,2027
+D91DBCZ,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Californium 252 (Cf-252),D91DBC,2016,2027
+D91DBY,Other Isotope,D91DB,2016,2027
+D91DBYZ,Low Dose Rate (LDR) Brachytherapy of Nasopharynx using Other Isotope,D91DBY,2016,2027
+D91F,Oropharynx,D91,2016,2027
+D91F9,High Dose Rate (HDR),D91F,2016,2027
+D91F97,Cesium 137 (Cs-137),D91F9,2016,2027
+D91F97Z,High Dose Rate (HDR) Brachytherapy of Oropharynx using Cesium 137 (Cs-137),D91F97,2016,2027
+D91F98,Iridium 192 (Ir-192),D91F9,2016,2027
+D91F98Z,High Dose Rate (HDR) Brachytherapy of Oropharynx using Iridium 192 (Ir-192),D91F98,2016,2027
+D91F99,Iodine 125 (I-125),D91F9,2016,2027
+D91F99Z,High Dose Rate (HDR) Brachytherapy of Oropharynx using Iodine 125 (I-125),D91F99,2016,2027
+D91F9B,Palladium 103 (Pd-103),D91F9,2016,2027
+D91F9BZ,High Dose Rate (HDR) Brachytherapy of Oropharynx using Palladium 103 (Pd-103),D91F9B,2016,2027
+D91F9C,Californium 252 (Cf-252),D91F9,2016,2027
+D91F9CZ,High Dose Rate (HDR) Brachytherapy of Oropharynx using Californium 252 (Cf-252),D91F9C,2016,2027
+D91F9Y,Other Isotope,D91F9,2016,2027
+D91F9YZ,High Dose Rate (HDR) Brachytherapy of Oropharynx using Other Isotope,D91F9Y,2016,2027
+D91FB,Low Dose Rate (LDR),D91F,2016,2027
+D91FB6,Cesium 131 (Cs-131),D91FB,2021,2027
+D91FB6Z,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Cesium 131 (Cs-131),D91FB6,2021,2027
+D91FB7,Cesium 137 (Cs-137),D91FB,2016,2027
+D91FB7Z,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Cesium 137 (Cs-137),D91FB7,2016,2027
+D91FB8,Iridium 192 (Ir-192),D91FB,2016,2027
+D91FB8Z,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Iridium 192 (Ir-192),D91FB8,2016,2027
+D91FB9,Iodine 125 (I-125),D91FB,2016,2027
+D91FB9Z,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Iodine 125 (I-125),D91FB9,2016,2027
+D91FBB,Palladium 103 (Pd-103),D91FB,2016,2027
+D91FBB1,"Low Dose Rate (LDR) Brachytherapy of Oropharynx using Palladium 103 (Pd-103), Unidirectional Source",D91FBB,2020,2027
+D91FBBZ,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Palladium 103 (Pd-103),D91FBB,2016,2027
+D91FBC,Californium 252 (Cf-252),D91FB,2016,2027
+D91FBCZ,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Californium 252 (Cf-252),D91FBC,2016,2027
+D91FBY,Other Isotope,D91FB,2016,2027
+D91FBYZ,Low Dose Rate (LDR) Brachytherapy of Oropharynx using Other Isotope,D91FBY,2016,2027
+D92,Stereotactic Radiosurgery,D9,2016,2027
+D920,Ear,D92,2016,2027
+D920D,Stereotactic Other Photon Radiosurgery,D920,2016,2027
+D920DZ,None,D920D,2016,2027
+D920DZZ,Stereotactic Other Photon Radiosurgery of Ear,D920DZ,2016,2027
+D920H,Stereotactic Particulate Radiosurgery,D920,2016,2027
+D920HZ,None,D920H,2016,2027
+D920HZZ,Stereotactic Particulate Radiosurgery of Ear,D920HZ,2016,2027
+D920J,Stereotactic Gamma Beam Radiosurgery,D920,2016,2027
+D920JZ,None,D920J,2016,2027
+D920JZZ,Stereotactic Gamma Beam Radiosurgery of Ear,D920JZ,2016,2027
+D921,Nose,D92,2016,2027
+D921D,Stereotactic Other Photon Radiosurgery,D921,2016,2027
+D921DZ,None,D921D,2016,2027
+D921DZZ,Stereotactic Other Photon Radiosurgery of Nose,D921DZ,2016,2027
+D921H,Stereotactic Particulate Radiosurgery,D921,2016,2027
+D921HZ,None,D921H,2016,2027
+D921HZZ,Stereotactic Particulate Radiosurgery of Nose,D921HZ,2016,2027
+D921J,Stereotactic Gamma Beam Radiosurgery,D921,2016,2027
+D921JZ,None,D921J,2016,2027
+D921JZZ,Stereotactic Gamma Beam Radiosurgery of Nose,D921JZ,2016,2027
+D924,Mouth,D92,2016,2027
+D924D,Stereotactic Other Photon Radiosurgery,D924,2016,2027
+D924DZ,None,D924D,2016,2027
+D924DZZ,Stereotactic Other Photon Radiosurgery of Mouth,D924DZ,2016,2027
+D924H,Stereotactic Particulate Radiosurgery,D924,2016,2027
+D924HZ,None,D924H,2016,2027
+D924HZZ,Stereotactic Particulate Radiosurgery of Mouth,D924HZ,2016,2027
+D924J,Stereotactic Gamma Beam Radiosurgery,D924,2016,2027
+D924JZ,None,D924J,2016,2027
+D924JZZ,Stereotactic Gamma Beam Radiosurgery of Mouth,D924JZ,2016,2027
+D925,Tongue,D92,2016,2027
+D925D,Stereotactic Other Photon Radiosurgery,D925,2016,2027
+D925DZ,None,D925D,2016,2027
+D925DZZ,Stereotactic Other Photon Radiosurgery of Tongue,D925DZ,2016,2027
+D925H,Stereotactic Particulate Radiosurgery,D925,2016,2027
+D925HZ,None,D925H,2016,2027
+D925HZZ,Stereotactic Particulate Radiosurgery of Tongue,D925HZ,2016,2027
+D925J,Stereotactic Gamma Beam Radiosurgery,D925,2016,2027
+D925JZ,None,D925J,2016,2027
+D925JZZ,Stereotactic Gamma Beam Radiosurgery of Tongue,D925JZ,2016,2027
+D926,Salivary Glands,D92,2016,2027
+D926D,Stereotactic Other Photon Radiosurgery,D926,2016,2027
+D926DZ,None,D926D,2016,2027
+D926DZZ,Stereotactic Other Photon Radiosurgery of Salivary Glands,D926DZ,2016,2027
+D926H,Stereotactic Particulate Radiosurgery,D926,2016,2027
+D926HZ,None,D926H,2016,2027
+D926HZZ,Stereotactic Particulate Radiosurgery of Salivary Glands,D926HZ,2016,2027
+D926J,Stereotactic Gamma Beam Radiosurgery,D926,2016,2027
+D926JZ,None,D926J,2016,2027
+D926JZZ,Stereotactic Gamma Beam Radiosurgery of Salivary Glands,D926JZ,2016,2027
+D927,Sinuses,D92,2016,2027
+D927D,Stereotactic Other Photon Radiosurgery,D927,2016,2027
+D927DZ,None,D927D,2016,2027
+D927DZZ,Stereotactic Other Photon Radiosurgery of Sinuses,D927DZ,2016,2027
+D927H,Stereotactic Particulate Radiosurgery,D927,2016,2027
+D927HZ,None,D927H,2016,2027
+D927HZZ,Stereotactic Particulate Radiosurgery of Sinuses,D927HZ,2016,2027
+D927J,Stereotactic Gamma Beam Radiosurgery,D927,2016,2027
+D927JZ,None,D927J,2016,2027
+D927JZZ,Stereotactic Gamma Beam Radiosurgery of Sinuses,D927JZ,2016,2027
+D928,Hard Palate,D92,2016,2027
+D928D,Stereotactic Other Photon Radiosurgery,D928,2016,2027
+D928DZ,None,D928D,2016,2027
+D928DZZ,Stereotactic Other Photon Radiosurgery of Hard Palate,D928DZ,2016,2027
+D928H,Stereotactic Particulate Radiosurgery,D928,2016,2027
+D928HZ,None,D928H,2016,2027
+D928HZZ,Stereotactic Particulate Radiosurgery of Hard Palate,D928HZ,2016,2027
+D928J,Stereotactic Gamma Beam Radiosurgery,D928,2016,2027
+D928JZ,None,D928J,2016,2027
+D928JZZ,Stereotactic Gamma Beam Radiosurgery of Hard Palate,D928JZ,2016,2027
+D929,Soft Palate,D92,2016,2027
+D929D,Stereotactic Other Photon Radiosurgery,D929,2016,2027
+D929DZ,None,D929D,2016,2027
+D929DZZ,Stereotactic Other Photon Radiosurgery of Soft Palate,D929DZ,2016,2027
+D929H,Stereotactic Particulate Radiosurgery,D929,2016,2027
+D929HZ,None,D929H,2016,2027
+D929HZZ,Stereotactic Particulate Radiosurgery of Soft Palate,D929HZ,2016,2027
+D929J,Stereotactic Gamma Beam Radiosurgery,D929,2016,2027
+D929JZ,None,D929J,2016,2027
+D929JZZ,Stereotactic Gamma Beam Radiosurgery of Soft Palate,D929JZ,2016,2027
+D92B,Larynx,D92,2016,2027
+D92BD,Stereotactic Other Photon Radiosurgery,D92B,2016,2027
+D92BDZ,None,D92BD,2016,2027
+D92BDZZ,Stereotactic Other Photon Radiosurgery of Larynx,D92BDZ,2016,2027
+D92BH,Stereotactic Particulate Radiosurgery,D92B,2016,2027
+D92BHZ,None,D92BH,2016,2027
+D92BHZZ,Stereotactic Particulate Radiosurgery of Larynx,D92BHZ,2016,2027
+D92BJ,Stereotactic Gamma Beam Radiosurgery,D92B,2016,2027
+D92BJZ,None,D92BJ,2016,2027
+D92BJZZ,Stereotactic Gamma Beam Radiosurgery of Larynx,D92BJZ,2016,2027
+D92C,Pharynx,D92,2016,2027
+D92CD,Stereotactic Other Photon Radiosurgery,D92C,2016,2027
+D92CDZ,None,D92CD,2016,2027
+D92CDZZ,Stereotactic Other Photon Radiosurgery of Pharynx,D92CDZ,2016,2027
+D92CH,Stereotactic Particulate Radiosurgery,D92C,2016,2027
+D92CHZ,None,D92CH,2016,2027
+D92CHZZ,Stereotactic Particulate Radiosurgery of Pharynx,D92CHZ,2016,2027
+D92CJ,Stereotactic Gamma Beam Radiosurgery,D92C,2016,2027
+D92CJZ,None,D92CJ,2016,2027
+D92CJZZ,Stereotactic Gamma Beam Radiosurgery of Pharynx,D92CJZ,2016,2027
+D92D,Nasopharynx,D92,2016,2027
+D92DD,Stereotactic Other Photon Radiosurgery,D92D,2016,2027
+D92DDZ,None,D92DD,2016,2027
+D92DDZZ,Stereotactic Other Photon Radiosurgery of Nasopharynx,D92DDZ,2016,2027
+D92DH,Stereotactic Particulate Radiosurgery,D92D,2016,2027
+D92DHZ,None,D92DH,2016,2027
+D92DHZZ,Stereotactic Particulate Radiosurgery of Nasopharynx,D92DHZ,2016,2027
+D92DJ,Stereotactic Gamma Beam Radiosurgery,D92D,2016,2027
+D92DJZ,None,D92DJ,2016,2027
+D92DJZZ,Stereotactic Gamma Beam Radiosurgery of Nasopharynx,D92DJZ,2016,2027
+D9Y,Other Radiation,D9,2016,2027
+D9Y0,Ear,D9Y,2016,2027
+D9Y07,Contact Radiation,D9Y0,2016,2027
+D9Y07Z,None,D9Y07,2016,2027
+D9Y07ZZ,Contact Radiation of Ear,D9Y07Z,2016,2027
+D9Y08,Hyperthermia,D9Y0,2016,2027
+D9Y08Z,None,D9Y08,2016,2027
+D9Y08ZZ,Hyperthermia of Ear,D9Y08Z,2016,2027
+D9Y0F,Plaque Radiation,D9Y0,2016,2027
+D9Y0FZ,None,D9Y0F,2016,2027
+D9Y0FZZ,Plaque Radiation of Ear,D9Y0FZ,2016,2027
+D9Y1,Nose,D9Y,2016,2027
+D9Y17,Contact Radiation,D9Y1,2016,2027
+D9Y17Z,None,D9Y17,2016,2027
+D9Y17ZZ,Contact Radiation of Nose,D9Y17Z,2016,2027
+D9Y18,Hyperthermia,D9Y1,2016,2027
+D9Y18Z,None,D9Y18,2016,2027
+D9Y18ZZ,Hyperthermia of Nose,D9Y18Z,2016,2027
+D9Y1F,Plaque Radiation,D9Y1,2016,2027
+D9Y1FZ,None,D9Y1F,2016,2027
+D9Y1FZZ,Plaque Radiation of Nose,D9Y1FZ,2016,2027
+D9Y3,Hypopharynx,D9Y,2016,2027
+D9Y37,Contact Radiation,D9Y3,2016,2027
+D9Y37Z,None,D9Y37,2016,2027
+D9Y37ZZ,Contact Radiation of Hypopharynx,D9Y37Z,2016,2027
+D9Y38,Hyperthermia,D9Y3,2016,2027
+D9Y38Z,None,D9Y38,2016,2027
+D9Y38ZZ,Hyperthermia of Hypopharynx,D9Y38Z,2016,2027
+D9Y4,Mouth,D9Y,2016,2027
+D9Y47,Contact Radiation,D9Y4,2016,2027
+D9Y47Z,None,D9Y47,2016,2027
+D9Y47ZZ,Contact Radiation of Mouth,D9Y47Z,2016,2027
+D9Y48,Hyperthermia,D9Y4,2016,2027
+D9Y48Z,None,D9Y48,2016,2027
+D9Y48ZZ,Hyperthermia of Mouth,D9Y48Z,2016,2027
+D9Y4C,Intraoperative Radiation Therapy (IORT),D9Y4,2016,2027
+D9Y4CZ,None,D9Y4C,2016,2027
+D9Y4CZZ,Intraoperative Radiation Therapy (IORT) of Mouth,D9Y4CZ,2016,2027
+D9Y4F,Plaque Radiation,D9Y4,2016,2027
+D9Y4FZ,None,D9Y4F,2016,2027
+D9Y4FZZ,Plaque Radiation of Mouth,D9Y4FZ,2016,2027
+D9Y5,Tongue,D9Y,2016,2027
+D9Y57,Contact Radiation,D9Y5,2016,2027
+D9Y57Z,None,D9Y57,2016,2027
+D9Y57ZZ,Contact Radiation of Tongue,D9Y57Z,2016,2027
+D9Y58,Hyperthermia,D9Y5,2016,2027
+D9Y58Z,None,D9Y58,2016,2027
+D9Y58ZZ,Hyperthermia of Tongue,D9Y58Z,2016,2027
+D9Y5F,Plaque Radiation,D9Y5,2016,2027
+D9Y5FZ,None,D9Y5F,2016,2027
+D9Y5FZZ,Plaque Radiation of Tongue,D9Y5FZ,2016,2027
+D9Y6,Salivary Glands,D9Y,2016,2027
+D9Y67,Contact Radiation,D9Y6,2016,2027
+D9Y67Z,None,D9Y67,2016,2027
+D9Y67ZZ,Contact Radiation of Salivary Glands,D9Y67Z,2016,2027
+D9Y68,Hyperthermia,D9Y6,2016,2027
+D9Y68Z,None,D9Y68,2016,2027
+D9Y68ZZ,Hyperthermia of Salivary Glands,D9Y68Z,2016,2027
+D9Y6F,Plaque Radiation,D9Y6,2016,2027
+D9Y6FZ,None,D9Y6F,2016,2027
+D9Y6FZZ,Plaque Radiation of Salivary Glands,D9Y6FZ,2016,2027
+D9Y7,Sinuses,D9Y,2016,2027
+D9Y77,Contact Radiation,D9Y7,2016,2027
+D9Y77Z,None,D9Y77,2016,2027
+D9Y77ZZ,Contact Radiation of Sinuses,D9Y77Z,2016,2027
+D9Y78,Hyperthermia,D9Y7,2016,2027
+D9Y78Z,None,D9Y78,2016,2027
+D9Y78ZZ,Hyperthermia of Sinuses,D9Y78Z,2016,2027
+D9Y7F,Plaque Radiation,D9Y7,2016,2027
+D9Y7FZ,None,D9Y7F,2016,2027
+D9Y7FZZ,Plaque Radiation of Sinuses,D9Y7FZ,2016,2027
+D9Y8,Hard Palate,D9Y,2016,2027
+D9Y87,Contact Radiation,D9Y8,2016,2027
+D9Y87Z,None,D9Y87,2016,2027
+D9Y87ZZ,Contact Radiation of Hard Palate,D9Y87Z,2016,2027
+D9Y88,Hyperthermia,D9Y8,2016,2027
+D9Y88Z,None,D9Y88,2016,2027
+D9Y88ZZ,Hyperthermia of Hard Palate,D9Y88Z,2016,2027
+D9Y8F,Plaque Radiation,D9Y8,2016,2027
+D9Y8FZ,None,D9Y8F,2016,2027
+D9Y8FZZ,Plaque Radiation of Hard Palate,D9Y8FZ,2016,2027
+D9Y9,Soft Palate,D9Y,2016,2027
+D9Y97,Contact Radiation,D9Y9,2016,2027
+D9Y97Z,None,D9Y97,2016,2027
+D9Y97ZZ,Contact Radiation of Soft Palate,D9Y97Z,2016,2027
+D9Y98,Hyperthermia,D9Y9,2016,2027
+D9Y98Z,None,D9Y98,2016,2027
+D9Y98ZZ,Hyperthermia of Soft Palate,D9Y98Z,2016,2027
+D9Y9F,Plaque Radiation,D9Y9,2016,2027
+D9Y9FZ,None,D9Y9F,2016,2027
+D9Y9FZZ,Plaque Radiation of Soft Palate,D9Y9FZ,2016,2027
+D9YB,Larynx,D9Y,2016,2027
+D9YB7,Contact Radiation,D9YB,2016,2027
+D9YB7Z,None,D9YB7,2016,2027
+D9YB7ZZ,Contact Radiation of Larynx,D9YB7Z,2016,2027
+D9YB8,Hyperthermia,D9YB,2016,2027
+D9YB8Z,None,D9YB8,2016,2027
+D9YB8ZZ,Hyperthermia of Larynx,D9YB8Z,2016,2027
+D9YBC,Intraoperative Radiation Therapy (IORT),D9YB,2016,2027
+D9YBCZ,None,D9YBC,2016,2027
+D9YBCZZ,Intraoperative Radiation Therapy (IORT) of Larynx,D9YBCZ,2016,2027
+D9YBF,Plaque Radiation,D9YB,2016,2027
+D9YBFZ,None,D9YBF,2016,2027
+D9YBFZZ,Plaque Radiation of Larynx,D9YBFZ,2016,2027
+D9YC,Pharynx,D9Y,2016,2027
+D9YCC,Intraoperative Radiation Therapy (IORT),D9YC,2016,2027
+D9YCCZ,None,D9YCC,2016,2027
+D9YCCZZ,Intraoperative Radiation Therapy (IORT) of Pharynx,D9YCCZ,2016,2027
+D9YCF,Plaque Radiation,D9YC,2016,2027
+D9YCFZ,None,D9YCF,2016,2027
+D9YCFZZ,Plaque Radiation of Pharynx,D9YCFZ,2016,2027
+D9YD,Nasopharynx,D9Y,2016,2027
+D9YD7,Contact Radiation,D9YD,2016,2027
+D9YD7Z,None,D9YD7,2016,2027
+D9YD7ZZ,Contact Radiation of Nasopharynx,D9YD7Z,2016,2027
+D9YD8,Hyperthermia,D9YD,2016,2027
+D9YD8Z,None,D9YD8,2016,2027
+D9YD8ZZ,Hyperthermia of Nasopharynx,D9YD8Z,2016,2027
+D9YDC,Intraoperative Radiation Therapy (IORT),D9YD,2016,2027
+D9YDCZ,None,D9YDC,2016,2027
+D9YDCZZ,Intraoperative Radiation Therapy (IORT) of Nasopharynx,D9YDCZ,2016,2027
+D9YDF,Plaque Radiation,D9YD,2016,2027
+D9YDFZ,None,D9YDF,2016,2027
+D9YDFZZ,Plaque Radiation of Nasopharynx,D9YDFZ,2016,2027
+D9YF,Oropharynx,D9Y,2016,2027
+D9YF7,Contact Radiation,D9YF,2016,2027
+D9YF7Z,None,D9YF7,2016,2027
+D9YF7ZZ,Contact Radiation of Oropharynx,D9YF7Z,2016,2027
+D9YF8,Hyperthermia,D9YF,2016,2027
+D9YF8Z,None,D9YF8,2016,2027
+D9YF8ZZ,Hyperthermia of Oropharynx,D9YF8Z,2016,2027

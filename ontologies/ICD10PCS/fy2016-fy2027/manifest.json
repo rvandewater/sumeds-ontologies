@@ -1,0 +1,1103 @@
+{
+ "schema": "sumeds-ontology-pack/0.1",
+ "vocabulary": "ICD10PCS",
+ "release": "fy2016-fy2027",
+ "title": "ICD-10-PCS procedures and their 1- to 6-character prefixes, union of FY2016 to FY2027",
+ "code_format": "OMOP concept_code: no dot, e.g. 0DTJ4ZZ; prefixes such as 0DTJ4",
+ "columns": [
+  "code",
+  "description",
+  "parent",
+  "first_year",
+  "last_year"
+ ],
+ "fields": {
+  "code": "code",
+  "description": "description",
+  "parent": "parent"
+ },
+ "parent": "the code without its last character; 1-character sections are roots",
+ "years": "first and last fiscal year whose release contains the code or prefix",
+ "shard_key_length": 2,
+ "description_path": {
+  "max_code_length": 6,
+  "separator": " @ ",
+  "note": "Rows of 1 to 6 characters store only their own axis label (section, body system, operation, body part, approach, device). Their description is the labels of the code and its ancestors joined root first with the separator, e.g. 0DTJ4 = 'Medical and Surgical @ Gastrointestinal System @ Resection @ Appendix @ Percutaneous Endoscopic'."
+ },
+ "rows": 197789,
+ "bytes": 13020948,
+ "license": "Public domain. ICD-10-CM and ICD-9-CM are published by the National Center for Health Statistics (CDC/NCHS) and ICD-10-PCS and the ICD-9-CM v32 descriptions by the Centers for Medicare & Medicaid Services (CMS). As works of the U.S. Government they are not subject to copyright in the United States (17 U.S.C. 105).",
+ "sources": [
+  {
+   "id": "icd10pcs-order-fy2016",
+   "publisher": "CMS",
+   "release": "FY2016",
+   "fiscal_year": 2016,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2016-PCS-Long-Abbrev-Titles.zip",
+   "sha256": "9f3af070b4428b5d9496bc893e6cf31da6a65f95c07c54924588670789380179",
+   "file": "icd10pcs_order_2016.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2016",
+   "publisher": "CMS",
+   "release": "FY2016",
+   "fiscal_year": 2016,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2016-PCS-Code-Tables.zip",
+   "sha256": "f1a8c7ee76df7d8bc2cdce162ccbc01504dbe2819e272cb751bcf5073ecf540d",
+   "file": "icd10pcs_tables_2016.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2017",
+   "publisher": "CMS",
+   "release": "FY2017",
+   "fiscal_year": 2017,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2017-PCS-Long-Abbrev-Titles.zip",
+   "sha256": "ad90bc25cb49d08adf5f67d5cc5cff4b033db810f306d7338703bc4bf32ba1d2",
+   "file": "icd10pcs_order_2017.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2017",
+   "publisher": "CMS",
+   "release": "FY2017",
+   "fiscal_year": 2017,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2017-PCS-Code-Tables.zip",
+   "sha256": "622ba1504ec29b74ea31187a49742573fed32cc3647cd0960a0cdfffba50d306",
+   "file": "icd10pcs_tables_2017.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2018",
+   "publisher": "CMS",
+   "release": "FY2018",
+   "fiscal_year": 2018,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2018-ICD-10-PCS-Order-File.zip",
+   "sha256": "210935ee3ebaa396a1ebfee22b0b010dbb38fda7cdea4754040ca49a040cd3a0",
+   "file": "icd10pcs_order_2018.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2018",
+   "publisher": "CMS",
+   "release": "FY2018",
+   "fiscal_year": 2018,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2018-ICD-10-PCS-Tables-And-Index.zip",
+   "sha256": "4e79d72dc998f22a73a25f2047056e633b67b36a3ec5a4a0235ba5e88717d32b",
+   "file": "icd10pcs_tables_2018.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2019",
+   "publisher": "CMS",
+   "release": "FY2019",
+   "fiscal_year": 2019,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2019-ICD-10-PCS-Order-File.zip",
+   "sha256": "9d51328f1b0176edeb2a90701c2e5d5fc984637b4480d83fc0a4cc8a569d5845",
+   "file": "icd10pcs_order_2019.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2019",
+   "publisher": "CMS",
+   "release": "FY2019",
+   "fiscal_year": 2019,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2019-ICD-10-PCS-Tables-And-Index.zip",
+   "sha256": "a59da769340400f13935efd2f1b48d328637625b6b9f7a440e39764c59d03421",
+   "file": "icd10pcs_tables_2019.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2020",
+   "publisher": "CMS",
+   "release": "FY2020",
+   "fiscal_year": 2020,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2020-ICD-10-PCS-Order.zip",
+   "sha256": "55cc9555df3f95c1a4928c6389dda1646e477c1d9f1b33e4b740960c169db9de",
+   "file": "icd10pcs_order_2020.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2020",
+   "publisher": "CMS",
+   "release": "FY2020",
+   "fiscal_year": 2020,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD10/Downloads/2020-ICD-10-PCS-Code-Tables.zip",
+   "sha256": "0079a047794153d841ed3c6bf54c8d02017cb8b854bfd246f6ef76925c65441c",
+   "file": "PCS_2020/icd10pcs_tables_2020.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2021",
+   "publisher": "CMS",
+   "release": "FY2021",
+   "fiscal_year": 2021,
+   "url": "https://www.cms.gov/files/zip/2021-icd-10-pcs-order-file-long-and-abbreviated-titles-updated-december-1-2020.zip",
+   "sha256": "59c5ba3c6601a6f759b0110bfd9b4fdee8eb556462fcf661a823518ff90f2a93",
+   "file": "Zip File 5 2021 ICD-10-PCS Order File (Long and Abbreviated Titles)/icd10pcs_order_2021.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2021",
+   "publisher": "CMS",
+   "release": "FY2021",
+   "fiscal_year": 2021,
+   "url": "https://www.cms.gov/files/zip/2021-icd-10-pcs-code-tables-and-index-updated-december-1-2020.zip",
+   "sha256": "f4797b6abd8880279d8d8f85f99f4c8fd5f646ef7da2f329636162a630ebad97",
+   "file": "2021 Code Tables and Index/icd10pcs_tables_2021.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2022",
+   "publisher": "CMS",
+   "release": "FY2022",
+   "fiscal_year": 2022,
+   "url": "https://www.cms.gov/files/zip/2022-icd-10-pcs-order-file-long-and-abbreviated-titles-updated-december-1-2021.zip",
+   "sha256": "0a98d9bd017a04c9ec09d2e6f85924d6a5c54b091bcf7fa4a8ed8793a81244ca",
+   "file": "icd10pcs_order_2022.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2022",
+   "publisher": "CMS",
+   "release": "FY2022",
+   "fiscal_year": 2022,
+   "url": "https://www.cms.gov/files/zip/2022-icd-10-pcs-code-tables-and-index-updated-december-1-2021.zip",
+   "sha256": "580b570c8a3da4c178e881b28c01a41d0841859624ecac4bfef2fafa1f2cd556",
+   "file": "2 2022 Code Tables and Index/icd10pcs_tables_2022.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2023",
+   "publisher": "CMS",
+   "release": "FY2023",
+   "fiscal_year": 2023,
+   "url": "https://www.cms.gov/files/zip/2023-icd-10-pcs-order-file-long-and-abbreviated-titles-updated-01/11/2023.zip",
+   "sha256": "069062ca36cb8ea0b4803f4ed4668df653f07fd0843f5f28ef81b6a4dce2f653",
+   "file": "icd10pcs_order_2023.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2023",
+   "publisher": "CMS",
+   "release": "FY2023",
+   "fiscal_year": 2023,
+   "url": "https://www.cms.gov/files/zip/2023-icd-10-pcs-code-tables-and-index-updated-01/11/2023.zip",
+   "sha256": "69f34b918f7e8ae238157276a3e4569b050ee45d51fc16e62cb06744c93780e7",
+   "file": "icd10pcs_tables_2023.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2024",
+   "publisher": "CMS",
+   "release": "FY2024",
+   "fiscal_year": 2024,
+   "url": "https://www.cms.gov/files/zip/2024-icd-10-pcs-order-file-long-and-abbreviated-titles-updated-12/19/2023.zip",
+   "sha256": "2b311e4fa3ac59ffe7b020cf0e05000ec035d1cfdf6a9ec7664eb74b82190253",
+   "file": "icd10pcs_order_2024.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2024",
+   "publisher": "CMS",
+   "release": "FY2024",
+   "fiscal_year": 2024,
+   "url": "https://www.cms.gov/files/zip/2024-icd-10-pcs-code-tables-and-index-updated-12/19/2023.zip",
+   "sha256": "8bd99d6673580d6b737c0925be38c52ec8d4f3f345b4c23b9e457426203a6800",
+   "file": "icd10pcs_tables_2024.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2025",
+   "publisher": "CMS",
+   "release": "FY2025",
+   "fiscal_year": 2025,
+   "url": "https://www.cms.gov/files/zip/2025-icd-10-pcs-order-file-long-and-abbreviated-titles.zip",
+   "sha256": "3534c5f6ec23d1179d960683feb24137a4c163c7b91aa45a1ad889c042f7027a",
+   "file": "icd10pcs_order_2025.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2025",
+   "publisher": "CMS",
+   "release": "FY2025",
+   "fiscal_year": 2025,
+   "url": "https://www.cms.gov/files/zip/2025-icd-10-pcs-code-tables-and-index-updated-07/09/2024.zip",
+   "sha256": "f4b6d12ef621f8cf6a485c347993d3bfbd0914e7fa2280b7f6254f2da308f01f",
+   "file": "Zip File 2 2025 Code Tables and Index/icd10pcs_tables_2025.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2025-apr",
+   "publisher": "CMS",
+   "release": "FY2025 April 1 update",
+   "fiscal_year": 2025,
+   "url": "https://www.cms.gov/files/zip/2025-icd-10-pcs-order-file-long-and-abbreviated-titles-april.zip",
+   "sha256": "47b135b720322d91ae1cd6926ee4d495d5b8028b4aa4e8e4bdfbfcf7f51420ae",
+   "file": "icd10pcs_order_2025.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2025-apr",
+   "publisher": "CMS",
+   "release": "FY2025 April 1 update",
+   "fiscal_year": 2025,
+   "url": "https://www.cms.gov/files/zip/2025-icd-10-pcs-code-tables-and-index-april.zip",
+   "sha256": "515198d2fc5caff19d6e29b68a276174157c9e53a486c1a0bdf239f1ecb1f2cd",
+   "file": "icd10pcs_tables_2025.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2026",
+   "publisher": "CMS",
+   "release": "FY2026",
+   "fiscal_year": 2026,
+   "url": "https://www.cms.gov/files/zip/2026-icd-10-pcs-order-file-long-and-abbreviated-titles.zip",
+   "sha256": "64e37e6060bfd9eca74d9973be28fdf570b40f87a3a855bd078eb343dd0e594e",
+   "file": "icd10pcs_order_2026.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2026",
+   "publisher": "CMS",
+   "release": "FY2026",
+   "fiscal_year": 2026,
+   "url": "https://www.cms.gov/files/zip/2026-icd-10-pcs-code-tables-and-index.zip",
+   "sha256": "b15952d3509380e2d93522674b435859dee481d5636daace9c08874446430c17",
+   "file": "icd10pcs_tables_2026.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2026-apr",
+   "publisher": "CMS",
+   "release": "FY2026 April 1 update",
+   "fiscal_year": 2026,
+   "url": "https://www.cms.gov/files/zip/april-1-2026-icd-10-pcs-order-file-long-abbreviated-titles.zip",
+   "sha256": "9bb4a892c34b82d525182a6db6ef42ccba2c7b331ac5d24d459664a1129d776d",
+   "file": "icd10pcs_order_2026.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2026-apr",
+   "publisher": "CMS",
+   "release": "FY2026 April 1 update",
+   "fiscal_year": 2026,
+   "url": "https://www.cms.gov/files/zip/april-1-2026-icd-10-pcs-code-tables-index.zip",
+   "sha256": "567c4c012556a862c17d2653e6f49ecbf6c6bdbf82eba3e19576a207c417e41f",
+   "file": "icd10pcs_tables_2026.xml"
+  },
+  {
+   "id": "icd10pcs-order-fy2027",
+   "publisher": "CMS",
+   "release": "FY2027",
+   "fiscal_year": 2027,
+   "url": "https://www.cms.gov/files/zip/2027-icd-10-pcs-order-file-long-abbreviated-titles.zip",
+   "sha256": "c9064c5c66873ecc4cc9aab1b100be605f2db457fd458113076b5eb6ce246439",
+   "file": "icd10pcs_order_2027.txt"
+  },
+  {
+   "id": "icd10pcs-tables-fy2027",
+   "publisher": "CMS",
+   "release": "FY2027",
+   "fiscal_year": 2027,
+   "url": "https://www.cms.gov/files/zip/2027-icd-10-pcs-code-tables-index.zip",
+   "sha256": "db77f8b948a612db66320724a515dd7bc350036805ff0ecfd58839bcbfb34c84",
+   "file": "icd10pcs_tables_2027.xml"
+  }
+ ],
+ "build": "python3 scripts/build_ontology_packs.py --output ontologies ICD10PCS",
+ "shards": {
+  "0": {
+   "file": "0.csv",
+   "rows": 1,
+   "bytes": 79,
+   "sha256": "ffdca356677e5a12db7f2ae86f25076b7deb37ad7a868ed4cc7045af9afd2784"
+  },
+  "00": {
+   "file": "00.csv",
+   "rows": 4711,
+   "bytes": 290244,
+   "sha256": "7cdd7c1a6da48a8ce7887d6cff9f5b007f339bd1aacba31e0fbe762df2341bf5"
+  },
+  "01": {
+   "file": "01.csv",
+   "rows": 3051,
+   "bytes": 171515,
+   "sha256": "d55787d83af6b30a9fc8ed2231deadc13632fd9447e196ae64058a47344afffe"
+  },
+  "02": {
+   "file": "02.csv",
+   "rows": 6328,
+   "bytes": 479049,
+   "sha256": "18cce2f7bec83e54c9fd3354b770d9b21d083039c753bc60518fe9bc5d43c47b"
+  },
+  "03": {
+   "file": "03.csv",
+   "rows": 9361,
+   "bytes": 733656,
+   "sha256": "549b14400205f6569241c1a81aae35b37ed3d110bfde1aee08197dfdab82c9d2"
+  },
+  "04": {
+   "file": "04.csv",
+   "rows": 10794,
+   "bytes": 910080,
+   "sha256": "4cd0152740a79c691db430ea2f00db9f1dc1c3cd577e6867a41d955e91a2bbbf"
+  },
+  "05": {
+   "file": "05.csv",
+   "rows": 6250,
+   "bytes": 399837,
+   "sha256": "df8e2ed70e051473c1a24d3eaadd0146f01da915cee913f6bba9cec9e39141af"
+  },
+  "06": {
+   "file": "06.csv",
+   "rows": 6259,
+   "bytes": 402698,
+   "sha256": "355420def9ba897cfdb41400f32e11966ea25f00f90afc8d0a0b14f2ab3e279f"
+  },
+  "07": {
+   "file": "07.csv",
+   "rows": 4285,
+   "bytes": 268992,
+   "sha256": "c512b8b00072f89b028259918ac6d093da6ad356c45a66d42872ba0da9f5fd16"
+  },
+  "08": {
+   "file": "08.csv",
+   "rows": 3257,
+   "bytes": 192953,
+   "sha256": "257867cee7478b12ca0718e62bfbc83e8b5e9eeb5a8938d8a07afd505f9f547c"
+  },
+  "09": {
+   "file": "09.csv",
+   "rows": 5643,
+   "bytes": 361741,
+   "sha256": "2afd97957c97d5b63c257d965d2d5f9b48cd92456b2221b4b4552ea9ce569b0c"
+  },
+  "0B": {
+   "file": "0B.csv",
+   "rows": 6185,
+   "bytes": 391073,
+   "sha256": "3a1a9fc28f34f9c4f4a787f569c938f9776e618142f5683fd06052750473a390"
+  },
+  "0C": {
+   "file": "0C.csv",
+   "rows": 3849,
+   "bytes": 222704,
+   "sha256": "1a69e286cefee3f489a1b49844bb48f8133519aeded5177f22947a243b4f6bf4"
+  },
+  "0D": {
+   "file": "0D.csv",
+   "rows": 10507,
+   "bytes": 707906,
+   "sha256": "2366a11be48cc5361b5945a3eb9f5e2c2e7eddca10cfa32af1f79ea0457ac84c"
+  },
+  "0F": {
+   "file": "0F.csv",
+   "rows": 4565,
+   "bytes": 299118,
+   "sha256": "4b5222dca3ca20ce53b96026d95575d2150ec57608f832c4c651a94ed51fc3bf"
+  },
+  "0G": {
+   "file": "0G.csv",
+   "rows": 2321,
+   "bytes": 133033,
+   "sha256": "00c95ee63132019357b79b29098fd2164aec9e60467c20c85c6423f7ee113e18"
+  },
+  "0H": {
+   "file": "0H.csv",
+   "rows": 3104,
+   "bytes": 186908,
+   "sha256": "f11a14598c04dd7baed110be47839ed320725a8749ce71c73d9de6f470cdfb77"
+  },
+  "0J": {
+   "file": "0J.csv",
+   "rows": 3653,
+   "bytes": 265708,
+   "sha256": "f46b1b807f6af59512f26a8bb2112f21a973f263dc548be4c119e5f995f10a1d"
+  },
+  "0K": {
+   "file": "0K.csv",
+   "rows": 4592,
+   "bytes": 274039,
+   "sha256": "c685f1834580b51adfe7176bcab0539352842340b65cb45f9df97ab1980a2ce0"
+  },
+  "0L": {
+   "file": "0L.csv",
+   "rows": 4354,
+   "bytes": 250921,
+   "sha256": "9e180fabaf46a9bef28938ea9fa52b83bd2f67d6a03a86e3c4625cf1fac94489"
+  },
+  "0M": {
+   "file": "0M.csv",
+   "rows": 4522,
+   "bytes": 282458,
+   "sha256": "465102a131dab42dd1b89760e42d7e078baedd83077eb7c18b5cc9bb335601d6"
+  },
+  "0N": {
+   "file": "0N.csv",
+   "rows": 5003,
+   "bytes": 297833,
+   "sha256": "dbab5b9fff71264e837644d82094260eb730ce0592b5feab4fcd354c4091209f"
+  },
+  "0P": {
+   "file": "0P.csv",
+   "rows": 7313,
+   "bytes": 476562,
+   "sha256": "f51b2263ef604196df76df0788e4a2495eb264184d427153c4fe3691b09b3e4d"
+  },
+  "0Q": {
+   "file": "0Q.csv",
+   "rows": 7161,
+   "bytes": 472117,
+   "sha256": "9a875a4d68bb96b94ce4aa8a186b5fb9023683f57d9b4cac7c3740e6a5f4784c"
+  },
+  "0R": {
+   "file": "0R.csv",
+   "rows": 9838,
+   "bytes": 705810,
+   "sha256": "dd0ae8fdc4f386a345202c637f5b422858702adb233ed4176f53d3bb701da177"
+  },
+  "0S": {
+   "file": "0S.csv",
+   "rows": 8128,
+   "bytes": 566895,
+   "sha256": "7ce5295843e532a505d7f2bbc72cb8c7f3a318546cfa15281aceef7cadb0480c"
+  },
+  "0T": {
+   "file": "0T.csv",
+   "rows": 4453,
+   "bytes": 298457,
+   "sha256": "494181473a5e437d05543ad87801ce81111c641a28785b48b50c90e571b0241d"
+  },
+  "0U": {
+   "file": "0U.csv",
+   "rows": 3820,
+   "bytes": 236122,
+   "sha256": "cbd8ea90fbafd3ead1c45192c787b3dfe92e56b61f8177cb8244dcce42fff3f7"
+  },
+  "0V": {
+   "file": "0V.csv",
+   "rows": 4117,
+   "bytes": 263449,
+   "sha256": "25cb037591dca3c94756b27aae285b0639707425976e048c4cdc5d51bb4a7908"
+  },
+  "0W": {
+   "file": "0W.csv",
+   "rows": 5387,
+   "bytes": 337152,
+   "sha256": "2111f029dc666f52c56e02b63582c6385202a35a7f2edb32efb645ed3a434d47"
+  },
+  "0X": {
+   "file": "0X.csv",
+   "rows": 2903,
+   "bytes": 176615,
+   "sha256": "81ade7d6b8d40502f7d39537161dae3f3e36fa99a0e97251634b383edea7737f"
+  },
+  "0Y": {
+   "file": "0Y.csv",
+   "rows": 3116,
+   "bytes": 187788,
+   "sha256": "b537bd305cdeb1723761a9148e083cbdd938a41da07ab539f5702da1468b424a"
+  },
+  "1": {
+   "file": "1.csv",
+   "rows": 1,
+   "bytes": 69,
+   "sha256": "a8467e43afc91d490f37d601a8e2b7b14fee0eb9b292cc62a122fd4c73eed910"
+  },
+  "10": {
+   "file": "10.csv",
+   "rows": 471,
+   "bytes": 41696,
+   "sha256": "2651ce775deb2bcdb6e404cd70bd42340895971903b3ace1aff21a6ca69081f3"
+  },
+  "2": {
+   "file": "2.csv",
+   "rows": 1,
+   "bytes": 68,
+   "sha256": "2545ec58090ab5cad5b9f9245a6e8458931e86a62716ae722913c22665ceec84"
+  },
+  "2W": {
+   "file": "2W.csv",
+   "rows": 2114,
+   "bytes": 100727,
+   "sha256": "30f271d3da59c442410b77841fd8d3c338e339e295fde3ec72811d9c21ab55bf"
+  },
+  "2Y": {
+   "file": "2Y.csv",
+   "rows": 76,
+   "bytes": 3138,
+   "sha256": "34cb8f485d32493b0b27f9c2eadb4cf662274d341d13d8d7f3b52f2900fc6379"
+  },
+  "3": {
+   "file": "3.csv",
+   "rows": 1,
+   "bytes": 73,
+   "sha256": "296a4f9640bfdb73d3e0d2a09c714d469b6b5f26b9daffee7544a575cc94464e"
+  },
+  "30": {
+   "file": "30.csv",
+   "rows": 557,
+   "bytes": 48964,
+   "sha256": "eb7d216a535e77a04cbc19f57d4a84859a970ece52016be669fc8eb11d7f2f88"
+  },
+  "3C": {
+   "file": "3C.csv",
+   "rows": 6,
+   "bytes": 309,
+   "sha256": "6f4ae5756f8713e7080defa5c82b3162b447870b1c5e3a59b8c00c58c8a3ac92"
+  },
+  "3E": {
+   "file": "3E.csv",
+   "rows": 2188,
+   "bytes": 177199,
+   "sha256": "ed3ebfce23aa0989d130571348eadbaa3dc5a3889b33c4c0534ce1df24e5cbe5"
+  },
+  "4": {
+   "file": "4.csv",
+   "rows": 1,
+   "bytes": 85,
+   "sha256": "d48a135ac2c36c6e599181e4d574b7462dc06ce29e0fc7543b889d08ff2158ce"
+  },
+  "4A": {
+   "file": "4A.csv",
+   "rows": 855,
+   "bytes": 55633,
+   "sha256": "fb435324e1f8f8895d130759ecfa5b3a08e660e33d650d3157e2b5638e8457dc"
+  },
+  "4B": {
+   "file": "4B.csv",
+   "rows": 26,
+   "bytes": 1318,
+   "sha256": "3422115c06ee969d314d353a077fb756af5edda84439157e8eb7e92a1723c922"
+  },
+  "5": {
+   "file": "5.csv",
+   "rows": 1,
+   "bytes": 112,
+   "sha256": "95a372e01cb21ec0e64567eb8f1fc5f9d9eb1d36662c53e2d5c069e30b1f75e5"
+  },
+  "5A": {
+   "file": "5A.csv",
+   "rows": 144,
+   "bytes": 9650,
+   "sha256": "e790be8e826feee308e294f2ac9a4f0e1b4c58d0b6c4c8f70d4fe3cd8c67ce96"
+  },
+  "6": {
+   "file": "6.csv",
+   "rows": 1,
+   "bytes": 95,
+   "sha256": "f81d07ceb47fb00fcc1842872aa7ebbe4b49b56f17eb2f532a2e95ce84c40aba"
+  },
+  "6A": {
+   "file": "6A.csv",
+   "rows": 134,
+   "bytes": 6053,
+   "sha256": "df1730516ff6c7794c05b61e495515a627e44b4a070cc57df900d4e6986925cc"
+  },
+  "7": {
+   "file": "7.csv",
+   "rows": 1,
+   "bytes": 70,
+   "sha256": "f16a23f7f10fcc187337844b36e901635a4b69707c6c02d010e89eadc2cc8725"
+  },
+  "7W": {
+   "file": "7W.csv",
+   "rows": 222,
+   "bytes": 14153,
+   "sha256": "72135dda7a3882462696230c029077ca24cfbabc37e83b9f7c4dce75e3e39a0b"
+  },
+  "8": {
+   "file": "8.csv",
+   "rows": 1,
+   "bytes": 75,
+   "sha256": "b20278f93bf0f6995feaef67609b6f8ef832112127f84535123160a60cb53755"
+  },
+  "8C": {
+   "file": "8C.csv",
+   "rows": 12,
+   "bytes": 690,
+   "sha256": "d255c1ad9d56df832c43766743db6774f93237fc378f24f87f35eeb7f7706269"
+  },
+  "8E": {
+   "file": "8E.csv",
+   "rows": 196,
+   "bytes": 12783,
+   "sha256": "7e701322dd4c863684419ab21f0c82fbcd9a683a5f04094d3a2556b9436b9006"
+  },
+  "9": {
+   "file": "9.csv",
+   "rows": 1,
+   "bytes": 71,
+   "sha256": "1d88c99f744834943b27ed05674feb5e874d7af32abbd7d8e098308f203a96e0"
+  },
+  "9W": {
+   "file": "9W.csv",
+   "rows": 202,
+   "bytes": 12778,
+   "sha256": "f43c1f318228b01c89063e895c6230d9410665efe600eaf9728432ac9cade423"
+  },
+  "B": {
+   "file": "B.csv",
+   "rows": 1,
+   "bytes": 66,
+   "sha256": "b57e8a82d7f2ccb21bf10b1cf38631bef17cd9b5c1ed68eda5d7fed8fdf1261b"
+  },
+  "B0": {
+   "file": "B0.csv",
+   "rows": 171,
+   "bytes": 9659,
+   "sha256": "6f0fa59b3a9aa32a394b514d0698ea1ddd7a7a9dc5d29ab3ebca3521804e7dc0"
+  },
+  "B2": {
+   "file": "B2.csv",
+   "rows": 392,
+   "bytes": 22207,
+   "sha256": "64b782d531df6e7b1a8033234a3f58df7c5e1668ac6748b0933a44a0ae3c5b0d"
+  },
+  "B3": {
+   "file": "B3.csv",
+   "rows": 1132,
+   "bytes": 62228,
+   "sha256": "ac0fd8e18e24d5fafe05f387f7088794fe4cd4962768991b03cef36c6fa226b0"
+  },
+  "B4": {
+   "file": "B4.csv",
+   "rows": 723,
+   "bytes": 39689,
+   "sha256": "7a55cb85fa882629aa5d60456d81973f1be31232e37f544087e2063f6eed0b6d"
+  },
+  "B5": {
+   "file": "B5.csv",
+   "rows": 1275,
+   "bytes": 74966,
+   "sha256": "329208106dfd586708cb5a092a0769f5aa89075d981741616458030bba34b3bc"
+  },
+  "B7": {
+   "file": "B7.csv",
+   "rows": 102,
+   "bytes": 5710,
+   "sha256": "7860c092f8748f9e3283b5c256234678f47c9526d35285ffbcda3cafeb738f59"
+  },
+  "B8": {
+   "file": "B8.csv",
+   "rows": 168,
+   "bytes": 8671,
+   "sha256": "3b35f44d350c31b55d79a1235b9efe0b7582110c0617011608a8f87e2f986724"
+  },
+  "B9": {
+   "file": "B9.csv",
+   "rows": 317,
+   "bytes": 18091,
+   "sha256": "2d5405893ecdbd91ac5b77054a897ef35a12ad0b586c454f9a8c96aad9998c43"
+  },
+  "BB": {
+   "file": "BB.csv",
+   "rows": 174,
+   "bytes": 9815,
+   "sha256": "278ee38d96243cee1de5a3414fb54f58a1f8ba1caa6eef2859c402c72963a785"
+  },
+  "BD": {
+   "file": "BD.csv",
+   "rows": 103,
+   "bytes": 4339,
+   "sha256": "405230af67a8427b0150b1631f5b8ff1a91d91e7e7f76b91615e489942115054"
+  },
+  "BF": {
+   "file": "BF.csv",
+   "rows": 297,
+   "bytes": 16487,
+   "sha256": "ac0440fbc6a4b868ecce2e142dfb1ddd5c6f0e08c58e29566be59e9c110b5461"
+  },
+  "BG": {
+   "file": "BG.csv",
+   "rows": 108,
+   "bytes": 6213,
+   "sha256": "d6361f0d392baf5eee4a8f514bb56b7d40b1ffeeba069978a8d7abf2fa004cc0"
+  },
+  "BH": {
+   "file": "BH.csv",
+   "rows": 172,
+   "bytes": 8838,
+   "sha256": "2ecf13a82a344027ea33eb450b530b6bf2aa4321d2732c63696a95f5090abeb4"
+  },
+  "BL": {
+   "file": "BL.csv",
+   "rows": 55,
+   "bytes": 3093,
+   "sha256": "7ad3bf6e01c4a10383e9b283e92a892ef253387965dabb2d60bd62ae3c40ab78"
+  },
+  "BN": {
+   "file": "BN.csv",
+   "rows": 220,
+   "bytes": 10573,
+   "sha256": "6434750f0e565a3f289b65b274c8a71ce990f8b97d8ddb9af832c6ed0963d799"
+  },
+  "BP": {
+   "file": "BP.csv",
+   "rows": 912,
+   "bytes": 43818,
+   "sha256": "7668626423c4e1208b7a6435cbd05861fc5d925dab6104a7820f9e295f4e286b"
+  },
+  "BQ": {
+   "file": "BQ.csv",
+   "rows": 800,
+   "bytes": 38210,
+   "sha256": "d21b038cda3882f3e3f3a2e2203af448a6c59b26503ae5aa79b386d6eeeef552"
+  },
+  "BR": {
+   "file": "BR.csv",
+   "rows": 511,
+   "bytes": 23988,
+   "sha256": "7dbf686be23303d3145313dd04b635562eee48f794c8dce06e131c9fb4743ce3"
+  },
+  "BT": {
+   "file": "BT.csv",
+   "rows": 498,
+   "bytes": 24475,
+   "sha256": "cbc3674d93eb649b4b7a40d114b7d032ba4505292bf4bc257cd47959036d203a"
+  },
+  "BU": {
+   "file": "BU.csv",
+   "rows": 262,
+   "bytes": 12529,
+   "sha256": "6de94ffa0746dbd91c2afb79b4f23c3e1f0e047571cb873e5441a980f19445d1"
+  },
+  "BV": {
+   "file": "BV.csv",
+   "rows": 187,
+   "bytes": 9330,
+   "sha256": "0daa8d858bdcf8e973828c062b99599e620bc179f44f6fffe7ee6ced18a2f1aa"
+  },
+  "BW": {
+   "file": "BW.csv",
+   "rows": 339,
+   "bytes": 17923,
+   "sha256": "2560f5978798039b44cfc10d26e665db8360bd4f90eca24ff0680bcb3880e4ac"
+  },
+  "BY": {
+   "file": "BY.csv",
+   "rows": 98,
+   "bytes": 5005,
+   "sha256": "4598658278cd5ea2b4e283c29e8b92798b23834a69d48bd5750f6942e17e6758"
+  },
+  "C": {
+   "file": "C.csv",
+   "rows": 1,
+   "bytes": 75,
+   "sha256": "de360ab5bbfa981de9ae414cf7a7ce3439a5f1500d647c5a4f5eebd050df9158"
+  },
+  "C0": {
+   "file": "C0.csv",
+   "rows": 75,
+   "bytes": 4127,
+   "sha256": "6c2df5e29ec65a5613610b0c6278301175f801aed1134de624ffd4258a6605d8"
+  },
+  "C2": {
+   "file": "C2.csv",
+   "rows": 93,
+   "bytes": 5083,
+   "sha256": "9d95dd6b7e894b2b843232df57080b9663f88c339fed09c549813cfb17a458a4"
+  },
+  "C5": {
+   "file": "C5.csv",
+   "rows": 55,
+   "bytes": 3226,
+   "sha256": "b67a54342ab5a27cd0abb950708e670e4e1967bb9ec8137cdcabfb829e375f16"
+  },
+  "C7": {
+   "file": "C7.csv",
+   "rows": 186,
+   "bytes": 10502,
+   "sha256": "f44131cfc128735fc6292385f4bc1d1f6bfeb36fb25a2d073fbe82e2f37881b3"
+  },
+  "C8": {
+   "file": "C8.csv",
+   "rows": 13,
+   "bytes": 706,
+   "sha256": "46b657dd6a2eb3b3f0dac8a567cb97cd4f3c79430addc85e518a2925ac3cbf3f"
+  },
+  "C9": {
+   "file": "C9.csv",
+   "rows": 13,
+   "bytes": 787,
+   "sha256": "7560dcaf6e4ca145680d60370b3f59c664e8320d99794699cc02c48613f5d6e1"
+  },
+  "CB": {
+   "file": "CB.csv",
+   "rows": 49,
+   "bytes": 2797,
+   "sha256": "4eef15e2e652e9c86770022606135aab80d2b31a12b2af0150518b6c1f88ec4f"
+  },
+  "CD": {
+   "file": "CD.csv",
+   "rows": 41,
+   "bytes": 2424,
+   "sha256": "4ef4712a8bc53480d4c0f28d23b03ac5ab413ed85f1055a6a6ae980cb17a3e6f"
+  },
+  "CF": {
+   "file": "CF.csv",
+   "rows": 60,
+   "bytes": 3407,
+   "sha256": "e77779c9c1fc77a9b32423c339b1134c014879554ca4924eb248ad0412cef1f5"
+  },
+  "CG": {
+   "file": "CG.csv",
+   "rows": 69,
+   "bytes": 3885,
+   "sha256": "32b81c0b340e933d6832a6671b20d3cd0a3f53b9e1cdefa8c924de63b025b8c2"
+  },
+  "CH": {
+   "file": "CH.csv",
+   "rows": 71,
+   "bytes": 4155,
+   "sha256": "44144f4f7a8ce61e79304b9617696a67eac5003908e4add4fb3b0aea5b3c009c"
+  },
+  "CP": {
+   "file": "CP.csv",
+   "rows": 217,
+   "bytes": 12342,
+   "sha256": "66a595c6211805b3b22697737f1dc00b415561e03463deb75c2b9ef0b7793bc3"
+  },
+  "CT": {
+   "file": "CT.csv",
+   "rows": 59,
+   "bytes": 3489,
+   "sha256": "548c57840a1bf15532db17cc7bf6701291d61f3cef06ebbab5a3659cbeeb977a"
+  },
+  "CV": {
+   "file": "CV.csv",
+   "rows": 13,
+   "bytes": 754,
+   "sha256": "03cf3d546fa9c90b6e1a703b1383b900e65c55f4b2f0fa4054c2f31e1c86594f"
+  },
+  "CW": {
+   "file": "CW.csv",
+   "rows": 601,
+   "bytes": 34034,
+   "sha256": "29d2320b5205872476fac93f96da44e70237f80db8ce71d532e7dba5724a7cbf"
+  },
+  "D": {
+   "file": "D.csv",
+   "rows": 1,
+   "bytes": 76,
+   "sha256": "614c28dbfbf605a7ed470b2f9ded9da58712355f57a398f907d511b0422f5222"
+  },
+  "D0": {
+   "file": "D0.csv",
+   "rows": 321,
+   "bytes": 18125,
+   "sha256": "f9e23736300f69afc77d5f04d251c07010b97968424b301f35f830ed80b9573e"
+  },
+  "D2": {
+   "file": "D2.csv",
+   "rows": 6,
+   "bytes": 343,
+   "sha256": "694aa6ca35dba5ca89034ff2656155871fc8ac40b6a0158ec80dd9c4f8bc5863"
+  },
+  "D7": {
+   "file": "D7.csv",
+   "rows": 635,
+   "bytes": 37527,
+   "sha256": "6e0d9c2416b1654469ed017d4a177b82a8cb7199161fcb77db069b7a613166f1"
+  },
+  "D8": {
+   "file": "D8.csv",
+   "rows": 78,
+   "bytes": 4108,
+   "sha256": "0be9d93c2b82b86c8fe632e8a155d762afdfe6f57337ab4c3b49224cb2282db1"
+  },
+  "D9": {
+   "file": "D9.csv",
+   "rows": 881,
+   "bytes": 49161,
+   "sha256": "2485f0ef9922575211650897bdfdb1675fb5ea85577c19d7cdc6f46e41031882"
+  },
+  "DB": {
+   "file": "DB.csv",
+   "rows": 537,
+   "bytes": 29732,
+   "sha256": "44b5f4802c3fe37a970b779faec1ccf1ac149a876f7407d452acfd6619d1d7f9"
+  },
+  "DD": {
+   "file": "DD.csv",
+   "rows": 565,
+   "bytes": 30913,
+   "sha256": "c24ee816b2e35fadccb93cfa76a02314a97677e5a65dae3e06867e1edfc9cb01"
+  },
+  "DF": {
+   "file": "DF.csv",
+   "rows": 321,
+   "bytes": 17849,
+   "sha256": "b02a4e724f32d2d24e9224e1080625b58da2e7e1066d2524ce60bacc0fb38d04"
+  },
+  "DG": {
+   "file": "DG.csv",
+   "rows": 370,
+   "bytes": 21256,
+   "sha256": "8749b99db84f5a180fed9442f2262c7aa98eb5503ef7704410cb1793f686edef"
+  },
+  "DH": {
+   "file": "DH.csv",
+   "rows": 275,
+   "bytes": 12501,
+   "sha256": "0f751ff302a4a5fcdc9cd935de2d1ae606829c19c3c590782cfb7c60bdbd5358"
+  },
+  "DM": {
+   "file": "DM.csv",
+   "rows": 157,
+   "bytes": 8903,
+   "sha256": "841b11675bfb429911697b1df3fee9dcb626b3530371cba3b961e191173bdf68"
+  },
+  "DP": {
+   "file": "DP.csv",
+   "rows": 366,
+   "bytes": 16465,
+   "sha256": "b6dc2271bb04846b8cd19917d1f55e701db82c33027bfa8a7f3eb37cf4edcdba"
+  },
+  "DT": {
+   "file": "DT.csv",
+   "rows": 309,
+   "bytes": 16940,
+   "sha256": "7bdc3fec5a505891fcf9b60bdbd35f474319997ae9f6567c5c68d139e462ba94"
+  },
+  "DU": {
+   "file": "DU.csv",
+   "rows": 233,
+   "bytes": 12688,
+   "sha256": "856a5ddbb0a56e1e5404e581b1b8b9b7dd8099bb9dc9dac2366116acd0dec87b"
+  },
+  "DV": {
+   "file": "DV.csv",
+   "rows": 157,
+   "bytes": 8612,
+   "sha256": "ed0b5375162c787415df816da7612c0b3c6accf2b030687564b33aac05d0dee5"
+  },
+  "DW": {
+   "file": "DW.csv",
+   "rows": 414,
+   "bytes": 23243,
+   "sha256": "acfe2134b33375bcd7dcfc470ccd634ea831d7ecfe4d8f57c8441a573d4a41f6"
+  },
+  "F": {
+   "file": "F.csv",
+   "rows": 1,
+   "bytes": 107,
+   "sha256": "0e311b2d11dbdcb29f7a83cc220658c825ac3ca78440402642f691a5edd4c9c6"
+  },
+  "F0": {
+   "file": "F0.csv",
+   "rows": 2896,
+   "bytes": 209370,
+   "sha256": "ec613202d287800f739c1a4bf5e6d352348644a811ce8b1d95fd24336f33e495"
+  },
+  "F1": {
+   "file": "F1.csv",
+   "rows": 343,
+   "bytes": 20570,
+   "sha256": "6c974674412cb5561059bf1b3d9c7556560ba31e3d88f9679c1db7b948d885c6"
+  },
+  "G": {
+   "file": "G.csv",
+   "rows": 1,
+   "bytes": 72,
+   "sha256": "b7ca00d06ba83f244c06dbe51369eeda4a2b9249794476334bc48d9b64c4c631"
+  },
+  "GZ": {
+   "file": "GZ.csv",
+   "rows": 133,
+   "bytes": 5013,
+   "sha256": "4bff32a92c0026d65922dd53359c503636d56ed73a47b0b3a2c373850b6b6700"
+  },
+  "H": {
+   "file": "H.csv",
+   "rows": 1,
+   "bytes": 84,
+   "sha256": "7bf6945a9bc53214227f3b5923a4ab4909e74657e7666db1bc6255594a98fa8a"
+  },
+  "HZ": {
+   "file": "HZ.csv",
+   "rows": 244,
+   "bytes": 11157,
+   "sha256": "1644e479c4b901ab5f2d5f0e3a75fd792c6824eeb9a37e8ed8689bc3ec07d4c7"
+  },
+  "X": {
+   "file": "X.csv",
+   "rows": 1,
+   "bytes": 73,
+   "sha256": "c45efb5bf877f74ffe5e6894fc66f8618ea3f636333d1df4f95f7aca96b62b1c"
+  },
+  "X0": {
+   "file": "X0.csv",
+   "rows": 33,
+   "bytes": 2198,
+   "sha256": "ecca74dbce9c0271f87c4887afb455e3fba58974d1bcb908e0ffa8d332289fd3"
+  },
+  "X2": {
+   "file": "X2.csv",
+   "rows": 507,
+   "bytes": 44159,
+   "sha256": "241d6dda3d7cb1eace69ab42d24841259c1dca28ba058a7a58865daf94f6fa4f"
+  },
+  "X9": {
+   "file": "X9.csv",
+   "rows": 14,
+   "bytes": 841,
+   "sha256": "4d149c36d627f3cd7bd9209e6df4c4536c36a4633cb3085a72b5e98adbb00628"
+  },
+  "XD": {
+   "file": "XD.csv",
+   "rows": 26,
+   "bytes": 1801,
+   "sha256": "8d11307c0861ccd9efc40c9b7fcb8dcbd4cff61f72e274f03f90c3b82a9133cf"
+  },
+  "XE": {
+   "file": "XE.csv",
+   "rows": 32,
+   "bytes": 3300,
+   "sha256": "035aa181c937c3f0f80d643429f15bcbacf2e8bf1d232e5985ebe0b40385f55a"
+  },
+  "XF": {
+   "file": "XF.csv",
+   "rows": 39,
+   "bytes": 2799,
+   "sha256": "71ef17cb14e97d3aa947f152cf5cec877c781fe7b59cca8d11d71c2dcdbb0c99"
+  },
+  "XH": {
+   "file": "XH.csv",
+   "rows": 47,
+   "bytes": 4050,
+   "sha256": "6118f08818ac70be8dcf0c231c804f77c31ca69e77e4f915943d9f3b6e3e899e"
+  },
+  "XK": {
+   "file": "XK.csv",
+   "rows": 15,
+   "bytes": 944,
+   "sha256": "c1ed028c1030850b42f3a7ab6c5f25dd232825038a4d75446b6c6ad1d228e31d"
+  },
+  "XN": {
+   "file": "XN.csv",
+   "rows": 202,
+   "bytes": 17025,
+   "sha256": "8406ebdb64d5164287cfb9b72ba8d6639946ed3cf4f06756d2c7629408c0630f"
+  },
+  "XR": {
+   "file": "XR.csv",
+   "rows": 335,
+   "bytes": 31803,
+   "sha256": "f040458bd9b4553dbfd5a0eb5a9eb220d4b4864dc4963135cabb798085e72b5e"
+  },
+  "XT": {
+   "file": "XT.csv",
+   "rows": 6,
+   "bytes": 321,
+   "sha256": "320521228f6a20ffee5c58b3c6d3190309cb23e828f83094ab42438bb6736205"
+  },
+  "XU": {
+   "file": "XU.csv",
+   "rows": 6,
+   "bytes": 427,
+   "sha256": "8a3cc0bc1c39690509311009da00a21beed16ca4747dbf3eabda976c68369a06"
+  },
+  "XV": {
+   "file": "XV.csv",
+   "rows": 6,
+   "bytes": 410,
+   "sha256": "68b14b7cc36d3e9dbb66370d3fe920fabafc2be2ee9de6a29d8ae13252f5187a"
+  },
+  "XW": {
+   "file": "XW.csv",
+   "rows": 499,
+   "bytes": 50376,
+   "sha256": "70e3cf03e37c3fa8315445b71de198f2b33454e93d8aa5d839158fe615b301b7"
+  },
+  "XX": {
+   "file": "XX.csv",
+   "rows": 88,
+   "bytes": 7797,
+   "sha256": "c375acbe2acd55d794c875c58c6a1e7571444f6584751913ee59990a180578b0"
+  },
+  "XY": {
+   "file": "XY.csv",
+   "rows": 12,
+   "bytes": 772,
+   "sha256": "3618cf55105912d64cf025ca9198fe8add6e4b9c7ba686ccb38efda0463b0100"
+  }
+ }
+}

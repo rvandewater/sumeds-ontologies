@@ -1,0 +1,40 @@
+code,description,parent,first_year,last_year
+XF,Hepatobiliary System and Pancreas,X,2022,2027
+XF5,Destruction,XF,2023,2027
+XF50,Liver,XF5,2023,2027
+XF50X,External,XF50,2023,2027
+XF50X0,Ultrasound-guided Cavitation,XF50X,2023,2027
+XF50X08,"Destruction of Liver using Ultrasound-guided Cavitation, External Approach, New Technology Group 8",XF50X0,2023,2027
+XF51,"Liver, Right Lobe",XF5,2023,2027
+XF51X,External,XF51,2023,2027
+XF51X0,Ultrasound-guided Cavitation,XF51X,2023,2027
+XF51X08,"Destruction of Right Lobe Liver using Ultrasound-guided Cavitation, External Approach, New Technology Group 8",XF51X0,2023,2027
+XF52,"Liver, Left Lobe",XF5,2023,2027
+XF52X,External,XF52,2023,2027
+XF52X0,Ultrasound-guided Cavitation,XF52X,2023,2027
+XF52X08,"Destruction of Left Lobe Liver using Ultrasound-guided Cavitation, External Approach, New Technology Group 8",XF52X0,2023,2027
+XFJ,Inspection,XF,2022,2027
+XFJB,Hepatobiliary Duct,XFJ,2022,2027
+XFJB3,Percutaneous,XFJB,2027,2027
+XFJB3C,Single-use Choledochoscope,XFJB3,2027,2027
+XFJB3CC,"Inspection of Hepatobiliary Duct using Single-use Choledochoscope, Percutaneous Approach, New Technology Group 12",XFJB3C,2027,2027
+XFJB4,Percutaneous Endoscopic,XFJB,2027,2027
+XFJB4C,Single-use Choledochoscope,XFJB4,2027,2027
+XFJB4CC,"Inspection of Hepatobiliary Duct using Single-use Choledochoscope, Percutaneous Endoscopic Approach, New Technology Group 12",XFJB4C,2027,2027
+XFJB8,Via Natural or Artificial Opening Endoscopic,XFJB,2022,2027
+XFJB8A,Single-use Duodenoscope,XFJB8,2022,2027
+XFJB8A7,"Inspection of Hepatobiliary Duct using Single-use Duodenoscope, New Technology Group 7",XFJB8A,2022,2027
+XFJB8B,Single-use Cholangioscope,XFJB8,2027,2027
+XFJB8BC,"Inspection of Hepatobiliary Duct using Single-use Cholangioscope, Via Natural or Artificial Opening Endoscopic Approach, New Technology Group 12",XFJB8B,2027,2027
+XFJD,Pancreatic Duct,XFJ,2022,2027
+XFJD3,Percutaneous,XFJD,2027,2027
+XFJD3C,Single-use Choledochoscope,XFJD3,2027,2027
+XFJD3CC,"Inspection of Pancreatic Duct using Single-use Choledochoscope, Percutaneous Approach, New Technology Group 12",XFJD3C,2027,2027
+XFJD4,Percutaneous Endoscopic,XFJD,2027,2027
+XFJD4C,Single-use Choledochoscope,XFJD4,2027,2027
+XFJD4CC,"Inspection of Pancreatic Duct using Single-use Choledochoscope, Percutaneous Endoscopic Approach, New Technology Group 12",XFJD4C,2027,2027
+XFJD8,Via Natural or Artificial Opening Endoscopic,XFJD,2022,2027
+XFJD8A,Single-use Duodenoscope,XFJD8,2022,2027
+XFJD8A7,"Inspection of Pancreatic Duct using Single-use Duodenoscope, New Technology Group 7",XFJD8A,2022,2027
+XFJD8B,Single-use Cholangioscope,XFJD8,2027,2027
+XFJD8BC,"Inspection of Pancreatic Duct using Single-use Cholangioscope, Via Natural or Artificial Opening Endoscopic Approach, New Technology Group 12",XFJD8B,2027,2027

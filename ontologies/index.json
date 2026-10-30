@@ -1,0 +1,58 @@
+{
+ "schema": "sumeds-ontologies/0.1",
+ "vocabularies": {
+  "ICD10CM": {
+   "manifest": "ICD10CM/fy2016-fy2027/manifest.json",
+   "sha256": "1635b798d13d9a9d631c473327c9e6590480df008aadde2ad6211dca3da7d4d3",
+   "release": "fy2016-fy2027",
+   "rows": 99085,
+   "bytes": 9727879
+  },
+  "ICD10PCS": {
+   "manifest": "ICD10PCS/fy2016-fy2027/manifest.json",
+   "sha256": "bda644a2e7e99a003a9a0b0505157c3f09aa86b5683e1716929665455125ad74",
+   "release": "fy2016-fy2027",
+   "rows": 197789,
+   "bytes": 13020948
+  },
+  "ICD9CM": {
+   "manifest": "ICD9CM/v32/manifest.json",
+   "sha256": "ee3ed6972aade8f8029e4394a35874846cf7edd69343c4f82a222188f1f7447a",
+   "release": "v32",
+   "rows": 17541,
+   "bytes": 1166952
+  },
+  "ICD9Proc": {
+   "manifest": "ICD9Proc/v32/manifest.json",
+   "sha256": "230467c1140ae67b7fae488268739830f8e145d7691c26a857322c75b77253e0",
+   "release": "v32",
+   "rows": 4648,
+   "bytes": 251787
+  },
+  "LOINC": {
+   "manifest": "LOINC/2.83/manifest.json",
+   "sha256": "3a42c9708ef9abde131c29a18cc03af7148f1bd5326aab0825a269516d07fb25",
+   "release": "2.83",
+   "rows": 105050,
+   "bytes": 2930127
+  }
+ },
+ "crosswalks": {
+  "eicu": {
+   "manifest": "crosswalks/eicu/manifest.json",
+   "sha256": "47f0f39e4c7121c100f4c7c57faa9468a40e7071d48b02e78cc8b7c16f533c47"
+  },
+  "hirid": {
+   "manifest": "crosswalks/hirid/manifest.json",
+   "sha256": "11f041c09466354f735b2c1a7de58b18d502e893d78681e369e5a9443bc0749f"
+  },
+  "nwicu": {
+   "manifest": "crosswalks/nwicu/manifest.json",
+   "sha256": "a4d0803bdf841a63d5b3643af44015a3685d68a02013a15140eb0629c7548023"
+  },
+  "zigong": {
+   "manifest": "crosswalks/zigong/manifest.json",
+   "sha256": "27b8fd0bedb0f1a3e7e39439f47da71085d696256402762e428a3f325d6d5dc5"
+  }
+ }
+}

@@ -1,0 +1,76 @@
+code,description,parent,first_year,last_year
+C0,Central Nervous System,C,2016,2027
+C01,Planar Nuclear Medicine Imaging,C0,2016,2027
+C010,Brain,C01,2016,2027
+C0101,Technetium 99m (Tc-99m),C010,2016,2027
+C0101Z,None,C0101,2016,2027
+C0101ZZ,Planar Nuclear Medicine Imaging of Brain using Technetium 99m (Tc-99m),C0101Z,2016,2027
+C010Y,Other Radionuclide,C010,2016,2027
+C010YZ,None,C010Y,2016,2027
+C010YZZ,Planar Nuclear Medicine Imaging of Brain using Other Radionuclide,C010YZ,2016,2027
+C015,Cerebrospinal Fluid,C01,2016,2027
+C015D,Indium 111 (In-111),C015,2016,2027
+C015DZ,None,C015D,2016,2027
+C015DZZ,Planar Nuclear Medicine Imaging of Cerebrospinal Fluid using Indium 111 (In-111),C015DZ,2016,2027
+C015Y,Other Radionuclide,C015,2016,2027
+C015YZ,None,C015Y,2016,2027
+C015YZZ,Planar Nuclear Medicine Imaging of Cerebrospinal Fluid using Other Radionuclide,C015YZ,2016,2027
+C01Y,Central Nervous System,C01,2016,2027
+C01YY,Other Radionuclide,C01Y,2016,2027
+C01YYZ,None,C01YY,2016,2027
+C01YYZZ,Planar Nuclear Medicine Imaging of Central Nervous System using Other Radionuclide,C01YYZ,2016,2027
+C02,Tomographic (Tomo) Nuclear Medicine Imaging,C0,2016,2027
+C020,Brain,C02,2016,2027
+C0201,Technetium 99m (Tc-99m),C020,2016,2027
+C0201Z,None,C0201,2016,2027
+C0201ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Brain using Technetium 99m (Tc-99m),C0201Z,2016,2027
+C020F,Iodine 123 (I-123),C020,2016,2027
+C020FZ,None,C020F,2016,2027
+C020FZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Brain using Iodine 123 (I-123),C020FZ,2016,2027
+C020S,Thallium 201 (Tl-201),C020,2016,2027
+C020SZ,None,C020S,2016,2027
+C020SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Brain using Thallium 201 (Tl-201),C020SZ,2016,2027
+C020Y,Other Radionuclide,C020,2016,2027
+C020YZ,None,C020Y,2016,2027
+C020YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Brain using Other Radionuclide,C020YZ,2016,2027
+C025,Cerebrospinal Fluid,C02,2016,2027
+C025D,Indium 111 (In-111),C025,2016,2027
+C025DZ,None,C025D,2016,2027
+C025DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Cerebrospinal Fluid using Indium 111 (In-111),C025DZ,2016,2027
+C025Y,Other Radionuclide,C025,2016,2027
+C025YZ,None,C025Y,2016,2027
+C025YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Cerebrospinal Fluid using Other Radionuclide,C025YZ,2016,2027
+C02Y,Central Nervous System,C02,2016,2027
+C02YY,Other Radionuclide,C02Y,2016,2027
+C02YYZ,None,C02YY,2016,2027
+C02YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Central Nervous System using Other Radionuclide,C02YYZ,2016,2027
+C03,Positron Emission Tomographic (PET) Imaging,C0,2016,2027
+C030,Brain,C03,2016,2027
+C030B,Carbon 11 (C-11),C030,2016,2027
+C030BZ,None,C030B,2016,2027
+C030BZZ,Positron Emission Tomographic (PET) Imaging of Brain using Carbon 11 (C-11),C030BZ,2016,2027
+C030K,Fluorine 18 (F-18),C030,2016,2027
+C030KZ,None,C030K,2016,2027
+C030KZZ,Positron Emission Tomographic (PET) Imaging of Brain using Fluorine 18 (F-18),C030KZ,2016,2027
+C030M,Oxygen 15 (O-15),C030,2016,2027
+C030MZ,None,C030M,2016,2027
+C030MZZ,Positron Emission Tomographic (PET) Imaging of Brain using Oxygen 15 (O-15),C030MZ,2016,2027
+C030Y,Other Radionuclide,C030,2016,2027
+C030YZ,None,C030Y,2016,2027
+C030YZZ,Positron Emission Tomographic (PET) Imaging of Brain using Other Radionuclide,C030YZ,2016,2027
+C03Y,Central Nervous System,C03,2016,2027
+C03YY,Other Radionuclide,C03Y,2016,2027
+C03YYZ,None,C03YY,2016,2027
+C03YYZZ,Positron Emission Tomographic (PET) Imaging of Central Nervous System using Other Radionuclide,C03YYZ,2016,2027
+C05,Nonimaging Nuclear Medicine Probe,C0,2016,2027
+C050,Brain,C05,2016,2027
+C050V,Xenon 133 (Xe-133),C050,2016,2027
+C050VZ,None,C050V,2016,2027
+C050VZZ,Nonimaging Nuclear Medicine Probe of Brain using Xenon 133 (Xe-133),C050VZ,2016,2027
+C050Y,Other Radionuclide,C050,2016,2027
+C050YZ,None,C050Y,2016,2027
+C050YZZ,Nonimaging Nuclear Medicine Probe of Brain using Other Radionuclide,C050YZ,2016,2027
+C05Y,Central Nervous System,C05,2016,2027
+C05YY,Other Radionuclide,C05Y,2016,2027
+C05YYZ,None,C05YY,2016,2027
+C05YYZZ,Nonimaging Nuclear Medicine Probe of Central Nervous System using Other Radionuclide,C05YYZ,2016,2027

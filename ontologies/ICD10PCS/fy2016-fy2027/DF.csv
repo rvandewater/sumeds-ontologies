@@ -1,0 +1,322 @@
+code,description,parent,first_year,last_year
+DF,Hepatobiliary System and Pancreas,D,2016,2027
+DF0,Beam Radiation,DF,2016,2027
+DF00,Liver,DF0,2016,2027
+DF000,Photons <1 MeV,DF00,2016,2027
+DF000Z,None,DF000,2016,2027
+DF000ZZ,Beam Radiation of Liver using Photons <1 MeV,DF000Z,2016,2027
+DF001,Photons 1 - 10 MeV,DF00,2016,2027
+DF001Z,None,DF001,2016,2027
+DF001ZZ,Beam Radiation of Liver using Photons 1 - 10 MeV,DF001Z,2016,2027
+DF002,Photons >10 MeV,DF00,2016,2027
+DF002Z,None,DF002,2016,2027
+DF002ZZ,Beam Radiation of Liver using Photons >10 MeV,DF002Z,2016,2027
+DF003,Electrons,DF00,2016,2027
+DF003Z,None,DF003,2016,2027
+DF003Z0,"Beam Radiation of Liver using Electrons, Intraoperative",DF003Z,2016,2027
+DF003ZZ,Beam Radiation of Liver using Electrons,DF003Z,2016,2027
+DF004,"Heavy Particles (Protons,Ions)",DF00,2016,2027
+DF004Z,None,DF004,2016,2027
+DF004ZZ,"Beam Radiation of Liver using Heavy Particles (Protons,Ions)",DF004Z,2016,2027
+DF005,Neutrons,DF00,2016,2027
+DF005Z,None,DF005,2016,2027
+DF005ZZ,Beam Radiation of Liver using Neutrons,DF005Z,2016,2027
+DF006,Neutron Capture,DF00,2016,2027
+DF006Z,None,DF006,2016,2027
+DF006ZZ,Beam Radiation of Liver using Neutron Capture,DF006Z,2016,2027
+DF01,Gallbladder,DF0,2016,2027
+DF010,Photons <1 MeV,DF01,2016,2027
+DF010Z,None,DF010,2016,2027
+DF010ZZ,Beam Radiation of Gallbladder using Photons <1 MeV,DF010Z,2016,2027
+DF011,Photons 1 - 10 MeV,DF01,2016,2027
+DF011Z,None,DF011,2016,2027
+DF011ZZ,Beam Radiation of Gallbladder using Photons 1 - 10 MeV,DF011Z,2016,2027
+DF012,Photons >10 MeV,DF01,2016,2027
+DF012Z,None,DF012,2016,2027
+DF012ZZ,Beam Radiation of Gallbladder using Photons >10 MeV,DF012Z,2016,2027
+DF013,Electrons,DF01,2016,2027
+DF013Z,None,DF013,2016,2027
+DF013Z0,"Beam Radiation of Gallbladder using Electrons, Intraoperative",DF013Z,2016,2027
+DF013ZZ,Beam Radiation of Gallbladder using Electrons,DF013Z,2016,2027
+DF014,"Heavy Particles (Protons,Ions)",DF01,2016,2027
+DF014Z,None,DF014,2016,2027
+DF014ZZ,"Beam Radiation of Gallbladder using Heavy Particles (Protons,Ions)",DF014Z,2016,2027
+DF015,Neutrons,DF01,2016,2027
+DF015Z,None,DF015,2016,2027
+DF015ZZ,Beam Radiation of Gallbladder using Neutrons,DF015Z,2016,2027
+DF016,Neutron Capture,DF01,2016,2027
+DF016Z,None,DF016,2016,2027
+DF016ZZ,Beam Radiation of Gallbladder using Neutron Capture,DF016Z,2016,2027
+DF02,Bile Ducts,DF0,2016,2027
+DF020,Photons <1 MeV,DF02,2016,2027
+DF020Z,None,DF020,2016,2027
+DF020ZZ,Beam Radiation of Bile Ducts using Photons <1 MeV,DF020Z,2016,2027
+DF021,Photons 1 - 10 MeV,DF02,2016,2027
+DF021Z,None,DF021,2016,2027
+DF021ZZ,Beam Radiation of Bile Ducts using Photons 1 - 10 MeV,DF021Z,2016,2027
+DF022,Photons >10 MeV,DF02,2016,2027
+DF022Z,None,DF022,2016,2027
+DF022ZZ,Beam Radiation of Bile Ducts using Photons >10 MeV,DF022Z,2016,2027
+DF023,Electrons,DF02,2016,2027
+DF023Z,None,DF023,2016,2027
+DF023Z0,"Beam Radiation of Bile Ducts using Electrons, Intraoperative",DF023Z,2016,2027
+DF023ZZ,Beam Radiation of Bile Ducts using Electrons,DF023Z,2016,2027
+DF024,"Heavy Particles (Protons,Ions)",DF02,2016,2027
+DF024Z,None,DF024,2016,2027
+DF024ZZ,"Beam Radiation of Bile Ducts using Heavy Particles (Protons,Ions)",DF024Z,2016,2027
+DF025,Neutrons,DF02,2016,2027
+DF025Z,None,DF025,2016,2027
+DF025ZZ,Beam Radiation of Bile Ducts using Neutrons,DF025Z,2016,2027
+DF026,Neutron Capture,DF02,2016,2027
+DF026Z,None,DF026,2016,2027
+DF026ZZ,Beam Radiation of Bile Ducts using Neutron Capture,DF026Z,2016,2027
+DF03,Pancreas,DF0,2016,2027
+DF030,Photons <1 MeV,DF03,2016,2027
+DF030Z,None,DF030,2016,2027
+DF030ZZ,Beam Radiation of Pancreas using Photons <1 MeV,DF030Z,2016,2027
+DF031,Photons 1 - 10 MeV,DF03,2016,2027
+DF031Z,None,DF031,2016,2027
+DF031ZZ,Beam Radiation of Pancreas using Photons 1 - 10 MeV,DF031Z,2016,2027
+DF032,Photons >10 MeV,DF03,2016,2027
+DF032Z,None,DF032,2016,2027
+DF032ZZ,Beam Radiation of Pancreas using Photons >10 MeV,DF032Z,2016,2027
+DF033,Electrons,DF03,2016,2027
+DF033Z,None,DF033,2016,2027
+DF033Z0,"Beam Radiation of Pancreas using Electrons, Intraoperative",DF033Z,2016,2027
+DF033ZZ,Beam Radiation of Pancreas using Electrons,DF033Z,2016,2027
+DF034,"Heavy Particles (Protons,Ions)",DF03,2016,2027
+DF034Z,None,DF034,2016,2027
+DF034ZZ,"Beam Radiation of Pancreas using Heavy Particles (Protons,Ions)",DF034Z,2016,2027
+DF035,Neutrons,DF03,2016,2027
+DF035Z,None,DF035,2016,2027
+DF035ZZ,Beam Radiation of Pancreas using Neutrons,DF035Z,2016,2027
+DF036,Neutron Capture,DF03,2016,2027
+DF036Z,None,DF036,2016,2027
+DF036ZZ,Beam Radiation of Pancreas using Neutron Capture,DF036Z,2016,2027
+DF1,Brachytherapy,DF,2016,2027
+DF10,Liver,DF1,2016,2027
+DF109,High Dose Rate (HDR),DF10,2016,2027
+DF1097,Cesium 137 (Cs-137),DF109,2016,2027
+DF1097Z,High Dose Rate (HDR) Brachytherapy of Liver using Cesium 137 (Cs-137),DF1097,2016,2027
+DF1098,Iridium 192 (Ir-192),DF109,2016,2027
+DF1098Z,High Dose Rate (HDR) Brachytherapy of Liver using Iridium 192 (Ir-192),DF1098,2016,2027
+DF1099,Iodine 125 (I-125),DF109,2016,2027
+DF1099Z,High Dose Rate (HDR) Brachytherapy of Liver using Iodine 125 (I-125),DF1099,2016,2027
+DF109B,Palladium 103 (Pd-103),DF109,2016,2027
+DF109BZ,High Dose Rate (HDR) Brachytherapy of Liver using Palladium 103 (Pd-103),DF109B,2016,2027
+DF109C,Californium 252 (Cf-252),DF109,2016,2027
+DF109CZ,High Dose Rate (HDR) Brachytherapy of Liver using Californium 252 (Cf-252),DF109C,2016,2027
+DF109Y,Other Isotope,DF109,2016,2027
+DF109YZ,High Dose Rate (HDR) Brachytherapy of Liver using Other Isotope,DF109Y,2016,2027
+DF10B,Low Dose Rate (LDR),DF10,2016,2027
+DF10B6,Cesium 131 (Cs-131),DF10B,2021,2027
+DF10B6Z,Low Dose Rate (LDR) Brachytherapy of Liver using Cesium 131 (Cs-131),DF10B6,2021,2027
+DF10B7,Cesium 137 (Cs-137),DF10B,2016,2027
+DF10B7Z,Low Dose Rate (LDR) Brachytherapy of Liver using Cesium 137 (Cs-137),DF10B7,2016,2027
+DF10B8,Iridium 192 (Ir-192),DF10B,2016,2027
+DF10B8Z,Low Dose Rate (LDR) Brachytherapy of Liver using Iridium 192 (Ir-192),DF10B8,2016,2027
+DF10B9,Iodine 125 (I-125),DF10B,2016,2027
+DF10B9Z,Low Dose Rate (LDR) Brachytherapy of Liver using Iodine 125 (I-125),DF10B9,2016,2027
+DF10BB,Palladium 103 (Pd-103),DF10B,2016,2027
+DF10BB1,"Low Dose Rate (LDR) Brachytherapy of Liver using Palladium 103 (Pd-103), Unidirectional Source",DF10BB,2020,2027
+DF10BBZ,Low Dose Rate (LDR) Brachytherapy of Liver using Palladium 103 (Pd-103),DF10BB,2016,2027
+DF10BC,Californium 252 (Cf-252),DF10B,2016,2027
+DF10BCZ,Low Dose Rate (LDR) Brachytherapy of Liver using Californium 252 (Cf-252),DF10BC,2016,2027
+DF10BY,Other Isotope,DF10B,2016,2027
+DF10BYZ,Low Dose Rate (LDR) Brachytherapy of Liver using Other Isotope,DF10BY,2016,2027
+DF11,Gallbladder,DF1,2016,2027
+DF119,High Dose Rate (HDR),DF11,2016,2027
+DF1197,Cesium 137 (Cs-137),DF119,2016,2027
+DF1197Z,High Dose Rate (HDR) Brachytherapy of Gallbladder using Cesium 137 (Cs-137),DF1197,2016,2027
+DF1198,Iridium 192 (Ir-192),DF119,2016,2027
+DF1198Z,High Dose Rate (HDR) Brachytherapy of Gallbladder using Iridium 192 (Ir-192),DF1198,2016,2027
+DF1199,Iodine 125 (I-125),DF119,2016,2027
+DF1199Z,High Dose Rate (HDR) Brachytherapy of Gallbladder using Iodine 125 (I-125),DF1199,2016,2027
+DF119B,Palladium 103 (Pd-103),DF119,2016,2027
+DF119BZ,High Dose Rate (HDR) Brachytherapy of Gallbladder using Palladium 103 (Pd-103),DF119B,2016,2027
+DF119C,Californium 252 (Cf-252),DF119,2016,2027
+DF119CZ,High Dose Rate (HDR) Brachytherapy of Gallbladder using Californium 252 (Cf-252),DF119C,2016,2027
+DF119Y,Other Isotope,DF119,2016,2027
+DF119YZ,High Dose Rate (HDR) Brachytherapy of Gallbladder using Other Isotope,DF119Y,2016,2027
+DF11B,Low Dose Rate (LDR),DF11,2016,2027
+DF11B6,Cesium 131 (Cs-131),DF11B,2021,2027
+DF11B6Z,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Cesium 131 (Cs-131),DF11B6,2021,2027
+DF11B7,Cesium 137 (Cs-137),DF11B,2016,2027
+DF11B7Z,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Cesium 137 (Cs-137),DF11B7,2016,2027
+DF11B8,Iridium 192 (Ir-192),DF11B,2016,2027
+DF11B8Z,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Iridium 192 (Ir-192),DF11B8,2016,2027
+DF11B9,Iodine 125 (I-125),DF11B,2016,2027
+DF11B9Z,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Iodine 125 (I-125),DF11B9,2016,2027
+DF11BB,Palladium 103 (Pd-103),DF11B,2016,2027
+DF11BB1,"Low Dose Rate (LDR) Brachytherapy of Gallbladder using Palladium 103 (Pd-103), Unidirectional Source",DF11BB,2020,2027
+DF11BBZ,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Palladium 103 (Pd-103),DF11BB,2016,2027
+DF11BC,Californium 252 (Cf-252),DF11B,2016,2027
+DF11BCZ,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Californium 252 (Cf-252),DF11BC,2016,2027
+DF11BY,Other Isotope,DF11B,2016,2027
+DF11BYZ,Low Dose Rate (LDR) Brachytherapy of Gallbladder using Other Isotope,DF11BY,2016,2027
+DF12,Bile Ducts,DF1,2016,2027
+DF129,High Dose Rate (HDR),DF12,2016,2027
+DF1297,Cesium 137 (Cs-137),DF129,2016,2027
+DF1297Z,High Dose Rate (HDR) Brachytherapy of Bile Ducts using Cesium 137 (Cs-137),DF1297,2016,2027
+DF1298,Iridium 192 (Ir-192),DF129,2016,2027
+DF1298Z,High Dose Rate (HDR) Brachytherapy of Bile Ducts using Iridium 192 (Ir-192),DF1298,2016,2027
+DF1299,Iodine 125 (I-125),DF129,2016,2027
+DF1299Z,High Dose Rate (HDR) Brachytherapy of Bile Ducts using Iodine 125 (I-125),DF1299,2016,2027
+DF129B,Palladium 103 (Pd-103),DF129,2016,2027
+DF129BZ,High Dose Rate (HDR) Brachytherapy of Bile Ducts using Palladium 103 (Pd-103),DF129B,2016,2027
+DF129C,Californium 252 (Cf-252),DF129,2016,2027
+DF129CZ,High Dose Rate (HDR) Brachytherapy of Bile Ducts using Californium 252 (Cf-252),DF129C,2016,2027
+DF129Y,Other Isotope,DF129,2016,2027
+DF129YZ,High Dose Rate (HDR) Brachytherapy of Bile Ducts using Other Isotope,DF129Y,2016,2027
+DF12B,Low Dose Rate (LDR),DF12,2016,2027
+DF12B6,Cesium 131 (Cs-131),DF12B,2021,2027
+DF12B6Z,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Cesium 131 (Cs-131),DF12B6,2021,2027
+DF12B7,Cesium 137 (Cs-137),DF12B,2016,2027
+DF12B7Z,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Cesium 137 (Cs-137),DF12B7,2016,2027
+DF12B8,Iridium 192 (Ir-192),DF12B,2016,2027
+DF12B8Z,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Iridium 192 (Ir-192),DF12B8,2016,2027
+DF12B9,Iodine 125 (I-125),DF12B,2016,2027
+DF12B9Z,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Iodine 125 (I-125),DF12B9,2016,2027
+DF12BB,Palladium 103 (Pd-103),DF12B,2016,2027
+DF12BB1,"Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Palladium 103 (Pd-103), Unidirectional Source",DF12BB,2020,2027
+DF12BBZ,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Palladium 103 (Pd-103),DF12BB,2016,2027
+DF12BC,Californium 252 (Cf-252),DF12B,2016,2027
+DF12BCZ,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Californium 252 (Cf-252),DF12BC,2016,2027
+DF12BY,Other Isotope,DF12B,2016,2027
+DF12BYZ,Low Dose Rate (LDR) Brachytherapy of Bile Ducts using Other Isotope,DF12BY,2016,2027
+DF13,Pancreas,DF1,2016,2027
+DF139,High Dose Rate (HDR),DF13,2016,2027
+DF1397,Cesium 137 (Cs-137),DF139,2016,2027
+DF1397Z,High Dose Rate (HDR) Brachytherapy of Pancreas using Cesium 137 (Cs-137),DF1397,2016,2027
+DF1398,Iridium 192 (Ir-192),DF139,2016,2027
+DF1398Z,High Dose Rate (HDR) Brachytherapy of Pancreas using Iridium 192 (Ir-192),DF1398,2016,2027
+DF1399,Iodine 125 (I-125),DF139,2016,2027
+DF1399Z,High Dose Rate (HDR) Brachytherapy of Pancreas using Iodine 125 (I-125),DF1399,2016,2027
+DF139B,Palladium 103 (Pd-103),DF139,2016,2027
+DF139BZ,High Dose Rate (HDR) Brachytherapy of Pancreas using Palladium 103 (Pd-103),DF139B,2016,2027
+DF139C,Californium 252 (Cf-252),DF139,2016,2027
+DF139CZ,High Dose Rate (HDR) Brachytherapy of Pancreas using Californium 252 (Cf-252),DF139C,2016,2027
+DF139Y,Other Isotope,DF139,2016,2027
+DF139YZ,High Dose Rate (HDR) Brachytherapy of Pancreas using Other Isotope,DF139Y,2016,2027
+DF13B,Low Dose Rate (LDR),DF13,2016,2027
+DF13B6,Cesium 131 (Cs-131),DF13B,2021,2027
+DF13B6Z,Low Dose Rate (LDR) Brachytherapy of Pancreas using Cesium 131 (Cs-131),DF13B6,2021,2027
+DF13B7,Cesium 137 (Cs-137),DF13B,2016,2027
+DF13B7Z,Low Dose Rate (LDR) Brachytherapy of Pancreas using Cesium 137 (Cs-137),DF13B7,2016,2027
+DF13B8,Iridium 192 (Ir-192),DF13B,2016,2027
+DF13B8Z,Low Dose Rate (LDR) Brachytherapy of Pancreas using Iridium 192 (Ir-192),DF13B8,2016,2027
+DF13B9,Iodine 125 (I-125),DF13B,2016,2027
+DF13B9Z,Low Dose Rate (LDR) Brachytherapy of Pancreas using Iodine 125 (I-125),DF13B9,2016,2027
+DF13BB,Palladium 103 (Pd-103),DF13B,2016,2027
+DF13BB1,"Low Dose Rate (LDR) Brachytherapy of Pancreas using Palladium 103 (Pd-103), Unidirectional Source",DF13BB,2020,2027
+DF13BBZ,Low Dose Rate (LDR) Brachytherapy of Pancreas using Palladium 103 (Pd-103),DF13BB,2016,2027
+DF13BC,Californium 252 (Cf-252),DF13B,2016,2027
+DF13BCZ,Low Dose Rate (LDR) Brachytherapy of Pancreas using Californium 252 (Cf-252),DF13BC,2016,2027
+DF13BY,Other Isotope,DF13B,2016,2027
+DF13BYZ,Low Dose Rate (LDR) Brachytherapy of Pancreas using Other Isotope,DF13BY,2016,2027
+DF2,Stereotactic Radiosurgery,DF,2016,2027
+DF20,Liver,DF2,2016,2027
+DF20D,Stereotactic Other Photon Radiosurgery,DF20,2016,2027
+DF20DZ,None,DF20D,2016,2027
+DF20DZZ,Stereotactic Other Photon Radiosurgery of Liver,DF20DZ,2016,2027
+DF20H,Stereotactic Particulate Radiosurgery,DF20,2016,2027
+DF20HZ,None,DF20H,2016,2027
+DF20HZZ,Stereotactic Particulate Radiosurgery of Liver,DF20HZ,2016,2027
+DF20J,Stereotactic Gamma Beam Radiosurgery,DF20,2016,2027
+DF20JZ,None,DF20J,2016,2027
+DF20JZZ,Stereotactic Gamma Beam Radiosurgery of Liver,DF20JZ,2016,2027
+DF21,Gallbladder,DF2,2016,2027
+DF21D,Stereotactic Other Photon Radiosurgery,DF21,2016,2027
+DF21DZ,None,DF21D,2016,2027
+DF21DZZ,Stereotactic Other Photon Radiosurgery of Gallbladder,DF21DZ,2016,2027
+DF21H,Stereotactic Particulate Radiosurgery,DF21,2016,2027
+DF21HZ,None,DF21H,2016,2027
+DF21HZZ,Stereotactic Particulate Radiosurgery of Gallbladder,DF21HZ,2016,2027
+DF21J,Stereotactic Gamma Beam Radiosurgery,DF21,2016,2027
+DF21JZ,None,DF21J,2016,2027
+DF21JZZ,Stereotactic Gamma Beam Radiosurgery of Gallbladder,DF21JZ,2016,2027
+DF22,Bile Ducts,DF2,2016,2027
+DF22D,Stereotactic Other Photon Radiosurgery,DF22,2016,2027
+DF22DZ,None,DF22D,2016,2027
+DF22DZZ,Stereotactic Other Photon Radiosurgery of Bile Ducts,DF22DZ,2016,2027
+DF22H,Stereotactic Particulate Radiosurgery,DF22,2016,2027
+DF22HZ,None,DF22H,2016,2027
+DF22HZZ,Stereotactic Particulate Radiosurgery of Bile Ducts,DF22HZ,2016,2027
+DF22J,Stereotactic Gamma Beam Radiosurgery,DF22,2016,2027
+DF22JZ,None,DF22J,2016,2027
+DF22JZZ,Stereotactic Gamma Beam Radiosurgery of Bile Ducts,DF22JZ,2016,2027
+DF23,Pancreas,DF2,2016,2027
+DF23D,Stereotactic Other Photon Radiosurgery,DF23,2016,2027
+DF23DZ,None,DF23D,2016,2027
+DF23DZZ,Stereotactic Other Photon Radiosurgery of Pancreas,DF23DZ,2016,2027
+DF23H,Stereotactic Particulate Radiosurgery,DF23,2016,2027
+DF23HZ,None,DF23H,2016,2027
+DF23HZZ,Stereotactic Particulate Radiosurgery of Pancreas,DF23HZ,2016,2027
+DF23J,Stereotactic Gamma Beam Radiosurgery,DF23,2016,2027
+DF23JZ,None,DF23J,2016,2027
+DF23JZZ,Stereotactic Gamma Beam Radiosurgery of Pancreas,DF23JZ,2016,2027
+DFY,Other Radiation,DF,2016,2027
+DFY0,Liver,DFY,2016,2027
+DFY07,Contact Radiation,DFY0,2016,2027
+DFY07Z,None,DFY07,2016,2027
+DFY07ZZ,Contact Radiation of Liver,DFY07Z,2016,2027
+DFY08,Hyperthermia,DFY0,2016,2027
+DFY08Z,None,DFY08,2016,2027
+DFY08ZZ,Hyperthermia of Liver,DFY08Z,2016,2027
+DFY0C,Intraoperative Radiation Therapy (IORT),DFY0,2016,2027
+DFY0CZ,None,DFY0C,2016,2027
+DFY0CZZ,Intraoperative Radiation Therapy (IORT) of Liver,DFY0CZ,2016,2027
+DFY0F,Plaque Radiation,DFY0,2016,2027
+DFY0FZ,None,DFY0F,2016,2027
+DFY0FZZ,Plaque Radiation of Liver,DFY0FZ,2016,2027
+DFY0K,Laser Interstitial Thermal Therapy,DFY0,2016,2022
+DFY0KZ,None,DFY0K,2016,2022
+DFY0KZZ,Laser Interstitial Thermal Therapy of Liver,DFY0KZ,2016,2022
+DFY1,Gallbladder,DFY,2016,2027
+DFY17,Contact Radiation,DFY1,2016,2027
+DFY17Z,None,DFY17,2016,2027
+DFY17ZZ,Contact Radiation of Gallbladder,DFY17Z,2016,2027
+DFY18,Hyperthermia,DFY1,2016,2027
+DFY18Z,None,DFY18,2016,2027
+DFY18ZZ,Hyperthermia of Gallbladder,DFY18Z,2016,2027
+DFY1C,Intraoperative Radiation Therapy (IORT),DFY1,2016,2027
+DFY1CZ,None,DFY1C,2016,2027
+DFY1CZZ,Intraoperative Radiation Therapy (IORT) of Gallbladder,DFY1CZ,2016,2027
+DFY1F,Plaque Radiation,DFY1,2016,2027
+DFY1FZ,None,DFY1F,2016,2027
+DFY1FZZ,Plaque Radiation of Gallbladder,DFY1FZ,2016,2027
+DFY1K,Laser Interstitial Thermal Therapy,DFY1,2016,2022
+DFY1KZ,None,DFY1K,2016,2022
+DFY1KZZ,Laser Interstitial Thermal Therapy of Gallbladder,DFY1KZ,2016,2022
+DFY2,Bile Ducts,DFY,2016,2027
+DFY27,Contact Radiation,DFY2,2016,2027
+DFY27Z,None,DFY27,2016,2027
+DFY27ZZ,Contact Radiation of Bile Ducts,DFY27Z,2016,2027
+DFY28,Hyperthermia,DFY2,2016,2027
+DFY28Z,None,DFY28,2016,2027
+DFY28ZZ,Hyperthermia of Bile Ducts,DFY28Z,2016,2027
+DFY2C,Intraoperative Radiation Therapy (IORT),DFY2,2016,2027
+DFY2CZ,None,DFY2C,2016,2027
+DFY2CZZ,Intraoperative Radiation Therapy (IORT) of Bile Ducts,DFY2CZ,2016,2027
+DFY2F,Plaque Radiation,DFY2,2016,2027
+DFY2FZ,None,DFY2F,2016,2027
+DFY2FZZ,Plaque Radiation of Bile Ducts,DFY2FZ,2016,2027
+DFY2K,Laser Interstitial Thermal Therapy,DFY2,2016,2022
+DFY2KZ,None,DFY2K,2016,2022
+DFY2KZZ,Laser Interstitial Thermal Therapy of Bile Ducts,DFY2KZ,2016,2022
+DFY3,Pancreas,DFY,2016,2027
+DFY37,Contact Radiation,DFY3,2016,2027
+DFY37Z,None,DFY37,2016,2027
+DFY37ZZ,Contact Radiation of Pancreas,DFY37Z,2016,2027
+DFY38,Hyperthermia,DFY3,2016,2027
+DFY38Z,None,DFY38,2016,2027
+DFY38ZZ,Hyperthermia of Pancreas,DFY38Z,2016,2027
+DFY3C,Intraoperative Radiation Therapy (IORT),DFY3,2016,2027
+DFY3CZ,None,DFY3C,2016,2027
+DFY3CZZ,Intraoperative Radiation Therapy (IORT) of Pancreas,DFY3CZ,2016,2027
+DFY3F,Plaque Radiation,DFY3,2016,2027
+DFY3FZ,None,DFY3F,2016,2027
+DFY3FZZ,Plaque Radiation of Pancreas,DFY3FZ,2016,2027
+DFY3K,Laser Interstitial Thermal Therapy,DFY3,2016,2022
+DFY3KZ,None,DFY3K,2016,2022
+DFY3KZZ,Laser Interstitial Thermal Therapy of Pancreas,DFY3KZ,2016,2022

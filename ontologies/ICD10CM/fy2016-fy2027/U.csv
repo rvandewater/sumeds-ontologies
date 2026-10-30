@@ -1,0 +1,6 @@
+code,description,parent,first_year,last_year
+U07,Emergency use of U07,,2021,2027
+U07.0,Vaping-related disorder,U07,2021,2027
+U07.1,COVID-19,U07,2021,2027
+U09,Post COVID-19 condition,,2022,2027
+U09.9,"Post COVID-19 condition, unspecified",U09,2022,2027

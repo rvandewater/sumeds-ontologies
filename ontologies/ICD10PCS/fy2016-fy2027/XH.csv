@@ -1,0 +1,48 @@
+code,description,parent,first_year,last_year
+XH,"Skin, Subcutaneous Tissue, Fascia and Breast",X,2017,2027
+XHH,Insertion,XH,2026,2027
+XHH8,"Subcutaneous Tissue and Fascia, Chest",XHH,2026,2027
+XHH80,Open,XHH8,2026,2027
+XHH80H,Ultrasound Transmitter and Battery for Endocardiac Pacing Electrode,XHH80,2026,2027
+XHH80HB,"Insertion of Ultrasound Transmitter and Battery for Endocardiac Pacing Electrode into Chest Subcutaneous Tissue and Fascia, Open Approach, New Technology Group 11",XHH80H,2026,2027
+XHH80J,Contractility Modulation Device with Defibrillator Generator,XHH80,2027,2027
+XHH80JC,"Insertion of Contractility Modulation Device with Defibrillator Generator into Chest Subcutaneous Tissue and Fascia, Open Approach, New Technology Group 12",XHH80J,2027,2027
+XHR,Replacement,XH,2017,2027
+XHR0,"Skin, Head and Neck",XHR,2025,2027
+XHR0X,External,XHR0,2025,2027
+XHR0XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR0X,2025,2027
+XHR0XGA,"Replacement of Head and Neck Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR0XG,2025,2027
+XHR1,"Skin, Chest",XHR,2025,2027
+XHR1X,External,XHR1,2025,2027
+XHR1XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR1X,2025,2027
+XHR1XGA,"Replacement of Chest Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR1XG,2025,2027
+XHR2,"Skin, Abdomen",XHR,2025,2027
+XHR2X,External,XHR2,2025,2027
+XHR2XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR2X,2025,2027
+XHR2XGA,"Replacement of Abdomen Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR2XG,2025,2027
+XHR3,"Skin, Back",XHR,2025,2027
+XHR3X,External,XHR3,2025,2027
+XHR3XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR3X,2025,2027
+XHR3XGA,"Replacement of Back Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR3XG,2025,2027
+XHR4,"Skin, Right Upper Extremity",XHR,2025,2027
+XHR4X,External,XHR4,2025,2027
+XHR4XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR4X,2025,2027
+XHR4XGA,"Replacement of Right Upper Extremity Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR4XG,2025,2027
+XHR5,"Skin, Left Upper Extremity",XHR,2025,2027
+XHR5X,External,XHR5,2025,2027
+XHR5XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR5X,2025,2027
+XHR5XGA,"Replacement of Left Upper Extremity Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR5XG,2025,2027
+XHR6,"Skin, Right Lower Extremity",XHR,2025,2027
+XHR6X,External,XHR6,2025,2027
+XHR6XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR6X,2025,2027
+XHR6XGA,"Replacement of Right Lower Extremity Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR6XG,2025,2027
+XHR7,"Skin, Left Lower Extremity",XHR,2025,2027
+XHR7X,External,XHR7,2025,2027
+XHR7XG,"Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy",XHR7X,2025,2027
+XHR7XGA,"Replacement of Left Lower Extremity Skin with Prademagene Zamikeracel, Genetically Engineered Autologous Cell Therapy, External Approach, New Technology Group 10",XHR7XG,2025,2027
+XHRP,Skin,XHR,2017,2027
+XHRPX,External,XHRP,2017,2027
+XHRPXF,Bioengineered Allogeneic Construct,XHRPX,2022,2027
+XHRPXF7,"Replacement of Skin with Bioengineered Allogeneic Construct, External Approach, New Technology Group 7",XHRPXF,2022,2027
+XHRPXL,"Skin Substitute, Porcine Liver Derived",XHRPX,2017,2022
+XHRPXL2,"Replacement of Skin using Porcine Liver Derived Skin Substitute, External Approach, New Technology Group 2",XHRPXL,2017,2022

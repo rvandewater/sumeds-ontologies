@@ -1,0 +1,27 @@
+code,description,parent,first_year,last_year
+XD,Gastrointestinal System,X,2022,2027
+XD2,Monitoring,XD,2022,2026
+XD2G,Upper GI,XD2,2022,2026
+XD2G4,Percutaneous Endoscopic,XD2G,2022,2026
+XD2G4V,Oxygen Saturation,XD2G4,2022,2026
+XD2G4V7,"Monitoring of Upper GI Oxygen Saturation, Percutaneous Endoscopic Approach, New Technology Group 7",XD2G4V,2022,2026
+XD2G8,Via Natural or Artificial Opening Endoscopic,XD2G,2022,2026
+XD2G8V,Oxygen Saturation,XD2G8,2022,2026
+XD2G8V7,"Monitoring of Upper GI Oxygen Saturation, Via Natural or Artificial Opening Endoscopic, New Technology Group 7",XD2G8V,2022,2026
+XD2H,Lower GI,XD2,2022,2026
+XD2H4,Percutaneous Endoscopic,XD2H,2022,2026
+XD2H4V,Oxygen Saturation,XD2H4,2022,2026
+XD2H4V7,"Monitoring of Lower GI Oxygen Saturation, Percutaneous Endoscopic Approach, New Technology Group 7",XD2H4V,2022,2026
+XD2H8,Via Natural or Artificial Opening Endoscopic,XD2H,2022,2026
+XD2H8V,Oxygen Saturation,XD2H8,2022,2026
+XD2H8V7,"Monitoring of Lower GI Oxygen Saturation, Via Natural or Artificial Opening Endoscopic, New Technology Group 7",XD2H8V,2022,2026
+XDJ,Inspection,XD,2026,2027
+XDJ0,Upper Intestinal Tract,XDJ,2026,2027
+XDJ07,Via Natural or Artificial Opening,XDJ0,2026,2027
+XDJ07L,Ingestible Capsule with Light Absorption Sensor,XDJ07,2026,2027
+XDJ07LB,"Inspection of Upper Intestinal Tract using Ingestible Capsule with Light Absorption Sensor, Via Natural or Artificial Opening, New Technology Group 11",XDJ07L,2026,2027
+XDP,Irrigation,XD,2022,2027
+XDPH,Lower GI,XDP,2022,2027
+XDPH8,Via Natural or Artificial Opening Endoscopic,XDPH,2022,2027
+XDPH8K,Intraoperative Single-use Oversleeve,XDPH8,2022,2027
+XDPH8K7,"Irrigation of Lower GI using Intraoperative Single-use Oversleeve, Via Natural or Artificial Opening Endoscopic, New Technology Group 7",XDPH8K,2022,2027

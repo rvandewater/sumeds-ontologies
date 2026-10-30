@@ -1,0 +1,145 @@
+code,description,parent,first_year,last_year
+5A,Physiological Systems,5,2016,2027
+5A0,Assistance,5A,2016,2027
+5A02,Cardiac,5A0,2016,2027
+5A021,Intermittent,5A02,2016,2027
+5A0211,Output,5A021,2016,2027
+5A02110,"Assistance with Cardiac Output using Balloon Pump, Intermittent",5A0211,2016,2027
+5A02115,"Assistance with Cardiac Output using Pulsatile Compression, Intermittent",5A0211,2016,2027
+5A02116,"Assistance with Cardiac Output using Other Pump, Intermittent",5A0211,2016,2027
+5A0211D,"Assistance with Cardiac Output using Impeller Pump, Intermittent",5A0211,2016,2027
+5A022,Continuous,5A02,2016,2027
+5A0221,Output,5A022,2016,2027
+5A02210,"Assistance with Cardiac Output using Balloon Pump, Continuous",5A0221,2016,2027
+5A02215,"Assistance with Cardiac Output using Pulsatile Compression, Continuous",5A0221,2016,2027
+5A02216,"Assistance with Cardiac Output using Other Pump, Continuous",5A0221,2016,2027
+5A0221D,"Assistance with Cardiac Output using Impeller Pump, Continuous",5A0221,2016,2027
+5A0221E,"Assistance with Cardiac Output using Blood Flow Modulator, Continuous",5A0221,2026,2027
+5A0222,Oxygenation,5A022,2023,2027
+5A0222C,"Assistance with Cardiac Oxygenation, Supersaturated",5A0222,2023,2027
+5A05,Circulatory,5A0,2016,2027
+5A051,Intermittent,5A05,2016,2027
+5A0512,Oxygenation,5A051,2016,2027
+5A05121,"Extracorporeal Hyperbaric Oxygenation, Intermittent",5A0512,2016,2027
+5A0512C,"Extracorporeal Supersaturated Oxygenation, Intermittent",5A0512,2016,2022
+5A052,Continuous,5A05,2016,2027
+5A0522,Oxygenation,5A052,2016,2027
+5A05221,"Extracorporeal Hyperbaric Oxygenation, Continuous",5A0522,2016,2027
+5A0522C,"Extracorporeal Supersaturated Oxygenation, Continuous",5A0522,2016,2022
+5A0527,Decompression,5A052,2027,2027
+5A0527D,"Assistance with Circulatory Decompression using Impeller Pump, Continuous",5A0527,2027,2027
+5A05A,Intraoperative,5A05,2025,2027
+5A05A0,Filtration,5A05A,2025,2027
+5A05A0L,"Extracorporeal Peripheral Veno-venous Filtration, Intraoperative",5A05A0,2025,2027
+5A05A6,Cerebral Embolic Filtration,5A05A,2026,2027
+5A05A6M,"Intraoperative Cerebral Embolic Filtration, Single Capture Filter",5A05A6,2026,2027
+5A05A6N,"Intraoperative Cerebral Embolic Filtration, Dual Capture Filter",5A05A6,2026,2027
+5A05A6P,"Intraoperative Cerebral Embolic Filtration, Single Deflection Filter",5A05A6,2026,2027
+5A05A6Q,"Intraoperative Cerebral Embolic Filtration, Extracorporeal Flow Reversal Circuit",5A05A6,2026,2027
+5A09,Respiratory,5A0,2016,2027
+5A092,Continuous,5A09,2018,2027
+5A0920,Filtration,5A092,2018,2027
+5A0920Z,"Assistance with Respiratory Filtration, Continuous",5A0920,2018,2027
+5A093,Less than 24 Consecutive Hours,5A09,2016,2027
+5A0935,Ventilation,5A093,2016,2027
+5A09357,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Positive Airway Pressure",5A0935,2016,2027
+5A09358,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Positive Airway Pressure",5A0935,2016,2027
+5A09359,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Continuous Negative Airway Pressure",5A0935,2016,2027
+5A0935A,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, High Flow/Velocity Cannula",5A0935,2021,2027
+5A0935B,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours, Intermittent Negative Airway Pressure",5A0935,2016,2027
+5A0935Z,"Assistance with Respiratory Ventilation, Less than 24 Consecutive Hours",5A0935,2016,2027
+5A094,24-96 Consecutive Hours,5A09,2016,2027
+5A0945,Ventilation,5A094,2016,2027
+5A09457,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Positive Airway Pressure",5A0945,2016,2027
+5A09458,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Positive Airway Pressure",5A0945,2016,2027
+5A09459,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Continuous Negative Airway Pressure",5A0945,2016,2027
+5A0945A,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, High Flow/Velocity Cannula",5A0945,2021,2027
+5A0945B,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours, Intermittent Negative Airway Pressure",5A0945,2016,2027
+5A0945Z,"Assistance with Respiratory Ventilation, 24-96 Consecutive Hours",5A0945,2016,2027
+5A095,Greater than 96 Consecutive Hours,5A09,2016,2027
+5A0955,Ventilation,5A095,2016,2027
+5A09557,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Positive Airway Pressure",5A0955,2016,2027
+5A09558,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Positive Airway Pressure",5A0955,2016,2027
+5A09559,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Continuous Negative Airway Pressure",5A0955,2016,2027
+5A0955A,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, High Flow/Velocity Cannula",5A0955,2021,2027
+5A0955B,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours, Intermittent Negative Airway Pressure",5A0955,2016,2027
+5A0955Z,"Assistance with Respiratory Ventilation, Greater than 96 Consecutive Hours",5A0955,2016,2027
+5A09B,Less than 8 Consecutive Hours,5A09,2024,2027
+5A09B5,Ventilation,5A09B,2024,2027
+5A09B5K,"Assistance with Respiratory Ventilation, Less than 8 Consecutive Hours, Intubated Prone Positioning",5A09B5,2024,2027
+5A09C,8-24 Consecutive Hours,5A09,2024,2027
+5A09C5,Ventilation,5A09C,2024,2027
+5A09C5K,"Assistance with Respiratory Ventilation, 8-24 Consecutive Hours, Intubated Prone Positioning",5A09C5,2024,2027
+5A09D,Greater than 24 Consecutive Hours,5A09,2024,2027
+5A09D5,Ventilation,5A09D,2024,2027
+5A09D5K,"Assistance with Respiratory Ventilation, Greater than 24 Consecutive Hours, Intubated Prone Positioning",5A09D5,2024,2027
+5A1,Performance,5A,2016,2027
+5A12,Cardiac,5A1,2016,2027
+5A120,Single,5A12,2016,2027
+5A1201,Output,5A120,2016,2027
+5A12012,"Performance of Cardiac Output, Single, Manual",5A1201,2016,2027
+5A121,Intermittent,5A12,2016,2027
+5A1213,Pacing,5A121,2016,2027
+5A1213Z,"Performance of Cardiac Pacing, Intermittent",5A1213,2016,2027
+5A122,Continuous,5A12,2016,2027
+5A1221,Output,5A122,2016,2027
+5A1221J,"Performance of Cardiac Output, Continuous, Automated",5A1221,2022,2027
+5A1221Z,"Performance of Cardiac Output, Continuous",5A1221,2016,2027
+5A1223,Pacing,5A122,2016,2027
+5A1223Z,"Performance of Cardiac Pacing, Continuous",5A1223,2016,2027
+5A15,Circulatory,5A1,2016,2027
+5A152,Continuous,5A15,2016,2027
+5A1522,Oxygenation,5A152,2016,2027
+5A15223,"Extracorporeal Membrane Oxygenation, Continuous",5A1522,2016,2018
+5A1522F,"Extracorporeal Oxygenation, Membrane, Central",5A1522,2019,2027
+5A1522G,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-arterial",5A1522,2019,2027
+5A1522H,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-venous",5A1522,2019,2027
+5A15A,Intraoperative,5A15,2020,2027
+5A15A2,Oxygenation,5A15A,2020,2027
+5A15A2F,"Extracorporeal Oxygenation, Membrane, Central, Intraoperative",5A15A2,2020,2027
+5A15A2G,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-arterial, Intraoperative",5A15A2,2020,2027
+5A15A2H,"Extracorporeal Oxygenation, Membrane, Peripheral Veno-venous, Intraoperative",5A15A2,2020,2027
+5A19,Respiratory,5A1,2016,2027
+5A190,Single,5A19,2016,2027
+5A1905,Ventilation,5A190,2016,2027
+5A19054,"Respiratory Ventilation, Single, Nonmechanical",5A1905,2016,2027
+5A193,Less than 24 Consecutive Hours,5A19,2016,2027
+5A1935,Ventilation,5A193,2016,2027
+5A1935Z,"Respiratory Ventilation, Less than 24 Consecutive Hours",5A1935,2016,2027
+5A194,24-96 Consecutive Hours,5A19,2016,2027
+5A1945,Ventilation,5A194,2016,2027
+5A1945Z,"Respiratory Ventilation, 24-96 Consecutive Hours",5A1945,2016,2027
+5A195,Greater than 96 Consecutive Hours,5A19,2016,2027
+5A1955,Ventilation,5A195,2016,2027
+5A1955Z,"Respiratory Ventilation, Greater than 96 Consecutive Hours",5A1955,2016,2027
+5A1C,Biliary,5A1,2016,2027
+5A1C0,Single,5A1C,2016,2027
+5A1C00,Filtration,5A1C0,2016,2027
+5A1C00Z,"Performance of Biliary Filtration, Single",5A1C00,2016,2027
+5A1C6,Multiple,5A1C,2016,2027
+5A1C60,Filtration,5A1C6,2016,2027
+5A1C60Z,"Performance of Biliary Filtration, Multiple",5A1C60,2016,2027
+5A1D,Urinary,5A1,2016,2027
+5A1D0,Single,5A1D,2016,2017
+5A1D00,Filtration,5A1D0,2016,2017
+5A1D00Z,"Performance of Urinary Filtration, Single",5A1D00,2016,2017
+5A1D6,Multiple,5A1D,2016,2017
+5A1D60,Filtration,5A1D6,2016,2017
+5A1D60Z,"Performance of Urinary Filtration, Multiple",5A1D60,2016,2017
+5A1D7,"Intermittent, Less than 6 Hours Per Day",5A1D,2018,2027
+5A1D70,Filtration,5A1D7,2018,2027
+5A1D701,"Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day, Selective Cytopheresis",5A1D70,2027,2027
+5A1D70Z,"Performance of Urinary Filtration, Intermittent, Less than 6 Hours Per Day",5A1D70,2018,2027
+5A1D8,"Prolonged Intermittent, 6-18 hours Per Day",5A1D,2018,2027
+5A1D80,Filtration,5A1D8,2018,2027
+5A1D801,"Performance of Urinary Filtration, Prolonged Intermittent, 6-18 hours Per Day, Selective Cytopheresis",5A1D80,2027,2027
+5A1D80Z,"Performance of Urinary Filtration, Prolonged Intermittent, 6-18 hours Per Day",5A1D80,2018,2027
+5A1D9,"Continuous, Greater than 18 hours Per Day",5A1D,2018,2027
+5A1D90,Filtration,5A1D9,2018,2027
+5A1D901,"Performance of Urinary Filtration, Continuous, Greater than 18 hours Per Day, Selective Cytopheresis",5A1D90,2027,2027
+5A1D90Z,"Performance of Urinary Filtration, Continuous, Greater than 18 hours Per Day",5A1D90,2018,2027
+5A2,Restoration,5A,2016,2027
+5A22,Cardiac,5A2,2016,2027
+5A220,Single,5A22,2016,2027
+5A2204,Rhythm,5A220,2016,2027
+5A2204Z,"Restoration of Cardiac Rhythm, Single",5A2204,2016,2027

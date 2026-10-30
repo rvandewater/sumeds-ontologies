@@ -1,0 +1,158 @@
+code,description,parent,first_year,last_year
+DV,Male Reproductive System,D,2016,2027
+DV0,Beam Radiation,DV,2016,2027
+DV00,Prostate,DV0,2016,2027
+DV000,Photons <1 MeV,DV00,2016,2027
+DV000Z,None,DV000,2016,2027
+DV000ZZ,Beam Radiation of Prostate using Photons <1 MeV,DV000Z,2016,2027
+DV001,Photons 1 - 10 MeV,DV00,2016,2027
+DV001Z,None,DV001,2016,2027
+DV001ZZ,Beam Radiation of Prostate using Photons 1 - 10 MeV,DV001Z,2016,2027
+DV002,Photons >10 MeV,DV00,2016,2027
+DV002Z,None,DV002,2016,2027
+DV002ZZ,Beam Radiation of Prostate using Photons >10 MeV,DV002Z,2016,2027
+DV003,Electrons,DV00,2016,2027
+DV003Z,None,DV003,2016,2027
+DV003Z0,"Beam Radiation of Prostate using Electrons, Intraoperative",DV003Z,2016,2027
+DV003ZZ,Beam Radiation of Prostate using Electrons,DV003Z,2016,2027
+DV004,"Heavy Particles (Protons,Ions)",DV00,2016,2027
+DV004Z,None,DV004,2016,2027
+DV004ZZ,"Beam Radiation of Prostate using Heavy Particles (Protons,Ions)",DV004Z,2016,2027
+DV005,Neutrons,DV00,2016,2027
+DV005Z,None,DV005,2016,2027
+DV005ZZ,Beam Radiation of Prostate using Neutrons,DV005Z,2016,2027
+DV006,Neutron Capture,DV00,2016,2027
+DV006Z,None,DV006,2016,2027
+DV006ZZ,Beam Radiation of Prostate using Neutron Capture,DV006Z,2016,2027
+DV01,Testis,DV0,2016,2027
+DV010,Photons <1 MeV,DV01,2016,2027
+DV010Z,None,DV010,2016,2027
+DV010ZZ,Beam Radiation of Testis using Photons <1 MeV,DV010Z,2016,2027
+DV011,Photons 1 - 10 MeV,DV01,2016,2027
+DV011Z,None,DV011,2016,2027
+DV011ZZ,Beam Radiation of Testis using Photons 1 - 10 MeV,DV011Z,2016,2027
+DV012,Photons >10 MeV,DV01,2016,2027
+DV012Z,None,DV012,2016,2027
+DV012ZZ,Beam Radiation of Testis using Photons >10 MeV,DV012Z,2016,2027
+DV013,Electrons,DV01,2016,2027
+DV013Z,None,DV013,2016,2027
+DV013Z0,"Beam Radiation of Testis using Electrons, Intraoperative",DV013Z,2016,2027
+DV013ZZ,Beam Radiation of Testis using Electrons,DV013Z,2016,2027
+DV014,"Heavy Particles (Protons,Ions)",DV01,2016,2027
+DV014Z,None,DV014,2016,2027
+DV014ZZ,"Beam Radiation of Testis using Heavy Particles (Protons,Ions)",DV014Z,2016,2027
+DV015,Neutrons,DV01,2016,2027
+DV015Z,None,DV015,2016,2027
+DV015ZZ,Beam Radiation of Testis using Neutrons,DV015Z,2016,2027
+DV016,Neutron Capture,DV01,2016,2027
+DV016Z,None,DV016,2016,2027
+DV016ZZ,Beam Radiation of Testis using Neutron Capture,DV016Z,2016,2027
+DV1,Brachytherapy,DV,2016,2027
+DV10,Prostate,DV1,2016,2027
+DV109,High Dose Rate (HDR),DV10,2016,2027
+DV1097,Cesium 137 (Cs-137),DV109,2016,2027
+DV1097Z,High Dose Rate (HDR) Brachytherapy of Prostate using Cesium 137 (Cs-137),DV1097,2016,2027
+DV1098,Iridium 192 (Ir-192),DV109,2016,2027
+DV1098Z,High Dose Rate (HDR) Brachytherapy of Prostate using Iridium 192 (Ir-192),DV1098,2016,2027
+DV1099,Iodine 125 (I-125),DV109,2016,2027
+DV1099Z,High Dose Rate (HDR) Brachytherapy of Prostate using Iodine 125 (I-125),DV1099,2016,2027
+DV109B,Palladium 103 (Pd-103),DV109,2016,2027
+DV109BZ,High Dose Rate (HDR) Brachytherapy of Prostate using Palladium 103 (Pd-103),DV109B,2016,2027
+DV109C,Californium 252 (Cf-252),DV109,2016,2027
+DV109CZ,High Dose Rate (HDR) Brachytherapy of Prostate using Californium 252 (Cf-252),DV109C,2016,2027
+DV109Y,Other Isotope,DV109,2016,2027
+DV109YZ,High Dose Rate (HDR) Brachytherapy of Prostate using Other Isotope,DV109Y,2016,2027
+DV10B,Low Dose Rate (LDR),DV10,2016,2027
+DV10B6,Cesium 131 (Cs-131),DV10B,2021,2027
+DV10B6Z,Low Dose Rate (LDR) Brachytherapy of Prostate using Cesium 131 (Cs-131),DV10B6,2021,2027
+DV10B7,Cesium 137 (Cs-137),DV10B,2016,2027
+DV10B7Z,Low Dose Rate (LDR) Brachytherapy of Prostate using Cesium 137 (Cs-137),DV10B7,2016,2027
+DV10B8,Iridium 192 (Ir-192),DV10B,2016,2027
+DV10B8Z,Low Dose Rate (LDR) Brachytherapy of Prostate using Iridium 192 (Ir-192),DV10B8,2016,2027
+DV10B9,Iodine 125 (I-125),DV10B,2016,2027
+DV10B9Z,Low Dose Rate (LDR) Brachytherapy of Prostate using Iodine 125 (I-125),DV10B9,2016,2027
+DV10BB,Palladium 103 (Pd-103),DV10B,2016,2027
+DV10BB1,"Low Dose Rate (LDR) Brachytherapy of Prostate using Palladium 103 (Pd-103), Unidirectional Source",DV10BB,2020,2027
+DV10BBZ,Low Dose Rate (LDR) Brachytherapy of Prostate using Palladium 103 (Pd-103),DV10BB,2016,2027
+DV10BC,Californium 252 (Cf-252),DV10B,2016,2027
+DV10BCZ,Low Dose Rate (LDR) Brachytherapy of Prostate using Californium 252 (Cf-252),DV10BC,2016,2027
+DV10BY,Other Isotope,DV10B,2016,2027
+DV10BYZ,Low Dose Rate (LDR) Brachytherapy of Prostate using Other Isotope,DV10BY,2016,2027
+DV11,Testis,DV1,2016,2027
+DV119,High Dose Rate (HDR),DV11,2016,2027
+DV1197,Cesium 137 (Cs-137),DV119,2016,2027
+DV1197Z,High Dose Rate (HDR) Brachytherapy of Testis using Cesium 137 (Cs-137),DV1197,2016,2027
+DV1198,Iridium 192 (Ir-192),DV119,2016,2027
+DV1198Z,High Dose Rate (HDR) Brachytherapy of Testis using Iridium 192 (Ir-192),DV1198,2016,2027
+DV1199,Iodine 125 (I-125),DV119,2016,2027
+DV1199Z,High Dose Rate (HDR) Brachytherapy of Testis using Iodine 125 (I-125),DV1199,2016,2027
+DV119B,Palladium 103 (Pd-103),DV119,2016,2027
+DV119BZ,High Dose Rate (HDR) Brachytherapy of Testis using Palladium 103 (Pd-103),DV119B,2016,2027
+DV119C,Californium 252 (Cf-252),DV119,2016,2027
+DV119CZ,High Dose Rate (HDR) Brachytherapy of Testis using Californium 252 (Cf-252),DV119C,2016,2027
+DV119Y,Other Isotope,DV119,2016,2027
+DV119YZ,High Dose Rate (HDR) Brachytherapy of Testis using Other Isotope,DV119Y,2016,2027
+DV11B,Low Dose Rate (LDR),DV11,2016,2027
+DV11B6,Cesium 131 (Cs-131),DV11B,2021,2027
+DV11B6Z,Low Dose Rate (LDR) Brachytherapy of Testis using Cesium 131 (Cs-131),DV11B6,2021,2027
+DV11B7,Cesium 137 (Cs-137),DV11B,2016,2027
+DV11B7Z,Low Dose Rate (LDR) Brachytherapy of Testis using Cesium 137 (Cs-137),DV11B7,2016,2027
+DV11B8,Iridium 192 (Ir-192),DV11B,2016,2027
+DV11B8Z,Low Dose Rate (LDR) Brachytherapy of Testis using Iridium 192 (Ir-192),DV11B8,2016,2027
+DV11B9,Iodine 125 (I-125),DV11B,2016,2027
+DV11B9Z,Low Dose Rate (LDR) Brachytherapy of Testis using Iodine 125 (I-125),DV11B9,2016,2027
+DV11BB,Palladium 103 (Pd-103),DV11B,2016,2027
+DV11BB1,"Low Dose Rate (LDR) Brachytherapy of Testis using Palladium 103 (Pd-103), Unidirectional Source",DV11BB,2020,2027
+DV11BBZ,Low Dose Rate (LDR) Brachytherapy of Testis using Palladium 103 (Pd-103),DV11BB,2016,2027
+DV11BC,Californium 252 (Cf-252),DV11B,2016,2027
+DV11BCZ,Low Dose Rate (LDR) Brachytherapy of Testis using Californium 252 (Cf-252),DV11BC,2016,2027
+DV11BY,Other Isotope,DV11B,2016,2027
+DV11BYZ,Low Dose Rate (LDR) Brachytherapy of Testis using Other Isotope,DV11BY,2016,2027
+DV2,Stereotactic Radiosurgery,DV,2016,2027
+DV20,Prostate,DV2,2016,2027
+DV20D,Stereotactic Other Photon Radiosurgery,DV20,2016,2027
+DV20DZ,None,DV20D,2016,2027
+DV20DZZ,Stereotactic Other Photon Radiosurgery of Prostate,DV20DZ,2016,2027
+DV20H,Stereotactic Particulate Radiosurgery,DV20,2016,2027
+DV20HZ,None,DV20H,2016,2027
+DV20HZZ,Stereotactic Particulate Radiosurgery of Prostate,DV20HZ,2016,2027
+DV20J,Stereotactic Gamma Beam Radiosurgery,DV20,2016,2027
+DV20JZ,None,DV20J,2016,2027
+DV20JZZ,Stereotactic Gamma Beam Radiosurgery of Prostate,DV20JZ,2016,2027
+DV21,Testis,DV2,2016,2027
+DV21D,Stereotactic Other Photon Radiosurgery,DV21,2016,2027
+DV21DZ,None,DV21D,2016,2027
+DV21DZZ,Stereotactic Other Photon Radiosurgery of Testis,DV21DZ,2016,2027
+DV21H,Stereotactic Particulate Radiosurgery,DV21,2016,2027
+DV21HZ,None,DV21H,2016,2027
+DV21HZZ,Stereotactic Particulate Radiosurgery of Testis,DV21HZ,2016,2027
+DV21J,Stereotactic Gamma Beam Radiosurgery,DV21,2016,2027
+DV21JZ,None,DV21J,2016,2027
+DV21JZZ,Stereotactic Gamma Beam Radiosurgery of Testis,DV21JZ,2016,2027
+DVY,Other Radiation,DV,2016,2027
+DVY0,Prostate,DVY,2016,2027
+DVY07,Contact Radiation,DVY0,2016,2027
+DVY07Z,None,DVY07,2016,2027
+DVY07ZZ,Contact Radiation of Prostate,DVY07Z,2016,2027
+DVY08,Hyperthermia,DVY0,2016,2027
+DVY08Z,None,DVY08,2016,2027
+DVY08ZZ,Hyperthermia of Prostate,DVY08Z,2016,2027
+DVY0C,Intraoperative Radiation Therapy (IORT),DVY0,2016,2027
+DVY0CZ,None,DVY0C,2016,2027
+DVY0CZZ,Intraoperative Radiation Therapy (IORT) of Prostate,DVY0CZ,2016,2027
+DVY0F,Plaque Radiation,DVY0,2016,2027
+DVY0FZ,None,DVY0F,2016,2027
+DVY0FZZ,Plaque Radiation of Prostate,DVY0FZ,2016,2027
+DVY0K,Laser Interstitial Thermal Therapy,DVY0,2016,2022
+DVY0KZ,None,DVY0K,2016,2022
+DVY0KZZ,Laser Interstitial Thermal Therapy of Prostate,DVY0KZ,2016,2022
+DVY1,Testis,DVY,2016,2027
+DVY17,Contact Radiation,DVY1,2016,2027
+DVY17Z,None,DVY17,2016,2027
+DVY17ZZ,Contact Radiation of Testis,DVY17Z,2016,2027
+DVY18,Hyperthermia,DVY1,2016,2027
+DVY18Z,None,DVY18,2016,2027
+DVY18ZZ,Hyperthermia of Testis,DVY18Z,2016,2027
+DVY1F,Plaque Radiation,DVY1,2016,2027
+DVY1FZ,None,DVY1F,2016,2027
+DVY1FZZ,Plaque Radiation of Testis,DVY1FZ,2016,2027

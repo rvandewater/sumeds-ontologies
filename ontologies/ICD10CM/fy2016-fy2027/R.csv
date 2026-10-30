@@ -1,0 +1,964 @@
+code,description,parent,first_year,last_year
+R00,Abnormalities of heart beat,,2016,2027
+R00.0,"Tachycardia, unspecified",R00,2016,2027
+R00.1,"Bradycardia, unspecified",R00,2016,2027
+R00.2,Palpitations,R00,2016,2027
+R00.8,Other abnormalities of heart beat,R00,2016,2027
+R00.9,Unspecified abnormalities of heart beat,R00,2016,2027
+R01,Cardiac murmurs and other cardiac sounds,,2016,2027
+R01.0,Benign and innocent cardiac murmurs,R01,2016,2027
+R01.1,"Cardiac murmur, unspecified",R01,2016,2027
+R01.2,Other cardiac sounds,R01,2016,2027
+R03,"Abnormal blood-pressure reading, without diagnosis",,2016,2027
+R03.0,"Elevated blood-pressure reading, without diagnosis of hypertension",R03,2016,2027
+R03.1,Nonspecific low blood-pressure reading,R03,2016,2027
+R04,Hemorrhage from respiratory passages,,2016,2027
+R04.0,Epistaxis,R04,2016,2027
+R04.1,Hemorrhage from throat,R04,2016,2027
+R04.2,Hemoptysis,R04,2016,2027
+R04.8,Hemorrhage from other sites in respiratory passages,R04,2016,2027
+R04.81,Acute idiopathic pulmonary hemorrhage in infants,R04.8,2016,2027
+R04.89,Hemorrhage from other sites in respiratory passages,R04.8,2016,2027
+R04.9,"Hemorrhage from respiratory passages, unspecified",R04,2016,2027
+R05,Cough,,2016,2027
+R05.1,Acute cough,R05,2022,2027
+R05.2,Subacute cough,R05,2022,2027
+R05.3,Chronic cough,R05,2022,2027
+R05.4,Cough syncope,R05,2022,2027
+R05.8,Other specified cough,R05,2022,2027
+R05.9,"Cough, unspecified",R05,2022,2027
+R06,Abnormalities of breathing,,2016,2027
+R06.0,Dyspnea,R06,2016,2027
+R06.00,"Dyspnea, unspecified",R06.0,2016,2027
+R06.01,Orthopnea,R06.0,2016,2027
+R06.02,Shortness of breath,R06.0,2016,2027
+R06.03,Acute respiratory distress,R06.0,2018,2027
+R06.09,Other forms of dyspnea,R06.0,2016,2027
+R06.1,Stridor,R06,2016,2027
+R06.2,Wheezing,R06,2016,2027
+R06.3,Periodic breathing,R06,2016,2027
+R06.4,Hyperventilation,R06,2016,2027
+R06.5,Mouth breathing,R06,2016,2027
+R06.6,Hiccough,R06,2016,2027
+R06.7,Sneezing,R06,2016,2027
+R06.8,Other abnormalities of breathing,R06,2016,2027
+R06.81,"Apnea, not elsewhere classified",R06.8,2016,2027
+R06.82,"Tachypnea, not elsewhere classified",R06.8,2016,2027
+R06.83,Snoring,R06.8,2016,2027
+R06.89,Other abnormalities of breathing,R06.8,2016,2027
+R06.9,Unspecified abnormalities of breathing,R06,2016,2027
+R07,Pain in throat and chest,,2016,2027
+R07.0,Pain in throat,R07,2016,2027
+R07.1,Chest pain on breathing,R07,2016,2027
+R07.2,Precordial pain,R07,2016,2027
+R07.8,Other chest pain,R07,2016,2027
+R07.81,Pleurodynia,R07.8,2016,2027
+R07.82,Intercostal pain,R07.8,2016,2027
+R07.89,Other chest pain,R07.8,2016,2027
+R07.9,"Chest pain, unspecified",R07,2016,2027
+R09,Other symptoms and signs involving the circulatory and respiratory system,,2016,2027
+R09.0,Asphyxia and hypoxemia,R09,2016,2027
+R09.01,Asphyxia,R09.0,2016,2027
+R09.02,Hypoxemia,R09.0,2016,2027
+R09.1,Pleurisy,R09,2016,2027
+R09.2,Respiratory arrest,R09,2016,2027
+R09.3,Abnormal sputum,R09,2016,2027
+R09.8,Other specified symptoms and signs involving the circulatory and respiratory systems,R09,2016,2027
+R09.81,Nasal congestion,R09.8,2016,2027
+R09.82,Postnasal drip,R09.8,2016,2027
+R09.89,Other specified symptoms and signs involving the circulatory and respiratory systems,R09.8,2016,2027
+R09.A,Foreign body sensation of the circulatory and respiratory system,R09,2024,2027
+R09.A0,"Foreign body sensation, unspecified",R09.A,2024,2027
+R09.A1,"Foreign body sensation, nose",R09.A,2024,2027
+R09.A2,"Foreign body sensation, throat",R09.A,2024,2027
+R09.A9,"Foreign body sensation, other site",R09.A,2024,2027
+R10,Abdominal and pelvic pain,,2016,2027
+R10.0,Acute abdomen,R10,2016,2027
+R10.1,Pain localized to upper abdomen,R10,2016,2027
+R10.10,"Upper abdominal pain, unspecified",R10.1,2016,2027
+R10.11,Right upper quadrant pain,R10.1,2016,2027
+R10.12,Left upper quadrant pain,R10.1,2016,2027
+R10.13,Epigastric pain,R10.1,2016,2027
+R10.2,Pelvic and perineal pain,R10,2016,2027
+R10.20,Pelvic and perineal pain unspecified side,R10.2,2026,2027
+R10.21,Pelvic and perineal pain right side,R10.2,2026,2027
+R10.22,Pelvic and perineal pain left side,R10.2,2026,2027
+R10.23,Pelvic and perineal pain bilateral,R10.2,2026,2027
+R10.24,Suprapubic pain,R10.2,2026,2027
+R10.3,Pain localized to other parts of lower abdomen,R10,2016,2027
+R10.30,"Lower abdominal pain, unspecified",R10.3,2016,2027
+R10.31,Right lower quadrant pain,R10.3,2016,2027
+R10.32,Left lower quadrant pain,R10.3,2016,2027
+R10.33,Periumbilical pain,R10.3,2016,2027
+R10.8,Other abdominal pain,R10,2016,2027
+R10.81,Abdominal tenderness,R10.8,2016,2027
+R10.811,Right upper quadrant abdominal tenderness,R10.81,2016,2027
+R10.812,Left upper quadrant abdominal tenderness,R10.81,2016,2027
+R10.813,Right lower quadrant abdominal tenderness,R10.81,2016,2027
+R10.814,Left lower quadrant abdominal tenderness,R10.81,2016,2027
+R10.815,Periumbilic abdominal tenderness,R10.81,2016,2027
+R10.816,Epigastric abdominal tenderness,R10.81,2016,2027
+R10.817,Generalized abdominal tenderness,R10.81,2016,2027
+R10.819,"Abdominal tenderness, unspecified site",R10.81,2016,2027
+R10.82,Rebound abdominal tenderness,R10.8,2016,2027
+R10.821,Right upper quadrant rebound abdominal tenderness,R10.82,2016,2027
+R10.822,Left upper quadrant rebound abdominal tenderness,R10.82,2016,2027
+R10.823,Right lower quadrant rebound abdominal tenderness,R10.82,2016,2027
+R10.824,Left lower quadrant rebound abdominal tenderness,R10.82,2016,2027
+R10.825,Periumbilic rebound abdominal tenderness,R10.82,2016,2027
+R10.826,Epigastric rebound abdominal tenderness,R10.82,2016,2027
+R10.827,Generalized rebound abdominal tenderness,R10.82,2016,2027
+R10.829,"Rebound abdominal tenderness, unspecified site",R10.82,2016,2027
+R10.83,Colic,R10.8,2016,2027
+R10.84,Generalized abdominal pain,R10.8,2016,2027
+R10.85,Abdominal pain of multiple sites,R10.8,2026,2027
+R10.8A,Flank tenderness,R10.8,2026,2027
+R10.8A1,Right flank tenderness,R10.8A,2026,2027
+R10.8A2,Left flank tenderness,R10.8A,2026,2027
+R10.8A3,Suprapubic tenderness,R10.8A,2026,2027
+R10.8A9,"Flank tenderness, unspecified",R10.8A,2026,2027
+R10.9,Unspecified abdominal pain,R10,2016,2027
+R10.A,Pain localized to flank,R10,2026,2027
+R10.A0,"Flank pain, unspecified side",R10.A,2026,2027
+R10.A1,"Flank pain, right side",R10.A,2026,2027
+R10.A2,"Flank pain, left side",R10.A,2026,2027
+R10.A3,"Flank pain, bilateral",R10.A,2026,2027
+R11,Nausea and vomiting,,2016,2027
+R11.0,Nausea,R11,2016,2027
+R11.1,Vomiting,R11,2016,2027
+R11.10,"Vomiting, unspecified",R11.1,2016,2027
+R11.11,Vomiting without nausea,R11.1,2016,2027
+R11.12,Projectile vomiting,R11.1,2016,2027
+R11.13,Vomiting of fecal matter,R11.1,2016,2027
+R11.14,Bilious vomiting,R11.1,2016,2027
+R11.15,Cyclical vomiting syndrome unrelated to migraine,R11.1,2020,2027
+R11.16,Cannabis hyperemesis syndrome,R11.1,2026,2027
+R11.2,"Nausea with vomiting, unspecified",R11,2016,2027
+R12,Heartburn,,2016,2027
+R13,Aphagia and dysphagia,,2016,2027
+R13.0,Aphagia,R13,2016,2027
+R13.1,Dysphagia,R13,2016,2027
+R13.10,"Dysphagia, unspecified",R13.1,2016,2027
+R13.11,"Dysphagia, oral phase",R13.1,2016,2027
+R13.12,"Dysphagia, oropharyngeal phase",R13.1,2016,2027
+R13.13,"Dysphagia, pharyngeal phase",R13.1,2016,2027
+R13.14,"Dysphagia, pharyngoesophageal phase",R13.1,2016,2027
+R13.19,Other dysphagia,R13.1,2016,2027
+R14,Flatulence and related conditions,,2016,2027
+R14.0,Abdominal distension (gaseous),R14,2016,2027
+R14.1,Gas pain,R14,2016,2027
+R14.2,Eructation,R14,2016,2027
+R14.3,Flatulence,R14,2016,2027
+R15,Fecal incontinence,,2016,2027
+R15.0,Incomplete defecation,R15,2016,2027
+R15.1,Fecal smearing,R15,2016,2027
+R15.2,Fecal urgency,R15,2016,2027
+R15.9,Full incontinence of feces,R15,2016,2027
+R16,"Hepatomegaly and splenomegaly, not elsewhere classified",,2016,2027
+R16.0,"Hepatomegaly, not elsewhere classified",R16,2016,2027
+R16.1,"Splenomegaly, not elsewhere classified",R16,2016,2027
+R16.2,"Hepatomegaly with splenomegaly, not elsewhere classified",R16,2016,2027
+R17,Unspecified jaundice,,2016,2027
+R18,Ascites,,2016,2027
+R18.0,Malignant ascites,R18,2016,2027
+R18.8,Other ascites,R18,2016,2027
+R19,Other symptoms and signs involving the digestive system and abdomen,,2016,2027
+R19.0,"Intra-abdominal and pelvic swelling, mass and lump",R19,2016,2027
+R19.00,"Intra-abdominal and pelvic swelling, mass and lump, unspecified site",R19.0,2016,2027
+R19.01,"Right upper quadrant abdominal swelling, mass and lump",R19.0,2016,2027
+R19.02,"Left upper quadrant abdominal swelling, mass and lump",R19.0,2016,2027
+R19.03,"Right lower quadrant abdominal swelling, mass and lump",R19.0,2016,2027
+R19.04,"Left lower quadrant abdominal swelling, mass and lump",R19.0,2016,2027
+R19.05,"Periumbilic swelling, mass or lump",R19.0,2016,2027
+R19.06,"Epigastric swelling, mass or lump",R19.0,2016,2027
+R19.07,"Generalized intra-abdominal and pelvic swelling, mass and lump",R19.0,2016,2027
+R19.09,"Other intra-abdominal and pelvic swelling, mass and lump",R19.0,2016,2027
+R19.1,Abnormal bowel sounds,R19,2016,2027
+R19.11,Absent bowel sounds,R19.1,2016,2027
+R19.12,Hyperactive bowel sounds,R19.1,2016,2027
+R19.15,Other abnormal bowel sounds,R19.1,2016,2027
+R19.2,Visible peristalsis,R19,2016,2027
+R19.3,Abdominal rigidity,R19,2016,2027
+R19.30,"Abdominal rigidity, unspecified site",R19.3,2016,2027
+R19.31,Right upper quadrant abdominal rigidity,R19.3,2016,2027
+R19.32,Left upper quadrant abdominal rigidity,R19.3,2016,2027
+R19.33,Right lower quadrant abdominal rigidity,R19.3,2016,2027
+R19.34,Left lower quadrant abdominal rigidity,R19.3,2016,2027
+R19.35,Periumbilic abdominal rigidity,R19.3,2016,2027
+R19.36,Epigastric abdominal rigidity,R19.3,2016,2027
+R19.37,Generalized abdominal rigidity,R19.3,2016,2027
+R19.4,Change in bowel habit,R19,2016,2027
+R19.5,Other fecal abnormalities,R19,2016,2027
+R19.6,Halitosis,R19,2016,2027
+R19.7,"Diarrhea, unspecified",R19,2016,2027
+R19.8,Other specified symptoms and signs involving the digestive system and abdomen,R19,2016,2027
+R20,Disturbances of skin sensation,,2016,2027
+R20.0,Anesthesia of skin,R20,2016,2027
+R20.1,Hypoesthesia of skin,R20,2016,2027
+R20.2,Paresthesia of skin,R20,2016,2027
+R20.3,Hyperesthesia,R20,2016,2027
+R20.8,Other disturbances of skin sensation,R20,2016,2027
+R20.9,Unspecified disturbances of skin sensation,R20,2016,2027
+R21,Rash and other nonspecific skin eruption,,2016,2027
+R22,"Localized swelling, mass and lump of skin and subcutaneous tissue",,2016,2027
+R22.0,"Localized swelling, mass and lump, head",R22,2016,2027
+R22.1,"Localized swelling, mass and lump, neck",R22,2016,2027
+R22.2,"Localized swelling, mass and lump, trunk",R22,2016,2027
+R22.3,"Localized swelling, mass and lump, upper limb",R22,2016,2027
+R22.30,"Localized swelling, mass and lump, unspecified upper limb",R22.3,2016,2027
+R22.31,"Localized swelling, mass and lump, right upper limb",R22.3,2016,2027
+R22.32,"Localized swelling, mass and lump, left upper limb",R22.3,2016,2027
+R22.33,"Localized swelling, mass and lump, upper limb, bilateral",R22.3,2016,2027
+R22.4,"Localized swelling, mass and lump, lower limb",R22,2016,2027
+R22.40,"Localized swelling, mass and lump, unspecified lower limb",R22.4,2016,2027
+R22.41,"Localized swelling, mass and lump, right lower limb",R22.4,2016,2027
+R22.42,"Localized swelling, mass and lump, left lower limb",R22.4,2016,2027
+R22.43,"Localized swelling, mass and lump, lower limb, bilateral",R22.4,2016,2027
+R22.9,"Localized swelling, mass and lump, unspecified",R22,2016,2027
+R23,Other skin changes,,2016,2027
+R23.0,Cyanosis,R23,2016,2027
+R23.1,Pallor,R23,2016,2027
+R23.2,Flushing,R23,2016,2027
+R23.3,Spontaneous ecchymoses,R23,2016,2027
+R23.4,Changes in skin texture,R23,2016,2027
+R23.8,Other skin changes,R23,2016,2027
+R23.9,Unspecified skin changes,R23,2016,2027
+R25,Abnormal involuntary movements,,2016,2027
+R25.0,Abnormal head movements,R25,2016,2027
+R25.1,"Tremor, unspecified",R25,2016,2027
+R25.2,Cramp and spasm,R25,2016,2027
+R25.3,Fasciculation,R25,2016,2027
+R25.8,Other abnormal involuntary movements,R25,2016,2027
+R25.9,Unspecified abnormal involuntary movements,R25,2016,2027
+R26,Abnormalities of gait and mobility,,2016,2027
+R26.0,Ataxic gait,R26,2016,2027
+R26.1,Paralytic gait,R26,2016,2027
+R26.2,"Difficulty in walking, not elsewhere classified",R26,2016,2027
+R26.8,Other abnormalities of gait and mobility,R26,2016,2027
+R26.81,Unsteadiness on feet,R26.8,2016,2027
+R26.89,Other abnormalities of gait and mobility,R26.8,2016,2027
+R26.9,Unspecified abnormalities of gait and mobility,R26,2016,2027
+R27,Other lack of coordination,,2016,2027
+R27.0,"Ataxia, unspecified",R27,2016,2027
+R27.8,Other lack of coordination,R27,2016,2027
+R27.9,Unspecified lack of coordination,R27,2016,2027
+R29,Other symptoms and signs involving the nervous and musculoskeletal systems,,2016,2027
+R29.0,Tetany,R29,2016,2027
+R29.1,Meningismus,R29,2016,2027
+R29.2,Abnormal reflex,R29,2016,2027
+R29.3,Abnormal posture,R29,2016,2027
+R29.4,Clicking hip,R29,2016,2027
+R29.5,Transient paralysis,R29,2016,2027
+R29.6,Repeated falls,R29,2016,2027
+R29.7,National Institutes of Health Stroke Scale (NIHSS) score,R29,2017,2027
+R29.70,NIHSS score 0-9,R29.7,2017,2027
+R29.700,NIHSS score 0,R29.70,2017,2027
+R29.701,NIHSS score 1,R29.70,2017,2027
+R29.702,NIHSS score 2,R29.70,2017,2027
+R29.703,NIHSS score 3,R29.70,2017,2027
+R29.704,NIHSS score 4,R29.70,2017,2027
+R29.705,NIHSS score 5,R29.70,2017,2027
+R29.706,NIHSS score 6,R29.70,2017,2027
+R29.707,NIHSS score 7,R29.70,2017,2027
+R29.708,NIHSS score 8,R29.70,2017,2027
+R29.709,NIHSS score 9,R29.70,2017,2027
+R29.71,NIHSS score 10-19,R29.7,2017,2027
+R29.710,NIHSS score 10,R29.71,2017,2027
+R29.711,NIHSS score 11,R29.71,2017,2027
+R29.712,NIHSS score 12,R29.71,2017,2027
+R29.713,NIHSS score 13,R29.71,2017,2027
+R29.714,NIHSS score 14,R29.71,2017,2027
+R29.715,NIHSS score 15,R29.71,2017,2027
+R29.716,NIHSS score 16,R29.71,2017,2027
+R29.717,NIHSS score 17,R29.71,2017,2027
+R29.718,NIHSS score 18,R29.71,2017,2027
+R29.719,NIHSS score 19,R29.71,2017,2027
+R29.72,NIHSS score 20-29,R29.7,2017,2027
+R29.720,NIHSS score 20,R29.72,2017,2027
+R29.721,NIHSS score 21,R29.72,2017,2027
+R29.722,NIHSS score 22,R29.72,2017,2027
+R29.723,NIHSS score 23,R29.72,2017,2027
+R29.724,NIHSS score 24,R29.72,2017,2027
+R29.725,NIHSS score 25,R29.72,2017,2027
+R29.726,NIHSS score 26,R29.72,2017,2027
+R29.727,NIHSS score 27,R29.72,2017,2027
+R29.728,NIHSS score 28,R29.72,2017,2027
+R29.729,NIHSS score 29,R29.72,2017,2027
+R29.73,NIHSS score 30-39,R29.7,2017,2027
+R29.730,NIHSS score 30,R29.73,2017,2027
+R29.731,NIHSS score 31,R29.73,2017,2027
+R29.732,NIHSS score 32,R29.73,2017,2027
+R29.733,NIHSS score 33,R29.73,2017,2027
+R29.734,NIHSS score 34,R29.73,2017,2027
+R29.735,NIHSS score 35,R29.73,2017,2027
+R29.736,NIHSS score 36,R29.73,2017,2027
+R29.737,NIHSS score 37,R29.73,2017,2027
+R29.738,NIHSS score 38,R29.73,2017,2027
+R29.739,NIHSS score 39,R29.73,2017,2027
+R29.74,NIHSS score 40-42,R29.7,2017,2027
+R29.740,NIHSS score 40,R29.74,2017,2027
+R29.741,NIHSS score 41,R29.74,2017,2027
+R29.742,NIHSS score 42,R29.74,2017,2027
+R29.8,Other symptoms and signs involving the nervous and musculoskeletal systems,R29,2016,2027
+R29.81,Other symptoms and signs involving the nervous system,R29.8,2016,2027
+R29.810,Facial weakness,R29.81,2016,2027
+R29.818,Other symptoms and signs involving the nervous system,R29.81,2016,2027
+R29.89,Other symptoms and signs involving the musculoskeletal system,R29.8,2016,2027
+R29.890,Loss of height,R29.89,2016,2027
+R29.891,Ocular torticollis,R29.89,2016,2027
+R29.898,Other symptoms and signs involving the musculoskeletal system,R29.89,2016,2027
+R29.9,Unspecified symptoms and signs involving the nervous and musculoskeletal systems,R29,2016,2027
+R29.90,Unspecified symptoms and signs involving the nervous system,R29.9,2016,2027
+R29.91,Unspecified symptoms and signs involving the musculoskeletal system,R29.9,2016,2027
+R30,Pain associated with micturition,,2016,2027
+R30.0,Dysuria,R30,2016,2027
+R30.1,Vesical tenesmus,R30,2016,2027
+R30.9,"Painful micturition, unspecified",R30,2016,2027
+R31,Hematuria,,2016,2027
+R31.0,Gross hematuria,R31,2016,2027
+R31.1,Benign essential microscopic hematuria,R31,2016,2027
+R31.2,Other microscopic hematuria,R31,2016,2027
+R31.21,Asymptomatic microscopic hematuria,R31.2,2017,2027
+R31.29,Other microscopic hematuria,R31.2,2017,2027
+R31.9,"Hematuria, unspecified",R31,2016,2027
+R32,Unspecified urinary incontinence,,2016,2027
+R33,Retention of urine,,2016,2027
+R33.0,Drug induced retention of urine,R33,2016,2027
+R33.8,Other retention of urine,R33,2016,2027
+R33.9,"Retention of urine, unspecified",R33,2016,2027
+R34,Anuria and oliguria,,2016,2027
+R35,Polyuria,,2016,2027
+R35.0,Frequency of micturition,R35,2016,2027
+R35.1,Nocturia,R35,2016,2027
+R35.8,Other polyuria,R35,2016,2027
+R35.81,Nocturnal polyuria,R35.8,2022,2027
+R35.89,Other polyuria,R35.8,2022,2027
+R36,Urethral discharge,,2016,2027
+R36.0,Urethral discharge without blood,R36,2016,2027
+R36.1,Hematospermia,R36,2016,2027
+R36.9,"Urethral discharge, unspecified",R36,2016,2027
+R37,"Sexual dysfunction, unspecified",,2016,2027
+R39,Other and unspecified symptoms and signs involving the genitourinary system,,2016,2027
+R39.0,Extravasation of urine,R39,2016,2027
+R39.1,Other difficulties with micturition,R39,2016,2027
+R39.11,Hesitancy of micturition,R39.1,2016,2027
+R39.12,Poor urinary stream,R39.1,2016,2027
+R39.13,Splitting of urinary stream,R39.1,2016,2027
+R39.14,Feeling of incomplete bladder emptying,R39.1,2016,2027
+R39.15,Urgency of urination,R39.1,2016,2027
+R39.16,Straining to void,R39.1,2016,2027
+R39.19,Other difficulties with micturition,R39.1,2016,2027
+R39.191,Need to immediately re-void,R39.19,2017,2027
+R39.192,Position dependent micturition,R39.19,2017,2027
+R39.198,Other difficulties with micturition,R39.19,2017,2027
+R39.2,Extrarenal uremia,R39,2016,2027
+R39.8,Other symptoms and signs involving the genitourinary system,R39,2016,2027
+R39.81,Functional urinary incontinence,R39.8,2016,2027
+R39.82,Chronic bladder pain,R39.8,2017,2027
+R39.83,Unilateral non-palpable testicle,R39.8,2018,2027
+R39.84,Bilateral non-palpable testicles,R39.8,2018,2027
+R39.85,Costovertebral (angle) tenderness,R39.8,2026,2027
+R39.851,"Costovertebral (angle) tenderness, right side",R39.85,2026,2027
+R39.852,"Costovertebral (angle) tenderness, left side",R39.85,2026,2027
+R39.853,"Costovertebral (angle) tenderness, bilateral",R39.85,2026,2027
+R39.859,"Costovertebral (angle) tenderness, unspecified side",R39.85,2026,2027
+R39.89,Other symptoms and signs involving the genitourinary system,R39.8,2016,2027
+R39.9,Unspecified symptoms and signs involving the genitourinary system,R39,2016,2027
+R40,"Somnolence, stupor and coma",,2016,2027
+R40.0,Somnolence,R40,2016,2027
+R40.1,Stupor,R40,2016,2027
+R40.2,Coma,R40,2016,2027
+R40.20,Unspecified coma,R40.2,2016,2027
+R40.21,"Coma scale, eyes open",R40.2,2016,2027
+R40.211,"Coma scale, eyes open, never",R40.21,2016,2027
+R40.2110,"Coma scale, eyes open, never, unspecified time",R40.211,2016,2027
+R40.2111,"Coma scale, eyes open, never, in the field [EMT or ambulance]",R40.211,2016,2027
+R40.2112,"Coma scale, eyes open, never, at arrival to emergency department",R40.211,2016,2027
+R40.2113,"Coma scale, eyes open, never, at hospital admission",R40.211,2016,2027
+R40.2114,"Coma scale, eyes open, never, 24 hours or more after hospital admission",R40.211,2016,2027
+R40.212,"Coma scale, eyes open, to pain",R40.21,2016,2027
+R40.2120,"Coma scale, eyes open, to pain, unspecified time",R40.212,2016,2027
+R40.2121,"Coma scale, eyes open, to pain, in the field [EMT or ambulance]",R40.212,2016,2027
+R40.2122,"Coma scale, eyes open, to pain, at arrival to emergency department",R40.212,2016,2027
+R40.2123,"Coma scale, eyes open, to pain, at hospital admission",R40.212,2016,2027
+R40.2124,"Coma scale, eyes open, to pain, 24 hours or more after hospital admission",R40.212,2016,2027
+R40.213,"Coma scale, eyes open, to sound",R40.21,2016,2027
+R40.2130,"Coma scale, eyes open, to sound, unspecified time",R40.213,2016,2027
+R40.2131,"Coma scale, eyes open, to sound, in the field [EMT or ambulance]",R40.213,2016,2027
+R40.2132,"Coma scale, eyes open, to sound, at arrival to emergency department",R40.213,2016,2027
+R40.2133,"Coma scale, eyes open, to sound, at hospital admission",R40.213,2016,2027
+R40.2134,"Coma scale, eyes open, to sound, 24 hours or more after hospital admission",R40.213,2016,2027
+R40.214,"Coma scale, eyes open, spontaneous",R40.21,2016,2027
+R40.2140,"Coma scale, eyes open, spontaneous, unspecified time",R40.214,2016,2027
+R40.2141,"Coma scale, eyes open, spontaneous, in the field [EMT or ambulance]",R40.214,2016,2027
+R40.2142,"Coma scale, eyes open, spontaneous, at arrival to emergency department",R40.214,2016,2027
+R40.2143,"Coma scale, eyes open, spontaneous, at hospital admission",R40.214,2016,2027
+R40.2144,"Coma scale, eyes open, spontaneous, 24 hours or more after hospital admission",R40.214,2016,2027
+R40.22,"Coma scale, best verbal response",R40.2,2016,2027
+R40.221,"Coma scale, best verbal response, none",R40.22,2016,2027
+R40.2210,"Coma scale, best verbal response, none, unspecified time",R40.221,2016,2027
+R40.2211,"Coma scale, best verbal response, none, in the field [EMT or ambulance]",R40.221,2016,2027
+R40.2212,"Coma scale, best verbal response, none, at arrival to emergency department",R40.221,2016,2027
+R40.2213,"Coma scale, best verbal response, none, at hospital admission",R40.221,2016,2027
+R40.2214,"Coma scale, best verbal response, none, 24 hours or more after hospital admission",R40.221,2016,2027
+R40.222,"Coma scale, best verbal response, incomprehensible words",R40.22,2016,2027
+R40.2220,"Coma scale, best verbal response, incomprehensible words, unspecified time",R40.222,2016,2027
+R40.2221,"Coma scale, best verbal response, incomprehensible words, in the field [EMT or ambulance]",R40.222,2016,2027
+R40.2222,"Coma scale, best verbal response, incomprehensible words, at arrival to emergency department",R40.222,2016,2027
+R40.2223,"Coma scale, best verbal response, incomprehensible words, at hospital admission",R40.222,2016,2027
+R40.2224,"Coma scale, best verbal response, incomprehensible words, 24 hours or more after hospital admission",R40.222,2016,2027
+R40.223,"Coma scale, best verbal response, inappropriate words",R40.22,2016,2027
+R40.2230,"Coma scale, best verbal response, inappropriate words, unspecified time",R40.223,2016,2027
+R40.2231,"Coma scale, best verbal response, inappropriate words, in the field [EMT or ambulance]",R40.223,2016,2027
+R40.2232,"Coma scale, best verbal response, inappropriate words, at arrival to emergency department",R40.223,2016,2027
+R40.2233,"Coma scale, best verbal response, inappropriate words, at hospital admission",R40.223,2016,2027
+R40.2234,"Coma scale, best verbal response, inappropriate words, 24 hours or more after hospital admission",R40.223,2016,2027
+R40.224,"Coma scale, best verbal response, confused conversation",R40.22,2016,2027
+R40.2240,"Coma scale, best verbal response, confused conversation, unspecified time",R40.224,2016,2027
+R40.2241,"Coma scale, best verbal response, confused conversation, in the field [EMT or ambulance]",R40.224,2016,2027
+R40.2242,"Coma scale, best verbal response, confused conversation, at arrival to emergency department",R40.224,2016,2027
+R40.2243,"Coma scale, best verbal response, confused conversation, at hospital admission",R40.224,2016,2027
+R40.2244,"Coma scale, best verbal response, confused conversation, 24 hours or more after hospital admission",R40.224,2016,2027
+R40.225,"Coma scale, best verbal response, oriented",R40.22,2016,2027
+R40.2250,"Coma scale, best verbal response, oriented, unspecified time",R40.225,2016,2027
+R40.2251,"Coma scale, best verbal response, oriented, in the field [EMT or ambulance]",R40.225,2016,2027
+R40.2252,"Coma scale, best verbal response, oriented, at arrival to emergency department",R40.225,2016,2027
+R40.2253,"Coma scale, best verbal response, oriented, at hospital admission",R40.225,2016,2027
+R40.2254,"Coma scale, best verbal response, oriented, 24 hours or more after hospital admission",R40.225,2016,2027
+R40.23,"Coma scale, best motor response",R40.2,2016,2027
+R40.231,"Coma scale, best motor response, none",R40.23,2016,2027
+R40.2310,"Coma scale, best motor response, none, unspecified time",R40.231,2016,2027
+R40.2311,"Coma scale, best motor response, none, in the field [EMT or ambulance]",R40.231,2016,2027
+R40.2312,"Coma scale, best motor response, none, at arrival to emergency department",R40.231,2016,2027
+R40.2313,"Coma scale, best motor response, none, at hospital admission",R40.231,2016,2027
+R40.2314,"Coma scale, best motor response, none, 24 hours or more after hospital admission",R40.231,2016,2027
+R40.232,"Coma scale, best motor response, extension",R40.23,2016,2027
+R40.2320,"Coma scale, best motor response, extension, unspecified time",R40.232,2016,2027
+R40.2321,"Coma scale, best motor response, extension, in the field [EMT or ambulance]",R40.232,2016,2027
+R40.2322,"Coma scale, best motor response, extension, at arrival to emergency department",R40.232,2016,2027
+R40.2323,"Coma scale, best motor response, extension, at hospital admission",R40.232,2016,2027
+R40.2324,"Coma scale, best motor response, extension, 24 hours or more after hospital admission",R40.232,2016,2027
+R40.233,"Coma scale, best motor response, abnormal flexion",R40.23,2016,2027
+R40.2330,"Coma scale, best motor response, abnormal flexion, unspecified time",R40.233,2016,2027
+R40.2331,"Coma scale, best motor response, abnormal flexion, in the field [EMT or ambulance]",R40.233,2016,2027
+R40.2332,"Coma scale, best motor response, abnormal flexion, at arrival to emergency department",R40.233,2016,2027
+R40.2333,"Coma scale, best motor response, abnormal flexion, at hospital admission",R40.233,2016,2027
+R40.2334,"Coma scale, best motor response, abnormal flexion, 24 hours or more after hospital admission",R40.233,2016,2027
+R40.234,"Coma scale, best motor response, flexion withdrawal",R40.23,2016,2027
+R40.2340,"Coma scale, best motor response, flexion withdrawal, unspecified time",R40.234,2016,2027
+R40.2341,"Coma scale, best motor response, flexion withdrawal, in the field [EMT or ambulance]",R40.234,2016,2027
+R40.2342,"Coma scale, best motor response, flexion withdrawal, at arrival to emergency department",R40.234,2016,2027
+R40.2343,"Coma scale, best motor response, flexion withdrawal, at hospital admission",R40.234,2016,2027
+R40.2344,"Coma scale, best motor response, flexion withdrawal, 24 hours or more after hospital admission",R40.234,2016,2027
+R40.235,"Coma scale, best motor response, localizes pain",R40.23,2016,2027
+R40.2350,"Coma scale, best motor response, localizes pain, unspecified time",R40.235,2016,2027
+R40.2351,"Coma scale, best motor response, localizes pain, in the field [EMT or ambulance]",R40.235,2016,2027
+R40.2352,"Coma scale, best motor response, localizes pain, at arrival to emergency department",R40.235,2016,2027
+R40.2353,"Coma scale, best motor response, localizes pain, at hospital admission",R40.235,2016,2027
+R40.2354,"Coma scale, best motor response, localizes pain, 24 hours or more after hospital admission",R40.235,2016,2027
+R40.236,"Coma scale, best motor response, obeys commands",R40.23,2016,2027
+R40.2360,"Coma scale, best motor response, obeys commands, unspecified time",R40.236,2016,2027
+R40.2361,"Coma scale, best motor response, obeys commands, in the field [EMT or ambulance]",R40.236,2016,2027
+R40.2362,"Coma scale, best motor response, obeys commands, at arrival to emergency department",R40.236,2016,2027
+R40.2363,"Coma scale, best motor response, obeys commands, at hospital admission",R40.236,2016,2027
+R40.2364,"Coma scale, best motor response, obeys commands, 24 hours or more after hospital admission",R40.236,2016,2027
+R40.24,"Glasgow coma scale, total score",R40.2,2016,2027
+R40.241,Glasgow coma scale score 13-15,R40.24,2016,2027
+R40.2410,"Glasgow coma scale score 13-15, unspecified time",R40.241,2017,2027
+R40.2411,"Glasgow coma scale score 13-15, in the field [EMT or ambulance]",R40.241,2017,2027
+R40.2412,"Glasgow coma scale score 13-15, at arrival to emergency department",R40.241,2017,2027
+R40.2413,"Glasgow coma scale score 13-15, at hospital admission",R40.241,2017,2027
+R40.2414,"Glasgow coma scale score 13-15, 24 hours or more after hospital admission",R40.241,2017,2027
+R40.242,Glasgow coma scale score 9-12,R40.24,2016,2027
+R40.2420,"Glasgow coma scale score 9-12, unspecified time",R40.242,2017,2027
+R40.2421,"Glasgow coma scale score 9-12, in the field [EMT or ambulance]",R40.242,2017,2027
+R40.2422,"Glasgow coma scale score 9-12, at arrival to emergency department",R40.242,2017,2027
+R40.2423,"Glasgow coma scale score 9-12, at hospital admission",R40.242,2017,2027
+R40.2424,"Glasgow coma scale score 9-12, 24 hours or more after hospital admission",R40.242,2017,2027
+R40.243,Glasgow coma scale score 3-8,R40.24,2016,2027
+R40.2430,"Glasgow coma scale score 3-8, unspecified time",R40.243,2017,2027
+R40.2431,"Glasgow coma scale score 3-8, in the field [EMT or ambulance]",R40.243,2017,2027
+R40.2432,"Glasgow coma scale score 3-8, at arrival to emergency department",R40.243,2017,2027
+R40.2433,"Glasgow coma scale score 3-8, at hospital admission",R40.243,2017,2027
+R40.2434,"Glasgow coma scale score 3-8, 24 hours or more after hospital admission",R40.243,2017,2027
+R40.244,"Other coma, without documented Glasgow coma scale score, or with partial score reported",R40.24,2016,2027
+R40.2440,"Other coma, without documented Glasgow coma scale score, or with partial score reported, unspecified time",R40.244,2017,2027
+R40.2441,"Other coma, without documented Glasgow coma scale score, or with partial score reported, in the field [EMT or ambulance]",R40.244,2017,2027
+R40.2442,"Other coma, without documented Glasgow coma scale score, or with partial score reported, at arrival to emergency department",R40.244,2017,2027
+R40.2443,"Other coma, without documented Glasgow coma scale score, or with partial score reported, at hospital admission",R40.244,2017,2027
+R40.2444,"Other coma, without documented Glasgow coma scale score, or with partial score reported, 24 hours or more after hospital admission",R40.244,2017,2027
+R40.2A,Nontraumatic coma due to underlying condition,R40.2,2024,2027
+R40.3,Persistent vegetative state,R40,2016,2027
+R40.4,Transient alteration of awareness,R40,2016,2027
+R41,Other symptoms and signs involving cognitive functions and awareness,,2016,2027
+R41.0,"Disorientation, unspecified",R41,2016,2027
+R41.1,Anterograde amnesia,R41,2016,2027
+R41.2,Retrograde amnesia,R41,2016,2027
+R41.3,Other amnesia,R41,2016,2027
+R41.4,Neurologic neglect syndrome,R41,2016,2027
+R41.8,Other symptoms and signs involving cognitive functions and awareness,R41,2016,2027
+R41.81,Age-related cognitive decline,R41.8,2016,2027
+R41.82,"Altered mental status, unspecified",R41.8,2016,2027
+R41.83,Borderline intellectual functioning,R41.8,2016,2027
+R41.84,Other specified cognitive deficit,R41.8,2016,2027
+R41.840,Attention and concentration deficit,R41.84,2016,2027
+R41.841,Cognitive communication deficit,R41.84,2016,2027
+R41.842,Visuospatial deficit,R41.84,2016,2027
+R41.843,Psychomotor deficit,R41.84,2016,2027
+R41.844,Frontal lobe and executive function deficit,R41.84,2016,2027
+R41.85,Anosognosia,R41.8,2025,2027
+R41.89,Other symptoms and signs involving cognitive functions and awareness,R41.8,2016,2027
+R41.9,Unspecified symptoms and signs involving cognitive functions and awareness,R41,2016,2027
+R42,Dizziness and giddiness,,2016,2027
+R43,Disturbances of smell and taste,,2016,2027
+R43.0,Anosmia,R43,2016,2027
+R43.1,Parosmia,R43,2016,2027
+R43.2,Parageusia,R43,2016,2027
+R43.8,Other disturbances of smell and taste,R43,2016,2027
+R43.9,Unspecified disturbances of smell and taste,R43,2016,2027
+R44,Other symptoms and signs involving general sensations and perceptions,,2016,2027
+R44.0,Auditory hallucinations,R44,2016,2027
+R44.1,Visual hallucinations,R44,2016,2027
+R44.2,Other hallucinations,R44,2016,2027
+R44.3,"Hallucinations, unspecified",R44,2016,2027
+R44.8,Other symptoms and signs involving general sensations and perceptions,R44,2016,2027
+R44.9,Unspecified symptoms and signs involving general sensations and perceptions,R44,2016,2027
+R45,Symptoms and signs involving emotional state,,2016,2027
+R45.0,Nervousness,R45,2016,2027
+R45.1,Restlessness and agitation,R45,2016,2027
+R45.2,Unhappiness,R45,2016,2027
+R45.3,Demoralization and apathy,R45,2016,2027
+R45.4,Irritability and anger,R45,2016,2027
+R45.5,Hostility,R45,2016,2027
+R45.6,Violent behavior,R45,2016,2027
+R45.7,"State of emotional shock and stress, unspecified",R45,2016,2027
+R45.8,Other symptoms and signs involving emotional state,R45,2016,2027
+R45.81,Low self-esteem,R45.8,2016,2027
+R45.82,Worries,R45.8,2016,2027
+R45.83,"Excessive crying of child, adolescent or adult",R45.8,2016,2027
+R45.84,Anhedonia,R45.8,2016,2027
+R45.85,Homicidal and suicidal ideations,R45.8,2016,2027
+R45.850,Homicidal ideations,R45.85,2016,2027
+R45.851,Suicidal ideations,R45.85,2016,2027
+R45.86,Emotional lability,R45.8,2016,2027
+R45.87,Impulsiveness,R45.8,2016,2027
+R45.88,Nonsuicidal self-harm,R45.8,2022,2027
+R45.89,Other symptoms and signs involving emotional state,R45.8,2016,2027
+R46,Symptoms and signs involving appearance and behavior,,2016,2027
+R46.0,Very low level of personal hygiene,R46,2016,2027
+R46.1,Bizarre personal appearance,R46,2016,2027
+R46.2,Strange and inexplicable behavior,R46,2016,2027
+R46.3,Overactivity,R46,2016,2027
+R46.4,Slowness and poor responsiveness,R46,2016,2027
+R46.5,Suspiciousness and marked evasiveness,R46,2016,2027
+R46.6,Undue concern and preoccupation with stressful events,R46,2016,2027
+R46.7,Verbosity and circumstantial detail obscuring reason for contact,R46,2016,2027
+R46.8,Other symptoms and signs involving appearance and behavior,R46,2016,2027
+R46.81,Obsessive-compulsive behavior,R46.8,2016,2027
+R46.89,Other symptoms and signs involving appearance and behavior,R46.8,2016,2027
+R47,"Speech disturbances, not elsewhere classified",,2016,2027
+R47.0,Dysphasia and aphasia,R47,2016,2027
+R47.01,Aphasia,R47.0,2016,2027
+R47.02,Dysphasia,R47.0,2016,2027
+R47.1,Dysarthria and anarthria,R47,2016,2027
+R47.8,Other speech disturbances,R47,2016,2027
+R47.81,Slurred speech,R47.8,2016,2027
+R47.82,Fluency disorder in conditions classified elsewhere,R47.8,2016,2027
+R47.89,Other speech disturbances,R47.8,2016,2027
+R47.9,Unspecified speech disturbances,R47,2016,2027
+R48,"Dyslexia and other symbolic dysfunctions, not elsewhere classified",,2016,2027
+R48.0,Dyslexia and alexia,R48,2016,2027
+R48.1,Agnosia,R48,2016,2027
+R48.2,Apraxia,R48,2016,2027
+R48.3,Visual agnosia,R48,2016,2027
+R48.8,Other symbolic dysfunctions,R48,2016,2027
+R48.9,Unspecified symbolic dysfunctions,R48,2016,2027
+R49,Voice and resonance disorders,,2016,2027
+R49.0,Dysphonia,R49,2016,2027
+R49.1,Aphonia,R49,2016,2027
+R49.2,Hypernasality and hyponasality,R49,2016,2027
+R49.21,Hypernasality,R49.2,2016,2027
+R49.22,Hyponasality,R49.2,2016,2027
+R49.8,Other voice and resonance disorders,R49,2016,2027
+R49.9,Unspecified voice and resonance disorder,R49,2016,2027
+R50,Fever of other and unknown origin,,2016,2027
+R50.2,Drug induced fever,R50,2016,2027
+R50.8,Other specified fever,R50,2016,2027
+R50.81,Fever presenting with conditions classified elsewhere,R50.8,2016,2027
+R50.82,Postprocedural fever,R50.8,2016,2027
+R50.83,Postvaccination fever,R50.8,2016,2027
+R50.84,Febrile nonhemolytic transfusion reaction,R50.8,2016,2027
+R50.9,"Fever, unspecified",R50,2016,2027
+R51,Headache,,2016,2027
+R51.0,"Headache with orthostatic component, not elsewhere classified",R51,2021,2027
+R51.9,"Headache, unspecified",R51,2021,2027
+R52,"Pain, unspecified",,2016,2027
+R53,Malaise and fatigue,,2016,2027
+R53.0,Neoplastic (malignant) related fatigue,R53,2016,2027
+R53.1,Weakness,R53,2016,2027
+R53.2,Functional quadriplegia,R53,2016,2027
+R53.8,Other malaise and fatigue,R53,2016,2027
+R53.81,Other malaise,R53.8,2016,2027
+R53.82,"Chronic fatigue, unspecified",R53.8,2016,2027
+R53.83,Other fatigue,R53.8,2016,2027
+R54,Age-related physical debility,,2016,2027
+R55,Syncope and collapse,,2016,2027
+R56,"Convulsions, not elsewhere classified",,2016,2027
+R56.0,Febrile convulsions,R56,2016,2027
+R56.00,Simple febrile convulsions,R56.0,2016,2027
+R56.01,Complex febrile convulsions,R56.0,2016,2027
+R56.1,Post traumatic seizures,R56,2016,2027
+R56.9,Unspecified convulsions,R56,2016,2027
+R57,"Shock, not elsewhere classified",,2016,2027
+R57.0,Cardiogenic shock,R57,2016,2027
+R57.1,Hypovolemic shock,R57,2016,2027
+R57.8,Other shock,R57,2016,2027
+R57.9,"Shock, unspecified",R57,2016,2027
+R58,"Hemorrhage, not elsewhere classified",,2016,2027
+R59,Enlarged lymph nodes,,2016,2027
+R59.0,Localized enlarged lymph nodes,R59,2016,2027
+R59.1,Generalized enlarged lymph nodes,R59,2016,2027
+R59.9,"Enlarged lymph nodes, unspecified",R59,2016,2027
+R60,"Edema, not elsewhere classified",,2016,2027
+R60.0,Localized edema,R60,2016,2027
+R60.1,Generalized edema,R60,2016,2027
+R60.9,"Edema, unspecified",R60,2016,2027
+R61,Generalized hyperhidrosis,,2016,2027
+R62,Lack of expected normal physiological development in childhood and adults,,2016,2027
+R62.0,Delayed milestone in childhood,R62,2016,2027
+R62.5,Other and unspecified lack of expected normal physiological development in childhood,R62,2016,2027
+R62.50,Unspecified lack of expected normal physiological development in childhood,R62.5,2016,2027
+R62.51,Failure to thrive (child),R62.5,2016,2027
+R62.52,Short stature (child),R62.5,2016,2027
+R62.59,Other lack of expected normal physiological development in childhood,R62.5,2016,2027
+R62.7,Adult failure to thrive,R62,2016,2027
+R63,Symptoms and signs concerning food and fluid intake,,2016,2027
+R63.0,Anorexia,R63,2016,2027
+R63.1,Polydipsia,R63,2016,2027
+R63.2,Polyphagia,R63,2016,2027
+R63.3,Feeding difficulties,R63,2016,2027
+R63.30,"Feeding difficulties, unspecified",R63.3,2022,2027
+R63.31,"Pediatric feeding disorder, acute",R63.3,2022,2027
+R63.32,"Pediatric feeding disorder, chronic",R63.3,2022,2027
+R63.39,Other feeding difficulties,R63.3,2022,2027
+R63.4,Abnormal weight loss,R63,2016,2027
+R63.5,Abnormal weight gain,R63,2016,2027
+R63.6,Underweight,R63,2016,2027
+R63.8,Other symptoms and signs concerning food and fluid intake,R63,2016,2027
+R64,Cachexia,,2016,2027
+R65,Symptoms and signs specifically associated with systemic inflammation and infection,,2016,2027
+R65.1,Systemic inflammatory response syndrome (SIRS) of non-infectious origin,R65,2016,2027
+R65.10,Systemic inflammatory response syndrome (SIRS) of non-infectious origin without acute organ dysfunction,R65.1,2016,2027
+R65.11,Systemic inflammatory response syndrome (SIRS) of non-infectious origin with acute organ dysfunction,R65.1,2016,2027
+R65.2,Severe sepsis,R65,2016,2027
+R65.20,Severe sepsis without septic shock,R65.2,2016,2027
+R65.21,Severe sepsis with septic shock,R65.2,2016,2027
+R68,Other general symptoms and signs,,2016,2027
+R68.0,"Hypothermia, not associated with low environmental temperature",R68,2016,2027
+R68.1,Nonspecific symptoms peculiar to infancy,R68,2016,2027
+R68.11,Excessive crying of infant (baby),R68.1,2016,2027
+R68.12,Fussy infant (baby),R68.1,2016,2027
+R68.13,Apparent life threatening event in infant (ALTE),R68.1,2016,2027
+R68.19,Other nonspecific symptoms peculiar to infancy,R68.1,2016,2027
+R68.2,"Dry mouth, unspecified",R68,2016,2027
+R68.3,Clubbing of fingers,R68,2016,2027
+R68.8,Other general symptoms and signs,R68,2016,2027
+R68.81,Early satiety,R68.8,2016,2027
+R68.82,Decreased libido,R68.8,2016,2027
+R68.83,Chills (without fever),R68.8,2016,2027
+R68.84,Jaw pain,R68.8,2016,2027
+R68.89,Other general symptoms and signs,R68.8,2016,2027
+R69,"Illness, unspecified",,2016,2027
+R70,Elevated erythrocyte sedimentation rate and abnormality of plasma viscosity,,2016,2027
+R70.0,Elevated erythrocyte sedimentation rate,R70,2016,2027
+R70.1,Abnormal plasma viscosity,R70,2016,2027
+R71,Abnormality of red blood cells,,2016,2027
+R71.0,Precipitous drop in hematocrit,R71,2016,2027
+R71.8,Other abnormality of red blood cells,R71,2016,2027
+R73,Elevated blood glucose level,,2016,2027
+R73.0,Abnormal glucose,R73,2016,2027
+R73.01,Impaired fasting glucose,R73.0,2016,2027
+R73.02,Impaired glucose tolerance (oral),R73.0,2016,2027
+R73.03,Prediabetes,R73.0,2017,2027
+R73.09,Other abnormal glucose,R73.0,2016,2027
+R73.9,"Hyperglycemia, unspecified",R73,2016,2027
+R74,Abnormal serum enzyme levels,,2016,2027
+R74.0,Nonspecific elevation of levels of transaminase and lactic acid dehydrogenase [LDH],R74,2016,2027
+R74.01,Elevation of levels of liver transaminase levels,R74.0,2021,2027
+R74.02,Elevation of levels of lactic acid dehydrogenase [LDH],R74.0,2021,2027
+R74.8,Abnormal levels of other serum enzymes,R74,2016,2027
+R74.9,"Abnormal serum enzyme level, unspecified",R74,2016,2027
+R75,Inconclusive laboratory evidence of human immunodeficiency virus [HIV],,2016,2027
+R76,Other abnormal immunological findings in serum,,2016,2027
+R76.0,Raised antibody titer,R76,2016,2027
+R76.1,Nonspecific reaction to test for tuberculosis,R76,2016,2027
+R76.11,Nonspecific reaction to tuberculin skin test without active tuberculosis,R76.1,2016,2027
+R76.12,Nonspecific reaction to cell mediated immunity measurement of gamma interferon antigen response without active tuberculosis,R76.1,2016,2027
+R76.8,Other specified abnormal immunological findings in serum,R76,2016,2027
+R76.81,Abnormal rheumatoid factor and anti-citrullinated protein antibody without rheumatoid arthritis,R76.8,2026,2027
+R76.89,Other specified abnormal immunological findings in serum,R76.8,2026,2027
+R76.9,"Abnormal immunological finding in serum, unspecified",R76,2016,2027
+R77,Other abnormalities of plasma proteins,,2016,2027
+R77.0,Abnormality of albumin,R77,2016,2027
+R77.1,Abnormality of globulin,R77,2016,2027
+R77.2,Abnormality of alphafetoprotein,R77,2016,2027
+R77.8,Other specified abnormalities of plasma proteins,R77,2016,2027
+R77.9,"Abnormality of plasma protein, unspecified",R77,2016,2027
+R78,"Findings of drugs and other substances, not normally found in blood",,2016,2027
+R78.0,Finding of alcohol in blood,R78,2016,2027
+R78.1,Finding of opiate drug in blood,R78,2016,2027
+R78.2,Finding of cocaine in blood,R78,2016,2027
+R78.3,Finding of hallucinogen in blood,R78,2016,2027
+R78.4,Finding of other drugs of addictive potential in blood,R78,2016,2027
+R78.5,Finding of other psychotropic drug in blood,R78,2016,2027
+R78.6,Finding of steroid agent in blood,R78,2016,2027
+R78.7,Finding of abnormal level of heavy metals in blood,R78,2016,2027
+R78.71,Abnormal lead level in blood,R78.7,2016,2027
+R78.72,Abnormal gadolinium level in blood,R78.7,2027,2027
+R78.79,Finding of abnormal level of heavy metals in blood,R78.7,2016,2027
+R78.8,"Finding of other specified substances, not normally found in blood",R78,2016,2027
+R78.81,Bacteremia,R78.8,2016,2027
+R78.89,"Finding of other specified substances, not normally found in blood",R78.8,2016,2027
+R78.9,"Finding of unspecified substance, not normally found in blood",R78,2016,2027
+R79,Other abnormal findings of blood chemistry,,2016,2027
+R79.0,Abnormal level of blood mineral,R79,2016,2027
+R79.1,Abnormal coagulation profile,R79,2016,2027
+R79.8,Other specified abnormal findings of blood chemistry,R79,2016,2027
+R79.81,Abnormal blood-gas level,R79.8,2016,2027
+R79.82,Elevated C-reactive protein (CRP),R79.8,2016,2027
+R79.83,Abnormal findings of blood amino-acid level,R79.8,2022,2027
+R79.89,Other specified abnormal findings of blood chemistry,R79.8,2016,2027
+R79.9,"Abnormal finding of blood chemistry, unspecified",R79,2016,2027
+R80,Proteinuria,,2016,2027
+R80.0,Isolated proteinuria,R80,2016,2027
+R80.1,"Persistent proteinuria, unspecified",R80,2016,2027
+R80.2,"Orthostatic proteinuria, unspecified",R80,2016,2027
+R80.3,Bence Jones proteinuria,R80,2016,2027
+R80.8,Other proteinuria,R80,2016,2027
+R80.9,"Proteinuria, unspecified",R80,2016,2027
+R81,Glycosuria,,2016,2027
+R82,Other and unspecified abnormal findings in urine,,2016,2027
+R82.0,Chyluria,R82,2016,2027
+R82.1,Myoglobinuria,R82,2016,2027
+R82.2,Biliuria,R82,2016,2027
+R82.3,Hemoglobinuria,R82,2016,2027
+R82.4,Acetonuria,R82,2016,2027
+R82.5,"Elevated urine levels of drugs, medicaments and biological substances",R82,2016,2027
+R82.6,Abnormal urine levels of substances chiefly nonmedicinal as to source,R82,2016,2027
+R82.7,Abnormal findings on microbiological examination of urine,R82,2016,2027
+R82.71,Bacteriuria,R82.7,2017,2027
+R82.79,Other abnormal findings on microbiological examination of urine,R82.7,2017,2027
+R82.8,Abnormal findings on cytological and histological examination of urine,R82,2016,2027
+R82.81,Pyuria,R82.8,2020,2027
+R82.89,Other abnormal findings on cytological and histological examination of urine,R82.8,2020,2027
+R82.9,Other and unspecified abnormal findings in urine,R82,2016,2027
+R82.90,Unspecified abnormal findings in urine,R82.9,2016,2027
+R82.91,Other chromoabnormalities of urine,R82.9,2016,2027
+R82.99,Other abnormal findings in urine,R82.9,2016,2027
+R82.991,Hypocitraturia,R82.99,2019,2027
+R82.992,Hyperoxaluria,R82.99,2019,2027
+R82.993,Hyperuricosuria,R82.99,2019,2027
+R82.994,Hypercalciuria,R82.99,2019,2027
+R82.998,Other abnormal findings in urine,R82.99,2019,2027
+R83,Abnormal findings in cerebrospinal fluid,,2016,2027
+R83.0,Abnormal level of enzymes in cerebrospinal fluid,R83,2016,2027
+R83.1,Abnormal level of hormones in cerebrospinal fluid,R83,2016,2027
+R83.2,"Abnormal level of other drugs, medicaments and biological substances in cerebrospinal fluid",R83,2016,2027
+R83.3,Abnormal level of substances chiefly nonmedicinal as to source in cerebrospinal fluid,R83,2016,2027
+R83.4,Abnormal immunological findings in cerebrospinal fluid,R83,2016,2027
+R83.5,Abnormal microbiological findings in cerebrospinal fluid,R83,2016,2027
+R83.6,Abnormal cytological findings in cerebrospinal fluid,R83,2016,2027
+R83.8,Other abnormal findings in cerebrospinal fluid,R83,2016,2027
+R83.9,Unspecified abnormal finding in cerebrospinal fluid,R83,2016,2027
+R84,Abnormal findings in specimens from respiratory organs and thorax,,2016,2027
+R84.0,Abnormal level of enzymes in specimens from respiratory organs and thorax,R84,2016,2027
+R84.1,Abnormal level of hormones in specimens from respiratory organs and thorax,R84,2016,2027
+R84.2,"Abnormal level of other drugs, medicaments and biological substances in specimens from respiratory organs and thorax",R84,2016,2027
+R84.3,Abnormal level of substances chiefly nonmedicinal as to source in specimens from respiratory organs and thorax,R84,2016,2027
+R84.4,Abnormal immunological findings in specimens from respiratory organs and thorax,R84,2016,2027
+R84.5,Abnormal microbiological findings in specimens from respiratory organs and thorax,R84,2016,2027
+R84.6,Abnormal cytological findings in specimens from respiratory organs and thorax,R84,2016,2027
+R84.7,Abnormal histological findings in specimens from respiratory organs and thorax,R84,2016,2027
+R84.8,Other abnormal findings in specimens from respiratory organs and thorax,R84,2016,2027
+R84.9,Unspecified abnormal finding in specimens from respiratory organs and thorax,R84,2016,2027
+R85,Abnormal findings in specimens from digestive organs and abdominal cavity,,2016,2027
+R85.0,Abnormal level of enzymes in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.1,Abnormal level of hormones in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.2,"Abnormal level of other drugs, medicaments and biological substances in specimens from digestive organs and abdominal cavity",R85,2016,2027
+R85.3,Abnormal level of substances chiefly nonmedicinal as to source in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.4,Abnormal immunological findings in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.5,Abnormal microbiological findings in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.6,Abnormal cytological findings in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.61,Abnormal cytologic smear of anus,R85.6,2016,2027
+R85.610,Atypical squamous cells of undetermined significance on cytologic smear of anus (ASC-US),R85.61,2016,2027
+R85.611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of anus (ASC-H),R85.61,2016,2027
+R85.612,Low grade squamous intraepithelial lesion on cytologic smear of anus (LGSIL),R85.61,2016,2027
+R85.613,High grade squamous intraepithelial lesion on cytologic smear of anus (HGSIL),R85.61,2016,2027
+R85.614,Cytologic evidence of malignancy on smear of anus,R85.61,2016,2027
+R85.615,Unsatisfactory cytologic smear of anus,R85.61,2016,2027
+R85.616,Satisfactory anal smear but lacking transformation zone,R85.61,2016,2027
+R85.618,Other abnormal cytological findings on specimens from anus,R85.61,2016,2027
+R85.619,Unspecified abnormal cytological findings in specimens from anus,R85.61,2016,2027
+R85.69,Abnormal cytological findings in specimens from other digestive organs and abdominal cavity,R85.6,2016,2027
+R85.7,Abnormal histological findings in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.8,Other abnormal findings in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R85.81,Anal high risk human papillomavirus (HPV) DNA test positive,R85.8,2016,2027
+R85.82,Anal low risk human papillomavirus (HPV) DNA test positive,R85.8,2016,2027
+R85.89,Other abnormal findings in specimens from digestive organs and abdominal cavity,R85.8,2016,2027
+R85.9,Unspecified abnormal finding in specimens from digestive organs and abdominal cavity,R85,2016,2027
+R86,Abnormal findings in specimens from male genital organs,,2016,2027
+R86.0,Abnormal level of enzymes in specimens from male genital organs,R86,2016,2027
+R86.1,Abnormal level of hormones in specimens from male genital organs,R86,2016,2027
+R86.2,"Abnormal level of other drugs, medicaments and biological substances in specimens from male genital organs",R86,2016,2027
+R86.3,Abnormal level of substances chiefly nonmedicinal as to source in specimens from male genital organs,R86,2016,2027
+R86.4,Abnormal immunological findings in specimens from male genital organs,R86,2016,2027
+R86.5,Abnormal microbiological findings in specimens from male genital organs,R86,2016,2027
+R86.6,Abnormal cytological findings in specimens from male genital organs,R86,2016,2027
+R86.7,Abnormal histological findings in specimens from male genital organs,R86,2016,2027
+R86.8,Other abnormal findings in specimens from male genital organs,R86,2016,2027
+R86.9,Unspecified abnormal finding in specimens from male genital organs,R86,2016,2027
+R87,Abnormal findings in specimens from female genital organs,,2016,2027
+R87.0,Abnormal level of enzymes in specimens from female genital organs,R87,2016,2027
+R87.1,Abnormal level of hormones in specimens from female genital organs,R87,2016,2027
+R87.2,"Abnormal level of other drugs, medicaments and biological substances in specimens from female genital organs",R87,2016,2027
+R87.3,Abnormal level of substances chiefly nonmedicinal as to source in specimens from female genital organs,R87,2016,2027
+R87.4,Abnormal immunological findings in specimens from female genital organs,R87,2016,2027
+R87.5,Abnormal microbiological findings in specimens from female genital organs,R87,2016,2027
+R87.6,Abnormal cytological findings in specimens from female genital organs,R87,2016,2027
+R87.61,Abnormal cytological findings in specimens from cervix uteri,R87.6,2016,2027
+R87.610,Atypical squamous cells of undetermined significance on cytologic smear of cervix (ASC-US),R87.61,2016,2027
+R87.611,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of cervix (ASC-H),R87.61,2016,2027
+R87.612,Low grade squamous intraepithelial lesion on cytologic smear of cervix (LGSIL),R87.61,2016,2027
+R87.613,High grade squamous intraepithelial lesion on cytologic smear of cervix (HGSIL),R87.61,2016,2027
+R87.614,Cytologic evidence of malignancy on smear of cervix,R87.61,2016,2027
+R87.615,Unsatisfactory cytologic smear of cervix,R87.61,2016,2027
+R87.616,Satisfactory cervical smear but lacking transformation zone,R87.61,2016,2027
+R87.618,Other abnormal cytological findings on specimens from cervix uteri,R87.61,2016,2027
+R87.619,Unspecified abnormal cytological findings in specimens from cervix uteri,R87.61,2016,2027
+R87.62,Abnormal cytological findings in specimens from vagina,R87.6,2016,2027
+R87.620,Atypical squamous cells of undetermined significance on cytologic smear of vagina (ASC-US),R87.62,2016,2027
+R87.621,Atypical squamous cells cannot exclude high grade squamous intraepithelial lesion on cytologic smear of vagina (ASC-H),R87.62,2016,2027
+R87.622,Low grade squamous intraepithelial lesion on cytologic smear of vagina (LGSIL),R87.62,2016,2027
+R87.623,High grade squamous intraepithelial lesion on cytologic smear of vagina (HGSIL),R87.62,2016,2027
+R87.624,Cytologic evidence of malignancy on smear of vagina,R87.62,2016,2027
+R87.625,Unsatisfactory cytologic smear of vagina,R87.62,2016,2027
+R87.628,Other abnormal cytological findings on specimens from vagina,R87.62,2016,2027
+R87.629,Unspecified abnormal cytological findings in specimens from vagina,R87.62,2016,2027
+R87.69,Abnormal cytological findings in specimens from other female genital organs,R87.6,2016,2027
+R87.7,Abnormal histological findings in specimens from female genital organs,R87,2016,2027
+R87.8,Other abnormal findings in specimens from female genital organs,R87,2016,2027
+R87.81,High risk human papillomavirus (HPV) DNA test positive from female genital organs,R87.8,2016,2027
+R87.810,Cervical high risk human papillomavirus (HPV) DNA test positive,R87.81,2016,2027
+R87.811,Vaginal high risk human papillomavirus (HPV) DNA test positive,R87.81,2016,2027
+R87.82,Low risk human papillomavirus (HPV) DNA test positive from female genital organs,R87.8,2016,2027
+R87.820,Cervical low risk human papillomavirus (HPV) DNA test positive,R87.82,2016,2027
+R87.821,Vaginal low risk human papillomavirus (HPV) DNA test positive,R87.82,2016,2027
+R87.89,Other abnormal findings in specimens from female genital organs,R87.8,2016,2027
+R87.9,Unspecified abnormal finding in specimens from female genital organs,R87,2016,2027
+R88,Abnormal findings in other body fluids and substances,,2016,2027
+R88.0,Cloudy (hemodialysis) (peritoneal) dialysis effluent,R88,2016,2027
+R88.8,Abnormal findings in other body fluids and substances,R88,2016,2027
+R89,"Abnormal findings in specimens from other organs, systems and tissues",,2016,2027
+R89.0,"Abnormal level of enzymes in specimens from other organs, systems and tissues",R89,2016,2027
+R89.1,"Abnormal level of hormones in specimens from other organs, systems and tissues",R89,2016,2027
+R89.2,"Abnormal level of other drugs, medicaments and biological substances in specimens from other organs, systems and tissues",R89,2016,2027
+R89.3,"Abnormal level of substances chiefly nonmedicinal as to source in specimens from other organs, systems and tissues",R89,2016,2027
+R89.4,"Abnormal immunological findings in specimens from other organs, systems and tissues",R89,2016,2027
+R89.5,"Abnormal microbiological findings in specimens from other organs, systems and tissues",R89,2016,2027
+R89.6,"Abnormal cytological findings in specimens from other organs, systems and tissues",R89,2016,2027
+R89.7,"Abnormal histological findings in specimens from other organs, systems and tissues",R89,2016,2027
+R89.8,"Other abnormal findings in specimens from other organs, systems and tissues",R89,2016,2027
+R89.9,"Unspecified abnormal finding in specimens from other organs, systems and tissues",R89,2016,2027
+R90,Abnormal findings on diagnostic imaging of central nervous system,,2016,2027
+R90.0,Intracranial space-occupying lesion found on diagnostic imaging of central nervous system,R90,2016,2027
+R90.8,Other abnormal findings on diagnostic imaging of central nervous system,R90,2016,2027
+R90.81,Abnormal echoencephalogram,R90.8,2016,2027
+R90.82,"White matter disease, unspecified",R90.8,2016,2027
+R90.89,Other abnormal findings on diagnostic imaging of central nervous system,R90.8,2016,2027
+R91,Abnormal findings on diagnostic imaging of lung,,2016,2027
+R91.1,Solitary pulmonary nodule,R91,2016,2027
+R91.8,Other nonspecific abnormal finding of lung field,R91,2016,2027
+R92,Abnormal and inconclusive findings on diagnostic imaging of breast,,2016,2027
+R92.0,Mammographic microcalcification found on diagnostic imaging of breast,R92,2016,2027
+R92.1,Mammographic calcification found on diagnostic imaging of breast,R92,2016,2027
+R92.2,Inconclusive mammogram,R92,2016,2027
+R92.3,Mammographic density found on imaging of breast,R92,2024,2027
+R92.30,"Dense breasts, unspecified",R92.3,2024,2027
+R92.31,Mammographic fatty tissue density of breast,R92.3,2024,2027
+R92.311,"Mammographic fatty tissue density, right breast",R92.31,2024,2027
+R92.312,"Mammographic fatty tissue density, left breast",R92.31,2024,2027
+R92.313,"Mammographic fatty tissue density, bilateral breasts",R92.31,2024,2027
+R92.32,Mammographic fibroglandular density of breast,R92.3,2024,2027
+R92.321,"Mammographic fibroglandular density, right breast",R92.32,2024,2027
+R92.322,"Mammographic fibroglandular density, left breast",R92.32,2024,2027
+R92.323,"Mammographic fibroglandular density, bilateral breasts",R92.32,2024,2027
+R92.33,Mammographic heterogeneous density of breast,R92.3,2024,2027
+R92.331,"Mammographic heterogeneous density, right breast",R92.33,2024,2027
+R92.332,"Mammographic heterogeneous density, left breast",R92.33,2024,2027
+R92.333,"Mammographic heterogeneous density, bilateral breasts",R92.33,2024,2027
+R92.34,Mammographic extreme density of breast,R92.3,2024,2027
+R92.341,"Mammographic extreme density, right breast",R92.34,2024,2027
+R92.342,"Mammographic extreme density, left breast",R92.34,2024,2027
+R92.343,"Mammographic extreme density, bilateral breasts",R92.34,2024,2027
+R92.8,Other abnormal and inconclusive findings on diagnostic imaging of breast,R92,2016,2027
+R93,Abnormal findings on diagnostic imaging of other body structures,,2016,2027
+R93.0,"Abnormal findings on diagnostic imaging of skull and head, not elsewhere classified",R93,2016,2027
+R93.1,Abnormal findings on diagnostic imaging of heart and coronary circulation,R93,2016,2027
+R93.2,Abnormal findings on diagnostic imaging of liver and biliary tract,R93,2016,2027
+R93.3,Abnormal findings on diagnostic imaging of other parts of digestive tract,R93,2016,2027
+R93.4,Abnormal findings on diagnostic imaging of urinary organs,R93,2016,2027
+R93.41,"Abnormal radiologic findings on diagnostic imaging of renal pelvis, ureter, or bladder",R93.4,2017,2027
+R93.42,Abnormal radiologic findings on diagnostic imaging of kidney,R93.4,2017,2027
+R93.421,Abnormal radiologic findings on diagnostic imaging of right kidney,R93.42,2017,2027
+R93.422,Abnormal radiologic findings on diagnostic imaging of left kidney,R93.42,2017,2027
+R93.429,Abnormal radiologic findings on diagnostic imaging of unspecified kidney,R93.42,2017,2027
+R93.49,Abnormal radiologic findings on diagnostic imaging of other urinary organs,R93.4,2017,2027
+R93.5,"Abnormal findings on diagnostic imaging of other abdominal regions, including retroperitoneum",R93,2016,2027
+R93.6,Abnormal findings on diagnostic imaging of limbs,R93,2016,2027
+R93.7,Abnormal findings on diagnostic imaging of other parts of musculoskeletal system,R93,2016,2027
+R93.8,Abnormal findings on diagnostic imaging of other specified body structures,R93,2016,2027
+R93.81,Abnormal radiologic findings on diagnostic imaging of testis,R93.8,2019,2027
+R93.811,Abnormal radiologic findings on diagnostic imaging of right testicle,R93.81,2019,2027
+R93.812,Abnormal radiologic findings on diagnostic imaging of left testicle,R93.81,2019,2027
+R93.813,"Abnormal radiologic findings on diagnostic imaging of testicles, bilateral",R93.81,2019,2027
+R93.819,Abnormal radiologic findings on diagnostic imaging of unspecified testicle,R93.81,2019,2027
+R93.89,Abnormal findings on diagnostic imaging of other specified body structures,R93.8,2019,2027
+R93.9,Diagnostic imaging inconclusive due to excess body fat of patient,R93,2016,2027
+R94,Abnormal results of function studies,,2016,2027
+R94.0,Abnormal results of function studies of central nervous system,R94,2016,2027
+R94.01,Abnormal electroencephalogram [EEG],R94.0,2016,2027
+R94.02,Abnormal brain scan,R94.0,2016,2027
+R94.09,Abnormal results of other function studies of central nervous system,R94.0,2016,2027
+R94.1,Abnormal results of function studies of peripheral nervous system and special senses,R94,2016,2027
+R94.11,Abnormal results of function studies of eye,R94.1,2016,2027
+R94.110,Abnormal electro-oculogram [EOG],R94.11,2016,2027
+R94.111,Abnormal electroretinogram [ERG],R94.11,2016,2027
+R94.112,Abnormal visually evoked potential [VEP],R94.11,2016,2027
+R94.113,Abnormal oculomotor study,R94.11,2016,2027
+R94.118,Abnormal results of other function studies of eye,R94.11,2016,2027
+R94.12,Abnormal results of function studies of ear and other special senses,R94.1,2016,2027
+R94.120,Abnormal auditory function study,R94.12,2016,2027
+R94.121,Abnormal vestibular function study,R94.12,2016,2027
+R94.128,Abnormal results of other function studies of ear and other special senses,R94.12,2016,2027
+R94.13,Abnormal results of function studies of peripheral nervous system,R94.1,2016,2027
+R94.130,"Abnormal response to nerve stimulation, unspecified",R94.13,2016,2027
+R94.131,Abnormal electromyogram [EMG],R94.13,2016,2027
+R94.138,Abnormal results of other function studies of peripheral nervous system,R94.13,2016,2027
+R94.2,Abnormal results of pulmonary function studies,R94,2016,2027
+R94.3,Abnormal results of cardiovascular function studies,R94,2016,2027
+R94.30,"Abnormal result of cardiovascular function study, unspecified",R94.3,2016,2027
+R94.31,Abnormal electrocardiogram [ECG] [EKG],R94.3,2016,2027
+R94.39,Abnormal result of other cardiovascular function study,R94.3,2016,2027
+R94.4,Abnormal results of kidney function studies,R94,2016,2027
+R94.5,Abnormal results of liver function studies,R94,2016,2027
+R94.6,Abnormal results of thyroid function studies,R94,2016,2027
+R94.7,Abnormal results of other endocrine function studies,R94,2016,2027
+R94.8,Abnormal results of function studies of other organs and systems,R94,2016,2027
+R97,Abnormal tumor markers,,2016,2027
+R97.0,Elevated carcinoembryonic antigen [CEA],R97,2016,2027
+R97.1,Elevated cancer antigen 125 [CA 125],R97,2016,2027
+R97.2,Elevated prostate specific antigen [PSA],R97,2016,2027
+R97.20,Elevated prostate specific antigen [PSA],R97.2,2017,2027
+R97.21,Rising PSA following treatment for malignant neoplasm of prostate,R97.2,2017,2027
+R97.8,Other abnormal tumor markers,R97,2016,2027
+R99,Ill-defined and unknown cause of mortality,,2016,2027

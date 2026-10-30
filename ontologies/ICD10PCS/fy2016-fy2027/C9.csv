@@ -1,0 +1,14 @@
+code,description,parent,first_year,last_year
+C9,"Ear, Nose, Mouth and Throat",C,2016,2027
+C91,Planar Nuclear Medicine Imaging,C9,2016,2027
+C91B,"Salivary Glands, Bilateral",C91,2016,2027
+C91B1,Technetium 99m (Tc-99m),C91B,2016,2027
+C91B1Z,None,C91B1,2016,2027
+C91B1ZZ,Planar Nuclear Medicine Imaging of Bilateral Salivary Glands using Technetium 99m (Tc-99m),C91B1Z,2016,2027
+C91BY,Other Radionuclide,C91B,2016,2027
+C91BYZ,None,C91BY,2016,2027
+C91BYZZ,Planar Nuclear Medicine Imaging of Bilateral Salivary Glands using Other Radionuclide,C91BYZ,2016,2027
+C91Y,"Ear, Nose, Mouth and Throat",C91,2016,2027
+C91YY,Other Radionuclide,C91Y,2016,2027
+C91YYZ,None,C91YY,2016,2027
+C91YYZZ,"Planar Nuclear Medicine Imaging of Ear, Nose, Mouth and Throat using Other Radionuclide",C91YYZ,2016,2027

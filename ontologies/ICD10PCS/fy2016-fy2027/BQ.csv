@@ -1,0 +1,801 @@
+code,description,parent,first_year,last_year
+BQ,Non-Axial Lower Bones,B,2016,2027
+BQ0,Plain Radiography,BQ,2016,2027
+BQ00,"Hip, Right",BQ0,2016,2027
+BQ000,High Osmolar,BQ00,2016,2027
+BQ000Z,None,BQ000,2016,2027
+BQ000ZZ,Plain Radiography of Right Hip using High Osmolar Contrast,BQ000Z,2016,2027
+BQ001,Low Osmolar,BQ00,2016,2027
+BQ001Z,None,BQ001,2016,2027
+BQ001ZZ,Plain Radiography of Right Hip using Low Osmolar Contrast,BQ001Z,2016,2027
+BQ00Y,Other Contrast,BQ00,2016,2027
+BQ00YZ,None,BQ00Y,2016,2027
+BQ00YZZ,Plain Radiography of Right Hip using Other Contrast,BQ00YZ,2016,2027
+BQ00Z,None,BQ00,2016,2027
+BQ00ZZ,None,BQ00Z,2016,2027
+BQ00ZZ1,"Plain Radiography of Right Hip, Densitometry",BQ00ZZ,2016,2027
+BQ00ZZZ,Plain Radiography of Right Hip,BQ00ZZ,2016,2027
+BQ01,"Hip, Left",BQ0,2016,2027
+BQ010,High Osmolar,BQ01,2016,2027
+BQ010Z,None,BQ010,2016,2027
+BQ010ZZ,Plain Radiography of Left Hip using High Osmolar Contrast,BQ010Z,2016,2027
+BQ011,Low Osmolar,BQ01,2016,2027
+BQ011Z,None,BQ011,2016,2027
+BQ011ZZ,Plain Radiography of Left Hip using Low Osmolar Contrast,BQ011Z,2016,2027
+BQ01Y,Other Contrast,BQ01,2016,2027
+BQ01YZ,None,BQ01Y,2016,2027
+BQ01YZZ,Plain Radiography of Left Hip using Other Contrast,BQ01YZ,2016,2027
+BQ01Z,None,BQ01,2016,2027
+BQ01ZZ,None,BQ01Z,2016,2027
+BQ01ZZ1,"Plain Radiography of Left Hip, Densitometry",BQ01ZZ,2016,2027
+BQ01ZZZ,Plain Radiography of Left Hip,BQ01ZZ,2016,2027
+BQ03,"Femur, Right",BQ0,2016,2027
+BQ03Z,None,BQ03,2016,2027
+BQ03ZZ,None,BQ03Z,2016,2027
+BQ03ZZ1,"Plain Radiography of Right Femur, Densitometry",BQ03ZZ,2016,2027
+BQ03ZZZ,Plain Radiography of Right Femur,BQ03ZZ,2016,2027
+BQ04,"Femur, Left",BQ0,2016,2027
+BQ04Z,None,BQ04,2016,2027
+BQ04ZZ,None,BQ04Z,2016,2027
+BQ04ZZ1,"Plain Radiography of Left Femur, Densitometry",BQ04ZZ,2016,2027
+BQ04ZZZ,Plain Radiography of Left Femur,BQ04ZZ,2016,2027
+BQ07,"Knee, Right",BQ0,2016,2027
+BQ070,High Osmolar,BQ07,2016,2027
+BQ070Z,None,BQ070,2016,2027
+BQ070ZZ,Plain Radiography of Right Knee using High Osmolar Contrast,BQ070Z,2016,2027
+BQ071,Low Osmolar,BQ07,2016,2027
+BQ071Z,None,BQ071,2016,2027
+BQ071ZZ,Plain Radiography of Right Knee using Low Osmolar Contrast,BQ071Z,2016,2027
+BQ07Y,Other Contrast,BQ07,2016,2027
+BQ07YZ,None,BQ07Y,2016,2027
+BQ07YZZ,Plain Radiography of Right Knee using Other Contrast,BQ07YZ,2016,2027
+BQ07Z,None,BQ07,2016,2027
+BQ07ZZ,None,BQ07Z,2016,2027
+BQ07ZZZ,Plain Radiography of Right Knee,BQ07ZZ,2016,2027
+BQ08,"Knee, Left",BQ0,2016,2027
+BQ080,High Osmolar,BQ08,2016,2027
+BQ080Z,None,BQ080,2016,2027
+BQ080ZZ,Plain Radiography of Left Knee using High Osmolar Contrast,BQ080Z,2016,2027
+BQ081,Low Osmolar,BQ08,2016,2027
+BQ081Z,None,BQ081,2016,2027
+BQ081ZZ,Plain Radiography of Left Knee using Low Osmolar Contrast,BQ081Z,2016,2027
+BQ08Y,Other Contrast,BQ08,2016,2027
+BQ08YZ,None,BQ08Y,2016,2027
+BQ08YZZ,Plain Radiography of Left Knee using Other Contrast,BQ08YZ,2016,2027
+BQ08Z,None,BQ08,2016,2027
+BQ08ZZ,None,BQ08Z,2016,2027
+BQ08ZZZ,Plain Radiography of Left Knee,BQ08ZZ,2016,2027
+BQ0D,"Lower Leg, Right",BQ0,2016,2027
+BQ0DZ,None,BQ0D,2016,2027
+BQ0DZZ,None,BQ0DZ,2016,2027
+BQ0DZZZ,Plain Radiography of Right Lower Leg,BQ0DZZ,2016,2027
+BQ0F,"Lower Leg, Left",BQ0,2016,2027
+BQ0FZ,None,BQ0F,2016,2027
+BQ0FZZ,None,BQ0FZ,2016,2027
+BQ0FZZZ,Plain Radiography of Left Lower Leg,BQ0FZZ,2016,2027
+BQ0G,"Ankle, Right",BQ0,2016,2027
+BQ0G0,High Osmolar,BQ0G,2016,2027
+BQ0G0Z,None,BQ0G0,2016,2027
+BQ0G0ZZ,Plain Radiography of Right Ankle using High Osmolar Contrast,BQ0G0Z,2016,2027
+BQ0G1,Low Osmolar,BQ0G,2016,2027
+BQ0G1Z,None,BQ0G1,2016,2027
+BQ0G1ZZ,Plain Radiography of Right Ankle using Low Osmolar Contrast,BQ0G1Z,2016,2027
+BQ0GY,Other Contrast,BQ0G,2016,2027
+BQ0GYZ,None,BQ0GY,2016,2027
+BQ0GYZZ,Plain Radiography of Right Ankle using Other Contrast,BQ0GYZ,2016,2027
+BQ0GZ,None,BQ0G,2016,2027
+BQ0GZZ,None,BQ0GZ,2016,2027
+BQ0GZZZ,Plain Radiography of Right Ankle,BQ0GZZ,2016,2027
+BQ0H,"Ankle, Left",BQ0,2016,2027
+BQ0H0,High Osmolar,BQ0H,2016,2027
+BQ0H0Z,None,BQ0H0,2016,2027
+BQ0H0ZZ,Plain Radiography of Left Ankle using High Osmolar Contrast,BQ0H0Z,2016,2027
+BQ0H1,Low Osmolar,BQ0H,2016,2027
+BQ0H1Z,None,BQ0H1,2016,2027
+BQ0H1ZZ,Plain Radiography of Left Ankle using Low Osmolar Contrast,BQ0H1Z,2016,2027
+BQ0HY,Other Contrast,BQ0H,2016,2027
+BQ0HYZ,None,BQ0HY,2016,2027
+BQ0HYZZ,Plain Radiography of Left Ankle using Other Contrast,BQ0HYZ,2016,2027
+BQ0HZ,None,BQ0H,2016,2027
+BQ0HZZ,None,BQ0HZ,2016,2027
+BQ0HZZZ,Plain Radiography of Left Ankle,BQ0HZZ,2016,2027
+BQ0J,"Calcaneus, Right",BQ0,2016,2027
+BQ0JZ,None,BQ0J,2016,2027
+BQ0JZZ,None,BQ0JZ,2016,2027
+BQ0JZZZ,Plain Radiography of Right Calcaneus,BQ0JZZ,2016,2027
+BQ0K,"Calcaneus, Left",BQ0,2016,2027
+BQ0KZ,None,BQ0K,2016,2027
+BQ0KZZ,None,BQ0KZ,2016,2027
+BQ0KZZZ,Plain Radiography of Left Calcaneus,BQ0KZZ,2016,2027
+BQ0L,"Foot, Right",BQ0,2016,2027
+BQ0LZ,None,BQ0L,2016,2027
+BQ0LZZ,None,BQ0LZ,2016,2027
+BQ0LZZZ,Plain Radiography of Right Foot,BQ0LZZ,2016,2027
+BQ0M,"Foot, Left",BQ0,2016,2027
+BQ0MZ,None,BQ0M,2016,2027
+BQ0MZZ,None,BQ0MZ,2016,2027
+BQ0MZZZ,Plain Radiography of Left Foot,BQ0MZZ,2016,2027
+BQ0P,"Toe(s), Right",BQ0,2016,2027
+BQ0PZ,None,BQ0P,2016,2027
+BQ0PZZ,None,BQ0PZ,2016,2027
+BQ0PZZZ,Plain Radiography of Right Toe(s),BQ0PZZ,2016,2027
+BQ0Q,"Toe(s), Left",BQ0,2016,2027
+BQ0QZ,None,BQ0Q,2016,2027
+BQ0QZZ,None,BQ0QZ,2016,2027
+BQ0QZZZ,Plain Radiography of Left Toe(s),BQ0QZZ,2016,2027
+BQ0V,"Patella, Right",BQ0,2016,2027
+BQ0VZ,None,BQ0V,2016,2027
+BQ0VZZ,None,BQ0VZ,2016,2027
+BQ0VZZZ,Plain Radiography of Right Patella,BQ0VZZ,2016,2027
+BQ0W,"Patella, Left",BQ0,2016,2027
+BQ0WZ,None,BQ0W,2016,2027
+BQ0WZZ,None,BQ0WZ,2016,2027
+BQ0WZZZ,Plain Radiography of Left Patella,BQ0WZZ,2016,2027
+BQ0X,"Foot/Toe Joint, Right",BQ0,2016,2027
+BQ0X0,High Osmolar,BQ0X,2016,2027
+BQ0X0Z,None,BQ0X0,2016,2027
+BQ0X0ZZ,Plain Radiography of Right Foot/Toe Joint using High Osmolar Contrast,BQ0X0Z,2016,2027
+BQ0X1,Low Osmolar,BQ0X,2016,2027
+BQ0X1Z,None,BQ0X1,2016,2027
+BQ0X1ZZ,Plain Radiography of Right Foot/Toe Joint using Low Osmolar Contrast,BQ0X1Z,2016,2027
+BQ0XY,Other Contrast,BQ0X,2016,2027
+BQ0XYZ,None,BQ0XY,2016,2027
+BQ0XYZZ,Plain Radiography of Right Foot/Toe Joint using Other Contrast,BQ0XYZ,2016,2027
+BQ0Y,"Foot/Toe Joint, Left",BQ0,2016,2027
+BQ0Y0,High Osmolar,BQ0Y,2016,2027
+BQ0Y0Z,None,BQ0Y0,2016,2027
+BQ0Y0ZZ,Plain Radiography of Left Foot/Toe Joint using High Osmolar Contrast,BQ0Y0Z,2016,2027
+BQ0Y1,Low Osmolar,BQ0Y,2016,2027
+BQ0Y1Z,None,BQ0Y1,2016,2027
+BQ0Y1ZZ,Plain Radiography of Left Foot/Toe Joint using Low Osmolar Contrast,BQ0Y1Z,2016,2027
+BQ0YY,Other Contrast,BQ0Y,2016,2027
+BQ0YYZ,None,BQ0YY,2016,2027
+BQ0YYZZ,Plain Radiography of Left Foot/Toe Joint using Other Contrast,BQ0YYZ,2016,2027
+BQ1,Fluoroscopy,BQ,2016,2027
+BQ10,"Hip, Right",BQ1,2016,2027
+BQ100,High Osmolar,BQ10,2016,2027
+BQ100Z,None,BQ100,2016,2027
+BQ100ZZ,Fluoroscopy of Right Hip using High Osmolar Contrast,BQ100Z,2016,2027
+BQ101,Low Osmolar,BQ10,2016,2027
+BQ101Z,None,BQ101,2016,2027
+BQ101ZZ,Fluoroscopy of Right Hip using Low Osmolar Contrast,BQ101Z,2016,2027
+BQ10Y,Other Contrast,BQ10,2016,2027
+BQ10YZ,None,BQ10Y,2016,2027
+BQ10YZZ,Fluoroscopy of Right Hip using Other Contrast,BQ10YZ,2016,2027
+BQ10Z,None,BQ10,2016,2027
+BQ10ZZ,None,BQ10Z,2016,2027
+BQ10ZZZ,Fluoroscopy of Right Hip,BQ10ZZ,2016,2027
+BQ11,"Hip, Left",BQ1,2016,2027
+BQ110,High Osmolar,BQ11,2016,2027
+BQ110Z,None,BQ110,2016,2027
+BQ110ZZ,Fluoroscopy of Left Hip using High Osmolar Contrast,BQ110Z,2016,2027
+BQ111,Low Osmolar,BQ11,2016,2027
+BQ111Z,None,BQ111,2016,2027
+BQ111ZZ,Fluoroscopy of Left Hip using Low Osmolar Contrast,BQ111Z,2016,2027
+BQ11Y,Other Contrast,BQ11,2016,2027
+BQ11YZ,None,BQ11Y,2016,2027
+BQ11YZZ,Fluoroscopy of Left Hip using Other Contrast,BQ11YZ,2016,2027
+BQ11Z,None,BQ11,2016,2027
+BQ11ZZ,None,BQ11Z,2016,2027
+BQ11ZZZ,Fluoroscopy of Left Hip,BQ11ZZ,2016,2027
+BQ13,"Femur, Right",BQ1,2016,2027
+BQ13Z,None,BQ13,2016,2027
+BQ13ZZ,None,BQ13Z,2016,2027
+BQ13ZZZ,Fluoroscopy of Right Femur,BQ13ZZ,2016,2027
+BQ14,"Femur, Left",BQ1,2016,2027
+BQ14Z,None,BQ14,2016,2027
+BQ14ZZ,None,BQ14Z,2016,2027
+BQ14ZZZ,Fluoroscopy of Left Femur,BQ14ZZ,2016,2027
+BQ17,"Knee, Right",BQ1,2016,2027
+BQ170,High Osmolar,BQ17,2016,2027
+BQ170Z,None,BQ170,2016,2027
+BQ170ZZ,Fluoroscopy of Right Knee using High Osmolar Contrast,BQ170Z,2016,2027
+BQ171,Low Osmolar,BQ17,2016,2027
+BQ171Z,None,BQ171,2016,2027
+BQ171ZZ,Fluoroscopy of Right Knee using Low Osmolar Contrast,BQ171Z,2016,2027
+BQ17Y,Other Contrast,BQ17,2016,2027
+BQ17YZ,None,BQ17Y,2016,2027
+BQ17YZZ,Fluoroscopy of Right Knee using Other Contrast,BQ17YZ,2016,2027
+BQ17Z,None,BQ17,2016,2027
+BQ17ZZ,None,BQ17Z,2016,2027
+BQ17ZZZ,Fluoroscopy of Right Knee,BQ17ZZ,2016,2027
+BQ18,"Knee, Left",BQ1,2016,2027
+BQ180,High Osmolar,BQ18,2016,2027
+BQ180Z,None,BQ180,2016,2027
+BQ180ZZ,Fluoroscopy of Left Knee using High Osmolar Contrast,BQ180Z,2016,2027
+BQ181,Low Osmolar,BQ18,2016,2027
+BQ181Z,None,BQ181,2016,2027
+BQ181ZZ,Fluoroscopy of Left Knee using Low Osmolar Contrast,BQ181Z,2016,2027
+BQ18Y,Other Contrast,BQ18,2016,2027
+BQ18YZ,None,BQ18Y,2016,2027
+BQ18YZZ,Fluoroscopy of Left Knee using Other Contrast,BQ18YZ,2016,2027
+BQ18Z,None,BQ18,2016,2027
+BQ18ZZ,None,BQ18Z,2016,2027
+BQ18ZZZ,Fluoroscopy of Left Knee,BQ18ZZ,2016,2027
+BQ1D,"Lower Leg, Right",BQ1,2016,2027
+BQ1DZ,None,BQ1D,2016,2027
+BQ1DZZ,None,BQ1DZ,2016,2027
+BQ1DZZZ,Fluoroscopy of Right Lower Leg,BQ1DZZ,2016,2027
+BQ1F,"Lower Leg, Left",BQ1,2016,2027
+BQ1FZ,None,BQ1F,2016,2027
+BQ1FZZ,None,BQ1FZ,2016,2027
+BQ1FZZZ,Fluoroscopy of Left Lower Leg,BQ1FZZ,2016,2027
+BQ1G,"Ankle, Right",BQ1,2016,2027
+BQ1G0,High Osmolar,BQ1G,2016,2027
+BQ1G0Z,None,BQ1G0,2016,2027
+BQ1G0ZZ,Fluoroscopy of Right Ankle using High Osmolar Contrast,BQ1G0Z,2016,2027
+BQ1G1,Low Osmolar,BQ1G,2016,2027
+BQ1G1Z,None,BQ1G1,2016,2027
+BQ1G1ZZ,Fluoroscopy of Right Ankle using Low Osmolar Contrast,BQ1G1Z,2016,2027
+BQ1GY,Other Contrast,BQ1G,2016,2027
+BQ1GYZ,None,BQ1GY,2016,2027
+BQ1GYZZ,Fluoroscopy of Right Ankle using Other Contrast,BQ1GYZ,2016,2027
+BQ1GZ,None,BQ1G,2016,2027
+BQ1GZZ,None,BQ1GZ,2016,2027
+BQ1GZZZ,Fluoroscopy of Right Ankle,BQ1GZZ,2016,2027
+BQ1H,"Ankle, Left",BQ1,2016,2027
+BQ1H0,High Osmolar,BQ1H,2016,2027
+BQ1H0Z,None,BQ1H0,2016,2027
+BQ1H0ZZ,Fluoroscopy of Left Ankle using High Osmolar Contrast,BQ1H0Z,2016,2027
+BQ1H1,Low Osmolar,BQ1H,2016,2027
+BQ1H1Z,None,BQ1H1,2016,2027
+BQ1H1ZZ,Fluoroscopy of Left Ankle using Low Osmolar Contrast,BQ1H1Z,2016,2027
+BQ1HY,Other Contrast,BQ1H,2016,2027
+BQ1HYZ,None,BQ1HY,2016,2027
+BQ1HYZZ,Fluoroscopy of Left Ankle using Other Contrast,BQ1HYZ,2016,2027
+BQ1HZ,None,BQ1H,2016,2027
+BQ1HZZ,None,BQ1HZ,2016,2027
+BQ1HZZZ,Fluoroscopy of Left Ankle,BQ1HZZ,2016,2027
+BQ1J,"Calcaneus, Right",BQ1,2016,2027
+BQ1JZ,None,BQ1J,2016,2027
+BQ1JZZ,None,BQ1JZ,2016,2027
+BQ1JZZZ,Fluoroscopy of Right Calcaneus,BQ1JZZ,2016,2027
+BQ1K,"Calcaneus, Left",BQ1,2016,2027
+BQ1KZ,None,BQ1K,2016,2027
+BQ1KZZ,None,BQ1KZ,2016,2027
+BQ1KZZZ,Fluoroscopy of Left Calcaneus,BQ1KZZ,2016,2027
+BQ1L,"Foot, Right",BQ1,2016,2027
+BQ1LZ,None,BQ1L,2016,2027
+BQ1LZZ,None,BQ1LZ,2016,2027
+BQ1LZZZ,Fluoroscopy of Right Foot,BQ1LZZ,2016,2027
+BQ1M,"Foot, Left",BQ1,2016,2027
+BQ1MZ,None,BQ1M,2016,2027
+BQ1MZZ,None,BQ1MZ,2016,2027
+BQ1MZZZ,Fluoroscopy of Left Foot,BQ1MZZ,2016,2027
+BQ1P,"Toe(s), Right",BQ1,2016,2027
+BQ1PZ,None,BQ1P,2016,2027
+BQ1PZZ,None,BQ1PZ,2016,2027
+BQ1PZZZ,Fluoroscopy of Right Toe(s),BQ1PZZ,2016,2027
+BQ1Q,"Toe(s), Left",BQ1,2016,2027
+BQ1QZ,None,BQ1Q,2016,2027
+BQ1QZZ,None,BQ1QZ,2016,2027
+BQ1QZZZ,Fluoroscopy of Left Toe(s),BQ1QZZ,2016,2027
+BQ1V,"Patella, Right",BQ1,2016,2027
+BQ1VZ,None,BQ1V,2016,2027
+BQ1VZZ,None,BQ1VZ,2016,2027
+BQ1VZZZ,Fluoroscopy of Right Patella,BQ1VZZ,2016,2027
+BQ1W,"Patella, Left",BQ1,2016,2027
+BQ1WZ,None,BQ1W,2016,2027
+BQ1WZZ,None,BQ1WZ,2016,2027
+BQ1WZZZ,Fluoroscopy of Left Patella,BQ1WZZ,2016,2027
+BQ1X,"Foot/Toe Joint, Right",BQ1,2016,2027
+BQ1X0,High Osmolar,BQ1X,2016,2027
+BQ1X0Z,None,BQ1X0,2016,2027
+BQ1X0ZZ,Fluoroscopy of Right Foot/Toe Joint using High Osmolar Contrast,BQ1X0Z,2016,2027
+BQ1X1,Low Osmolar,BQ1X,2016,2027
+BQ1X1Z,None,BQ1X1,2016,2027
+BQ1X1ZZ,Fluoroscopy of Right Foot/Toe Joint using Low Osmolar Contrast,BQ1X1Z,2016,2027
+BQ1XY,Other Contrast,BQ1X,2016,2027
+BQ1XYZ,None,BQ1XY,2016,2027
+BQ1XYZZ,Fluoroscopy of Right Foot/Toe Joint using Other Contrast,BQ1XYZ,2016,2027
+BQ1XZ,None,BQ1X,2016,2027
+BQ1XZZ,None,BQ1XZ,2016,2027
+BQ1XZZZ,Fluoroscopy of Right Foot/Toe Joint,BQ1XZZ,2016,2027
+BQ1Y,"Foot/Toe Joint, Left",BQ1,2016,2027
+BQ1Y0,High Osmolar,BQ1Y,2016,2027
+BQ1Y0Z,None,BQ1Y0,2016,2027
+BQ1Y0ZZ,Fluoroscopy of Left Foot/Toe Joint using High Osmolar Contrast,BQ1Y0Z,2016,2027
+BQ1Y1,Low Osmolar,BQ1Y,2016,2027
+BQ1Y1Z,None,BQ1Y1,2016,2027
+BQ1Y1ZZ,Fluoroscopy of Left Foot/Toe Joint using Low Osmolar Contrast,BQ1Y1Z,2016,2027
+BQ1YY,Other Contrast,BQ1Y,2016,2027
+BQ1YYZ,None,BQ1YY,2016,2027
+BQ1YYZZ,Fluoroscopy of Left Foot/Toe Joint using Other Contrast,BQ1YYZ,2016,2027
+BQ1YZ,None,BQ1Y,2016,2027
+BQ1YZZ,None,BQ1YZ,2016,2027
+BQ1YZZZ,Fluoroscopy of Left Foot/Toe Joint,BQ1YZZ,2016,2027
+BQ2,Computerized Tomography (CT Scan),BQ,2016,2027
+BQ20,"Hip, Right",BQ2,2016,2027
+BQ200,High Osmolar,BQ20,2016,2027
+BQ200Z,None,BQ200,2016,2027
+BQ200ZZ,Computerized Tomography (CT Scan) of Right Hip using High Osmolar Contrast,BQ200Z,2016,2027
+BQ201,Low Osmolar,BQ20,2016,2027
+BQ201Z,None,BQ201,2016,2027
+BQ201ZZ,Computerized Tomography (CT Scan) of Right Hip using Low Osmolar Contrast,BQ201Z,2016,2027
+BQ20Y,Other Contrast,BQ20,2016,2027
+BQ20YZ,None,BQ20Y,2016,2027
+BQ20YZZ,Computerized Tomography (CT Scan) of Right Hip using Other Contrast,BQ20YZ,2016,2027
+BQ20Z,None,BQ20,2016,2027
+BQ20ZZ,None,BQ20Z,2016,2027
+BQ20ZZZ,Computerized Tomography (CT Scan) of Right Hip,BQ20ZZ,2016,2027
+BQ21,"Hip, Left",BQ2,2016,2027
+BQ210,High Osmolar,BQ21,2016,2027
+BQ210Z,None,BQ210,2016,2027
+BQ210ZZ,Computerized Tomography (CT Scan) of Left Hip using High Osmolar Contrast,BQ210Z,2016,2027
+BQ211,Low Osmolar,BQ21,2016,2027
+BQ211Z,None,BQ211,2016,2027
+BQ211ZZ,Computerized Tomography (CT Scan) of Left Hip using Low Osmolar Contrast,BQ211Z,2016,2027
+BQ21Y,Other Contrast,BQ21,2016,2027
+BQ21YZ,None,BQ21Y,2016,2027
+BQ21YZZ,Computerized Tomography (CT Scan) of Left Hip using Other Contrast,BQ21YZ,2016,2027
+BQ21Z,None,BQ21,2016,2027
+BQ21ZZ,None,BQ21Z,2016,2027
+BQ21ZZZ,Computerized Tomography (CT Scan) of Left Hip,BQ21ZZ,2016,2027
+BQ23,"Femur, Right",BQ2,2016,2027
+BQ230,High Osmolar,BQ23,2016,2027
+BQ230Z,None,BQ230,2016,2027
+BQ230ZZ,Computerized Tomography (CT Scan) of Right Femur using High Osmolar Contrast,BQ230Z,2016,2027
+BQ231,Low Osmolar,BQ23,2016,2027
+BQ231Z,None,BQ231,2016,2027
+BQ231ZZ,Computerized Tomography (CT Scan) of Right Femur using Low Osmolar Contrast,BQ231Z,2016,2027
+BQ23Y,Other Contrast,BQ23,2016,2027
+BQ23YZ,None,BQ23Y,2016,2027
+BQ23YZZ,Computerized Tomography (CT Scan) of Right Femur using Other Contrast,BQ23YZ,2016,2027
+BQ23Z,None,BQ23,2016,2027
+BQ23ZZ,None,BQ23Z,2016,2027
+BQ23ZZZ,Computerized Tomography (CT Scan) of Right Femur,BQ23ZZ,2016,2027
+BQ24,"Femur, Left",BQ2,2016,2027
+BQ240,High Osmolar,BQ24,2016,2027
+BQ240Z,None,BQ240,2016,2027
+BQ240ZZ,Computerized Tomography (CT Scan) of Left Femur using High Osmolar Contrast,BQ240Z,2016,2027
+BQ241,Low Osmolar,BQ24,2016,2027
+BQ241Z,None,BQ241,2016,2027
+BQ241ZZ,Computerized Tomography (CT Scan) of Left Femur using Low Osmolar Contrast,BQ241Z,2016,2027
+BQ24Y,Other Contrast,BQ24,2016,2027
+BQ24YZ,None,BQ24Y,2016,2027
+BQ24YZZ,Computerized Tomography (CT Scan) of Left Femur using Other Contrast,BQ24YZ,2016,2027
+BQ24Z,None,BQ24,2016,2027
+BQ24ZZ,None,BQ24Z,2016,2027
+BQ24ZZZ,Computerized Tomography (CT Scan) of Left Femur,BQ24ZZ,2016,2027
+BQ27,"Knee, Right",BQ2,2016,2027
+BQ270,High Osmolar,BQ27,2016,2027
+BQ270Z,None,BQ270,2016,2027
+BQ270ZZ,Computerized Tomography (CT Scan) of Right Knee using High Osmolar Contrast,BQ270Z,2016,2027
+BQ271,Low Osmolar,BQ27,2016,2027
+BQ271Z,None,BQ271,2016,2027
+BQ271ZZ,Computerized Tomography (CT Scan) of Right Knee using Low Osmolar Contrast,BQ271Z,2016,2027
+BQ27Y,Other Contrast,BQ27,2016,2027
+BQ27YZ,None,BQ27Y,2016,2027
+BQ27YZZ,Computerized Tomography (CT Scan) of Right Knee using Other Contrast,BQ27YZ,2016,2027
+BQ27Z,None,BQ27,2016,2027
+BQ27ZZ,None,BQ27Z,2016,2027
+BQ27ZZZ,Computerized Tomography (CT Scan) of Right Knee,BQ27ZZ,2016,2027
+BQ28,"Knee, Left",BQ2,2016,2027
+BQ280,High Osmolar,BQ28,2016,2027
+BQ280Z,None,BQ280,2016,2027
+BQ280ZZ,Computerized Tomography (CT Scan) of Left Knee using High Osmolar Contrast,BQ280Z,2016,2027
+BQ281,Low Osmolar,BQ28,2016,2027
+BQ281Z,None,BQ281,2016,2027
+BQ281ZZ,Computerized Tomography (CT Scan) of Left Knee using Low Osmolar Contrast,BQ281Z,2016,2027
+BQ28Y,Other Contrast,BQ28,2016,2027
+BQ28YZ,None,BQ28Y,2016,2027
+BQ28YZZ,Computerized Tomography (CT Scan) of Left Knee using Other Contrast,BQ28YZ,2016,2027
+BQ28Z,None,BQ28,2016,2027
+BQ28ZZ,None,BQ28Z,2016,2027
+BQ28ZZZ,Computerized Tomography (CT Scan) of Left Knee,BQ28ZZ,2016,2027
+BQ2B,"Tibia/Fibula, Right",BQ2,2016,2027
+BQ2B0,High Osmolar,BQ2B,2016,2027
+BQ2B0Z,None,BQ2B0,2016,2027
+BQ2B0ZZ,Computerized Tomography (CT Scan) of Right Tibia/Fibula using High Osmolar Contrast,BQ2B0Z,2016,2027
+BQ2B1,Low Osmolar,BQ2B,2016,2027
+BQ2B1Z,None,BQ2B1,2016,2027
+BQ2B1ZZ,Computerized Tomography (CT Scan) of Right Tibia/Fibula using Low Osmolar Contrast,BQ2B1Z,2016,2027
+BQ2BY,Other Contrast,BQ2B,2016,2027
+BQ2BYZ,None,BQ2BY,2016,2027
+BQ2BYZZ,Computerized Tomography (CT Scan) of Right Tibia/Fibula using Other Contrast,BQ2BYZ,2016,2027
+BQ2C,"Tibia/Fibula, Left",BQ2,2016,2027
+BQ2C0,High Osmolar,BQ2C,2016,2027
+BQ2C0Z,None,BQ2C0,2016,2027
+BQ2C0ZZ,Computerized Tomography (CT Scan) of Left Tibia/Fibula using High Osmolar Contrast,BQ2C0Z,2016,2027
+BQ2C1,Low Osmolar,BQ2C,2016,2027
+BQ2C1Z,None,BQ2C1,2016,2027
+BQ2C1ZZ,Computerized Tomography (CT Scan) of Left Tibia/Fibula using Low Osmolar Contrast,BQ2C1Z,2016,2027
+BQ2CY,Other Contrast,BQ2C,2016,2027
+BQ2CYZ,None,BQ2CY,2016,2027
+BQ2CYZZ,Computerized Tomography (CT Scan) of Left Tibia/Fibula using Other Contrast,BQ2CYZ,2016,2027
+BQ2D,"Lower Leg, Right",BQ2,2016,2027
+BQ2D0,High Osmolar,BQ2D,2016,2027
+BQ2D0Z,None,BQ2D0,2016,2027
+BQ2D0ZZ,Computerized Tomography (CT Scan) of Right Lower Leg using High Osmolar Contrast,BQ2D0Z,2016,2027
+BQ2D1,Low Osmolar,BQ2D,2016,2027
+BQ2D1Z,None,BQ2D1,2016,2027
+BQ2D1ZZ,Computerized Tomography (CT Scan) of Right Lower Leg using Low Osmolar Contrast,BQ2D1Z,2016,2027
+BQ2DY,Other Contrast,BQ2D,2016,2027
+BQ2DYZ,None,BQ2DY,2016,2027
+BQ2DYZZ,Computerized Tomography (CT Scan) of Right Lower Leg using Other Contrast,BQ2DYZ,2016,2027
+BQ2DZ,None,BQ2D,2016,2027
+BQ2DZZ,None,BQ2DZ,2016,2027
+BQ2DZZZ,Computerized Tomography (CT Scan) of Right Lower Leg,BQ2DZZ,2016,2027
+BQ2F,"Lower Leg, Left",BQ2,2016,2027
+BQ2F0,High Osmolar,BQ2F,2016,2027
+BQ2F0Z,None,BQ2F0,2016,2027
+BQ2F0ZZ,Computerized Tomography (CT Scan) of Left Lower Leg using High Osmolar Contrast,BQ2F0Z,2016,2027
+BQ2F1,Low Osmolar,BQ2F,2016,2027
+BQ2F1Z,None,BQ2F1,2016,2027
+BQ2F1ZZ,Computerized Tomography (CT Scan) of Left Lower Leg using Low Osmolar Contrast,BQ2F1Z,2016,2027
+BQ2FY,Other Contrast,BQ2F,2016,2027
+BQ2FYZ,None,BQ2FY,2016,2027
+BQ2FYZZ,Computerized Tomography (CT Scan) of Left Lower Leg using Other Contrast,BQ2FYZ,2016,2027
+BQ2FZ,None,BQ2F,2016,2027
+BQ2FZZ,None,BQ2FZ,2016,2027
+BQ2FZZZ,Computerized Tomography (CT Scan) of Left Lower Leg,BQ2FZZ,2016,2027
+BQ2G,"Ankle, Right",BQ2,2016,2027
+BQ2G0,High Osmolar,BQ2G,2016,2027
+BQ2G0Z,None,BQ2G0,2016,2027
+BQ2G0ZZ,Computerized Tomography (CT Scan) of Right Ankle using High Osmolar Contrast,BQ2G0Z,2016,2027
+BQ2G1,Low Osmolar,BQ2G,2016,2027
+BQ2G1Z,None,BQ2G1,2016,2027
+BQ2G1ZZ,Computerized Tomography (CT Scan) of Right Ankle using Low Osmolar Contrast,BQ2G1Z,2016,2027
+BQ2GY,Other Contrast,BQ2G,2016,2027
+BQ2GYZ,None,BQ2GY,2016,2027
+BQ2GYZZ,Computerized Tomography (CT Scan) of Right Ankle using Other Contrast,BQ2GYZ,2016,2027
+BQ2GZ,None,BQ2G,2016,2027
+BQ2GZZ,None,BQ2GZ,2016,2027
+BQ2GZZZ,Computerized Tomography (CT Scan) of Right Ankle,BQ2GZZ,2016,2027
+BQ2H,"Ankle, Left",BQ2,2016,2027
+BQ2H0,High Osmolar,BQ2H,2016,2027
+BQ2H0Z,None,BQ2H0,2016,2027
+BQ2H0ZZ,Computerized Tomography (CT Scan) of Left Ankle using High Osmolar Contrast,BQ2H0Z,2016,2027
+BQ2H1,Low Osmolar,BQ2H,2016,2027
+BQ2H1Z,None,BQ2H1,2016,2027
+BQ2H1ZZ,Computerized Tomography (CT Scan) of Left Ankle using Low Osmolar Contrast,BQ2H1Z,2016,2027
+BQ2HY,Other Contrast,BQ2H,2016,2027
+BQ2HYZ,None,BQ2HY,2016,2027
+BQ2HYZZ,Computerized Tomography (CT Scan) of Left Ankle using Other Contrast,BQ2HYZ,2016,2027
+BQ2HZ,None,BQ2H,2016,2027
+BQ2HZZ,None,BQ2HZ,2016,2027
+BQ2HZZZ,Computerized Tomography (CT Scan) of Left Ankle,BQ2HZZ,2016,2027
+BQ2J,"Calcaneus, Right",BQ2,2016,2027
+BQ2J0,High Osmolar,BQ2J,2016,2027
+BQ2J0Z,None,BQ2J0,2016,2027
+BQ2J0ZZ,Computerized Tomography (CT Scan) of Right Calcaneus using High Osmolar Contrast,BQ2J0Z,2016,2027
+BQ2J1,Low Osmolar,BQ2J,2016,2027
+BQ2J1Z,None,BQ2J1,2016,2027
+BQ2J1ZZ,Computerized Tomography (CT Scan) of Right Calcaneus using Low Osmolar Contrast,BQ2J1Z,2016,2027
+BQ2JY,Other Contrast,BQ2J,2016,2027
+BQ2JYZ,None,BQ2JY,2016,2027
+BQ2JYZZ,Computerized Tomography (CT Scan) of Right Calcaneus using Other Contrast,BQ2JYZ,2016,2027
+BQ2JZ,None,BQ2J,2016,2027
+BQ2JZZ,None,BQ2JZ,2016,2027
+BQ2JZZZ,Computerized Tomography (CT Scan) of Right Calcaneus,BQ2JZZ,2016,2027
+BQ2K,"Calcaneus, Left",BQ2,2016,2027
+BQ2K0,High Osmolar,BQ2K,2016,2027
+BQ2K0Z,None,BQ2K0,2016,2027
+BQ2K0ZZ,Computerized Tomography (CT Scan) of Left Calcaneus using High Osmolar Contrast,BQ2K0Z,2016,2027
+BQ2K1,Low Osmolar,BQ2K,2016,2027
+BQ2K1Z,None,BQ2K1,2016,2027
+BQ2K1ZZ,Computerized Tomography (CT Scan) of Left Calcaneus using Low Osmolar Contrast,BQ2K1Z,2016,2027
+BQ2KY,Other Contrast,BQ2K,2016,2027
+BQ2KYZ,None,BQ2KY,2016,2027
+BQ2KYZZ,Computerized Tomography (CT Scan) of Left Calcaneus using Other Contrast,BQ2KYZ,2016,2027
+BQ2KZ,None,BQ2K,2016,2027
+BQ2KZZ,None,BQ2KZ,2016,2027
+BQ2KZZZ,Computerized Tomography (CT Scan) of Left Calcaneus,BQ2KZZ,2016,2027
+BQ2L,"Foot, Right",BQ2,2016,2027
+BQ2L0,High Osmolar,BQ2L,2016,2027
+BQ2L0Z,None,BQ2L0,2016,2027
+BQ2L0ZZ,Computerized Tomography (CT Scan) of Right Foot using High Osmolar Contrast,BQ2L0Z,2016,2027
+BQ2L1,Low Osmolar,BQ2L,2016,2027
+BQ2L1Z,None,BQ2L1,2016,2027
+BQ2L1ZZ,Computerized Tomography (CT Scan) of Right Foot using Low Osmolar Contrast,BQ2L1Z,2016,2027
+BQ2LY,Other Contrast,BQ2L,2016,2027
+BQ2LYZ,None,BQ2LY,2016,2027
+BQ2LYZZ,Computerized Tomography (CT Scan) of Right Foot using Other Contrast,BQ2LYZ,2016,2027
+BQ2LZ,None,BQ2L,2016,2027
+BQ2LZZ,None,BQ2LZ,2016,2027
+BQ2LZZZ,Computerized Tomography (CT Scan) of Right Foot,BQ2LZZ,2016,2027
+BQ2M,"Foot, Left",BQ2,2016,2027
+BQ2M0,High Osmolar,BQ2M,2016,2027
+BQ2M0Z,None,BQ2M0,2016,2027
+BQ2M0ZZ,Computerized Tomography (CT Scan) of Left Foot using High Osmolar Contrast,BQ2M0Z,2016,2027
+BQ2M1,Low Osmolar,BQ2M,2016,2027
+BQ2M1Z,None,BQ2M1,2016,2027
+BQ2M1ZZ,Computerized Tomography (CT Scan) of Left Foot using Low Osmolar Contrast,BQ2M1Z,2016,2027
+BQ2MY,Other Contrast,BQ2M,2016,2027
+BQ2MYZ,None,BQ2MY,2016,2027
+BQ2MYZZ,Computerized Tomography (CT Scan) of Left Foot using Other Contrast,BQ2MYZ,2016,2027
+BQ2MZ,None,BQ2M,2016,2027
+BQ2MZZ,None,BQ2MZ,2016,2027
+BQ2MZZZ,Computerized Tomography (CT Scan) of Left Foot,BQ2MZZ,2016,2027
+BQ2P,"Toe(s), Right",BQ2,2016,2027
+BQ2P0,High Osmolar,BQ2P,2016,2027
+BQ2P0Z,None,BQ2P0,2016,2027
+BQ2P0ZZ,Computerized Tomography (CT Scan) of Right Toe(s) using High Osmolar Contrast,BQ2P0Z,2016,2027
+BQ2P1,Low Osmolar,BQ2P,2016,2027
+BQ2P1Z,None,BQ2P1,2016,2027
+BQ2P1ZZ,Computerized Tomography (CT Scan) of Right Toe(s) using Low Osmolar Contrast,BQ2P1Z,2016,2027
+BQ2PY,Other Contrast,BQ2P,2016,2027
+BQ2PYZ,None,BQ2PY,2016,2027
+BQ2PYZZ,Computerized Tomography (CT Scan) of Right Toe(s) using Other Contrast,BQ2PYZ,2016,2027
+BQ2PZ,None,BQ2P,2016,2027
+BQ2PZZ,None,BQ2PZ,2016,2027
+BQ2PZZZ,Computerized Tomography (CT Scan) of Right Toe(s),BQ2PZZ,2016,2027
+BQ2Q,"Toe(s), Left",BQ2,2016,2027
+BQ2Q0,High Osmolar,BQ2Q,2016,2027
+BQ2Q0Z,None,BQ2Q0,2016,2027
+BQ2Q0ZZ,Computerized Tomography (CT Scan) of Left Toe(s) using High Osmolar Contrast,BQ2Q0Z,2016,2027
+BQ2Q1,Low Osmolar,BQ2Q,2016,2027
+BQ2Q1Z,None,BQ2Q1,2016,2027
+BQ2Q1ZZ,Computerized Tomography (CT Scan) of Left Toe(s) using Low Osmolar Contrast,BQ2Q1Z,2016,2027
+BQ2QY,Other Contrast,BQ2Q,2016,2027
+BQ2QYZ,None,BQ2QY,2016,2027
+BQ2QYZZ,Computerized Tomography (CT Scan) of Left Toe(s) using Other Contrast,BQ2QYZ,2016,2027
+BQ2QZ,None,BQ2Q,2016,2027
+BQ2QZZ,None,BQ2QZ,2016,2027
+BQ2QZZZ,Computerized Tomography (CT Scan) of Left Toe(s),BQ2QZZ,2016,2027
+BQ2R,"Lower Extremity, Right",BQ2,2016,2027
+BQ2R0,High Osmolar,BQ2R,2016,2027
+BQ2R0Z,None,BQ2R0,2016,2027
+BQ2R0ZZ,Computerized Tomography (CT Scan) of Right Lower Extremity using High Osmolar Contrast,BQ2R0Z,2016,2027
+BQ2R1,Low Osmolar,BQ2R,2016,2027
+BQ2R1Z,None,BQ2R1,2016,2027
+BQ2R1ZZ,Computerized Tomography (CT Scan) of Right Lower Extremity using Low Osmolar Contrast,BQ2R1Z,2016,2027
+BQ2RY,Other Contrast,BQ2R,2016,2027
+BQ2RYZ,None,BQ2RY,2016,2027
+BQ2RYZZ,Computerized Tomography (CT Scan) of Right Lower Extremity using Other Contrast,BQ2RYZ,2016,2027
+BQ2RZ,None,BQ2R,2016,2027
+BQ2RZZ,None,BQ2RZ,2016,2027
+BQ2RZZZ,Computerized Tomography (CT Scan) of Right Lower Extremity,BQ2RZZ,2016,2027
+BQ2S,"Lower Extremity, Left",BQ2,2016,2027
+BQ2S0,High Osmolar,BQ2S,2016,2027
+BQ2S0Z,None,BQ2S0,2016,2027
+BQ2S0ZZ,Computerized Tomography (CT Scan) of Left Lower Extremity using High Osmolar Contrast,BQ2S0Z,2016,2027
+BQ2S1,Low Osmolar,BQ2S,2016,2027
+BQ2S1Z,None,BQ2S1,2016,2027
+BQ2S1ZZ,Computerized Tomography (CT Scan) of Left Lower Extremity using Low Osmolar Contrast,BQ2S1Z,2016,2027
+BQ2SY,Other Contrast,BQ2S,2016,2027
+BQ2SYZ,None,BQ2SY,2016,2027
+BQ2SYZZ,Computerized Tomography (CT Scan) of Left Lower Extremity using Other Contrast,BQ2SYZ,2016,2027
+BQ2SZ,None,BQ2S,2016,2027
+BQ2SZZ,None,BQ2SZ,2016,2027
+BQ2SZZZ,Computerized Tomography (CT Scan) of Left Lower Extremity,BQ2SZZ,2016,2027
+BQ2V,"Patella, Right",BQ2,2016,2027
+BQ2V0,High Osmolar,BQ2V,2016,2027
+BQ2V0Z,None,BQ2V0,2016,2027
+BQ2V0ZZ,Computerized Tomography (CT Scan) of Right Patella using High Osmolar Contrast,BQ2V0Z,2016,2027
+BQ2V1,Low Osmolar,BQ2V,2016,2027
+BQ2V1Z,None,BQ2V1,2016,2027
+BQ2V1ZZ,Computerized Tomography (CT Scan) of Right Patella using Low Osmolar Contrast,BQ2V1Z,2016,2027
+BQ2VY,Other Contrast,BQ2V,2016,2027
+BQ2VYZ,None,BQ2VY,2016,2027
+BQ2VYZZ,Computerized Tomography (CT Scan) of Right Patella using Other Contrast,BQ2VYZ,2016,2027
+BQ2VZ,None,BQ2V,2016,2027
+BQ2VZZ,None,BQ2VZ,2016,2027
+BQ2VZZZ,Computerized Tomography (CT Scan) of Right Patella,BQ2VZZ,2016,2027
+BQ2W,"Patella, Left",BQ2,2016,2027
+BQ2W0,High Osmolar,BQ2W,2016,2027
+BQ2W0Z,None,BQ2W0,2016,2027
+BQ2W0ZZ,Computerized Tomography (CT Scan) of Left Patella using High Osmolar Contrast,BQ2W0Z,2016,2027
+BQ2W1,Low Osmolar,BQ2W,2016,2027
+BQ2W1Z,None,BQ2W1,2016,2027
+BQ2W1ZZ,Computerized Tomography (CT Scan) of Left Patella using Low Osmolar Contrast,BQ2W1Z,2016,2027
+BQ2WY,Other Contrast,BQ2W,2016,2027
+BQ2WYZ,None,BQ2WY,2016,2027
+BQ2WYZZ,Computerized Tomography (CT Scan) of Left Patella using Other Contrast,BQ2WYZ,2016,2027
+BQ2WZ,None,BQ2W,2016,2027
+BQ2WZZ,None,BQ2WZ,2016,2027
+BQ2WZZZ,Computerized Tomography (CT Scan) of Left Patella,BQ2WZZ,2016,2027
+BQ2X,"Foot/Toe Joint, Right",BQ2,2016,2027
+BQ2X0,High Osmolar,BQ2X,2016,2027
+BQ2X0Z,None,BQ2X0,2016,2027
+BQ2X0ZZ,Computerized Tomography (CT Scan) of Right Foot/Toe Joint using High Osmolar Contrast,BQ2X0Z,2016,2027
+BQ2X1,Low Osmolar,BQ2X,2016,2027
+BQ2X1Z,None,BQ2X1,2016,2027
+BQ2X1ZZ,Computerized Tomography (CT Scan) of Right Foot/Toe Joint using Low Osmolar Contrast,BQ2X1Z,2016,2027
+BQ2XY,Other Contrast,BQ2X,2016,2027
+BQ2XYZ,None,BQ2XY,2016,2027
+BQ2XYZZ,Computerized Tomography (CT Scan) of Right Foot/Toe Joint using Other Contrast,BQ2XYZ,2016,2027
+BQ2XZ,None,BQ2X,2016,2027
+BQ2XZZ,None,BQ2XZ,2016,2027
+BQ2XZZZ,Computerized Tomography (CT Scan) of Right Foot/Toe Joint,BQ2XZZ,2016,2027
+BQ2Y,"Foot/Toe Joint, Left",BQ2,2016,2027
+BQ2Y0,High Osmolar,BQ2Y,2016,2027
+BQ2Y0Z,None,BQ2Y0,2016,2027
+BQ2Y0ZZ,Computerized Tomography (CT Scan) of Left Foot/Toe Joint using High Osmolar Contrast,BQ2Y0Z,2016,2027
+BQ2Y1,Low Osmolar,BQ2Y,2016,2027
+BQ2Y1Z,None,BQ2Y1,2016,2027
+BQ2Y1ZZ,Computerized Tomography (CT Scan) of Left Foot/Toe Joint using Low Osmolar Contrast,BQ2Y1Z,2016,2027
+BQ2YY,Other Contrast,BQ2Y,2016,2027
+BQ2YYZ,None,BQ2YY,2016,2027
+BQ2YYZZ,Computerized Tomography (CT Scan) of Left Foot/Toe Joint using Other Contrast,BQ2YYZ,2016,2027
+BQ2YZ,None,BQ2Y,2016,2027
+BQ2YZZ,None,BQ2YZ,2016,2027
+BQ2YZZZ,Computerized Tomography (CT Scan) of Left Foot/Toe Joint,BQ2YZZ,2016,2027
+BQ3,Magnetic Resonance Imaging (MRI),BQ,2016,2027
+BQ30,"Hip, Right",BQ3,2016,2027
+BQ30Y,Other Contrast,BQ30,2016,2027
+BQ30Y0,Unenhanced and Enhanced,BQ30Y,2016,2027
+BQ30Y0Z,"Magnetic Resonance Imaging (MRI) of Right Hip using Other Contrast, Unenhanced and Enhanced",BQ30Y0,2016,2027
+BQ30YZ,None,BQ30Y,2016,2027
+BQ30YZZ,Magnetic Resonance Imaging (MRI) of Right Hip using Other Contrast,BQ30YZ,2016,2027
+BQ30Z,None,BQ30,2016,2027
+BQ30ZZ,None,BQ30Z,2016,2027
+BQ30ZZZ,Magnetic Resonance Imaging (MRI) of Right Hip,BQ30ZZ,2016,2027
+BQ31,"Hip, Left",BQ3,2016,2027
+BQ31Y,Other Contrast,BQ31,2016,2027
+BQ31Y0,Unenhanced and Enhanced,BQ31Y,2016,2027
+BQ31Y0Z,"Magnetic Resonance Imaging (MRI) of Left Hip using Other Contrast, Unenhanced and Enhanced",BQ31Y0,2016,2027
+BQ31YZ,None,BQ31Y,2016,2027
+BQ31YZZ,Magnetic Resonance Imaging (MRI) of Left Hip using Other Contrast,BQ31YZ,2016,2027
+BQ31Z,None,BQ31,2016,2027
+BQ31ZZ,None,BQ31Z,2016,2027
+BQ31ZZZ,Magnetic Resonance Imaging (MRI) of Left Hip,BQ31ZZ,2016,2027
+BQ33,"Femur, Right",BQ3,2016,2027
+BQ33Y,Other Contrast,BQ33,2016,2027
+BQ33Y0,Unenhanced and Enhanced,BQ33Y,2016,2027
+BQ33Y0Z,"Magnetic Resonance Imaging (MRI) of Right Femur using Other Contrast, Unenhanced and Enhanced",BQ33Y0,2016,2027
+BQ33YZ,None,BQ33Y,2016,2027
+BQ33YZZ,Magnetic Resonance Imaging (MRI) of Right Femur using Other Contrast,BQ33YZ,2016,2027
+BQ33Z,None,BQ33,2016,2027
+BQ33ZZ,None,BQ33Z,2016,2027
+BQ33ZZZ,Magnetic Resonance Imaging (MRI) of Right Femur,BQ33ZZ,2016,2027
+BQ34,"Femur, Left",BQ3,2016,2027
+BQ34Y,Other Contrast,BQ34,2016,2027
+BQ34Y0,Unenhanced and Enhanced,BQ34Y,2016,2027
+BQ34Y0Z,"Magnetic Resonance Imaging (MRI) of Left Femur using Other Contrast, Unenhanced and Enhanced",BQ34Y0,2016,2027
+BQ34YZ,None,BQ34Y,2016,2027
+BQ34YZZ,Magnetic Resonance Imaging (MRI) of Left Femur using Other Contrast,BQ34YZ,2016,2027
+BQ34Z,None,BQ34,2016,2027
+BQ34ZZ,None,BQ34Z,2016,2027
+BQ34ZZZ,Magnetic Resonance Imaging (MRI) of Left Femur,BQ34ZZ,2016,2027
+BQ37,"Knee, Right",BQ3,2016,2027
+BQ37Y,Other Contrast,BQ37,2016,2027
+BQ37Y0,Unenhanced and Enhanced,BQ37Y,2016,2027
+BQ37Y0Z,"Magnetic Resonance Imaging (MRI) of Right Knee using Other Contrast, Unenhanced and Enhanced",BQ37Y0,2016,2027
+BQ37YZ,None,BQ37Y,2016,2027
+BQ37YZZ,Magnetic Resonance Imaging (MRI) of Right Knee using Other Contrast,BQ37YZ,2016,2027
+BQ37Z,None,BQ37,2016,2027
+BQ37ZZ,None,BQ37Z,2016,2027
+BQ37ZZZ,Magnetic Resonance Imaging (MRI) of Right Knee,BQ37ZZ,2016,2027
+BQ38,"Knee, Left",BQ3,2016,2027
+BQ38Y,Other Contrast,BQ38,2016,2027
+BQ38Y0,Unenhanced and Enhanced,BQ38Y,2016,2027
+BQ38Y0Z,"Magnetic Resonance Imaging (MRI) of Left Knee using Other Contrast, Unenhanced and Enhanced",BQ38Y0,2016,2027
+BQ38YZ,None,BQ38Y,2016,2027
+BQ38YZZ,Magnetic Resonance Imaging (MRI) of Left Knee using Other Contrast,BQ38YZ,2016,2027
+BQ38Z,None,BQ38,2016,2027
+BQ38ZZ,None,BQ38Z,2016,2027
+BQ38ZZZ,Magnetic Resonance Imaging (MRI) of Left Knee,BQ38ZZ,2016,2027
+BQ3D,"Lower Leg, Right",BQ3,2016,2027
+BQ3DY,Other Contrast,BQ3D,2016,2027
+BQ3DY0,Unenhanced and Enhanced,BQ3DY,2016,2027
+BQ3DY0Z,"Magnetic Resonance Imaging (MRI) of Right Lower Leg using Other Contrast, Unenhanced and Enhanced",BQ3DY0,2016,2027
+BQ3DYZ,None,BQ3DY,2016,2027
+BQ3DYZZ,Magnetic Resonance Imaging (MRI) of Right Lower Leg using Other Contrast,BQ3DYZ,2016,2027
+BQ3DZ,None,BQ3D,2016,2027
+BQ3DZZ,None,BQ3DZ,2016,2027
+BQ3DZZZ,Magnetic Resonance Imaging (MRI) of Right Lower Leg,BQ3DZZ,2016,2027
+BQ3F,"Lower Leg, Left",BQ3,2016,2027
+BQ3FY,Other Contrast,BQ3F,2016,2027
+BQ3FY0,Unenhanced and Enhanced,BQ3FY,2016,2027
+BQ3FY0Z,"Magnetic Resonance Imaging (MRI) of Left Lower Leg using Other Contrast, Unenhanced and Enhanced",BQ3FY0,2016,2027
+BQ3FYZ,None,BQ3FY,2016,2027
+BQ3FYZZ,Magnetic Resonance Imaging (MRI) of Left Lower Leg using Other Contrast,BQ3FYZ,2016,2027
+BQ3FZ,None,BQ3F,2016,2027
+BQ3FZZ,None,BQ3FZ,2016,2027
+BQ3FZZZ,Magnetic Resonance Imaging (MRI) of Left Lower Leg,BQ3FZZ,2016,2027
+BQ3G,"Ankle, Right",BQ3,2016,2027
+BQ3GY,Other Contrast,BQ3G,2016,2027
+BQ3GY0,Unenhanced and Enhanced,BQ3GY,2016,2027
+BQ3GY0Z,"Magnetic Resonance Imaging (MRI) of Right Ankle using Other Contrast, Unenhanced and Enhanced",BQ3GY0,2016,2027
+BQ3GYZ,None,BQ3GY,2016,2027
+BQ3GYZZ,Magnetic Resonance Imaging (MRI) of Right Ankle using Other Contrast,BQ3GYZ,2016,2027
+BQ3GZ,None,BQ3G,2016,2027
+BQ3GZZ,None,BQ3GZ,2016,2027
+BQ3GZZZ,Magnetic Resonance Imaging (MRI) of Right Ankle,BQ3GZZ,2016,2027
+BQ3H,"Ankle, Left",BQ3,2016,2027
+BQ3HY,Other Contrast,BQ3H,2016,2027
+BQ3HY0,Unenhanced and Enhanced,BQ3HY,2016,2027
+BQ3HY0Z,"Magnetic Resonance Imaging (MRI) of Left Ankle using Other Contrast, Unenhanced and Enhanced",BQ3HY0,2016,2027
+BQ3HYZ,None,BQ3HY,2016,2027
+BQ3HYZZ,Magnetic Resonance Imaging (MRI) of Left Ankle using Other Contrast,BQ3HYZ,2016,2027
+BQ3HZ,None,BQ3H,2016,2027
+BQ3HZZ,None,BQ3HZ,2016,2027
+BQ3HZZZ,Magnetic Resonance Imaging (MRI) of Left Ankle,BQ3HZZ,2016,2027
+BQ3J,"Calcaneus, Right",BQ3,2016,2027
+BQ3JY,Other Contrast,BQ3J,2016,2027
+BQ3JY0,Unenhanced and Enhanced,BQ3JY,2016,2027
+BQ3JY0Z,"Magnetic Resonance Imaging (MRI) of Right Calcaneus using Other Contrast, Unenhanced and Enhanced",BQ3JY0,2016,2027
+BQ3JYZ,None,BQ3JY,2016,2027
+BQ3JYZZ,Magnetic Resonance Imaging (MRI) of Right Calcaneus using Other Contrast,BQ3JYZ,2016,2027
+BQ3JZ,None,BQ3J,2016,2027
+BQ3JZZ,None,BQ3JZ,2016,2027
+BQ3JZZZ,Magnetic Resonance Imaging (MRI) of Right Calcaneus,BQ3JZZ,2016,2027
+BQ3K,"Calcaneus, Left",BQ3,2016,2027
+BQ3KY,Other Contrast,BQ3K,2016,2027
+BQ3KY0,Unenhanced and Enhanced,BQ3KY,2016,2027
+BQ3KY0Z,"Magnetic Resonance Imaging (MRI) of Left Calcaneus using Other Contrast, Unenhanced and Enhanced",BQ3KY0,2016,2027
+BQ3KYZ,None,BQ3KY,2016,2027
+BQ3KYZZ,Magnetic Resonance Imaging (MRI) of Left Calcaneus using Other Contrast,BQ3KYZ,2016,2027
+BQ3KZ,None,BQ3K,2016,2027
+BQ3KZZ,None,BQ3KZ,2016,2027
+BQ3KZZZ,Magnetic Resonance Imaging (MRI) of Left Calcaneus,BQ3KZZ,2016,2027
+BQ3L,"Foot, Right",BQ3,2016,2027
+BQ3LY,Other Contrast,BQ3L,2016,2027
+BQ3LY0,Unenhanced and Enhanced,BQ3LY,2016,2027
+BQ3LY0Z,"Magnetic Resonance Imaging (MRI) of Right Foot using Other Contrast, Unenhanced and Enhanced",BQ3LY0,2016,2027
+BQ3LYZ,None,BQ3LY,2016,2027
+BQ3LYZZ,Magnetic Resonance Imaging (MRI) of Right Foot using Other Contrast,BQ3LYZ,2016,2027
+BQ3LZ,None,BQ3L,2016,2027
+BQ3LZZ,None,BQ3LZ,2016,2027
+BQ3LZZZ,Magnetic Resonance Imaging (MRI) of Right Foot,BQ3LZZ,2016,2027
+BQ3M,"Foot, Left",BQ3,2016,2027
+BQ3MY,Other Contrast,BQ3M,2016,2027
+BQ3MY0,Unenhanced and Enhanced,BQ3MY,2016,2027
+BQ3MY0Z,"Magnetic Resonance Imaging (MRI) of Left Foot using Other Contrast, Unenhanced and Enhanced",BQ3MY0,2016,2027
+BQ3MYZ,None,BQ3MY,2016,2027
+BQ3MYZZ,Magnetic Resonance Imaging (MRI) of Left Foot using Other Contrast,BQ3MYZ,2016,2027
+BQ3MZ,None,BQ3M,2016,2027
+BQ3MZZ,None,BQ3MZ,2016,2027
+BQ3MZZZ,Magnetic Resonance Imaging (MRI) of Left Foot,BQ3MZZ,2016,2027
+BQ3P,"Toe(s), Right",BQ3,2016,2027
+BQ3PY,Other Contrast,BQ3P,2016,2027
+BQ3PY0,Unenhanced and Enhanced,BQ3PY,2016,2027
+BQ3PY0Z,"Magnetic Resonance Imaging (MRI) of Right Toe(s) using Other Contrast, Unenhanced and Enhanced",BQ3PY0,2016,2027
+BQ3PYZ,None,BQ3PY,2016,2027
+BQ3PYZZ,Magnetic Resonance Imaging (MRI) of Right Toe(s) using Other Contrast,BQ3PYZ,2016,2027
+BQ3PZ,None,BQ3P,2016,2027
+BQ3PZZ,None,BQ3PZ,2016,2027
+BQ3PZZZ,Magnetic Resonance Imaging (MRI) of Right Toe(s),BQ3PZZ,2016,2027
+BQ3Q,"Toe(s), Left",BQ3,2016,2027
+BQ3QY,Other Contrast,BQ3Q,2016,2027
+BQ3QY0,Unenhanced and Enhanced,BQ3QY,2016,2027
+BQ3QY0Z,"Magnetic Resonance Imaging (MRI) of Left Toe(s) using Other Contrast, Unenhanced and Enhanced",BQ3QY0,2016,2027
+BQ3QYZ,None,BQ3QY,2016,2027
+BQ3QYZZ,Magnetic Resonance Imaging (MRI) of Left Toe(s) using Other Contrast,BQ3QYZ,2016,2027
+BQ3QZ,None,BQ3Q,2016,2027
+BQ3QZZ,None,BQ3QZ,2016,2027
+BQ3QZZZ,Magnetic Resonance Imaging (MRI) of Left Toe(s),BQ3QZZ,2016,2027
+BQ3V,"Patella, Right",BQ3,2016,2027
+BQ3VY,Other Contrast,BQ3V,2016,2027
+BQ3VY0,Unenhanced and Enhanced,BQ3VY,2016,2027
+BQ3VY0Z,"Magnetic Resonance Imaging (MRI) of Right Patella using Other Contrast, Unenhanced and Enhanced",BQ3VY0,2016,2027
+BQ3VYZ,None,BQ3VY,2016,2027
+BQ3VYZZ,Magnetic Resonance Imaging (MRI) of Right Patella using Other Contrast,BQ3VYZ,2016,2027
+BQ3VZ,None,BQ3V,2016,2027
+BQ3VZZ,None,BQ3VZ,2016,2027
+BQ3VZZZ,Magnetic Resonance Imaging (MRI) of Right Patella,BQ3VZZ,2016,2027
+BQ3W,"Patella, Left",BQ3,2016,2027
+BQ3WY,Other Contrast,BQ3W,2016,2027
+BQ3WY0,Unenhanced and Enhanced,BQ3WY,2016,2027
+BQ3WY0Z,"Magnetic Resonance Imaging (MRI) of Left Patella using Other Contrast, Unenhanced and Enhanced",BQ3WY0,2016,2027
+BQ3WYZ,None,BQ3WY,2016,2027
+BQ3WYZZ,Magnetic Resonance Imaging (MRI) of Left Patella using Other Contrast,BQ3WYZ,2016,2027
+BQ3WZ,None,BQ3W,2016,2027
+BQ3WZZ,None,BQ3WZ,2016,2027
+BQ3WZZZ,Magnetic Resonance Imaging (MRI) of Left Patella,BQ3WZZ,2016,2027
+BQ4,Ultrasonography,BQ,2016,2027
+BQ40,"Hip, Right",BQ4,2016,2027
+BQ40Z,None,BQ40,2016,2027
+BQ40ZZ,None,BQ40Z,2016,2027
+BQ40ZZZ,Ultrasonography of Right Hip,BQ40ZZ,2016,2027
+BQ41,"Hip, Left",BQ4,2016,2027
+BQ41Z,None,BQ41,2016,2027
+BQ41ZZ,None,BQ41Z,2016,2027
+BQ41ZZZ,Ultrasonography of Left Hip,BQ41ZZ,2016,2027
+BQ42,"Hips, Bilateral",BQ4,2016,2027
+BQ42Z,None,BQ42,2016,2027
+BQ42ZZ,None,BQ42Z,2016,2027
+BQ42ZZZ,Ultrasonography of Bilateral Hips,BQ42ZZ,2016,2027
+BQ47,"Knee, Right",BQ4,2016,2027
+BQ47Z,None,BQ47,2016,2027
+BQ47ZZ,None,BQ47Z,2016,2027
+BQ47ZZZ,Ultrasonography of Right Knee,BQ47ZZ,2016,2027
+BQ48,"Knee, Left",BQ4,2016,2027
+BQ48Z,None,BQ48,2016,2027
+BQ48ZZ,None,BQ48Z,2016,2027
+BQ48ZZZ,Ultrasonography of Left Knee,BQ48ZZ,2016,2027
+BQ49,"Knees, Bilateral",BQ4,2016,2027
+BQ49Z,None,BQ49,2016,2027
+BQ49ZZ,None,BQ49Z,2016,2027
+BQ49ZZZ,Ultrasonography of Bilateral Knees,BQ49ZZ,2016,2027

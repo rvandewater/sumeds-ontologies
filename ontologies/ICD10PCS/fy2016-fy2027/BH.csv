@@ -1,0 +1,173 @@
+code,description,parent,first_year,last_year
+BH,"Skin, Subcutaneous Tissue and Breast",B,2016,2027
+BH0,Plain Radiography,BH,2016,2027
+BH00,"Breast, Right",BH0,2016,2027
+BH00Z,None,BH00,2016,2027
+BH00ZZ,None,BH00Z,2016,2027
+BH00ZZZ,Plain Radiography of Right Breast,BH00ZZ,2016,2027
+BH01,"Breast, Left",BH0,2016,2027
+BH01Z,None,BH01,2016,2027
+BH01ZZ,None,BH01Z,2016,2027
+BH01ZZZ,Plain Radiography of Left Breast,BH01ZZ,2016,2027
+BH02,"Breasts, Bilateral",BH0,2016,2027
+BH02Z,None,BH02,2016,2027
+BH02ZZ,None,BH02Z,2016,2027
+BH02ZZZ,Plain Radiography of Bilateral Breasts,BH02ZZ,2016,2027
+BH03,"Single Mammary Duct, Right",BH0,2016,2027
+BH030,High Osmolar,BH03,2016,2027
+BH030Z,None,BH030,2016,2027
+BH030ZZ,Plain Radiography of Right Single Mammary Duct using High Osmolar Contrast,BH030Z,2016,2027
+BH031,Low Osmolar,BH03,2016,2027
+BH031Z,None,BH031,2016,2027
+BH031ZZ,Plain Radiography of Right Single Mammary Duct using Low Osmolar Contrast,BH031Z,2016,2027
+BH03Y,Other Contrast,BH03,2016,2027
+BH03YZ,None,BH03Y,2016,2027
+BH03YZZ,Plain Radiography of Right Single Mammary Duct using Other Contrast,BH03YZ,2016,2027
+BH03Z,None,BH03,2016,2027
+BH03ZZ,None,BH03Z,2016,2027
+BH03ZZZ,Plain Radiography of Right Single Mammary Duct,BH03ZZ,2016,2027
+BH04,"Single Mammary Duct, Left",BH0,2016,2027
+BH040,High Osmolar,BH04,2016,2027
+BH040Z,None,BH040,2016,2027
+BH040ZZ,Plain Radiography of Left Single Mammary Duct using High Osmolar Contrast,BH040Z,2016,2027
+BH041,Low Osmolar,BH04,2016,2027
+BH041Z,None,BH041,2016,2027
+BH041ZZ,Plain Radiography of Left Single Mammary Duct using Low Osmolar Contrast,BH041Z,2016,2027
+BH04Y,Other Contrast,BH04,2016,2027
+BH04YZ,None,BH04Y,2016,2027
+BH04YZZ,Plain Radiography of Left Single Mammary Duct using Other Contrast,BH04YZ,2016,2027
+BH04Z,None,BH04,2016,2027
+BH04ZZ,None,BH04Z,2016,2027
+BH04ZZZ,Plain Radiography of Left Single Mammary Duct,BH04ZZ,2016,2027
+BH05,"Multiple Mammary Ducts, Right",BH0,2016,2027
+BH050,High Osmolar,BH05,2016,2027
+BH050Z,None,BH050,2016,2027
+BH050ZZ,Plain Radiography of Right Multiple Mammary Ducts using High Osmolar Contrast,BH050Z,2016,2027
+BH051,Low Osmolar,BH05,2016,2027
+BH051Z,None,BH051,2016,2027
+BH051ZZ,Plain Radiography of Right Multiple Mammary Ducts using Low Osmolar Contrast,BH051Z,2016,2027
+BH05Y,Other Contrast,BH05,2016,2027
+BH05YZ,None,BH05Y,2016,2027
+BH05YZZ,Plain Radiography of Right Multiple Mammary Ducts using Other Contrast,BH05YZ,2016,2027
+BH05Z,None,BH05,2016,2027
+BH05ZZ,None,BH05Z,2016,2027
+BH05ZZZ,Plain Radiography of Right Multiple Mammary Ducts,BH05ZZ,2016,2027
+BH06,"Multiple Mammary Ducts, Left",BH0,2016,2027
+BH060,High Osmolar,BH06,2016,2027
+BH060Z,None,BH060,2016,2027
+BH060ZZ,Plain Radiography of Left Multiple Mammary Ducts using High Osmolar Contrast,BH060Z,2016,2027
+BH061,Low Osmolar,BH06,2016,2027
+BH061Z,None,BH061,2016,2027
+BH061ZZ,Plain Radiography of Left Multiple Mammary Ducts using Low Osmolar Contrast,BH061Z,2016,2027
+BH06Y,Other Contrast,BH06,2016,2027
+BH06YZ,None,BH06Y,2016,2027
+BH06YZZ,Plain Radiography of Left Multiple Mammary Ducts using Other Contrast,BH06YZ,2016,2027
+BH06Z,None,BH06,2016,2027
+BH06ZZ,None,BH06Z,2016,2027
+BH06ZZZ,Plain Radiography of Left Multiple Mammary Ducts,BH06ZZ,2016,2027
+BH3,Magnetic Resonance Imaging (MRI),BH,2016,2027
+BH30,"Breast, Right",BH3,2016,2027
+BH30Y,Other Contrast,BH30,2016,2027
+BH30Y0,Unenhanced and Enhanced,BH30Y,2016,2027
+BH30Y0Z,"Magnetic Resonance Imaging (MRI) of Right Breast using Other Contrast, Unenhanced and Enhanced",BH30Y0,2016,2027
+BH30YZ,None,BH30Y,2016,2027
+BH30YZZ,Magnetic Resonance Imaging (MRI) of Right Breast using Other Contrast,BH30YZ,2016,2027
+BH30Z,None,BH30,2016,2027
+BH30ZZ,None,BH30Z,2016,2027
+BH30ZZZ,Magnetic Resonance Imaging (MRI) of Right Breast,BH30ZZ,2016,2027
+BH31,"Breast, Left",BH3,2016,2027
+BH31Y,Other Contrast,BH31,2016,2027
+BH31Y0,Unenhanced and Enhanced,BH31Y,2016,2027
+BH31Y0Z,"Magnetic Resonance Imaging (MRI) of Left Breast using Other Contrast, Unenhanced and Enhanced",BH31Y0,2016,2027
+BH31YZ,None,BH31Y,2016,2027
+BH31YZZ,Magnetic Resonance Imaging (MRI) of Left Breast using Other Contrast,BH31YZ,2016,2027
+BH31Z,None,BH31,2016,2027
+BH31ZZ,None,BH31Z,2016,2027
+BH31ZZZ,Magnetic Resonance Imaging (MRI) of Left Breast,BH31ZZ,2016,2027
+BH32,"Breasts, Bilateral",BH3,2016,2027
+BH32Y,Other Contrast,BH32,2016,2027
+BH32Y0,Unenhanced and Enhanced,BH32Y,2016,2027
+BH32Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Breasts using Other Contrast, Unenhanced and Enhanced",BH32Y0,2016,2027
+BH32YZ,None,BH32Y,2016,2027
+BH32YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Breasts using Other Contrast,BH32YZ,2016,2027
+BH32Z,None,BH32,2016,2027
+BH32ZZ,None,BH32Z,2016,2027
+BH32ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Breasts,BH32ZZ,2016,2027
+BH3D,"Subcutaneous Tissue, Head/Neck",BH3,2016,2027
+BH3DY,Other Contrast,BH3D,2016,2027
+BH3DY0,Unenhanced and Enhanced,BH3DY,2016,2027
+BH3DY0Z,"Magnetic Resonance Imaging (MRI) of Head/Neck Subcutaneous Tissue using Other Contrast, Unenhanced and Enhanced",BH3DY0,2016,2027
+BH3DYZ,None,BH3DY,2016,2027
+BH3DYZZ,Magnetic Resonance Imaging (MRI) of Head/Neck Subcutaneous Tissue using Other Contrast,BH3DYZ,2016,2027
+BH3DZ,None,BH3D,2016,2027
+BH3DZZ,None,BH3DZ,2016,2027
+BH3DZZZ,Magnetic Resonance Imaging (MRI) of Head/Neck Subcutaneous Tissue,BH3DZZ,2016,2027
+BH3F,"Subcutaneous Tissue, Upper Extremity",BH3,2016,2027
+BH3FY,Other Contrast,BH3F,2016,2027
+BH3FY0,Unenhanced and Enhanced,BH3FY,2016,2027
+BH3FY0Z,"Magnetic Resonance Imaging (MRI) of Upper Extremity Subcutaneous Tissue using Other Contrast, Unenhanced and Enhanced",BH3FY0,2016,2027
+BH3FYZ,None,BH3FY,2016,2027
+BH3FYZZ,Magnetic Resonance Imaging (MRI) of Upper Extremity Subcutaneous Tissue using Other Contrast,BH3FYZ,2016,2027
+BH3FZ,None,BH3F,2016,2027
+BH3FZZ,None,BH3FZ,2016,2027
+BH3FZZZ,Magnetic Resonance Imaging (MRI) of Upper Extremity Subcutaneous Tissue,BH3FZZ,2016,2027
+BH3G,"Subcutaneous Tissue, Thorax",BH3,2016,2027
+BH3GY,Other Contrast,BH3G,2016,2027
+BH3GY0,Unenhanced and Enhanced,BH3GY,2016,2027
+BH3GY0Z,"Magnetic Resonance Imaging (MRI) of Thorax Subcutaneous Tissue using Other Contrast, Unenhanced and Enhanced",BH3GY0,2016,2027
+BH3GYZ,None,BH3GY,2016,2027
+BH3GYZZ,Magnetic Resonance Imaging (MRI) of Thorax Subcutaneous Tissue using Other Contrast,BH3GYZ,2016,2027
+BH3GZ,None,BH3G,2016,2027
+BH3GZZ,None,BH3GZ,2016,2027
+BH3GZZZ,Magnetic Resonance Imaging (MRI) of Thorax Subcutaneous Tissue,BH3GZZ,2016,2027
+BH3H,"Subcutaneous Tissue, Abdomen and Pelvis",BH3,2016,2027
+BH3HY,Other Contrast,BH3H,2016,2027
+BH3HY0,Unenhanced and Enhanced,BH3HY,2016,2027
+BH3HY0Z,"Magnetic Resonance Imaging (MRI) of Abdomen and Pelvis Subcutaneous Tissue using Other Contrast, Unenhanced and Enhanced",BH3HY0,2016,2027
+BH3HYZ,None,BH3HY,2016,2027
+BH3HYZZ,Magnetic Resonance Imaging (MRI) of Abdomen and Pelvis Subcutaneous Tissue using Other Contrast,BH3HYZ,2016,2027
+BH3HZ,None,BH3H,2016,2027
+BH3HZZ,None,BH3HZ,2016,2027
+BH3HZZZ,Magnetic Resonance Imaging (MRI) of Abdomen and Pelvis Subcutaneous Tissue,BH3HZZ,2016,2027
+BH3J,"Subcutaneous Tissue, Lower Extremity",BH3,2016,2027
+BH3JY,Other Contrast,BH3J,2016,2027
+BH3JY0,Unenhanced and Enhanced,BH3JY,2016,2027
+BH3JY0Z,"Magnetic Resonance Imaging (MRI) of Lower Extremity Subcutaneous Tissue using Other Contrast, Unenhanced and Enhanced",BH3JY0,2016,2027
+BH3JYZ,None,BH3JY,2016,2027
+BH3JYZZ,Magnetic Resonance Imaging (MRI) of Lower Extremity Subcutaneous Tissue using Other Contrast,BH3JYZ,2016,2027
+BH3JZ,None,BH3J,2016,2027
+BH3JZZ,None,BH3JZ,2016,2027
+BH3JZZZ,Magnetic Resonance Imaging (MRI) of Lower Extremity Subcutaneous Tissue,BH3JZZ,2016,2027
+BH4,Ultrasonography,BH,2016,2027
+BH40,"Breast, Right",BH4,2016,2027
+BH40Z,None,BH40,2016,2027
+BH40ZZ,None,BH40Z,2016,2027
+BH40ZZZ,Ultrasonography of Right Breast,BH40ZZ,2016,2027
+BH41,"Breast, Left",BH4,2016,2027
+BH41Z,None,BH41,2016,2027
+BH41ZZ,None,BH41Z,2016,2027
+BH41ZZZ,Ultrasonography of Left Breast,BH41ZZ,2016,2027
+BH42,"Breasts, Bilateral",BH4,2016,2027
+BH42Z,None,BH42,2016,2027
+BH42ZZ,None,BH42Z,2016,2027
+BH42ZZZ,Ultrasonography of Bilateral Breasts,BH42ZZ,2016,2027
+BH47,"Extremity, Upper",BH4,2016,2027
+BH47Z,None,BH47,2016,2027
+BH47ZZ,None,BH47Z,2016,2027
+BH47ZZZ,Ultrasonography of Upper Extremity,BH47ZZ,2016,2027
+BH48,"Extremity, Lower",BH4,2016,2027
+BH48Z,None,BH48,2016,2027
+BH48ZZ,None,BH48Z,2016,2027
+BH48ZZZ,Ultrasonography of Lower Extremity,BH48ZZ,2016,2027
+BH49,Abdominal Wall,BH4,2016,2027
+BH49Z,None,BH49,2016,2027
+BH49ZZ,None,BH49Z,2016,2027
+BH49ZZZ,Ultrasonography of Abdominal Wall,BH49ZZ,2016,2027
+BH4B,Chest Wall,BH4,2016,2027
+BH4BZ,None,BH4B,2016,2027
+BH4BZZ,None,BH4BZ,2016,2027
+BH4BZZZ,Ultrasonography of Chest Wall,BH4BZZ,2016,2027
+BH4C,Head and Neck,BH4,2016,2027
+BH4CZ,None,BH4C,2016,2027
+BH4CZZ,None,BH4CZ,2016,2027
+BH4CZZZ,Ultrasonography of Head and Neck,BH4CZZ,2016,2027

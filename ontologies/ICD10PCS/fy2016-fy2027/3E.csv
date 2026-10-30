@@ -1,0 +1,2189 @@
+code,description,parent,first_year,last_year
+3E,Physiological Systems and Anatomical Regions,3,2016,2027
+3E0,Introduction,3E,2016,2027
+3E00,Skin and Mucous Membranes,3E0,2016,2027
+3E00X,External,3E00,2016,2027
+3E00X0,Antineoplastic,3E00X,2016,2027
+3E00X05,"Introduction of Other Antineoplastic into Skin and Mucous Membranes, External Approach",3E00X0,2016,2027
+3E00X0M,"Introduction of Antineoplastic, Monoclonal Antibody, into Skin and Mucous Membranes, External Approach",3E00X0,2016,2027
+3E00X2,Anti-infective,3E00X,2016,2027
+3E00X28,"Introduction of Oxazolidinones into Skin and Mucous Membranes, External Approach",3E00X2,2016,2027
+3E00X29,"Introduction of Other Anti-infective into Skin and Mucous Membranes, External Approach",3E00X2,2016,2027
+3E00X3,Anti-inflammatory,3E00X,2016,2027
+3E00X3Z,"Introduction of Anti-inflammatory into Skin and Mucous Membranes, External Approach",3E00X3,2016,2027
+3E00X4,"Serum, Toxoid and Vaccine",3E00X,2016,2027
+3E00X4Z,"Introduction of Serum, Toxoid and Vaccine into Skin and Mucous Membranes, External Approach",3E00X4,2016,2027
+3E00XB,Anesthetic Agent,3E00X,2016,2027
+3E00XBZ,"Introduction of Anesthetic Agent into Skin and Mucous Membranes, External Approach",3E00XB,2016,2027
+3E00XG,Other Therapeutic Substance,3E00X,2016,2027
+3E00XGC,"Introduction of Other Therapeutic Substance into Skin and Mucous Membranes, External Approach",3E00XG,2016,2027
+3E00XGF,"Introduction of Other Enzymatic/Chemical Agent into Skin and Mucous Membranes, External Approach",3E00XG,2027,2027
+3E00XK,Other Diagnostic Substance,3E00X,2016,2027
+3E00XKZ,"Introduction of Other Diagnostic Substance into Skin and Mucous Membranes, External Approach",3E00XK,2016,2027
+3E00XM,Pigment,3E00X,2016,2027
+3E00XMZ,"Introduction of Pigment into Skin and Mucous Membranes, External Approach",3E00XM,2016,2027
+3E00XN,"Analgesics, Hypnotics, Sedatives",3E00X,2016,2027
+3E00XNZ,"Introduction of Analgesics, Hypnotics, Sedatives into Skin and Mucous Membranes, External Approach",3E00XN,2016,2027
+3E00XT,Destructive Agent,3E00X,2016,2027
+3E00XTZ,"Introduction of Destructive Agent into Skin and Mucous Membranes, External Approach",3E00XT,2016,2027
+3E01,Subcutaneous Tissue,3E0,2016,2027
+3E010,Open,3E01,2016,2027
+3E0102,Anti-infective,3E010,2016,2027
+3E0102A,"Introduction of Anti-Infective Envelope into Subcutaneous Tissue, Open Approach",3E0102,2016,2027
+3E013,Percutaneous,3E01,2016,2027
+3E0130,Antineoplastic,3E013,2016,2027
+3E01305,"Introduction of Other Antineoplastic into Subcutaneous Tissue, Percutaneous Approach",3E0130,2016,2027
+3E0130M,"Introduction of Antineoplastic, Monoclonal Antibody, into Subcutaneous Tissue, Percutaneous Approach",3E0130,2016,2027
+3E0132,Anti-infective,3E013,2016,2027
+3E01328,"Introduction of Oxazolidinones into Subcutaneous Tissue, Percutaneous Approach",3E0132,2016,2027
+3E01329,"Introduction of Other Anti-infective into Subcutaneous Tissue, Percutaneous Approach",3E0132,2016,2027
+3E0132A,"Introduction of Anti-Infective Envelope into Subcutaneous Tissue, Percutaneous Approach",3E0132,2016,2027
+3E0133,Anti-inflammatory,3E013,2016,2027
+3E0133Z,"Introduction of Anti-inflammatory into Subcutaneous Tissue, Percutaneous Approach",3E0133,2016,2027
+3E0134,"Serum, Toxoid and Vaccine",3E013,2016,2027
+3E01340,"Introduction of Influenza Vaccine into Subcutaneous Tissue, Percutaneous Approach",3E0134,2018,2027
+3E0134Z,"Introduction of Serum, Toxoid and Vaccine into Subcutaneous Tissue, Percutaneous Approach",3E0134,2016,2027
+3E0136,Nutritional Substance,3E013,2016,2027
+3E0136Z,"Introduction of Nutritional Substance into Subcutaneous Tissue, Percutaneous Approach",3E0136,2016,2027
+3E0137,Electrolytic and Water Balance Substance,3E013,2016,2027
+3E0137Z,"Introduction of Electrolytic and Water Balance Substance into Subcutaneous Tissue, Percutaneous Approach",3E0137,2016,2027
+3E013B,Anesthetic Agent,3E013,2016,2027
+3E013BZ,"Introduction of Anesthetic Agent into Subcutaneous Tissue, Percutaneous Approach",3E013B,2016,2027
+3E013G,Other Therapeutic Substance,3E013,2016,2027
+3E013GC,"Introduction of Other Therapeutic Substance into Subcutaneous Tissue, Percutaneous Approach",3E013G,2016,2027
+3E013H,Radioactive Substance,3E013,2016,2027
+3E013HZ,"Introduction of Radioactive Substance into Subcutaneous Tissue, Percutaneous Approach",3E013H,2016,2027
+3E013K,Other Diagnostic Substance,3E013,2016,2027
+3E013KZ,"Introduction of Other Diagnostic Substance into Subcutaneous Tissue, Percutaneous Approach",3E013K,2016,2027
+3E013N,"Analgesics, Hypnotics, Sedatives",3E013,2016,2027
+3E013NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Subcutaneous Tissue, Percutaneous Approach",3E013N,2016,2027
+3E013T,Destructive Agent,3E013,2016,2027
+3E013TZ,"Introduction of Destructive Agent into Subcutaneous Tissue, Percutaneous Approach",3E013T,2016,2027
+3E013V,Hormone,3E013,2016,2027
+3E013VG,"Introduction of Insulin into Subcutaneous Tissue, Percutaneous Approach",3E013V,2016,2027
+3E013VJ,"Introduction of Other Hormone into Subcutaneous Tissue, Percutaneous Approach",3E013V,2016,2027
+3E01X,External,3E01,2027,2027
+3E01XG,Other Therapeutic Substance,3E01X,2027,2027
+3E01XGF,"Introduction of Other Enzymatic/Chemical Agent into Subcutaneous Tissue, External Approach",3E01XG,2027,2027
+3E02,Muscle,3E0,2016,2027
+3E023,Percutaneous,3E02,2016,2027
+3E0230,Antineoplastic,3E023,2016,2027
+3E02305,"Introduction of Other Antineoplastic into Muscle, Percutaneous Approach",3E0230,2016,2027
+3E0230M,"Introduction of Antineoplastic, Monoclonal Antibody, into Muscle, Percutaneous Approach",3E0230,2016,2027
+3E0232,Anti-infective,3E023,2016,2027
+3E02328,"Introduction of Oxazolidinones into Muscle, Percutaneous Approach",3E0232,2016,2027
+3E02329,"Introduction of Other Anti-infective into Muscle, Percutaneous Approach",3E0232,2016,2027
+3E0233,Anti-inflammatory,3E023,2016,2027
+3E0233Z,"Introduction of Anti-inflammatory into Muscle, Percutaneous Approach",3E0233,2016,2027
+3E0234,"Serum, Toxoid and Vaccine",3E023,2016,2027
+3E02340,"Introduction of Influenza Vaccine into Muscle, Percutaneous Approach",3E0234,2019,2027
+3E0234Z,"Introduction of Serum, Toxoid and Vaccine into Muscle, Percutaneous Approach",3E0234,2016,2027
+3E0236,Nutritional Substance,3E023,2016,2027
+3E0236Z,"Introduction of Nutritional Substance into Muscle, Percutaneous Approach",3E0236,2016,2027
+3E0237,Electrolytic and Water Balance Substance,3E023,2016,2027
+3E0237Z,"Introduction of Electrolytic and Water Balance Substance into Muscle, Percutaneous Approach",3E0237,2016,2027
+3E023B,Anesthetic Agent,3E023,2016,2027
+3E023BZ,"Introduction of Anesthetic Agent into Muscle, Percutaneous Approach",3E023B,2016,2027
+3E023G,Other Therapeutic Substance,3E023,2016,2027
+3E023GC,"Introduction of Other Therapeutic Substance into Muscle, Percutaneous Approach",3E023G,2016,2027
+3E023H,Radioactive Substance,3E023,2016,2027
+3E023HZ,"Introduction of Radioactive Substance into Muscle, Percutaneous Approach",3E023H,2016,2027
+3E023K,Other Diagnostic Substance,3E023,2016,2027
+3E023KZ,"Introduction of Other Diagnostic Substance into Muscle, Percutaneous Approach",3E023K,2016,2027
+3E023N,"Analgesics, Hypnotics, Sedatives",3E023,2016,2027
+3E023NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Muscle, Percutaneous Approach",3E023N,2016,2027
+3E023T,Destructive Agent,3E023,2016,2027
+3E023TZ,"Introduction of Destructive Agent into Muscle, Percutaneous Approach",3E023T,2016,2027
+3E03,Peripheral Vein,3E0,2016,2027
+3E030,Open,3E03,2016,2027
+3E0300,Antineoplastic,3E030,2016,2027
+3E03002,"Introduction of High-dose Interleukin-2 into Peripheral Vein, Open Approach",3E0300,2016,2027
+3E03003,"Introduction of Low-dose Interleukin-2 into Peripheral Vein, Open Approach",3E0300,2016,2027
+3E03005,"Introduction of Other Antineoplastic into Peripheral Vein, Open Approach",3E0300,2016,2027
+3E0300M,"Introduction of Antineoplastic, Monoclonal Antibody, into Peripheral Vein, Open Approach",3E0300,2016,2027
+3E0300P,"Introduction of Clofarabine into Peripheral Vein, Open Approach",3E0300,2016,2027
+3E0301,Thrombolytic,3E030,2016,2027
+3E03016,"Introduction of Recombinant Human-activated Protein C into Peripheral Vein, Open",3E0301,2016,2027
+3E03017,"Introduction of Other Thrombolytic into Peripheral Vein, Open Approach",3E0301,2016,2027
+3E0302,Anti-infective,3E030,2016,2027
+3E03028,"Introduction of Oxazolidinones into Peripheral Vein, Open Approach",3E0302,2016,2027
+3E03029,"Introduction of Other Anti-infective into Peripheral Vein, Open Approach",3E0302,2016,2027
+3E0303,Anti-inflammatory,3E030,2016,2027
+3E0303Z,"Introduction of Anti-inflammatory into Peripheral Vein, Open Approach",3E0303,2016,2027
+3E0304,"Serum, Toxoid and Vaccine",3E030,2016,2027
+3E0304Z,"Introduction of Serum, Toxoid and Vaccine into Peripheral Vein, Open Approach",3E0304,2016,2027
+3E0306,Nutritional Substance,3E030,2016,2027
+3E0306Z,"Introduction of Nutritional Substance into Peripheral Vein, Open Approach",3E0306,2016,2027
+3E0307,Electrolytic and Water Balance Substance,3E030,2016,2027
+3E0307Z,"Introduction of Electrolytic and Water Balance Substance into Peripheral Vein, Open Approach",3E0307,2016,2027
+3E030F,Intracirculatory Anesthetic,3E030,2016,2027
+3E030FZ,"Introduction of Intracirculatory Anesthetic into Peripheral Vein, Open Approach",3E030F,2016,2027
+3E030G,Other Therapeutic Substance,3E030,2016,2027
+3E030GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Open Approach",3E030G,2016,2027
+3E030GN,"Introduction of Blood Brain Barrier Disruption Substance into Peripheral Vein, Open Approach",3E030G,2016,2027
+3E030H,Radioactive Substance,3E030,2016,2027
+3E030HZ,"Introduction of Radioactive Substance into Peripheral Vein, Open Approach",3E030H,2016,2027
+3E030K,Other Diagnostic Substance,3E030,2016,2027
+3E030KZ,"Introduction of Other Diagnostic Substance into Peripheral Vein, Open Approach",3E030K,2016,2027
+3E030N,"Analgesics, Hypnotics, Sedatives",3E030,2016,2027
+3E030NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Vein, Open Approach",3E030N,2016,2027
+3E030P,Platelet Inhibitor,3E030,2016,2027
+3E030PZ,"Introduction of Platelet Inhibitor into Peripheral Vein, Open Approach",3E030P,2016,2027
+3E030R,Antiarrhythmic,3E030,2016,2027
+3E030RZ,"Introduction of Antiarrhythmic into Peripheral Vein, Open Approach",3E030R,2016,2027
+3E030T,Destructive Agent,3E030,2016,2027
+3E030TZ,"Introduction of Destructive Agent into Peripheral Vein, Open Approach",3E030T,2016,2027
+3E030U,Pancreatic Islet Cells,3E030,2016,2027
+3E030U0,"Introduction of Autologous Pancreatic Islet Cells into Peripheral Vein, Open Approach",3E030U,2016,2027
+3E030U1,"Introduction of Nonautologous Pancreatic Islet Cells into Peripheral Vein, Open Approach",3E030U,2016,2027
+3E030V,Hormone,3E030,2016,2027
+3E030VG,"Introduction of Insulin into Peripheral Vein, Open Approach",3E030V,2016,2027
+3E030VH,"Introduction of Human B-type Natriuretic Peptide into Peripheral Vein, Open Approach",3E030V,2016,2027
+3E030VJ,"Introduction of Other Hormone into Peripheral Vein, Open Approach",3E030V,2016,2027
+3E030W,Immunotherapeutic,3E030,2016,2027
+3E030WK,"Introduction of Immunostimulator into Peripheral Vein, Open",3E030W,2016,2027
+3E030WL,"Introduction of Immunosuppressive into Peripheral Vein, Open",3E030W,2016,2027
+3E030X,Vasopressor,3E030,2016,2027
+3E030XZ,"Introduction of Vasopressor into Peripheral Vein, Open Approach",3E030X,2016,2027
+3E033,Percutaneous,3E03,2016,2027
+3E0330,Antineoplastic,3E033,2016,2027
+3E03302,"Introduction of High-dose Interleukin-2 into Peripheral Vein, Percutaneous Approach",3E0330,2016,2027
+3E03303,"Introduction of Low-dose Interleukin-2 into Peripheral Vein, Percutaneous Approach",3E0330,2016,2027
+3E03305,"Introduction of Other Antineoplastic into Peripheral Vein, Percutaneous Approach",3E0330,2016,2027
+3E0330M,"Introduction of Antineoplastic, Monoclonal Antibody, into Peripheral Vein, Percutaneous Approach",3E0330,2016,2027
+3E0330P,"Introduction of Clofarabine into Peripheral Vein, Percutaneous Approach",3E0330,2016,2027
+3E0331,Thrombolytic,3E033,2016,2027
+3E03316,"Introduction of Recombinant Human-activated Protein C into Peripheral Vein, Percutaneous",3E0331,2016,2027
+3E03317,"Introduction of Other Thrombolytic into Peripheral Vein, Percutaneous Approach",3E0331,2016,2027
+3E0332,Anti-infective,3E033,2016,2027
+3E03328,"Introduction of Oxazolidinones into Peripheral Vein, Percutaneous Approach",3E0332,2016,2027
+3E03329,"Introduction of Other Anti-infective into Peripheral Vein, Percutaneous Approach",3E0332,2016,2027
+3E0333,Anti-inflammatory,3E033,2016,2027
+3E0333Z,"Introduction of Anti-inflammatory into Peripheral Vein, Percutaneous Approach",3E0333,2016,2027
+3E0334,"Serum, Toxoid and Vaccine",3E033,2016,2027
+3E0334Z,"Introduction of Serum, Toxoid and Vaccine into Peripheral Vein, Percutaneous Approach",3E0334,2016,2027
+3E0336,Nutritional Substance,3E033,2016,2027
+3E0336Z,"Introduction of Nutritional Substance into Peripheral Vein, Percutaneous Approach",3E0336,2016,2027
+3E0337,Electrolytic and Water Balance Substance,3E033,2016,2027
+3E0337Z,"Introduction of Electrolytic and Water Balance Substance into Peripheral Vein, Percutaneous Approach",3E0337,2016,2027
+3E033A,"Stem Cells, Embryonic",3E033,2026,2027
+3E033AZ,"Introduction of Embryonic Stem Cells into Peripheral Vein, Percutaneous Approach",3E033A,2026,2027
+3E033F,Intracirculatory Anesthetic,3E033,2016,2027
+3E033FZ,"Introduction of Intracirculatory Anesthetic into Peripheral Vein, Percutaneous Approach",3E033F,2016,2027
+3E033G,Other Therapeutic Substance,3E033,2016,2027
+3E033GC,"Introduction of Other Therapeutic Substance into Peripheral Vein, Percutaneous Approach",3E033G,2016,2027
+3E033GN,"Introduction of Blood Brain Barrier Disruption Substance into Peripheral Vein, Percutaneous Approach",3E033G,2016,2027
+3E033GQ,"Introduction of Glucarpidase into Peripheral Vein, Percutaneous Approach",3E033G,2016,2027
+3E033GR,"Introduction of Other Therapeutic Monoclonal Antibody into Peripheral Vein, Percutaneous Approach",3E033G,2023,2027
+3E033H,Radioactive Substance,3E033,2016,2027
+3E033HZ,"Introduction of Radioactive Substance into Peripheral Vein, Percutaneous Approach",3E033H,2016,2027
+3E033K,Other Diagnostic Substance,3E033,2016,2027
+3E033KZ,"Introduction of Other Diagnostic Substance into Peripheral Vein, Percutaneous Approach",3E033K,2016,2027
+3E033N,"Analgesics, Hypnotics, Sedatives",3E033,2016,2027
+3E033NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Vein, Percutaneous Approach",3E033N,2016,2027
+3E033P,Platelet Inhibitor,3E033,2016,2027
+3E033PZ,"Introduction of Platelet Inhibitor into Peripheral Vein, Percutaneous Approach",3E033P,2016,2027
+3E033R,Antiarrhythmic,3E033,2016,2027
+3E033RZ,"Introduction of Antiarrhythmic into Peripheral Vein, Percutaneous Approach",3E033R,2016,2027
+3E033T,Destructive Agent,3E033,2016,2027
+3E033TZ,"Introduction of Destructive Agent into Peripheral Vein, Percutaneous Approach",3E033T,2016,2027
+3E033U,Pancreatic Islet Cells,3E033,2016,2027
+3E033U0,"Introduction of Autologous Pancreatic Islet Cells into Peripheral Vein, Percutaneous Approach",3E033U,2016,2027
+3E033U1,"Introduction of Nonautologous Pancreatic Islet Cells into Peripheral Vein, Percutaneous Approach",3E033U,2016,2027
+3E033V,Hormone,3E033,2016,2027
+3E033VG,"Introduction of Insulin into Peripheral Vein, Percutaneous Approach",3E033V,2016,2027
+3E033VH,"Introduction of Human B-type Natriuretic Peptide into Peripheral Vein, Percutaneous Approach",3E033V,2016,2027
+3E033VJ,"Introduction of Other Hormone into Peripheral Vein, Percutaneous Approach",3E033V,2016,2027
+3E033W,Immunotherapeutic,3E033,2016,2027
+3E033WK,"Introduction of Immunostimulator into Peripheral Vein, Percutaneous",3E033W,2016,2027
+3E033WL,"Introduction of Immunosuppressive into Peripheral Vein, Percutaneous",3E033W,2016,2027
+3E033X,Vasopressor,3E033,2016,2027
+3E033XZ,"Introduction of Vasopressor into Peripheral Vein, Percutaneous Approach",3E033X,2016,2027
+3E04,Central Vein,3E0,2016,2027
+3E040,Open,3E04,2016,2027
+3E0400,Antineoplastic,3E040,2016,2027
+3E04002,"Introduction of High-dose Interleukin-2 into Central Vein, Open Approach",3E0400,2016,2027
+3E04003,"Introduction of Low-dose Interleukin-2 into Central Vein, Open Approach",3E0400,2016,2027
+3E04005,"Introduction of Other Antineoplastic into Central Vein, Open Approach",3E0400,2016,2027
+3E0400M,"Introduction of Antineoplastic, Monoclonal Antibody, into Central Vein, Open Approach",3E0400,2016,2027
+3E0400P,"Introduction of Clofarabine into Central Vein, Open Approach",3E0400,2016,2027
+3E0401,Thrombolytic,3E040,2016,2027
+3E04016,"Introduction of Recombinant Human-activated Protein C into Central Vein, Open",3E0401,2016,2027
+3E04017,"Introduction of Other Thrombolytic into Central Vein, Open Approach",3E0401,2016,2027
+3E0402,Anti-infective,3E040,2016,2027
+3E04028,"Introduction of Oxazolidinones into Central Vein, Open Approach",3E0402,2016,2027
+3E04029,"Introduction of Other Anti-infective into Central Vein, Open Approach",3E0402,2016,2027
+3E0403,Anti-inflammatory,3E040,2016,2027
+3E0403Z,"Introduction of Anti-inflammatory into Central Vein, Open Approach",3E0403,2016,2027
+3E0404,"Serum, Toxoid and Vaccine",3E040,2016,2027
+3E0404Z,"Introduction of Serum, Toxoid and Vaccine into Central Vein, Open Approach",3E0404,2016,2027
+3E0406,Nutritional Substance,3E040,2016,2027
+3E0406Z,"Introduction of Nutritional Substance into Central Vein, Open Approach",3E0406,2016,2027
+3E0407,Electrolytic and Water Balance Substance,3E040,2016,2027
+3E0407Z,"Introduction of Electrolytic and Water Balance Substance into Central Vein, Open Approach",3E0407,2016,2027
+3E040F,Intracirculatory Anesthetic,3E040,2016,2027
+3E040FZ,"Introduction of Intracirculatory Anesthetic into Central Vein, Open Approach",3E040F,2016,2027
+3E040G,Other Therapeutic Substance,3E040,2016,2027
+3E040GC,"Introduction of Other Therapeutic Substance into Central Vein, Open Approach",3E040G,2016,2027
+3E040GN,"Introduction of Blood Brain Barrier Disruption Substance into Central Vein, Open Approach",3E040G,2016,2027
+3E040H,Radioactive Substance,3E040,2016,2027
+3E040HZ,"Introduction of Radioactive Substance into Central Vein, Open Approach",3E040H,2016,2027
+3E040K,Other Diagnostic Substance,3E040,2016,2027
+3E040KZ,"Introduction of Other Diagnostic Substance into Central Vein, Open Approach",3E040K,2016,2027
+3E040N,"Analgesics, Hypnotics, Sedatives",3E040,2016,2027
+3E040NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Central Vein, Open Approach",3E040N,2016,2027
+3E040P,Platelet Inhibitor,3E040,2016,2027
+3E040PZ,"Introduction of Platelet Inhibitor into Central Vein, Open Approach",3E040P,2016,2027
+3E040R,Antiarrhythmic,3E040,2016,2027
+3E040RZ,"Introduction of Antiarrhythmic into Central Vein, Open Approach",3E040R,2016,2027
+3E040T,Destructive Agent,3E040,2016,2027
+3E040TZ,"Introduction of Destructive Agent into Central Vein, Open Approach",3E040T,2016,2027
+3E040V,Hormone,3E040,2016,2027
+3E040VG,"Introduction of Insulin into Central Vein, Open Approach",3E040V,2016,2027
+3E040VH,"Introduction of Human B-type Natriuretic Peptide into Central Vein, Open Approach",3E040V,2016,2027
+3E040VJ,"Introduction of Other Hormone into Central Vein, Open Approach",3E040V,2016,2027
+3E040W,Immunotherapeutic,3E040,2016,2027
+3E040WK,"Introduction of Immunostimulator into Central Vein, Open",3E040W,2016,2027
+3E040WL,"Introduction of Immunosuppressive into Central Vein, Open",3E040W,2016,2027
+3E040X,Vasopressor,3E040,2016,2027
+3E040XZ,"Introduction of Vasopressor into Central Vein, Open Approach",3E040X,2016,2027
+3E043,Percutaneous,3E04,2016,2027
+3E0430,Antineoplastic,3E043,2016,2027
+3E04302,"Introduction of High-dose Interleukin-2 into Central Vein, Percutaneous Approach",3E0430,2016,2027
+3E04303,"Introduction of Low-dose Interleukin-2 into Central Vein, Percutaneous Approach",3E0430,2016,2027
+3E04305,"Introduction of Other Antineoplastic into Central Vein, Percutaneous Approach",3E0430,2016,2027
+3E0430M,"Introduction of Antineoplastic, Monoclonal Antibody, into Central Vein, Percutaneous Approach",3E0430,2016,2027
+3E0430P,"Introduction of Clofarabine into Central Vein, Percutaneous Approach",3E0430,2016,2027
+3E0431,Thrombolytic,3E043,2016,2027
+3E04316,"Introduction of Recombinant Human-activated Protein C into Central Vein, Percutaneous",3E0431,2016,2027
+3E04317,"Introduction of Other Thrombolytic into Central Vein, Percutaneous Approach",3E0431,2016,2027
+3E0432,Anti-infective,3E043,2016,2027
+3E04328,"Introduction of Oxazolidinones into Central Vein, Percutaneous Approach",3E0432,2016,2027
+3E04329,"Introduction of Other Anti-infective into Central Vein, Percutaneous Approach",3E0432,2016,2027
+3E0433,Anti-inflammatory,3E043,2016,2027
+3E0433Z,"Introduction of Anti-inflammatory into Central Vein, Percutaneous Approach",3E0433,2016,2027
+3E0434,"Serum, Toxoid and Vaccine",3E043,2016,2027
+3E0434Z,"Introduction of Serum, Toxoid and Vaccine into Central Vein, Percutaneous Approach",3E0434,2016,2027
+3E0436,Nutritional Substance,3E043,2016,2027
+3E0436Z,"Introduction of Nutritional Substance into Central Vein, Percutaneous Approach",3E0436,2016,2027
+3E0437,Electrolytic and Water Balance Substance,3E043,2016,2027
+3E0437Z,"Introduction of Electrolytic and Water Balance Substance into Central Vein, Percutaneous Approach",3E0437,2016,2027
+3E043A,"Stem Cells, Embryonic",3E043,2026,2027
+3E043AZ,"Introduction of Embryonic Stem Cells into Central Vein, Percutaneous Approach",3E043A,2026,2027
+3E043F,Intracirculatory Anesthetic,3E043,2016,2027
+3E043FZ,"Introduction of Intracirculatory Anesthetic into Central Vein, Percutaneous Approach",3E043F,2016,2027
+3E043G,Other Therapeutic Substance,3E043,2016,2027
+3E043GC,"Introduction of Other Therapeutic Substance into Central Vein, Percutaneous Approach",3E043G,2016,2027
+3E043GN,"Introduction of Blood Brain Barrier Disruption Substance into Central Vein, Percutaneous Approach",3E043G,2016,2027
+3E043GQ,"Introduction of Glucarpidase into Central Vein, Percutaneous Approach",3E043G,2016,2027
+3E043GR,"Introduction of Other Therapeutic Monoclonal Antibody into Central Vein, Percutaneous Approach",3E043G,2023,2027
+3E043H,Radioactive Substance,3E043,2016,2027
+3E043HZ,"Introduction of Radioactive Substance into Central Vein, Percutaneous Approach",3E043H,2016,2027
+3E043K,Other Diagnostic Substance,3E043,2016,2027
+3E043KZ,"Introduction of Other Diagnostic Substance into Central Vein, Percutaneous Approach",3E043K,2016,2027
+3E043N,"Analgesics, Hypnotics, Sedatives",3E043,2016,2027
+3E043NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Central Vein, Percutaneous Approach",3E043N,2016,2027
+3E043P,Platelet Inhibitor,3E043,2016,2027
+3E043PZ,"Introduction of Platelet Inhibitor into Central Vein, Percutaneous Approach",3E043P,2016,2027
+3E043R,Antiarrhythmic,3E043,2016,2027
+3E043RZ,"Introduction of Antiarrhythmic into Central Vein, Percutaneous Approach",3E043R,2016,2027
+3E043T,Destructive Agent,3E043,2016,2027
+3E043TZ,"Introduction of Destructive Agent into Central Vein, Percutaneous Approach",3E043T,2016,2027
+3E043V,Hormone,3E043,2016,2027
+3E043VG,"Introduction of Insulin into Central Vein, Percutaneous Approach",3E043V,2016,2027
+3E043VH,"Introduction of Human B-type Natriuretic Peptide into Central Vein, Percutaneous Approach",3E043V,2016,2027
+3E043VJ,"Introduction of Other Hormone into Central Vein, Percutaneous Approach",3E043V,2016,2027
+3E043W,Immunotherapeutic,3E043,2016,2027
+3E043WK,"Introduction of Immunostimulator into Central Vein, Percutaneous",3E043W,2016,2027
+3E043WL,"Introduction of Immunosuppressive into Central Vein, Percutaneous",3E043W,2016,2027
+3E043X,Vasopressor,3E043,2016,2027
+3E043XZ,"Introduction of Vasopressor into Central Vein, Percutaneous Approach",3E043X,2016,2027
+3E05,Peripheral Artery,3E0,2016,2027
+3E050,Open,3E05,2016,2027
+3E0500,Antineoplastic,3E050,2016,2027
+3E05002,"Introduction of High-dose Interleukin-2 into Peripheral Artery, Open Approach",3E0500,2016,2027
+3E05003,"Introduction of Low-dose Interleukin-2 into Peripheral Artery, Open Approach",3E0500,2016,2027
+3E05005,"Introduction of Other Antineoplastic into Peripheral Artery, Open Approach",3E0500,2016,2027
+3E0500M,"Introduction of Antineoplastic, Monoclonal Antibody, into Peripheral Artery, Open Approach",3E0500,2016,2027
+3E0500P,"Introduction of Clofarabine into Peripheral Artery, Open Approach",3E0500,2016,2027
+3E0501,Thrombolytic,3E050,2016,2027
+3E05016,"Introduction of Recombinant Human-activated Protein C into Peripheral Artery, Open",3E0501,2016,2027
+3E05017,"Introduction of Other Thrombolytic into Peripheral Artery, Open Approach",3E0501,2016,2027
+3E0502,Anti-infective,3E050,2016,2027
+3E05028,"Introduction of Oxazolidinones into Peripheral Artery, Open Approach",3E0502,2016,2027
+3E05029,"Introduction of Other Anti-infective into Peripheral Artery, Open Approach",3E0502,2016,2027
+3E0503,Anti-inflammatory,3E050,2016,2027
+3E0503Z,"Introduction of Anti-inflammatory into Peripheral Artery, Open Approach",3E0503,2016,2027
+3E0504,"Serum, Toxoid and Vaccine",3E050,2016,2027
+3E0504Z,"Introduction of Serum, Toxoid and Vaccine into Peripheral Artery, Open Approach",3E0504,2016,2027
+3E0506,Nutritional Substance,3E050,2016,2027
+3E0506Z,"Introduction of Nutritional Substance into Peripheral Artery, Open Approach",3E0506,2016,2027
+3E0507,Electrolytic and Water Balance Substance,3E050,2016,2027
+3E0507Z,"Introduction of Electrolytic and Water Balance Substance into Peripheral Artery, Open Approach",3E0507,2016,2027
+3E050F,Intracirculatory Anesthetic,3E050,2016,2027
+3E050FZ,"Introduction of Intracirculatory Anesthetic into Peripheral Artery, Open Approach",3E050F,2016,2027
+3E050G,Other Therapeutic Substance,3E050,2016,2027
+3E050GC,"Introduction of Other Therapeutic Substance into Peripheral Artery, Open Approach",3E050G,2016,2027
+3E050GN,"Introduction of Blood Brain Barrier Disruption Substance into Peripheral Artery, Open Approach",3E050G,2016,2027
+3E050H,Radioactive Substance,3E050,2016,2027
+3E050HZ,"Introduction of Radioactive Substance into Peripheral Artery, Open Approach",3E050H,2016,2027
+3E050K,Other Diagnostic Substance,3E050,2016,2027
+3E050KZ,"Introduction of Other Diagnostic Substance into Peripheral Artery, Open Approach",3E050K,2016,2027
+3E050N,"Analgesics, Hypnotics, Sedatives",3E050,2016,2027
+3E050NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Artery, Open Approach",3E050N,2016,2027
+3E050P,Platelet Inhibitor,3E050,2016,2027
+3E050PZ,"Introduction of Platelet Inhibitor into Peripheral Artery, Open Approach",3E050P,2016,2027
+3E050R,Antiarrhythmic,3E050,2016,2027
+3E050RZ,"Introduction of Antiarrhythmic into Peripheral Artery, Open Approach",3E050R,2016,2027
+3E050T,Destructive Agent,3E050,2016,2027
+3E050TZ,"Introduction of Destructive Agent into Peripheral Artery, Open Approach",3E050T,2016,2027
+3E050V,Hormone,3E050,2016,2027
+3E050VG,"Introduction of Insulin into Peripheral Artery, Open Approach",3E050V,2016,2027
+3E050VH,"Introduction of Human B-type Natriuretic Peptide into Peripheral Artery, Open Approach",3E050V,2016,2027
+3E050VJ,"Introduction of Other Hormone into Peripheral Artery, Open Approach",3E050V,2016,2027
+3E050W,Immunotherapeutic,3E050,2016,2027
+3E050WK,"Introduction of Immunostimulator into Peripheral Artery, Open",3E050W,2016,2027
+3E050WL,"Introduction of Immunosuppressive into Peripheral Artery, Open",3E050W,2016,2027
+3E050X,Vasopressor,3E050,2016,2027
+3E050XZ,"Introduction of Vasopressor into Peripheral Artery, Open Approach",3E050X,2016,2027
+3E053,Percutaneous,3E05,2016,2027
+3E0530,Antineoplastic,3E053,2016,2027
+3E05302,"Introduction of High-dose Interleukin-2 into Peripheral Artery, Percutaneous Approach",3E0530,2016,2027
+3E05303,"Introduction of Low-dose Interleukin-2 into Peripheral Artery, Percutaneous Approach",3E0530,2016,2027
+3E05305,"Introduction of Other Antineoplastic into Peripheral Artery, Percutaneous Approach",3E0530,2016,2027
+3E0530M,"Introduction of Antineoplastic, Monoclonal Antibody, into Peripheral Artery, Percutaneous Approach",3E0530,2016,2027
+3E0530P,"Introduction of Clofarabine into Peripheral Artery, Percutaneous Approach",3E0530,2016,2027
+3E0531,Thrombolytic,3E053,2016,2027
+3E05316,"Introduction of Recombinant Human-activated Protein C into Peripheral Artery, Percutaneous",3E0531,2016,2027
+3E05317,"Introduction of Other Thrombolytic into Peripheral Artery, Percutaneous Approach",3E0531,2016,2027
+3E0532,Anti-infective,3E053,2016,2027
+3E05328,"Introduction of Oxazolidinones into Peripheral Artery, Percutaneous Approach",3E0532,2016,2027
+3E05329,"Introduction of Other Anti-infective into Peripheral Artery, Percutaneous Approach",3E0532,2016,2027
+3E0533,Anti-inflammatory,3E053,2016,2027
+3E0533Z,"Introduction of Anti-inflammatory into Peripheral Artery, Percutaneous Approach",3E0533,2016,2027
+3E0534,"Serum, Toxoid and Vaccine",3E053,2016,2027
+3E0534Z,"Introduction of Serum, Toxoid and Vaccine into Peripheral Artery, Percutaneous Approach",3E0534,2016,2027
+3E0536,Nutritional Substance,3E053,2016,2027
+3E0536Z,"Introduction of Nutritional Substance into Peripheral Artery, Percutaneous Approach",3E0536,2016,2027
+3E0537,Electrolytic and Water Balance Substance,3E053,2016,2027
+3E0537Z,"Introduction of Electrolytic and Water Balance Substance into Peripheral Artery, Percutaneous Approach",3E0537,2016,2027
+3E053F,Intracirculatory Anesthetic,3E053,2016,2027
+3E053FZ,"Introduction of Intracirculatory Anesthetic into Peripheral Artery, Percutaneous Approach",3E053F,2016,2027
+3E053G,Other Therapeutic Substance,3E053,2016,2027
+3E053GC,"Introduction of Other Therapeutic Substance into Peripheral Artery, Percutaneous Approach",3E053G,2016,2027
+3E053GN,"Introduction of Blood Brain Barrier Disruption Substance into Peripheral Artery, Percutaneous Approach",3E053G,2016,2027
+3E053H,Radioactive Substance,3E053,2016,2027
+3E053HZ,"Introduction of Radioactive Substance into Peripheral Artery, Percutaneous Approach",3E053H,2016,2027
+3E053K,Other Diagnostic Substance,3E053,2016,2027
+3E053KZ,"Introduction of Other Diagnostic Substance into Peripheral Artery, Percutaneous Approach",3E053K,2016,2027
+3E053N,"Analgesics, Hypnotics, Sedatives",3E053,2016,2027
+3E053NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peripheral Artery, Percutaneous Approach",3E053N,2016,2027
+3E053P,Platelet Inhibitor,3E053,2016,2027
+3E053PZ,"Introduction of Platelet Inhibitor into Peripheral Artery, Percutaneous Approach",3E053P,2016,2027
+3E053R,Antiarrhythmic,3E053,2016,2027
+3E053RZ,"Introduction of Antiarrhythmic into Peripheral Artery, Percutaneous Approach",3E053R,2016,2027
+3E053T,Destructive Agent,3E053,2016,2027
+3E053TZ,"Introduction of Destructive Agent into Peripheral Artery, Percutaneous Approach",3E053T,2016,2027
+3E053V,Hormone,3E053,2016,2027
+3E053VG,"Introduction of Insulin into Peripheral Artery, Percutaneous Approach",3E053V,2016,2027
+3E053VH,"Introduction of Human B-type Natriuretic Peptide into Peripheral Artery, Percutaneous Approach",3E053V,2016,2027
+3E053VJ,"Introduction of Other Hormone into Peripheral Artery, Percutaneous Approach",3E053V,2016,2027
+3E053W,Immunotherapeutic,3E053,2016,2027
+3E053WK,"Introduction of Immunostimulator into Peripheral Artery, Percutaneous",3E053W,2016,2027
+3E053WL,"Introduction of Immunosuppressive into Peripheral Artery, Percutaneous",3E053W,2016,2027
+3E053X,Vasopressor,3E053,2016,2027
+3E053XZ,"Introduction of Vasopressor into Peripheral Artery, Percutaneous Approach",3E053X,2016,2027
+3E06,Central Artery,3E0,2016,2027
+3E060,Open,3E06,2016,2027
+3E0600,Antineoplastic,3E060,2016,2027
+3E06002,"Introduction of High-dose Interleukin-2 into Central Artery, Open Approach",3E0600,2016,2027
+3E06003,"Introduction of Low-dose Interleukin-2 into Central Artery, Open Approach",3E0600,2016,2027
+3E06005,"Introduction of Other Antineoplastic into Central Artery, Open Approach",3E0600,2016,2027
+3E0600M,"Introduction of Antineoplastic, Monoclonal Antibody, into Central Artery, Open Approach",3E0600,2016,2027
+3E0600P,"Introduction of Clofarabine into Central Artery, Open Approach",3E0600,2016,2027
+3E0601,Thrombolytic,3E060,2016,2027
+3E06016,"Introduction of Recombinant Human-activated Protein C into Central Artery, Open",3E0601,2016,2027
+3E06017,"Introduction of Other Thrombolytic into Central Artery, Open Approach",3E0601,2016,2027
+3E0602,Anti-infective,3E060,2016,2027
+3E06028,"Introduction of Oxazolidinones into Central Artery, Open Approach",3E0602,2016,2027
+3E06029,"Introduction of Other Anti-infective into Central Artery, Open Approach",3E0602,2016,2027
+3E0603,Anti-inflammatory,3E060,2016,2027
+3E0603Z,"Introduction of Anti-inflammatory into Central Artery, Open Approach",3E0603,2016,2027
+3E0604,"Serum, Toxoid and Vaccine",3E060,2016,2027
+3E0604Z,"Introduction of Serum, Toxoid and Vaccine into Central Artery, Open Approach",3E0604,2016,2027
+3E0606,Nutritional Substance,3E060,2016,2027
+3E0606Z,"Introduction of Nutritional Substance into Central Artery, Open Approach",3E0606,2016,2027
+3E0607,Electrolytic and Water Balance Substance,3E060,2016,2027
+3E0607Z,"Introduction of Electrolytic and Water Balance Substance into Central Artery, Open Approach",3E0607,2016,2027
+3E060F,Intracirculatory Anesthetic,3E060,2016,2027
+3E060FZ,"Introduction of Intracirculatory Anesthetic into Central Artery, Open Approach",3E060F,2016,2027
+3E060G,Other Therapeutic Substance,3E060,2016,2027
+3E060GC,"Introduction of Other Therapeutic Substance into Central Artery, Open Approach",3E060G,2016,2027
+3E060GN,"Introduction of Blood Brain Barrier Disruption Substance into Central Artery, Open Approach",3E060G,2016,2027
+3E060H,Radioactive Substance,3E060,2016,2027
+3E060HZ,"Introduction of Radioactive Substance into Central Artery, Open Approach",3E060H,2016,2027
+3E060K,Other Diagnostic Substance,3E060,2016,2027
+3E060KZ,"Introduction of Other Diagnostic Substance into Central Artery, Open Approach",3E060K,2016,2027
+3E060N,"Analgesics, Hypnotics, Sedatives",3E060,2016,2027
+3E060NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Central Artery, Open Approach",3E060N,2016,2027
+3E060P,Platelet Inhibitor,3E060,2016,2027
+3E060PZ,"Introduction of Platelet Inhibitor into Central Artery, Open Approach",3E060P,2016,2027
+3E060R,Antiarrhythmic,3E060,2016,2027
+3E060RZ,"Introduction of Antiarrhythmic into Central Artery, Open Approach",3E060R,2016,2027
+3E060T,Destructive Agent,3E060,2016,2027
+3E060TZ,"Introduction of Destructive Agent into Central Artery, Open Approach",3E060T,2016,2027
+3E060V,Hormone,3E060,2016,2027
+3E060VG,"Introduction of Insulin into Central Artery, Open Approach",3E060V,2016,2027
+3E060VH,"Introduction of Human B-type Natriuretic Peptide into Central Artery, Open Approach",3E060V,2016,2027
+3E060VJ,"Introduction of Other Hormone into Central Artery, Open Approach",3E060V,2016,2027
+3E060W,Immunotherapeutic,3E060,2016,2027
+3E060WK,"Introduction of Immunostimulator into Central Artery, Open",3E060W,2016,2027
+3E060WL,"Introduction of Immunosuppressive into Central Artery, Open",3E060W,2016,2027
+3E060X,Vasopressor,3E060,2016,2027
+3E060XZ,"Introduction of Vasopressor into Central Artery, Open Approach",3E060X,2016,2027
+3E063,Percutaneous,3E06,2016,2027
+3E0630,Antineoplastic,3E063,2016,2027
+3E06302,"Introduction of High-dose Interleukin-2 into Central Artery, Percutaneous Approach",3E0630,2016,2027
+3E06303,"Introduction of Low-dose Interleukin-2 into Central Artery, Percutaneous Approach",3E0630,2016,2027
+3E06305,"Introduction of Other Antineoplastic into Central Artery, Percutaneous Approach",3E0630,2016,2027
+3E0630M,"Introduction of Antineoplastic, Monoclonal Antibody, into Central Artery, Percutaneous Approach",3E0630,2016,2027
+3E0630P,"Introduction of Clofarabine into Central Artery, Percutaneous Approach",3E0630,2016,2027
+3E0631,Thrombolytic,3E063,2016,2027
+3E06316,"Introduction of Recombinant Human-activated Protein C into Central Artery, Percutaneous",3E0631,2016,2027
+3E06317,"Introduction of Other Thrombolytic into Central Artery, Percutaneous Approach",3E0631,2016,2027
+3E0632,Anti-infective,3E063,2016,2027
+3E06328,"Introduction of Oxazolidinones into Central Artery, Percutaneous Approach",3E0632,2016,2027
+3E06329,"Introduction of Other Anti-infective into Central Artery, Percutaneous Approach",3E0632,2016,2027
+3E0633,Anti-inflammatory,3E063,2016,2027
+3E0633Z,"Introduction of Anti-inflammatory into Central Artery, Percutaneous Approach",3E0633,2016,2027
+3E0634,"Serum, Toxoid and Vaccine",3E063,2016,2027
+3E0634Z,"Introduction of Serum, Toxoid and Vaccine into Central Artery, Percutaneous Approach",3E0634,2016,2027
+3E0636,Nutritional Substance,3E063,2016,2027
+3E0636Z,"Introduction of Nutritional Substance into Central Artery, Percutaneous Approach",3E0636,2016,2027
+3E0637,Electrolytic and Water Balance Substance,3E063,2016,2027
+3E0637Z,"Introduction of Electrolytic and Water Balance Substance into Central Artery, Percutaneous Approach",3E0637,2016,2027
+3E063F,Intracirculatory Anesthetic,3E063,2016,2027
+3E063FZ,"Introduction of Intracirculatory Anesthetic into Central Artery, Percutaneous Approach",3E063F,2016,2027
+3E063G,Other Therapeutic Substance,3E063,2016,2027
+3E063GC,"Introduction of Other Therapeutic Substance into Central Artery, Percutaneous Approach",3E063G,2016,2027
+3E063GN,"Introduction of Blood Brain Barrier Disruption Substance into Central Artery, Percutaneous Approach",3E063G,2016,2027
+3E063H,Radioactive Substance,3E063,2016,2027
+3E063HZ,"Introduction of Radioactive Substance into Central Artery, Percutaneous Approach",3E063H,2016,2027
+3E063K,Other Diagnostic Substance,3E063,2016,2027
+3E063KZ,"Introduction of Other Diagnostic Substance into Central Artery, Percutaneous Approach",3E063K,2016,2027
+3E063N,"Analgesics, Hypnotics, Sedatives",3E063,2016,2027
+3E063NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Central Artery, Percutaneous Approach",3E063N,2016,2027
+3E063P,Platelet Inhibitor,3E063,2016,2027
+3E063PZ,"Introduction of Platelet Inhibitor into Central Artery, Percutaneous Approach",3E063P,2016,2027
+3E063R,Antiarrhythmic,3E063,2016,2027
+3E063RZ,"Introduction of Antiarrhythmic into Central Artery, Percutaneous Approach",3E063R,2016,2027
+3E063T,Destructive Agent,3E063,2016,2027
+3E063TZ,"Introduction of Destructive Agent into Central Artery, Percutaneous Approach",3E063T,2016,2027
+3E063V,Hormone,3E063,2016,2027
+3E063VG,"Introduction of Insulin into Central Artery, Percutaneous Approach",3E063V,2016,2027
+3E063VH,"Introduction of Human B-type Natriuretic Peptide into Central Artery, Percutaneous Approach",3E063V,2016,2027
+3E063VJ,"Introduction of Other Hormone into Central Artery, Percutaneous Approach",3E063V,2016,2027
+3E063W,Immunotherapeutic,3E063,2016,2027
+3E063WK,"Introduction of Immunostimulator into Central Artery, Percutaneous",3E063W,2016,2027
+3E063WL,"Introduction of Immunosuppressive into Central Artery, Percutaneous",3E063W,2016,2027
+3E063X,Vasopressor,3E063,2016,2027
+3E063XZ,"Introduction of Vasopressor into Central Artery, Percutaneous Approach",3E063X,2016,2027
+3E07,Coronary Artery,3E0,2016,2027
+3E070,Open,3E07,2016,2027
+3E0701,Thrombolytic,3E070,2016,2027
+3E07016,"Introduction of Recombinant Human-activated Protein C into Coronary Artery, Open",3E0701,2016,2027
+3E07017,"Introduction of Other Thrombolytic into Coronary Artery, Open Approach",3E0701,2016,2027
+3E070G,Other Therapeutic Substance,3E070,2016,2027
+3E070GC,"Introduction of Other Therapeutic Substance into Coronary Artery, Open Approach",3E070G,2016,2027
+3E070K,Other Diagnostic Substance,3E070,2016,2027
+3E070KZ,"Introduction of Other Diagnostic Substance into Coronary Artery, Open Approach",3E070K,2016,2027
+3E070P,Platelet Inhibitor,3E070,2016,2027
+3E070PZ,"Introduction of Platelet Inhibitor into Coronary Artery, Open Approach",3E070P,2016,2027
+3E073,Percutaneous,3E07,2016,2027
+3E0731,Thrombolytic,3E073,2016,2027
+3E07316,"Introduction of Recombinant Human-activated Protein C into Coronary Artery, Percutaneous",3E0731,2016,2027
+3E07317,"Introduction of Other Thrombolytic into Coronary Artery, Percutaneous Approach",3E0731,2016,2027
+3E073G,Other Therapeutic Substance,3E073,2016,2027
+3E073GC,"Introduction of Other Therapeutic Substance into Coronary Artery, Percutaneous Approach",3E073G,2016,2027
+3E073K,Other Diagnostic Substance,3E073,2016,2027
+3E073KZ,"Introduction of Other Diagnostic Substance into Coronary Artery, Percutaneous Approach",3E073K,2016,2027
+3E073P,Platelet Inhibitor,3E073,2016,2027
+3E073PZ,"Introduction of Platelet Inhibitor into Coronary Artery, Percutaneous Approach",3E073P,2016,2027
+3E074,Percutaneous Endoscopic,3E07,2018,2027
+3E074G,Other Therapeutic Substance,3E074,2018,2027
+3E074GC,"Introduction of Other Therapeutic Substance into Coronary Artery, Percutaneous Endoscopic Approach",3E074G,2018,2027
+3E08,Heart,3E0,2016,2027
+3E080,Open,3E08,2016,2027
+3E0801,Thrombolytic,3E080,2016,2027
+3E08016,"Introduction of Recombinant Human-activated Protein C into Heart, Open",3E0801,2016,2027
+3E08017,"Introduction of Other Thrombolytic into Heart, Open Approach",3E0801,2016,2027
+3E080G,Other Therapeutic Substance,3E080,2016,2027
+3E080GC,"Introduction of Other Therapeutic Substance into Heart, Open Approach",3E080G,2016,2027
+3E080K,Other Diagnostic Substance,3E080,2016,2027
+3E080KZ,"Introduction of Other Diagnostic Substance into Heart, Open Approach",3E080K,2016,2027
+3E080P,Platelet Inhibitor,3E080,2016,2027
+3E080PZ,"Introduction of Platelet Inhibitor into Heart, Open Approach",3E080P,2016,2027
+3E083,Percutaneous,3E08,2016,2027
+3E0831,Thrombolytic,3E083,2016,2027
+3E08316,"Introduction of Recombinant Human-activated Protein C into Heart, Percutaneous",3E0831,2016,2027
+3E08317,"Introduction of Other Thrombolytic into Heart, Percutaneous Approach",3E0831,2016,2027
+3E083G,Other Therapeutic Substance,3E083,2016,2027
+3E083GC,"Introduction of Other Therapeutic Substance into Heart, Percutaneous Approach",3E083G,2016,2027
+3E083K,Other Diagnostic Substance,3E083,2016,2027
+3E083KZ,"Introduction of Other Diagnostic Substance into Heart, Percutaneous Approach",3E083K,2016,2027
+3E083P,Platelet Inhibitor,3E083,2016,2027
+3E083PZ,"Introduction of Platelet Inhibitor into Heart, Percutaneous Approach",3E083P,2016,2027
+3E084,Percutaneous Endoscopic,3E08,2018,2027
+3E084G,Other Therapeutic Substance,3E084,2018,2027
+3E084GC,"Introduction of Other Therapeutic Substance into Heart, Percutaneous Endoscopic Approach",3E084G,2018,2027
+3E09,Nose,3E0,2016,2027
+3E093,Percutaneous,3E09,2016,2027
+3E0930,Antineoplastic,3E093,2016,2027
+3E09305,"Introduction of Other Antineoplastic into Nose, Percutaneous Approach",3E0930,2016,2027
+3E0930M,"Introduction of Antineoplastic, Monoclonal Antibody, into Nose, Percutaneous Approach",3E0930,2016,2027
+3E0932,Anti-infective,3E093,2016,2027
+3E09328,"Introduction of Oxazolidinones into Nose, Percutaneous Approach",3E0932,2016,2027
+3E09329,"Introduction of Other Anti-infective into Nose, Percutaneous Approach",3E0932,2016,2027
+3E0933,Anti-inflammatory,3E093,2016,2027
+3E0933Z,"Introduction of Anti-inflammatory into Nose, Percutaneous Approach",3E0933,2016,2027
+3E0934,"Serum, Toxoid and Vaccine",3E093,2016,2027
+3E0934Z,"Introduction of Serum, Toxoid and Vaccine into Nose, Percutaneous Approach",3E0934,2016,2027
+3E093B,Anesthetic Agent,3E093,2016,2027
+3E093BZ,"Introduction of Anesthetic Agent into Nose, Percutaneous Approach",3E093B,2016,2027
+3E093G,Other Therapeutic Substance,3E093,2016,2027
+3E093GC,"Introduction of Other Therapeutic Substance into Nose, Percutaneous Approach",3E093G,2016,2027
+3E093H,Radioactive Substance,3E093,2016,2027
+3E093HZ,"Introduction of Radioactive Substance into Nose, Percutaneous Approach",3E093H,2016,2027
+3E093K,Other Diagnostic Substance,3E093,2016,2027
+3E093KZ,"Introduction of Other Diagnostic Substance into Nose, Percutaneous Approach",3E093K,2016,2027
+3E093N,"Analgesics, Hypnotics, Sedatives",3E093,2016,2027
+3E093NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Nose, Percutaneous Approach",3E093N,2016,2027
+3E093T,Destructive Agent,3E093,2016,2027
+3E093TZ,"Introduction of Destructive Agent into Nose, Percutaneous Approach",3E093T,2016,2027
+3E097,Via Natural or Artificial Opening,3E09,2016,2027
+3E0970,Antineoplastic,3E097,2016,2027
+3E09705,"Introduction of Other Antineoplastic into Nose, Via Natural or Artificial Opening",3E0970,2016,2027
+3E0970M,"Introduction of Antineoplastic, Monoclonal Antibody, into Nose, Via Natural or Artificial Opening",3E0970,2016,2027
+3E0972,Anti-infective,3E097,2016,2027
+3E09728,"Introduction of Oxazolidinones into Nose, Via Natural or Artificial Opening",3E0972,2016,2027
+3E09729,"Introduction of Other Anti-infective into Nose, Via Natural or Artificial Opening",3E0972,2016,2027
+3E0973,Anti-inflammatory,3E097,2016,2027
+3E0973Z,"Introduction of Anti-inflammatory into Nose, Via Natural or Artificial Opening",3E0973,2016,2027
+3E0974,"Serum, Toxoid and Vaccine",3E097,2016,2027
+3E0974Z,"Introduction of Serum, Toxoid and Vaccine into Nose, Via Natural or Artificial Opening",3E0974,2016,2027
+3E097B,Anesthetic Agent,3E097,2016,2027
+3E097BZ,"Introduction of Anesthetic Agent into Nose, Via Natural or Artificial Opening",3E097B,2016,2027
+3E097G,Other Therapeutic Substance,3E097,2016,2027
+3E097GC,"Introduction of Other Therapeutic Substance into Nose, Via Natural or Artificial Opening",3E097G,2016,2027
+3E097H,Radioactive Substance,3E097,2016,2027
+3E097HZ,"Introduction of Radioactive Substance into Nose, Via Natural or Artificial Opening",3E097H,2016,2027
+3E097K,Other Diagnostic Substance,3E097,2016,2027
+3E097KZ,"Introduction of Other Diagnostic Substance into Nose, Via Natural or Artificial Opening",3E097K,2016,2027
+3E097N,"Analgesics, Hypnotics, Sedatives",3E097,2016,2027
+3E097NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Nose, Via Natural or Artificial Opening",3E097N,2016,2027
+3E097T,Destructive Agent,3E097,2016,2027
+3E097TZ,"Introduction of Destructive Agent into Nose, Via Natural or Artificial Opening",3E097T,2016,2027
+3E09X,External,3E09,2016,2027
+3E09X0,Antineoplastic,3E09X,2016,2027
+3E09X05,"Introduction of Other Antineoplastic into Nose, External Approach",3E09X0,2016,2027
+3E09X0M,"Introduction of Antineoplastic, Monoclonal Antibody, into Nose, External Approach",3E09X0,2016,2027
+3E09X2,Anti-infective,3E09X,2016,2027
+3E09X28,"Introduction of Oxazolidinones into Nose, External Approach",3E09X2,2016,2027
+3E09X29,"Introduction of Other Anti-infective into Nose, External Approach",3E09X2,2016,2027
+3E09X3,Anti-inflammatory,3E09X,2016,2027
+3E09X3Z,"Introduction of Anti-inflammatory into Nose, External Approach",3E09X3,2016,2027
+3E09X4,"Serum, Toxoid and Vaccine",3E09X,2016,2027
+3E09X4Z,"Introduction of Serum, Toxoid and Vaccine into Nose, External Approach",3E09X4,2016,2027
+3E09XB,Anesthetic Agent,3E09X,2016,2027
+3E09XBZ,"Introduction of Anesthetic Agent into Nose, External Approach",3E09XB,2016,2027
+3E09XG,Other Therapeutic Substance,3E09X,2016,2027
+3E09XGC,"Introduction of Other Therapeutic Substance into Nose, External Approach",3E09XG,2016,2027
+3E09XH,Radioactive Substance,3E09X,2016,2027
+3E09XHZ,"Introduction of Radioactive Substance into Nose, External Approach",3E09XH,2016,2027
+3E09XK,Other Diagnostic Substance,3E09X,2016,2027
+3E09XKZ,"Introduction of Other Diagnostic Substance into Nose, External Approach",3E09XK,2016,2027
+3E09XN,"Analgesics, Hypnotics, Sedatives",3E09X,2016,2027
+3E09XNZ,"Introduction of Analgesics, Hypnotics, Sedatives into Nose, External Approach",3E09XN,2016,2027
+3E09XT,Destructive Agent,3E09X,2016,2027
+3E09XTZ,"Introduction of Destructive Agent into Nose, External Approach",3E09XT,2016,2027
+3E0A,Bone Marrow,3E0,2016,2027
+3E0A3,Percutaneous,3E0A,2016,2027
+3E0A30,Antineoplastic,3E0A3,2016,2027
+3E0A305,"Introduction of Other Antineoplastic into Bone Marrow, Percutaneous Approach",3E0A30,2016,2027
+3E0A30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Bone Marrow, Percutaneous Approach",3E0A30,2016,2027
+3E0A3G,Other Therapeutic Substance,3E0A3,2016,2027
+3E0A3GC,"Introduction of Other Therapeutic Substance into Bone Marrow, Percutaneous Approach",3E0A3G,2016,2027
+3E0B,Ear,3E0,2016,2027
+3E0B3,Percutaneous,3E0B,2016,2027
+3E0B30,Antineoplastic,3E0B3,2016,2027
+3E0B304,"Introduction of Liquid Brachytherapy Radioisotope into Ear, Percutaneous Approach",3E0B30,2016,2027
+3E0B305,"Introduction of Other Antineoplastic into Ear, Percutaneous Approach",3E0B30,2016,2027
+3E0B30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Ear, Percutaneous Approach",3E0B30,2016,2027
+3E0B32,Anti-infective,3E0B3,2016,2027
+3E0B328,"Introduction of Oxazolidinones into Ear, Percutaneous Approach",3E0B32,2016,2027
+3E0B329,"Introduction of Other Anti-infective into Ear, Percutaneous Approach",3E0B32,2016,2027
+3E0B33,Anti-inflammatory,3E0B3,2016,2027
+3E0B33Z,"Introduction of Anti-inflammatory into Ear, Percutaneous Approach",3E0B33,2016,2027
+3E0B3B,Anesthetic Agent,3E0B3,2016,2027
+3E0B3BZ,"Introduction of Anesthetic Agent into Ear, Percutaneous Approach",3E0B3B,2016,2027
+3E0B3G,Other Therapeutic Substance,3E0B3,2016,2027
+3E0B3GC,"Introduction of Other Therapeutic Substance into Ear, Percutaneous Approach",3E0B3G,2016,2027
+3E0B3H,Radioactive Substance,3E0B3,2016,2027
+3E0B3HZ,"Introduction of Radioactive Substance into Ear, Percutaneous Approach",3E0B3H,2016,2027
+3E0B3K,Other Diagnostic Substance,3E0B3,2016,2027
+3E0B3KZ,"Introduction of Other Diagnostic Substance into Ear, Percutaneous Approach",3E0B3K,2016,2027
+3E0B3N,"Analgesics, Hypnotics, Sedatives",3E0B3,2016,2027
+3E0B3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Ear, Percutaneous Approach",3E0B3N,2016,2027
+3E0B3T,Destructive Agent,3E0B3,2016,2027
+3E0B3TZ,"Introduction of Destructive Agent into Ear, Percutaneous Approach",3E0B3T,2016,2027
+3E0B7,Via Natural or Artificial Opening,3E0B,2016,2027
+3E0B70,Antineoplastic,3E0B7,2016,2027
+3E0B704,"Introduction of Liquid Brachytherapy Radioisotope into Ear, Via Natural or Artificial Opening",3E0B70,2016,2027
+3E0B705,"Introduction of Other Antineoplastic into Ear, Via Natural or Artificial Opening",3E0B70,2016,2027
+3E0B70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Ear, Via Natural or Artificial Opening",3E0B70,2016,2027
+3E0B72,Anti-infective,3E0B7,2016,2027
+3E0B728,"Introduction of Oxazolidinones into Ear, Via Natural or Artificial Opening",3E0B72,2016,2027
+3E0B729,"Introduction of Other Anti-infective into Ear, Via Natural or Artificial Opening",3E0B72,2016,2027
+3E0B73,Anti-inflammatory,3E0B7,2016,2027
+3E0B73Z,"Introduction of Anti-inflammatory into Ear, Via Natural or Artificial Opening",3E0B73,2016,2027
+3E0B7B,Anesthetic Agent,3E0B7,2016,2027
+3E0B7BZ,"Introduction of Anesthetic Agent into Ear, Via Natural or Artificial Opening",3E0B7B,2016,2027
+3E0B7G,Other Therapeutic Substance,3E0B7,2016,2027
+3E0B7GC,"Introduction of Other Therapeutic Substance into Ear, Via Natural or Artificial Opening",3E0B7G,2016,2027
+3E0B7H,Radioactive Substance,3E0B7,2016,2027
+3E0B7HZ,"Introduction of Radioactive Substance into Ear, Via Natural or Artificial Opening",3E0B7H,2016,2027
+3E0B7K,Other Diagnostic Substance,3E0B7,2016,2027
+3E0B7KZ,"Introduction of Other Diagnostic Substance into Ear, Via Natural or Artificial Opening",3E0B7K,2016,2027
+3E0B7N,"Analgesics, Hypnotics, Sedatives",3E0B7,2016,2027
+3E0B7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Ear, Via Natural or Artificial Opening",3E0B7N,2016,2027
+3E0B7T,Destructive Agent,3E0B7,2016,2027
+3E0B7TZ,"Introduction of Destructive Agent into Ear, Via Natural or Artificial Opening",3E0B7T,2016,2027
+3E0BX,External,3E0B,2016,2027
+3E0BX0,Antineoplastic,3E0BX,2016,2027
+3E0BX04,"Introduction of Liquid Brachytherapy Radioisotope into Ear, External Approach",3E0BX0,2016,2027
+3E0BX05,"Introduction of Other Antineoplastic into Ear, External Approach",3E0BX0,2016,2027
+3E0BX0M,"Introduction of Antineoplastic, Monoclonal Antibody, into Ear, External Approach",3E0BX0,2016,2027
+3E0BX2,Anti-infective,3E0BX,2016,2027
+3E0BX28,"Introduction of Oxazolidinones into Ear, External Approach",3E0BX2,2016,2027
+3E0BX29,"Introduction of Other Anti-infective into Ear, External Approach",3E0BX2,2016,2027
+3E0BX3,Anti-inflammatory,3E0BX,2016,2027
+3E0BX3Z,"Introduction of Anti-inflammatory into Ear, External Approach",3E0BX3,2016,2027
+3E0BXB,Anesthetic Agent,3E0BX,2016,2027
+3E0BXBZ,"Introduction of Anesthetic Agent into Ear, External Approach",3E0BXB,2016,2027
+3E0BXG,Other Therapeutic Substance,3E0BX,2016,2027
+3E0BXGC,"Introduction of Other Therapeutic Substance into Ear, External Approach",3E0BXG,2016,2027
+3E0BXH,Radioactive Substance,3E0BX,2016,2027
+3E0BXHZ,"Introduction of Radioactive Substance into Ear, External Approach",3E0BXH,2016,2027
+3E0BXK,Other Diagnostic Substance,3E0BX,2016,2027
+3E0BXKZ,"Introduction of Other Diagnostic Substance into Ear, External Approach",3E0BXK,2016,2027
+3E0BXN,"Analgesics, Hypnotics, Sedatives",3E0BX,2016,2027
+3E0BXNZ,"Introduction of Analgesics, Hypnotics, Sedatives into Ear, External Approach",3E0BXN,2016,2027
+3E0BXT,Destructive Agent,3E0BX,2016,2027
+3E0BXTZ,"Introduction of Destructive Agent into Ear, External Approach",3E0BXT,2016,2027
+3E0C,Eye,3E0,2016,2027
+3E0C3,Percutaneous,3E0C,2016,2027
+3E0C30,Antineoplastic,3E0C3,2016,2027
+3E0C304,"Introduction of Liquid Brachytherapy Radioisotope into Eye, Percutaneous Approach",3E0C30,2016,2027
+3E0C305,"Introduction of Other Antineoplastic into Eye, Percutaneous Approach",3E0C30,2016,2027
+3E0C30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Eye, Percutaneous Approach",3E0C30,2016,2027
+3E0C32,Anti-infective,3E0C3,2016,2027
+3E0C328,"Introduction of Oxazolidinones into Eye, Percutaneous Approach",3E0C32,2016,2027
+3E0C329,"Introduction of Other Anti-infective into Eye, Percutaneous Approach",3E0C32,2016,2027
+3E0C33,Anti-inflammatory,3E0C3,2016,2027
+3E0C33Z,"Introduction of Anti-inflammatory into Eye, Percutaneous Approach",3E0C33,2016,2027
+3E0C3B,Anesthetic Agent,3E0C3,2016,2027
+3E0C3BZ,"Introduction of Anesthetic Agent into Eye, Percutaneous Approach",3E0C3B,2016,2027
+3E0C3G,Other Therapeutic Substance,3E0C3,2016,2027
+3E0C3GC,"Introduction of Other Therapeutic Substance into Eye, Percutaneous Approach",3E0C3G,2016,2027
+3E0C3H,Radioactive Substance,3E0C3,2016,2027
+3E0C3HZ,"Introduction of Radioactive Substance into Eye, Percutaneous Approach",3E0C3H,2016,2027
+3E0C3K,Other Diagnostic Substance,3E0C3,2016,2027
+3E0C3KZ,"Introduction of Other Diagnostic Substance into Eye, Percutaneous Approach",3E0C3K,2016,2027
+3E0C3M,Pigment,3E0C3,2016,2027
+3E0C3MZ,"Introduction of Pigment into Eye, Percutaneous Approach",3E0C3M,2016,2027
+3E0C3N,"Analgesics, Hypnotics, Sedatives",3E0C3,2016,2027
+3E0C3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Eye, Percutaneous Approach",3E0C3N,2016,2027
+3E0C3S,Gas,3E0C3,2016,2027
+3E0C3SF,"Introduction of Other Gas into Eye, Percutaneous Approach",3E0C3S,2016,2027
+3E0C3T,Destructive Agent,3E0C3,2016,2027
+3E0C3TZ,"Introduction of Destructive Agent into Eye, Percutaneous Approach",3E0C3T,2016,2027
+3E0C7,Via Natural or Artificial Opening,3E0C,2016,2027
+3E0C70,Antineoplastic,3E0C7,2016,2027
+3E0C704,"Introduction of Liquid Brachytherapy Radioisotope into Eye, Via Natural or Artificial Opening",3E0C70,2016,2027
+3E0C705,"Introduction of Other Antineoplastic into Eye, Via Natural or Artificial Opening",3E0C70,2016,2027
+3E0C70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Eye, Via Natural or Artificial Opening",3E0C70,2016,2027
+3E0C72,Anti-infective,3E0C7,2016,2027
+3E0C728,"Introduction of Oxazolidinones into Eye, Via Natural or Artificial Opening",3E0C72,2016,2027
+3E0C729,"Introduction of Other Anti-infective into Eye, Via Natural or Artificial Opening",3E0C72,2016,2027
+3E0C73,Anti-inflammatory,3E0C7,2016,2027
+3E0C73Z,"Introduction of Anti-inflammatory into Eye, Via Natural or Artificial Opening",3E0C73,2016,2027
+3E0C7B,Anesthetic Agent,3E0C7,2016,2027
+3E0C7BZ,"Introduction of Anesthetic Agent into Eye, Via Natural or Artificial Opening",3E0C7B,2016,2027
+3E0C7G,Other Therapeutic Substance,3E0C7,2016,2027
+3E0C7GC,"Introduction of Other Therapeutic Substance into Eye, Via Natural or Artificial Opening",3E0C7G,2016,2027
+3E0C7H,Radioactive Substance,3E0C7,2016,2027
+3E0C7HZ,"Introduction of Radioactive Substance into Eye, Via Natural or Artificial Opening",3E0C7H,2016,2027
+3E0C7K,Other Diagnostic Substance,3E0C7,2016,2027
+3E0C7KZ,"Introduction of Other Diagnostic Substance into Eye, Via Natural or Artificial Opening",3E0C7K,2016,2027
+3E0C7M,Pigment,3E0C7,2016,2027
+3E0C7MZ,"Introduction of Pigment into Eye, Via Natural or Artificial Opening",3E0C7M,2016,2027
+3E0C7N,"Analgesics, Hypnotics, Sedatives",3E0C7,2016,2027
+3E0C7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Eye, Via Natural or Artificial Opening",3E0C7N,2016,2027
+3E0C7S,Gas,3E0C7,2016,2027
+3E0C7SF,"Introduction of Other Gas into Eye, Via Natural or Artificial Opening",3E0C7S,2016,2027
+3E0C7T,Destructive Agent,3E0C7,2016,2027
+3E0C7TZ,"Introduction of Destructive Agent into Eye, Via Natural or Artificial Opening",3E0C7T,2016,2027
+3E0CX,External,3E0C,2016,2027
+3E0CX0,Antineoplastic,3E0CX,2016,2027
+3E0CX04,"Introduction of Liquid Brachytherapy Radioisotope into Eye, External Approach",3E0CX0,2016,2027
+3E0CX05,"Introduction of Other Antineoplastic into Eye, External Approach",3E0CX0,2016,2027
+3E0CX0M,"Introduction of Antineoplastic, Monoclonal Antibody, into Eye, External Approach",3E0CX0,2016,2027
+3E0CX2,Anti-infective,3E0CX,2016,2027
+3E0CX28,"Introduction of Oxazolidinones into Eye, External Approach",3E0CX2,2016,2027
+3E0CX29,"Introduction of Other Anti-infective into Eye, External Approach",3E0CX2,2016,2027
+3E0CX3,Anti-inflammatory,3E0CX,2016,2027
+3E0CX3Z,"Introduction of Anti-inflammatory into Eye, External Approach",3E0CX3,2016,2027
+3E0CXB,Anesthetic Agent,3E0CX,2016,2027
+3E0CXBZ,"Introduction of Anesthetic Agent into Eye, External Approach",3E0CXB,2016,2027
+3E0CXG,Other Therapeutic Substance,3E0CX,2016,2027
+3E0CXGC,"Introduction of Other Therapeutic Substance into Eye, External Approach",3E0CXG,2016,2027
+3E0CXH,Radioactive Substance,3E0CX,2016,2027
+3E0CXHZ,"Introduction of Radioactive Substance into Eye, External Approach",3E0CXH,2016,2027
+3E0CXK,Other Diagnostic Substance,3E0CX,2016,2027
+3E0CXKZ,"Introduction of Other Diagnostic Substance into Eye, External Approach",3E0CXK,2016,2027
+3E0CXM,Pigment,3E0CX,2016,2027
+3E0CXMZ,"Introduction of Pigment into Eye, External Approach",3E0CXM,2016,2027
+3E0CXN,"Analgesics, Hypnotics, Sedatives",3E0CX,2016,2027
+3E0CXNZ,"Introduction of Analgesics, Hypnotics, Sedatives into Eye, External Approach",3E0CXN,2016,2027
+3E0CXS,Gas,3E0CX,2016,2027
+3E0CXSF,"Introduction of Other Gas into Eye, External Approach",3E0CXS,2016,2027
+3E0CXT,Destructive Agent,3E0CX,2016,2027
+3E0CXTZ,"Introduction of Destructive Agent into Eye, External Approach",3E0CXT,2016,2027
+3E0D,Mouth and Pharynx,3E0,2016,2027
+3E0D3,Percutaneous,3E0D,2016,2027
+3E0D30,Antineoplastic,3E0D3,2016,2027
+3E0D304,"Introduction of Liquid Brachytherapy Radioisotope into Mouth and Pharynx, Percutaneous Approach",3E0D30,2016,2027
+3E0D305,"Introduction of Other Antineoplastic into Mouth and Pharynx, Percutaneous Approach",3E0D30,2016,2027
+3E0D30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Mouth and Pharynx, Percutaneous Approach",3E0D30,2016,2027
+3E0D32,Anti-infective,3E0D3,2016,2027
+3E0D328,"Introduction of Oxazolidinones into Mouth and Pharynx, Percutaneous Approach",3E0D32,2016,2027
+3E0D329,"Introduction of Other Anti-infective into Mouth and Pharynx, Percutaneous Approach",3E0D32,2016,2027
+3E0D33,Anti-inflammatory,3E0D3,2016,2027
+3E0D33Z,"Introduction of Anti-inflammatory into Mouth and Pharynx, Percutaneous Approach",3E0D33,2016,2027
+3E0D34,"Serum, Toxoid and Vaccine",3E0D3,2016,2027
+3E0D34Z,"Introduction of Serum, Toxoid and Vaccine into Mouth and Pharynx, Percutaneous Approach",3E0D34,2016,2027
+3E0D36,Nutritional Substance,3E0D3,2016,2027
+3E0D36Z,"Introduction of Nutritional Substance into Mouth and Pharynx, Percutaneous Approach",3E0D36,2016,2027
+3E0D37,Electrolytic and Water Balance Substance,3E0D3,2016,2027
+3E0D37Z,"Introduction of Electrolytic and Water Balance Substance into Mouth and Pharynx, Percutaneous Approach",3E0D37,2016,2027
+3E0D3B,Anesthetic Agent,3E0D3,2016,2027
+3E0D3BZ,"Introduction of Anesthetic Agent into Mouth and Pharynx, Percutaneous Approach",3E0D3B,2016,2027
+3E0D3G,Other Therapeutic Substance,3E0D3,2016,2027
+3E0D3GC,"Introduction of Other Therapeutic Substance into Mouth and Pharynx, Percutaneous Approach",3E0D3G,2016,2027
+3E0D3H,Radioactive Substance,3E0D3,2016,2027
+3E0D3HZ,"Introduction of Radioactive Substance into Mouth and Pharynx, Percutaneous Approach",3E0D3H,2016,2027
+3E0D3K,Other Diagnostic Substance,3E0D3,2016,2027
+3E0D3KZ,"Introduction of Other Diagnostic Substance into Mouth and Pharynx, Percutaneous Approach",3E0D3K,2016,2027
+3E0D3N,"Analgesics, Hypnotics, Sedatives",3E0D3,2016,2027
+3E0D3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Mouth and Pharynx, Percutaneous Approach",3E0D3N,2016,2027
+3E0D3R,Antiarrhythmic,3E0D3,2016,2027
+3E0D3RZ,"Introduction of Antiarrhythmic into Mouth and Pharynx, Percutaneous Approach",3E0D3R,2016,2027
+3E0D3T,Destructive Agent,3E0D3,2016,2027
+3E0D3TZ,"Introduction of Destructive Agent into Mouth and Pharynx, Percutaneous Approach",3E0D3T,2016,2027
+3E0D7,Via Natural or Artificial Opening,3E0D,2016,2027
+3E0D70,Antineoplastic,3E0D7,2016,2027
+3E0D704,"Introduction of Liquid Brachytherapy Radioisotope into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D70,2016,2027
+3E0D705,"Introduction of Other Antineoplastic into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D70,2016,2027
+3E0D70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D70,2016,2027
+3E0D72,Anti-infective,3E0D7,2016,2027
+3E0D728,"Introduction of Oxazolidinones into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D72,2016,2027
+3E0D729,"Introduction of Other Anti-infective into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D72,2016,2027
+3E0D73,Anti-inflammatory,3E0D7,2016,2027
+3E0D73Z,"Introduction of Anti-inflammatory into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D73,2016,2027
+3E0D74,"Serum, Toxoid and Vaccine",3E0D7,2016,2027
+3E0D74Z,"Introduction of Serum, Toxoid and Vaccine into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D74,2016,2027
+3E0D76,Nutritional Substance,3E0D7,2016,2027
+3E0D76Z,"Introduction of Nutritional Substance into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D76,2016,2027
+3E0D77,Electrolytic and Water Balance Substance,3E0D7,2016,2027
+3E0D77Z,"Introduction of Electrolytic and Water Balance Substance into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D77,2016,2027
+3E0D7B,Anesthetic Agent,3E0D7,2016,2027
+3E0D7BZ,"Introduction of Anesthetic Agent into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7B,2016,2027
+3E0D7G,Other Therapeutic Substance,3E0D7,2016,2027
+3E0D7GC,"Introduction of Other Therapeutic Substance into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7G,2016,2027
+3E0D7H,Radioactive Substance,3E0D7,2016,2027
+3E0D7HZ,"Introduction of Radioactive Substance into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7H,2016,2027
+3E0D7K,Other Diagnostic Substance,3E0D7,2016,2027
+3E0D7KZ,"Introduction of Other Diagnostic Substance into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7K,2016,2027
+3E0D7N,"Analgesics, Hypnotics, Sedatives",3E0D7,2016,2027
+3E0D7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7N,2016,2027
+3E0D7R,Antiarrhythmic,3E0D7,2016,2027
+3E0D7RZ,"Introduction of Antiarrhythmic into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7R,2016,2027
+3E0D7T,Destructive Agent,3E0D7,2016,2027
+3E0D7TZ,"Introduction of Destructive Agent into Mouth and Pharynx, Via Natural or Artificial Opening",3E0D7T,2016,2027
+3E0DX,External,3E0D,2016,2027
+3E0DX0,Antineoplastic,3E0DX,2016,2027
+3E0DX04,"Introduction of Liquid Brachytherapy Radioisotope into Mouth and Pharynx, External Approach",3E0DX0,2016,2027
+3E0DX05,"Introduction of Other Antineoplastic into Mouth and Pharynx, External Approach",3E0DX0,2016,2027
+3E0DX0M,"Introduction of Antineoplastic, Monoclonal Antibody, into Mouth and Pharynx, External Approach",3E0DX0,2016,2027
+3E0DX2,Anti-infective,3E0DX,2016,2027
+3E0DX28,"Introduction of Oxazolidinones into Mouth and Pharynx, External Approach",3E0DX2,2016,2027
+3E0DX29,"Introduction of Other Anti-infective into Mouth and Pharynx, External Approach",3E0DX2,2016,2027
+3E0DX3,Anti-inflammatory,3E0DX,2016,2027
+3E0DX3Z,"Introduction of Anti-inflammatory into Mouth and Pharynx, External Approach",3E0DX3,2016,2027
+3E0DX4,"Serum, Toxoid and Vaccine",3E0DX,2016,2027
+3E0DX4Z,"Introduction of Serum, Toxoid and Vaccine into Mouth and Pharynx, External Approach",3E0DX4,2016,2027
+3E0DX6,Nutritional Substance,3E0DX,2016,2027
+3E0DX6Z,"Introduction of Nutritional Substance into Mouth and Pharynx, External Approach",3E0DX6,2016,2027
+3E0DX7,Electrolytic and Water Balance Substance,3E0DX,2016,2027
+3E0DX7Z,"Introduction of Electrolytic and Water Balance Substance into Mouth and Pharynx, External Approach",3E0DX7,2016,2027
+3E0DXB,Anesthetic Agent,3E0DX,2016,2027
+3E0DXBZ,"Introduction of Anesthetic Agent into Mouth and Pharynx, External Approach",3E0DXB,2016,2027
+3E0DXG,Other Therapeutic Substance,3E0DX,2016,2027
+3E0DXGC,"Introduction of Other Therapeutic Substance into Mouth and Pharynx, External Approach",3E0DXG,2016,2027
+3E0DXH,Radioactive Substance,3E0DX,2016,2027
+3E0DXHZ,"Introduction of Radioactive Substance into Mouth and Pharynx, External Approach",3E0DXH,2016,2027
+3E0DXK,Other Diagnostic Substance,3E0DX,2016,2027
+3E0DXKZ,"Introduction of Other Diagnostic Substance into Mouth and Pharynx, External Approach",3E0DXK,2016,2027
+3E0DXN,"Analgesics, Hypnotics, Sedatives",3E0DX,2016,2027
+3E0DXNZ,"Introduction of Analgesics, Hypnotics, Sedatives into Mouth and Pharynx, External Approach",3E0DXN,2016,2027
+3E0DXR,Antiarrhythmic,3E0DX,2016,2027
+3E0DXRZ,"Introduction of Antiarrhythmic into Mouth and Pharynx, External Approach",3E0DXR,2016,2027
+3E0DXT,Destructive Agent,3E0DX,2016,2027
+3E0DXTZ,"Introduction of Destructive Agent into Mouth and Pharynx, External Approach",3E0DXT,2016,2027
+3E0E,Products of Conception,3E0,2016,2027
+3E0E3,Percutaneous,3E0E,2016,2027
+3E0E30,Antineoplastic,3E0E3,2016,2027
+3E0E304,"Introduction of Liquid Brachytherapy Radioisotope into Products of Conception, Percutaneous Approach",3E0E30,2016,2027
+3E0E305,"Introduction of Other Antineoplastic into Products of Conception, Percutaneous Approach",3E0E30,2016,2027
+3E0E30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Products of Conception, Percutaneous Approach",3E0E30,2016,2027
+3E0E32,Anti-infective,3E0E3,2016,2027
+3E0E328,"Introduction of Oxazolidinones into Products of Conception, Percutaneous Approach",3E0E32,2016,2027
+3E0E329,"Introduction of Other Anti-infective into Products of Conception, Percutaneous Approach",3E0E32,2016,2027
+3E0E33,Anti-inflammatory,3E0E3,2016,2027
+3E0E33Z,"Introduction of Anti-inflammatory into Products of Conception, Percutaneous Approach",3E0E33,2016,2027
+3E0E36,Nutritional Substance,3E0E3,2016,2027
+3E0E36Z,"Introduction of Nutritional Substance into Products of Conception, Percutaneous Approach",3E0E36,2016,2027
+3E0E37,Electrolytic and Water Balance Substance,3E0E3,2016,2027
+3E0E37Z,"Introduction of Electrolytic and Water Balance Substance into Products of Conception, Percutaneous Approach",3E0E37,2016,2027
+3E0E3B,Anesthetic Agent,3E0E3,2016,2027
+3E0E3BZ,"Introduction of Anesthetic Agent into Products of Conception, Percutaneous Approach",3E0E3B,2016,2027
+3E0E3G,Other Therapeutic Substance,3E0E3,2016,2027
+3E0E3GC,"Introduction of Other Therapeutic Substance into Products of Conception, Percutaneous Approach",3E0E3G,2016,2027
+3E0E3H,Radioactive Substance,3E0E3,2016,2027
+3E0E3HZ,"Introduction of Radioactive Substance into Products of Conception, Percutaneous Approach",3E0E3H,2016,2027
+3E0E3K,Other Diagnostic Substance,3E0E3,2016,2027
+3E0E3KZ,"Introduction of Other Diagnostic Substance into Products of Conception, Percutaneous Approach",3E0E3K,2016,2027
+3E0E3N,"Analgesics, Hypnotics, Sedatives",3E0E3,2016,2027
+3E0E3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Products of Conception, Percutaneous Approach",3E0E3N,2016,2027
+3E0E3S,Gas,3E0E3,2016,2027
+3E0E3SF,"Introduction of Other Gas into Products of Conception, Percutaneous Approach",3E0E3S,2016,2027
+3E0E3T,Destructive Agent,3E0E3,2016,2027
+3E0E3TZ,"Introduction of Destructive Agent into Products of Conception, Percutaneous Approach",3E0E3T,2016,2027
+3E0E4,Percutaneous Endoscopic,3E0E,2018,2027
+3E0E4G,Other Therapeutic Substance,3E0E4,2018,2027
+3E0E4GC,"Introduction of Other Therapeutic Substance into Products of Conception, Percutaneous Endoscopic Approach",3E0E4G,2018,2027
+3E0E7,Via Natural or Artificial Opening,3E0E,2016,2027
+3E0E70,Antineoplastic,3E0E7,2016,2027
+3E0E704,"Introduction of Liquid Brachytherapy Radioisotope into Products of Conception, Via Natural or Artificial Opening",3E0E70,2016,2027
+3E0E705,"Introduction of Other Antineoplastic into Products of Conception, Via Natural or Artificial Opening",3E0E70,2016,2027
+3E0E70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Products of Conception, Via Natural or Artificial Opening",3E0E70,2016,2027
+3E0E72,Anti-infective,3E0E7,2016,2027
+3E0E728,"Introduction of Oxazolidinones into Products of Conception, Via Natural or Artificial Opening",3E0E72,2016,2027
+3E0E729,"Introduction of Other Anti-infective into Products of Conception, Via Natural or Artificial Opening",3E0E72,2016,2027
+3E0E73,Anti-inflammatory,3E0E7,2016,2027
+3E0E73Z,"Introduction of Anti-inflammatory into Products of Conception, Via Natural or Artificial Opening",3E0E73,2016,2027
+3E0E76,Nutritional Substance,3E0E7,2016,2027
+3E0E76Z,"Introduction of Nutritional Substance into Products of Conception, Via Natural or Artificial Opening",3E0E76,2016,2027
+3E0E77,Electrolytic and Water Balance Substance,3E0E7,2016,2027
+3E0E77Z,"Introduction of Electrolytic and Water Balance Substance into Products of Conception, Via Natural or Artificial Opening",3E0E77,2016,2027
+3E0E7B,Anesthetic Agent,3E0E7,2016,2027
+3E0E7BZ,"Introduction of Anesthetic Agent into Products of Conception, Via Natural or Artificial Opening",3E0E7B,2016,2027
+3E0E7G,Other Therapeutic Substance,3E0E7,2016,2027
+3E0E7GC,"Introduction of Other Therapeutic Substance into Products of Conception, Via Natural or Artificial Opening",3E0E7G,2016,2027
+3E0E7H,Radioactive Substance,3E0E7,2016,2027
+3E0E7HZ,"Introduction of Radioactive Substance into Products of Conception, Via Natural or Artificial Opening",3E0E7H,2016,2027
+3E0E7K,Other Diagnostic Substance,3E0E7,2016,2027
+3E0E7KZ,"Introduction of Other Diagnostic Substance into Products of Conception, Via Natural or Artificial Opening",3E0E7K,2016,2027
+3E0E7N,"Analgesics, Hypnotics, Sedatives",3E0E7,2016,2027
+3E0E7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Products of Conception, Via Natural or Artificial Opening",3E0E7N,2016,2027
+3E0E7S,Gas,3E0E7,2016,2027
+3E0E7SF,"Introduction of Other Gas into Products of Conception, Via Natural or Artificial Opening",3E0E7S,2016,2027
+3E0E7T,Destructive Agent,3E0E7,2016,2027
+3E0E7TZ,"Introduction of Destructive Agent into Products of Conception, Via Natural or Artificial Opening",3E0E7T,2016,2027
+3E0E8,Via Natural or Artificial Opening Endoscopic,3E0E,2016,2027
+3E0E80,Antineoplastic,3E0E8,2016,2027
+3E0E804,"Introduction of Liquid Brachytherapy Radioisotope into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E80,2016,2027
+3E0E805,"Introduction of Other Antineoplastic into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E80,2016,2027
+3E0E80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E80,2016,2027
+3E0E82,Anti-infective,3E0E8,2016,2027
+3E0E828,"Introduction of Oxazolidinones into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E82,2016,2027
+3E0E829,"Introduction of Other Anti-infective into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E82,2016,2027
+3E0E83,Anti-inflammatory,3E0E8,2016,2027
+3E0E83Z,"Introduction of Anti-inflammatory into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E83,2016,2027
+3E0E86,Nutritional Substance,3E0E8,2016,2027
+3E0E86Z,"Introduction of Nutritional Substance into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E86,2016,2027
+3E0E87,Electrolytic and Water Balance Substance,3E0E8,2016,2027
+3E0E87Z,"Introduction of Electrolytic and Water Balance Substance into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E87,2016,2027
+3E0E8B,Anesthetic Agent,3E0E8,2016,2027
+3E0E8BZ,"Introduction of Anesthetic Agent into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8B,2016,2027
+3E0E8G,Other Therapeutic Substance,3E0E8,2016,2027
+3E0E8GC,"Introduction of Other Therapeutic Substance into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8G,2016,2027
+3E0E8H,Radioactive Substance,3E0E8,2016,2027
+3E0E8HZ,"Introduction of Radioactive Substance into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8H,2016,2027
+3E0E8K,Other Diagnostic Substance,3E0E8,2016,2027
+3E0E8KZ,"Introduction of Other Diagnostic Substance into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8K,2016,2027
+3E0E8N,"Analgesics, Hypnotics, Sedatives",3E0E8,2016,2027
+3E0E8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8N,2016,2027
+3E0E8S,Gas,3E0E8,2016,2027
+3E0E8SF,"Introduction of Other Gas into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8S,2016,2027
+3E0E8T,Destructive Agent,3E0E8,2016,2027
+3E0E8TZ,"Introduction of Destructive Agent into Products of Conception, Via Natural or Artificial Opening Endoscopic",3E0E8T,2016,2027
+3E0F,Respiratory Tract,3E0,2016,2027
+3E0F3,Percutaneous,3E0F,2016,2027
+3E0F30,Antineoplastic,3E0F3,2016,2027
+3E0F304,"Introduction of Liquid Brachytherapy Radioisotope into Respiratory Tract, Percutaneous Approach",3E0F30,2016,2027
+3E0F305,"Introduction of Other Antineoplastic into Respiratory Tract, Percutaneous Approach",3E0F30,2016,2027
+3E0F30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Respiratory Tract, Percutaneous Approach",3E0F30,2016,2027
+3E0F32,Anti-infective,3E0F3,2016,2027
+3E0F328,"Introduction of Oxazolidinones into Respiratory Tract, Percutaneous Approach",3E0F32,2016,2027
+3E0F329,"Introduction of Other Anti-infective into Respiratory Tract, Percutaneous Approach",3E0F32,2016,2027
+3E0F33,Anti-inflammatory,3E0F3,2016,2027
+3E0F33Z,"Introduction of Anti-inflammatory into Respiratory Tract, Percutaneous Approach",3E0F33,2016,2027
+3E0F36,Nutritional Substance,3E0F3,2016,2027
+3E0F36Z,"Introduction of Nutritional Substance into Respiratory Tract, Percutaneous Approach",3E0F36,2016,2027
+3E0F37,Electrolytic and Water Balance Substance,3E0F3,2016,2027
+3E0F37Z,"Introduction of Electrolytic and Water Balance Substance into Respiratory Tract, Percutaneous Approach",3E0F37,2016,2027
+3E0F3B,Anesthetic Agent,3E0F3,2016,2027
+3E0F3BZ,"Introduction of Anesthetic Agent into Respiratory Tract, Percutaneous Approach",3E0F3B,2016,2027
+3E0F3G,Other Therapeutic Substance,3E0F3,2016,2027
+3E0F3GC,"Introduction of Other Therapeutic Substance into Respiratory Tract, Percutaneous Approach",3E0F3G,2016,2027
+3E0F3H,Radioactive Substance,3E0F3,2016,2027
+3E0F3HZ,"Introduction of Radioactive Substance into Respiratory Tract, Percutaneous Approach",3E0F3H,2016,2027
+3E0F3K,Other Diagnostic Substance,3E0F3,2016,2027
+3E0F3KZ,"Introduction of Other Diagnostic Substance into Respiratory Tract, Percutaneous Approach",3E0F3K,2016,2027
+3E0F3N,"Analgesics, Hypnotics, Sedatives",3E0F3,2016,2027
+3E0F3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Respiratory Tract, Percutaneous Approach",3E0F3N,2016,2027
+3E0F3S,Gas,3E0F3,2016,2027
+3E0F3SD,"Introduction of Nitric Oxide Gas into Respiratory Tract, Percutaneous Approach",3E0F3S,2016,2027
+3E0F3SF,"Introduction of Other Gas into Respiratory Tract, Percutaneous Approach",3E0F3S,2016,2027
+3E0F3T,Destructive Agent,3E0F3,2016,2027
+3E0F3TZ,"Introduction of Destructive Agent into Respiratory Tract, Percutaneous Approach",3E0F3T,2016,2027
+3E0F4,Percutaneous Endoscopic,3E0F,2018,2027
+3E0F4G,Other Therapeutic Substance,3E0F4,2018,2027
+3E0F4GC,"Introduction of Other Therapeutic Substance into Respiratory Tract, Percutaneous Endoscopic Approach",3E0F4G,2018,2027
+3E0F7,Via Natural or Artificial Opening,3E0F,2016,2027
+3E0F70,Antineoplastic,3E0F7,2016,2027
+3E0F704,"Introduction of Liquid Brachytherapy Radioisotope into Respiratory Tract, Via Natural or Artificial Opening",3E0F70,2016,2027
+3E0F705,"Introduction of Other Antineoplastic into Respiratory Tract, Via Natural or Artificial Opening",3E0F70,2016,2027
+3E0F70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Respiratory Tract, Via Natural or Artificial Opening",3E0F70,2016,2027
+3E0F72,Anti-infective,3E0F7,2016,2027
+3E0F728,"Introduction of Oxazolidinones into Respiratory Tract, Via Natural or Artificial Opening",3E0F72,2016,2027
+3E0F729,"Introduction of Other Anti-infective into Respiratory Tract, Via Natural or Artificial Opening",3E0F72,2016,2027
+3E0F73,Anti-inflammatory,3E0F7,2016,2027
+3E0F73Z,"Introduction of Anti-inflammatory into Respiratory Tract, Via Natural or Artificial Opening",3E0F73,2016,2027
+3E0F76,Nutritional Substance,3E0F7,2016,2027
+3E0F76Z,"Introduction of Nutritional Substance into Respiratory Tract, Via Natural or Artificial Opening",3E0F76,2016,2027
+3E0F77,Electrolytic and Water Balance Substance,3E0F7,2016,2027
+3E0F77Z,"Introduction of Electrolytic and Water Balance Substance into Respiratory Tract, Via Natural or Artificial Opening",3E0F77,2016,2027
+3E0F7B,Anesthetic Agent,3E0F7,2016,2027
+3E0F7BZ,"Introduction of Anesthetic Agent into Respiratory Tract, Via Natural or Artificial Opening",3E0F7B,2016,2027
+3E0F7D,Inhalation Anesthetic,3E0F7,2016,2017
+3E0F7DZ,"Introduction of Inhalation Anesthetic into Respiratory Tract, Via Natural or Artificial Opening",3E0F7D,2016,2017
+3E0F7G,Other Therapeutic Substance,3E0F7,2016,2027
+3E0F7GC,"Introduction of Other Therapeutic Substance into Respiratory Tract, Via Natural or Artificial Opening",3E0F7G,2016,2027
+3E0F7H,Radioactive Substance,3E0F7,2016,2027
+3E0F7HZ,"Introduction of Radioactive Substance into Respiratory Tract, Via Natural or Artificial Opening",3E0F7H,2016,2027
+3E0F7K,Other Diagnostic Substance,3E0F7,2016,2027
+3E0F7KZ,"Introduction of Other Diagnostic Substance into Respiratory Tract, Via Natural or Artificial Opening",3E0F7K,2016,2027
+3E0F7N,"Analgesics, Hypnotics, Sedatives",3E0F7,2016,2027
+3E0F7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Respiratory Tract, Via Natural or Artificial Opening",3E0F7N,2016,2027
+3E0F7S,Gas,3E0F7,2016,2027
+3E0F7SD,"Introduction of Nitric Oxide Gas into Respiratory Tract, Via Natural or Artificial Opening",3E0F7S,2016,2027
+3E0F7SF,"Introduction of Other Gas into Respiratory Tract, Via Natural or Artificial Opening",3E0F7S,2016,2027
+3E0F7T,Destructive Agent,3E0F7,2016,2027
+3E0F7TZ,"Introduction of Destructive Agent into Respiratory Tract, Via Natural or Artificial Opening",3E0F7T,2016,2027
+3E0F8,Via Natural or Artificial Opening Endoscopic,3E0F,2016,2027
+3E0F80,Antineoplastic,3E0F8,2016,2027
+3E0F804,"Introduction of Liquid Brachytherapy Radioisotope into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F80,2016,2027
+3E0F805,"Introduction of Other Antineoplastic into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F80,2016,2027
+3E0F80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F80,2016,2027
+3E0F82,Anti-infective,3E0F8,2016,2027
+3E0F828,"Introduction of Oxazolidinones into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F82,2016,2027
+3E0F829,"Introduction of Other Anti-infective into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F82,2016,2027
+3E0F83,Anti-inflammatory,3E0F8,2016,2027
+3E0F83Z,"Introduction of Anti-inflammatory into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F83,2016,2027
+3E0F86,Nutritional Substance,3E0F8,2016,2027
+3E0F86Z,"Introduction of Nutritional Substance into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F86,2016,2027
+3E0F87,Electrolytic and Water Balance Substance,3E0F8,2016,2027
+3E0F87Z,"Introduction of Electrolytic and Water Balance Substance into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F87,2016,2027
+3E0F8B,Anesthetic Agent,3E0F8,2016,2027
+3E0F8BZ,"Introduction of Anesthetic Agent into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8B,2016,2027
+3E0F8D,Inhalation Anesthetic,3E0F8,2016,2017
+3E0F8DZ,"Introduction of Inhalation Anesthetic into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8D,2016,2017
+3E0F8G,Other Therapeutic Substance,3E0F8,2016,2027
+3E0F8GC,"Introduction of Other Therapeutic Substance into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8G,2016,2027
+3E0F8H,Radioactive Substance,3E0F8,2016,2027
+3E0F8HZ,"Introduction of Radioactive Substance into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8H,2016,2027
+3E0F8K,Other Diagnostic Substance,3E0F8,2016,2027
+3E0F8KZ,"Introduction of Other Diagnostic Substance into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8K,2016,2027
+3E0F8N,"Analgesics, Hypnotics, Sedatives",3E0F8,2016,2027
+3E0F8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8N,2016,2027
+3E0F8S,Gas,3E0F8,2016,2027
+3E0F8SD,"Introduction of Nitric Oxide Gas into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8S,2016,2027
+3E0F8SF,"Introduction of Other Gas into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8S,2016,2027
+3E0F8T,Destructive Agent,3E0F8,2016,2027
+3E0F8TZ,"Introduction of Destructive Agent into Respiratory Tract, Via Natural or Artificial Opening Endoscopic",3E0F8T,2016,2027
+3E0G,Upper GI,3E0,2016,2027
+3E0G3,Percutaneous,3E0G,2016,2027
+3E0G30,Antineoplastic,3E0G3,2016,2027
+3E0G304,"Introduction of Liquid Brachytherapy Radioisotope into Upper GI, Percutaneous Approach",3E0G30,2016,2027
+3E0G305,"Introduction of Other Antineoplastic into Upper GI, Percutaneous Approach",3E0G30,2016,2027
+3E0G30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Upper GI, Percutaneous Approach",3E0G30,2016,2027
+3E0G32,Anti-infective,3E0G3,2016,2027
+3E0G328,"Introduction of Oxazolidinones into Upper GI, Percutaneous Approach",3E0G32,2016,2027
+3E0G329,"Introduction of Other Anti-infective into Upper GI, Percutaneous Approach",3E0G32,2016,2027
+3E0G33,Anti-inflammatory,3E0G3,2016,2027
+3E0G33Z,"Introduction of Anti-inflammatory into Upper GI, Percutaneous Approach",3E0G33,2016,2027
+3E0G36,Nutritional Substance,3E0G3,2016,2027
+3E0G36Z,"Introduction of Nutritional Substance into Upper GI, Percutaneous Approach",3E0G36,2016,2027
+3E0G37,Electrolytic and Water Balance Substance,3E0G3,2016,2027
+3E0G37Z,"Introduction of Electrolytic and Water Balance Substance into Upper GI, Percutaneous Approach",3E0G37,2016,2027
+3E0G3B,Anesthetic Agent,3E0G3,2016,2027
+3E0G3BZ,"Introduction of Anesthetic Agent into Upper GI, Percutaneous Approach",3E0G3B,2016,2027
+3E0G3G,Other Therapeutic Substance,3E0G3,2016,2027
+3E0G3GC,"Introduction of Other Therapeutic Substance into Upper GI, Percutaneous Approach",3E0G3G,2016,2027
+3E0G3H,Radioactive Substance,3E0G3,2016,2027
+3E0G3HZ,"Introduction of Radioactive Substance into Upper GI, Percutaneous Approach",3E0G3H,2016,2027
+3E0G3K,Other Diagnostic Substance,3E0G3,2016,2027
+3E0G3KZ,"Introduction of Other Diagnostic Substance into Upper GI, Percutaneous Approach",3E0G3K,2016,2027
+3E0G3N,"Analgesics, Hypnotics, Sedatives",3E0G3,2016,2027
+3E0G3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Upper GI, Percutaneous Approach",3E0G3N,2016,2027
+3E0G3S,Gas,3E0G3,2016,2027
+3E0G3SF,"Introduction of Other Gas into Upper GI, Percutaneous Approach",3E0G3S,2016,2027
+3E0G3T,Destructive Agent,3E0G3,2016,2027
+3E0G3TZ,"Introduction of Destructive Agent into Upper GI, Percutaneous Approach",3E0G3T,2016,2027
+3E0G4,Percutaneous Endoscopic,3E0G,2018,2027
+3E0G4G,Other Therapeutic Substance,3E0G4,2018,2027
+3E0G4GC,"Introduction of Other Therapeutic Substance into Upper GI, Percutaneous Endoscopic Approach",3E0G4G,2018,2027
+3E0G7,Via Natural or Artificial Opening,3E0G,2016,2027
+3E0G70,Antineoplastic,3E0G7,2016,2027
+3E0G704,"Introduction of Liquid Brachytherapy Radioisotope into Upper GI, Via Natural or Artificial Opening",3E0G70,2016,2027
+3E0G705,"Introduction of Other Antineoplastic into Upper GI, Via Natural or Artificial Opening",3E0G70,2016,2027
+3E0G70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Upper GI, Via Natural or Artificial Opening",3E0G70,2016,2027
+3E0G72,Anti-infective,3E0G7,2016,2027
+3E0G728,"Introduction of Oxazolidinones into Upper GI, Via Natural or Artificial Opening",3E0G72,2016,2027
+3E0G729,"Introduction of Other Anti-infective into Upper GI, Via Natural or Artificial Opening",3E0G72,2016,2027
+3E0G73,Anti-inflammatory,3E0G7,2016,2027
+3E0G73Z,"Introduction of Anti-inflammatory into Upper GI, Via Natural or Artificial Opening",3E0G73,2016,2027
+3E0G76,Nutritional Substance,3E0G7,2016,2027
+3E0G76Z,"Introduction of Nutritional Substance into Upper GI, Via Natural or Artificial Opening",3E0G76,2016,2027
+3E0G77,Electrolytic and Water Balance Substance,3E0G7,2016,2027
+3E0G77Z,"Introduction of Electrolytic and Water Balance Substance into Upper GI, Via Natural or Artificial Opening",3E0G77,2016,2027
+3E0G7B,Anesthetic Agent,3E0G7,2016,2027
+3E0G7BZ,"Introduction of Anesthetic Agent into Upper GI, Via Natural or Artificial Opening",3E0G7B,2016,2027
+3E0G7G,Other Therapeutic Substance,3E0G7,2016,2027
+3E0G7GC,"Introduction of Other Therapeutic Substance into Upper GI, Via Natural or Artificial Opening",3E0G7G,2016,2027
+3E0G7H,Radioactive Substance,3E0G7,2016,2027
+3E0G7HZ,"Introduction of Radioactive Substance into Upper GI, Via Natural or Artificial Opening",3E0G7H,2016,2027
+3E0G7K,Other Diagnostic Substance,3E0G7,2016,2027
+3E0G7KZ,"Introduction of Other Diagnostic Substance into Upper GI, Via Natural or Artificial Opening",3E0G7K,2016,2027
+3E0G7N,"Analgesics, Hypnotics, Sedatives",3E0G7,2016,2027
+3E0G7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Upper GI, Via Natural or Artificial Opening",3E0G7N,2016,2027
+3E0G7S,Gas,3E0G7,2016,2027
+3E0G7SF,"Introduction of Other Gas into Upper GI, Via Natural or Artificial Opening",3E0G7S,2016,2027
+3E0G7T,Destructive Agent,3E0G7,2016,2027
+3E0G7TZ,"Introduction of Destructive Agent into Upper GI, Via Natural or Artificial Opening",3E0G7T,2016,2027
+3E0G8,Via Natural or Artificial Opening Endoscopic,3E0G,2016,2027
+3E0G80,Antineoplastic,3E0G8,2016,2027
+3E0G804,"Introduction of Liquid Brachytherapy Radioisotope into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G80,2016,2027
+3E0G805,"Introduction of Other Antineoplastic into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G80,2016,2027
+3E0G80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G80,2016,2027
+3E0G82,Anti-infective,3E0G8,2016,2027
+3E0G828,"Introduction of Oxazolidinones into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G82,2016,2027
+3E0G829,"Introduction of Other Anti-infective into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G82,2016,2027
+3E0G83,Anti-inflammatory,3E0G8,2016,2027
+3E0G83Z,"Introduction of Anti-inflammatory into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G83,2016,2027
+3E0G86,Nutritional Substance,3E0G8,2016,2027
+3E0G86Z,"Introduction of Nutritional Substance into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G86,2016,2027
+3E0G87,Electrolytic and Water Balance Substance,3E0G8,2016,2027
+3E0G87Z,"Introduction of Electrolytic and Water Balance Substance into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G87,2016,2027
+3E0G8B,Anesthetic Agent,3E0G8,2016,2027
+3E0G8BZ,"Introduction of Anesthetic Agent into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8B,2016,2027
+3E0G8G,Other Therapeutic Substance,3E0G8,2016,2027
+3E0G8GC,"Introduction of Other Therapeutic Substance into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8G,2016,2027
+3E0G8H,Radioactive Substance,3E0G8,2016,2027
+3E0G8HZ,"Introduction of Radioactive Substance into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8H,2016,2027
+3E0G8K,Other Diagnostic Substance,3E0G8,2016,2027
+3E0G8KZ,"Introduction of Other Diagnostic Substance into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8K,2016,2027
+3E0G8N,"Analgesics, Hypnotics, Sedatives",3E0G8,2016,2027
+3E0G8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8N,2016,2027
+3E0G8S,Gas,3E0G8,2016,2027
+3E0G8SF,"Introduction of Other Gas into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8S,2016,2027
+3E0G8T,Destructive Agent,3E0G8,2016,2027
+3E0G8TZ,"Introduction of Destructive Agent into Upper GI, Via Natural or Artificial Opening Endoscopic",3E0G8T,2016,2027
+3E0H,Lower GI,3E0,2016,2027
+3E0H3,Percutaneous,3E0H,2016,2027
+3E0H30,Antineoplastic,3E0H3,2016,2027
+3E0H304,"Introduction of Liquid Brachytherapy Radioisotope into Lower GI, Percutaneous Approach",3E0H30,2016,2027
+3E0H305,"Introduction of Other Antineoplastic into Lower GI, Percutaneous Approach",3E0H30,2016,2027
+3E0H30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Lower GI, Percutaneous Approach",3E0H30,2016,2027
+3E0H32,Anti-infective,3E0H3,2016,2027
+3E0H328,"Introduction of Oxazolidinones into Lower GI, Percutaneous Approach",3E0H32,2016,2027
+3E0H329,"Introduction of Other Anti-infective into Lower GI, Percutaneous Approach",3E0H32,2016,2027
+3E0H33,Anti-inflammatory,3E0H3,2016,2027
+3E0H33Z,"Introduction of Anti-inflammatory into Lower GI, Percutaneous Approach",3E0H33,2016,2027
+3E0H36,Nutritional Substance,3E0H3,2016,2027
+3E0H36Z,"Introduction of Nutritional Substance into Lower GI, Percutaneous Approach",3E0H36,2016,2027
+3E0H37,Electrolytic and Water Balance Substance,3E0H3,2016,2027
+3E0H37Z,"Introduction of Electrolytic and Water Balance Substance into Lower GI, Percutaneous Approach",3E0H37,2016,2027
+3E0H3B,Anesthetic Agent,3E0H3,2016,2027
+3E0H3BZ,"Introduction of Anesthetic Agent into Lower GI, Percutaneous Approach",3E0H3B,2016,2027
+3E0H3G,Other Therapeutic Substance,3E0H3,2016,2027
+3E0H3GC,"Introduction of Other Therapeutic Substance into Lower GI, Percutaneous Approach",3E0H3G,2016,2027
+3E0H3H,Radioactive Substance,3E0H3,2016,2027
+3E0H3HZ,"Introduction of Radioactive Substance into Lower GI, Percutaneous Approach",3E0H3H,2016,2027
+3E0H3K,Other Diagnostic Substance,3E0H3,2016,2027
+3E0H3KZ,"Introduction of Other Diagnostic Substance into Lower GI, Percutaneous Approach",3E0H3K,2016,2027
+3E0H3N,"Analgesics, Hypnotics, Sedatives",3E0H3,2016,2027
+3E0H3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Lower GI, Percutaneous Approach",3E0H3N,2016,2027
+3E0H3S,Gas,3E0H3,2016,2027
+3E0H3SF,"Introduction of Other Gas into Lower GI, Percutaneous Approach",3E0H3S,2016,2027
+3E0H3T,Destructive Agent,3E0H3,2016,2027
+3E0H3TZ,"Introduction of Destructive Agent into Lower GI, Percutaneous Approach",3E0H3T,2016,2027
+3E0H4,Percutaneous Endoscopic,3E0H,2018,2027
+3E0H4G,Other Therapeutic Substance,3E0H4,2018,2027
+3E0H4GC,"Introduction of Other Therapeutic Substance into Lower GI, Percutaneous Endoscopic Approach",3E0H4G,2018,2027
+3E0H7,Via Natural or Artificial Opening,3E0H,2016,2027
+3E0H70,Antineoplastic,3E0H7,2016,2027
+3E0H704,"Introduction of Liquid Brachytherapy Radioisotope into Lower GI, Via Natural or Artificial Opening",3E0H70,2016,2027
+3E0H705,"Introduction of Other Antineoplastic into Lower GI, Via Natural or Artificial Opening",3E0H70,2016,2027
+3E0H70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Lower GI, Via Natural or Artificial Opening",3E0H70,2016,2027
+3E0H72,Anti-infective,3E0H7,2016,2027
+3E0H728,"Introduction of Oxazolidinones into Lower GI, Via Natural or Artificial Opening",3E0H72,2016,2027
+3E0H729,"Introduction of Other Anti-infective into Lower GI, Via Natural or Artificial Opening",3E0H72,2016,2027
+3E0H73,Anti-inflammatory,3E0H7,2016,2027
+3E0H73Z,"Introduction of Anti-inflammatory into Lower GI, Via Natural or Artificial Opening",3E0H73,2016,2027
+3E0H76,Nutritional Substance,3E0H7,2016,2027
+3E0H76Z,"Introduction of Nutritional Substance into Lower GI, Via Natural or Artificial Opening",3E0H76,2016,2027
+3E0H77,Electrolytic and Water Balance Substance,3E0H7,2016,2027
+3E0H77Z,"Introduction of Electrolytic and Water Balance Substance into Lower GI, Via Natural or Artificial Opening",3E0H77,2016,2027
+3E0H7B,Anesthetic Agent,3E0H7,2016,2027
+3E0H7BZ,"Introduction of Anesthetic Agent into Lower GI, Via Natural or Artificial Opening",3E0H7B,2016,2027
+3E0H7G,Other Therapeutic Substance,3E0H7,2016,2027
+3E0H7GC,"Introduction of Other Therapeutic Substance into Lower GI, Via Natural or Artificial Opening",3E0H7G,2016,2027
+3E0H7H,Radioactive Substance,3E0H7,2016,2027
+3E0H7HZ,"Introduction of Radioactive Substance into Lower GI, Via Natural or Artificial Opening",3E0H7H,2016,2027
+3E0H7K,Other Diagnostic Substance,3E0H7,2016,2027
+3E0H7KZ,"Introduction of Other Diagnostic Substance into Lower GI, Via Natural or Artificial Opening",3E0H7K,2016,2027
+3E0H7N,"Analgesics, Hypnotics, Sedatives",3E0H7,2016,2027
+3E0H7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Lower GI, Via Natural or Artificial Opening",3E0H7N,2016,2027
+3E0H7S,Gas,3E0H7,2016,2027
+3E0H7SF,"Introduction of Other Gas into Lower GI, Via Natural or Artificial Opening",3E0H7S,2016,2027
+3E0H7T,Destructive Agent,3E0H7,2016,2027
+3E0H7TZ,"Introduction of Destructive Agent into Lower GI, Via Natural or Artificial Opening",3E0H7T,2016,2027
+3E0H8,Via Natural or Artificial Opening Endoscopic,3E0H,2016,2027
+3E0H80,Antineoplastic,3E0H8,2016,2027
+3E0H804,"Introduction of Liquid Brachytherapy Radioisotope into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H80,2016,2027
+3E0H805,"Introduction of Other Antineoplastic into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H80,2016,2027
+3E0H80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H80,2016,2027
+3E0H82,Anti-infective,3E0H8,2016,2027
+3E0H828,"Introduction of Oxazolidinones into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H82,2016,2027
+3E0H829,"Introduction of Other Anti-infective into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H82,2016,2027
+3E0H83,Anti-inflammatory,3E0H8,2016,2027
+3E0H83Z,"Introduction of Anti-inflammatory into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H83,2016,2027
+3E0H86,Nutritional Substance,3E0H8,2016,2027
+3E0H86Z,"Introduction of Nutritional Substance into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H86,2016,2027
+3E0H87,Electrolytic and Water Balance Substance,3E0H8,2016,2027
+3E0H87Z,"Introduction of Electrolytic and Water Balance Substance into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H87,2016,2027
+3E0H8B,Anesthetic Agent,3E0H8,2016,2027
+3E0H8BZ,"Introduction of Anesthetic Agent into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8B,2016,2027
+3E0H8G,Other Therapeutic Substance,3E0H8,2016,2027
+3E0H8GC,"Introduction of Other Therapeutic Substance into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8G,2016,2027
+3E0H8H,Radioactive Substance,3E0H8,2016,2027
+3E0H8HZ,"Introduction of Radioactive Substance into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8H,2016,2027
+3E0H8K,Other Diagnostic Substance,3E0H8,2016,2027
+3E0H8KZ,"Introduction of Other Diagnostic Substance into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8K,2016,2027
+3E0H8N,"Analgesics, Hypnotics, Sedatives",3E0H8,2016,2027
+3E0H8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8N,2016,2027
+3E0H8S,Gas,3E0H8,2016,2027
+3E0H8SF,"Introduction of Other Gas into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8S,2016,2027
+3E0H8T,Destructive Agent,3E0H8,2016,2027
+3E0H8TZ,"Introduction of Destructive Agent into Lower GI, Via Natural or Artificial Opening Endoscopic",3E0H8T,2016,2027
+3E0J,Biliary and Pancreatic Tract,3E0,2016,2027
+3E0J3,Percutaneous,3E0J,2016,2027
+3E0J30,Antineoplastic,3E0J3,2016,2027
+3E0J304,"Introduction of Liquid Brachytherapy Radioisotope into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J30,2016,2027
+3E0J305,"Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J30,2016,2027
+3E0J30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J30,2016,2027
+3E0J32,Anti-infective,3E0J3,2016,2027
+3E0J328,"Introduction of Oxazolidinones into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J32,2016,2027
+3E0J329,"Introduction of Other Anti-infective into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J32,2016,2027
+3E0J33,Anti-inflammatory,3E0J3,2016,2027
+3E0J33Z,"Introduction of Anti-inflammatory into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J33,2016,2027
+3E0J36,Nutritional Substance,3E0J3,2016,2027
+3E0J36Z,"Introduction of Nutritional Substance into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J36,2016,2027
+3E0J37,Electrolytic and Water Balance Substance,3E0J3,2016,2027
+3E0J37Z,"Introduction of Electrolytic and Water Balance Substance into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J37,2016,2027
+3E0J3B,Anesthetic Agent,3E0J3,2016,2027
+3E0J3BZ,"Introduction of Anesthetic Agent into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3B,2016,2027
+3E0J3G,Other Therapeutic Substance,3E0J3,2016,2027
+3E0J3GC,"Introduction of Other Therapeutic Substance into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3G,2016,2027
+3E0J3H,Radioactive Substance,3E0J3,2016,2027
+3E0J3HZ,"Introduction of Radioactive Substance into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3H,2016,2027
+3E0J3K,Other Diagnostic Substance,3E0J3,2016,2027
+3E0J3KZ,"Introduction of Other Diagnostic Substance into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3K,2016,2027
+3E0J3N,"Analgesics, Hypnotics, Sedatives",3E0J3,2016,2027
+3E0J3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3N,2016,2027
+3E0J3S,Gas,3E0J3,2016,2027
+3E0J3SF,"Introduction of Other Gas into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3S,2016,2027
+3E0J3T,Destructive Agent,3E0J3,2016,2027
+3E0J3TZ,"Introduction of Destructive Agent into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3T,2016,2027
+3E0J3U,Pancreatic Islet Cells,3E0J3,2016,2027
+3E0J3U0,"Introduction of Autologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3U,2016,2027
+3E0J3U1,"Introduction of Nonautologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Percutaneous Approach",3E0J3U,2016,2027
+3E0J4,Percutaneous Endoscopic,3E0J,2018,2027
+3E0J4G,Other Therapeutic Substance,3E0J4,2018,2027
+3E0J4GC,"Introduction of Other Therapeutic Substance into Biliary and Pancreatic Tract, Percutaneous Endoscopic Approach",3E0J4G,2018,2027
+3E0J7,Via Natural or Artificial Opening,3E0J,2016,2027
+3E0J70,Antineoplastic,3E0J7,2016,2027
+3E0J704,"Introduction of Liquid Brachytherapy Radioisotope into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J70,2016,2027
+3E0J705,"Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J70,2016,2027
+3E0J70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J70,2016,2027
+3E0J72,Anti-infective,3E0J7,2016,2027
+3E0J728,"Introduction of Oxazolidinones into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J72,2016,2027
+3E0J729,"Introduction of Other Anti-infective into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J72,2016,2027
+3E0J73,Anti-inflammatory,3E0J7,2016,2027
+3E0J73Z,"Introduction of Anti-inflammatory into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J73,2016,2027
+3E0J76,Nutritional Substance,3E0J7,2016,2027
+3E0J76Z,"Introduction of Nutritional Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J76,2016,2027
+3E0J77,Electrolytic and Water Balance Substance,3E0J7,2016,2027
+3E0J77Z,"Introduction of Electrolytic and Water Balance Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J77,2016,2027
+3E0J7B,Anesthetic Agent,3E0J7,2016,2027
+3E0J7BZ,"Introduction of Anesthetic Agent into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7B,2016,2027
+3E0J7G,Other Therapeutic Substance,3E0J7,2016,2027
+3E0J7GC,"Introduction of Other Therapeutic Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7G,2016,2027
+3E0J7H,Radioactive Substance,3E0J7,2016,2027
+3E0J7HZ,"Introduction of Radioactive Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7H,2016,2027
+3E0J7K,Other Diagnostic Substance,3E0J7,2016,2027
+3E0J7KZ,"Introduction of Other Diagnostic Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7K,2016,2027
+3E0J7N,"Analgesics, Hypnotics, Sedatives",3E0J7,2016,2027
+3E0J7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7N,2016,2027
+3E0J7S,Gas,3E0J7,2016,2027
+3E0J7SF,"Introduction of Other Gas into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7S,2016,2027
+3E0J7T,Destructive Agent,3E0J7,2016,2027
+3E0J7TZ,"Introduction of Destructive Agent into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7T,2016,2027
+3E0J7U,Pancreatic Islet Cells,3E0J7,2016,2027
+3E0J7U0,"Introduction of Autologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7U,2016,2027
+3E0J7U1,"Introduction of Nonautologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening",3E0J7U,2016,2027
+3E0J8,Via Natural or Artificial Opening Endoscopic,3E0J,2016,2027
+3E0J80,Antineoplastic,3E0J8,2016,2027
+3E0J804,"Introduction of Liquid Brachytherapy Radioisotope into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J80,2016,2027
+3E0J805,"Introduction of Other Antineoplastic into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J80,2016,2027
+3E0J80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J80,2016,2027
+3E0J82,Anti-infective,3E0J8,2016,2027
+3E0J828,"Introduction of Oxazolidinones into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J82,2016,2027
+3E0J829,"Introduction of Other Anti-infective into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J82,2016,2027
+3E0J83,Anti-inflammatory,3E0J8,2016,2027
+3E0J83Z,"Introduction of Anti-inflammatory into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J83,2016,2027
+3E0J86,Nutritional Substance,3E0J8,2016,2027
+3E0J86Z,"Introduction of Nutritional Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J86,2016,2027
+3E0J87,Electrolytic and Water Balance Substance,3E0J8,2016,2027
+3E0J87Z,"Introduction of Electrolytic and Water Balance Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J87,2016,2027
+3E0J8B,Anesthetic Agent,3E0J8,2016,2027
+3E0J8BZ,"Introduction of Anesthetic Agent into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8B,2016,2027
+3E0J8G,Other Therapeutic Substance,3E0J8,2016,2027
+3E0J8GC,"Introduction of Other Therapeutic Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8G,2016,2027
+3E0J8H,Radioactive Substance,3E0J8,2016,2027
+3E0J8HZ,"Introduction of Radioactive Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8H,2016,2027
+3E0J8K,Other Diagnostic Substance,3E0J8,2016,2027
+3E0J8KZ,"Introduction of Other Diagnostic Substance into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8K,2016,2027
+3E0J8N,"Analgesics, Hypnotics, Sedatives",3E0J8,2016,2027
+3E0J8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8N,2016,2027
+3E0J8S,Gas,3E0J8,2016,2027
+3E0J8SF,"Introduction of Other Gas into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8S,2016,2027
+3E0J8T,Destructive Agent,3E0J8,2016,2027
+3E0J8TZ,"Introduction of Destructive Agent into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8T,2016,2027
+3E0J8U,Pancreatic Islet Cells,3E0J8,2016,2027
+3E0J8U0,"Introduction of Autologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8U,2016,2027
+3E0J8U1,"Introduction of Nonautologous Pancreatic Islet Cells into Biliary and Pancreatic Tract, Via Natural or Artificial Opening Endoscopic",3E0J8U,2016,2027
+3E0K,Genitourinary Tract,3E0,2016,2027
+3E0K3,Percutaneous,3E0K,2016,2027
+3E0K30,Antineoplastic,3E0K3,2016,2027
+3E0K304,"Introduction of Liquid Brachytherapy Radioisotope into Genitourinary Tract, Percutaneous Approach",3E0K30,2016,2027
+3E0K305,"Introduction of Other Antineoplastic into Genitourinary Tract, Percutaneous Approach",3E0K30,2016,2027
+3E0K30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Genitourinary Tract, Percutaneous Approach",3E0K30,2016,2027
+3E0K32,Anti-infective,3E0K3,2016,2027
+3E0K328,"Introduction of Oxazolidinones into Genitourinary Tract, Percutaneous Approach",3E0K32,2016,2027
+3E0K329,"Introduction of Other Anti-infective into Genitourinary Tract, Percutaneous Approach",3E0K32,2016,2027
+3E0K33,Anti-inflammatory,3E0K3,2016,2027
+3E0K33Z,"Introduction of Anti-inflammatory into Genitourinary Tract, Percutaneous Approach",3E0K33,2016,2027
+3E0K36,Nutritional Substance,3E0K3,2016,2027
+3E0K36Z,"Introduction of Nutritional Substance into Genitourinary Tract, Percutaneous Approach",3E0K36,2016,2027
+3E0K37,Electrolytic and Water Balance Substance,3E0K3,2016,2027
+3E0K37Z,"Introduction of Electrolytic and Water Balance Substance into Genitourinary Tract, Percutaneous Approach",3E0K37,2016,2027
+3E0K3B,Anesthetic Agent,3E0K3,2016,2027
+3E0K3BZ,"Introduction of Anesthetic Agent into Genitourinary Tract, Percutaneous Approach",3E0K3B,2016,2027
+3E0K3G,Other Therapeutic Substance,3E0K3,2016,2027
+3E0K3GC,"Introduction of Other Therapeutic Substance into Genitourinary Tract, Percutaneous Approach",3E0K3G,2016,2027
+3E0K3H,Radioactive Substance,3E0K3,2016,2027
+3E0K3HZ,"Introduction of Radioactive Substance into Genitourinary Tract, Percutaneous Approach",3E0K3H,2016,2027
+3E0K3K,Other Diagnostic Substance,3E0K3,2016,2027
+3E0K3KZ,"Introduction of Other Diagnostic Substance into Genitourinary Tract, Percutaneous Approach",3E0K3K,2016,2027
+3E0K3N,"Analgesics, Hypnotics, Sedatives",3E0K3,2016,2027
+3E0K3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Genitourinary Tract, Percutaneous Approach",3E0K3N,2016,2027
+3E0K3S,Gas,3E0K3,2016,2027
+3E0K3SF,"Introduction of Other Gas into Genitourinary Tract, Percutaneous Approach",3E0K3S,2016,2027
+3E0K3T,Destructive Agent,3E0K3,2016,2027
+3E0K3TZ,"Introduction of Destructive Agent into Genitourinary Tract, Percutaneous Approach",3E0K3T,2016,2027
+3E0K4,Percutaneous Endoscopic,3E0K,2018,2027
+3E0K4G,Other Therapeutic Substance,3E0K4,2018,2027
+3E0K4GC,"Introduction of Other Therapeutic Substance into Genitourinary Tract, Percutaneous Endoscopic Approach",3E0K4G,2018,2027
+3E0K7,Via Natural or Artificial Opening,3E0K,2016,2027
+3E0K70,Antineoplastic,3E0K7,2016,2027
+3E0K704,"Introduction of Liquid Brachytherapy Radioisotope into Genitourinary Tract, Via Natural or Artificial Opening",3E0K70,2016,2027
+3E0K705,"Introduction of Other Antineoplastic into Genitourinary Tract, Via Natural or Artificial Opening",3E0K70,2016,2027
+3E0K70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Genitourinary Tract, Via Natural or Artificial Opening",3E0K70,2016,2027
+3E0K72,Anti-infective,3E0K7,2016,2027
+3E0K728,"Introduction of Oxazolidinones into Genitourinary Tract, Via Natural or Artificial Opening",3E0K72,2016,2027
+3E0K729,"Introduction of Other Anti-infective into Genitourinary Tract, Via Natural or Artificial Opening",3E0K72,2016,2027
+3E0K73,Anti-inflammatory,3E0K7,2016,2027
+3E0K73Z,"Introduction of Anti-inflammatory into Genitourinary Tract, Via Natural or Artificial Opening",3E0K73,2016,2027
+3E0K76,Nutritional Substance,3E0K7,2016,2027
+3E0K76Z,"Introduction of Nutritional Substance into Genitourinary Tract, Via Natural or Artificial Opening",3E0K76,2016,2027
+3E0K77,Electrolytic and Water Balance Substance,3E0K7,2016,2027
+3E0K77Z,"Introduction of Electrolytic and Water Balance Substance into Genitourinary Tract, Via Natural or Artificial Opening",3E0K77,2016,2027
+3E0K7B,Anesthetic Agent,3E0K7,2016,2027
+3E0K7BZ,"Introduction of Anesthetic Agent into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7B,2016,2027
+3E0K7G,Other Therapeutic Substance,3E0K7,2016,2027
+3E0K7GC,"Introduction of Other Therapeutic Substance into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7G,2016,2027
+3E0K7H,Radioactive Substance,3E0K7,2016,2027
+3E0K7HZ,"Introduction of Radioactive Substance into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7H,2016,2027
+3E0K7K,Other Diagnostic Substance,3E0K7,2016,2027
+3E0K7KZ,"Introduction of Other Diagnostic Substance into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7K,2016,2027
+3E0K7N,"Analgesics, Hypnotics, Sedatives",3E0K7,2016,2027
+3E0K7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7N,2016,2027
+3E0K7S,Gas,3E0K7,2016,2027
+3E0K7SF,"Introduction of Other Gas into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7S,2016,2027
+3E0K7T,Destructive Agent,3E0K7,2016,2027
+3E0K7TZ,"Introduction of Destructive Agent into Genitourinary Tract, Via Natural or Artificial Opening",3E0K7T,2016,2027
+3E0K8,Via Natural or Artificial Opening Endoscopic,3E0K,2016,2027
+3E0K80,Antineoplastic,3E0K8,2016,2027
+3E0K804,"Introduction of Liquid Brachytherapy Radioisotope into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K80,2016,2027
+3E0K805,"Introduction of Other Antineoplastic into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K80,2016,2027
+3E0K80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K80,2016,2027
+3E0K82,Anti-infective,3E0K8,2016,2027
+3E0K828,"Introduction of Oxazolidinones into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K82,2016,2027
+3E0K829,"Introduction of Other Anti-infective into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K82,2016,2027
+3E0K83,Anti-inflammatory,3E0K8,2016,2027
+3E0K83Z,"Introduction of Anti-inflammatory into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K83,2016,2027
+3E0K86,Nutritional Substance,3E0K8,2016,2027
+3E0K86Z,"Introduction of Nutritional Substance into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K86,2016,2027
+3E0K87,Electrolytic and Water Balance Substance,3E0K8,2016,2027
+3E0K87Z,"Introduction of Electrolytic and Water Balance Substance into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K87,2016,2027
+3E0K8B,Anesthetic Agent,3E0K8,2016,2027
+3E0K8BZ,"Introduction of Anesthetic Agent into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8B,2016,2027
+3E0K8G,Other Therapeutic Substance,3E0K8,2016,2027
+3E0K8GC,"Introduction of Other Therapeutic Substance into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8G,2016,2027
+3E0K8H,Radioactive Substance,3E0K8,2016,2027
+3E0K8HZ,"Introduction of Radioactive Substance into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8H,2016,2027
+3E0K8K,Other Diagnostic Substance,3E0K8,2016,2027
+3E0K8KZ,"Introduction of Other Diagnostic Substance into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8K,2016,2027
+3E0K8N,"Analgesics, Hypnotics, Sedatives",3E0K8,2016,2027
+3E0K8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8N,2016,2027
+3E0K8S,Gas,3E0K8,2016,2027
+3E0K8SF,"Introduction of Other Gas into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8S,2016,2027
+3E0K8T,Destructive Agent,3E0K8,2016,2027
+3E0K8TZ,"Introduction of Destructive Agent into Genitourinary Tract, Via Natural or Artificial Opening Endoscopic",3E0K8T,2016,2027
+3E0L,Pleural Cavity,3E0,2016,2027
+3E0L0,Open,3E0L,2016,2027
+3E0L05,Adhesion Barrier,3E0L0,2016,2027
+3E0L05Z,"Introduction of Adhesion Barrier into Pleural Cavity, Open Approach",3E0L05,2016,2027
+3E0L3,Percutaneous,3E0L,2016,2027
+3E0L30,Antineoplastic,3E0L3,2016,2027
+3E0L304,"Introduction of Liquid Brachytherapy Radioisotope into Pleural Cavity, Percutaneous Approach",3E0L30,2016,2027
+3E0L305,"Introduction of Other Antineoplastic into Pleural Cavity, Percutaneous Approach",3E0L30,2016,2027
+3E0L30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Pleural Cavity, Percutaneous Approach",3E0L30,2016,2027
+3E0L31,Thrombolytic,3E0L3,2024,2027
+3E0L317,"Introduction of Other Thrombolytic into Pleural Cavity, Percutaneous Approach",3E0L31,2024,2027
+3E0L32,Anti-infective,3E0L3,2016,2027
+3E0L328,"Introduction of Oxazolidinones into Pleural Cavity, Percutaneous Approach",3E0L32,2016,2027
+3E0L329,"Introduction of Other Anti-infective into Pleural Cavity, Percutaneous Approach",3E0L32,2016,2027
+3E0L33,Anti-inflammatory,3E0L3,2016,2027
+3E0L33Z,"Introduction of Anti-inflammatory into Pleural Cavity, Percutaneous Approach",3E0L33,2016,2027
+3E0L35,Adhesion Barrier,3E0L3,2018,2027
+3E0L35Z,"Introduction of Adhesion Barrier into Pleural Cavity, Percutaneous Approach",3E0L35,2018,2027
+3E0L36,Nutritional Substance,3E0L3,2016,2027
+3E0L36Z,"Introduction of Nutritional Substance into Pleural Cavity, Percutaneous Approach",3E0L36,2016,2027
+3E0L37,Electrolytic and Water Balance Substance,3E0L3,2016,2027
+3E0L37Z,"Introduction of Electrolytic and Water Balance Substance into Pleural Cavity, Percutaneous Approach",3E0L37,2016,2027
+3E0L3B,Anesthetic Agent,3E0L3,2016,2027
+3E0L3BZ,"Introduction of Anesthetic Agent into Pleural Cavity, Percutaneous Approach",3E0L3B,2016,2027
+3E0L3G,Other Therapeutic Substance,3E0L3,2016,2027
+3E0L3GC,"Introduction of Other Therapeutic Substance into Pleural Cavity, Percutaneous Approach",3E0L3G,2016,2027
+3E0L3H,Radioactive Substance,3E0L3,2016,2027
+3E0L3HZ,"Introduction of Radioactive Substance into Pleural Cavity, Percutaneous Approach",3E0L3H,2016,2027
+3E0L3K,Other Diagnostic Substance,3E0L3,2016,2027
+3E0L3KZ,"Introduction of Other Diagnostic Substance into Pleural Cavity, Percutaneous Approach",3E0L3K,2016,2027
+3E0L3N,"Analgesics, Hypnotics, Sedatives",3E0L3,2016,2027
+3E0L3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Pleural Cavity, Percutaneous Approach",3E0L3N,2016,2027
+3E0L3S,Gas,3E0L3,2016,2027
+3E0L3SF,"Introduction of Other Gas into Pleural Cavity, Percutaneous Approach",3E0L3S,2016,2027
+3E0L3T,Destructive Agent,3E0L3,2016,2027
+3E0L3TZ,"Introduction of Destructive Agent into Pleural Cavity, Percutaneous Approach",3E0L3T,2016,2027
+3E0L4,Percutaneous Endoscopic,3E0L,2018,2027
+3E0L45,Adhesion Barrier,3E0L4,2018,2027
+3E0L45Z,"Introduction of Adhesion Barrier into Pleural Cavity, Percutaneous Endoscopic Approach",3E0L45,2018,2027
+3E0L4G,Other Therapeutic Substance,3E0L4,2018,2027
+3E0L4GC,"Introduction of Other Therapeutic Substance into Pleural Cavity, Percutaneous Endoscopic Approach",3E0L4G,2018,2027
+3E0L7,Via Natural or Artificial Opening,3E0L,2016,2027
+3E0L70,Antineoplastic,3E0L7,2016,2027
+3E0L704,"Introduction of Liquid Brachytherapy Radioisotope into Pleural Cavity, Via Natural or Artificial Opening",3E0L70,2016,2027
+3E0L705,"Introduction of Other Antineoplastic into Pleural Cavity, Via Natural or Artificial Opening",3E0L70,2016,2027
+3E0L70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Pleural Cavity, Via Natural or Artificial Opening",3E0L70,2016,2027
+3E0L7S,Gas,3E0L7,2016,2027
+3E0L7SF,"Introduction of Other Gas into Pleural Cavity, Via Natural or Artificial Opening",3E0L7S,2016,2027
+3E0M,Peritoneal Cavity,3E0,2016,2027
+3E0M0,Open,3E0M,2016,2027
+3E0M05,Adhesion Barrier,3E0M0,2016,2027
+3E0M05Z,"Introduction of Adhesion Barrier into Peritoneal Cavity, Open Approach",3E0M05,2016,2027
+3E0M3,Percutaneous,3E0M,2016,2027
+3E0M30,Antineoplastic,3E0M3,2016,2027
+3E0M304,"Introduction of Liquid Brachytherapy Radioisotope into Peritoneal Cavity, Percutaneous Approach",3E0M30,2016,2027
+3E0M305,"Introduction of Other Antineoplastic into Peritoneal Cavity, Percutaneous Approach",3E0M30,2016,2027
+3E0M30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Peritoneal Cavity, Percutaneous Approach",3E0M30,2016,2027
+3E0M30Y,"Introduction of Hyperthermic Antineoplastic into Peritoneal Cavity, Percutaneous Approach",3E0M30,2020,2027
+3E0M32,Anti-infective,3E0M3,2016,2027
+3E0M328,"Introduction of Oxazolidinones into Peritoneal Cavity, Percutaneous Approach",3E0M32,2016,2027
+3E0M329,"Introduction of Other Anti-infective into Peritoneal Cavity, Percutaneous Approach",3E0M32,2016,2027
+3E0M33,Anti-inflammatory,3E0M3,2016,2027
+3E0M33Z,"Introduction of Anti-inflammatory into Peritoneal Cavity, Percutaneous Approach",3E0M33,2016,2027
+3E0M35,Adhesion Barrier,3E0M3,2018,2027
+3E0M35Z,"Introduction of Adhesion Barrier into Peritoneal Cavity, Percutaneous Approach",3E0M35,2018,2027
+3E0M36,Nutritional Substance,3E0M3,2016,2027
+3E0M36Z,"Introduction of Nutritional Substance into Peritoneal Cavity, Percutaneous Approach",3E0M36,2016,2027
+3E0M37,Electrolytic and Water Balance Substance,3E0M3,2016,2027
+3E0M37Z,"Introduction of Electrolytic and Water Balance Substance into Peritoneal Cavity, Percutaneous Approach",3E0M37,2016,2027
+3E0M3B,Anesthetic Agent,3E0M3,2016,2027
+3E0M3BZ,"Introduction of Anesthetic Agent into Peritoneal Cavity, Percutaneous Approach",3E0M3B,2016,2027
+3E0M3G,Other Therapeutic Substance,3E0M3,2016,2027
+3E0M3GC,"Introduction of Other Therapeutic Substance into Peritoneal Cavity, Percutaneous Approach",3E0M3G,2016,2027
+3E0M3H,Radioactive Substance,3E0M3,2016,2027
+3E0M3HZ,"Introduction of Radioactive Substance into Peritoneal Cavity, Percutaneous Approach",3E0M3H,2016,2027
+3E0M3K,Other Diagnostic Substance,3E0M3,2016,2027
+3E0M3KZ,"Introduction of Other Diagnostic Substance into Peritoneal Cavity, Percutaneous Approach",3E0M3K,2016,2027
+3E0M3N,"Analgesics, Hypnotics, Sedatives",3E0M3,2016,2027
+3E0M3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Peritoneal Cavity, Percutaneous Approach",3E0M3N,2016,2027
+3E0M3S,Gas,3E0M3,2016,2027
+3E0M3SF,"Introduction of Other Gas into Peritoneal Cavity, Percutaneous Approach",3E0M3S,2016,2027
+3E0M3T,Destructive Agent,3E0M3,2016,2027
+3E0M3TZ,"Introduction of Destructive Agent into Peritoneal Cavity, Percutaneous Approach",3E0M3T,2016,2027
+3E0M4,Percutaneous Endoscopic,3E0M,2018,2027
+3E0M45,Adhesion Barrier,3E0M4,2018,2027
+3E0M45Z,"Introduction of Adhesion Barrier into Peritoneal Cavity, Percutaneous Endoscopic Approach",3E0M45,2018,2027
+3E0M4G,Other Therapeutic Substance,3E0M4,2018,2027
+3E0M4GC,"Introduction of Other Therapeutic Substance into Peritoneal Cavity, Percutaneous Endoscopic Approach",3E0M4G,2018,2027
+3E0M7,Via Natural or Artificial Opening,3E0M,2016,2027
+3E0M70,Antineoplastic,3E0M7,2016,2027
+3E0M704,"Introduction of Liquid Brachytherapy Radioisotope into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M70,2016,2027
+3E0M705,"Introduction of Other Antineoplastic into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M70,2016,2027
+3E0M70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M70,2016,2027
+3E0M7S,Gas,3E0M7,2016,2027
+3E0M7SF,"Introduction of Other Gas into Peritoneal Cavity, Via Natural or Artificial Opening",3E0M7S,2016,2027
+3E0N,Male Reproductive,3E0,2016,2027
+3E0N3,Percutaneous,3E0N,2016,2027
+3E0N30,Antineoplastic,3E0N3,2016,2027
+3E0N304,"Introduction of Liquid Brachytherapy Radioisotope into Male Reproductive, Percutaneous Approach",3E0N30,2016,2027
+3E0N305,"Introduction of Other Antineoplastic into Male Reproductive, Percutaneous Approach",3E0N30,2016,2027
+3E0N30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Male Reproductive, Percutaneous Approach",3E0N30,2016,2027
+3E0N32,Anti-infective,3E0N3,2016,2027
+3E0N328,"Introduction of Oxazolidinones into Male Reproductive, Percutaneous Approach",3E0N32,2016,2027
+3E0N329,"Introduction of Other Anti-infective into Male Reproductive, Percutaneous Approach",3E0N32,2016,2027
+3E0N33,Anti-inflammatory,3E0N3,2016,2027
+3E0N33Z,"Introduction of Anti-inflammatory into Male Reproductive, Percutaneous Approach",3E0N33,2016,2027
+3E0N36,Nutritional Substance,3E0N3,2016,2027
+3E0N36Z,"Introduction of Nutritional Substance into Male Reproductive, Percutaneous Approach",3E0N36,2016,2027
+3E0N37,Electrolytic and Water Balance Substance,3E0N3,2016,2027
+3E0N37Z,"Introduction of Electrolytic and Water Balance Substance into Male Reproductive, Percutaneous Approach",3E0N37,2016,2027
+3E0N3B,Anesthetic Agent,3E0N3,2016,2027
+3E0N3BZ,"Introduction of Anesthetic Agent into Male Reproductive, Percutaneous Approach",3E0N3B,2016,2027
+3E0N3G,Other Therapeutic Substance,3E0N3,2016,2027
+3E0N3GC,"Introduction of Other Therapeutic Substance into Male Reproductive, Percutaneous Approach",3E0N3G,2016,2027
+3E0N3H,Radioactive Substance,3E0N3,2016,2027
+3E0N3HZ,"Introduction of Radioactive Substance into Male Reproductive, Percutaneous Approach",3E0N3H,2016,2027
+3E0N3K,Other Diagnostic Substance,3E0N3,2016,2027
+3E0N3KZ,"Introduction of Other Diagnostic Substance into Male Reproductive, Percutaneous Approach",3E0N3K,2016,2027
+3E0N3N,"Analgesics, Hypnotics, Sedatives",3E0N3,2016,2027
+3E0N3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Male Reproductive, Percutaneous Approach",3E0N3N,2016,2027
+3E0N3S,Gas,3E0N3,2016,2027
+3E0N3SF,"Introduction of Other Gas into Male Reproductive, Percutaneous Approach",3E0N3S,2016,2027
+3E0N3T,Destructive Agent,3E0N3,2016,2027
+3E0N3TZ,"Introduction of Destructive Agent into Male Reproductive, Percutaneous Approach",3E0N3T,2016,2027
+3E0N4,Percutaneous Endoscopic,3E0N,2018,2027
+3E0N4G,Other Therapeutic Substance,3E0N4,2018,2027
+3E0N4GC,"Introduction of Other Therapeutic Substance into Male Reproductive, Percutaneous Endoscopic Approach",3E0N4G,2018,2027
+3E0N7,Via Natural or Artificial Opening,3E0N,2016,2027
+3E0N70,Antineoplastic,3E0N7,2016,2027
+3E0N704,"Introduction of Liquid Brachytherapy Radioisotope into Male Reproductive, Via Natural or Artificial Opening",3E0N70,2016,2027
+3E0N705,"Introduction of Other Antineoplastic into Male Reproductive, Via Natural or Artificial Opening",3E0N70,2016,2027
+3E0N70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Male Reproductive, Via Natural or Artificial Opening",3E0N70,2016,2027
+3E0N72,Anti-infective,3E0N7,2016,2027
+3E0N728,"Introduction of Oxazolidinones into Male Reproductive, Via Natural or Artificial Opening",3E0N72,2016,2027
+3E0N729,"Introduction of Other Anti-infective into Male Reproductive, Via Natural or Artificial Opening",3E0N72,2016,2027
+3E0N73,Anti-inflammatory,3E0N7,2016,2027
+3E0N73Z,"Introduction of Anti-inflammatory into Male Reproductive, Via Natural or Artificial Opening",3E0N73,2016,2027
+3E0N76,Nutritional Substance,3E0N7,2016,2027
+3E0N76Z,"Introduction of Nutritional Substance into Male Reproductive, Via Natural or Artificial Opening",3E0N76,2016,2027
+3E0N77,Electrolytic and Water Balance Substance,3E0N7,2016,2027
+3E0N77Z,"Introduction of Electrolytic and Water Balance Substance into Male Reproductive, Via Natural or Artificial Opening",3E0N77,2016,2027
+3E0N7B,Anesthetic Agent,3E0N7,2016,2027
+3E0N7BZ,"Introduction of Anesthetic Agent into Male Reproductive, Via Natural or Artificial Opening",3E0N7B,2016,2027
+3E0N7G,Other Therapeutic Substance,3E0N7,2016,2027
+3E0N7GC,"Introduction of Other Therapeutic Substance into Male Reproductive, Via Natural or Artificial Opening",3E0N7G,2016,2027
+3E0N7H,Radioactive Substance,3E0N7,2016,2027
+3E0N7HZ,"Introduction of Radioactive Substance into Male Reproductive, Via Natural or Artificial Opening",3E0N7H,2016,2027
+3E0N7K,Other Diagnostic Substance,3E0N7,2016,2027
+3E0N7KZ,"Introduction of Other Diagnostic Substance into Male Reproductive, Via Natural or Artificial Opening",3E0N7K,2016,2027
+3E0N7N,"Analgesics, Hypnotics, Sedatives",3E0N7,2016,2027
+3E0N7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Male Reproductive, Via Natural or Artificial Opening",3E0N7N,2016,2027
+3E0N7S,Gas,3E0N7,2016,2027
+3E0N7SF,"Introduction of Other Gas into Male Reproductive, Via Natural or Artificial Opening",3E0N7S,2016,2027
+3E0N7T,Destructive Agent,3E0N7,2016,2027
+3E0N7TZ,"Introduction of Destructive Agent into Male Reproductive, Via Natural or Artificial Opening",3E0N7T,2016,2027
+3E0N8,Via Natural or Artificial Opening Endoscopic,3E0N,2016,2027
+3E0N80,Antineoplastic,3E0N8,2016,2027
+3E0N804,"Introduction of Liquid Brachytherapy Radioisotope into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N80,2016,2027
+3E0N805,"Introduction of Other Antineoplastic into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N80,2016,2027
+3E0N80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N80,2016,2027
+3E0N82,Anti-infective,3E0N8,2016,2027
+3E0N828,"Introduction of Oxazolidinones into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N82,2016,2027
+3E0N829,"Introduction of Other Anti-infective into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N82,2016,2027
+3E0N83,Anti-inflammatory,3E0N8,2016,2027
+3E0N83Z,"Introduction of Anti-inflammatory into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N83,2016,2027
+3E0N86,Nutritional Substance,3E0N8,2016,2027
+3E0N86Z,"Introduction of Nutritional Substance into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N86,2016,2027
+3E0N87,Electrolytic and Water Balance Substance,3E0N8,2016,2027
+3E0N87Z,"Introduction of Electrolytic and Water Balance Substance into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N87,2016,2027
+3E0N8B,Anesthetic Agent,3E0N8,2016,2027
+3E0N8BZ,"Introduction of Anesthetic Agent into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8B,2016,2027
+3E0N8G,Other Therapeutic Substance,3E0N8,2016,2027
+3E0N8GC,"Introduction of Other Therapeutic Substance into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8G,2016,2027
+3E0N8H,Radioactive Substance,3E0N8,2016,2027
+3E0N8HZ,"Introduction of Radioactive Substance into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8H,2016,2027
+3E0N8K,Other Diagnostic Substance,3E0N8,2016,2027
+3E0N8KZ,"Introduction of Other Diagnostic Substance into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8K,2016,2027
+3E0N8N,"Analgesics, Hypnotics, Sedatives",3E0N8,2016,2027
+3E0N8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8N,2016,2027
+3E0N8S,Gas,3E0N8,2016,2027
+3E0N8SF,"Introduction of Other Gas into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8S,2016,2027
+3E0N8T,Destructive Agent,3E0N8,2016,2027
+3E0N8TZ,"Introduction of Destructive Agent into Male Reproductive, Via Natural or Artificial Opening Endoscopic",3E0N8T,2016,2027
+3E0P,Female Reproductive,3E0,2016,2027
+3E0P0,Open,3E0P,2016,2027
+3E0P05,Adhesion Barrier,3E0P0,2016,2027
+3E0P05Z,"Introduction of Adhesion Barrier into Female Reproductive, Open Approach",3E0P05,2016,2027
+3E0P3,Percutaneous,3E0P,2016,2027
+3E0P30,Antineoplastic,3E0P3,2016,2027
+3E0P304,"Introduction of Liquid Brachytherapy Radioisotope into Female Reproductive, Percutaneous Approach",3E0P30,2016,2027
+3E0P305,"Introduction of Other Antineoplastic into Female Reproductive, Percutaneous Approach",3E0P30,2016,2027
+3E0P30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Female Reproductive, Percutaneous Approach",3E0P30,2016,2027
+3E0P32,Anti-infective,3E0P3,2016,2027
+3E0P328,"Introduction of Oxazolidinones into Female Reproductive, Percutaneous Approach",3E0P32,2016,2027
+3E0P329,"Introduction of Other Anti-infective into Female Reproductive, Percutaneous Approach",3E0P32,2016,2027
+3E0P33,Anti-inflammatory,3E0P3,2016,2027
+3E0P33Z,"Introduction of Anti-inflammatory into Female Reproductive, Percutaneous Approach",3E0P33,2016,2027
+3E0P35,Adhesion Barrier,3E0P3,2018,2027
+3E0P35Z,"Introduction of Adhesion Barrier into Female Reproductive, Percutaneous Approach",3E0P35,2018,2027
+3E0P36,Nutritional Substance,3E0P3,2016,2027
+3E0P36Z,"Introduction of Nutritional Substance into Female Reproductive, Percutaneous Approach",3E0P36,2016,2027
+3E0P37,Electrolytic and Water Balance Substance,3E0P3,2016,2027
+3E0P37Z,"Introduction of Electrolytic and Water Balance Substance into Female Reproductive, Percutaneous Approach",3E0P37,2016,2027
+3E0P3B,Anesthetic Agent,3E0P3,2016,2027
+3E0P3BZ,"Introduction of Anesthetic Agent into Female Reproductive, Percutaneous Approach",3E0P3B,2016,2027
+3E0P3G,Other Therapeutic Substance,3E0P3,2016,2027
+3E0P3GC,"Introduction of Other Therapeutic Substance into Female Reproductive, Percutaneous Approach",3E0P3G,2016,2027
+3E0P3H,Radioactive Substance,3E0P3,2016,2027
+3E0P3HZ,"Introduction of Radioactive Substance into Female Reproductive, Percutaneous Approach",3E0P3H,2016,2027
+3E0P3K,Other Diagnostic Substance,3E0P3,2016,2027
+3E0P3KZ,"Introduction of Other Diagnostic Substance into Female Reproductive, Percutaneous Approach",3E0P3K,2016,2027
+3E0P3L,Sperm,3E0P3,2016,2027
+3E0P3LZ,"Introduction of Sperm into Female Reproductive, Percutaneous Approach",3E0P3L,2016,2027
+3E0P3N,"Analgesics, Hypnotics, Sedatives",3E0P3,2016,2027
+3E0P3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Female Reproductive, Percutaneous Approach",3E0P3N,2016,2027
+3E0P3Q,Fertilized Ovum,3E0P3,2016,2027
+3E0P3Q0,"Introduction of Autologous Fertilized Ovum into Female Reproductive, Percutaneous Approach",3E0P3Q,2016,2027
+3E0P3Q1,"Introduction of Nonautologous Fertilized Ovum into Female Reproductive, Percutaneous Approach",3E0P3Q,2016,2027
+3E0P3S,Gas,3E0P3,2016,2027
+3E0P3SF,"Introduction of Other Gas into Female Reproductive, Percutaneous Approach",3E0P3S,2016,2027
+3E0P3T,Destructive Agent,3E0P3,2016,2027
+3E0P3TZ,"Introduction of Destructive Agent into Female Reproductive, Percutaneous Approach",3E0P3T,2016,2027
+3E0P3V,Hormone,3E0P3,2018,2027
+3E0P3VZ,"Introduction of Hormone into Female Reproductive, Percutaneous Approach",3E0P3V,2018,2027
+3E0P4,Percutaneous Endoscopic,3E0P,2018,2027
+3E0P45,Adhesion Barrier,3E0P4,2018,2027
+3E0P45Z,"Introduction of Adhesion Barrier into Female Reproductive, Percutaneous Endoscopic Approach",3E0P45,2018,2027
+3E0P4G,Other Therapeutic Substance,3E0P4,2018,2027
+3E0P4GC,"Introduction of Other Therapeutic Substance into Female Reproductive, Percutaneous Endoscopic Approach",3E0P4G,2018,2027
+3E0P7,Via Natural or Artificial Opening,3E0P,2016,2027
+3E0P70,Antineoplastic,3E0P7,2016,2027
+3E0P704,"Introduction of Liquid Brachytherapy Radioisotope into Female Reproductive, Via Natural or Artificial Opening",3E0P70,2016,2027
+3E0P705,"Introduction of Other Antineoplastic into Female Reproductive, Via Natural or Artificial Opening",3E0P70,2016,2027
+3E0P70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Female Reproductive, Via Natural or Artificial Opening",3E0P70,2016,2027
+3E0P72,Anti-infective,3E0P7,2016,2027
+3E0P728,"Introduction of Oxazolidinones into Female Reproductive, Via Natural or Artificial Opening",3E0P72,2016,2027
+3E0P729,"Introduction of Other Anti-infective into Female Reproductive, Via Natural or Artificial Opening",3E0P72,2016,2027
+3E0P73,Anti-inflammatory,3E0P7,2016,2027
+3E0P73Z,"Introduction of Anti-inflammatory into Female Reproductive, Via Natural or Artificial Opening",3E0P73,2016,2027
+3E0P76,Nutritional Substance,3E0P7,2016,2027
+3E0P76Z,"Introduction of Nutritional Substance into Female Reproductive, Via Natural or Artificial Opening",3E0P76,2016,2027
+3E0P77,Electrolytic and Water Balance Substance,3E0P7,2016,2027
+3E0P77Z,"Introduction of Electrolytic and Water Balance Substance into Female Reproductive, Via Natural or Artificial Opening",3E0P77,2016,2027
+3E0P7B,Anesthetic Agent,3E0P7,2016,2027
+3E0P7BZ,"Introduction of Anesthetic Agent into Female Reproductive, Via Natural or Artificial Opening",3E0P7B,2016,2027
+3E0P7G,Other Therapeutic Substance,3E0P7,2016,2027
+3E0P7GC,"Introduction of Other Therapeutic Substance into Female Reproductive, Via Natural or Artificial Opening",3E0P7G,2016,2027
+3E0P7H,Radioactive Substance,3E0P7,2016,2027
+3E0P7HZ,"Introduction of Radioactive Substance into Female Reproductive, Via Natural or Artificial Opening",3E0P7H,2016,2027
+3E0P7K,Other Diagnostic Substance,3E0P7,2016,2027
+3E0P7KZ,"Introduction of Other Diagnostic Substance into Female Reproductive, Via Natural or Artificial Opening",3E0P7K,2016,2027
+3E0P7L,Sperm,3E0P7,2016,2027
+3E0P7LZ,"Introduction of Sperm into Female Reproductive, Via Natural or Artificial Opening",3E0P7L,2016,2027
+3E0P7N,"Analgesics, Hypnotics, Sedatives",3E0P7,2016,2027
+3E0P7NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Female Reproductive, Via Natural or Artificial Opening",3E0P7N,2016,2027
+3E0P7Q,Fertilized Ovum,3E0P7,2016,2027
+3E0P7Q0,"Introduction of Autologous Fertilized Ovum into Female Reproductive, Via Natural or Artificial Opening",3E0P7Q,2016,2027
+3E0P7Q1,"Introduction of Nonautologous Fertilized Ovum into Female Reproductive, Via Natural or Artificial Opening",3E0P7Q,2016,2027
+3E0P7S,Gas,3E0P7,2016,2027
+3E0P7SF,"Introduction of Other Gas into Female Reproductive, Via Natural or Artificial Opening",3E0P7S,2016,2027
+3E0P7T,Destructive Agent,3E0P7,2016,2027
+3E0P7TZ,"Introduction of Destructive Agent into Female Reproductive, Via Natural or Artificial Opening",3E0P7T,2016,2027
+3E0P7V,Hormone,3E0P7,2018,2027
+3E0P7VZ,"Introduction of Hormone into Female Reproductive, Via Natural or Artificial Opening",3E0P7V,2018,2027
+3E0P8,Via Natural or Artificial Opening Endoscopic,3E0P,2016,2027
+3E0P80,Antineoplastic,3E0P8,2016,2027
+3E0P804,"Introduction of Liquid Brachytherapy Radioisotope into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P80,2016,2027
+3E0P805,"Introduction of Other Antineoplastic into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P80,2016,2027
+3E0P80M,"Introduction of Antineoplastic, Monoclonal Antibody, into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P80,2016,2027
+3E0P82,Anti-infective,3E0P8,2016,2027
+3E0P828,"Introduction of Oxazolidinones into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P82,2016,2027
+3E0P829,"Introduction of Other Anti-infective into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P82,2016,2027
+3E0P83,Anti-inflammatory,3E0P8,2016,2027
+3E0P83Z,"Introduction of Anti-inflammatory into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P83,2016,2027
+3E0P86,Nutritional Substance,3E0P8,2016,2027
+3E0P86Z,"Introduction of Nutritional Substance into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P86,2016,2027
+3E0P87,Electrolytic and Water Balance Substance,3E0P8,2016,2027
+3E0P87Z,"Introduction of Electrolytic and Water Balance Substance into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P87,2016,2027
+3E0P8B,Anesthetic Agent,3E0P8,2016,2027
+3E0P8BZ,"Introduction of Anesthetic Agent into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8B,2016,2027
+3E0P8G,Other Therapeutic Substance,3E0P8,2016,2027
+3E0P8GC,"Introduction of Other Therapeutic Substance into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8G,2016,2027
+3E0P8H,Radioactive Substance,3E0P8,2016,2027
+3E0P8HZ,"Introduction of Radioactive Substance into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8H,2016,2027
+3E0P8K,Other Diagnostic Substance,3E0P8,2016,2027
+3E0P8KZ,"Introduction of Other Diagnostic Substance into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8K,2016,2027
+3E0P8N,"Analgesics, Hypnotics, Sedatives",3E0P8,2016,2027
+3E0P8NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8N,2016,2027
+3E0P8S,Gas,3E0P8,2016,2027
+3E0P8SF,"Introduction of Other Gas into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8S,2016,2027
+3E0P8T,Destructive Agent,3E0P8,2016,2027
+3E0P8TZ,"Introduction of Destructive Agent into Female Reproductive, Via Natural or Artificial Opening Endoscopic",3E0P8T,2016,2027
+3E0Q,Cranial Cavity and Brain,3E0,2016,2027
+3E0Q0,Open,3E0Q,2016,2027
+3E0Q00,Antineoplastic,3E0Q0,2017,2027
+3E0Q004,"Introduction of Liquid Brachytherapy Radioisotope into Cranial Cavity and Brain, Open Approach",3E0Q00,2017,2027
+3E0Q005,"Introduction of Other Antineoplastic into Cranial Cavity and Brain, Open Approach",3E0Q00,2017,2027
+3E0Q00M,"Introduction of Antineoplastic, Monoclonal Antibody, into Cranial Cavity and Brain, Open Approach",3E0Q00,2017,2027
+3E0Q02,Anti-infective,3E0Q0,2017,2027
+3E0Q028,"Introduction of Oxazolidinones into Cranial Cavity and Brain, Open Approach",3E0Q02,2017,2027
+3E0Q029,"Introduction of Other Anti-infective into Cranial Cavity and Brain, Open Approach",3E0Q02,2017,2027
+3E0Q03,Anti-inflammatory,3E0Q0,2017,2027
+3E0Q03Z,"Introduction of Anti-inflammatory into Cranial Cavity and Brain, Open Approach",3E0Q03,2017,2027
+3E0Q06,Nutritional Substance,3E0Q0,2017,2027
+3E0Q06Z,"Introduction of Nutritional Substance into Cranial Cavity and Brain, Open Approach",3E0Q06,2017,2027
+3E0Q07,Electrolytic and Water Balance Substance,3E0Q0,2017,2027
+3E0Q07Z,"Introduction of Electrolytic and Water Balance Substance into Cranial Cavity and Brain, Open Approach",3E0Q07,2017,2027
+3E0Q0A,"Stem Cells, Embryonic",3E0Q0,2016,2027
+3E0Q0AZ,"Introduction of Embryonic Stem Cells into Cranial Cavity and Brain, Open Approach",3E0Q0A,2016,2027
+3E0Q0B,Anesthetic Agent,3E0Q0,2017,2027
+3E0Q0BZ,"Introduction of Anesthetic Agent into Cranial Cavity and Brain, Open Approach",3E0Q0B,2017,2027
+3E0Q0E,"Stem Cells, Somatic",3E0Q0,2016,2027
+3E0Q0E0,"Introduction of Autologous Somatic Stem Cells into Cranial Cavity and Brain, Open Approach",3E0Q0E,2016,2027
+3E0Q0E1,"Introduction of Nonautologous Somatic Stem Cells into Cranial Cavity and Brain, Open Approach",3E0Q0E,2016,2027
+3E0Q0G,Other Therapeutic Substance,3E0Q0,2017,2027
+3E0Q0GC,"Introduction of Other Therapeutic Substance into Cranial Cavity and Brain, Open Approach",3E0Q0G,2017,2027
+3E0Q0H,Radioactive Substance,3E0Q0,2017,2027
+3E0Q0HZ,"Introduction of Radioactive Substance into Cranial Cavity and Brain, Open Approach",3E0Q0H,2017,2027
+3E0Q0K,Other Diagnostic Substance,3E0Q0,2017,2027
+3E0Q0KZ,"Introduction of Other Diagnostic Substance into Cranial Cavity and Brain, Open Approach",3E0Q0K,2017,2027
+3E0Q0N,"Analgesics, Hypnotics, Sedatives",3E0Q0,2017,2027
+3E0Q0NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Cranial Cavity and Brain, Open Approach",3E0Q0N,2017,2027
+3E0Q0S,Gas,3E0Q0,2017,2027
+3E0Q0SF,"Introduction of Other Gas into Cranial Cavity and Brain, Open Approach",3E0Q0S,2017,2027
+3E0Q0T,Destructive Agent,3E0Q0,2017,2027
+3E0Q0TZ,"Introduction of Destructive Agent into Cranial Cavity and Brain, Open Approach",3E0Q0T,2017,2027
+3E0Q3,Percutaneous,3E0Q,2016,2027
+3E0Q30,Antineoplastic,3E0Q3,2016,2027
+3E0Q304,"Introduction of Liquid Brachytherapy Radioisotope into Cranial Cavity and Brain, Percutaneous Approach",3E0Q30,2016,2027
+3E0Q305,"Introduction of Other Antineoplastic into Cranial Cavity and Brain, Percutaneous Approach",3E0Q30,2016,2027
+3E0Q30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Cranial Cavity and Brain, Percutaneous Approach",3E0Q30,2016,2027
+3E0Q32,Anti-infective,3E0Q3,2016,2027
+3E0Q328,"Introduction of Oxazolidinones into Cranial Cavity and Brain, Percutaneous Approach",3E0Q32,2016,2027
+3E0Q329,"Introduction of Other Anti-infective into Cranial Cavity and Brain, Percutaneous Approach",3E0Q32,2016,2027
+3E0Q33,Anti-inflammatory,3E0Q3,2016,2027
+3E0Q33Z,"Introduction of Anti-inflammatory into Cranial Cavity and Brain, Percutaneous Approach",3E0Q33,2016,2027
+3E0Q36,Nutritional Substance,3E0Q3,2016,2027
+3E0Q36Z,"Introduction of Nutritional Substance into Cranial Cavity and Brain, Percutaneous Approach",3E0Q36,2016,2027
+3E0Q37,Electrolytic and Water Balance Substance,3E0Q3,2016,2027
+3E0Q37Z,"Introduction of Electrolytic and Water Balance Substance into Cranial Cavity and Brain, Percutaneous Approach",3E0Q37,2016,2027
+3E0Q3A,"Stem Cells, Embryonic",3E0Q3,2016,2027
+3E0Q3AZ,"Introduction of Embryonic Stem Cells into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3A,2016,2027
+3E0Q3B,Anesthetic Agent,3E0Q3,2016,2027
+3E0Q3BZ,"Introduction of Anesthetic Agent into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3B,2016,2027
+3E0Q3E,"Stem Cells, Somatic",3E0Q3,2016,2027
+3E0Q3E0,"Introduction of Autologous Somatic Stem Cells into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3E,2016,2027
+3E0Q3E1,"Introduction of Nonautologous Somatic Stem Cells into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3E,2016,2027
+3E0Q3G,Other Therapeutic Substance,3E0Q3,2016,2027
+3E0Q3GC,"Introduction of Other Therapeutic Substance into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3G,2016,2027
+3E0Q3H,Radioactive Substance,3E0Q3,2016,2027
+3E0Q3HZ,"Introduction of Radioactive Substance into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3H,2016,2027
+3E0Q3K,Other Diagnostic Substance,3E0Q3,2016,2027
+3E0Q3KZ,"Introduction of Other Diagnostic Substance into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3K,2016,2027
+3E0Q3N,"Analgesics, Hypnotics, Sedatives",3E0Q3,2016,2027
+3E0Q3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3N,2016,2027
+3E0Q3S,Gas,3E0Q3,2016,2027
+3E0Q3SF,"Introduction of Other Gas into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3S,2016,2027
+3E0Q3T,Destructive Agent,3E0Q3,2016,2027
+3E0Q3TZ,"Introduction of Destructive Agent into Cranial Cavity and Brain, Percutaneous Approach",3E0Q3T,2016,2027
+3E0Q7,Via Natural or Artificial Opening,3E0Q,2016,2027
+3E0Q70,Antineoplastic,3E0Q7,2016,2027
+3E0Q704,"Introduction of Liquid Brachytherapy Radioisotope into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q70,2016,2027
+3E0Q705,"Introduction of Other Antineoplastic into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q70,2016,2027
+3E0Q70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q70,2016,2027
+3E0Q7S,Gas,3E0Q7,2016,2027
+3E0Q7SF,"Introduction of Other Gas into Cranial Cavity and Brain, Via Natural or Artificial Opening",3E0Q7S,2016,2027
+3E0R,Spinal Canal,3E0,2016,2027
+3E0R0,Open,3E0R,2016,2027
+3E0R0A,"Stem Cells, Embryonic",3E0R0,2016,2027
+3E0R0AZ,"Introduction of Embryonic Stem Cells into Spinal Canal, Open Approach",3E0R0A,2016,2027
+3E0R0E,"Stem Cells, Somatic",3E0R0,2016,2027
+3E0R0E0,"Introduction of Autologous Somatic Stem Cells into Spinal Canal, Open Approach",3E0R0E,2016,2027
+3E0R0E1,"Introduction of Nonautologous Somatic Stem Cells into Spinal Canal, Open Approach",3E0R0E,2016,2027
+3E0R3,Percutaneous,3E0R,2016,2027
+3E0R30,Antineoplastic,3E0R3,2016,2027
+3E0R302,"Introduction of High-dose Interleukin-2 into Spinal Canal, Percutaneous Approach",3E0R30,2016,2027
+3E0R303,"Introduction of Low-dose Interleukin-2 into Spinal Canal, Percutaneous Approach",3E0R30,2016,2027
+3E0R304,"Introduction of Liquid Brachytherapy Radioisotope into Spinal Canal, Percutaneous Approach",3E0R30,2016,2027
+3E0R305,"Introduction of Other Antineoplastic into Spinal Canal, Percutaneous Approach",3E0R30,2016,2027
+3E0R30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Spinal Canal, Percutaneous Approach",3E0R30,2016,2027
+3E0R32,Anti-infective,3E0R3,2016,2027
+3E0R328,"Introduction of Oxazolidinones into Spinal Canal, Percutaneous Approach",3E0R32,2016,2027
+3E0R329,"Introduction of Other Anti-infective into Spinal Canal, Percutaneous Approach",3E0R32,2016,2027
+3E0R33,Anti-inflammatory,3E0R3,2016,2027
+3E0R33Z,"Introduction of Anti-inflammatory into Spinal Canal, Percutaneous Approach",3E0R33,2016,2027
+3E0R36,Nutritional Substance,3E0R3,2016,2027
+3E0R36Z,"Introduction of Nutritional Substance into Spinal Canal, Percutaneous Approach",3E0R36,2016,2027
+3E0R37,Electrolytic and Water Balance Substance,3E0R3,2016,2027
+3E0R37Z,"Introduction of Electrolytic and Water Balance Substance into Spinal Canal, Percutaneous Approach",3E0R37,2016,2027
+3E0R3A,"Stem Cells, Embryonic",3E0R3,2016,2027
+3E0R3AZ,"Introduction of Embryonic Stem Cells into Spinal Canal, Percutaneous Approach",3E0R3A,2016,2027
+3E0R3B,Anesthetic Agent,3E0R3,2016,2027
+3E0R3BZ,"Introduction of Anesthetic Agent into Spinal Canal, Percutaneous Approach",3E0R3B,2016,2027
+3E0R3C,Regional Anesthetic,3E0R3,2016,2017
+3E0R3CZ,"Introduction of Regional Anesthetic into Spinal Canal, Percutaneous Approach",3E0R3C,2016,2017
+3E0R3E,"Stem Cells, Somatic",3E0R3,2016,2027
+3E0R3E0,"Introduction of Autologous Somatic Stem Cells into Spinal Canal, Percutaneous Approach",3E0R3E,2016,2027
+3E0R3E1,"Introduction of Nonautologous Somatic Stem Cells into Spinal Canal, Percutaneous Approach",3E0R3E,2016,2027
+3E0R3G,Other Therapeutic Substance,3E0R3,2016,2027
+3E0R3GC,"Introduction of Other Therapeutic Substance into Spinal Canal, Percutaneous Approach",3E0R3G,2016,2027
+3E0R3H,Radioactive Substance,3E0R3,2016,2027
+3E0R3HZ,"Introduction of Radioactive Substance into Spinal Canal, Percutaneous Approach",3E0R3H,2016,2027
+3E0R3K,Other Diagnostic Substance,3E0R3,2016,2027
+3E0R3KZ,"Introduction of Other Diagnostic Substance into Spinal Canal, Percutaneous Approach",3E0R3K,2016,2027
+3E0R3N,"Analgesics, Hypnotics, Sedatives",3E0R3,2016,2027
+3E0R3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Spinal Canal, Percutaneous Approach",3E0R3N,2016,2027
+3E0R3S,Gas,3E0R3,2016,2027
+3E0R3SF,"Introduction of Other Gas into Spinal Canal, Percutaneous Approach",3E0R3S,2016,2027
+3E0R3T,Destructive Agent,3E0R3,2016,2027
+3E0R3TZ,"Introduction of Destructive Agent into Spinal Canal, Percutaneous Approach",3E0R3T,2016,2027
+3E0R7,Via Natural or Artificial Opening,3E0R,2016,2027
+3E0R7S,Gas,3E0R7,2016,2027
+3E0R7SF,"Introduction of Other Gas into Spinal Canal, Via Natural or Artificial Opening",3E0R7S,2016,2027
+3E0S,Epidural Space,3E0,2016,2027
+3E0S3,Percutaneous,3E0S,2016,2027
+3E0S30,Antineoplastic,3E0S3,2016,2027
+3E0S302,"Introduction of High-dose Interleukin-2 into Epidural Space, Percutaneous Approach",3E0S30,2016,2027
+3E0S303,"Introduction of Low-dose Interleukin-2 into Epidural Space, Percutaneous Approach",3E0S30,2016,2027
+3E0S304,"Introduction of Liquid Brachytherapy Radioisotope into Epidural Space, Percutaneous Approach",3E0S30,2016,2027
+3E0S305,"Introduction of Other Antineoplastic into Epidural Space, Percutaneous Approach",3E0S30,2016,2027
+3E0S30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Epidural Space, Percutaneous Approach",3E0S30,2016,2027
+3E0S32,Anti-infective,3E0S3,2016,2027
+3E0S328,"Introduction of Oxazolidinones into Epidural Space, Percutaneous Approach",3E0S32,2016,2027
+3E0S329,"Introduction of Other Anti-infective into Epidural Space, Percutaneous Approach",3E0S32,2016,2027
+3E0S33,Anti-inflammatory,3E0S3,2016,2027
+3E0S33Z,"Introduction of Anti-inflammatory into Epidural Space, Percutaneous Approach",3E0S33,2016,2027
+3E0S36,Nutritional Substance,3E0S3,2016,2027
+3E0S36Z,"Introduction of Nutritional Substance into Epidural Space, Percutaneous Approach",3E0S36,2016,2027
+3E0S37,Electrolytic and Water Balance Substance,3E0S3,2016,2027
+3E0S37Z,"Introduction of Electrolytic and Water Balance Substance into Epidural Space, Percutaneous Approach",3E0S37,2016,2027
+3E0S3B,Anesthetic Agent,3E0S3,2016,2027
+3E0S3BZ,"Introduction of Anesthetic Agent into Epidural Space, Percutaneous Approach",3E0S3B,2016,2027
+3E0S3C,Regional Anesthetic,3E0S3,2016,2017
+3E0S3CZ,"Introduction of Regional Anesthetic into Epidural Space, Percutaneous Approach",3E0S3C,2016,2017
+3E0S3G,Other Therapeutic Substance,3E0S3,2016,2027
+3E0S3GC,"Introduction of Other Therapeutic Substance into Epidural Space, Percutaneous Approach",3E0S3G,2016,2027
+3E0S3H,Radioactive Substance,3E0S3,2016,2027
+3E0S3HZ,"Introduction of Radioactive Substance into Epidural Space, Percutaneous Approach",3E0S3H,2016,2027
+3E0S3K,Other Diagnostic Substance,3E0S3,2016,2027
+3E0S3KZ,"Introduction of Other Diagnostic Substance into Epidural Space, Percutaneous Approach",3E0S3K,2016,2027
+3E0S3N,"Analgesics, Hypnotics, Sedatives",3E0S3,2016,2027
+3E0S3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Epidural Space, Percutaneous Approach",3E0S3N,2016,2027
+3E0S3S,Gas,3E0S3,2016,2027
+3E0S3SF,"Introduction of Other Gas into Epidural Space, Percutaneous Approach",3E0S3S,2016,2027
+3E0S3T,Destructive Agent,3E0S3,2016,2027
+3E0S3TZ,"Introduction of Destructive Agent into Epidural Space, Percutaneous Approach",3E0S3T,2016,2027
+3E0S7,Via Natural or Artificial Opening,3E0S,2016,2027
+3E0S7S,Gas,3E0S7,2016,2027
+3E0S7SF,"Introduction of Other Gas into Epidural Space, Via Natural or Artificial Opening",3E0S7S,2016,2027
+3E0T,Peripheral Nerves and Plexi,3E0,2016,2027
+3E0T3,Percutaneous,3E0T,2016,2027
+3E0T33,Anti-inflammatory,3E0T3,2016,2027
+3E0T33Z,"Introduction of Anti-inflammatory into Peripheral Nerves and Plexi, Percutaneous Approach",3E0T33,2016,2027
+3E0T3B,Anesthetic Agent,3E0T3,2016,2027
+3E0T3BZ,"Introduction of Anesthetic Agent into Peripheral Nerves and Plexi, Percutaneous Approach",3E0T3B,2016,2027
+3E0T3C,Regional Anesthetic,3E0T3,2016,2017
+3E0T3CZ,"Introduction of Regional Anesthetic into Peripheral Nerves and Plexi, Percutaneous Approach",3E0T3C,2016,2017
+3E0T3G,Other Therapeutic Substance,3E0T3,2016,2027
+3E0T3GC,"Introduction of Other Therapeutic Substance into Peripheral Nerves and Plexi, Percutaneous Approach",3E0T3G,2016,2027
+3E0T3T,Destructive Agent,3E0T3,2016,2027
+3E0T3TZ,"Introduction of Destructive Agent into Peripheral Nerves and Plexi, Percutaneous Approach",3E0T3T,2016,2027
+3E0U,Joints,3E0,2016,2027
+3E0U0,Open,3E0U,2016,2027
+3E0U02,Anti-infective,3E0U0,2016,2027
+3E0U028,"Introduction of Oxazolidinones into Joints, Open Approach",3E0U02,2016,2027
+3E0U029,"Introduction of Other Anti-infective into Joints, Open Approach",3E0U02,2016,2027
+3E0U0G,Other Therapeutic Substance,3E0U0,2016,2027
+3E0U0GB,"Introduction of Recombinant Bone Morphogenetic Protein into Joints, Open Approach",3E0U0G,2016,2027
+3E0U0GC,"Introduction of Other Therapeutic Substance into Joints, Open Approach",3E0U0G,2025,2027
+3E0U3,Percutaneous,3E0U,2016,2027
+3E0U30,Antineoplastic,3E0U3,2016,2027
+3E0U304,"Introduction of Liquid Brachytherapy Radioisotope into Joints, Percutaneous Approach",3E0U30,2016,2027
+3E0U305,"Introduction of Other Antineoplastic into Joints, Percutaneous Approach",3E0U30,2016,2027
+3E0U30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Joints, Percutaneous Approach",3E0U30,2016,2027
+3E0U32,Anti-infective,3E0U3,2016,2027
+3E0U328,"Introduction of Oxazolidinones into Joints, Percutaneous Approach",3E0U32,2016,2027
+3E0U329,"Introduction of Other Anti-infective into Joints, Percutaneous Approach",3E0U32,2016,2027
+3E0U33,Anti-inflammatory,3E0U3,2016,2027
+3E0U33Z,"Introduction of Anti-inflammatory into Joints, Percutaneous Approach",3E0U33,2016,2027
+3E0U36,Nutritional Substance,3E0U3,2016,2027
+3E0U36Z,"Introduction of Nutritional Substance into Joints, Percutaneous Approach",3E0U36,2016,2027
+3E0U37,Electrolytic and Water Balance Substance,3E0U3,2016,2027
+3E0U37Z,"Introduction of Electrolytic and Water Balance Substance into Joints, Percutaneous Approach",3E0U37,2016,2027
+3E0U3B,Anesthetic Agent,3E0U3,2016,2027
+3E0U3BZ,"Introduction of Anesthetic Agent into Joints, Percutaneous Approach",3E0U3B,2016,2027
+3E0U3G,Other Therapeutic Substance,3E0U3,2016,2027
+3E0U3GB,"Introduction of Recombinant Bone Morphogenetic Protein into Joints, Percutaneous Approach",3E0U3G,2016,2027
+3E0U3GC,"Introduction of Other Therapeutic Substance into Joints, Percutaneous Approach",3E0U3G,2016,2027
+3E0U3H,Radioactive Substance,3E0U3,2016,2027
+3E0U3HZ,"Introduction of Radioactive Substance into Joints, Percutaneous Approach",3E0U3H,2016,2027
+3E0U3K,Other Diagnostic Substance,3E0U3,2016,2027
+3E0U3KZ,"Introduction of Other Diagnostic Substance into Joints, Percutaneous Approach",3E0U3K,2016,2027
+3E0U3N,"Analgesics, Hypnotics, Sedatives",3E0U3,2016,2027
+3E0U3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Joints, Percutaneous Approach",3E0U3N,2016,2027
+3E0U3S,Gas,3E0U3,2016,2027
+3E0U3SF,"Introduction of Other Gas into Joints, Percutaneous Approach",3E0U3S,2016,2027
+3E0U3T,Destructive Agent,3E0U3,2016,2027
+3E0U3TZ,"Introduction of Destructive Agent into Joints, Percutaneous Approach",3E0U3T,2016,2027
+3E0U4,Percutaneous Endoscopic,3E0U,2018,2027
+3E0U4G,Other Therapeutic Substance,3E0U4,2018,2027
+3E0U4GC,"Introduction of Other Therapeutic Substance into Joints, Percutaneous Endoscopic Approach",3E0U4G,2018,2027
+3E0V,Bones,3E0,2016,2027
+3E0V0,Open,3E0V,2016,2027
+3E0V0G,Other Therapeutic Substance,3E0V0,2016,2027
+3E0V0GB,"Introduction of Recombinant Bone Morphogenetic Protein into Bones, Open Approach",3E0V0G,2016,2027
+3E0V0GC,"Introduction of Other Therapeutic Substance into Bones, Open Approach",3E0V0G,2023,2027
+3E0V3,Percutaneous,3E0V,2016,2027
+3E0V30,Antineoplastic,3E0V3,2016,2027
+3E0V305,"Introduction of Other Antineoplastic into Bones, Percutaneous Approach",3E0V30,2016,2027
+3E0V30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Bones, Percutaneous Approach",3E0V30,2016,2027
+3E0V32,Anti-infective,3E0V3,2016,2027
+3E0V328,"Introduction of Oxazolidinones into Bones, Percutaneous Approach",3E0V32,2016,2027
+3E0V329,"Introduction of Other Anti-infective into Bones, Percutaneous Approach",3E0V32,2016,2027
+3E0V33,Anti-inflammatory,3E0V3,2016,2027
+3E0V33Z,"Introduction of Anti-inflammatory into Bones, Percutaneous Approach",3E0V33,2016,2027
+3E0V36,Nutritional Substance,3E0V3,2016,2027
+3E0V36Z,"Introduction of Nutritional Substance into Bones, Percutaneous Approach",3E0V36,2016,2027
+3E0V37,Electrolytic and Water Balance Substance,3E0V3,2016,2027
+3E0V37Z,"Introduction of Electrolytic and Water Balance Substance into Bones, Percutaneous Approach",3E0V37,2016,2027
+3E0V3B,Anesthetic Agent,3E0V3,2016,2027
+3E0V3BZ,"Introduction of Anesthetic Agent into Bones, Percutaneous Approach",3E0V3B,2016,2027
+3E0V3G,Other Therapeutic Substance,3E0V3,2016,2027
+3E0V3GB,"Introduction of Recombinant Bone Morphogenetic Protein into Bones, Percutaneous Approach",3E0V3G,2016,2027
+3E0V3GC,"Introduction of Other Therapeutic Substance into Bones, Percutaneous Approach",3E0V3G,2016,2027
+3E0V3H,Radioactive Substance,3E0V3,2016,2027
+3E0V3HZ,"Introduction of Radioactive Substance into Bones, Percutaneous Approach",3E0V3H,2016,2027
+3E0V3K,Other Diagnostic Substance,3E0V3,2016,2027
+3E0V3KZ,"Introduction of Other Diagnostic Substance into Bones, Percutaneous Approach",3E0V3K,2016,2027
+3E0V3N,"Analgesics, Hypnotics, Sedatives",3E0V3,2016,2027
+3E0V3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Bones, Percutaneous Approach",3E0V3N,2016,2027
+3E0V3T,Destructive Agent,3E0V3,2016,2027
+3E0V3TZ,"Introduction of Destructive Agent into Bones, Percutaneous Approach",3E0V3T,2016,2027
+3E0V4,Percutaneous Endoscopic,3E0V,2023,2027
+3E0V4G,Other Therapeutic Substance,3E0V4,2023,2027
+3E0V4GC,"Introduction of Other Therapeutic Substance into Bones, Percutaneous Endoscopic Approach",3E0V4G,2023,2027
+3E0W,Lymphatics,3E0,2016,2027
+3E0W3,Percutaneous,3E0W,2016,2027
+3E0W30,Antineoplastic,3E0W3,2016,2027
+3E0W305,"Introduction of Other Antineoplastic into Lymphatics, Percutaneous Approach",3E0W30,2016,2027
+3E0W30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Lymphatics, Percutaneous Approach",3E0W30,2016,2027
+3E0W32,Anti-infective,3E0W3,2016,2027
+3E0W328,"Introduction of Oxazolidinones into Lymphatics, Percutaneous Approach",3E0W32,2016,2027
+3E0W329,"Introduction of Other Anti-infective into Lymphatics, Percutaneous Approach",3E0W32,2016,2027
+3E0W33,Anti-inflammatory,3E0W3,2016,2027
+3E0W33Z,"Introduction of Anti-inflammatory into Lymphatics, Percutaneous Approach",3E0W33,2016,2027
+3E0W36,Nutritional Substance,3E0W3,2016,2027
+3E0W36Z,"Introduction of Nutritional Substance into Lymphatics, Percutaneous Approach",3E0W36,2016,2027
+3E0W37,Electrolytic and Water Balance Substance,3E0W3,2016,2027
+3E0W37Z,"Introduction of Electrolytic and Water Balance Substance into Lymphatics, Percutaneous Approach",3E0W37,2016,2027
+3E0W3B,Anesthetic Agent,3E0W3,2016,2027
+3E0W3BZ,"Introduction of Anesthetic Agent into Lymphatics, Percutaneous Approach",3E0W3B,2016,2027
+3E0W3G,Other Therapeutic Substance,3E0W3,2016,2027
+3E0W3GC,"Introduction of Other Therapeutic Substance into Lymphatics, Percutaneous Approach",3E0W3G,2016,2027
+3E0W3H,Radioactive Substance,3E0W3,2016,2027
+3E0W3HZ,"Introduction of Radioactive Substance into Lymphatics, Percutaneous Approach",3E0W3H,2016,2027
+3E0W3K,Other Diagnostic Substance,3E0W3,2016,2027
+3E0W3KZ,"Introduction of Other Diagnostic Substance into Lymphatics, Percutaneous Approach",3E0W3K,2016,2027
+3E0W3N,"Analgesics, Hypnotics, Sedatives",3E0W3,2016,2027
+3E0W3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Lymphatics, Percutaneous Approach",3E0W3N,2016,2027
+3E0W3T,Destructive Agent,3E0W3,2016,2027
+3E0W3TZ,"Introduction of Destructive Agent into Lymphatics, Percutaneous Approach",3E0W3T,2016,2027
+3E0X,Cranial Nerves,3E0,2016,2027
+3E0X3,Percutaneous,3E0X,2016,2027
+3E0X33,Anti-inflammatory,3E0X3,2016,2027
+3E0X33Z,"Introduction of Anti-inflammatory into Cranial Nerves, Percutaneous Approach",3E0X33,2016,2027
+3E0X3B,Anesthetic Agent,3E0X3,2016,2027
+3E0X3BZ,"Introduction of Anesthetic Agent into Cranial Nerves, Percutaneous Approach",3E0X3B,2016,2027
+3E0X3C,Regional Anesthetic,3E0X3,2016,2017
+3E0X3CZ,"Introduction of Regional Anesthetic into Cranial Nerves, Percutaneous Approach",3E0X3C,2016,2017
+3E0X3G,Other Therapeutic Substance,3E0X3,2016,2027
+3E0X3GC,"Introduction of Other Therapeutic Substance into Cranial Nerves, Percutaneous Approach",3E0X3G,2016,2027
+3E0X3T,Destructive Agent,3E0X3,2016,2027
+3E0X3TZ,"Introduction of Destructive Agent into Cranial Nerves, Percutaneous Approach",3E0X3T,2016,2027
+3E0Y,Pericardial Cavity,3E0,2016,2027
+3E0Y3,Percutaneous,3E0Y,2016,2027
+3E0Y30,Antineoplastic,3E0Y3,2016,2027
+3E0Y304,"Introduction of Liquid Brachytherapy Radioisotope into Pericardial Cavity, Percutaneous Approach",3E0Y30,2016,2027
+3E0Y305,"Introduction of Other Antineoplastic into Pericardial Cavity, Percutaneous Approach",3E0Y30,2016,2027
+3E0Y30M,"Introduction of Antineoplastic, Monoclonal Antibody, into Pericardial Cavity, Percutaneous Approach",3E0Y30,2016,2027
+3E0Y32,Anti-infective,3E0Y3,2016,2027
+3E0Y328,"Introduction of Oxazolidinones into Pericardial Cavity, Percutaneous Approach",3E0Y32,2016,2027
+3E0Y329,"Introduction of Other Anti-infective into Pericardial Cavity, Percutaneous Approach",3E0Y32,2016,2027
+3E0Y33,Anti-inflammatory,3E0Y3,2016,2027
+3E0Y33Z,"Introduction of Anti-inflammatory into Pericardial Cavity, Percutaneous Approach",3E0Y33,2016,2027
+3E0Y36,Nutritional Substance,3E0Y3,2016,2027
+3E0Y36Z,"Introduction of Nutritional Substance into Pericardial Cavity, Percutaneous Approach",3E0Y36,2016,2027
+3E0Y37,Electrolytic and Water Balance Substance,3E0Y3,2016,2027
+3E0Y37Z,"Introduction of Electrolytic and Water Balance Substance into Pericardial Cavity, Percutaneous Approach",3E0Y37,2016,2027
+3E0Y3B,Anesthetic Agent,3E0Y3,2016,2027
+3E0Y3BZ,"Introduction of Anesthetic Agent into Pericardial Cavity, Percutaneous Approach",3E0Y3B,2016,2027
+3E0Y3G,Other Therapeutic Substance,3E0Y3,2016,2027
+3E0Y3GC,"Introduction of Other Therapeutic Substance into Pericardial Cavity, Percutaneous Approach",3E0Y3G,2016,2027
+3E0Y3H,Radioactive Substance,3E0Y3,2016,2027
+3E0Y3HZ,"Introduction of Radioactive Substance into Pericardial Cavity, Percutaneous Approach",3E0Y3H,2016,2027
+3E0Y3K,Other Diagnostic Substance,3E0Y3,2016,2027
+3E0Y3KZ,"Introduction of Other Diagnostic Substance into Pericardial Cavity, Percutaneous Approach",3E0Y3K,2016,2027
+3E0Y3N,"Analgesics, Hypnotics, Sedatives",3E0Y3,2016,2027
+3E0Y3NZ,"Introduction of Analgesics, Hypnotics, Sedatives into Pericardial Cavity, Percutaneous Approach",3E0Y3N,2016,2027
+3E0Y3S,Gas,3E0Y3,2016,2027
+3E0Y3SF,"Introduction of Other Gas into Pericardial Cavity, Percutaneous Approach",3E0Y3S,2016,2027
+3E0Y3T,Destructive Agent,3E0Y3,2016,2027
+3E0Y3TZ,"Introduction of Destructive Agent into Pericardial Cavity, Percutaneous Approach",3E0Y3T,2016,2027
+3E0Y4,Percutaneous Endoscopic,3E0Y,2018,2027
+3E0Y4G,Other Therapeutic Substance,3E0Y4,2018,2027
+3E0Y4GC,"Introduction of Other Therapeutic Substance into Pericardial Cavity, Percutaneous Endoscopic Approach",3E0Y4G,2018,2027
+3E0Y7,Via Natural or Artificial Opening,3E0Y,2016,2027
+3E0Y70,Antineoplastic,3E0Y7,2016,2027
+3E0Y704,"Introduction of Liquid Brachytherapy Radioisotope into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y70,2016,2027
+3E0Y705,"Introduction of Other Antineoplastic into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y70,2016,2027
+3E0Y70M,"Introduction of Antineoplastic, Monoclonal Antibody, into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y70,2016,2027
+3E0Y7S,Gas,3E0Y7,2016,2027
+3E0Y7SF,"Introduction of Other Gas into Pericardial Cavity, Via Natural or Artificial Opening",3E0Y7S,2016,2027
+3E1,Irrigation,3E,2016,2027
+3E10,Skin and Mucous Membranes,3E1,2016,2027
+3E103,Percutaneous,3E10,2016,2027
+3E1038,Irrigating Substance,3E103,2016,2027
+3E1038X,"Irrigation of Skin and Mucous Membranes using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1038,2016,2027
+3E1038Z,"Irrigation of Skin and Mucous Membranes using Irrigating Substance, Percutaneous Approach",3E1038,2016,2027
+3E10X,External,3E10,2016,2027
+3E10X8,Irrigating Substance,3E10X,2016,2027
+3E10X8X,"Irrigation of Skin and Mucous Membranes using Irrigating Substance, Diagnostic",3E10X8,2016,2027
+3E10X8Z,Irrigation of Skin and Mucous Membranes using Irrigating Substance,3E10X8,2016,2027
+3E19,Nose,3E1,2016,2027
+3E193,Percutaneous,3E19,2016,2027
+3E1938,Irrigating Substance,3E193,2016,2027
+3E1938X,"Irrigation of Nose using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1938,2016,2027
+3E1938Z,"Irrigation of Nose using Irrigating Substance, Percutaneous Approach",3E1938,2016,2027
+3E197,Via Natural or Artificial Opening,3E19,2016,2027
+3E1978,Irrigating Substance,3E197,2016,2027
+3E1978X,"Irrigation of Nose using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1978,2016,2027
+3E1978Z,"Irrigation of Nose using Irrigating Substance, Via Natural or Artificial Opening",3E1978,2016,2027
+3E198,Via Natural or Artificial Opening Endoscopic,3E19,2016,2027
+3E1988,Irrigating Substance,3E198,2016,2027
+3E1988X,"Irrigation of Nose using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1988,2016,2027
+3E1988Z,"Irrigation of Nose using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1988,2016,2027
+3E1B,Ear,3E1,2016,2027
+3E1B3,Percutaneous,3E1B,2016,2027
+3E1B38,Irrigating Substance,3E1B3,2016,2027
+3E1B38X,"Irrigation of Ear using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1B38,2016,2027
+3E1B38Z,"Irrigation of Ear using Irrigating Substance, Percutaneous Approach",3E1B38,2016,2027
+3E1B7,Via Natural or Artificial Opening,3E1B,2016,2027
+3E1B78,Irrigating Substance,3E1B7,2016,2027
+3E1B78X,"Irrigation of Ear using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1B78,2016,2027
+3E1B78Z,"Irrigation of Ear using Irrigating Substance, Via Natural or Artificial Opening",3E1B78,2016,2027
+3E1B8,Via Natural or Artificial Opening Endoscopic,3E1B,2016,2027
+3E1B88,Irrigating Substance,3E1B8,2016,2027
+3E1B88X,"Irrigation of Ear using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1B88,2016,2027
+3E1B88Z,"Irrigation of Ear using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1B88,2016,2027
+3E1C,Eye,3E1,2016,2027
+3E1C3,Percutaneous,3E1C,2016,2027
+3E1C38,Irrigating Substance,3E1C3,2016,2027
+3E1C38X,"Irrigation of Eye using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1C38,2016,2027
+3E1C38Z,"Irrigation of Eye using Irrigating Substance, Percutaneous Approach",3E1C38,2016,2027
+3E1CX,External,3E1C,2016,2027
+3E1CX8,Irrigating Substance,3E1CX,2016,2027
+3E1CX8X,"Irrigation of Eye using Irrigating Substance, Diagnostic",3E1CX8,2016,2027
+3E1CX8Z,Irrigation of Eye using Irrigating Substance,3E1CX8,2016,2027
+3E1F,Respiratory Tract,3E1,2016,2027
+3E1F3,Percutaneous,3E1F,2016,2027
+3E1F38,Irrigating Substance,3E1F3,2016,2027
+3E1F38X,"Irrigation of Respiratory Tract using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1F38,2016,2027
+3E1F38Z,"Irrigation of Respiratory Tract using Irrigating Substance, Percutaneous Approach",3E1F38,2016,2027
+3E1F7,Via Natural or Artificial Opening,3E1F,2016,2027
+3E1F78,Irrigating Substance,3E1F7,2016,2027
+3E1F78X,"Irrigation of Respiratory Tract using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1F78,2016,2027
+3E1F78Z,"Irrigation of Respiratory Tract using Irrigating Substance, Via Natural or Artificial Opening",3E1F78,2016,2027
+3E1F8,Via Natural or Artificial Opening Endoscopic,3E1F,2016,2027
+3E1F88,Irrigating Substance,3E1F8,2016,2027
+3E1F88X,"Irrigation of Respiratory Tract using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1F88,2016,2027
+3E1F88Z,"Irrigation of Respiratory Tract using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1F88,2016,2027
+3E1G,Upper GI,3E1,2016,2027
+3E1G3,Percutaneous,3E1G,2016,2027
+3E1G38,Irrigating Substance,3E1G3,2016,2027
+3E1G38X,"Irrigation of Upper GI using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1G38,2016,2027
+3E1G38Z,"Irrigation of Upper GI using Irrigating Substance, Percutaneous Approach",3E1G38,2016,2027
+3E1G7,Via Natural or Artificial Opening,3E1G,2016,2027
+3E1G78,Irrigating Substance,3E1G7,2016,2027
+3E1G78X,"Irrigation of Upper GI using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1G78,2016,2027
+3E1G78Z,"Irrigation of Upper GI using Irrigating Substance, Via Natural or Artificial Opening",3E1G78,2016,2027
+3E1G8,Via Natural or Artificial Opening Endoscopic,3E1G,2016,2027
+3E1G88,Irrigating Substance,3E1G8,2016,2027
+3E1G88X,"Irrigation of Upper GI using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1G88,2016,2027
+3E1G88Z,"Irrigation of Upper GI using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1G88,2016,2027
+3E1H,Lower GI,3E1,2016,2027
+3E1H3,Percutaneous,3E1H,2016,2027
+3E1H38,Irrigating Substance,3E1H3,2016,2027
+3E1H38X,"Irrigation of Lower GI using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1H38,2016,2027
+3E1H38Z,"Irrigation of Lower GI using Irrigating Substance, Percutaneous Approach",3E1H38,2016,2027
+3E1H7,Via Natural or Artificial Opening,3E1H,2016,2027
+3E1H78,Irrigating Substance,3E1H7,2016,2027
+3E1H78X,"Irrigation of Lower GI using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1H78,2016,2027
+3E1H78Z,"Irrigation of Lower GI using Irrigating Substance, Via Natural or Artificial Opening",3E1H78,2016,2027
+3E1H8,Via Natural or Artificial Opening Endoscopic,3E1H,2016,2027
+3E1H88,Irrigating Substance,3E1H8,2016,2027
+3E1H88X,"Irrigation of Lower GI using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1H88,2016,2027
+3E1H88Z,"Irrigation of Lower GI using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1H88,2016,2027
+3E1J,Biliary and Pancreatic Tract,3E1,2016,2027
+3E1J3,Percutaneous,3E1J,2016,2027
+3E1J38,Irrigating Substance,3E1J3,2016,2027
+3E1J38X,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1J38,2016,2027
+3E1J38Z,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Percutaneous Approach",3E1J38,2016,2027
+3E1J7,Via Natural or Artificial Opening,3E1J,2016,2027
+3E1J78,Irrigating Substance,3E1J7,2016,2027
+3E1J78X,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1J78,2016,2027
+3E1J78Z,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Via Natural or Artificial Opening",3E1J78,2016,2027
+3E1J8,Via Natural or Artificial Opening Endoscopic,3E1J,2016,2027
+3E1J88,Irrigating Substance,3E1J8,2016,2027
+3E1J88X,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1J88,2016,2027
+3E1J88Z,"Irrigation of Biliary and Pancreatic Tract using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1J88,2016,2027
+3E1K,Genitourinary Tract,3E1,2016,2027
+3E1K3,Percutaneous,3E1K,2016,2027
+3E1K38,Irrigating Substance,3E1K3,2016,2027
+3E1K38X,"Irrigation of Genitourinary Tract using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1K38,2016,2027
+3E1K38Z,"Irrigation of Genitourinary Tract using Irrigating Substance, Percutaneous Approach",3E1K38,2016,2027
+3E1K7,Via Natural or Artificial Opening,3E1K,2016,2027
+3E1K78,Irrigating Substance,3E1K7,2016,2027
+3E1K78X,"Irrigation of Genitourinary Tract using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1K78,2016,2027
+3E1K78Z,"Irrigation of Genitourinary Tract using Irrigating Substance, Via Natural or Artificial Opening",3E1K78,2016,2027
+3E1K8,Via Natural or Artificial Opening Endoscopic,3E1K,2016,2027
+3E1K88,Irrigating Substance,3E1K8,2016,2027
+3E1K88X,"Irrigation of Genitourinary Tract using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1K88,2016,2027
+3E1K88Z,"Irrigation of Genitourinary Tract using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1K88,2016,2027
+3E1L,Pleural Cavity,3E1,2016,2027
+3E1L3,Percutaneous,3E1L,2016,2027
+3E1L38,Irrigating Substance,3E1L3,2016,2027
+3E1L38X,"Irrigation of Pleural Cavity using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1L38,2016,2027
+3E1L38Z,"Irrigation of Pleural Cavity using Irrigating Substance, Percutaneous Approach",3E1L38,2016,2027
+3E1M,Peritoneal Cavity,3E1,2016,2027
+3E1M3,Percutaneous,3E1M,2016,2027
+3E1M38,Irrigating Substance,3E1M3,2016,2027
+3E1M38X,"Irrigation of Peritoneal Cavity using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1M38,2016,2027
+3E1M38Z,"Irrigation of Peritoneal Cavity using Irrigating Substance, Percutaneous Approach",3E1M38,2016,2027
+3E1M39,Dialysate,3E1M3,2016,2027
+3E1M39Z,"Irrigation of Peritoneal Cavity using Dialysate, Percutaneous Approach",3E1M39,2016,2027
+3E1M4,Percutaneous Endoscopic,3E1M,2022,2027
+3E1M48,Irrigating Substance,3E1M4,2022,2027
+3E1M48X,"Irrigation of Peritoneal Cavity using Irrigating Substance, Percutaneous Endoscopic Approach, Diagnostic",3E1M48,2022,2027
+3E1M48Z,"Irrigation of Peritoneal Cavity using Irrigating Substance, Percutaneous Endoscopic Approach",3E1M48,2022,2027
+3E1N,Male Reproductive,3E1,2016,2027
+3E1N3,Percutaneous,3E1N,2016,2027
+3E1N38,Irrigating Substance,3E1N3,2016,2027
+3E1N38X,"Irrigation of Male Reproductive using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1N38,2016,2027
+3E1N38Z,"Irrigation of Male Reproductive using Irrigating Substance, Percutaneous Approach",3E1N38,2016,2027
+3E1N7,Via Natural or Artificial Opening,3E1N,2016,2027
+3E1N78,Irrigating Substance,3E1N7,2016,2027
+3E1N78X,"Irrigation of Male Reproductive using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1N78,2016,2027
+3E1N78Z,"Irrigation of Male Reproductive using Irrigating Substance, Via Natural or Artificial Opening",3E1N78,2016,2027
+3E1N8,Via Natural or Artificial Opening Endoscopic,3E1N,2016,2027
+3E1N88,Irrigating Substance,3E1N8,2016,2027
+3E1N88X,"Irrigation of Male Reproductive using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1N88,2016,2027
+3E1N88Z,"Irrigation of Male Reproductive using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1N88,2016,2027
+3E1P,Female Reproductive,3E1,2016,2027
+3E1P3,Percutaneous,3E1P,2016,2027
+3E1P38,Irrigating Substance,3E1P3,2016,2027
+3E1P38X,"Irrigation of Female Reproductive using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1P38,2016,2027
+3E1P38Z,"Irrigation of Female Reproductive using Irrigating Substance, Percutaneous Approach",3E1P38,2016,2027
+3E1P7,Via Natural or Artificial Opening,3E1P,2016,2027
+3E1P78,Irrigating Substance,3E1P7,2016,2027
+3E1P78X,"Irrigation of Female Reproductive using Irrigating Substance, Via Natural or Artificial Opening, Diagnostic",3E1P78,2016,2027
+3E1P78Z,"Irrigation of Female Reproductive using Irrigating Substance, Via Natural or Artificial Opening",3E1P78,2016,2027
+3E1P8,Via Natural or Artificial Opening Endoscopic,3E1P,2016,2027
+3E1P88,Irrigating Substance,3E1P8,2016,2027
+3E1P88X,"Irrigation of Female Reproductive using Irrigating Substance, Via Natural or Artificial Opening Endoscopic, Diagnostic",3E1P88,2016,2027
+3E1P88Z,"Irrigation of Female Reproductive using Irrigating Substance, Via Natural or Artificial Opening Endoscopic",3E1P88,2016,2027
+3E1Q,Cranial Cavity and Brain,3E1,2016,2027
+3E1Q3,Percutaneous,3E1Q,2016,2027
+3E1Q38,Irrigating Substance,3E1Q3,2016,2027
+3E1Q38X,"Irrigation of Cranial Cavity and Brain using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1Q38,2016,2027
+3E1Q38Z,"Irrigation of Cranial Cavity and Brain using Irrigating Substance, Percutaneous Approach",3E1Q38,2016,2027
+3E1R,Spinal Canal,3E1,2016,2027
+3E1R3,Percutaneous,3E1R,2016,2027
+3E1R38,Irrigating Substance,3E1R3,2016,2027
+3E1R38X,"Irrigation of Spinal Canal using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1R38,2016,2027
+3E1R38Z,"Irrigation of Spinal Canal using Irrigating Substance, Percutaneous Approach",3E1R38,2016,2027
+3E1S,Epidural Space,3E1,2016,2027
+3E1S3,Percutaneous,3E1S,2016,2027
+3E1S38,Irrigating Substance,3E1S3,2016,2027
+3E1S38X,"Irrigation of Epidural Space using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1S38,2016,2027
+3E1S38Z,"Irrigation of Epidural Space using Irrigating Substance, Percutaneous Approach",3E1S38,2016,2027
+3E1U,Joints,3E1,2016,2027
+3E1U3,Percutaneous,3E1U,2016,2027
+3E1U38,Irrigating Substance,3E1U3,2016,2027
+3E1U38X,"Irrigation of Joints using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1U38,2016,2027
+3E1U38Z,"Irrigation of Joints using Irrigating Substance, Percutaneous Approach",3E1U38,2016,2027
+3E1U4,Percutaneous Endoscopic,3E1U,2020,2027
+3E1U48,Irrigating Substance,3E1U4,2020,2027
+3E1U48X,"Irrigation of Joints using Irrigating Substance, Percutaneous Endoscopic Approach, Diagnostic",3E1U48,2020,2027
+3E1U48Z,"Irrigation of Joints using Irrigating Substance, Percutaneous Endoscopic Approach",3E1U48,2020,2027
+3E1Y,Pericardial Cavity,3E1,2016,2027
+3E1Y3,Percutaneous,3E1Y,2016,2027
+3E1Y38,Irrigating Substance,3E1Y3,2016,2027
+3E1Y38X,"Irrigation of Pericardial Cavity using Irrigating Substance, Percutaneous Approach, Diagnostic",3E1Y38,2016,2027
+3E1Y38Z,"Irrigation of Pericardial Cavity using Irrigating Substance, Percutaneous Approach",3E1Y38,2016,2027

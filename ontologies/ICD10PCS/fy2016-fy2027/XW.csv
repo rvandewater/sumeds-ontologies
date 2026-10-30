@@ -1,0 +1,500 @@
+code,description,parent,first_year,last_year
+XW,Anatomical Regions,X,2016,2027
+XW0,Introduction,XW,2016,2027
+XW00,Skin,XW0,2022,2026
+XW00X,External,XW00,2022,2026
+XW00X2,Anacaulase-bcdb,XW00X,2022,2026
+XW00X27,"Introduction of Anacaulase-bcdb into Skin, External Approach, New Technology Group 7",XW00X2,2022,2026
+XW01,Subcutaneous Tissue,XW0,2020,2027
+XW013,Percutaneous,XW01,2020,2027
+XW0131,Daratumumab and Hyaluronidase-fihj,XW013,2023,2027
+XW01318,"Introduction of Daratumumab and Hyaluronidase-fihj into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 8",XW0131,2023,2027
+XW0132,Talquetamab Antineoplastic,XW013,2024,2027
+XW01329,"Introduction of Talquetamab Antineoplastic into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 9",XW0132,2024,2027
+XW0134,Elamipretide,XW013,2023,2027
+XW01348,"Introduction of Teclistamab Antineoplastic into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 8",XW0134,2023,2027
+XW0134C,"Introduction of Elamipretide into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 12",XW0134,2027,2027
+XW0136,Dasiglucagon,XW013,2025,2027
+XW0136A,"Introduction of Dasiglucagon into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 10",XW0136,2025,2027
+XW0139,Satralizumab-mwge,XW013,2022,2026
+XW01397,"Introduction of Satralizumab-mwge into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 7",XW0139,2022,2026
+XW013F,Other New Technology Therapeutic Substance,XW013,2021,2027
+XW013F5,"Introduction of Other New Technology Therapeutic Substance into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 5",XW013F,2021,2027
+XW013G,REGN-COV2 Monoclonal Antibody,XW013,2023,2027
+XW013G6,"Introduction of REGN-COV2 Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6",XW013G,2023,2027
+XW013H,Other New Technology Monoclonal Antibody,XW013,2021,2027
+XW013H6,"Introduction of Other New Technology Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6",XW013H,2021,2027
+XW013K,Leronlimab Monoclonal Antibody,XW013,2021,2027
+XW013K6,"Introduction of Leronlimab Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6",XW013K,2021,2027
+XW013L,Elranatamab Antineoplastic,XW013,2024,2027
+XW013L9,"Introduction of Elranatamab Antineoplastic into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 9",XW013L,2024,2027
+XW013S,Epcoritamab Monoclonal Antibody,XW013,2021,2027
+XW013S6,"Introduction of COVID-19 Vaccine Dose 1 into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6",XW013S,2021,2027
+XW013S9,"Introduction of Epcoritamab Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 9",XW013S,2024,2027
+XW013T,Rozanolixizumab-noli Monoclonal Antibody,XW013,2021,2027
+XW013T6,"Introduction of COVID-19 Vaccine Dose 2 into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6",XW013T,2021,2027
+XW013TB,"Introduction of Rozanolixizumab-noli Monoclonal Antibody into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 11",XW013T,2026,2027
+XW013U,COVID-19 Vaccine,XW013,2021,2027
+XW013U6,"Introduction of COVID-19 Vaccine into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 6",XW013U,2021,2027
+XW013V,COVID-19 Vaccine Dose 3,XW013,2022,2027
+XW013V7,"Introduction of COVID-19 Vaccine Dose 3 into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 7",XW013V,2022,2027
+XW013W,COVID-19 Vaccine Booster,XW013,2020,2027
+XW013W5,"Introduction of Caplacizumab into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 5",XW013W,2020,2027
+XW013W7,"Introduction of COVID-19 Vaccine Booster into Subcutaneous Tissue, Percutaneous Approach, New Technology Group 7",XW013W,2022,2027
+XW01X,External,XW01,2022,2026
+XW01X2,Anacaulase-bcdb,XW01X,2022,2026
+XW01X27,"Introduction of Anacaulase-bcdb into Subcutaneous Tissue, External Approach, New Technology Group 7",XW01X2,2022,2026
+XW02,Muscle,XW0,2021,2027
+XW020,Open,XW02,2023,2027
+XW020D,Engineered Allogeneic Thymus Tissue,XW020,2023,2027
+XW020D8,"Introduction of Engineered Allogeneic Thymus Tissue into Muscle, Open Approach, New Technology Group 8",XW020D,2023,2027
+XW023,Percutaneous,XW02,2021,2027
+XW023S,COVID-19 Vaccine Dose 1,XW023,2021,2027
+XW023S6,"Introduction of COVID-19 Vaccine Dose 1 into Muscle, Percutaneous Approach, New Technology Group 6",XW023S,2021,2027
+XW023T,COVID-19 Vaccine Dose 2,XW023,2021,2027
+XW023T6,"Introduction of COVID-19 Vaccine Dose 2 into Muscle, Percutaneous Approach, New Technology Group 6",XW023T,2021,2027
+XW023U,COVID-19 Vaccine,XW023,2021,2027
+XW023U6,"Introduction of COVID-19 Vaccine into Muscle, Percutaneous Approach, New Technology Group 6",XW023U,2021,2027
+XW023V,COVID-19 Vaccine Dose 3,XW023,2022,2027
+XW023V7,"Introduction of COVID-19 Vaccine Dose 3 into Muscle, Percutaneous Approach, New Technology Group 7",XW023V,2022,2027
+XW023W,COVID-19 Vaccine Booster,XW023,2022,2027
+XW023W7,"Introduction of COVID-19 Vaccine Booster into Muscle, Percutaneous Approach, New Technology Group 7",XW023W,2022,2027
+XW023X,Tixagevimab and Cilgavimab Monoclonal Antibody,XW023,2023,2026
+XW023X7,"Introduction of Tixagevimab and Cilgavimab Monoclonal Antibody into Muscle, Percutaneous Approach, New Technology Group 7",XW023X,2023,2026
+XW023Y,Other New Technology Monoclonal Antibody,XW023,2023,2027
+XW023Y7,"Introduction of Other New Technology Monoclonal Antibody into Muscle, Percutaneous Approach, New Technology Group 7",XW023Y,2023,2027
+XW03,Peripheral Vein,XW0,2016,2027
+XW033,Percutaneous,XW03,2016,2027
+XW0330,Alpha1-proteinase Inhibitor,XW033,2021,2027
+XW03306,"Introduction of Brexanolone into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW0330,2021,2025
+XW03308,"Introduction of Spesolimab Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW0330,2023,2027
+XW0330B,"Introduction of Alpha1-proteinase Inhibitor into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW0330,2026,2027
+XW0331,Anitocabtagene Autoleucel Immunotherapy,XW033,2026,2027
+XW0331B,"Introduction of Anitocabtagene Autoleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW0331,2026,2027
+XW0332,Nerinitide,XW033,2016,2025
+XW03321,"Introduction of Ceftazidime-Avibactam Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 1",XW0332,2016,2021
+XW03326,"Introduction of Nerinitide into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW0332,2021,2025
+XW0333,"Bentracimab, Ticagrelor Reversal Agent",XW033,2016,2027
+XW03331,"Introduction of Idarucizumab, Dabigatran Reversal Agent into Peripheral Vein, Percutaneous Approach, New Technology Group 1",XW0333,2016,2021
+XW03336,"Introduction of Durvalumab Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW0333,2021,2025
+XW0333A,"Introduction of Bentracimab, Ticagrelor Reversal Agent into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW0333,2025,2027
+XW0334,Cefepime-taniborbactam Anti-infective,XW033,2016,2027
+XW03341,"Introduction of Isavuconazole Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 1",XW0334,2016,2021
+XW0334A,"Introduction of Cefepime-taniborbactam Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW0334,2025,2027
+XW0335,Ceftobiprole Medocaril Anti-infective,XW033,2016,2027
+XW03351,"Introduction of Blinatumomab Antineoplastic Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 1",XW0335,2016,2021
+XW03357,"Introduction of Narsoplimab Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW0335,2022,2027
+XW03358,"Introduction of Mosunetuzumab Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW0335,2023,2027
+XW0335A,"Introduction of Ceftobiprole Medocaril Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW0335,2025,2027
+XW0336,Landiolol Antiarrhythmic,XW033,2021,2027
+XW03366,"Introduction of Lefamulin Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW0336,2021,2025
+XW03367,"Introduction of Terlipressin into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW0336,2022,2026
+XW03368,"Introduction of Afamitresgene Autoleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW0336,2023,2027
+XW0336C,"Introduction of Landiolol Antiarrhythmic into Peripheral Vein, Percutaneous Approach, New Technology Group 12",XW0336,2027,2027
+XW0337,Zimislecel Allogeneic Stem Cell-Derived Islet Cell Therapy,XW033,2017,2027
+XW03372,"Introduction of Inactivated Coagulation Factor Xa into Peripheral Vein, Percutaneous Approach, New Technology Group 2",XW0337,2017,2027
+XW03377,"Introduction of Trilaciclib into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW0337,2022,2026
+XW03378,"Introduction of Tabelecleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW0337,2023,2027
+XW0337C,"Introduction of Zimislecel Allogeneic Stem Cell-Derived Islet Cell Therapy into Peripheral Vein, Percutaneous Approach, New Technology Group 12",XW0337,2027,2027
+XW0338,Obecabtagene Autoleucel,XW033,2022,2027
+XW03387,"Introduction of Lurbinectedin into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW0338,2022,2026
+XW03388,"Introduction of Treosulfan into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW0338,2023,2027
+XW0338A,"Introduction of Obecabtagene Autoleucel into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW0338,2025,2027
+XW0339,Odronextamab Antineoplastic,XW033,2017,2027
+XW03392,"Introduction of Defibrotide Sodium Anticoagulant into Peripheral Vein, Percutaneous Approach, New Technology Group 2",XW0339,2017,2022
+XW03396,"Introduction of Ceftolozane/Tazobactam Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW0339,2021,2027
+XW03398,"Introduction of Inebilizumab-cdon into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW0339,2023,2027
+XW0339A,"Introduction of Odronextamab Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW0339,2025,2027
+XW033A,Ciltacabtagene Autoleucel,XW033,2018,2027
+XW033A3,"Introduction of Bezlotoxumab Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 3",XW033A,2018,2022
+XW033A6,"Introduction of Cefiderocol Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033A,2021,2025
+XW033A7,"Introduction of Ciltacabtagene Autoleucel into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033A,2022,2027
+XW033B,Orca-T Allogeneic T-cell Immunotherapy,XW033,2018,2027
+XW033B3,"Introduction of Cytarabine and Daunorubicin Liposome Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 3",XW033B,2018,2027
+XW033B6,"Introduction of Omadacycline Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033B,2021,2025
+XW033B7,"Introduction of Amivantamab Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033B,2022,2026
+XW033BA,"Introduction of Orca-T Allogeneic T-cell Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW033B,2025,2027
+XW033C,Zanidatamab Antineoplastic,XW033,2018,2027
+XW033C3,"Introduction of Engineered Autologous Chimeric Antigen Receptor T-cell Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 3",XW033C,2018,2021
+XW033C6,"Introduction of Eculizumab into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033C,2021,2025
+XW033C7,"Introduction of Autologous Engineered Chimeric Antigen Receptor T-cell Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033C,2022,2027
+XW033CA,"Introduction of Zanidatamab Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW033C,2025,2027
+XW033D,Donislecel-jujn Allogeneic Pancreatic Islet Cellular Suspension,XW033,2021,2027
+XW033D6,"Introduction of Atezolizumab Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033D,2021,2025
+XW033DA,"Introduction of Donislecel-jujn Allogeneic Pancreatic Islet Cellular Suspension into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW033D,2025,2027
+XW033E,Remdesivir Anti-infective,XW033,2021,2027
+XW033E5,"Introduction of Remdesivir Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033E,2021,2027
+XW033E6,"Introduction of Etesevimab Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033E,2021,2025
+XW033F,Valoctocogene Roxaparvovec-rvox,XW033,2018,2027
+XW033F3,"Introduction of Other New Technology Therapeutic Substance into Peripheral Vein, Percutaneous Approach, New Technology Group 3",XW033F,2018,2027
+XW033F5,"Introduction of Other New Technology Therapeutic Substance into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033F,2021,2027
+XW033F6,"Introduction of Bamlanivimab Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033F,2021,2025
+XW033FA,"Introduction of Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW033F,2025,2027
+XW033FB,"Introduction of Valoctocogene Roxaparvovec-rvox into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW033F,2026,2027
+XW033G,"Engineered Chimeric Antigen Receptor T-cell Immunotherapy, Allogeneic",XW033,2019,2027
+XW033G4,"Introduction of Plazomicin Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 4",XW033G,2019,2023
+XW033G5,"Introduction of Sarilumab into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033G,2021,2027
+XW033G6,"Introduction of REGN-COV2 Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033G,2021,2027
+XW033G7,"Introduction of Allogeneic Engineered Chimeric Antigen Receptor T-cell Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033G,2022,2027
+XW033H,Axicabtagene Ciloleucel Immunotherapy,XW033,2019,2027
+XW033H4,"Introduction of Synthetic Human Angiotensin II into Peripheral Vein, Percutaneous Approach, New Technology Group 4",XW033H,2019,2023
+XW033H5,"Introduction of Tocilizumab into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033H,2021,2027
+XW033H6,"Introduction of Other New Technology Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033H,2021,2027
+XW033H7,"Introduction of Axicabtagene Ciloleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033H,2022,2027
+XW033J,Tisagenlecleucel Immunotherapy,XW033,2022,2027
+XW033J7,"Introduction of Tisagenlecleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033J,2022,2027
+XW033K,Sulbactam-Durlobactam,XW033,2020,2027
+XW033K5,"Introduction of Fosfomycin Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033K,2020,2024
+XW033K7,"Introduction of Idecabtagene Vicleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033K,2022,2027
+XW033K9,"Introduction of Sulbactam-Durlobactam into Peripheral Vein, Percutaneous Approach, New Technology Group 9",XW033K,2024,2027
+XW033L,Lifileucel Immunotherapy,XW033,2021,2027
+XW033L6,"Introduction of CD24Fc Immunomodulator into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW033L,2021,2027
+XW033L7,"Introduction of Lifileucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033L,2022,2027
+XW033M,Emapalumab-lzsg Anti-IFNy Monoclonal Antibody,XW033,2022,2027
+XW033M7,"Introduction of Brexucabtagene Autoleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033M,2022,2027
+XW033MA,"Introduction of Emapalumab-lzsg Anti-IFNy Monoclonal Antibody into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW033M,2025,2027
+XW033N,Tarlatamab-dlle Antineoplastic,XW033,2020,2027
+XW033N5,"Introduction of Meropenem-vaborbactam Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033N,2020,2024
+XW033N7,"Introduction of Lisocabtagene Maraleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW033N,2022,2027
+XW033NA,"Introduction of Tarlatamab-dlle Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW033N,2025,2027
+XW033P,Aztreonam-avibactam Anti-infective,XW033,2024,2027
+XW033P9,"Introduction of Glofitamab Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 9",XW033P,2024,2027
+XW033PB,"Introduction of Aztreonam-avibactam Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW033P,2026,2027
+XW033Q,Iloprost,XW033,2020,2027
+XW033Q5,"Introduction of Tagraxofusp-erzs Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033Q,2020,2027
+XW033Q9,"Introduction of Posoleucel into Peripheral Vein, Percutaneous Approach, New Technology Group 9",XW033Q,2024,2027
+XW033QB,"Introduction of Iloprost into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW033Q,2026,2027
+XW033R,Letetresgene Autoleucel,XW033,2024,2027
+XW033R9,"Introduction of Rezafungin into Peripheral Vein, Percutaneous Approach, New Technology Group 9",XW033R,2024,2027
+XW033RB,"Introduction of Letetresgene Autoleucel into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW033R,2026,2027
+XW033S,Iobenguane I-131 Antineoplastic,XW033,2020,2027
+XW033S5,"Introduction of Iobenguane I-131 Antineoplastic into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033S,2020,2027
+XW033U,Imipenem-cilastatin-relebactam Anti-infective,XW033,2020,2024
+XW033U5,"Introduction of Imipenem-cilastatin-relebactam Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033U,2020,2024
+XW033W,Fosfomycin Anti-infective,XW033,2020,2027
+XW033W5,"Introduction of Caplacizumab into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW033W,2020,2027
+XW033WB,"Introduction of Fosfomycin Anti-infective into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW033W,2026,2027
+XW04,Central Vein,XW0,2016,2027
+XW043,Percutaneous,XW04,2016,2027
+XW0430,Alpha1-proteinase Inhibitor,XW043,2021,2027
+XW04306,"Introduction of Brexanolone into Central Vein, Percutaneous Approach, New Technology Group 6",XW0430,2021,2025
+XW04308,"Introduction of Spesolimab Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 8",XW0430,2023,2027
+XW0430B,"Introduction of Alpha1-proteinase Inhibitor into Central Vein, Percutaneous Approach, New Technology Group 11",XW0430,2026,2027
+XW0431,Anitocabtagene Autoleucel Immunotherapy,XW043,2026,2027
+XW0431B,"Introduction of Anitocabtagene Autoleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 11",XW0431,2026,2027
+XW0432,Nerinitide,XW043,2016,2025
+XW04321,"Introduction of Ceftazidime-Avibactam Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 1",XW0432,2016,2021
+XW04326,"Introduction of Nerinitide into Central Vein, Percutaneous Approach, New Technology Group 6",XW0432,2021,2025
+XW0433,"Bentracimab, Ticagrelor Reversal Agent",XW043,2016,2027
+XW04331,"Introduction of Idarucizumab, Dabigatran Reversal Agent into Central Vein, Percutaneous Approach, New Technology Group 1",XW0433,2016,2021
+XW04336,"Introduction of Durvalumab Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 6",XW0433,2021,2025
+XW0433A,"Introduction of Bentracimab, Ticagrelor Reversal Agent into Central Vein, Percutaneous Approach, New Technology Group 10",XW0433,2025,2027
+XW0434,Cefepime-taniborbactam Anti-infective,XW043,2016,2027
+XW04341,"Introduction of Isavuconazole Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 1",XW0434,2016,2021
+XW0434A,"Introduction of Cefepime-taniborbactam Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 10",XW0434,2025,2027
+XW0435,Ceftobiprole Medocaril Anti-infective,XW043,2016,2027
+XW04351,"Introduction of Blinatumomab Antineoplastic Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 1",XW0435,2016,2021
+XW04357,"Introduction of Narsoplimab Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 7",XW0435,2022,2027
+XW04358,"Introduction of Mosunetuzumab Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 8",XW0435,2023,2027
+XW0435A,"Introduction of Ceftobiprole Medocaril Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 10",XW0435,2025,2027
+XW0436,Landiolol Antiarrhythmic,XW043,2021,2027
+XW04366,"Introduction of Lefamulin Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 6",XW0436,2021,2025
+XW04367,"Introduction of Terlipressin into Central Vein, Percutaneous Approach, New Technology Group 7",XW0436,2022,2026
+XW04368,"Introduction of Afamitresgene Autoleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 8",XW0436,2023,2027
+XW0436C,"Introduction of Landiolol Antiarrhythmic into Central Vein, Percutaneous Approach, New Technology Group 12",XW0436,2027,2027
+XW0437,Tabelecleucel Immunotherapy,XW043,2017,2027
+XW04372,"Introduction of Inactivated Coagulation Factor Xa into Central Vein, Percutaneous Approach, New Technology Group 2",XW0437,2017,2027
+XW04377,"Introduction of Trilaciclib into Central Vein, Percutaneous Approach, New Technology Group 7",XW0437,2022,2026
+XW04378,"Introduction of Tabelecleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 8",XW0437,2023,2027
+XW0438,Obecabtagene Autoleucel,XW043,2022,2027
+XW04387,"Introduction of Lurbinectedin into Central Vein, Percutaneous Approach, New Technology Group 7",XW0438,2022,2026
+XW04388,"Introduction of Treosulfan into Central Vein, Percutaneous Approach, New Technology Group 8",XW0438,2023,2027
+XW0438A,"Introduction of Obecabtagene Autoleucel into Central Vein, Percutaneous Approach, New Technology Group 10",XW0438,2025,2027
+XW0439,Odronextamab Antineoplastic,XW043,2017,2027
+XW04392,"Introduction of Defibrotide Sodium Anticoagulant into Central Vein, Percutaneous Approach, New Technology Group 2",XW0439,2017,2022
+XW04396,"Introduction of Ceftolozane/Tazobactam Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 6",XW0439,2021,2027
+XW04398,"Introduction of Inebilizumab-cdon into Central Vein, Percutaneous Approach, New Technology Group 8",XW0439,2023,2027
+XW0439A,"Introduction of Odronextamab Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 10",XW0439,2025,2027
+XW043A,Ciltacabtagene Autoleucel,XW043,2018,2027
+XW043A3,"Introduction of Bezlotoxumab Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 3",XW043A,2018,2022
+XW043A6,"Introduction of Cefiderocol Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 6",XW043A,2021,2025
+XW043A7,"Introduction of Ciltacabtagene Autoleucel into Central Vein, Percutaneous Approach, New Technology Group 7",XW043A,2022,2027
+XW043B,Orca-T Allogeneic T-cell Immunotherapy,XW043,2018,2027
+XW043B3,"Introduction of Cytarabine and Daunorubicin Liposome Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 3",XW043B,2018,2027
+XW043B6,"Introduction of Omadacycline Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 6",XW043B,2021,2025
+XW043B7,"Introduction of Amivantamab Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 7",XW043B,2022,2026
+XW043BA,"Introduction of Orca-T Allogeneic T-cell Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 10",XW043B,2025,2027
+XW043C,Zanidatamab Antineoplastic,XW043,2018,2027
+XW043C3,"Introduction of Engineered Autologous Chimeric Antigen Receptor T-cell Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 3",XW043C,2018,2021
+XW043C6,"Introduction of Eculizumab into Central Vein, Percutaneous Approach, New Technology Group 6",XW043C,2021,2025
+XW043C7,"Introduction of Autologous Engineered Chimeric Antigen Receptor T-cell Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043C,2022,2027
+XW043CA,"Introduction of Zanidatamab Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 10",XW043C,2025,2027
+XW043D,Atezolizumab Antineoplastic,XW043,2021,2025
+XW043D6,"Introduction of Atezolizumab Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 6",XW043D,2021,2025
+XW043E,Remdesivir Anti-infective,XW043,2021,2027
+XW043E5,"Introduction of Remdesivir Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 5",XW043E,2021,2027
+XW043E6,"Introduction of Etesevimab Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 6",XW043E,2021,2025
+XW043F,Valoctocogene Roxaparvovec-rvox,XW043,2018,2027
+XW043F3,"Introduction of Other New Technology Therapeutic Substance into Central Vein, Percutaneous Approach, New Technology Group 3",XW043F,2018,2027
+XW043F5,"Introduction of Other New Technology Therapeutic Substance into Central Vein, Percutaneous Approach, New Technology Group 5",XW043F,2021,2027
+XW043F6,"Introduction of Bamlanivimab Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 6",XW043F,2021,2025
+XW043FA,"Introduction of Non-Chimeric Antigen Receptor T-cell Immune Effector Cell Therapy into Central Vein, Percutaneous Approach, New Technology Group 10",XW043F,2025,2027
+XW043FB,"Introduction of Valoctocogene Roxaparvovec-rvox into Central Vein, Percutaneous Approach, New Technology Group 11",XW043F,2026,2027
+XW043G,"Engineered Chimeric Antigen Receptor T-cell Immunotherapy, Allogeneic",XW043,2019,2027
+XW043G4,"Introduction of Plazomicin Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 4",XW043G,2019,2023
+XW043G5,"Introduction of Sarilumab into Central Vein, Percutaneous Approach, New Technology Group 5",XW043G,2021,2027
+XW043G6,"Introduction of REGN-COV2 Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 6",XW043G,2021,2027
+XW043G7,"Introduction of Allogeneic Engineered Chimeric Antigen Receptor T-cell Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043G,2022,2027
+XW043H,Axicabtagene Ciloleucel Immunotherapy,XW043,2019,2027
+XW043H4,"Introduction of Synthetic Human Angiotensin II into Central Vein, Percutaneous Approach, New Technology Group 4",XW043H,2019,2023
+XW043H5,"Introduction of Tocilizumab into Central Vein, Percutaneous Approach, New Technology Group 5",XW043H,2021,2027
+XW043H6,"Introduction of Other New Technology Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 6",XW043H,2021,2027
+XW043H7,"Introduction of Axicabtagene Ciloleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043H,2022,2027
+XW043J,Tisagenlecleucel Immunotherapy,XW043,2022,2027
+XW043J7,"Introduction of Tisagenlecleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043J,2022,2027
+XW043K,Sulbactam-Durlobactam,XW043,2020,2027
+XW043K5,"Introduction of Fosfomycin Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 5",XW043K,2020,2024
+XW043K7,"Introduction of Idecabtagene Vicleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043K,2022,2027
+XW043K9,"Introduction of Sulbactam-Durlobactam into Central Vein, Percutaneous Approach, New Technology Group 9",XW043K,2024,2027
+XW043L,Lifileucel Immunotherapy,XW043,2021,2027
+XW043L6,"Introduction of CD24Fc Immunomodulator into Central Vein, Percutaneous Approach, New Technology Group 6",XW043L,2021,2027
+XW043L7,"Introduction of Lifileucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043L,2022,2027
+XW043M,Emapalumab-lzsg Anti-IFNy Monoclonal Antibody,XW043,2022,2027
+XW043M7,"Introduction of Brexucabtagene Autoleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043M,2022,2027
+XW043MA,"Introduction of Emapalumab-lzsg Anti-IFNy Monoclonal Antibody into Central Vein, Percutaneous Approach, New Technology Group 10",XW043M,2025,2027
+XW043N,Tarlatamab-dlle Antineoplastic,XW043,2020,2027
+XW043N5,"Introduction of Meropenem-vaborbactam Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 5",XW043N,2020,2024
+XW043N7,"Introduction of Lisocabtagene Maraleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 7",XW043N,2022,2027
+XW043NA,"Introduction of Tarlatamab-dlle Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 10",XW043N,2025,2027
+XW043P,Aztreonam-avibactam Anti-infective,XW043,2024,2027
+XW043P9,"Introduction of Glofitamab Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 9",XW043P,2024,2027
+XW043PB,"Introduction of Aztreonam-avibactam Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 11",XW043P,2026,2027
+XW043Q,Iloprost,XW043,2020,2027
+XW043Q5,"Introduction of Tagraxofusp-erzs Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 5",XW043Q,2020,2027
+XW043Q9,"Introduction of Posoleucel into Central Vein, Percutaneous Approach, New Technology Group 9",XW043Q,2024,2027
+XW043QB,"Introduction of Iloprost into Central Vein, Percutaneous Approach, New Technology Group 11",XW043Q,2026,2027
+XW043R,Letetresgene Autoleucel,XW043,2024,2027
+XW043R9,"Introduction of Rezafungin into Central Vein, Percutaneous Approach, New Technology Group 9",XW043R,2024,2027
+XW043RB,"Introduction of Letetresgene Autoleucel into Central Vein, Percutaneous Approach, New Technology Group 11",XW043R,2026,2027
+XW043S,Iobenguane I-131 Antineoplastic,XW043,2020,2027
+XW043S5,"Introduction of Iobenguane I-131 Antineoplastic into Central Vein, Percutaneous Approach, New Technology Group 5",XW043S,2020,2027
+XW043U,Imipenem-cilastatin-relebactam Anti-infective,XW043,2020,2024
+XW043U5,"Introduction of Imipenem-cilastatin-relebactam Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 5",XW043U,2020,2024
+XW043W,Fosfomycin Anti-infective,XW043,2020,2027
+XW043W5,"Introduction of Caplacizumab into Central Vein, Percutaneous Approach, New Technology Group 5",XW043W,2020,2027
+XW043WB,"Introduction of Fosfomycin Anti-infective into Central Vein, Percutaneous Approach, New Technology Group 11",XW043W,2026,2027
+XW05,Peripheral Artery,XW0,2024,2027
+XW053,Percutaneous,XW05,2024,2027
+XW0534,"Stem Cells, Somatic",XW053,2026,2027
+XW0534B,"Introduction of Somatic Stem Cells into Peripheral Artery, Percutaneous Approach, New Technology Group 11",XW0534,2026,2027
+XW053T,Melphalan Hydrochloride Antineoplastic,XW053,2024,2027
+XW053T9,"Introduction of Melphalan Hydrochloride Antineoplastic into Peripheral Artery, Percutaneous Approach, New Technology Group 9",XW053T,2024,2027
+XW06,Cerebral Ventricle,XW0,2026,2027
+XW063,Percutaneous,XW06,2026,2027
+XW0632,CPI-601 Enzyme Replacement Therapy,XW063,2026,2027
+XW0632B,"Introduction of CPI-601 Enzyme Replacement Therapy into Cerebral Ventricle, Percutaneous Approach, New Technology Group 11",XW0632,2026,2027
+XW09,Nose,XW0,2021,2024
+XW097,Via Natural or Artificial Opening,XW09,2021,2024
+XW097M,Esketamine Hydrochloride,XW097,2021,2024
+XW097M5,"Introduction of Esketamine Hydrochloride into Nose, Via Natural or Artificial Opening, New Technology Group 5",XW097M,2021,2024
+XW0D,Mouth and Pharynx,XW0,2017,2027
+XW0DX,External,XW0D,2017,2027
+XW0DX3,Maribavir Anti-infective,XW0DX,2023,2027
+XW0DX38,"Introduction of Maribavir Anti-infective into Mouth and Pharynx, External Approach, New Technology Group 8",XW0DX3,2023,2027
+XW0DX6,Lefamulin Anti-infective,XW0DX,2021,2025
+XW0DX66,"Introduction of Lefamulin Anti-infective into Mouth and Pharynx, External Approach, New Technology Group 6",XW0DX6,2021,2025
+XW0DX8,Uridine Triacetate,XW0DX,2017,2027
+XW0DX82,"Introduction of Uridine Triacetate into Mouth and Pharynx, External Approach, New Technology Group 2",XW0DX8,2017,2027
+XW0DXF,Other New Technology Therapeutic Substance,XW0DX,2021,2027
+XW0DXF5,"Introduction of Other New Technology Therapeutic Substance into Mouth and Pharynx, External Approach, New Technology Group 5",XW0DXF,2021,2027
+XW0DXJ,Quizartinib Antineoplastic,XW0DX,2020,2027
+XW0DXJ5,"Introduction of Apalutamide Antineoplastic into Mouth and Pharynx, External Approach, New Technology Group 5",XW0DXJ,2020,2024
+XW0DXJ9,"Introduction of Quizartinib Antineoplastic into Mouth and Pharynx, External Approach, New Technology Group 9",XW0DXJ,2024,2027
+XW0DXK,Sabizabulin,XW0DX,2023,2027
+XW0DXK8,"Introduction of Sabizabulin into Mouth and Pharynx, External Approach, New Technology Group 8",XW0DXK,2023,2027
+XW0DXL,Erdafitinib Antineoplastic,XW0DX,2020,2024
+XW0DXL5,"Introduction of Erdafitinib Antineoplastic into Mouth and Pharynx, External Approach, New Technology Group 5",XW0DXL,2020,2024
+XW0DXM,Baricitinib,XW0DX,2021,2027
+XW0DXM6,"Introduction of Baricitinib into Mouth and Pharynx, External Approach, New Technology Group 6",XW0DXM,2021,2027
+XW0DXN,SER-109,XW0DX,2024,2027
+XW0DXN9,"Introduction of SER-109 into Mouth and Pharynx, External Approach, New Technology Group 9",XW0DXN,2024,2027
+XW0DXR,Fostamatinib,XW0DX,2020,2026
+XW0DXR5,"Introduction of Venetoclax Antineoplastic into Mouth and Pharynx, External Approach, New Technology Group 5",XW0DXR,2020,2024
+XW0DXR7,"Introduction of Fostamatinib into Mouth and Pharynx, External Approach, New Technology Group 7",XW0DXR,2022,2026
+XW0DXT,Ruxolitinib,XW0DX,2020,2024
+XW0DXT5,"Introduction of Ruxolitinib into Mouth and Pharynx, External Approach, New Technology Group 5",XW0DXT,2020,2024
+XW0DXV,Xanomeline and Trospium Chloride,XW0DX,2020,2027
+XW0DXV5,"Introduction of Gilteritinib Antineoplastic into Mouth and Pharynx, External Approach, New Technology Group 5",XW0DXV,2020,2024
+XW0DXVB,"Introduction of Xanomeline and Trospium Chloride into Mouth and Pharynx, External Approach, New Technology Group 11",XW0DXV,2026,2027
+XW0E,Ear(s),XW0,2026,2027
+XW0E3,Percutaneous,XW0E,2026,2027
+XW0E33,Lunsotogene Parvec-cwha via Intracochlear Infusion,XW0E3,2026,2027
+XW0E33B,"Introduction of Lunsotogene Parvec-cwha via Intracochlear Infusion into Ear(s), Percutaneous Approach, New Technology Group 11",XW0E33,2026,2027
+XW0G,Upper GI,XW0,2021,2027
+XW0G7,Via Natural or Artificial Opening,XW0G,2021,2027
+XW0G73,Maribavir Anti-infective,XW0G7,2023,2027
+XW0G738,"Introduction of Maribavir Anti-infective into Upper GI, Via Natural or Artificial Opening, New Technology Group 8",XW0G73,2023,2027
+XW0G7K,Sabizabulin,XW0G7,2023,2027
+XW0G7K8,"Introduction of Sabizabulin into Upper GI, Via Natural or Artificial Opening, New Technology Group 8",XW0G7K,2023,2027
+XW0G7M,Baricitinib,XW0G7,2021,2027
+XW0G7M6,"Introduction of Baricitinib into Upper GI, Via Natural or Artificial Opening, New Technology Group 6",XW0G7M,2021,2027
+XW0G7R,Fostamatinib,XW0G7,2022,2026
+XW0G7R7,"Introduction of Fostamatinib into Upper GI, Via Natural or Artificial Opening, New Technology Group 7",XW0G7R,2022,2026
+XW0G8,Via Natural or Artificial Opening Endoscopic,XW0G,2021,2027
+XW0G88,Mineral-based Topical Hemostatic Agent,XW0G8,2021,2027
+XW0G886,"Introduction of Mineral-based Topical Hemostatic Agent into Upper GI, Via Natural or Artificial Opening Endoscopic, New Technology Group 6",XW0G88,2021,2027
+XW0H,Lower GI,XW0,2021,2027
+XW0H7,Via Natural or Artificial Opening,XW0H,2021,2027
+XW0H73,Maribavir Anti-infective,XW0H7,2023,2027
+XW0H738,"Introduction of Maribavir Anti-infective into Lower GI, Via Natural or Artificial Opening, New Technology Group 8",XW0H73,2023,2027
+XW0H7K,Sabizabulin,XW0H7,2023,2027
+XW0H7K8,"Introduction of Sabizabulin into Lower GI, Via Natural or Artificial Opening, New Technology Group 8",XW0H7K,2023,2027
+XW0H7M,Baricitinib,XW0H7,2021,2027
+XW0H7M6,"Introduction of Baricitinib into Lower GI, Via Natural or Artificial Opening, New Technology Group 6",XW0H7M,2021,2027
+XW0H7R,Fostamatinib,XW0H7,2022,2026
+XW0H7R7,"Introduction of Fostamatinib into Lower GI, Via Natural or Artificial Opening, New Technology Group 7",XW0H7R,2022,2026
+XW0H7X,Broad Consortium Microbiota-based Live Biotherapeutic Suspension,XW0H7,2023,2027
+XW0H7X8,"Introduction of Broad Consortium Microbiota-based Live Biotherapeutic Suspension into Lower GI, Via Natural or Artificial Opening, New Technology Group 8",XW0H7X,2023,2027
+XW0H8,Via Natural or Artificial Opening Endoscopic,XW0H,2021,2027
+XW0H88,Mineral-based Topical Hemostatic Agent,XW0H8,2021,2027
+XW0H886,"Introduction of Mineral-based Topical Hemostatic Agent into Lower GI, Via Natural or Artificial Opening Endoscopic, New Technology Group 6",XW0H88,2021,2027
+XW0J,"Coronary Artery, One Artery",XW0,2025,2027
+XW0J3,Percutaneous,XW0J,2025,2027
+XW0J3H,"Paclitaxel-Coated Balloon Technology, One Balloon",XW0J3,2025,2027
+XW0J3HA,"Introduction of Paclitaxel-Coated Balloon Technology, One Balloon into Coronary Artery, One Artery, Percutaneous Approach, New Technology Group 10",XW0J3H,2025,2027
+XW0J3J,"Paclitaxel-Coated Balloon Technology, Two Balloons",XW0J3,2025,2027
+XW0J3JA,"Introduction of Paclitaxel-Coated Balloon Technology, Two Balloons into Coronary Artery, One Artery, Percutaneous Approach, New Technology Group 10",XW0J3J,2025,2027
+XW0J3K,"Paclitaxel-Coated Balloon Technology, Three Balloons",XW0J3,2025,2027
+XW0J3KA,"Introduction of Paclitaxel-Coated Balloon Technology, Three Balloons into Coronary Artery, One Artery, Percutaneous Approach, New Technology Group 10",XW0J3K,2025,2027
+XW0J3L,"Paclitaxel-Coated Balloon Technology, Four or More Balloons",XW0J3,2025,2027
+XW0J3LA,"Introduction of Paclitaxel-Coated Balloon Technology, Four or More Balloons into Coronary Artery, One Artery, Percutaneous Approach, New Technology Group 10",XW0J3L,2025,2027
+XW0K,"Coronary Artery, Two Arteries",XW0,2025,2027
+XW0K3,Percutaneous,XW0K,2025,2027
+XW0K3H,"Paclitaxel-Coated Balloon Technology, One Balloon",XW0K3,2025,2027
+XW0K3HA,"Introduction of Paclitaxel-Coated Balloon Technology, One Balloon into Coronary Artery, Two Arteries, Percutaneous Approach, New Technology Group 10",XW0K3H,2025,2027
+XW0K3J,"Paclitaxel-Coated Balloon Technology, Two Balloons",XW0K3,2025,2027
+XW0K3JA,"Introduction of Paclitaxel-Coated Balloon Technology, Two Balloons into Coronary Artery, Two Arteries, Percutaneous Approach, New Technology Group 10",XW0K3J,2025,2027
+XW0K3K,"Paclitaxel-Coated Balloon Technology, Three Balloons",XW0K3,2025,2027
+XW0K3KA,"Introduction of Paclitaxel-Coated Balloon Technology, Three Balloons into Coronary Artery, Two Arteries, Percutaneous Approach, New Technology Group 10",XW0K3K,2025,2027
+XW0K3L,"Paclitaxel-Coated Balloon Technology, Four or More Balloons",XW0K3,2025,2027
+XW0K3LA,"Introduction of Paclitaxel-Coated Balloon Technology, Four or More Balloons into Coronary Artery, Two Arteries, Percutaneous Approach, New Technology Group 10",XW0K3L,2025,2027
+XW0L,"Coronary Artery, Three Arteries",XW0,2025,2027
+XW0L3,Percutaneous,XW0L,2025,2027
+XW0L3H,"Paclitaxel-Coated Balloon Technology, One Balloon",XW0L3,2025,2027
+XW0L3HA,"Introduction of Paclitaxel-Coated Balloon Technology, One Balloon into Coronary Artery, Three Arteries, Percutaneous Approach, New Technology Group 10",XW0L3H,2025,2027
+XW0L3J,"Paclitaxel-Coated Balloon Technology, Two Balloons",XW0L3,2025,2027
+XW0L3JA,"Introduction of Paclitaxel-Coated Balloon Technology, Two Balloons into Coronary Artery, Three Arteries, Percutaneous Approach, New Technology Group 10",XW0L3J,2025,2027
+XW0L3K,"Paclitaxel-Coated Balloon Technology, Three Balloons",XW0L3,2025,2027
+XW0L3KA,"Introduction of Paclitaxel-Coated Balloon Technology, Three Balloons into Coronary Artery, Three Arteries, Percutaneous Approach, New Technology Group 10",XW0L3K,2025,2027
+XW0L3L,"Paclitaxel-Coated Balloon Technology, Four or More Balloons",XW0L3,2025,2027
+XW0L3LA,"Introduction of Paclitaxel-Coated Balloon Technology, Four or More Balloons into Coronary Artery, Three Arteries, Percutaneous Approach, New Technology Group 10",XW0L3L,2025,2027
+XW0M,"Coronary Artery, Four or More Arteries",XW0,2025,2027
+XW0M3,Percutaneous,XW0M,2025,2027
+XW0M3H,"Paclitaxel-Coated Balloon Technology, One Balloon",XW0M3,2025,2027
+XW0M3HA,"Introduction of Paclitaxel-Coated Balloon Technology, One Balloon into Coronary Artery, Four or More Arteries, Percutaneous Approach, New Technology Group 10",XW0M3H,2025,2027
+XW0M3J,"Paclitaxel-Coated Balloon Technology, Two Balloons",XW0M3,2025,2027
+XW0M3JA,"Introduction of Paclitaxel-Coated Balloon Technology, Two Balloons into Coronary Artery, Four or More Arteries, Percutaneous Approach, New Technology Group 10",XW0M3J,2025,2027
+XW0M3K,"Paclitaxel-Coated Balloon Technology, Three Balloons",XW0M3,2025,2027
+XW0M3KA,"Introduction of Paclitaxel-Coated Balloon Technology, Three Balloons into Coronary Artery, Four or More Arteries, Percutaneous Approach, New Technology Group 10",XW0M3K,2025,2027
+XW0M3L,"Paclitaxel-Coated Balloon Technology, Four or More Balloons",XW0M3,2025,2027
+XW0M3LA,"Introduction of Paclitaxel-Coated Balloon Technology, Four or More Balloons into Coronary Artery, Four or More Arteries, Percutaneous Approach, New Technology Group 10",XW0M3L,2025,2027
+XW0Q,Cranial Cavity and Brain,XW0,2021,2027
+XW0Q3,Percutaneous,XW0Q,2021,2027
+XW0Q31,Eladocagene exuparvovec,XW0Q3,2021,2027
+XW0Q316,"Introduction of Eladocagene exuparvovec into Cranial Cavity and Brain, Percutaneous Approach, New Technology Group 6",XW0Q31,2021,2027
+XW0Q35,Ifezuntirgene Inilparvovec,XW0Q3,2027,2027
+XW0Q35C,"Introduction of Ifezuntirgene Inilparvovec into Cranial Cavity and Brain, Percutaneous Approach, New Technology Group 12",XW0Q35,2027,2027
+XW0U,Joints,XW0,2025,2027
+XW0U0,Open,XW0U,2025,2027
+XW0U0C,Recombinant Human Bone Morphogenetic Protein-2 with Collagen Scaffold,XW0U0,2027,2027
+XW0U0CC,"Introduction of Recombinant Human Bone Morphogenetic Protein-2 with Collagen Scaffold into Joints, Open Approach, New Technology Group 12",XW0U0C,2027,2027
+XW0U0G,"Vancomycin Hydrochloride and Tobramycin Sulfate Anti-Infective, Temporary Irrigation Spacer System",XW0U0,2025,2027
+XW0U0GA,"Introduction of Vancomycin Hydrochloride and Tobramycin Sulfate Anti-Infective, Temporary Irrigation Spacer System into Joints, Open Approach, New Technology Group 10",XW0U0G,2025,2027
+XW0U0X,Peptide Enhanced Bone Void Filler,XW0U0,2026,2027
+XW0U0XB,"Introduction of Peptide Enhanced Bone Void Filler into Joints, Open Approach, New Technology Group 11",XW0U0X,2026,2027
+XW0U3,Percutaneous,XW0U,2026,2027
+XW0U3X,Peptide Enhanced Bone Void Filler,XW0U3,2026,2027
+XW0U3XB,"Introduction of Peptide Enhanced Bone Void Filler into Joints, Percutaneous Approach, New Technology Group 11",XW0U3X,2026,2027
+XW0U4,Percutaneous Endoscopic,XW0U,2026,2027
+XW0U4X,Peptide Enhanced Bone Void Filler,XW0U4,2026,2027
+XW0U4XB,"Introduction of Peptide Enhanced Bone Void Filler into Joints, Percutaneous Endoscopic Approach, New Technology Group 11",XW0U4X,2026,2027
+XW0V,Bones,XW0,2022,2027
+XW0V0,Open,XW0V,2022,2027
+XW0V0B,Vancomycin-eluting Bone Void Filler,XW0V0,2027,2027
+XW0V0BC,"Introduction of Vancomycin-eluting Bone Void Filler into Bones, Open Approach, New Technology Group 12",XW0V0B,2027,2027
+XW0V0P,Gentamicin-eluting Bone Void Filler,XW0V0,2022,2027
+XW0V0P7,"Introduction of Gentamicin-eluting Bone Void Filler into Bones, Open Approach, New Technology Group 7",XW0V0P,2022,2027
+XW0V3,Percutaneous,XW0V,2025,2027
+XW0V3W,AGN1 Bone Void Filler,XW0V3,2025,2027
+XW0V3WA,"Introduction of AGN1 Bone Void Filler into Bones, Percutaneous Approach, New Technology Group 10",XW0V3W,2025,2027
+XW1,Transfusion,XW,2021,2027
+XW13,Peripheral Vein,XW1,2021,2027
+XW133,Percutaneous,XW13,2021,2027
+XW1332,"Plasma, Convalescent (Nonautologous)",XW133,2021,2027
+XW13325,"Transfusion of Convalescent Plasma (Nonautologous) into Peripheral Vein, Percutaneous Approach, New Technology Group 5",XW1332,2021,2027
+XW1337,Marnetegragene Autotemcel,XW133,2025,2027
+XW1337A,"Transfusion of Marnetegragene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 10",XW1337,2025,2027
+XW133B,Betibeglogene Autotemcel,XW133,2023,2027
+XW133B8,"Transfusion of Betibeglogene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW133B,2023,2027
+XW133C,Omidubicel,XW133,2023,2027
+XW133C8,"Transfusion of Omidubicel into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW133C,2023,2027
+XW133D,High-Dose Intravenous Immune Globulin,XW133,2022,2026
+XW133D7,"Transfusion of High-Dose Intravenous Immune Globulin into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW133D,2022,2026
+XW133E,Hyperimmune Globulin,XW133,2022,2027
+XW133E7,"Transfusion of Hyperimmune Globulin into Peripheral Vein, Percutaneous Approach, New Technology Group 7",XW133E,2022,2027
+XW133F,OTL-103,XW133,2023,2026
+XW133F8,"Transfusion of OTL-103 into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW133F,2023,2026
+XW133G,Atidarsagene Autotemcel,XW133,2023,2027
+XW133G8,"Transfusion of Atidarsagene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW133G,2023,2027
+XW133H,Lovotibeglogene Autotemcel,XW133,2024,2027
+XW133H9,"Transfusion of Lovotibeglogene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 9",XW133H,2024,2027
+XW133J,Exagamglogene Autotemcel,XW133,2023,2027
+XW133J8,"Transfusion of Exagamglogene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 8",XW133J,2023,2027
+XW133S,Mozafancogene Autotemcel,XW133,2026,2027
+XW133SB,"Transfusion of Mozafancogene Autotemcel into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW133S,2026,2027
+XW133Y,"Nonautologous (Human) Fibrinogen Concentrate, Shelf-stable",XW133,2026,2027
+XW133YB,"Transfusion of Nonautologous (Human) Fibrinogen Concentrate, Shelf-stable into Peripheral Vein, Percutaneous Approach, New Technology Group 11",XW133Y,2026,2027
+XW14,Central Vein,XW1,2021,2027
+XW143,Percutaneous,XW14,2021,2027
+XW1432,"Plasma, Convalescent (Nonautologous)",XW143,2021,2027
+XW14325,"Transfusion of Convalescent Plasma (Nonautologous) into Central Vein, Percutaneous Approach, New Technology Group 5",XW1432,2021,2027
+XW1437,Marnetegragene Autotemcel,XW143,2025,2027
+XW1437A,"Transfusion of Marnetegragene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 10",XW1437,2025,2027
+XW143B,Betibeglogene Autotemcel,XW143,2023,2027
+XW143B8,"Transfusion of Betibeglogene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 8",XW143B,2023,2027
+XW143C,Omidubicel,XW143,2023,2027
+XW143C8,"Transfusion of Omidubicel into Central Vein, Percutaneous Approach, New Technology Group 8",XW143C,2023,2027
+XW143D,High-Dose Intravenous Immune Globulin,XW143,2022,2026
+XW143D7,"Transfusion of High-Dose Intravenous Immune Globulin into Central Vein, Percutaneous Approach, New Technology Group 7",XW143D,2022,2026
+XW143E,Hyperimmune Globulin,XW143,2022,2027
+XW143E7,"Transfusion of Hyperimmune Globulin into Central Vein, Percutaneous Approach, New Technology Group 7",XW143E,2022,2027
+XW143F,Etuvetidigene Autotemcel,XW143,2023,2027
+XW143F8,"Transfusion of Etuvetidigene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 8",XW143F,2023,2027
+XW143G,Atidarsagene Autotemcel,XW143,2023,2027
+XW143G8,"Transfusion of Atidarsagene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 8",XW143G,2023,2027
+XW143H,Lovotibeglogene Autotemcel,XW143,2024,2027
+XW143H9,"Transfusion of Lovotibeglogene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 9",XW143H,2024,2027
+XW143J,Exagamglogene Autotemcel,XW143,2023,2027
+XW143J8,"Transfusion of Exagamglogene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 8",XW143J,2023,2027
+XW143S,Mozafancogene Autotemcel,XW143,2026,2027
+XW143SB,"Transfusion of Mozafancogene Autotemcel into Central Vein, Percutaneous Approach, New Technology Group 11",XW143S,2026,2027
+XW143Y,"Nonautologous (Human) Fibrinogen Concentrate, Shelf-stable",XW143,2026,2027
+XW143YB,"Transfusion of Nonautologous (Human) Fibrinogen Concentrate, Shelf-stable into Central Vein, Percutaneous Approach, New Technology Group 11",XW143Y,2026,2027
+XW2,Transfusion,XW,2021,2021
+XW23,Peripheral Vein,XW2,2021,2021
+XW233,Percutaneous,XW23,2021,2021
+XW2334,Brexucabtagene Autoleucel Immunotherapy,XW233,2021,2021
+XW23346,"Transfusion of Brexucabtagene Autoleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW2334,2021,2021
+XW2337,Lisocabtagene Maraleucel Immunotherapy,XW233,2021,2021
+XW23376,"Transfusion of Lisocabtagene Maraleucel Immunotherapy into Peripheral Vein, Percutaneous Approach, New Technology Group 6",XW2337,2021,2021
+XW24,Central Vein,XW2,2021,2021
+XW243,Percutaneous,XW24,2021,2021
+XW2434,Brexucabtagene Autoleucel Immunotherapy,XW243,2021,2021
+XW24346,"Transfusion of Brexucabtagene Autoleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 6",XW2434,2021,2021
+XW2437,Lisocabtagene Maraleucel Immunotherapy,XW243,2021,2021
+XW24376,"Transfusion of Lisocabtagene Maraleucel Immunotherapy into Central Vein, Percutaneous Approach, New Technology Group 6",XW2437,2021,2021
+XWH,Insertion,XW,2022,2027
+XWHD,Mouth and Pharynx,XWH,2022,2027
+XWHD7,Via Natural or Artificial Opening,XWHD,2022,2027
+XWHD7Q,Neurostimulator Lead,XWHD7,2022,2027
+XWHD7Q7,"Insertion of Neurostimulator Lead into Mouth and Pharynx, Via Natural or Artificial Opening, New Technology Group 7",XWHD7Q,2022,2027

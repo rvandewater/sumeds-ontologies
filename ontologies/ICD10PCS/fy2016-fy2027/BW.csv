@@ -1,0 +1,340 @@
+code,description,parent,first_year,last_year
+BW,Anatomical Regions,B,2016,2027
+BW0,Plain Radiography,BW,2016,2027
+BW00,Abdomen,BW0,2016,2027
+BW00Z,None,BW00,2016,2027
+BW00ZZ,None,BW00Z,2016,2027
+BW00ZZZ,Plain Radiography of Abdomen,BW00ZZ,2016,2027
+BW01,Abdomen and Pelvis,BW0,2016,2027
+BW01Z,None,BW01,2016,2027
+BW01ZZ,None,BW01Z,2016,2027
+BW01ZZZ,Plain Radiography of Abdomen and Pelvis,BW01ZZ,2016,2027
+BW03,Chest,BW0,2016,2027
+BW03Z,None,BW03,2016,2027
+BW03ZZ,None,BW03Z,2016,2027
+BW03ZZZ,Plain Radiography of Chest,BW03ZZ,2016,2027
+BW0B,"Long Bones, All",BW0,2016,2027
+BW0BZ,None,BW0B,2016,2027
+BW0BZZ,None,BW0BZ,2016,2027
+BW0BZZZ,Plain Radiography of All Long Bones,BW0BZZ,2016,2027
+BW0C,Lower Extremity,BW0,2016,2027
+BW0CZ,None,BW0C,2016,2027
+BW0CZZ,None,BW0CZ,2016,2027
+BW0CZZZ,Plain Radiography of Lower Extremity,BW0CZZ,2016,2027
+BW0J,Upper Extremity,BW0,2016,2027
+BW0JZ,None,BW0J,2016,2027
+BW0JZZ,None,BW0JZ,2016,2027
+BW0JZZZ,Plain Radiography of Upper Extremity,BW0JZZ,2016,2027
+BW0K,Whole Body,BW0,2016,2027
+BW0KZ,None,BW0K,2016,2027
+BW0KZZ,None,BW0KZ,2016,2027
+BW0KZZZ,Plain Radiography of Whole Body,BW0KZZ,2016,2027
+BW0L,Whole Skeleton,BW0,2016,2027
+BW0LZ,None,BW0L,2016,2027
+BW0LZZ,None,BW0LZ,2016,2027
+BW0LZZZ,Plain Radiography of Whole Skeleton,BW0LZZ,2016,2027
+BW0M,"Whole Body, Infant",BW0,2016,2027
+BW0MZ,None,BW0M,2016,2027
+BW0MZZ,None,BW0MZ,2016,2027
+BW0MZZZ,Plain Radiography of Infant Whole Body,BW0MZZ,2016,2027
+BW1,Fluoroscopy,BW,2016,2027
+BW11,Abdomen and Pelvis,BW1,2016,2027
+BW110,High Osmolar,BW11,2016,2027
+BW110Z,None,BW110,2016,2027
+BW110ZZ,Fluoroscopy of Abdomen and Pelvis using High Osmolar Contrast,BW110Z,2016,2027
+BW111,Low Osmolar,BW11,2016,2027
+BW111Z,None,BW111,2016,2027
+BW111ZZ,Fluoroscopy of Abdomen and Pelvis using Low Osmolar Contrast,BW111Z,2016,2027
+BW11Y,Other Contrast,BW11,2016,2027
+BW11YZ,None,BW11Y,2016,2027
+BW11YZZ,Fluoroscopy of Abdomen and Pelvis using Other Contrast,BW11YZ,2016,2027
+BW11Z,None,BW11,2016,2027
+BW11ZZ,None,BW11Z,2016,2027
+BW11ZZZ,Fluoroscopy of Abdomen and Pelvis,BW11ZZ,2016,2027
+BW19,Head and Neck,BW1,2016,2027
+BW190,High Osmolar,BW19,2016,2027
+BW190Z,None,BW190,2016,2027
+BW190ZZ,Fluoroscopy of Head and Neck using High Osmolar Contrast,BW190Z,2016,2027
+BW191,Low Osmolar,BW19,2016,2027
+BW191Z,None,BW191,2016,2027
+BW191ZZ,Fluoroscopy of Head and Neck using Low Osmolar Contrast,BW191Z,2016,2027
+BW19Y,Other Contrast,BW19,2016,2027
+BW19YZ,None,BW19Y,2016,2027
+BW19YZZ,Fluoroscopy of Head and Neck using Other Contrast,BW19YZ,2016,2027
+BW19Z,None,BW19,2016,2027
+BW19ZZ,None,BW19Z,2016,2027
+BW19ZZZ,Fluoroscopy of Head and Neck,BW19ZZ,2016,2027
+BW1C,Lower Extremity,BW1,2016,2027
+BW1C0,High Osmolar,BW1C,2016,2027
+BW1C0Z,None,BW1C0,2016,2027
+BW1C0ZZ,Fluoroscopy of Lower Extremity using High Osmolar Contrast,BW1C0Z,2016,2027
+BW1C1,Low Osmolar,BW1C,2016,2027
+BW1C1Z,None,BW1C1,2016,2027
+BW1C1ZZ,Fluoroscopy of Lower Extremity using Low Osmolar Contrast,BW1C1Z,2016,2027
+BW1CY,Other Contrast,BW1C,2016,2027
+BW1CYZ,None,BW1CY,2016,2027
+BW1CYZZ,Fluoroscopy of Lower Extremity using Other Contrast,BW1CYZ,2016,2027
+BW1CZ,None,BW1C,2016,2027
+BW1CZZ,None,BW1CZ,2016,2027
+BW1CZZZ,Fluoroscopy of Lower Extremity,BW1CZZ,2016,2027
+BW1J,Upper Extremity,BW1,2016,2027
+BW1J0,High Osmolar,BW1J,2016,2027
+BW1J0Z,None,BW1J0,2016,2027
+BW1J0ZZ,Fluoroscopy of Upper Extremity using High Osmolar Contrast,BW1J0Z,2016,2027
+BW1J1,Low Osmolar,BW1J,2016,2027
+BW1J1Z,None,BW1J1,2016,2027
+BW1J1ZZ,Fluoroscopy of Upper Extremity using Low Osmolar Contrast,BW1J1Z,2016,2027
+BW1JY,Other Contrast,BW1J,2016,2027
+BW1JYZ,None,BW1JY,2016,2027
+BW1JYZZ,Fluoroscopy of Upper Extremity using Other Contrast,BW1JYZ,2016,2027
+BW1JZ,None,BW1J,2016,2027
+BW1JZZ,None,BW1JZ,2016,2027
+BW1JZZZ,Fluoroscopy of Upper Extremity,BW1JZZ,2016,2027
+BW2,Computerized Tomography (CT Scan),BW,2016,2027
+BW20,Abdomen,BW2,2016,2027
+BW200,High Osmolar,BW20,2016,2027
+BW2000,Unenhanced and Enhanced,BW200,2016,2027
+BW2000Z,"Computerized Tomography (CT Scan) of Abdomen using High Osmolar Contrast, Unenhanced and Enhanced",BW2000,2016,2027
+BW200Z,None,BW200,2016,2027
+BW200ZZ,Computerized Tomography (CT Scan) of Abdomen using High Osmolar Contrast,BW200Z,2016,2027
+BW201,Low Osmolar,BW20,2016,2027
+BW2010,Unenhanced and Enhanced,BW201,2016,2027
+BW2010Z,"Computerized Tomography (CT Scan) of Abdomen using Low Osmolar Contrast, Unenhanced and Enhanced",BW2010,2016,2027
+BW201Z,None,BW201,2016,2027
+BW201ZZ,Computerized Tomography (CT Scan) of Abdomen using Low Osmolar Contrast,BW201Z,2016,2027
+BW20Y,Other Contrast,BW20,2016,2027
+BW20Y0,Unenhanced and Enhanced,BW20Y,2016,2027
+BW20Y0Z,"Computerized Tomography (CT Scan) of Abdomen using Other Contrast, Unenhanced and Enhanced",BW20Y0,2016,2027
+BW20YZ,None,BW20Y,2016,2027
+BW20YZZ,Computerized Tomography (CT Scan) of Abdomen using Other Contrast,BW20YZ,2016,2027
+BW20Z,None,BW20,2016,2027
+BW20ZZ,None,BW20Z,2016,2027
+BW20ZZZ,Computerized Tomography (CT Scan) of Abdomen,BW20ZZ,2016,2027
+BW21,Abdomen and Pelvis,BW2,2016,2027
+BW210,High Osmolar,BW21,2016,2027
+BW2100,Unenhanced and Enhanced,BW210,2016,2027
+BW2100Z,"Computerized Tomography (CT Scan) of Abdomen and Pelvis using High Osmolar Contrast, Unenhanced and Enhanced",BW2100,2016,2027
+BW210Z,None,BW210,2016,2027
+BW210ZZ,Computerized Tomography (CT Scan) of Abdomen and Pelvis using High Osmolar Contrast,BW210Z,2016,2027
+BW211,Low Osmolar,BW21,2016,2027
+BW2110,Unenhanced and Enhanced,BW211,2016,2027
+BW2110Z,"Computerized Tomography (CT Scan) of Abdomen and Pelvis using Low Osmolar Contrast, Unenhanced and Enhanced",BW2110,2016,2027
+BW211Z,None,BW211,2016,2027
+BW211ZZ,Computerized Tomography (CT Scan) of Abdomen and Pelvis using Low Osmolar Contrast,BW211Z,2016,2027
+BW21Y,Other Contrast,BW21,2016,2027
+BW21Y0,Unenhanced and Enhanced,BW21Y,2016,2027
+BW21Y0Z,"Computerized Tomography (CT Scan) of Abdomen and Pelvis using Other Contrast, Unenhanced and Enhanced",BW21Y0,2016,2027
+BW21YZ,None,BW21Y,2016,2027
+BW21YZZ,Computerized Tomography (CT Scan) of Abdomen and Pelvis using Other Contrast,BW21YZ,2016,2027
+BW21Z,None,BW21,2016,2027
+BW21ZZ,None,BW21Z,2016,2027
+BW21ZZZ,Computerized Tomography (CT Scan) of Abdomen and Pelvis,BW21ZZ,2016,2027
+BW24,Chest and Abdomen,BW2,2016,2027
+BW240,High Osmolar,BW24,2016,2027
+BW2400,Unenhanced and Enhanced,BW240,2016,2027
+BW2400Z,"Computerized Tomography (CT Scan) of Chest and Abdomen using High Osmolar Contrast, Unenhanced and Enhanced",BW2400,2016,2027
+BW240Z,None,BW240,2016,2027
+BW240ZZ,Computerized Tomography (CT Scan) of Chest and Abdomen using High Osmolar Contrast,BW240Z,2016,2027
+BW241,Low Osmolar,BW24,2016,2027
+BW2410,Unenhanced and Enhanced,BW241,2016,2027
+BW2410Z,"Computerized Tomography (CT Scan) of Chest and Abdomen using Low Osmolar Contrast, Unenhanced and Enhanced",BW2410,2016,2027
+BW241Z,None,BW241,2016,2027
+BW241ZZ,Computerized Tomography (CT Scan) of Chest and Abdomen using Low Osmolar Contrast,BW241Z,2016,2027
+BW24Y,Other Contrast,BW24,2016,2027
+BW24Y0,Unenhanced and Enhanced,BW24Y,2016,2027
+BW24Y0Z,"Computerized Tomography (CT Scan) of Chest and Abdomen using Other Contrast, Unenhanced and Enhanced",BW24Y0,2016,2027
+BW24YZ,None,BW24Y,2016,2027
+BW24YZZ,Computerized Tomography (CT Scan) of Chest and Abdomen using Other Contrast,BW24YZ,2016,2027
+BW24Z,None,BW24,2016,2027
+BW24ZZ,None,BW24Z,2016,2027
+BW24ZZZ,Computerized Tomography (CT Scan) of Chest and Abdomen,BW24ZZ,2016,2027
+BW25,"Chest, Abdomen and Pelvis",BW2,2016,2027
+BW250,High Osmolar,BW25,2016,2027
+BW2500,Unenhanced and Enhanced,BW250,2016,2027
+BW2500Z,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis using High Osmolar Contrast, Unenhanced and Enhanced",BW2500,2016,2027
+BW250Z,None,BW250,2016,2027
+BW250ZZ,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis using High Osmolar Contrast",BW250Z,2016,2027
+BW251,Low Osmolar,BW25,2016,2027
+BW2510,Unenhanced and Enhanced,BW251,2016,2027
+BW2510Z,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis using Low Osmolar Contrast, Unenhanced and Enhanced",BW2510,2016,2027
+BW251Z,None,BW251,2016,2027
+BW251ZZ,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis using Low Osmolar Contrast",BW251Z,2016,2027
+BW25Y,Other Contrast,BW25,2016,2027
+BW25Y0,Unenhanced and Enhanced,BW25Y,2016,2027
+BW25Y0Z,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis using Other Contrast, Unenhanced and Enhanced",BW25Y0,2016,2027
+BW25YZ,None,BW25Y,2016,2027
+BW25YZZ,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis using Other Contrast",BW25YZ,2016,2027
+BW25Z,None,BW25,2016,2027
+BW25ZZ,None,BW25Z,2016,2027
+BW25ZZZ,"Computerized Tomography (CT Scan) of Chest, Abdomen and Pelvis",BW25ZZ,2016,2027
+BW28,Head,BW2,2016,2027
+BW280,High Osmolar,BW28,2016,2027
+BW2800,Unenhanced and Enhanced,BW280,2016,2027
+BW2800Z,"Computerized Tomography (CT Scan) of Head using High Osmolar Contrast, Unenhanced and Enhanced",BW2800,2016,2027
+BW280Z,None,BW280,2016,2027
+BW280ZZ,Computerized Tomography (CT Scan) of Head using High Osmolar Contrast,BW280Z,2016,2027
+BW281,Low Osmolar,BW28,2016,2027
+BW2810,Unenhanced and Enhanced,BW281,2016,2027
+BW2810Z,"Computerized Tomography (CT Scan) of Head using Low Osmolar Contrast, Unenhanced and Enhanced",BW2810,2016,2027
+BW281Z,None,BW281,2016,2027
+BW281ZZ,Computerized Tomography (CT Scan) of Head using Low Osmolar Contrast,BW281Z,2016,2027
+BW28Y,Other Contrast,BW28,2016,2027
+BW28Y0,Unenhanced and Enhanced,BW28Y,2016,2027
+BW28Y0Z,"Computerized Tomography (CT Scan) of Head using Other Contrast, Unenhanced and Enhanced",BW28Y0,2016,2027
+BW28YZ,None,BW28Y,2016,2027
+BW28YZZ,Computerized Tomography (CT Scan) of Head using Other Contrast,BW28YZ,2016,2027
+BW28Z,None,BW28,2016,2027
+BW28ZZ,None,BW28Z,2016,2027
+BW28ZZZ,Computerized Tomography (CT Scan) of Head,BW28ZZ,2016,2027
+BW29,Head and Neck,BW2,2016,2027
+BW290,High Osmolar,BW29,2016,2027
+BW2900,Unenhanced and Enhanced,BW290,2016,2027
+BW2900Z,"Computerized Tomography (CT Scan) of Head and Neck using High Osmolar Contrast, Unenhanced and Enhanced",BW2900,2016,2027
+BW290Z,None,BW290,2016,2027
+BW290ZZ,Computerized Tomography (CT Scan) of Head and Neck using High Osmolar Contrast,BW290Z,2016,2027
+BW291,Low Osmolar,BW29,2016,2027
+BW2910,Unenhanced and Enhanced,BW291,2016,2027
+BW2910Z,"Computerized Tomography (CT Scan) of Head and Neck using Low Osmolar Contrast, Unenhanced and Enhanced",BW2910,2016,2027
+BW291Z,None,BW291,2016,2027
+BW291ZZ,Computerized Tomography (CT Scan) of Head and Neck using Low Osmolar Contrast,BW291Z,2016,2027
+BW29Y,Other Contrast,BW29,2016,2027
+BW29Y0,Unenhanced and Enhanced,BW29Y,2016,2027
+BW29Y0Z,"Computerized Tomography (CT Scan) of Head and Neck using Other Contrast, Unenhanced and Enhanced",BW29Y0,2016,2027
+BW29YZ,None,BW29Y,2016,2027
+BW29YZZ,Computerized Tomography (CT Scan) of Head and Neck using Other Contrast,BW29YZ,2016,2027
+BW29Z,None,BW29,2016,2027
+BW29ZZ,None,BW29Z,2016,2027
+BW29ZZZ,Computerized Tomography (CT Scan) of Head and Neck,BW29ZZ,2016,2027
+BW2F,Neck,BW2,2016,2027
+BW2F0,High Osmolar,BW2F,2016,2027
+BW2F00,Unenhanced and Enhanced,BW2F0,2016,2027
+BW2F00Z,"Computerized Tomography (CT Scan) of Neck using High Osmolar Contrast, Unenhanced and Enhanced",BW2F00,2016,2027
+BW2F0Z,None,BW2F0,2016,2027
+BW2F0ZZ,Computerized Tomography (CT Scan) of Neck using High Osmolar Contrast,BW2F0Z,2016,2027
+BW2F1,Low Osmolar,BW2F,2016,2027
+BW2F10,Unenhanced and Enhanced,BW2F1,2016,2027
+BW2F10Z,"Computerized Tomography (CT Scan) of Neck using Low Osmolar Contrast, Unenhanced and Enhanced",BW2F10,2016,2027
+BW2F1Z,None,BW2F1,2016,2027
+BW2F1ZZ,Computerized Tomography (CT Scan) of Neck using Low Osmolar Contrast,BW2F1Z,2016,2027
+BW2FY,Other Contrast,BW2F,2016,2027
+BW2FY0,Unenhanced and Enhanced,BW2FY,2016,2027
+BW2FY0Z,"Computerized Tomography (CT Scan) of Neck using Other Contrast, Unenhanced and Enhanced",BW2FY0,2016,2027
+BW2FYZ,None,BW2FY,2016,2027
+BW2FYZZ,Computerized Tomography (CT Scan) of Neck using Other Contrast,BW2FYZ,2016,2027
+BW2FZ,None,BW2F,2016,2027
+BW2FZZ,None,BW2FZ,2016,2027
+BW2FZZZ,Computerized Tomography (CT Scan) of Neck,BW2FZZ,2016,2027
+BW2G,Pelvic Region,BW2,2016,2027
+BW2G0,High Osmolar,BW2G,2016,2027
+BW2G00,Unenhanced and Enhanced,BW2G0,2016,2027
+BW2G00Z,"Computerized Tomography (CT Scan) of Pelvic Region using High Osmolar Contrast, Unenhanced and Enhanced",BW2G00,2016,2027
+BW2G0Z,None,BW2G0,2016,2027
+BW2G0ZZ,Computerized Tomography (CT Scan) of Pelvic Region using High Osmolar Contrast,BW2G0Z,2016,2027
+BW2G1,Low Osmolar,BW2G,2016,2027
+BW2G10,Unenhanced and Enhanced,BW2G1,2016,2027
+BW2G10Z,"Computerized Tomography (CT Scan) of Pelvic Region using Low Osmolar Contrast, Unenhanced and Enhanced",BW2G10,2016,2027
+BW2G1Z,None,BW2G1,2016,2027
+BW2G1ZZ,Computerized Tomography (CT Scan) of Pelvic Region using Low Osmolar Contrast,BW2G1Z,2016,2027
+BW2GY,Other Contrast,BW2G,2016,2027
+BW2GY0,Unenhanced and Enhanced,BW2GY,2016,2027
+BW2GY0Z,"Computerized Tomography (CT Scan) of Pelvic Region using Other Contrast, Unenhanced and Enhanced",BW2GY0,2016,2027
+BW2GYZ,None,BW2GY,2016,2027
+BW2GYZZ,Computerized Tomography (CT Scan) of Pelvic Region using Other Contrast,BW2GYZ,2016,2027
+BW2GZ,None,BW2G,2016,2027
+BW2GZZ,None,BW2GZ,2016,2027
+BW2GZZZ,Computerized Tomography (CT Scan) of Pelvic Region,BW2GZZ,2016,2027
+BW3,Magnetic Resonance Imaging (MRI),BW,2016,2027
+BW30,Abdomen,BW3,2016,2027
+BW30Y,Other Contrast,BW30,2016,2027
+BW30Y0,Unenhanced and Enhanced,BW30Y,2016,2027
+BW30Y0Z,"Magnetic Resonance Imaging (MRI) of Abdomen using Other Contrast, Unenhanced and Enhanced",BW30Y0,2016,2027
+BW30YZ,None,BW30Y,2016,2027
+BW30YZZ,Magnetic Resonance Imaging (MRI) of Abdomen using Other Contrast,BW30YZ,2016,2027
+BW30Z,None,BW30,2016,2027
+BW30ZZ,None,BW30Z,2016,2027
+BW30ZZZ,Magnetic Resonance Imaging (MRI) of Abdomen,BW30ZZ,2016,2027
+BW33,Chest,BW3,2016,2027
+BW33Y,Other Contrast,BW33,2016,2027
+BW33Y0,Unenhanced and Enhanced,BW33Y,2016,2027
+BW33Y0Z,"Magnetic Resonance Imaging (MRI) of Chest using Other Contrast, Unenhanced and Enhanced",BW33Y0,2016,2027
+BW33YZ,None,BW33Y,2016,2027
+BW33YZZ,Magnetic Resonance Imaging (MRI) of Chest using Other Contrast,BW33YZ,2016,2027
+BW38,Head,BW3,2016,2027
+BW38Y,Other Contrast,BW38,2016,2027
+BW38Y0,Unenhanced and Enhanced,BW38Y,2016,2027
+BW38Y0Z,"Magnetic Resonance Imaging (MRI) of Head using Other Contrast, Unenhanced and Enhanced",BW38Y0,2016,2027
+BW38YZ,None,BW38Y,2016,2027
+BW38YZZ,Magnetic Resonance Imaging (MRI) of Head using Other Contrast,BW38YZ,2016,2027
+BW38Z,None,BW38,2016,2027
+BW38ZZ,None,BW38Z,2016,2027
+BW38ZZZ,Magnetic Resonance Imaging (MRI) of Head,BW38ZZ,2016,2027
+BW3F,Neck,BW3,2016,2027
+BW3FY,Other Contrast,BW3F,2016,2027
+BW3FY0,Unenhanced and Enhanced,BW3FY,2016,2027
+BW3FY0Z,"Magnetic Resonance Imaging (MRI) of Neck using Other Contrast, Unenhanced and Enhanced",BW3FY0,2016,2027
+BW3FYZ,None,BW3FY,2016,2027
+BW3FYZZ,Magnetic Resonance Imaging (MRI) of Neck using Other Contrast,BW3FYZ,2016,2027
+BW3FZ,None,BW3F,2016,2027
+BW3FZZ,None,BW3FZ,2016,2027
+BW3FZZZ,Magnetic Resonance Imaging (MRI) of Neck,BW3FZZ,2016,2027
+BW3G,Pelvic Region,BW3,2016,2027
+BW3GY,Other Contrast,BW3G,2016,2027
+BW3GY0,Unenhanced and Enhanced,BW3GY,2016,2027
+BW3GY0Z,"Magnetic Resonance Imaging (MRI) of Pelvic Region using Other Contrast, Unenhanced and Enhanced",BW3GY0,2016,2027
+BW3GYZ,None,BW3GY,2016,2027
+BW3GYZZ,Magnetic Resonance Imaging (MRI) of Pelvic Region using Other Contrast,BW3GYZ,2016,2027
+BW3GZ,None,BW3G,2016,2027
+BW3GZZ,None,BW3GZ,2016,2027
+BW3GZZZ,Magnetic Resonance Imaging (MRI) of Pelvic Region,BW3GZZ,2016,2027
+BW3H,Retroperitoneum,BW3,2016,2027
+BW3HY,Other Contrast,BW3H,2016,2027
+BW3HY0,Unenhanced and Enhanced,BW3HY,2016,2027
+BW3HY0Z,"Magnetic Resonance Imaging (MRI) of Retroperitoneum using Other Contrast, Unenhanced and Enhanced",BW3HY0,2016,2027
+BW3HYZ,None,BW3HY,2016,2027
+BW3HYZZ,Magnetic Resonance Imaging (MRI) of Retroperitoneum using Other Contrast,BW3HYZ,2016,2027
+BW3HZ,None,BW3H,2016,2027
+BW3HZZ,None,BW3HZ,2016,2027
+BW3HZZZ,Magnetic Resonance Imaging (MRI) of Retroperitoneum,BW3HZZ,2016,2027
+BW3P,Brachial Plexus,BW3,2016,2027
+BW3PY,Other Contrast,BW3P,2016,2027
+BW3PY0,Unenhanced and Enhanced,BW3PY,2016,2027
+BW3PY0Z,"Magnetic Resonance Imaging (MRI) of Brachial Plexus using Other Contrast, Unenhanced and Enhanced",BW3PY0,2016,2027
+BW3PYZ,None,BW3PY,2016,2027
+BW3PYZZ,Magnetic Resonance Imaging (MRI) of Brachial Plexus using Other Contrast,BW3PYZ,2016,2027
+BW3PZ,None,BW3P,2016,2027
+BW3PZZ,None,BW3PZ,2016,2027
+BW3PZZZ,Magnetic Resonance Imaging (MRI) of Brachial Plexus,BW3PZZ,2016,2027
+BW4,Ultrasonography,BW,2016,2027
+BW40,Abdomen,BW4,2016,2027
+BW40Z,None,BW40,2016,2027
+BW40ZZ,None,BW40Z,2016,2027
+BW40ZZZ,Ultrasonography of Abdomen,BW40ZZ,2016,2027
+BW41,Abdomen and Pelvis,BW4,2016,2027
+BW41Z,None,BW41,2016,2027
+BW41ZZ,None,BW41Z,2016,2027
+BW41ZZZ,Ultrasonography of Abdomen and Pelvis,BW41ZZ,2016,2027
+BW4F,Neck,BW4,2016,2027
+BW4FZ,None,BW4F,2016,2027
+BW4FZZ,None,BW4FZ,2016,2027
+BW4FZZZ,Ultrasonography of Neck,BW4FZZ,2016,2027
+BW4G,Pelvic Region,BW4,2016,2027
+BW4GZ,None,BW4G,2016,2027
+BW4GZZ,None,BW4GZ,2016,2027
+BW4GZZZ,Ultrasonography of Pelvic Region,BW4GZZ,2016,2027
+BW5,Other Imaging,BW,2021,2027
+BW52,Trunk,BW5,2021,2027
+BW52Z,None,BW52,2021,2027
+BW52Z1,Bacterial Autofluorescence,BW52Z,2021,2027
+BW52Z1Z,Other Imaging of Trunk using Bacterial Autofluorescence,BW52Z1,2021,2027
+BW59,Head and Neck,BW5,2021,2027
+BW59Z,None,BW59,2021,2027
+BW59Z1,Bacterial Autofluorescence,BW59Z,2021,2027
+BW59Z1Z,Other Imaging of Head and Neck using Bacterial Autofluorescence,BW59Z1,2021,2027
+BW5C,Lower Extremity,BW5,2021,2027
+BW5CZ,None,BW5C,2021,2027
+BW5CZ1,Bacterial Autofluorescence,BW5CZ,2021,2027
+BW5CZ1Z,Other Imaging of Lower Extremity using Bacterial Autofluorescence,BW5CZ1,2021,2027
+BW5J,Upper Extremity,BW5,2021,2027
+BW5JZ,None,BW5J,2021,2027
+BW5JZ1,Bacterial Autofluorescence,BW5JZ,2021,2027
+BW5JZ1Z,Other Imaging of Upper Extremity using Bacterial Autofluorescence,BW5JZ1,2021,2027

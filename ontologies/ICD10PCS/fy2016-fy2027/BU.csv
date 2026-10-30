@@ -1,0 +1,263 @@
+code,description,parent,first_year,last_year
+BU,Female Reproductive System,B,2016,2027
+BU0,Plain Radiography,BU,2016,2027
+BU00,"Fallopian Tube, Right",BU0,2016,2027
+BU000,High Osmolar,BU00,2016,2027
+BU000Z,None,BU000,2016,2027
+BU000ZZ,Plain Radiography of Right Fallopian Tube using High Osmolar Contrast,BU000Z,2016,2027
+BU001,Low Osmolar,BU00,2016,2027
+BU001Z,None,BU001,2016,2027
+BU001ZZ,Plain Radiography of Right Fallopian Tube using Low Osmolar Contrast,BU001Z,2016,2027
+BU00Y,Other Contrast,BU00,2016,2027
+BU00YZ,None,BU00Y,2016,2027
+BU00YZZ,Plain Radiography of Right Fallopian Tube using Other Contrast,BU00YZ,2016,2027
+BU01,"Fallopian Tube, Left",BU0,2016,2027
+BU010,High Osmolar,BU01,2016,2027
+BU010Z,None,BU010,2016,2027
+BU010ZZ,Plain Radiography of Left Fallopian Tube using High Osmolar Contrast,BU010Z,2016,2027
+BU011,Low Osmolar,BU01,2016,2027
+BU011Z,None,BU011,2016,2027
+BU011ZZ,Plain Radiography of Left Fallopian Tube using Low Osmolar Contrast,BU011Z,2016,2027
+BU01Y,Other Contrast,BU01,2016,2027
+BU01YZ,None,BU01Y,2016,2027
+BU01YZZ,Plain Radiography of Left Fallopian Tube using Other Contrast,BU01YZ,2016,2027
+BU02,"Fallopian Tubes, Bilateral",BU0,2016,2027
+BU020,High Osmolar,BU02,2016,2027
+BU020Z,None,BU020,2016,2027
+BU020ZZ,Plain Radiography of Bilateral Fallopian Tubes using High Osmolar Contrast,BU020Z,2016,2027
+BU021,Low Osmolar,BU02,2016,2027
+BU021Z,None,BU021,2016,2027
+BU021ZZ,Plain Radiography of Bilateral Fallopian Tubes using Low Osmolar Contrast,BU021Z,2016,2027
+BU02Y,Other Contrast,BU02,2016,2027
+BU02YZ,None,BU02Y,2016,2027
+BU02YZZ,Plain Radiography of Bilateral Fallopian Tubes using Other Contrast,BU02YZ,2016,2027
+BU06,Uterus,BU0,2016,2027
+BU060,High Osmolar,BU06,2016,2027
+BU060Z,None,BU060,2016,2027
+BU060ZZ,Plain Radiography of Uterus using High Osmolar Contrast,BU060Z,2016,2027
+BU061,Low Osmolar,BU06,2016,2027
+BU061Z,None,BU061,2016,2027
+BU061ZZ,Plain Radiography of Uterus using Low Osmolar Contrast,BU061Z,2016,2027
+BU06Y,Other Contrast,BU06,2016,2027
+BU06YZ,None,BU06Y,2016,2027
+BU06YZZ,Plain Radiography of Uterus using Other Contrast,BU06YZ,2016,2027
+BU08,Uterus and Fallopian Tubes,BU0,2016,2027
+BU080,High Osmolar,BU08,2016,2027
+BU080Z,None,BU080,2016,2027
+BU080ZZ,Plain Radiography of Uterus and Fallopian Tubes using High Osmolar Contrast,BU080Z,2016,2027
+BU081,Low Osmolar,BU08,2016,2027
+BU081Z,None,BU081,2016,2027
+BU081ZZ,Plain Radiography of Uterus and Fallopian Tubes using Low Osmolar Contrast,BU081Z,2016,2027
+BU08Y,Other Contrast,BU08,2016,2027
+BU08YZ,None,BU08Y,2016,2027
+BU08YZZ,Plain Radiography of Uterus and Fallopian Tubes using Other Contrast,BU08YZ,2016,2027
+BU09,Vagina,BU0,2016,2027
+BU090,High Osmolar,BU09,2016,2027
+BU090Z,None,BU090,2016,2027
+BU090ZZ,Plain Radiography of Vagina using High Osmolar Contrast,BU090Z,2016,2027
+BU091,Low Osmolar,BU09,2016,2027
+BU091Z,None,BU091,2016,2027
+BU091ZZ,Plain Radiography of Vagina using Low Osmolar Contrast,BU091Z,2016,2027
+BU09Y,Other Contrast,BU09,2016,2027
+BU09YZ,None,BU09Y,2016,2027
+BU09YZZ,Plain Radiography of Vagina using Other Contrast,BU09YZ,2016,2027
+BU1,Fluoroscopy,BU,2016,2027
+BU10,"Fallopian Tube, Right",BU1,2016,2027
+BU100,High Osmolar,BU10,2016,2027
+BU100Z,None,BU100,2016,2027
+BU100ZZ,Fluoroscopy of Right Fallopian Tube using High Osmolar Contrast,BU100Z,2016,2027
+BU101,Low Osmolar,BU10,2016,2027
+BU101Z,None,BU101,2016,2027
+BU101ZZ,Fluoroscopy of Right Fallopian Tube using Low Osmolar Contrast,BU101Z,2016,2027
+BU10Y,Other Contrast,BU10,2016,2027
+BU10YZ,None,BU10Y,2016,2027
+BU10YZZ,Fluoroscopy of Right Fallopian Tube using Other Contrast,BU10YZ,2016,2027
+BU10Z,None,BU10,2016,2027
+BU10ZZ,None,BU10Z,2016,2027
+BU10ZZZ,Fluoroscopy of Right Fallopian Tube,BU10ZZ,2016,2027
+BU11,"Fallopian Tube, Left",BU1,2016,2027
+BU110,High Osmolar,BU11,2016,2027
+BU110Z,None,BU110,2016,2027
+BU110ZZ,Fluoroscopy of Left Fallopian Tube using High Osmolar Contrast,BU110Z,2016,2027
+BU111,Low Osmolar,BU11,2016,2027
+BU111Z,None,BU111,2016,2027
+BU111ZZ,Fluoroscopy of Left Fallopian Tube using Low Osmolar Contrast,BU111Z,2016,2027
+BU11Y,Other Contrast,BU11,2016,2027
+BU11YZ,None,BU11Y,2016,2027
+BU11YZZ,Fluoroscopy of Left Fallopian Tube using Other Contrast,BU11YZ,2016,2027
+BU11Z,None,BU11,2016,2027
+BU11ZZ,None,BU11Z,2016,2027
+BU11ZZZ,Fluoroscopy of Left Fallopian Tube,BU11ZZ,2016,2027
+BU12,"Fallopian Tubes, Bilateral",BU1,2016,2027
+BU120,High Osmolar,BU12,2016,2027
+BU120Z,None,BU120,2016,2027
+BU120ZZ,Fluoroscopy of Bilateral Fallopian Tubes using High Osmolar Contrast,BU120Z,2016,2027
+BU121,Low Osmolar,BU12,2016,2027
+BU121Z,None,BU121,2016,2027
+BU121ZZ,Fluoroscopy of Bilateral Fallopian Tubes using Low Osmolar Contrast,BU121Z,2016,2027
+BU12Y,Other Contrast,BU12,2016,2027
+BU12YZ,None,BU12Y,2016,2027
+BU12YZZ,Fluoroscopy of Bilateral Fallopian Tubes using Other Contrast,BU12YZ,2016,2027
+BU12Z,None,BU12,2016,2027
+BU12ZZ,None,BU12Z,2016,2027
+BU12ZZZ,Fluoroscopy of Bilateral Fallopian Tubes,BU12ZZ,2016,2027
+BU16,Uterus,BU1,2016,2027
+BU160,High Osmolar,BU16,2016,2027
+BU160Z,None,BU160,2016,2027
+BU160ZZ,Fluoroscopy of Uterus using High Osmolar Contrast,BU160Z,2016,2027
+BU161,Low Osmolar,BU16,2016,2027
+BU161Z,None,BU161,2016,2027
+BU161ZZ,Fluoroscopy of Uterus using Low Osmolar Contrast,BU161Z,2016,2027
+BU16Y,Other Contrast,BU16,2016,2027
+BU16YZ,None,BU16Y,2016,2027
+BU16YZZ,Fluoroscopy of Uterus using Other Contrast,BU16YZ,2016,2027
+BU16Z,None,BU16,2016,2027
+BU16ZZ,None,BU16Z,2016,2027
+BU16ZZZ,Fluoroscopy of Uterus,BU16ZZ,2016,2027
+BU18,Uterus and Fallopian Tubes,BU1,2016,2027
+BU180,High Osmolar,BU18,2016,2027
+BU180Z,None,BU180,2016,2027
+BU180ZZ,Fluoroscopy of Uterus and Fallopian Tubes using High Osmolar Contrast,BU180Z,2016,2027
+BU181,Low Osmolar,BU18,2016,2027
+BU181Z,None,BU181,2016,2027
+BU181ZZ,Fluoroscopy of Uterus and Fallopian Tubes using Low Osmolar Contrast,BU181Z,2016,2027
+BU18Y,Other Contrast,BU18,2016,2027
+BU18YZ,None,BU18Y,2016,2027
+BU18YZZ,Fluoroscopy of Uterus and Fallopian Tubes using Other Contrast,BU18YZ,2016,2027
+BU18Z,None,BU18,2016,2027
+BU18ZZ,None,BU18Z,2016,2027
+BU18ZZZ,Fluoroscopy of Uterus and Fallopian Tubes,BU18ZZ,2016,2027
+BU19,Vagina,BU1,2016,2027
+BU190,High Osmolar,BU19,2016,2027
+BU190Z,None,BU190,2016,2027
+BU190ZZ,Fluoroscopy of Vagina using High Osmolar Contrast,BU190Z,2016,2027
+BU191,Low Osmolar,BU19,2016,2027
+BU191Z,None,BU191,2016,2027
+BU191ZZ,Fluoroscopy of Vagina using Low Osmolar Contrast,BU191Z,2016,2027
+BU19Y,Other Contrast,BU19,2016,2027
+BU19YZ,None,BU19Y,2016,2027
+BU19YZZ,Fluoroscopy of Vagina using Other Contrast,BU19YZ,2016,2027
+BU19Z,None,BU19,2016,2027
+BU19ZZ,None,BU19Z,2016,2027
+BU19ZZZ,Fluoroscopy of Vagina,BU19ZZ,2016,2027
+BU3,Magnetic Resonance Imaging (MRI),BU,2016,2027
+BU33,"Ovary, Right",BU3,2016,2027
+BU33Y,Other Contrast,BU33,2016,2027
+BU33Y0,Unenhanced and Enhanced,BU33Y,2016,2027
+BU33Y0Z,"Magnetic Resonance Imaging (MRI) of Right Ovary using Other Contrast, Unenhanced and Enhanced",BU33Y0,2016,2027
+BU33YZ,None,BU33Y,2016,2027
+BU33YZZ,Magnetic Resonance Imaging (MRI) of Right Ovary using Other Contrast,BU33YZ,2016,2027
+BU33Z,None,BU33,2016,2027
+BU33ZZ,None,BU33Z,2016,2027
+BU33ZZZ,Magnetic Resonance Imaging (MRI) of Right Ovary,BU33ZZ,2016,2027
+BU34,"Ovary, Left",BU3,2016,2027
+BU34Y,Other Contrast,BU34,2016,2027
+BU34Y0,Unenhanced and Enhanced,BU34Y,2016,2027
+BU34Y0Z,"Magnetic Resonance Imaging (MRI) of Left Ovary using Other Contrast, Unenhanced and Enhanced",BU34Y0,2016,2027
+BU34YZ,None,BU34Y,2016,2027
+BU34YZZ,Magnetic Resonance Imaging (MRI) of Left Ovary using Other Contrast,BU34YZ,2016,2027
+BU34Z,None,BU34,2016,2027
+BU34ZZ,None,BU34Z,2016,2027
+BU34ZZZ,Magnetic Resonance Imaging (MRI) of Left Ovary,BU34ZZ,2016,2027
+BU35,"Ovaries, Bilateral",BU3,2016,2027
+BU35Y,Other Contrast,BU35,2016,2027
+BU35Y0,Unenhanced and Enhanced,BU35Y,2016,2027
+BU35Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Ovaries using Other Contrast, Unenhanced and Enhanced",BU35Y0,2016,2027
+BU35YZ,None,BU35Y,2016,2027
+BU35YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Ovaries using Other Contrast,BU35YZ,2016,2027
+BU35Z,None,BU35,2016,2027
+BU35ZZ,None,BU35Z,2016,2027
+BU35ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Ovaries,BU35ZZ,2016,2027
+BU36,Uterus,BU3,2016,2027
+BU36Y,Other Contrast,BU36,2016,2027
+BU36Y0,Unenhanced and Enhanced,BU36Y,2016,2027
+BU36Y0Z,"Magnetic Resonance Imaging (MRI) of Uterus using Other Contrast, Unenhanced and Enhanced",BU36Y0,2016,2027
+BU36YZ,None,BU36Y,2016,2027
+BU36YZZ,Magnetic Resonance Imaging (MRI) of Uterus using Other Contrast,BU36YZ,2016,2027
+BU36Z,None,BU36,2016,2027
+BU36ZZ,None,BU36Z,2016,2027
+BU36ZZZ,Magnetic Resonance Imaging (MRI) of Uterus,BU36ZZ,2016,2027
+BU39,Vagina,BU3,2016,2027
+BU39Y,Other Contrast,BU39,2016,2027
+BU39Y0,Unenhanced and Enhanced,BU39Y,2016,2027
+BU39Y0Z,"Magnetic Resonance Imaging (MRI) of Vagina using Other Contrast, Unenhanced and Enhanced",BU39Y0,2016,2027
+BU39YZ,None,BU39Y,2016,2027
+BU39YZZ,Magnetic Resonance Imaging (MRI) of Vagina using Other Contrast,BU39YZ,2016,2027
+BU39Z,None,BU39,2016,2027
+BU39ZZ,None,BU39Z,2016,2027
+BU39ZZZ,Magnetic Resonance Imaging (MRI) of Vagina,BU39ZZ,2016,2027
+BU3B,Pregnant Uterus,BU3,2016,2027
+BU3BY,Other Contrast,BU3B,2016,2027
+BU3BY0,Unenhanced and Enhanced,BU3BY,2016,2027
+BU3BY0Z,"Magnetic Resonance Imaging (MRI) of Pregnant Uterus using Other Contrast, Unenhanced and Enhanced",BU3BY0,2016,2027
+BU3BYZ,None,BU3BY,2016,2027
+BU3BYZZ,Magnetic Resonance Imaging (MRI) of Pregnant Uterus using Other Contrast,BU3BYZ,2016,2027
+BU3BZ,None,BU3B,2016,2027
+BU3BZZ,None,BU3BZ,2016,2027
+BU3BZZZ,Magnetic Resonance Imaging (MRI) of Pregnant Uterus,BU3BZZ,2016,2027
+BU3C,Uterus and Ovaries,BU3,2016,2027
+BU3CY,Other Contrast,BU3C,2016,2027
+BU3CY0,Unenhanced and Enhanced,BU3CY,2016,2027
+BU3CY0Z,"Magnetic Resonance Imaging (MRI) of Uterus and Ovaries using Other Contrast, Unenhanced and Enhanced",BU3CY0,2016,2027
+BU3CYZ,None,BU3CY,2016,2027
+BU3CYZZ,Magnetic Resonance Imaging (MRI) of Uterus and Ovaries using Other Contrast,BU3CYZ,2016,2027
+BU3CZ,None,BU3C,2016,2027
+BU3CZZ,None,BU3CZ,2016,2027
+BU3CZZZ,Magnetic Resonance Imaging (MRI) of Uterus and Ovaries,BU3CZZ,2016,2027
+BU4,Ultrasonography,BU,2016,2027
+BU40,"Fallopian Tube, Right",BU4,2016,2027
+BU40Y,Other Contrast,BU40,2016,2027
+BU40YZ,None,BU40Y,2016,2027
+BU40YZZ,Ultrasonography of Right Fallopian Tube using Other Contrast,BU40YZ,2016,2027
+BU40Z,None,BU40,2016,2027
+BU40ZZ,None,BU40Z,2016,2027
+BU40ZZZ,Ultrasonography of Right Fallopian Tube,BU40ZZ,2016,2027
+BU41,"Fallopian Tube, Left",BU4,2016,2027
+BU41Y,Other Contrast,BU41,2016,2027
+BU41YZ,None,BU41Y,2016,2027
+BU41YZZ,Ultrasonography of Left Fallopian Tube using Other Contrast,BU41YZ,2016,2027
+BU41Z,None,BU41,2016,2027
+BU41ZZ,None,BU41Z,2016,2027
+BU41ZZZ,Ultrasonography of Left Fallopian Tube,BU41ZZ,2016,2027
+BU42,"Fallopian Tubes, Bilateral",BU4,2016,2027
+BU42Y,Other Contrast,BU42,2016,2027
+BU42YZ,None,BU42Y,2016,2027
+BU42YZZ,Ultrasonography of Bilateral Fallopian Tubes using Other Contrast,BU42YZ,2016,2027
+BU42Z,None,BU42,2016,2027
+BU42ZZ,None,BU42Z,2016,2027
+BU42ZZZ,Ultrasonography of Bilateral Fallopian Tubes,BU42ZZ,2016,2027
+BU43,"Ovary, Right",BU4,2016,2027
+BU43Y,Other Contrast,BU43,2016,2027
+BU43YZ,None,BU43Y,2016,2027
+BU43YZZ,Ultrasonography of Right Ovary using Other Contrast,BU43YZ,2016,2027
+BU43Z,None,BU43,2016,2027
+BU43ZZ,None,BU43Z,2016,2027
+BU43ZZZ,Ultrasonography of Right Ovary,BU43ZZ,2016,2027
+BU44,"Ovary, Left",BU4,2016,2027
+BU44Y,Other Contrast,BU44,2016,2027
+BU44YZ,None,BU44Y,2016,2027
+BU44YZZ,Ultrasonography of Left Ovary using Other Contrast,BU44YZ,2016,2027
+BU44Z,None,BU44,2016,2027
+BU44ZZ,None,BU44Z,2016,2027
+BU44ZZZ,Ultrasonography of Left Ovary,BU44ZZ,2016,2027
+BU45,"Ovaries, Bilateral",BU4,2016,2027
+BU45Y,Other Contrast,BU45,2016,2027
+BU45YZ,None,BU45Y,2016,2027
+BU45YZZ,Ultrasonography of Bilateral Ovaries using Other Contrast,BU45YZ,2016,2027
+BU45Z,None,BU45,2016,2027
+BU45ZZ,None,BU45Z,2016,2027
+BU45ZZZ,Ultrasonography of Bilateral Ovaries,BU45ZZ,2016,2027
+BU46,Uterus,BU4,2016,2027
+BU46Y,Other Contrast,BU46,2016,2027
+BU46YZ,None,BU46Y,2016,2027
+BU46YZZ,Ultrasonography of Uterus using Other Contrast,BU46YZ,2016,2027
+BU46Z,None,BU46,2016,2027
+BU46ZZ,None,BU46Z,2016,2027
+BU46ZZZ,Ultrasonography of Uterus,BU46ZZ,2016,2027
+BU4C,Uterus and Ovaries,BU4,2016,2027
+BU4CY,Other Contrast,BU4C,2016,2027
+BU4CYZ,None,BU4CY,2016,2027
+BU4CYZZ,Ultrasonography of Uterus and Ovaries using Other Contrast,BU4CYZ,2016,2027
+BU4CZ,None,BU4C,2016,2027
+BU4CZZ,None,BU4CZ,2016,2027
+BU4CZZZ,Ultrasonography of Uterus and Ovaries,BU4CZZ,2016,2027

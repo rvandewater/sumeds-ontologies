@@ -1,0 +1,512 @@
+code,description,parent,first_year,last_year
+BR,"Axial Skeleton, Except Skull and Facial Bones",B,2016,2027
+BR0,Plain Radiography,BR,2016,2027
+BR00,Cervical Spine,BR0,2016,2027
+BR00Z,None,BR00,2016,2027
+BR00ZZ,None,BR00Z,2016,2027
+BR00ZZ1,"Plain Radiography of Cervical Spine, Densitometry",BR00ZZ,2016,2027
+BR00ZZZ,Plain Radiography of Cervical Spine,BR00ZZ,2016,2027
+BR01,Cervical Disc(s),BR0,2016,2027
+BR010,High Osmolar,BR01,2016,2027
+BR010Z,None,BR010,2016,2027
+BR010ZZ,Plain Radiography of Cervical Disc(s) using High Osmolar Contrast,BR010Z,2016,2027
+BR011,Low Osmolar,BR01,2016,2027
+BR011Z,None,BR011,2016,2027
+BR011ZZ,Plain Radiography of Cervical Disc(s) using Low Osmolar Contrast,BR011Z,2016,2027
+BR01Y,Other Contrast,BR01,2016,2027
+BR01YZ,None,BR01Y,2016,2027
+BR01YZZ,Plain Radiography of Cervical Disc(s) using Other Contrast,BR01YZ,2016,2027
+BR01Z,None,BR01,2016,2027
+BR01ZZ,None,BR01Z,2016,2027
+BR01ZZZ,Plain Radiography of Cervical Disc(s),BR01ZZ,2016,2027
+BR02,Thoracic Disc(s),BR0,2016,2027
+BR020,High Osmolar,BR02,2016,2027
+BR020Z,None,BR020,2016,2027
+BR020ZZ,Plain Radiography of Thoracic Disc(s) using High Osmolar Contrast,BR020Z,2016,2027
+BR021,Low Osmolar,BR02,2016,2027
+BR021Z,None,BR021,2016,2027
+BR021ZZ,Plain Radiography of Thoracic Disc(s) using Low Osmolar Contrast,BR021Z,2016,2027
+BR02Y,Other Contrast,BR02,2016,2027
+BR02YZ,None,BR02Y,2016,2027
+BR02YZZ,Plain Radiography of Thoracic Disc(s) using Other Contrast,BR02YZ,2016,2027
+BR02Z,None,BR02,2016,2027
+BR02ZZ,None,BR02Z,2016,2027
+BR02ZZZ,Plain Radiography of Thoracic Disc(s),BR02ZZ,2016,2027
+BR03,Lumbar Disc(s),BR0,2016,2027
+BR030,High Osmolar,BR03,2016,2027
+BR030Z,None,BR030,2016,2027
+BR030ZZ,Plain Radiography of Lumbar Disc(s) using High Osmolar Contrast,BR030Z,2016,2027
+BR031,Low Osmolar,BR03,2016,2027
+BR031Z,None,BR031,2016,2027
+BR031ZZ,Plain Radiography of Lumbar Disc(s) using Low Osmolar Contrast,BR031Z,2016,2027
+BR03Y,Other Contrast,BR03,2016,2027
+BR03YZ,None,BR03Y,2016,2027
+BR03YZZ,Plain Radiography of Lumbar Disc(s) using Other Contrast,BR03YZ,2016,2027
+BR03Z,None,BR03,2016,2027
+BR03ZZ,None,BR03Z,2016,2027
+BR03ZZZ,Plain Radiography of Lumbar Disc(s),BR03ZZ,2016,2027
+BR04,Cervical Facet Joint(s),BR0,2016,2027
+BR040,High Osmolar,BR04,2016,2027
+BR040Z,None,BR040,2016,2027
+BR040ZZ,Plain Radiography of Cervical Facet Joint(s) using High Osmolar Contrast,BR040Z,2016,2027
+BR041,Low Osmolar,BR04,2016,2027
+BR041Z,None,BR041,2016,2027
+BR041ZZ,Plain Radiography of Cervical Facet Joint(s) using Low Osmolar Contrast,BR041Z,2016,2027
+BR04Y,Other Contrast,BR04,2016,2027
+BR04YZ,None,BR04Y,2016,2027
+BR04YZZ,Plain Radiography of Cervical Facet Joint(s) using Other Contrast,BR04YZ,2016,2027
+BR04Z,None,BR04,2016,2027
+BR04ZZ,None,BR04Z,2016,2027
+BR04ZZZ,Plain Radiography of Cervical Facet Joint(s),BR04ZZ,2016,2027
+BR05,Thoracic Facet Joint(s),BR0,2016,2027
+BR050,High Osmolar,BR05,2016,2027
+BR050Z,None,BR050,2016,2027
+BR050ZZ,Plain Radiography of Thoracic Facet Joint(s) using High Osmolar Contrast,BR050Z,2016,2027
+BR051,Low Osmolar,BR05,2016,2027
+BR051Z,None,BR051,2016,2027
+BR051ZZ,Plain Radiography of Thoracic Facet Joint(s) using Low Osmolar Contrast,BR051Z,2016,2027
+BR05Y,Other Contrast,BR05,2016,2027
+BR05YZ,None,BR05Y,2016,2027
+BR05YZZ,Plain Radiography of Thoracic Facet Joint(s) using Other Contrast,BR05YZ,2016,2027
+BR05Z,None,BR05,2016,2027
+BR05ZZ,None,BR05Z,2016,2027
+BR05ZZZ,Plain Radiography of Thoracic Facet Joint(s),BR05ZZ,2016,2027
+BR06,Lumbar Facet Joint(s),BR0,2016,2027
+BR060,High Osmolar,BR06,2016,2027
+BR060Z,None,BR060,2016,2027
+BR060ZZ,Plain Radiography of Lumbar Facet Joint(s) using High Osmolar Contrast,BR060Z,2016,2027
+BR061,Low Osmolar,BR06,2016,2027
+BR061Z,None,BR061,2016,2027
+BR061ZZ,Plain Radiography of Lumbar Facet Joint(s) using Low Osmolar Contrast,BR061Z,2016,2027
+BR06Y,Other Contrast,BR06,2016,2027
+BR06YZ,None,BR06Y,2016,2027
+BR06YZZ,Plain Radiography of Lumbar Facet Joint(s) using Other Contrast,BR06YZ,2016,2027
+BR06Z,None,BR06,2016,2027
+BR06ZZ,None,BR06Z,2016,2027
+BR06ZZZ,Plain Radiography of Lumbar Facet Joint(s),BR06ZZ,2016,2027
+BR07,Thoracic Spine,BR0,2016,2027
+BR07Z,None,BR07,2016,2027
+BR07ZZ,None,BR07Z,2016,2027
+BR07ZZ1,"Plain Radiography of Thoracic Spine, Densitometry",BR07ZZ,2016,2027
+BR07ZZZ,Plain Radiography of Thoracic Spine,BR07ZZ,2016,2027
+BR08,Thoracolumbar Joint,BR0,2016,2027
+BR08Z,None,BR08,2016,2027
+BR08ZZ,None,BR08Z,2016,2027
+BR08ZZZ,Plain Radiography of Thoracolumbar Joint,BR08ZZ,2016,2027
+BR09,Lumbar Spine,BR0,2016,2027
+BR09Z,None,BR09,2016,2027
+BR09ZZ,None,BR09Z,2016,2027
+BR09ZZ1,"Plain Radiography of Lumbar Spine, Densitometry",BR09ZZ,2016,2027
+BR09ZZZ,Plain Radiography of Lumbar Spine,BR09ZZ,2016,2027
+BR0B,Lumbosacral Joint,BR0,2016,2027
+BR0BZ,None,BR0B,2016,2027
+BR0BZZ,None,BR0BZ,2016,2027
+BR0BZZZ,Plain Radiography of Lumbosacral Joint,BR0BZZ,2016,2027
+BR0C,Pelvis,BR0,2016,2027
+BR0CZ,None,BR0C,2016,2027
+BR0CZZ,None,BR0CZ,2016,2027
+BR0CZZZ,Plain Radiography of Pelvis,BR0CZZ,2016,2027
+BR0D,Sacroiliac Joints,BR0,2016,2027
+BR0D0,High Osmolar,BR0D,2016,2027
+BR0D0Z,None,BR0D0,2016,2027
+BR0D0ZZ,Plain Radiography of Sacroiliac Joints using High Osmolar Contrast,BR0D0Z,2016,2027
+BR0D1,Low Osmolar,BR0D,2016,2027
+BR0D1Z,None,BR0D1,2016,2027
+BR0D1ZZ,Plain Radiography of Sacroiliac Joints using Low Osmolar Contrast,BR0D1Z,2016,2027
+BR0DY,Other Contrast,BR0D,2016,2027
+BR0DYZ,None,BR0DY,2016,2027
+BR0DYZZ,Plain Radiography of Sacroiliac Joints using Other Contrast,BR0DYZ,2016,2027
+BR0DZ,None,BR0D,2016,2027
+BR0DZZ,None,BR0DZ,2016,2027
+BR0DZZZ,Plain Radiography of Sacroiliac Joints,BR0DZZ,2016,2027
+BR0F,Sacrum and Coccyx,BR0,2016,2027
+BR0FZ,None,BR0F,2016,2027
+BR0FZZ,None,BR0FZ,2016,2027
+BR0FZZZ,Plain Radiography of Sacrum and Coccyx,BR0FZZ,2016,2027
+BR0G,Whole Spine,BR0,2016,2027
+BR0GZ,None,BR0G,2016,2027
+BR0GZZ,None,BR0GZ,2016,2027
+BR0GZZ1,"Plain Radiography of Whole Spine, Densitometry",BR0GZZ,2016,2027
+BR0GZZZ,Plain Radiography of Whole Spine,BR0GZZ,2016,2027
+BR0H,Sternum,BR0,2016,2027
+BR0HZ,None,BR0H,2016,2027
+BR0HZZ,None,BR0HZ,2016,2027
+BR0HZZZ,Plain Radiography of Sternum,BR0HZZ,2016,2027
+BR1,Fluoroscopy,BR,2016,2027
+BR10,Cervical Spine,BR1,2016,2027
+BR100,High Osmolar,BR10,2016,2027
+BR100Z,None,BR100,2016,2027
+BR100ZZ,Fluoroscopy of Cervical Spine using High Osmolar Contrast,BR100Z,2016,2027
+BR101,Low Osmolar,BR10,2016,2027
+BR101Z,None,BR101,2016,2027
+BR101ZZ,Fluoroscopy of Cervical Spine using Low Osmolar Contrast,BR101Z,2016,2027
+BR10Y,Other Contrast,BR10,2016,2027
+BR10YZ,None,BR10Y,2016,2027
+BR10YZZ,Fluoroscopy of Cervical Spine using Other Contrast,BR10YZ,2016,2027
+BR10Z,None,BR10,2016,2027
+BR10ZZ,None,BR10Z,2016,2027
+BR10ZZZ,Fluoroscopy of Cervical Spine,BR10ZZ,2016,2027
+BR11,Cervical Disc(s),BR1,2016,2027
+BR110,High Osmolar,BR11,2016,2027
+BR110Z,None,BR110,2016,2027
+BR110ZZ,Fluoroscopy of Cervical Disc(s) using High Osmolar Contrast,BR110Z,2016,2027
+BR111,Low Osmolar,BR11,2016,2027
+BR111Z,None,BR111,2016,2027
+BR111ZZ,Fluoroscopy of Cervical Disc(s) using Low Osmolar Contrast,BR111Z,2016,2027
+BR11Y,Other Contrast,BR11,2016,2027
+BR11YZ,None,BR11Y,2016,2027
+BR11YZZ,Fluoroscopy of Cervical Disc(s) using Other Contrast,BR11YZ,2016,2027
+BR11Z,None,BR11,2016,2027
+BR11ZZ,None,BR11Z,2016,2027
+BR11ZZZ,Fluoroscopy of Cervical Disc(s),BR11ZZ,2016,2027
+BR12,Thoracic Disc(s),BR1,2016,2027
+BR120,High Osmolar,BR12,2016,2027
+BR120Z,None,BR120,2016,2027
+BR120ZZ,Fluoroscopy of Thoracic Disc(s) using High Osmolar Contrast,BR120Z,2016,2027
+BR121,Low Osmolar,BR12,2016,2027
+BR121Z,None,BR121,2016,2027
+BR121ZZ,Fluoroscopy of Thoracic Disc(s) using Low Osmolar Contrast,BR121Z,2016,2027
+BR12Y,Other Contrast,BR12,2016,2027
+BR12YZ,None,BR12Y,2016,2027
+BR12YZZ,Fluoroscopy of Thoracic Disc(s) using Other Contrast,BR12YZ,2016,2027
+BR12Z,None,BR12,2016,2027
+BR12ZZ,None,BR12Z,2016,2027
+BR12ZZZ,Fluoroscopy of Thoracic Disc(s),BR12ZZ,2016,2027
+BR13,Lumbar Disc(s),BR1,2016,2027
+BR130,High Osmolar,BR13,2016,2027
+BR130Z,None,BR130,2016,2027
+BR130ZZ,Fluoroscopy of Lumbar Disc(s) using High Osmolar Contrast,BR130Z,2016,2027
+BR131,Low Osmolar,BR13,2016,2027
+BR131Z,None,BR131,2016,2027
+BR131ZZ,Fluoroscopy of Lumbar Disc(s) using Low Osmolar Contrast,BR131Z,2016,2027
+BR13Y,Other Contrast,BR13,2016,2027
+BR13YZ,None,BR13Y,2016,2027
+BR13YZZ,Fluoroscopy of Lumbar Disc(s) using Other Contrast,BR13YZ,2016,2027
+BR13Z,None,BR13,2016,2027
+BR13ZZ,None,BR13Z,2016,2027
+BR13ZZZ,Fluoroscopy of Lumbar Disc(s),BR13ZZ,2016,2027
+BR14,Cervical Facet Joint(s),BR1,2016,2027
+BR140,High Osmolar,BR14,2016,2027
+BR140Z,None,BR140,2016,2027
+BR140ZZ,Fluoroscopy of Cervical Facet Joint(s) using High Osmolar Contrast,BR140Z,2016,2027
+BR141,Low Osmolar,BR14,2016,2027
+BR141Z,None,BR141,2016,2027
+BR141ZZ,Fluoroscopy of Cervical Facet Joint(s) using Low Osmolar Contrast,BR141Z,2016,2027
+BR14Y,Other Contrast,BR14,2016,2027
+BR14YZ,None,BR14Y,2016,2027
+BR14YZZ,Fluoroscopy of Cervical Facet Joint(s) using Other Contrast,BR14YZ,2016,2027
+BR14Z,None,BR14,2016,2027
+BR14ZZ,None,BR14Z,2016,2027
+BR14ZZZ,Fluoroscopy of Cervical Facet Joint(s),BR14ZZ,2016,2027
+BR15,Thoracic Facet Joint(s),BR1,2016,2027
+BR150,High Osmolar,BR15,2016,2027
+BR150Z,None,BR150,2016,2027
+BR150ZZ,Fluoroscopy of Thoracic Facet Joint(s) using High Osmolar Contrast,BR150Z,2016,2027
+BR151,Low Osmolar,BR15,2016,2027
+BR151Z,None,BR151,2016,2027
+BR151ZZ,Fluoroscopy of Thoracic Facet Joint(s) using Low Osmolar Contrast,BR151Z,2016,2027
+BR15Y,Other Contrast,BR15,2016,2027
+BR15YZ,None,BR15Y,2016,2027
+BR15YZZ,Fluoroscopy of Thoracic Facet Joint(s) using Other Contrast,BR15YZ,2016,2027
+BR15Z,None,BR15,2016,2027
+BR15ZZ,None,BR15Z,2016,2027
+BR15ZZZ,Fluoroscopy of Thoracic Facet Joint(s),BR15ZZ,2016,2027
+BR16,Lumbar Facet Joint(s),BR1,2016,2027
+BR160,High Osmolar,BR16,2016,2027
+BR160Z,None,BR160,2016,2027
+BR160ZZ,Fluoroscopy of Lumbar Facet Joint(s) using High Osmolar Contrast,BR160Z,2016,2027
+BR161,Low Osmolar,BR16,2016,2027
+BR161Z,None,BR161,2016,2027
+BR161ZZ,Fluoroscopy of Lumbar Facet Joint(s) using Low Osmolar Contrast,BR161Z,2016,2027
+BR16Y,Other Contrast,BR16,2016,2027
+BR16YZ,None,BR16Y,2016,2027
+BR16YZZ,Fluoroscopy of Lumbar Facet Joint(s) using Other Contrast,BR16YZ,2016,2027
+BR16Z,None,BR16,2016,2027
+BR16ZZ,None,BR16Z,2016,2027
+BR16ZZZ,Fluoroscopy of Lumbar Facet Joint(s),BR16ZZ,2016,2027
+BR17,Thoracic Spine,BR1,2016,2027
+BR170,High Osmolar,BR17,2016,2027
+BR170Z,None,BR170,2016,2027
+BR170ZZ,Fluoroscopy of Thoracic Spine using High Osmolar Contrast,BR170Z,2016,2027
+BR171,Low Osmolar,BR17,2016,2027
+BR171Z,None,BR171,2016,2027
+BR171ZZ,Fluoroscopy of Thoracic Spine using Low Osmolar Contrast,BR171Z,2016,2027
+BR17Y,Other Contrast,BR17,2016,2027
+BR17YZ,None,BR17Y,2016,2027
+BR17YZZ,Fluoroscopy of Thoracic Spine using Other Contrast,BR17YZ,2016,2027
+BR17Z,None,BR17,2016,2027
+BR17ZZ,None,BR17Z,2016,2027
+BR17ZZZ,Fluoroscopy of Thoracic Spine,BR17ZZ,2016,2027
+BR18,Thoracolumbar Joint,BR1,2016,2027
+BR180,High Osmolar,BR18,2016,2027
+BR180Z,None,BR180,2016,2027
+BR180ZZ,Fluoroscopy of Thoracolumbar Joint using High Osmolar Contrast,BR180Z,2016,2027
+BR181,Low Osmolar,BR18,2016,2027
+BR181Z,None,BR181,2016,2027
+BR181ZZ,Fluoroscopy of Thoracolumbar Joint using Low Osmolar Contrast,BR181Z,2016,2027
+BR18Y,Other Contrast,BR18,2016,2027
+BR18YZ,None,BR18Y,2016,2027
+BR18YZZ,Fluoroscopy of Thoracolumbar Joint using Other Contrast,BR18YZ,2016,2027
+BR18Z,None,BR18,2016,2027
+BR18ZZ,None,BR18Z,2016,2027
+BR18ZZZ,Fluoroscopy of Thoracolumbar Joint,BR18ZZ,2016,2027
+BR19,Lumbar Spine,BR1,2016,2027
+BR190,High Osmolar,BR19,2016,2027
+BR190Z,None,BR190,2016,2027
+BR190ZZ,Fluoroscopy of Lumbar Spine using High Osmolar Contrast,BR190Z,2016,2027
+BR191,Low Osmolar,BR19,2016,2027
+BR191Z,None,BR191,2016,2027
+BR191ZZ,Fluoroscopy of Lumbar Spine using Low Osmolar Contrast,BR191Z,2016,2027
+BR19Y,Other Contrast,BR19,2016,2027
+BR19YZ,None,BR19Y,2016,2027
+BR19YZZ,Fluoroscopy of Lumbar Spine using Other Contrast,BR19YZ,2016,2027
+BR19Z,None,BR19,2016,2027
+BR19ZZ,None,BR19Z,2016,2027
+BR19ZZZ,Fluoroscopy of Lumbar Spine,BR19ZZ,2016,2027
+BR1B,Lumbosacral Joint,BR1,2016,2027
+BR1B0,High Osmolar,BR1B,2016,2027
+BR1B0Z,None,BR1B0,2016,2027
+BR1B0ZZ,Fluoroscopy of Lumbosacral Joint using High Osmolar Contrast,BR1B0Z,2016,2027
+BR1B1,Low Osmolar,BR1B,2016,2027
+BR1B1Z,None,BR1B1,2016,2027
+BR1B1ZZ,Fluoroscopy of Lumbosacral Joint using Low Osmolar Contrast,BR1B1Z,2016,2027
+BR1BY,Other Contrast,BR1B,2016,2027
+BR1BYZ,None,BR1BY,2016,2027
+BR1BYZZ,Fluoroscopy of Lumbosacral Joint using Other Contrast,BR1BYZ,2016,2027
+BR1BZ,None,BR1B,2016,2027
+BR1BZZ,None,BR1BZ,2016,2027
+BR1BZZZ,Fluoroscopy of Lumbosacral Joint,BR1BZZ,2016,2027
+BR1C,Pelvis,BR1,2016,2027
+BR1C0,High Osmolar,BR1C,2016,2027
+BR1C0Z,None,BR1C0,2016,2027
+BR1C0ZZ,Fluoroscopy of Pelvis using High Osmolar Contrast,BR1C0Z,2016,2027
+BR1C1,Low Osmolar,BR1C,2016,2027
+BR1C1Z,None,BR1C1,2016,2027
+BR1C1ZZ,Fluoroscopy of Pelvis using Low Osmolar Contrast,BR1C1Z,2016,2027
+BR1CY,Other Contrast,BR1C,2016,2027
+BR1CYZ,None,BR1CY,2016,2027
+BR1CYZZ,Fluoroscopy of Pelvis using Other Contrast,BR1CYZ,2016,2027
+BR1CZ,None,BR1C,2016,2027
+BR1CZZ,None,BR1CZ,2016,2027
+BR1CZZZ,Fluoroscopy of Pelvis,BR1CZZ,2016,2027
+BR1D,Sacroiliac Joints,BR1,2016,2027
+BR1D0,High Osmolar,BR1D,2016,2027
+BR1D0Z,None,BR1D0,2016,2027
+BR1D0ZZ,Fluoroscopy of Sacroiliac Joints using High Osmolar Contrast,BR1D0Z,2016,2027
+BR1D1,Low Osmolar,BR1D,2016,2027
+BR1D1Z,None,BR1D1,2016,2027
+BR1D1ZZ,Fluoroscopy of Sacroiliac Joints using Low Osmolar Contrast,BR1D1Z,2016,2027
+BR1DY,Other Contrast,BR1D,2016,2027
+BR1DYZ,None,BR1DY,2016,2027
+BR1DYZZ,Fluoroscopy of Sacroiliac Joints using Other Contrast,BR1DYZ,2016,2027
+BR1DZ,None,BR1D,2016,2027
+BR1DZZ,None,BR1DZ,2016,2027
+BR1DZZZ,Fluoroscopy of Sacroiliac Joints,BR1DZZ,2016,2027
+BR1F,Sacrum and Coccyx,BR1,2016,2027
+BR1F0,High Osmolar,BR1F,2016,2027
+BR1F0Z,None,BR1F0,2016,2027
+BR1F0ZZ,Fluoroscopy of Sacrum and Coccyx using High Osmolar Contrast,BR1F0Z,2016,2027
+BR1F1,Low Osmolar,BR1F,2016,2027
+BR1F1Z,None,BR1F1,2016,2027
+BR1F1ZZ,Fluoroscopy of Sacrum and Coccyx using Low Osmolar Contrast,BR1F1Z,2016,2027
+BR1FY,Other Contrast,BR1F,2016,2027
+BR1FYZ,None,BR1FY,2016,2027
+BR1FYZZ,Fluoroscopy of Sacrum and Coccyx using Other Contrast,BR1FYZ,2016,2027
+BR1FZ,None,BR1F,2016,2027
+BR1FZZ,None,BR1FZ,2016,2027
+BR1FZZZ,Fluoroscopy of Sacrum and Coccyx,BR1FZZ,2016,2027
+BR1G,Whole Spine,BR1,2016,2027
+BR1G0,High Osmolar,BR1G,2016,2027
+BR1G0Z,None,BR1G0,2016,2027
+BR1G0ZZ,Fluoroscopy of Whole Spine using High Osmolar Contrast,BR1G0Z,2016,2027
+BR1G1,Low Osmolar,BR1G,2016,2027
+BR1G1Z,None,BR1G1,2016,2027
+BR1G1ZZ,Fluoroscopy of Whole Spine using Low Osmolar Contrast,BR1G1Z,2016,2027
+BR1GY,Other Contrast,BR1G,2016,2027
+BR1GYZ,None,BR1GY,2016,2027
+BR1GYZZ,Fluoroscopy of Whole Spine using Other Contrast,BR1GYZ,2016,2027
+BR1GZ,None,BR1G,2016,2027
+BR1GZZ,None,BR1GZ,2016,2027
+BR1GZZZ,Fluoroscopy of Whole Spine,BR1GZZ,2016,2027
+BR1H,Sternum,BR1,2016,2027
+BR1H0,High Osmolar,BR1H,2016,2027
+BR1H0Z,None,BR1H0,2016,2027
+BR1H0ZZ,Fluoroscopy of Sternum using High Osmolar Contrast,BR1H0Z,2016,2027
+BR1H1,Low Osmolar,BR1H,2016,2027
+BR1H1Z,None,BR1H1,2016,2027
+BR1H1ZZ,Fluoroscopy of Sternum using Low Osmolar Contrast,BR1H1Z,2016,2027
+BR1HY,Other Contrast,BR1H,2016,2027
+BR1HYZ,None,BR1HY,2016,2027
+BR1HYZZ,Fluoroscopy of Sternum using Other Contrast,BR1HYZ,2016,2027
+BR1HZ,None,BR1H,2016,2027
+BR1HZZ,None,BR1HZ,2016,2027
+BR1HZZZ,Fluoroscopy of Sternum,BR1HZZ,2016,2027
+BR2,Computerized Tomography (CT Scan),BR,2016,2027
+BR20,Cervical Spine,BR2,2016,2027
+BR200,High Osmolar,BR20,2016,2027
+BR200Z,None,BR200,2016,2027
+BR200ZZ,Computerized Tomography (CT Scan) of Cervical Spine using High Osmolar Contrast,BR200Z,2016,2027
+BR201,Low Osmolar,BR20,2016,2027
+BR201Z,None,BR201,2016,2027
+BR201ZZ,Computerized Tomography (CT Scan) of Cervical Spine using Low Osmolar Contrast,BR201Z,2016,2027
+BR20Y,Other Contrast,BR20,2016,2027
+BR20YZ,None,BR20Y,2016,2027
+BR20YZZ,Computerized Tomography (CT Scan) of Cervical Spine using Other Contrast,BR20YZ,2016,2027
+BR20Z,None,BR20,2016,2027
+BR20ZZ,None,BR20Z,2016,2027
+BR20ZZZ,Computerized Tomography (CT Scan) of Cervical Spine,BR20ZZ,2016,2027
+BR27,Thoracic Spine,BR2,2016,2027
+BR270,High Osmolar,BR27,2016,2027
+BR270Z,None,BR270,2016,2027
+BR270ZZ,Computerized Tomography (CT Scan) of Thoracic Spine using High Osmolar Contrast,BR270Z,2016,2027
+BR271,Low Osmolar,BR27,2016,2027
+BR271Z,None,BR271,2016,2027
+BR271ZZ,Computerized Tomography (CT Scan) of Thoracic Spine using Low Osmolar Contrast,BR271Z,2016,2027
+BR27Y,Other Contrast,BR27,2016,2027
+BR27YZ,None,BR27Y,2016,2027
+BR27YZZ,Computerized Tomography (CT Scan) of Thoracic Spine using Other Contrast,BR27YZ,2016,2027
+BR27Z,None,BR27,2016,2027
+BR27ZZ,None,BR27Z,2016,2027
+BR27ZZZ,Computerized Tomography (CT Scan) of Thoracic Spine,BR27ZZ,2016,2027
+BR29,Lumbar Spine,BR2,2016,2027
+BR290,High Osmolar,BR29,2016,2027
+BR290Z,None,BR290,2016,2027
+BR290ZZ,Computerized Tomography (CT Scan) of Lumbar Spine using High Osmolar Contrast,BR290Z,2016,2027
+BR291,Low Osmolar,BR29,2016,2027
+BR291Z,None,BR291,2016,2027
+BR291ZZ,Computerized Tomography (CT Scan) of Lumbar Spine using Low Osmolar Contrast,BR291Z,2016,2027
+BR29Y,Other Contrast,BR29,2016,2027
+BR29YZ,None,BR29Y,2016,2027
+BR29YZZ,Computerized Tomography (CT Scan) of Lumbar Spine using Other Contrast,BR29YZ,2016,2027
+BR29Z,None,BR29,2016,2027
+BR29ZZ,None,BR29Z,2016,2027
+BR29ZZZ,Computerized Tomography (CT Scan) of Lumbar Spine,BR29ZZ,2016,2027
+BR2C,Pelvis,BR2,2016,2027
+BR2C0,High Osmolar,BR2C,2016,2027
+BR2C0Z,None,BR2C0,2016,2027
+BR2C0ZZ,Computerized Tomography (CT Scan) of Pelvis using High Osmolar Contrast,BR2C0Z,2016,2027
+BR2C1,Low Osmolar,BR2C,2016,2027
+BR2C1Z,None,BR2C1,2016,2027
+BR2C1ZZ,Computerized Tomography (CT Scan) of Pelvis using Low Osmolar Contrast,BR2C1Z,2016,2027
+BR2CY,Other Contrast,BR2C,2016,2027
+BR2CYZ,None,BR2CY,2016,2027
+BR2CYZZ,Computerized Tomography (CT Scan) of Pelvis using Other Contrast,BR2CYZ,2016,2027
+BR2CZ,None,BR2C,2016,2027
+BR2CZZ,None,BR2CZ,2016,2027
+BR2CZZZ,Computerized Tomography (CT Scan) of Pelvis,BR2CZZ,2016,2027
+BR2D,Sacroiliac Joints,BR2,2016,2027
+BR2D0,High Osmolar,BR2D,2016,2027
+BR2D0Z,None,BR2D0,2016,2027
+BR2D0ZZ,Computerized Tomography (CT Scan) of Sacroiliac Joints using High Osmolar Contrast,BR2D0Z,2016,2027
+BR2D1,Low Osmolar,BR2D,2016,2027
+BR2D1Z,None,BR2D1,2016,2027
+BR2D1ZZ,Computerized Tomography (CT Scan) of Sacroiliac Joints using Low Osmolar Contrast,BR2D1Z,2016,2027
+BR2DY,Other Contrast,BR2D,2016,2027
+BR2DYZ,None,BR2DY,2016,2027
+BR2DYZZ,Computerized Tomography (CT Scan) of Sacroiliac Joints using Other Contrast,BR2DYZ,2016,2027
+BR2DZ,None,BR2D,2016,2027
+BR2DZZ,None,BR2DZ,2016,2027
+BR2DZZZ,Computerized Tomography (CT Scan) of Sacroiliac Joints,BR2DZZ,2016,2027
+BR2F,Sacrum and Coccyx,BR2,2016,2027
+BR2F0,High Osmolar,BR2F,2016,2027
+BR2F0Z,None,BR2F0,2016,2027
+BR2F0ZZ,Computerized Tomography (CT Scan) of Sacrum and Coccyx using High Osmolar Contrast,BR2F0Z,2016,2027
+BR2F1,Low Osmolar,BR2F,2016,2027
+BR2F1Z,None,BR2F1,2016,2027
+BR2F1ZZ,Computerized Tomography (CT Scan) of Sacrum and Coccyx using Low Osmolar Contrast,BR2F1Z,2016,2027
+BR2FY,Other Contrast,BR2F,2016,2027
+BR2FYZ,None,BR2FY,2016,2027
+BR2FYZZ,Computerized Tomography (CT Scan) of Sacrum and Coccyx using Other Contrast,BR2FYZ,2016,2027
+BR2FZ,None,BR2F,2016,2027
+BR2FZZ,None,BR2FZ,2016,2027
+BR2FZZZ,Computerized Tomography (CT Scan) of Sacrum and Coccyx,BR2FZZ,2016,2027
+BR3,Magnetic Resonance Imaging (MRI),BR,2016,2027
+BR30,Cervical Spine,BR3,2016,2027
+BR30Y,Other Contrast,BR30,2016,2027
+BR30Y0,Unenhanced and Enhanced,BR30Y,2016,2027
+BR30Y0Z,"Magnetic Resonance Imaging (MRI) of Cervical Spine using Other Contrast, Unenhanced and Enhanced",BR30Y0,2016,2027
+BR30YZ,None,BR30Y,2016,2027
+BR30YZZ,Magnetic Resonance Imaging (MRI) of Cervical Spine using Other Contrast,BR30YZ,2016,2027
+BR30Z,None,BR30,2016,2027
+BR30ZZ,None,BR30Z,2016,2027
+BR30ZZZ,Magnetic Resonance Imaging (MRI) of Cervical Spine,BR30ZZ,2016,2027
+BR31,Cervical Disc(s),BR3,2016,2027
+BR31Y,Other Contrast,BR31,2016,2027
+BR31Y0,Unenhanced and Enhanced,BR31Y,2016,2027
+BR31Y0Z,"Magnetic Resonance Imaging (MRI) of Cervical Disc(s) using Other Contrast, Unenhanced and Enhanced",BR31Y0,2016,2027
+BR31YZ,None,BR31Y,2016,2027
+BR31YZZ,Magnetic Resonance Imaging (MRI) of Cervical Disc(s) using Other Contrast,BR31YZ,2016,2027
+BR31Z,None,BR31,2016,2027
+BR31ZZ,None,BR31Z,2016,2027
+BR31ZZZ,Magnetic Resonance Imaging (MRI) of Cervical Disc(s),BR31ZZ,2016,2027
+BR32,Thoracic Disc(s),BR3,2016,2027
+BR32Y,Other Contrast,BR32,2016,2027
+BR32Y0,Unenhanced and Enhanced,BR32Y,2016,2027
+BR32Y0Z,"Magnetic Resonance Imaging (MRI) of Thoracic Disc(s) using Other Contrast, Unenhanced and Enhanced",BR32Y0,2016,2027
+BR32YZ,None,BR32Y,2016,2027
+BR32YZZ,Magnetic Resonance Imaging (MRI) of Thoracic Disc(s) using Other Contrast,BR32YZ,2016,2027
+BR32Z,None,BR32,2016,2027
+BR32ZZ,None,BR32Z,2016,2027
+BR32ZZZ,Magnetic Resonance Imaging (MRI) of Thoracic Disc(s),BR32ZZ,2016,2027
+BR33,Lumbar Disc(s),BR3,2016,2027
+BR33Y,Other Contrast,BR33,2016,2027
+BR33Y0,Unenhanced and Enhanced,BR33Y,2016,2027
+BR33Y0Z,"Magnetic Resonance Imaging (MRI) of Lumbar Disc(s) using Other Contrast, Unenhanced and Enhanced",BR33Y0,2016,2027
+BR33YZ,None,BR33Y,2016,2027
+BR33YZZ,Magnetic Resonance Imaging (MRI) of Lumbar Disc(s) using Other Contrast,BR33YZ,2016,2027
+BR33Z,None,BR33,2016,2027
+BR33ZZ,None,BR33Z,2016,2027
+BR33ZZZ,Magnetic Resonance Imaging (MRI) of Lumbar Disc(s),BR33ZZ,2016,2027
+BR37,Thoracic Spine,BR3,2016,2027
+BR37Y,Other Contrast,BR37,2016,2027
+BR37Y0,Unenhanced and Enhanced,BR37Y,2016,2027
+BR37Y0Z,"Magnetic Resonance Imaging (MRI) of Thoracic Spine using Other Contrast, Unenhanced and Enhanced",BR37Y0,2016,2027
+BR37YZ,None,BR37Y,2016,2027
+BR37YZZ,Magnetic Resonance Imaging (MRI) of Thoracic Spine using Other Contrast,BR37YZ,2016,2027
+BR37Z,None,BR37,2016,2027
+BR37ZZ,None,BR37Z,2016,2027
+BR37ZZZ,Magnetic Resonance Imaging (MRI) of Thoracic Spine,BR37ZZ,2016,2027
+BR39,Lumbar Spine,BR3,2016,2027
+BR39Y,Other Contrast,BR39,2016,2027
+BR39Y0,Unenhanced and Enhanced,BR39Y,2016,2027
+BR39Y0Z,"Magnetic Resonance Imaging (MRI) of Lumbar Spine using Other Contrast, Unenhanced and Enhanced",BR39Y0,2016,2027
+BR39YZ,None,BR39Y,2016,2027
+BR39YZZ,Magnetic Resonance Imaging (MRI) of Lumbar Spine using Other Contrast,BR39YZ,2016,2027
+BR39Z,None,BR39,2016,2027
+BR39ZZ,None,BR39Z,2016,2027
+BR39ZZZ,Magnetic Resonance Imaging (MRI) of Lumbar Spine,BR39ZZ,2016,2027
+BR3C,Pelvis,BR3,2016,2027
+BR3CY,Other Contrast,BR3C,2016,2027
+BR3CY0,Unenhanced and Enhanced,BR3CY,2016,2027
+BR3CY0Z,"Magnetic Resonance Imaging (MRI) of Pelvis using Other Contrast, Unenhanced and Enhanced",BR3CY0,2016,2027
+BR3CYZ,None,BR3CY,2016,2027
+BR3CYZZ,Magnetic Resonance Imaging (MRI) of Pelvis using Other Contrast,BR3CYZ,2016,2027
+BR3CZ,None,BR3C,2016,2027
+BR3CZZ,None,BR3CZ,2016,2027
+BR3CZZZ,Magnetic Resonance Imaging (MRI) of Pelvis,BR3CZZ,2016,2027
+BR3F,Sacrum and Coccyx,BR3,2016,2027
+BR3FY,Other Contrast,BR3F,2016,2027
+BR3FY0,Unenhanced and Enhanced,BR3FY,2016,2027
+BR3FY0Z,"Magnetic Resonance Imaging (MRI) of Sacrum and Coccyx using Other Contrast, Unenhanced and Enhanced",BR3FY0,2016,2027
+BR3FYZ,None,BR3FY,2016,2027
+BR3FYZZ,Magnetic Resonance Imaging (MRI) of Sacrum and Coccyx using Other Contrast,BR3FYZ,2016,2027
+BR3FZ,None,BR3F,2016,2027
+BR3FZZ,None,BR3FZ,2016,2027
+BR3FZZZ,Magnetic Resonance Imaging (MRI) of Sacrum and Coccyx,BR3FZZ,2016,2027
+BR4,Ultrasonography,BR,2016,2027
+BR40,Cervical Spine,BR4,2016,2027
+BR40Z,None,BR40,2016,2027
+BR40ZZ,None,BR40Z,2016,2027
+BR40ZZZ,Ultrasonography of Cervical Spine,BR40ZZ,2016,2027
+BR47,Thoracic Spine,BR4,2016,2027
+BR47Z,None,BR47,2016,2027
+BR47ZZ,None,BR47Z,2016,2027
+BR47ZZZ,Ultrasonography of Thoracic Spine,BR47ZZ,2016,2027
+BR49,Lumbar Spine,BR4,2016,2027
+BR49Z,None,BR49,2016,2027
+BR49ZZ,None,BR49Z,2016,2027
+BR49ZZZ,Ultrasonography of Lumbar Spine,BR49ZZ,2016,2027
+BR4F,Sacrum and Coccyx,BR4,2016,2027
+BR4FZ,None,BR4F,2016,2027
+BR4FZZ,None,BR4FZ,2016,2027
+BR4FZZZ,Ultrasonography of Sacrum and Coccyx,BR4FZZ,2016,2027

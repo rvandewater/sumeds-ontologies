@@ -1,0 +1,3105 @@
+code,description,parent,first_year,last_year
+0H,Skin and Breast,0,2016,2027
+0H0,Alteration,0H,2016,2027
+0H0T,"Breast, Right",0H0,2016,2027
+0H0T0,Open,0H0T,2016,2027
+0H0T07,Autologous Tissue Substitute,0H0T0,2016,2027
+0H0T07Z,"Alteration of Right Breast with Autologous Tissue Substitute, Open Approach",0H0T07,2016,2027
+0H0T0J,Synthetic Substitute,0H0T0,2016,2027
+0H0T0JZ,"Alteration of Right Breast with Synthetic Substitute, Open Approach",0H0T0J,2016,2027
+0H0T0K,Nonautologous Tissue Substitute,0H0T0,2016,2027
+0H0T0KZ,"Alteration of Right Breast with Nonautologous Tissue Substitute, Open Approach",0H0T0K,2016,2027
+0H0T0Z,No Device,0H0T0,2016,2027
+0H0T0ZZ,"Alteration of Right Breast, Open Approach",0H0T0Z,2016,2027
+0H0T3,Percutaneous,0H0T,2016,2027
+0H0T37,Autologous Tissue Substitute,0H0T3,2016,2027
+0H0T37Z,"Alteration of Right Breast with Autologous Tissue Substitute, Percutaneous Approach",0H0T37,2016,2027
+0H0T3J,Synthetic Substitute,0H0T3,2016,2027
+0H0T3JZ,"Alteration of Right Breast with Synthetic Substitute, Percutaneous Approach",0H0T3J,2016,2027
+0H0T3K,Nonautologous Tissue Substitute,0H0T3,2016,2027
+0H0T3KZ,"Alteration of Right Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0H0T3K,2016,2027
+0H0T3Z,No Device,0H0T3,2016,2027
+0H0T3ZZ,"Alteration of Right Breast, Percutaneous Approach",0H0T3Z,2016,2027
+0H0TX,External,0H0T,2016,2019
+0H0TX7,Autologous Tissue Substitute,0H0TX,2016,2019
+0H0TX7Z,"Alteration of Right Breast with Autologous Tissue Substitute, External Approach",0H0TX7,2016,2019
+0H0TXJ,Synthetic Substitute,0H0TX,2016,2019
+0H0TXJZ,"Alteration of Right Breast with Synthetic Substitute, External Approach",0H0TXJ,2016,2019
+0H0TXK,Nonautologous Tissue Substitute,0H0TX,2016,2019
+0H0TXKZ,"Alteration of Right Breast with Nonautologous Tissue Substitute, External Approach",0H0TXK,2016,2019
+0H0TXZ,No Device,0H0TX,2016,2019
+0H0TXZZ,"Alteration of Right Breast, External Approach",0H0TXZ,2016,2019
+0H0U,"Breast, Left",0H0,2016,2027
+0H0U0,Open,0H0U,2016,2027
+0H0U07,Autologous Tissue Substitute,0H0U0,2016,2027
+0H0U07Z,"Alteration of Left Breast with Autologous Tissue Substitute, Open Approach",0H0U07,2016,2027
+0H0U0J,Synthetic Substitute,0H0U0,2016,2027
+0H0U0JZ,"Alteration of Left Breast with Synthetic Substitute, Open Approach",0H0U0J,2016,2027
+0H0U0K,Nonautologous Tissue Substitute,0H0U0,2016,2027
+0H0U0KZ,"Alteration of Left Breast with Nonautologous Tissue Substitute, Open Approach",0H0U0K,2016,2027
+0H0U0Z,No Device,0H0U0,2016,2027
+0H0U0ZZ,"Alteration of Left Breast, Open Approach",0H0U0Z,2016,2027
+0H0U3,Percutaneous,0H0U,2016,2027
+0H0U37,Autologous Tissue Substitute,0H0U3,2016,2027
+0H0U37Z,"Alteration of Left Breast with Autologous Tissue Substitute, Percutaneous Approach",0H0U37,2016,2027
+0H0U3J,Synthetic Substitute,0H0U3,2016,2027
+0H0U3JZ,"Alteration of Left Breast with Synthetic Substitute, Percutaneous Approach",0H0U3J,2016,2027
+0H0U3K,Nonautologous Tissue Substitute,0H0U3,2016,2027
+0H0U3KZ,"Alteration of Left Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0H0U3K,2016,2027
+0H0U3Z,No Device,0H0U3,2016,2027
+0H0U3ZZ,"Alteration of Left Breast, Percutaneous Approach",0H0U3Z,2016,2027
+0H0UX,External,0H0U,2016,2019
+0H0UX7,Autologous Tissue Substitute,0H0UX,2016,2019
+0H0UX7Z,"Alteration of Left Breast with Autologous Tissue Substitute, External Approach",0H0UX7,2016,2019
+0H0UXJ,Synthetic Substitute,0H0UX,2016,2019
+0H0UXJZ,"Alteration of Left Breast with Synthetic Substitute, External Approach",0H0UXJ,2016,2019
+0H0UXK,Nonautologous Tissue Substitute,0H0UX,2016,2019
+0H0UXKZ,"Alteration of Left Breast with Nonautologous Tissue Substitute, External Approach",0H0UXK,2016,2019
+0H0UXZ,No Device,0H0UX,2016,2019
+0H0UXZZ,"Alteration of Left Breast, External Approach",0H0UXZ,2016,2019
+0H0V,"Breast, Bilateral",0H0,2016,2027
+0H0V0,Open,0H0V,2016,2027
+0H0V07,Autologous Tissue Substitute,0H0V0,2016,2027
+0H0V07Z,"Alteration of Bilateral Breast with Autologous Tissue Substitute, Open Approach",0H0V07,2016,2027
+0H0V0J,Synthetic Substitute,0H0V0,2016,2027
+0H0V0JZ,"Alteration of Bilateral Breast with Synthetic Substitute, Open Approach",0H0V0J,2016,2027
+0H0V0K,Nonautologous Tissue Substitute,0H0V0,2016,2027
+0H0V0KZ,"Alteration of Bilateral Breast with Nonautologous Tissue Substitute, Open Approach",0H0V0K,2016,2027
+0H0V0Z,No Device,0H0V0,2016,2027
+0H0V0ZZ,"Alteration of Bilateral Breast, Open Approach",0H0V0Z,2016,2027
+0H0V3,Percutaneous,0H0V,2016,2027
+0H0V37,Autologous Tissue Substitute,0H0V3,2016,2027
+0H0V37Z,"Alteration of Bilateral Breast with Autologous Tissue Substitute, Percutaneous Approach",0H0V37,2016,2027
+0H0V3J,Synthetic Substitute,0H0V3,2016,2027
+0H0V3JZ,"Alteration of Bilateral Breast with Synthetic Substitute, Percutaneous Approach",0H0V3J,2016,2027
+0H0V3K,Nonautologous Tissue Substitute,0H0V3,2016,2027
+0H0V3KZ,"Alteration of Bilateral Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0H0V3K,2016,2027
+0H0V3Z,No Device,0H0V3,2016,2027
+0H0V3ZZ,"Alteration of Bilateral Breast, Percutaneous Approach",0H0V3Z,2016,2027
+0H0VX,External,0H0V,2016,2019
+0H0VX7,Autologous Tissue Substitute,0H0VX,2016,2019
+0H0VX7Z,"Alteration of Bilateral Breast with Autologous Tissue Substitute, External Approach",0H0VX7,2016,2019
+0H0VXJ,Synthetic Substitute,0H0VX,2016,2019
+0H0VXJZ,"Alteration of Bilateral Breast with Synthetic Substitute, External Approach",0H0VXJ,2016,2019
+0H0VXK,Nonautologous Tissue Substitute,0H0VX,2016,2019
+0H0VXKZ,"Alteration of Bilateral Breast with Nonautologous Tissue Substitute, External Approach",0H0VXK,2016,2019
+0H0VXZ,No Device,0H0VX,2016,2019
+0H0VXZZ,"Alteration of Bilateral Breast, External Approach",0H0VXZ,2016,2019
+0H2,Change,0H,2016,2027
+0H2P,Skin,0H2,2016,2027
+0H2PX,External,0H2P,2016,2027
+0H2PX0,Drainage Device,0H2PX,2016,2027
+0H2PX0Z,"Change Drainage Device in Skin, External Approach",0H2PX0,2016,2027
+0H2PXY,Other Device,0H2PX,2016,2027
+0H2PXYZ,"Change Other Device in Skin, External Approach",0H2PXY,2016,2027
+0H2T,"Breast, Right",0H2,2016,2027
+0H2TX,External,0H2T,2016,2027
+0H2TX0,Drainage Device,0H2TX,2016,2027
+0H2TX0Z,"Change Drainage Device in Right Breast, External Approach",0H2TX0,2016,2027
+0H2TXY,Other Device,0H2TX,2016,2027
+0H2TXYZ,"Change Other Device in Right Breast, External Approach",0H2TXY,2016,2027
+0H2U,"Breast, Left",0H2,2016,2027
+0H2UX,External,0H2U,2016,2027
+0H2UX0,Drainage Device,0H2UX,2016,2027
+0H2UX0Z,"Change Drainage Device in Left Breast, External Approach",0H2UX0,2016,2027
+0H2UXY,Other Device,0H2UX,2016,2027
+0H2UXYZ,"Change Other Device in Left Breast, External Approach",0H2UXY,2016,2027
+0H5,Destruction,0H,2016,2027
+0H50,"Skin, Scalp",0H5,2016,2027
+0H50X,External,0H50,2016,2027
+0H50XZ,No Device,0H50X,2016,2027
+0H50XZD,"Destruction of Scalp Skin, Multiple, External Approach",0H50XZ,2016,2027
+0H50XZZ,"Destruction of Scalp Skin, External Approach",0H50XZ,2016,2027
+0H51,"Skin, Face",0H5,2016,2027
+0H51X,External,0H51,2016,2027
+0H51XZ,No Device,0H51X,2016,2027
+0H51XZD,"Destruction of Face Skin, Multiple, External Approach",0H51XZ,2016,2027
+0H51XZZ,"Destruction of Face Skin, External Approach",0H51XZ,2016,2027
+0H52,"Skin, Right Ear",0H5,2016,2027
+0H52X,External,0H52,2016,2027
+0H52XZ,No Device,0H52X,2016,2027
+0H52XZD,"Destruction of Right Ear Skin, Multiple, External Approach",0H52XZ,2016,2027
+0H52XZZ,"Destruction of Right Ear Skin, External Approach",0H52XZ,2016,2027
+0H53,"Skin, Left Ear",0H5,2016,2027
+0H53X,External,0H53,2016,2027
+0H53XZ,No Device,0H53X,2016,2027
+0H53XZD,"Destruction of Left Ear Skin, Multiple, External Approach",0H53XZ,2016,2027
+0H53XZZ,"Destruction of Left Ear Skin, External Approach",0H53XZ,2016,2027
+0H54,"Skin, Neck",0H5,2016,2027
+0H54X,External,0H54,2016,2027
+0H54XZ,No Device,0H54X,2016,2027
+0H54XZD,"Destruction of Neck Skin, Multiple, External Approach",0H54XZ,2016,2027
+0H54XZZ,"Destruction of Neck Skin, External Approach",0H54XZ,2016,2027
+0H55,"Skin, Chest",0H5,2016,2027
+0H55X,External,0H55,2016,2027
+0H55XZ,No Device,0H55X,2016,2027
+0H55XZD,"Destruction of Chest Skin, Multiple, External Approach",0H55XZ,2016,2027
+0H55XZZ,"Destruction of Chest Skin, External Approach",0H55XZ,2016,2027
+0H56,"Skin, Back",0H5,2016,2027
+0H56X,External,0H56,2016,2027
+0H56XZ,No Device,0H56X,2016,2027
+0H56XZD,"Destruction of Back Skin, Multiple, External Approach",0H56XZ,2016,2027
+0H56XZZ,"Destruction of Back Skin, External Approach",0H56XZ,2016,2027
+0H57,"Skin, Abdomen",0H5,2016,2027
+0H57X,External,0H57,2016,2027
+0H57XZ,No Device,0H57X,2016,2027
+0H57XZD,"Destruction of Abdomen Skin, Multiple, External Approach",0H57XZ,2016,2027
+0H57XZZ,"Destruction of Abdomen Skin, External Approach",0H57XZ,2016,2027
+0H58,"Skin, Buttock",0H5,2016,2027
+0H58X,External,0H58,2016,2027
+0H58XZ,No Device,0H58X,2016,2027
+0H58XZD,"Destruction of Buttock Skin, Multiple, External Approach",0H58XZ,2016,2027
+0H58XZZ,"Destruction of Buttock Skin, External Approach",0H58XZ,2016,2027
+0H59,"Skin, Perineum",0H5,2016,2027
+0H59X,External,0H59,2016,2027
+0H59XZ,No Device,0H59X,2016,2027
+0H59XZD,"Destruction of Perineum Skin, Multiple, External Approach",0H59XZ,2016,2027
+0H59XZZ,"Destruction of Perineum Skin, External Approach",0H59XZ,2016,2027
+0H5A,"Skin, Inguinal",0H5,2016,2027
+0H5AX,External,0H5A,2016,2027
+0H5AXZ,No Device,0H5AX,2016,2027
+0H5AXZD,"Destruction of Inguinal Skin, Multiple, External Approach",0H5AXZ,2016,2027
+0H5AXZZ,"Destruction of Inguinal Skin, External Approach",0H5AXZ,2016,2027
+0H5B,"Skin, Right Upper Arm",0H5,2016,2027
+0H5BX,External,0H5B,2016,2027
+0H5BXZ,No Device,0H5BX,2016,2027
+0H5BXZD,"Destruction of Right Upper Arm Skin, Multiple, External Approach",0H5BXZ,2016,2027
+0H5BXZZ,"Destruction of Right Upper Arm Skin, External Approach",0H5BXZ,2016,2027
+0H5C,"Skin, Left Upper Arm",0H5,2016,2027
+0H5CX,External,0H5C,2016,2027
+0H5CXZ,No Device,0H5CX,2016,2027
+0H5CXZD,"Destruction of Left Upper Arm Skin, Multiple, External Approach",0H5CXZ,2016,2027
+0H5CXZZ,"Destruction of Left Upper Arm Skin, External Approach",0H5CXZ,2016,2027
+0H5D,"Skin, Right Lower Arm",0H5,2016,2027
+0H5DX,External,0H5D,2016,2027
+0H5DXZ,No Device,0H5DX,2016,2027
+0H5DXZD,"Destruction of Right Lower Arm Skin, Multiple, External Approach",0H5DXZ,2016,2027
+0H5DXZZ,"Destruction of Right Lower Arm Skin, External Approach",0H5DXZ,2016,2027
+0H5E,"Skin, Left Lower Arm",0H5,2016,2027
+0H5EX,External,0H5E,2016,2027
+0H5EXZ,No Device,0H5EX,2016,2027
+0H5EXZD,"Destruction of Left Lower Arm Skin, Multiple, External Approach",0H5EXZ,2016,2027
+0H5EXZZ,"Destruction of Left Lower Arm Skin, External Approach",0H5EXZ,2016,2027
+0H5F,"Skin, Right Hand",0H5,2016,2027
+0H5FX,External,0H5F,2016,2027
+0H5FXZ,No Device,0H5FX,2016,2027
+0H5FXZD,"Destruction of Right Hand Skin, Multiple, External Approach",0H5FXZ,2016,2027
+0H5FXZZ,"Destruction of Right Hand Skin, External Approach",0H5FXZ,2016,2027
+0H5G,"Skin, Left Hand",0H5,2016,2027
+0H5GX,External,0H5G,2016,2027
+0H5GXZ,No Device,0H5GX,2016,2027
+0H5GXZD,"Destruction of Left Hand Skin, Multiple, External Approach",0H5GXZ,2016,2027
+0H5GXZZ,"Destruction of Left Hand Skin, External Approach",0H5GXZ,2016,2027
+0H5H,"Skin, Right Upper Leg",0H5,2016,2027
+0H5HX,External,0H5H,2016,2027
+0H5HXZ,No Device,0H5HX,2016,2027
+0H5HXZD,"Destruction of Right Upper Leg Skin, Multiple, External Approach",0H5HXZ,2016,2027
+0H5HXZZ,"Destruction of Right Upper Leg Skin, External Approach",0H5HXZ,2016,2027
+0H5J,"Skin, Left Upper Leg",0H5,2016,2027
+0H5JX,External,0H5J,2016,2027
+0H5JXZ,No Device,0H5JX,2016,2027
+0H5JXZD,"Destruction of Left Upper Leg Skin, Multiple, External Approach",0H5JXZ,2016,2027
+0H5JXZZ,"Destruction of Left Upper Leg Skin, External Approach",0H5JXZ,2016,2027
+0H5K,"Skin, Right Lower Leg",0H5,2016,2027
+0H5KX,External,0H5K,2016,2027
+0H5KXZ,No Device,0H5KX,2016,2027
+0H5KXZD,"Destruction of Right Lower Leg Skin, Multiple, External Approach",0H5KXZ,2016,2027
+0H5KXZZ,"Destruction of Right Lower Leg Skin, External Approach",0H5KXZ,2016,2027
+0H5L,"Skin, Left Lower Leg",0H5,2016,2027
+0H5LX,External,0H5L,2016,2027
+0H5LXZ,No Device,0H5LX,2016,2027
+0H5LXZD,"Destruction of Left Lower Leg Skin, Multiple, External Approach",0H5LXZ,2016,2027
+0H5LXZZ,"Destruction of Left Lower Leg Skin, External Approach",0H5LXZ,2016,2027
+0H5M,"Skin, Right Foot",0H5,2016,2027
+0H5MX,External,0H5M,2016,2027
+0H5MXZ,No Device,0H5MX,2016,2027
+0H5MXZD,"Destruction of Right Foot Skin, Multiple, External Approach",0H5MXZ,2016,2027
+0H5MXZZ,"Destruction of Right Foot Skin, External Approach",0H5MXZ,2016,2027
+0H5N,"Skin, Left Foot",0H5,2016,2027
+0H5NX,External,0H5N,2016,2027
+0H5NXZ,No Device,0H5NX,2016,2027
+0H5NXZD,"Destruction of Left Foot Skin, Multiple, External Approach",0H5NXZ,2016,2027
+0H5NXZZ,"Destruction of Left Foot Skin, External Approach",0H5NXZ,2016,2027
+0H5Q,Finger Nail,0H5,2016,2027
+0H5QX,External,0H5Q,2016,2027
+0H5QXZ,No Device,0H5QX,2016,2027
+0H5QXZZ,"Destruction of Finger Nail, External Approach",0H5QXZ,2016,2027
+0H5R,Toe Nail,0H5,2016,2027
+0H5RX,External,0H5R,2016,2027
+0H5RXZ,No Device,0H5RX,2016,2027
+0H5RXZZ,"Destruction of Toe Nail, External Approach",0H5RXZ,2016,2027
+0H5T,"Breast, Right",0H5,2016,2027
+0H5T0,Open,0H5T,2016,2027
+0H5T0Z,No Device,0H5T0,2016,2027
+0H5T0Z3,"Destruction of Right Breast using Laser Interstitial Thermal Therapy, Open Approach",0H5T0Z,2023,2027
+0H5T0ZZ,"Destruction of Right Breast, Open Approach",0H5T0Z,2016,2027
+0H5T3,Percutaneous,0H5T,2016,2027
+0H5T3Z,No Device,0H5T3,2016,2027
+0H5T3Z3,"Destruction of Right Breast using Laser Interstitial Thermal Therapy, Percutaneous Approach",0H5T3Z,2023,2027
+0H5T3ZZ,"Destruction of Right Breast, Percutaneous Approach",0H5T3Z,2016,2027
+0H5T7,Via Natural or Artificial Opening,0H5T,2016,2027
+0H5T7Z,No Device,0H5T7,2016,2027
+0H5T7ZZ,"Destruction of Right Breast, Via Natural or Artificial Opening",0H5T7Z,2016,2027
+0H5T8,Via Natural or Artificial Opening Endoscopic,0H5T,2016,2027
+0H5T8Z,No Device,0H5T8,2016,2027
+0H5T8ZZ,"Destruction of Right Breast, Via Natural or Artificial Opening Endoscopic",0H5T8Z,2016,2027
+0H5TX,External,0H5T,2016,2019
+0H5TXZ,No Device,0H5TX,2016,2019
+0H5TXZZ,"Destruction of Right Breast, External Approach",0H5TXZ,2016,2019
+0H5U,"Breast, Left",0H5,2016,2027
+0H5U0,Open,0H5U,2016,2027
+0H5U0Z,No Device,0H5U0,2016,2027
+0H5U0Z3,"Destruction of Left Breast using Laser Interstitial Thermal Therapy, Open Approach",0H5U0Z,2023,2027
+0H5U0ZZ,"Destruction of Left Breast, Open Approach",0H5U0Z,2016,2027
+0H5U3,Percutaneous,0H5U,2016,2027
+0H5U3Z,No Device,0H5U3,2016,2027
+0H5U3Z3,"Destruction of Left Breast using Laser Interstitial Thermal Therapy, Percutaneous Approach",0H5U3Z,2023,2027
+0H5U3ZZ,"Destruction of Left Breast, Percutaneous Approach",0H5U3Z,2016,2027
+0H5U7,Via Natural or Artificial Opening,0H5U,2016,2027
+0H5U7Z,No Device,0H5U7,2016,2027
+0H5U7ZZ,"Destruction of Left Breast, Via Natural or Artificial Opening",0H5U7Z,2016,2027
+0H5U8,Via Natural or Artificial Opening Endoscopic,0H5U,2016,2027
+0H5U8Z,No Device,0H5U8,2016,2027
+0H5U8ZZ,"Destruction of Left Breast, Via Natural or Artificial Opening Endoscopic",0H5U8Z,2016,2027
+0H5UX,External,0H5U,2016,2019
+0H5UXZ,No Device,0H5UX,2016,2019
+0H5UXZZ,"Destruction of Left Breast, External Approach",0H5UXZ,2016,2019
+0H5V,"Breast, Bilateral",0H5,2016,2027
+0H5V0,Open,0H5V,2016,2027
+0H5V0Z,No Device,0H5V0,2016,2027
+0H5V0Z3,"Destruction of Bilateral Breast using Laser Interstitial Thermal Therapy, Open Approach",0H5V0Z,2023,2027
+0H5V0ZZ,"Destruction of Bilateral Breast, Open Approach",0H5V0Z,2016,2027
+0H5V3,Percutaneous,0H5V,2016,2027
+0H5V3Z,No Device,0H5V3,2016,2027
+0H5V3Z3,"Destruction of Bilateral Breast using Laser Interstitial Thermal Therapy, Percutaneous Approach",0H5V3Z,2023,2027
+0H5V3ZZ,"Destruction of Bilateral Breast, Percutaneous Approach",0H5V3Z,2016,2027
+0H5V7,Via Natural or Artificial Opening,0H5V,2016,2027
+0H5V7Z,No Device,0H5V7,2016,2027
+0H5V7ZZ,"Destruction of Bilateral Breast, Via Natural or Artificial Opening",0H5V7Z,2016,2027
+0H5V8,Via Natural or Artificial Opening Endoscopic,0H5V,2016,2027
+0H5V8Z,No Device,0H5V8,2016,2027
+0H5V8ZZ,"Destruction of Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0H5V8Z,2016,2027
+0H5VX,External,0H5V,2016,2019
+0H5VXZ,No Device,0H5VX,2016,2019
+0H5VXZZ,"Destruction of Bilateral Breast, External Approach",0H5VXZ,2016,2019
+0H5W,"Nipple, Right",0H5,2016,2027
+0H5W0,Open,0H5W,2016,2027
+0H5W0Z,No Device,0H5W0,2016,2027
+0H5W0ZZ,"Destruction of Right Nipple, Open Approach",0H5W0Z,2016,2027
+0H5W3,Percutaneous,0H5W,2016,2027
+0H5W3Z,No Device,0H5W3,2016,2027
+0H5W3ZZ,"Destruction of Right Nipple, Percutaneous Approach",0H5W3Z,2016,2027
+0H5W7,Via Natural or Artificial Opening,0H5W,2016,2027
+0H5W7Z,No Device,0H5W7,2016,2027
+0H5W7ZZ,"Destruction of Right Nipple, Via Natural or Artificial Opening",0H5W7Z,2016,2027
+0H5W8,Via Natural or Artificial Opening Endoscopic,0H5W,2016,2027
+0H5W8Z,No Device,0H5W8,2016,2027
+0H5W8ZZ,"Destruction of Right Nipple, Via Natural or Artificial Opening Endoscopic",0H5W8Z,2016,2027
+0H5WX,External,0H5W,2016,2027
+0H5WXZ,No Device,0H5WX,2016,2027
+0H5WXZZ,"Destruction of Right Nipple, External Approach",0H5WXZ,2016,2027
+0H5X,"Nipple, Left",0H5,2016,2027
+0H5X0,Open,0H5X,2016,2027
+0H5X0Z,No Device,0H5X0,2016,2027
+0H5X0ZZ,"Destruction of Left Nipple, Open Approach",0H5X0Z,2016,2027
+0H5X3,Percutaneous,0H5X,2016,2027
+0H5X3Z,No Device,0H5X3,2016,2027
+0H5X3ZZ,"Destruction of Left Nipple, Percutaneous Approach",0H5X3Z,2016,2027
+0H5X7,Via Natural or Artificial Opening,0H5X,2016,2027
+0H5X7Z,No Device,0H5X7,2016,2027
+0H5X7ZZ,"Destruction of Left Nipple, Via Natural or Artificial Opening",0H5X7Z,2016,2027
+0H5X8,Via Natural or Artificial Opening Endoscopic,0H5X,2016,2027
+0H5X8Z,No Device,0H5X8,2016,2027
+0H5X8ZZ,"Destruction of Left Nipple, Via Natural or Artificial Opening Endoscopic",0H5X8Z,2016,2027
+0H5XX,External,0H5X,2016,2027
+0H5XXZ,No Device,0H5XX,2016,2027
+0H5XXZZ,"Destruction of Left Nipple, External Approach",0H5XXZ,2016,2027
+0H8,Division,0H,2016,2027
+0H80,"Skin, Scalp",0H8,2016,2027
+0H80X,External,0H80,2016,2027
+0H80XZ,No Device,0H80X,2016,2027
+0H80XZZ,"Division of Scalp Skin, External Approach",0H80XZ,2016,2027
+0H81,"Skin, Face",0H8,2016,2027
+0H81X,External,0H81,2016,2027
+0H81XZ,No Device,0H81X,2016,2027
+0H81XZZ,"Division of Face Skin, External Approach",0H81XZ,2016,2027
+0H82,"Skin, Right Ear",0H8,2016,2027
+0H82X,External,0H82,2016,2027
+0H82XZ,No Device,0H82X,2016,2027
+0H82XZZ,"Division of Right Ear Skin, External Approach",0H82XZ,2016,2027
+0H83,"Skin, Left Ear",0H8,2016,2027
+0H83X,External,0H83,2016,2027
+0H83XZ,No Device,0H83X,2016,2027
+0H83XZZ,"Division of Left Ear Skin, External Approach",0H83XZ,2016,2027
+0H84,"Skin, Neck",0H8,2016,2027
+0H84X,External,0H84,2016,2027
+0H84XZ,No Device,0H84X,2016,2027
+0H84XZZ,"Division of Neck Skin, External Approach",0H84XZ,2016,2027
+0H85,"Skin, Chest",0H8,2016,2027
+0H85X,External,0H85,2016,2027
+0H85XZ,No Device,0H85X,2016,2027
+0H85XZZ,"Division of Chest Skin, External Approach",0H85XZ,2016,2027
+0H86,"Skin, Back",0H8,2016,2027
+0H86X,External,0H86,2016,2027
+0H86XZ,No Device,0H86X,2016,2027
+0H86XZZ,"Division of Back Skin, External Approach",0H86XZ,2016,2027
+0H87,"Skin, Abdomen",0H8,2016,2027
+0H87X,External,0H87,2016,2027
+0H87XZ,No Device,0H87X,2016,2027
+0H87XZZ,"Division of Abdomen Skin, External Approach",0H87XZ,2016,2027
+0H88,"Skin, Buttock",0H8,2016,2027
+0H88X,External,0H88,2016,2027
+0H88XZ,No Device,0H88X,2016,2027
+0H88XZZ,"Division of Buttock Skin, External Approach",0H88XZ,2016,2027
+0H89,"Skin, Perineum",0H8,2016,2027
+0H89X,External,0H89,2016,2027
+0H89XZ,No Device,0H89X,2016,2027
+0H89XZZ,"Division of Perineum Skin, External Approach",0H89XZ,2016,2027
+0H8A,"Skin, Inguinal",0H8,2016,2027
+0H8AX,External,0H8A,2016,2027
+0H8AXZ,No Device,0H8AX,2016,2027
+0H8AXZZ,"Division of Inguinal Skin, External Approach",0H8AXZ,2016,2027
+0H8B,"Skin, Right Upper Arm",0H8,2016,2027
+0H8BX,External,0H8B,2016,2027
+0H8BXZ,No Device,0H8BX,2016,2027
+0H8BXZZ,"Division of Right Upper Arm Skin, External Approach",0H8BXZ,2016,2027
+0H8C,"Skin, Left Upper Arm",0H8,2016,2027
+0H8CX,External,0H8C,2016,2027
+0H8CXZ,No Device,0H8CX,2016,2027
+0H8CXZZ,"Division of Left Upper Arm Skin, External Approach",0H8CXZ,2016,2027
+0H8D,"Skin, Right Lower Arm",0H8,2016,2027
+0H8DX,External,0H8D,2016,2027
+0H8DXZ,No Device,0H8DX,2016,2027
+0H8DXZZ,"Division of Right Lower Arm Skin, External Approach",0H8DXZ,2016,2027
+0H8E,"Skin, Left Lower Arm",0H8,2016,2027
+0H8EX,External,0H8E,2016,2027
+0H8EXZ,No Device,0H8EX,2016,2027
+0H8EXZZ,"Division of Left Lower Arm Skin, External Approach",0H8EXZ,2016,2027
+0H8F,"Skin, Right Hand",0H8,2016,2027
+0H8FX,External,0H8F,2016,2027
+0H8FXZ,No Device,0H8FX,2016,2027
+0H8FXZZ,"Division of Right Hand Skin, External Approach",0H8FXZ,2016,2027
+0H8G,"Skin, Left Hand",0H8,2016,2027
+0H8GX,External,0H8G,2016,2027
+0H8GXZ,No Device,0H8GX,2016,2027
+0H8GXZZ,"Division of Left Hand Skin, External Approach",0H8GXZ,2016,2027
+0H8H,"Skin, Right Upper Leg",0H8,2016,2027
+0H8HX,External,0H8H,2016,2027
+0H8HXZ,No Device,0H8HX,2016,2027
+0H8HXZZ,"Division of Right Upper Leg Skin, External Approach",0H8HXZ,2016,2027
+0H8J,"Skin, Left Upper Leg",0H8,2016,2027
+0H8JX,External,0H8J,2016,2027
+0H8JXZ,No Device,0H8JX,2016,2027
+0H8JXZZ,"Division of Left Upper Leg Skin, External Approach",0H8JXZ,2016,2027
+0H8K,"Skin, Right Lower Leg",0H8,2016,2027
+0H8KX,External,0H8K,2016,2027
+0H8KXZ,No Device,0H8KX,2016,2027
+0H8KXZZ,"Division of Right Lower Leg Skin, External Approach",0H8KXZ,2016,2027
+0H8L,"Skin, Left Lower Leg",0H8,2016,2027
+0H8LX,External,0H8L,2016,2027
+0H8LXZ,No Device,0H8LX,2016,2027
+0H8LXZZ,"Division of Left Lower Leg Skin, External Approach",0H8LXZ,2016,2027
+0H8M,"Skin, Right Foot",0H8,2016,2027
+0H8MX,External,0H8M,2016,2027
+0H8MXZ,No Device,0H8MX,2016,2027
+0H8MXZZ,"Division of Right Foot Skin, External Approach",0H8MXZ,2016,2027
+0H8N,"Skin, Left Foot",0H8,2016,2027
+0H8NX,External,0H8N,2016,2027
+0H8NXZ,No Device,0H8NX,2016,2027
+0H8NXZZ,"Division of Left Foot Skin, External Approach",0H8NXZ,2016,2027
+0H9,Drainage,0H,2016,2027
+0H90,"Skin, Scalp",0H9,2016,2027
+0H90X,External,0H90,2016,2027
+0H90X0,Drainage Device,0H90X,2016,2027
+0H90X0Z,"Drainage of Scalp Skin with Drainage Device, External Approach",0H90X0,2016,2027
+0H90XZ,No Device,0H90X,2016,2027
+0H90XZX,"Drainage of Scalp Skin, External Approach, Diagnostic",0H90XZ,2016,2027
+0H90XZZ,"Drainage of Scalp Skin, External Approach",0H90XZ,2016,2027
+0H91,"Skin, Face",0H9,2016,2027
+0H91X,External,0H91,2016,2027
+0H91X0,Drainage Device,0H91X,2016,2027
+0H91X0Z,"Drainage of Face Skin with Drainage Device, External Approach",0H91X0,2016,2027
+0H91XZ,No Device,0H91X,2016,2027
+0H91XZX,"Drainage of Face Skin, External Approach, Diagnostic",0H91XZ,2016,2027
+0H91XZZ,"Drainage of Face Skin, External Approach",0H91XZ,2016,2027
+0H92,"Skin, Right Ear",0H9,2016,2027
+0H92X,External,0H92,2016,2027
+0H92X0,Drainage Device,0H92X,2016,2027
+0H92X0Z,"Drainage of Right Ear Skin with Drainage Device, External Approach",0H92X0,2016,2027
+0H92XZ,No Device,0H92X,2016,2027
+0H92XZX,"Drainage of Right Ear Skin, External Approach, Diagnostic",0H92XZ,2016,2027
+0H92XZZ,"Drainage of Right Ear Skin, External Approach",0H92XZ,2016,2027
+0H93,"Skin, Left Ear",0H9,2016,2027
+0H93X,External,0H93,2016,2027
+0H93X0,Drainage Device,0H93X,2016,2027
+0H93X0Z,"Drainage of Left Ear Skin with Drainage Device, External Approach",0H93X0,2016,2027
+0H93XZ,No Device,0H93X,2016,2027
+0H93XZX,"Drainage of Left Ear Skin, External Approach, Diagnostic",0H93XZ,2016,2027
+0H93XZZ,"Drainage of Left Ear Skin, External Approach",0H93XZ,2016,2027
+0H94,"Skin, Neck",0H9,2016,2027
+0H94X,External,0H94,2016,2027
+0H94X0,Drainage Device,0H94X,2016,2027
+0H94X0Z,"Drainage of Neck Skin with Drainage Device, External Approach",0H94X0,2016,2027
+0H94XZ,No Device,0H94X,2016,2027
+0H94XZX,"Drainage of Neck Skin, External Approach, Diagnostic",0H94XZ,2016,2027
+0H94XZZ,"Drainage of Neck Skin, External Approach",0H94XZ,2016,2027
+0H95,"Skin, Chest",0H9,2016,2027
+0H95X,External,0H95,2016,2027
+0H95X0,Drainage Device,0H95X,2016,2027
+0H95X0Z,"Drainage of Chest Skin with Drainage Device, External Approach",0H95X0,2016,2027
+0H95XZ,No Device,0H95X,2016,2027
+0H95XZX,"Drainage of Chest Skin, External Approach, Diagnostic",0H95XZ,2016,2027
+0H95XZZ,"Drainage of Chest Skin, External Approach",0H95XZ,2016,2027
+0H96,"Skin, Back",0H9,2016,2027
+0H96X,External,0H96,2016,2027
+0H96X0,Drainage Device,0H96X,2016,2027
+0H96X0Z,"Drainage of Back Skin with Drainage Device, External Approach",0H96X0,2016,2027
+0H96XZ,No Device,0H96X,2016,2027
+0H96XZX,"Drainage of Back Skin, External Approach, Diagnostic",0H96XZ,2016,2027
+0H96XZZ,"Drainage of Back Skin, External Approach",0H96XZ,2016,2027
+0H97,"Skin, Abdomen",0H9,2016,2027
+0H97X,External,0H97,2016,2027
+0H97X0,Drainage Device,0H97X,2016,2027
+0H97X0Z,"Drainage of Abdomen Skin with Drainage Device, External Approach",0H97X0,2016,2027
+0H97XZ,No Device,0H97X,2016,2027
+0H97XZX,"Drainage of Abdomen Skin, External Approach, Diagnostic",0H97XZ,2016,2027
+0H97XZZ,"Drainage of Abdomen Skin, External Approach",0H97XZ,2016,2027
+0H98,"Skin, Buttock",0H9,2016,2027
+0H98X,External,0H98,2016,2027
+0H98X0,Drainage Device,0H98X,2016,2027
+0H98X0Z,"Drainage of Buttock Skin with Drainage Device, External Approach",0H98X0,2016,2027
+0H98XZ,No Device,0H98X,2016,2027
+0H98XZX,"Drainage of Buttock Skin, External Approach, Diagnostic",0H98XZ,2016,2027
+0H98XZZ,"Drainage of Buttock Skin, External Approach",0H98XZ,2016,2027
+0H99,"Skin, Perineum",0H9,2016,2027
+0H99X,External,0H99,2016,2027
+0H99X0,Drainage Device,0H99X,2016,2027
+0H99X0Z,"Drainage of Perineum Skin with Drainage Device, External Approach",0H99X0,2016,2027
+0H99XZ,No Device,0H99X,2016,2027
+0H99XZX,"Drainage of Perineum Skin, External Approach, Diagnostic",0H99XZ,2016,2027
+0H99XZZ,"Drainage of Perineum Skin, External Approach",0H99XZ,2016,2027
+0H9A,"Skin, Inguinal",0H9,2016,2027
+0H9AX,External,0H9A,2016,2027
+0H9AX0,Drainage Device,0H9AX,2016,2027
+0H9AX0Z,"Drainage of Inguinal Skin with Drainage Device, External Approach",0H9AX0,2016,2027
+0H9AXZ,No Device,0H9AX,2016,2027
+0H9AXZX,"Drainage of Inguinal Skin, External Approach, Diagnostic",0H9AXZ,2016,2027
+0H9AXZZ,"Drainage of Inguinal Skin, External Approach",0H9AXZ,2016,2027
+0H9B,"Skin, Right Upper Arm",0H9,2016,2027
+0H9BX,External,0H9B,2016,2027
+0H9BX0,Drainage Device,0H9BX,2016,2027
+0H9BX0Z,"Drainage of Right Upper Arm Skin with Drainage Device, External Approach",0H9BX0,2016,2027
+0H9BXZ,No Device,0H9BX,2016,2027
+0H9BXZX,"Drainage of Right Upper Arm Skin, External Approach, Diagnostic",0H9BXZ,2016,2027
+0H9BXZZ,"Drainage of Right Upper Arm Skin, External Approach",0H9BXZ,2016,2027
+0H9C,"Skin, Left Upper Arm",0H9,2016,2027
+0H9CX,External,0H9C,2016,2027
+0H9CX0,Drainage Device,0H9CX,2016,2027
+0H9CX0Z,"Drainage of Left Upper Arm Skin with Drainage Device, External Approach",0H9CX0,2016,2027
+0H9CXZ,No Device,0H9CX,2016,2027
+0H9CXZX,"Drainage of Left Upper Arm Skin, External Approach, Diagnostic",0H9CXZ,2016,2027
+0H9CXZZ,"Drainage of Left Upper Arm Skin, External Approach",0H9CXZ,2016,2027
+0H9D,"Skin, Right Lower Arm",0H9,2016,2027
+0H9DX,External,0H9D,2016,2027
+0H9DX0,Drainage Device,0H9DX,2016,2027
+0H9DX0Z,"Drainage of Right Lower Arm Skin with Drainage Device, External Approach",0H9DX0,2016,2027
+0H9DXZ,No Device,0H9DX,2016,2027
+0H9DXZX,"Drainage of Right Lower Arm Skin, External Approach, Diagnostic",0H9DXZ,2016,2027
+0H9DXZZ,"Drainage of Right Lower Arm Skin, External Approach",0H9DXZ,2016,2027
+0H9E,"Skin, Left Lower Arm",0H9,2016,2027
+0H9EX,External,0H9E,2016,2027
+0H9EX0,Drainage Device,0H9EX,2016,2027
+0H9EX0Z,"Drainage of Left Lower Arm Skin with Drainage Device, External Approach",0H9EX0,2016,2027
+0H9EXZ,No Device,0H9EX,2016,2027
+0H9EXZX,"Drainage of Left Lower Arm Skin, External Approach, Diagnostic",0H9EXZ,2016,2027
+0H9EXZZ,"Drainage of Left Lower Arm Skin, External Approach",0H9EXZ,2016,2027
+0H9F,"Skin, Right Hand",0H9,2016,2027
+0H9FX,External,0H9F,2016,2027
+0H9FX0,Drainage Device,0H9FX,2016,2027
+0H9FX0Z,"Drainage of Right Hand Skin with Drainage Device, External Approach",0H9FX0,2016,2027
+0H9FXZ,No Device,0H9FX,2016,2027
+0H9FXZX,"Drainage of Right Hand Skin, External Approach, Diagnostic",0H9FXZ,2016,2027
+0H9FXZZ,"Drainage of Right Hand Skin, External Approach",0H9FXZ,2016,2027
+0H9G,"Skin, Left Hand",0H9,2016,2027
+0H9GX,External,0H9G,2016,2027
+0H9GX0,Drainage Device,0H9GX,2016,2027
+0H9GX0Z,"Drainage of Left Hand Skin with Drainage Device, External Approach",0H9GX0,2016,2027
+0H9GXZ,No Device,0H9GX,2016,2027
+0H9GXZX,"Drainage of Left Hand Skin, External Approach, Diagnostic",0H9GXZ,2016,2027
+0H9GXZZ,"Drainage of Left Hand Skin, External Approach",0H9GXZ,2016,2027
+0H9H,"Skin, Right Upper Leg",0H9,2016,2027
+0H9HX,External,0H9H,2016,2027
+0H9HX0,Drainage Device,0H9HX,2016,2027
+0H9HX0Z,"Drainage of Right Upper Leg Skin with Drainage Device, External Approach",0H9HX0,2016,2027
+0H9HXZ,No Device,0H9HX,2016,2027
+0H9HXZX,"Drainage of Right Upper Leg Skin, External Approach, Diagnostic",0H9HXZ,2016,2027
+0H9HXZZ,"Drainage of Right Upper Leg Skin, External Approach",0H9HXZ,2016,2027
+0H9J,"Skin, Left Upper Leg",0H9,2016,2027
+0H9JX,External,0H9J,2016,2027
+0H9JX0,Drainage Device,0H9JX,2016,2027
+0H9JX0Z,"Drainage of Left Upper Leg Skin with Drainage Device, External Approach",0H9JX0,2016,2027
+0H9JXZ,No Device,0H9JX,2016,2027
+0H9JXZX,"Drainage of Left Upper Leg Skin, External Approach, Diagnostic",0H9JXZ,2016,2027
+0H9JXZZ,"Drainage of Left Upper Leg Skin, External Approach",0H9JXZ,2016,2027
+0H9K,"Skin, Right Lower Leg",0H9,2016,2027
+0H9KX,External,0H9K,2016,2027
+0H9KX0,Drainage Device,0H9KX,2016,2027
+0H9KX0Z,"Drainage of Right Lower Leg Skin with Drainage Device, External Approach",0H9KX0,2016,2027
+0H9KXZ,No Device,0H9KX,2016,2027
+0H9KXZX,"Drainage of Right Lower Leg Skin, External Approach, Diagnostic",0H9KXZ,2016,2027
+0H9KXZZ,"Drainage of Right Lower Leg Skin, External Approach",0H9KXZ,2016,2027
+0H9L,"Skin, Left Lower Leg",0H9,2016,2027
+0H9LX,External,0H9L,2016,2027
+0H9LX0,Drainage Device,0H9LX,2016,2027
+0H9LX0Z,"Drainage of Left Lower Leg Skin with Drainage Device, External Approach",0H9LX0,2016,2027
+0H9LXZ,No Device,0H9LX,2016,2027
+0H9LXZX,"Drainage of Left Lower Leg Skin, External Approach, Diagnostic",0H9LXZ,2016,2027
+0H9LXZZ,"Drainage of Left Lower Leg Skin, External Approach",0H9LXZ,2016,2027
+0H9M,"Skin, Right Foot",0H9,2016,2027
+0H9MX,External,0H9M,2016,2027
+0H9MX0,Drainage Device,0H9MX,2016,2027
+0H9MX0Z,"Drainage of Right Foot Skin with Drainage Device, External Approach",0H9MX0,2016,2027
+0H9MXZ,No Device,0H9MX,2016,2027
+0H9MXZX,"Drainage of Right Foot Skin, External Approach, Diagnostic",0H9MXZ,2016,2027
+0H9MXZZ,"Drainage of Right Foot Skin, External Approach",0H9MXZ,2016,2027
+0H9N,"Skin, Left Foot",0H9,2016,2027
+0H9NX,External,0H9N,2016,2027
+0H9NX0,Drainage Device,0H9NX,2016,2027
+0H9NX0Z,"Drainage of Left Foot Skin with Drainage Device, External Approach",0H9NX0,2016,2027
+0H9NXZ,No Device,0H9NX,2016,2027
+0H9NXZX,"Drainage of Left Foot Skin, External Approach, Diagnostic",0H9NXZ,2016,2027
+0H9NXZZ,"Drainage of Left Foot Skin, External Approach",0H9NXZ,2016,2027
+0H9Q,Finger Nail,0H9,2016,2027
+0H9QX,External,0H9Q,2016,2027
+0H9QX0,Drainage Device,0H9QX,2016,2027
+0H9QX0Z,"Drainage of Finger Nail with Drainage Device, External Approach",0H9QX0,2016,2027
+0H9QXZ,No Device,0H9QX,2016,2027
+0H9QXZX,"Drainage of Finger Nail, External Approach, Diagnostic",0H9QXZ,2016,2027
+0H9QXZZ,"Drainage of Finger Nail, External Approach",0H9QXZ,2016,2027
+0H9R,Toe Nail,0H9,2016,2027
+0H9RX,External,0H9R,2016,2027
+0H9RX0,Drainage Device,0H9RX,2016,2027
+0H9RX0Z,"Drainage of Toe Nail with Drainage Device, External Approach",0H9RX0,2016,2027
+0H9RXZ,No Device,0H9RX,2016,2027
+0H9RXZX,"Drainage of Toe Nail, External Approach, Diagnostic",0H9RXZ,2016,2027
+0H9RXZZ,"Drainage of Toe Nail, External Approach",0H9RXZ,2016,2027
+0H9T,"Breast, Right",0H9,2016,2027
+0H9T0,Open,0H9T,2016,2027
+0H9T00,Drainage Device,0H9T0,2016,2027
+0H9T00Z,"Drainage of Right Breast with Drainage Device, Open Approach",0H9T00,2016,2027
+0H9T0Z,No Device,0H9T0,2016,2027
+0H9T0ZX,"Drainage of Right Breast, Open Approach, Diagnostic",0H9T0Z,2016,2027
+0H9T0ZZ,"Drainage of Right Breast, Open Approach",0H9T0Z,2016,2027
+0H9T3,Percutaneous,0H9T,2016,2027
+0H9T30,Drainage Device,0H9T3,2016,2027
+0H9T30Z,"Drainage of Right Breast with Drainage Device, Percutaneous Approach",0H9T30,2016,2027
+0H9T3Z,No Device,0H9T3,2016,2027
+0H9T3ZX,"Drainage of Right Breast, Percutaneous Approach, Diagnostic",0H9T3Z,2016,2027
+0H9T3ZZ,"Drainage of Right Breast, Percutaneous Approach",0H9T3Z,2016,2027
+0H9T7,Via Natural or Artificial Opening,0H9T,2016,2027
+0H9T70,Drainage Device,0H9T7,2016,2027
+0H9T70Z,"Drainage of Right Breast with Drainage Device, Via Natural or Artificial Opening",0H9T70,2016,2027
+0H9T7Z,No Device,0H9T7,2016,2027
+0H9T7ZX,"Drainage of Right Breast, Via Natural or Artificial Opening, Diagnostic",0H9T7Z,2016,2027
+0H9T7ZZ,"Drainage of Right Breast, Via Natural or Artificial Opening",0H9T7Z,2016,2027
+0H9T8,Via Natural or Artificial Opening Endoscopic,0H9T,2016,2027
+0H9T80,Drainage Device,0H9T8,2016,2027
+0H9T80Z,"Drainage of Right Breast with Drainage Device, Via Natural or Artificial Opening Endoscopic",0H9T80,2016,2027
+0H9T8Z,No Device,0H9T8,2016,2027
+0H9T8ZX,"Drainage of Right Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0H9T8Z,2016,2027
+0H9T8ZZ,"Drainage of Right Breast, Via Natural or Artificial Opening Endoscopic",0H9T8Z,2016,2027
+0H9TX,External,0H9T,2016,2019
+0H9TX0,Drainage Device,0H9TX,2016,2019
+0H9TX0Z,"Drainage of Right Breast with Drainage Device, External Approach",0H9TX0,2016,2019
+0H9TXZ,No Device,0H9TX,2016,2019
+0H9TXZX,"Drainage of Right Breast, External Approach, Diagnostic",0H9TXZ,2016,2019
+0H9TXZZ,"Drainage of Right Breast, External Approach",0H9TXZ,2016,2019
+0H9U,"Breast, Left",0H9,2016,2027
+0H9U0,Open,0H9U,2016,2027
+0H9U00,Drainage Device,0H9U0,2016,2027
+0H9U00Z,"Drainage of Left Breast with Drainage Device, Open Approach",0H9U00,2016,2027
+0H9U0Z,No Device,0H9U0,2016,2027
+0H9U0ZX,"Drainage of Left Breast, Open Approach, Diagnostic",0H9U0Z,2016,2027
+0H9U0ZZ,"Drainage of Left Breast, Open Approach",0H9U0Z,2016,2027
+0H9U3,Percutaneous,0H9U,2016,2027
+0H9U30,Drainage Device,0H9U3,2016,2027
+0H9U30Z,"Drainage of Left Breast with Drainage Device, Percutaneous Approach",0H9U30,2016,2027
+0H9U3Z,No Device,0H9U3,2016,2027
+0H9U3ZX,"Drainage of Left Breast, Percutaneous Approach, Diagnostic",0H9U3Z,2016,2027
+0H9U3ZZ,"Drainage of Left Breast, Percutaneous Approach",0H9U3Z,2016,2027
+0H9U7,Via Natural or Artificial Opening,0H9U,2016,2027
+0H9U70,Drainage Device,0H9U7,2016,2027
+0H9U70Z,"Drainage of Left Breast with Drainage Device, Via Natural or Artificial Opening",0H9U70,2016,2027
+0H9U7Z,No Device,0H9U7,2016,2027
+0H9U7ZX,"Drainage of Left Breast, Via Natural or Artificial Opening, Diagnostic",0H9U7Z,2016,2027
+0H9U7ZZ,"Drainage of Left Breast, Via Natural or Artificial Opening",0H9U7Z,2016,2027
+0H9U8,Via Natural or Artificial Opening Endoscopic,0H9U,2016,2027
+0H9U80,Drainage Device,0H9U8,2016,2027
+0H9U80Z,"Drainage of Left Breast with Drainage Device, Via Natural or Artificial Opening Endoscopic",0H9U80,2016,2027
+0H9U8Z,No Device,0H9U8,2016,2027
+0H9U8ZX,"Drainage of Left Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0H9U8Z,2016,2027
+0H9U8ZZ,"Drainage of Left Breast, Via Natural or Artificial Opening Endoscopic",0H9U8Z,2016,2027
+0H9UX,External,0H9U,2016,2019
+0H9UX0,Drainage Device,0H9UX,2016,2019
+0H9UX0Z,"Drainage of Left Breast with Drainage Device, External Approach",0H9UX0,2016,2019
+0H9UXZ,No Device,0H9UX,2016,2019
+0H9UXZX,"Drainage of Left Breast, External Approach, Diagnostic",0H9UXZ,2016,2019
+0H9UXZZ,"Drainage of Left Breast, External Approach",0H9UXZ,2016,2019
+0H9V,"Breast, Bilateral",0H9,2016,2027
+0H9V0,Open,0H9V,2016,2027
+0H9V00,Drainage Device,0H9V0,2016,2027
+0H9V00Z,"Drainage of Bilateral Breast with Drainage Device, Open Approach",0H9V00,2016,2027
+0H9V0Z,No Device,0H9V0,2016,2027
+0H9V0ZX,"Drainage of Bilateral Breast, Open Approach, Diagnostic",0H9V0Z,2016,2027
+0H9V0ZZ,"Drainage of Bilateral Breast, Open Approach",0H9V0Z,2016,2027
+0H9V3,Percutaneous,0H9V,2016,2027
+0H9V30,Drainage Device,0H9V3,2016,2027
+0H9V30Z,"Drainage of Bilateral Breast with Drainage Device, Percutaneous Approach",0H9V30,2016,2027
+0H9V3Z,No Device,0H9V3,2016,2027
+0H9V3ZX,"Drainage of Bilateral Breast, Percutaneous Approach, Diagnostic",0H9V3Z,2016,2027
+0H9V3ZZ,"Drainage of Bilateral Breast, Percutaneous Approach",0H9V3Z,2016,2027
+0H9V7,Via Natural or Artificial Opening,0H9V,2016,2027
+0H9V70,Drainage Device,0H9V7,2016,2027
+0H9V70Z,"Drainage of Bilateral Breast with Drainage Device, Via Natural or Artificial Opening",0H9V70,2016,2027
+0H9V7Z,No Device,0H9V7,2016,2027
+0H9V7ZX,"Drainage of Bilateral Breast, Via Natural or Artificial Opening, Diagnostic",0H9V7Z,2016,2027
+0H9V7ZZ,"Drainage of Bilateral Breast, Via Natural or Artificial Opening",0H9V7Z,2016,2027
+0H9V8,Via Natural or Artificial Opening Endoscopic,0H9V,2016,2027
+0H9V80,Drainage Device,0H9V8,2016,2027
+0H9V80Z,"Drainage of Bilateral Breast with Drainage Device, Via Natural or Artificial Opening Endoscopic",0H9V80,2016,2027
+0H9V8Z,No Device,0H9V8,2016,2027
+0H9V8ZX,"Drainage of Bilateral Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0H9V8Z,2016,2027
+0H9V8ZZ,"Drainage of Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0H9V8Z,2016,2027
+0H9VX,External,0H9V,2016,2019
+0H9VX0,Drainage Device,0H9VX,2016,2019
+0H9VX0Z,"Drainage of Bilateral Breast with Drainage Device, External Approach",0H9VX0,2016,2019
+0H9VXZ,No Device,0H9VX,2016,2019
+0H9VXZX,"Drainage of Bilateral Breast, External Approach, Diagnostic",0H9VXZ,2016,2019
+0H9VXZZ,"Drainage of Bilateral Breast, External Approach",0H9VXZ,2016,2019
+0H9W,"Nipple, Right",0H9,2016,2027
+0H9W0,Open,0H9W,2016,2027
+0H9W00,Drainage Device,0H9W0,2016,2027
+0H9W00Z,"Drainage of Right Nipple with Drainage Device, Open Approach",0H9W00,2016,2027
+0H9W0Z,No Device,0H9W0,2016,2027
+0H9W0ZX,"Drainage of Right Nipple, Open Approach, Diagnostic",0H9W0Z,2016,2027
+0H9W0ZZ,"Drainage of Right Nipple, Open Approach",0H9W0Z,2016,2027
+0H9W3,Percutaneous,0H9W,2016,2027
+0H9W30,Drainage Device,0H9W3,2016,2027
+0H9W30Z,"Drainage of Right Nipple with Drainage Device, Percutaneous Approach",0H9W30,2016,2027
+0H9W3Z,No Device,0H9W3,2016,2027
+0H9W3ZX,"Drainage of Right Nipple, Percutaneous Approach, Diagnostic",0H9W3Z,2016,2027
+0H9W3ZZ,"Drainage of Right Nipple, Percutaneous Approach",0H9W3Z,2016,2027
+0H9W7,Via Natural or Artificial Opening,0H9W,2016,2027
+0H9W70,Drainage Device,0H9W7,2016,2027
+0H9W70Z,"Drainage of Right Nipple with Drainage Device, Via Natural or Artificial Opening",0H9W70,2016,2027
+0H9W7Z,No Device,0H9W7,2016,2027
+0H9W7ZX,"Drainage of Right Nipple, Via Natural or Artificial Opening, Diagnostic",0H9W7Z,2016,2027
+0H9W7ZZ,"Drainage of Right Nipple, Via Natural or Artificial Opening",0H9W7Z,2016,2027
+0H9W8,Via Natural or Artificial Opening Endoscopic,0H9W,2016,2027
+0H9W80,Drainage Device,0H9W8,2016,2027
+0H9W80Z,"Drainage of Right Nipple with Drainage Device, Via Natural or Artificial Opening Endoscopic",0H9W80,2016,2027
+0H9W8Z,No Device,0H9W8,2016,2027
+0H9W8ZX,"Drainage of Right Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic",0H9W8Z,2016,2027
+0H9W8ZZ,"Drainage of Right Nipple, Via Natural or Artificial Opening Endoscopic",0H9W8Z,2016,2027
+0H9WX,External,0H9W,2016,2027
+0H9WX0,Drainage Device,0H9WX,2016,2027
+0H9WX0Z,"Drainage of Right Nipple with Drainage Device, External Approach",0H9WX0,2016,2027
+0H9WXZ,No Device,0H9WX,2016,2027
+0H9WXZX,"Drainage of Right Nipple, External Approach, Diagnostic",0H9WXZ,2016,2027
+0H9WXZZ,"Drainage of Right Nipple, External Approach",0H9WXZ,2016,2027
+0H9X,"Nipple, Left",0H9,2016,2027
+0H9X0,Open,0H9X,2016,2027
+0H9X00,Drainage Device,0H9X0,2016,2027
+0H9X00Z,"Drainage of Left Nipple with Drainage Device, Open Approach",0H9X00,2016,2027
+0H9X0Z,No Device,0H9X0,2016,2027
+0H9X0ZX,"Drainage of Left Nipple, Open Approach, Diagnostic",0H9X0Z,2016,2027
+0H9X0ZZ,"Drainage of Left Nipple, Open Approach",0H9X0Z,2016,2027
+0H9X3,Percutaneous,0H9X,2016,2027
+0H9X30,Drainage Device,0H9X3,2016,2027
+0H9X30Z,"Drainage of Left Nipple with Drainage Device, Percutaneous Approach",0H9X30,2016,2027
+0H9X3Z,No Device,0H9X3,2016,2027
+0H9X3ZX,"Drainage of Left Nipple, Percutaneous Approach, Diagnostic",0H9X3Z,2016,2027
+0H9X3ZZ,"Drainage of Left Nipple, Percutaneous Approach",0H9X3Z,2016,2027
+0H9X7,Via Natural or Artificial Opening,0H9X,2016,2027
+0H9X70,Drainage Device,0H9X7,2016,2027
+0H9X70Z,"Drainage of Left Nipple with Drainage Device, Via Natural or Artificial Opening",0H9X70,2016,2027
+0H9X7Z,No Device,0H9X7,2016,2027
+0H9X7ZX,"Drainage of Left Nipple, Via Natural or Artificial Opening, Diagnostic",0H9X7Z,2016,2027
+0H9X7ZZ,"Drainage of Left Nipple, Via Natural or Artificial Opening",0H9X7Z,2016,2027
+0H9X8,Via Natural or Artificial Opening Endoscopic,0H9X,2016,2027
+0H9X80,Drainage Device,0H9X8,2016,2027
+0H9X80Z,"Drainage of Left Nipple with Drainage Device, Via Natural or Artificial Opening Endoscopic",0H9X80,2016,2027
+0H9X8Z,No Device,0H9X8,2016,2027
+0H9X8ZX,"Drainage of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic",0H9X8Z,2016,2027
+0H9X8ZZ,"Drainage of Left Nipple, Via Natural or Artificial Opening Endoscopic",0H9X8Z,2016,2027
+0H9XX,External,0H9X,2016,2027
+0H9XX0,Drainage Device,0H9XX,2016,2027
+0H9XX0Z,"Drainage of Left Nipple with Drainage Device, External Approach",0H9XX0,2016,2027
+0H9XXZ,No Device,0H9XX,2016,2027
+0H9XXZX,"Drainage of Left Nipple, External Approach, Diagnostic",0H9XXZ,2016,2027
+0H9XXZZ,"Drainage of Left Nipple, External Approach",0H9XXZ,2016,2027
+0HB,Excision,0H,2016,2027
+0HB0,"Skin, Scalp",0HB,2016,2027
+0HB0X,External,0HB0,2016,2027
+0HB0XZ,No Device,0HB0X,2016,2027
+0HB0XZX,"Excision of Scalp Skin, External Approach, Diagnostic",0HB0XZ,2016,2027
+0HB0XZZ,"Excision of Scalp Skin, External Approach",0HB0XZ,2016,2027
+0HB1,"Skin, Face",0HB,2016,2027
+0HB1X,External,0HB1,2016,2027
+0HB1XZ,No Device,0HB1X,2016,2027
+0HB1XZX,"Excision of Face Skin, External Approach, Diagnostic",0HB1XZ,2016,2027
+0HB1XZZ,"Excision of Face Skin, External Approach",0HB1XZ,2016,2027
+0HB2,"Skin, Right Ear",0HB,2016,2027
+0HB2X,External,0HB2,2016,2027
+0HB2XZ,No Device,0HB2X,2016,2027
+0HB2XZX,"Excision of Right Ear Skin, External Approach, Diagnostic",0HB2XZ,2016,2027
+0HB2XZZ,"Excision of Right Ear Skin, External Approach",0HB2XZ,2016,2027
+0HB3,"Skin, Left Ear",0HB,2016,2027
+0HB3X,External,0HB3,2016,2027
+0HB3XZ,No Device,0HB3X,2016,2027
+0HB3XZX,"Excision of Left Ear Skin, External Approach, Diagnostic",0HB3XZ,2016,2027
+0HB3XZZ,"Excision of Left Ear Skin, External Approach",0HB3XZ,2016,2027
+0HB4,"Skin, Neck",0HB,2016,2027
+0HB4X,External,0HB4,2016,2027
+0HB4XZ,No Device,0HB4X,2016,2027
+0HB4XZX,"Excision of Neck Skin, External Approach, Diagnostic",0HB4XZ,2016,2027
+0HB4XZZ,"Excision of Neck Skin, External Approach",0HB4XZ,2016,2027
+0HB5,"Skin, Chest",0HB,2016,2027
+0HB5X,External,0HB5,2016,2027
+0HB5XZ,No Device,0HB5X,2016,2027
+0HB5XZX,"Excision of Chest Skin, External Approach, Diagnostic",0HB5XZ,2016,2027
+0HB5XZZ,"Excision of Chest Skin, External Approach",0HB5XZ,2016,2027
+0HB6,"Skin, Back",0HB,2016,2027
+0HB6X,External,0HB6,2016,2027
+0HB6XZ,No Device,0HB6X,2016,2027
+0HB6XZX,"Excision of Back Skin, External Approach, Diagnostic",0HB6XZ,2016,2027
+0HB6XZZ,"Excision of Back Skin, External Approach",0HB6XZ,2016,2027
+0HB7,"Skin, Abdomen",0HB,2016,2027
+0HB7X,External,0HB7,2016,2027
+0HB7XZ,No Device,0HB7X,2016,2027
+0HB7XZX,"Excision of Abdomen Skin, External Approach, Diagnostic",0HB7XZ,2016,2027
+0HB7XZZ,"Excision of Abdomen Skin, External Approach",0HB7XZ,2016,2027
+0HB8,"Skin, Buttock",0HB,2016,2027
+0HB8X,External,0HB8,2016,2027
+0HB8XZ,No Device,0HB8X,2016,2027
+0HB8XZX,"Excision of Buttock Skin, External Approach, Diagnostic",0HB8XZ,2016,2027
+0HB8XZZ,"Excision of Buttock Skin, External Approach",0HB8XZ,2016,2027
+0HB9,"Skin, Perineum",0HB,2016,2027
+0HB9X,External,0HB9,2016,2027
+0HB9XZ,No Device,0HB9X,2016,2027
+0HB9XZX,"Excision of Perineum Skin, External Approach, Diagnostic",0HB9XZ,2016,2027
+0HB9XZZ,"Excision of Perineum Skin, External Approach",0HB9XZ,2016,2027
+0HBA,"Skin, Inguinal",0HB,2016,2027
+0HBAX,External,0HBA,2016,2027
+0HBAXZ,No Device,0HBAX,2016,2027
+0HBAXZX,"Excision of Inguinal Skin, External Approach, Diagnostic",0HBAXZ,2016,2027
+0HBAXZZ,"Excision of Inguinal Skin, External Approach",0HBAXZ,2016,2027
+0HBB,"Skin, Right Upper Arm",0HB,2016,2027
+0HBBX,External,0HBB,2016,2027
+0HBBXZ,No Device,0HBBX,2016,2027
+0HBBXZX,"Excision of Right Upper Arm Skin, External Approach, Diagnostic",0HBBXZ,2016,2027
+0HBBXZZ,"Excision of Right Upper Arm Skin, External Approach",0HBBXZ,2016,2027
+0HBC,"Skin, Left Upper Arm",0HB,2016,2027
+0HBCX,External,0HBC,2016,2027
+0HBCXZ,No Device,0HBCX,2016,2027
+0HBCXZX,"Excision of Left Upper Arm Skin, External Approach, Diagnostic",0HBCXZ,2016,2027
+0HBCXZZ,"Excision of Left Upper Arm Skin, External Approach",0HBCXZ,2016,2027
+0HBD,"Skin, Right Lower Arm",0HB,2016,2027
+0HBDX,External,0HBD,2016,2027
+0HBDXZ,No Device,0HBDX,2016,2027
+0HBDXZX,"Excision of Right Lower Arm Skin, External Approach, Diagnostic",0HBDXZ,2016,2027
+0HBDXZZ,"Excision of Right Lower Arm Skin, External Approach",0HBDXZ,2016,2027
+0HBE,"Skin, Left Lower Arm",0HB,2016,2027
+0HBEX,External,0HBE,2016,2027
+0HBEXZ,No Device,0HBEX,2016,2027
+0HBEXZX,"Excision of Left Lower Arm Skin, External Approach, Diagnostic",0HBEXZ,2016,2027
+0HBEXZZ,"Excision of Left Lower Arm Skin, External Approach",0HBEXZ,2016,2027
+0HBF,"Skin, Right Hand",0HB,2016,2027
+0HBFX,External,0HBF,2016,2027
+0HBFXZ,No Device,0HBFX,2016,2027
+0HBFXZX,"Excision of Right Hand Skin, External Approach, Diagnostic",0HBFXZ,2016,2027
+0HBFXZZ,"Excision of Right Hand Skin, External Approach",0HBFXZ,2016,2027
+0HBG,"Skin, Left Hand",0HB,2016,2027
+0HBGX,External,0HBG,2016,2027
+0HBGXZ,No Device,0HBGX,2016,2027
+0HBGXZX,"Excision of Left Hand Skin, External Approach, Diagnostic",0HBGXZ,2016,2027
+0HBGXZZ,"Excision of Left Hand Skin, External Approach",0HBGXZ,2016,2027
+0HBH,"Skin, Right Upper Leg",0HB,2016,2027
+0HBHX,External,0HBH,2016,2027
+0HBHXZ,No Device,0HBHX,2016,2027
+0HBHXZX,"Excision of Right Upper Leg Skin, External Approach, Diagnostic",0HBHXZ,2016,2027
+0HBHXZZ,"Excision of Right Upper Leg Skin, External Approach",0HBHXZ,2016,2027
+0HBJ,"Skin, Left Upper Leg",0HB,2016,2027
+0HBJX,External,0HBJ,2016,2027
+0HBJXZ,No Device,0HBJX,2016,2027
+0HBJXZX,"Excision of Left Upper Leg Skin, External Approach, Diagnostic",0HBJXZ,2016,2027
+0HBJXZZ,"Excision of Left Upper Leg Skin, External Approach",0HBJXZ,2016,2027
+0HBK,"Skin, Right Lower Leg",0HB,2016,2027
+0HBKX,External,0HBK,2016,2027
+0HBKXZ,No Device,0HBKX,2016,2027
+0HBKXZX,"Excision of Right Lower Leg Skin, External Approach, Diagnostic",0HBKXZ,2016,2027
+0HBKXZZ,"Excision of Right Lower Leg Skin, External Approach",0HBKXZ,2016,2027
+0HBL,"Skin, Left Lower Leg",0HB,2016,2027
+0HBLX,External,0HBL,2016,2027
+0HBLXZ,No Device,0HBLX,2016,2027
+0HBLXZX,"Excision of Left Lower Leg Skin, External Approach, Diagnostic",0HBLXZ,2016,2027
+0HBLXZZ,"Excision of Left Lower Leg Skin, External Approach",0HBLXZ,2016,2027
+0HBM,"Skin, Right Foot",0HB,2016,2027
+0HBMX,External,0HBM,2016,2027
+0HBMXZ,No Device,0HBMX,2016,2027
+0HBMXZX,"Excision of Right Foot Skin, External Approach, Diagnostic",0HBMXZ,2016,2027
+0HBMXZZ,"Excision of Right Foot Skin, External Approach",0HBMXZ,2016,2027
+0HBN,"Skin, Left Foot",0HB,2016,2027
+0HBNX,External,0HBN,2016,2027
+0HBNXZ,No Device,0HBNX,2016,2027
+0HBNXZX,"Excision of Left Foot Skin, External Approach, Diagnostic",0HBNXZ,2016,2027
+0HBNXZZ,"Excision of Left Foot Skin, External Approach",0HBNXZ,2016,2027
+0HBQ,Finger Nail,0HB,2016,2027
+0HBQX,External,0HBQ,2016,2027
+0HBQXZ,No Device,0HBQX,2016,2027
+0HBQXZX,"Excision of Finger Nail, External Approach, Diagnostic",0HBQXZ,2016,2027
+0HBQXZZ,"Excision of Finger Nail, External Approach",0HBQXZ,2016,2027
+0HBR,Toe Nail,0HB,2016,2027
+0HBRX,External,0HBR,2016,2027
+0HBRXZ,No Device,0HBRX,2016,2027
+0HBRXZX,"Excision of Toe Nail, External Approach, Diagnostic",0HBRXZ,2016,2027
+0HBRXZZ,"Excision of Toe Nail, External Approach",0HBRXZ,2016,2027
+0HBT,"Breast, Right",0HB,2016,2027
+0HBT0,Open,0HBT,2016,2027
+0HBT0Z,No Device,0HBT0,2016,2027
+0HBT0ZX,"Excision of Right Breast, Open Approach, Diagnostic",0HBT0Z,2016,2027
+0HBT0ZZ,"Excision of Right Breast, Open Approach",0HBT0Z,2016,2027
+0HBT3,Percutaneous,0HBT,2016,2027
+0HBT3Z,No Device,0HBT3,2016,2027
+0HBT3ZX,"Excision of Right Breast, Percutaneous Approach, Diagnostic",0HBT3Z,2016,2027
+0HBT3ZZ,"Excision of Right Breast, Percutaneous Approach",0HBT3Z,2016,2027
+0HBT7,Via Natural or Artificial Opening,0HBT,2016,2027
+0HBT7Z,No Device,0HBT7,2016,2027
+0HBT7ZX,"Excision of Right Breast, Via Natural or Artificial Opening, Diagnostic",0HBT7Z,2016,2027
+0HBT7ZZ,"Excision of Right Breast, Via Natural or Artificial Opening",0HBT7Z,2016,2027
+0HBT8,Via Natural or Artificial Opening Endoscopic,0HBT,2016,2027
+0HBT8Z,No Device,0HBT8,2016,2027
+0HBT8ZX,"Excision of Right Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0HBT8Z,2016,2027
+0HBT8ZZ,"Excision of Right Breast, Via Natural or Artificial Opening Endoscopic",0HBT8Z,2016,2027
+0HBTX,External,0HBT,2016,2019
+0HBTXZ,No Device,0HBTX,2016,2019
+0HBTXZX,"Excision of Right Breast, External Approach, Diagnostic",0HBTXZ,2016,2019
+0HBTXZZ,"Excision of Right Breast, External Approach",0HBTXZ,2016,2019
+0HBU,"Breast, Left",0HB,2016,2027
+0HBU0,Open,0HBU,2016,2027
+0HBU0Z,No Device,0HBU0,2016,2027
+0HBU0ZX,"Excision of Left Breast, Open Approach, Diagnostic",0HBU0Z,2016,2027
+0HBU0ZZ,"Excision of Left Breast, Open Approach",0HBU0Z,2016,2027
+0HBU3,Percutaneous,0HBU,2016,2027
+0HBU3Z,No Device,0HBU3,2016,2027
+0HBU3ZX,"Excision of Left Breast, Percutaneous Approach, Diagnostic",0HBU3Z,2016,2027
+0HBU3ZZ,"Excision of Left Breast, Percutaneous Approach",0HBU3Z,2016,2027
+0HBU7,Via Natural or Artificial Opening,0HBU,2016,2027
+0HBU7Z,No Device,0HBU7,2016,2027
+0HBU7ZX,"Excision of Left Breast, Via Natural or Artificial Opening, Diagnostic",0HBU7Z,2016,2027
+0HBU7ZZ,"Excision of Left Breast, Via Natural or Artificial Opening",0HBU7Z,2016,2027
+0HBU8,Via Natural or Artificial Opening Endoscopic,0HBU,2016,2027
+0HBU8Z,No Device,0HBU8,2016,2027
+0HBU8ZX,"Excision of Left Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0HBU8Z,2016,2027
+0HBU8ZZ,"Excision of Left Breast, Via Natural or Artificial Opening Endoscopic",0HBU8Z,2016,2027
+0HBUX,External,0HBU,2016,2019
+0HBUXZ,No Device,0HBUX,2016,2019
+0HBUXZX,"Excision of Left Breast, External Approach, Diagnostic",0HBUXZ,2016,2019
+0HBUXZZ,"Excision of Left Breast, External Approach",0HBUXZ,2016,2019
+0HBV,"Breast, Bilateral",0HB,2016,2027
+0HBV0,Open,0HBV,2016,2027
+0HBV0Z,No Device,0HBV0,2016,2027
+0HBV0ZX,"Excision of Bilateral Breast, Open Approach, Diagnostic",0HBV0Z,2016,2027
+0HBV0ZZ,"Excision of Bilateral Breast, Open Approach",0HBV0Z,2016,2027
+0HBV3,Percutaneous,0HBV,2016,2027
+0HBV3Z,No Device,0HBV3,2016,2027
+0HBV3ZX,"Excision of Bilateral Breast, Percutaneous Approach, Diagnostic",0HBV3Z,2016,2027
+0HBV3ZZ,"Excision of Bilateral Breast, Percutaneous Approach",0HBV3Z,2016,2027
+0HBV7,Via Natural or Artificial Opening,0HBV,2016,2027
+0HBV7Z,No Device,0HBV7,2016,2027
+0HBV7ZX,"Excision of Bilateral Breast, Via Natural or Artificial Opening, Diagnostic",0HBV7Z,2016,2027
+0HBV7ZZ,"Excision of Bilateral Breast, Via Natural or Artificial Opening",0HBV7Z,2016,2027
+0HBV8,Via Natural or Artificial Opening Endoscopic,0HBV,2016,2027
+0HBV8Z,No Device,0HBV8,2016,2027
+0HBV8ZX,"Excision of Bilateral Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0HBV8Z,2016,2027
+0HBV8ZZ,"Excision of Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0HBV8Z,2016,2027
+0HBVX,External,0HBV,2016,2019
+0HBVXZ,No Device,0HBVX,2016,2019
+0HBVXZX,"Excision of Bilateral Breast, External Approach, Diagnostic",0HBVXZ,2016,2019
+0HBVXZZ,"Excision of Bilateral Breast, External Approach",0HBVXZ,2016,2019
+0HBW,"Nipple, Right",0HB,2016,2027
+0HBW0,Open,0HBW,2016,2027
+0HBW0Z,No Device,0HBW0,2016,2027
+0HBW0ZX,"Excision of Right Nipple, Open Approach, Diagnostic",0HBW0Z,2016,2027
+0HBW0ZZ,"Excision of Right Nipple, Open Approach",0HBW0Z,2016,2027
+0HBW3,Percutaneous,0HBW,2016,2027
+0HBW3Z,No Device,0HBW3,2016,2027
+0HBW3ZX,"Excision of Right Nipple, Percutaneous Approach, Diagnostic",0HBW3Z,2016,2027
+0HBW3ZZ,"Excision of Right Nipple, Percutaneous Approach",0HBW3Z,2016,2027
+0HBW7,Via Natural or Artificial Opening,0HBW,2016,2027
+0HBW7Z,No Device,0HBW7,2016,2027
+0HBW7ZX,"Excision of Right Nipple, Via Natural or Artificial Opening, Diagnostic",0HBW7Z,2016,2027
+0HBW7ZZ,"Excision of Right Nipple, Via Natural or Artificial Opening",0HBW7Z,2016,2027
+0HBW8,Via Natural or Artificial Opening Endoscopic,0HBW,2016,2027
+0HBW8Z,No Device,0HBW8,2016,2027
+0HBW8ZX,"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic",0HBW8Z,2016,2027
+0HBW8ZZ,"Excision of Right Nipple, Via Natural or Artificial Opening Endoscopic",0HBW8Z,2016,2027
+0HBWX,External,0HBW,2016,2027
+0HBWXZ,No Device,0HBWX,2016,2027
+0HBWXZX,"Excision of Right Nipple, External Approach, Diagnostic",0HBWXZ,2016,2027
+0HBWXZZ,"Excision of Right Nipple, External Approach",0HBWXZ,2016,2027
+0HBX,"Nipple, Left",0HB,2016,2027
+0HBX0,Open,0HBX,2016,2027
+0HBX0Z,No Device,0HBX0,2016,2027
+0HBX0ZX,"Excision of Left Nipple, Open Approach, Diagnostic",0HBX0Z,2016,2027
+0HBX0ZZ,"Excision of Left Nipple, Open Approach",0HBX0Z,2016,2027
+0HBX3,Percutaneous,0HBX,2016,2027
+0HBX3Z,No Device,0HBX3,2016,2027
+0HBX3ZX,"Excision of Left Nipple, Percutaneous Approach, Diagnostic",0HBX3Z,2016,2027
+0HBX3ZZ,"Excision of Left Nipple, Percutaneous Approach",0HBX3Z,2016,2027
+0HBX7,Via Natural or Artificial Opening,0HBX,2016,2027
+0HBX7Z,No Device,0HBX7,2016,2027
+0HBX7ZX,"Excision of Left Nipple, Via Natural or Artificial Opening, Diagnostic",0HBX7Z,2016,2027
+0HBX7ZZ,"Excision of Left Nipple, Via Natural or Artificial Opening",0HBX7Z,2016,2027
+0HBX8,Via Natural or Artificial Opening Endoscopic,0HBX,2016,2027
+0HBX8Z,No Device,0HBX8,2016,2027
+0HBX8ZX,"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic, Diagnostic",0HBX8Z,2016,2027
+0HBX8ZZ,"Excision of Left Nipple, Via Natural or Artificial Opening Endoscopic",0HBX8Z,2016,2027
+0HBXX,External,0HBX,2016,2027
+0HBXXZ,No Device,0HBXX,2016,2027
+0HBXXZX,"Excision of Left Nipple, External Approach, Diagnostic",0HBXXZ,2016,2027
+0HBXXZZ,"Excision of Left Nipple, External Approach",0HBXXZ,2016,2027
+0HBY,Supernumerary Breast,0HB,2016,2027
+0HBY0,Open,0HBY,2016,2027
+0HBY0Z,No Device,0HBY0,2016,2027
+0HBY0ZX,"Excision of Supernumerary Breast, Open Approach, Diagnostic",0HBY0Z,2016,2027
+0HBY0ZZ,"Excision of Supernumerary Breast, Open Approach",0HBY0Z,2016,2027
+0HBY3,Percutaneous,0HBY,2016,2027
+0HBY3Z,No Device,0HBY3,2016,2027
+0HBY3ZX,"Excision of Supernumerary Breast, Percutaneous Approach, Diagnostic",0HBY3Z,2016,2027
+0HBY3ZZ,"Excision of Supernumerary Breast, Percutaneous Approach",0HBY3Z,2016,2027
+0HBY7,Via Natural or Artificial Opening,0HBY,2016,2027
+0HBY7Z,No Device,0HBY7,2016,2027
+0HBY7ZX,"Excision of Supernumerary Breast, Via Natural or Artificial Opening, Diagnostic",0HBY7Z,2016,2027
+0HBY7ZZ,"Excision of Supernumerary Breast, Via Natural or Artificial Opening",0HBY7Z,2016,2027
+0HBY8,Via Natural or Artificial Opening Endoscopic,0HBY,2016,2027
+0HBY8Z,No Device,0HBY8,2016,2027
+0HBY8ZX,"Excision of Supernumerary Breast, Via Natural or Artificial Opening Endoscopic, Diagnostic",0HBY8Z,2016,2027
+0HBY8ZZ,"Excision of Supernumerary Breast, Via Natural or Artificial Opening Endoscopic",0HBY8Z,2016,2027
+0HBYX,External,0HBY,2016,2019
+0HBYXZ,No Device,0HBYX,2016,2019
+0HBYXZX,"Excision of Supernumerary Breast, External Approach, Diagnostic",0HBYXZ,2016,2019
+0HBYXZZ,"Excision of Supernumerary Breast, External Approach",0HBYXZ,2016,2019
+0HC,Extirpation,0H,2016,2027
+0HC0,"Skin, Scalp",0HC,2016,2027
+0HC0X,External,0HC0,2016,2027
+0HC0XZ,No Device,0HC0X,2016,2027
+0HC0XZZ,"Extirpation of Matter from Scalp Skin, External Approach",0HC0XZ,2016,2027
+0HC1,"Skin, Face",0HC,2016,2027
+0HC1X,External,0HC1,2016,2027
+0HC1XZ,No Device,0HC1X,2016,2027
+0HC1XZZ,"Extirpation of Matter from Face Skin, External Approach",0HC1XZ,2016,2027
+0HC2,"Skin, Right Ear",0HC,2016,2027
+0HC2X,External,0HC2,2016,2027
+0HC2XZ,No Device,0HC2X,2016,2027
+0HC2XZZ,"Extirpation of Matter from Right Ear Skin, External Approach",0HC2XZ,2016,2027
+0HC3,"Skin, Left Ear",0HC,2016,2027
+0HC3X,External,0HC3,2016,2027
+0HC3XZ,No Device,0HC3X,2016,2027
+0HC3XZZ,"Extirpation of Matter from Left Ear Skin, External Approach",0HC3XZ,2016,2027
+0HC4,"Skin, Neck",0HC,2016,2027
+0HC4X,External,0HC4,2016,2027
+0HC4XZ,No Device,0HC4X,2016,2027
+0HC4XZZ,"Extirpation of Matter from Neck Skin, External Approach",0HC4XZ,2016,2027
+0HC5,"Skin, Chest",0HC,2016,2027
+0HC5X,External,0HC5,2016,2027
+0HC5XZ,No Device,0HC5X,2016,2027
+0HC5XZZ,"Extirpation of Matter from Chest Skin, External Approach",0HC5XZ,2016,2027
+0HC6,"Skin, Back",0HC,2016,2027
+0HC6X,External,0HC6,2016,2027
+0HC6XZ,No Device,0HC6X,2016,2027
+0HC6XZZ,"Extirpation of Matter from Back Skin, External Approach",0HC6XZ,2016,2027
+0HC7,"Skin, Abdomen",0HC,2016,2027
+0HC7X,External,0HC7,2016,2027
+0HC7XZ,No Device,0HC7X,2016,2027
+0HC7XZZ,"Extirpation of Matter from Abdomen Skin, External Approach",0HC7XZ,2016,2027
+0HC8,"Skin, Buttock",0HC,2016,2027
+0HC8X,External,0HC8,2016,2027
+0HC8XZ,No Device,0HC8X,2016,2027
+0HC8XZZ,"Extirpation of Matter from Buttock Skin, External Approach",0HC8XZ,2016,2027
+0HC9,"Skin, Perineum",0HC,2016,2027
+0HC9X,External,0HC9,2016,2027
+0HC9XZ,No Device,0HC9X,2016,2027
+0HC9XZZ,"Extirpation of Matter from Perineum Skin, External Approach",0HC9XZ,2016,2027
+0HCA,"Skin, Inguinal",0HC,2016,2027
+0HCAX,External,0HCA,2016,2027
+0HCAXZ,No Device,0HCAX,2016,2027
+0HCAXZZ,"Extirpation of Matter from Inguinal Skin, External Approach",0HCAXZ,2016,2027
+0HCB,"Skin, Right Upper Arm",0HC,2016,2027
+0HCBX,External,0HCB,2016,2027
+0HCBXZ,No Device,0HCBX,2016,2027
+0HCBXZZ,"Extirpation of Matter from Right Upper Arm Skin, External Approach",0HCBXZ,2016,2027
+0HCC,"Skin, Left Upper Arm",0HC,2016,2027
+0HCCX,External,0HCC,2016,2027
+0HCCXZ,No Device,0HCCX,2016,2027
+0HCCXZZ,"Extirpation of Matter from Left Upper Arm Skin, External Approach",0HCCXZ,2016,2027
+0HCD,"Skin, Right Lower Arm",0HC,2016,2027
+0HCDX,External,0HCD,2016,2027
+0HCDXZ,No Device,0HCDX,2016,2027
+0HCDXZZ,"Extirpation of Matter from Right Lower Arm Skin, External Approach",0HCDXZ,2016,2027
+0HCE,"Skin, Left Lower Arm",0HC,2016,2027
+0HCEX,External,0HCE,2016,2027
+0HCEXZ,No Device,0HCEX,2016,2027
+0HCEXZZ,"Extirpation of Matter from Left Lower Arm Skin, External Approach",0HCEXZ,2016,2027
+0HCF,"Skin, Right Hand",0HC,2016,2027
+0HCFX,External,0HCF,2016,2027
+0HCFXZ,No Device,0HCFX,2016,2027
+0HCFXZZ,"Extirpation of Matter from Right Hand Skin, External Approach",0HCFXZ,2016,2027
+0HCG,"Skin, Left Hand",0HC,2016,2027
+0HCGX,External,0HCG,2016,2027
+0HCGXZ,No Device,0HCGX,2016,2027
+0HCGXZZ,"Extirpation of Matter from Left Hand Skin, External Approach",0HCGXZ,2016,2027
+0HCH,"Skin, Right Upper Leg",0HC,2016,2027
+0HCHX,External,0HCH,2016,2027
+0HCHXZ,No Device,0HCHX,2016,2027
+0HCHXZZ,"Extirpation of Matter from Right Upper Leg Skin, External Approach",0HCHXZ,2016,2027
+0HCJ,"Skin, Left Upper Leg",0HC,2016,2027
+0HCJX,External,0HCJ,2016,2027
+0HCJXZ,No Device,0HCJX,2016,2027
+0HCJXZZ,"Extirpation of Matter from Left Upper Leg Skin, External Approach",0HCJXZ,2016,2027
+0HCK,"Skin, Right Lower Leg",0HC,2016,2027
+0HCKX,External,0HCK,2016,2027
+0HCKXZ,No Device,0HCKX,2016,2027
+0HCKXZZ,"Extirpation of Matter from Right Lower Leg Skin, External Approach",0HCKXZ,2016,2027
+0HCL,"Skin, Left Lower Leg",0HC,2016,2027
+0HCLX,External,0HCL,2016,2027
+0HCLXZ,No Device,0HCLX,2016,2027
+0HCLXZZ,"Extirpation of Matter from Left Lower Leg Skin, External Approach",0HCLXZ,2016,2027
+0HCM,"Skin, Right Foot",0HC,2016,2027
+0HCMX,External,0HCM,2016,2027
+0HCMXZ,No Device,0HCMX,2016,2027
+0HCMXZZ,"Extirpation of Matter from Right Foot Skin, External Approach",0HCMXZ,2016,2027
+0HCN,"Skin, Left Foot",0HC,2016,2027
+0HCNX,External,0HCN,2016,2027
+0HCNXZ,No Device,0HCNX,2016,2027
+0HCNXZZ,"Extirpation of Matter from Left Foot Skin, External Approach",0HCNXZ,2016,2027
+0HCQ,Finger Nail,0HC,2016,2027
+0HCQX,External,0HCQ,2016,2027
+0HCQXZ,No Device,0HCQX,2016,2027
+0HCQXZZ,"Extirpation of Matter from Finger Nail, External Approach",0HCQXZ,2016,2027
+0HCR,Toe Nail,0HC,2016,2027
+0HCRX,External,0HCR,2016,2027
+0HCRXZ,No Device,0HCRX,2016,2027
+0HCRXZZ,"Extirpation of Matter from Toe Nail, External Approach",0HCRXZ,2016,2027
+0HCT,"Breast, Right",0HC,2016,2027
+0HCT0,Open,0HCT,2016,2027
+0HCT0Z,No Device,0HCT0,2016,2027
+0HCT0ZZ,"Extirpation of Matter from Right Breast, Open Approach",0HCT0Z,2016,2027
+0HCT3,Percutaneous,0HCT,2016,2027
+0HCT3Z,No Device,0HCT3,2016,2027
+0HCT3ZZ,"Extirpation of Matter from Right Breast, Percutaneous Approach",0HCT3Z,2016,2027
+0HCT7,Via Natural or Artificial Opening,0HCT,2016,2027
+0HCT7Z,No Device,0HCT7,2016,2027
+0HCT7ZZ,"Extirpation of Matter from Right Breast, Via Natural or Artificial Opening",0HCT7Z,2016,2027
+0HCT8,Via Natural or Artificial Opening Endoscopic,0HCT,2016,2027
+0HCT8Z,No Device,0HCT8,2016,2027
+0HCT8ZZ,"Extirpation of Matter from Right Breast, Via Natural or Artificial Opening Endoscopic",0HCT8Z,2016,2027
+0HCTX,External,0HCT,2016,2019
+0HCTXZ,No Device,0HCTX,2016,2019
+0HCTXZZ,"Extirpation of Matter from Right Breast, External Approach",0HCTXZ,2016,2019
+0HCU,"Breast, Left",0HC,2016,2027
+0HCU0,Open,0HCU,2016,2027
+0HCU0Z,No Device,0HCU0,2016,2027
+0HCU0ZZ,"Extirpation of Matter from Left Breast, Open Approach",0HCU0Z,2016,2027
+0HCU3,Percutaneous,0HCU,2016,2027
+0HCU3Z,No Device,0HCU3,2016,2027
+0HCU3ZZ,"Extirpation of Matter from Left Breast, Percutaneous Approach",0HCU3Z,2016,2027
+0HCU7,Via Natural or Artificial Opening,0HCU,2016,2027
+0HCU7Z,No Device,0HCU7,2016,2027
+0HCU7ZZ,"Extirpation of Matter from Left Breast, Via Natural or Artificial Opening",0HCU7Z,2016,2027
+0HCU8,Via Natural or Artificial Opening Endoscopic,0HCU,2016,2027
+0HCU8Z,No Device,0HCU8,2016,2027
+0HCU8ZZ,"Extirpation of Matter from Left Breast, Via Natural or Artificial Opening Endoscopic",0HCU8Z,2016,2027
+0HCUX,External,0HCU,2016,2019
+0HCUXZ,No Device,0HCUX,2016,2019
+0HCUXZZ,"Extirpation of Matter from Left Breast, External Approach",0HCUXZ,2016,2019
+0HCV,"Breast, Bilateral",0HC,2016,2027
+0HCV0,Open,0HCV,2016,2027
+0HCV0Z,No Device,0HCV0,2016,2027
+0HCV0ZZ,"Extirpation of Matter from Bilateral Breast, Open Approach",0HCV0Z,2016,2027
+0HCV3,Percutaneous,0HCV,2016,2027
+0HCV3Z,No Device,0HCV3,2016,2027
+0HCV3ZZ,"Extirpation of Matter from Bilateral Breast, Percutaneous Approach",0HCV3Z,2016,2027
+0HCV7,Via Natural or Artificial Opening,0HCV,2016,2027
+0HCV7Z,No Device,0HCV7,2016,2027
+0HCV7ZZ,"Extirpation of Matter from Bilateral Breast, Via Natural or Artificial Opening",0HCV7Z,2016,2027
+0HCV8,Via Natural or Artificial Opening Endoscopic,0HCV,2016,2027
+0HCV8Z,No Device,0HCV8,2016,2027
+0HCV8ZZ,"Extirpation of Matter from Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0HCV8Z,2016,2027
+0HCVX,External,0HCV,2016,2019
+0HCVXZ,No Device,0HCVX,2016,2019
+0HCVXZZ,"Extirpation of Matter from Bilateral Breast, External Approach",0HCVXZ,2016,2019
+0HCW,"Nipple, Right",0HC,2016,2027
+0HCW0,Open,0HCW,2016,2027
+0HCW0Z,No Device,0HCW0,2016,2027
+0HCW0ZZ,"Extirpation of Matter from Right Nipple, Open Approach",0HCW0Z,2016,2027
+0HCW3,Percutaneous,0HCW,2016,2027
+0HCW3Z,No Device,0HCW3,2016,2027
+0HCW3ZZ,"Extirpation of Matter from Right Nipple, Percutaneous Approach",0HCW3Z,2016,2027
+0HCW7,Via Natural or Artificial Opening,0HCW,2016,2027
+0HCW7Z,No Device,0HCW7,2016,2027
+0HCW7ZZ,"Extirpation of Matter from Right Nipple, Via Natural or Artificial Opening",0HCW7Z,2016,2027
+0HCW8,Via Natural or Artificial Opening Endoscopic,0HCW,2016,2027
+0HCW8Z,No Device,0HCW8,2016,2027
+0HCW8ZZ,"Extirpation of Matter from Right Nipple, Via Natural or Artificial Opening Endoscopic",0HCW8Z,2016,2027
+0HCWX,External,0HCW,2016,2027
+0HCWXZ,No Device,0HCWX,2016,2027
+0HCWXZZ,"Extirpation of Matter from Right Nipple, External Approach",0HCWXZ,2016,2027
+0HCX,"Nipple, Left",0HC,2016,2027
+0HCX0,Open,0HCX,2016,2027
+0HCX0Z,No Device,0HCX0,2016,2027
+0HCX0ZZ,"Extirpation of Matter from Left Nipple, Open Approach",0HCX0Z,2016,2027
+0HCX3,Percutaneous,0HCX,2016,2027
+0HCX3Z,No Device,0HCX3,2016,2027
+0HCX3ZZ,"Extirpation of Matter from Left Nipple, Percutaneous Approach",0HCX3Z,2016,2027
+0HCX7,Via Natural or Artificial Opening,0HCX,2016,2027
+0HCX7Z,No Device,0HCX7,2016,2027
+0HCX7ZZ,"Extirpation of Matter from Left Nipple, Via Natural or Artificial Opening",0HCX7Z,2016,2027
+0HCX8,Via Natural or Artificial Opening Endoscopic,0HCX,2016,2027
+0HCX8Z,No Device,0HCX8,2016,2027
+0HCX8ZZ,"Extirpation of Matter from Left Nipple, Via Natural or Artificial Opening Endoscopic",0HCX8Z,2016,2027
+0HCXX,External,0HCX,2016,2027
+0HCXXZ,No Device,0HCXX,2016,2027
+0HCXXZZ,"Extirpation of Matter from Left Nipple, External Approach",0HCXXZ,2016,2027
+0HD,Extraction,0H,2016,2027
+0HD0,"Skin, Scalp",0HD,2016,2027
+0HD0X,External,0HD0,2016,2027
+0HD0XZ,No Device,0HD0X,2016,2027
+0HD0XZZ,"Extraction of Scalp Skin, External Approach",0HD0XZ,2016,2027
+0HD1,"Skin, Face",0HD,2016,2027
+0HD1X,External,0HD1,2016,2027
+0HD1XZ,No Device,0HD1X,2016,2027
+0HD1XZZ,"Extraction of Face Skin, External Approach",0HD1XZ,2016,2027
+0HD2,"Skin, Right Ear",0HD,2016,2027
+0HD2X,External,0HD2,2016,2027
+0HD2XZ,No Device,0HD2X,2016,2027
+0HD2XZZ,"Extraction of Right Ear Skin, External Approach",0HD2XZ,2016,2027
+0HD3,"Skin, Left Ear",0HD,2016,2027
+0HD3X,External,0HD3,2016,2027
+0HD3XZ,No Device,0HD3X,2016,2027
+0HD3XZZ,"Extraction of Left Ear Skin, External Approach",0HD3XZ,2016,2027
+0HD4,"Skin, Neck",0HD,2016,2027
+0HD4X,External,0HD4,2016,2027
+0HD4XZ,No Device,0HD4X,2016,2027
+0HD4XZZ,"Extraction of Neck Skin, External Approach",0HD4XZ,2016,2027
+0HD5,"Skin, Chest",0HD,2016,2027
+0HD5X,External,0HD5,2016,2027
+0HD5XZ,No Device,0HD5X,2016,2027
+0HD5XZZ,"Extraction of Chest Skin, External Approach",0HD5XZ,2016,2027
+0HD6,"Skin, Back",0HD,2016,2027
+0HD6X,External,0HD6,2016,2027
+0HD6XZ,No Device,0HD6X,2016,2027
+0HD6XZZ,"Extraction of Back Skin, External Approach",0HD6XZ,2016,2027
+0HD7,"Skin, Abdomen",0HD,2016,2027
+0HD7X,External,0HD7,2016,2027
+0HD7XZ,No Device,0HD7X,2016,2027
+0HD7XZZ,"Extraction of Abdomen Skin, External Approach",0HD7XZ,2016,2027
+0HD8,"Skin, Buttock",0HD,2016,2027
+0HD8X,External,0HD8,2016,2027
+0HD8XZ,No Device,0HD8X,2016,2027
+0HD8XZZ,"Extraction of Buttock Skin, External Approach",0HD8XZ,2016,2027
+0HD9,"Skin, Perineum",0HD,2016,2027
+0HD9X,External,0HD9,2016,2027
+0HD9XZ,No Device,0HD9X,2016,2027
+0HD9XZZ,"Extraction of Perineum Skin, External Approach",0HD9XZ,2016,2027
+0HDA,"Skin, Inguinal",0HD,2016,2027
+0HDAX,External,0HDA,2016,2027
+0HDAXZ,No Device,0HDAX,2016,2027
+0HDAXZZ,"Extraction of Inguinal Skin, External Approach",0HDAXZ,2016,2027
+0HDB,"Skin, Right Upper Arm",0HD,2016,2027
+0HDBX,External,0HDB,2016,2027
+0HDBXZ,No Device,0HDBX,2016,2027
+0HDBXZZ,"Extraction of Right Upper Arm Skin, External Approach",0HDBXZ,2016,2027
+0HDC,"Skin, Left Upper Arm",0HD,2016,2027
+0HDCX,External,0HDC,2016,2027
+0HDCXZ,No Device,0HDCX,2016,2027
+0HDCXZZ,"Extraction of Left Upper Arm Skin, External Approach",0HDCXZ,2016,2027
+0HDD,"Skin, Right Lower Arm",0HD,2016,2027
+0HDDX,External,0HDD,2016,2027
+0HDDXZ,No Device,0HDDX,2016,2027
+0HDDXZZ,"Extraction of Right Lower Arm Skin, External Approach",0HDDXZ,2016,2027
+0HDE,"Skin, Left Lower Arm",0HD,2016,2027
+0HDEX,External,0HDE,2016,2027
+0HDEXZ,No Device,0HDEX,2016,2027
+0HDEXZZ,"Extraction of Left Lower Arm Skin, External Approach",0HDEXZ,2016,2027
+0HDF,"Skin, Right Hand",0HD,2016,2027
+0HDFX,External,0HDF,2016,2027
+0HDFXZ,No Device,0HDFX,2016,2027
+0HDFXZZ,"Extraction of Right Hand Skin, External Approach",0HDFXZ,2016,2027
+0HDG,"Skin, Left Hand",0HD,2016,2027
+0HDGX,External,0HDG,2016,2027
+0HDGXZ,No Device,0HDGX,2016,2027
+0HDGXZZ,"Extraction of Left Hand Skin, External Approach",0HDGXZ,2016,2027
+0HDH,"Skin, Right Upper Leg",0HD,2016,2027
+0HDHX,External,0HDH,2016,2027
+0HDHXZ,No Device,0HDHX,2016,2027
+0HDHXZZ,"Extraction of Right Upper Leg Skin, External Approach",0HDHXZ,2016,2027
+0HDJ,"Skin, Left Upper Leg",0HD,2016,2027
+0HDJX,External,0HDJ,2016,2027
+0HDJXZ,No Device,0HDJX,2016,2027
+0HDJXZZ,"Extraction of Left Upper Leg Skin, External Approach",0HDJXZ,2016,2027
+0HDK,"Skin, Right Lower Leg",0HD,2016,2027
+0HDKX,External,0HDK,2016,2027
+0HDKXZ,No Device,0HDKX,2016,2027
+0HDKXZZ,"Extraction of Right Lower Leg Skin, External Approach",0HDKXZ,2016,2027
+0HDL,"Skin, Left Lower Leg",0HD,2016,2027
+0HDLX,External,0HDL,2016,2027
+0HDLXZ,No Device,0HDLX,2016,2027
+0HDLXZZ,"Extraction of Left Lower Leg Skin, External Approach",0HDLXZ,2016,2027
+0HDM,"Skin, Right Foot",0HD,2016,2027
+0HDMX,External,0HDM,2016,2027
+0HDMXZ,No Device,0HDMX,2016,2027
+0HDMXZZ,"Extraction of Right Foot Skin, External Approach",0HDMXZ,2016,2027
+0HDN,"Skin, Left Foot",0HD,2016,2027
+0HDNX,External,0HDN,2016,2027
+0HDNXZ,No Device,0HDNX,2016,2027
+0HDNXZZ,"Extraction of Left Foot Skin, External Approach",0HDNXZ,2016,2027
+0HDQ,Finger Nail,0HD,2016,2027
+0HDQX,External,0HDQ,2016,2027
+0HDQXZ,No Device,0HDQX,2016,2027
+0HDQXZZ,"Extraction of Finger Nail, External Approach",0HDQXZ,2016,2027
+0HDR,Toe Nail,0HD,2016,2027
+0HDRX,External,0HDR,2016,2027
+0HDRXZ,No Device,0HDRX,2016,2027
+0HDRXZZ,"Extraction of Toe Nail, External Approach",0HDRXZ,2016,2027
+0HDS,Hair,0HD,2016,2027
+0HDSX,External,0HDS,2016,2027
+0HDSXZ,No Device,0HDSX,2016,2027
+0HDSXZZ,"Extraction of Hair, External Approach",0HDSXZ,2016,2027
+0HDT,"Breast, Right",0HD,2020,2027
+0HDT0,Open,0HDT,2020,2027
+0HDT0Z,No Device,0HDT0,2020,2027
+0HDT0ZZ,"Extraction of Right Breast, Open Approach",0HDT0Z,2020,2027
+0HDU,"Breast, Left",0HD,2020,2027
+0HDU0,Open,0HDU,2020,2027
+0HDU0Z,No Device,0HDU0,2020,2027
+0HDU0ZZ,"Extraction of Left Breast, Open Approach",0HDU0Z,2020,2027
+0HDV,"Breast, Bilateral",0HD,2020,2027
+0HDV0,Open,0HDV,2020,2027
+0HDV0Z,No Device,0HDV0,2020,2027
+0HDV0ZZ,"Extraction of Bilateral Breast, Open Approach",0HDV0Z,2020,2027
+0HDY,Supernumerary Breast,0HD,2020,2027
+0HDY0,Open,0HDY,2020,2027
+0HDY0Z,No Device,0HDY0,2020,2027
+0HDY0ZZ,"Extraction of Supernumerary Breast, Open Approach",0HDY0Z,2020,2027
+0HH,Insertion,0H,2016,2027
+0HHP,Skin,0HH,2018,2027
+0HHPX,External,0HHP,2018,2027
+0HHPXY,Other Device,0HHPX,2018,2027
+0HHPXYZ,"Insertion of Other Device into Skin, External Approach",0HHPXY,2018,2027
+0HHT,"Breast, Right",0HH,2016,2027
+0HHT0,Open,0HHT,2016,2027
+0HHT01,Radioactive Element,0HHT0,2016,2027
+0HHT01Z,"Insertion of Radioactive Element into Right Breast, Open Approach",0HHT01,2016,2027
+0HHT0N,Tissue Expander,0HHT0,2016,2027
+0HHT0NZ,"Insertion of Tissue Expander into Right Breast, Open Approach",0HHT0N,2016,2027
+0HHT0Y,Other Device,0HHT0,2018,2027
+0HHT0YZ,"Insertion of Other Device into Right Breast, Open Approach",0HHT0Y,2018,2027
+0HHT3,Percutaneous,0HHT,2016,2027
+0HHT31,Radioactive Element,0HHT3,2016,2027
+0HHT31Z,"Insertion of Radioactive Element into Right Breast, Percutaneous Approach",0HHT31,2016,2027
+0HHT3N,Tissue Expander,0HHT3,2016,2027
+0HHT3NZ,"Insertion of Tissue Expander into Right Breast, Percutaneous Approach",0HHT3N,2016,2027
+0HHT3Y,Other Device,0HHT3,2018,2027
+0HHT3YZ,"Insertion of Other Device into Right Breast, Percutaneous Approach",0HHT3Y,2018,2027
+0HHT7,Via Natural or Artificial Opening,0HHT,2016,2027
+0HHT71,Radioactive Element,0HHT7,2016,2027
+0HHT71Z,"Insertion of Radioactive Element into Right Breast, Via Natural or Artificial Opening",0HHT71,2016,2027
+0HHT7N,Tissue Expander,0HHT7,2016,2027
+0HHT7NZ,"Insertion of Tissue Expander into Right Breast, Via Natural or Artificial Opening",0HHT7N,2016,2027
+0HHT7Y,Other Device,0HHT7,2018,2027
+0HHT7YZ,"Insertion of Other Device into Right Breast, Via Natural or Artificial Opening",0HHT7Y,2018,2027
+0HHT8,Via Natural or Artificial Opening Endoscopic,0HHT,2016,2027
+0HHT81,Radioactive Element,0HHT8,2016,2027
+0HHT81Z,"Insertion of Radioactive Element into Right Breast, Via Natural or Artificial Opening Endoscopic",0HHT81,2016,2027
+0HHT8N,Tissue Expander,0HHT8,2016,2027
+0HHT8NZ,"Insertion of Tissue Expander into Right Breast, Via Natural or Artificial Opening Endoscopic",0HHT8N,2016,2027
+0HHT8Y,Other Device,0HHT8,2018,2027
+0HHT8YZ,"Insertion of Other Device into Right Breast, Via Natural or Artificial Opening Endoscopic",0HHT8Y,2018,2027
+0HHTX,External,0HHT,2016,2019
+0HHTX1,Radioactive Element,0HHTX,2016,2019
+0HHTX1Z,"Insertion of Radioactive Element into Right Breast, External Approach",0HHTX1,2016,2019
+0HHU,"Breast, Left",0HH,2016,2027
+0HHU0,Open,0HHU,2016,2027
+0HHU01,Radioactive Element,0HHU0,2016,2027
+0HHU01Z,"Insertion of Radioactive Element into Left Breast, Open Approach",0HHU01,2016,2027
+0HHU0N,Tissue Expander,0HHU0,2016,2027
+0HHU0NZ,"Insertion of Tissue Expander into Left Breast, Open Approach",0HHU0N,2016,2027
+0HHU0Y,Other Device,0HHU0,2018,2027
+0HHU0YZ,"Insertion of Other Device into Left Breast, Open Approach",0HHU0Y,2018,2027
+0HHU3,Percutaneous,0HHU,2016,2027
+0HHU31,Radioactive Element,0HHU3,2016,2027
+0HHU31Z,"Insertion of Radioactive Element into Left Breast, Percutaneous Approach",0HHU31,2016,2027
+0HHU3N,Tissue Expander,0HHU3,2016,2027
+0HHU3NZ,"Insertion of Tissue Expander into Left Breast, Percutaneous Approach",0HHU3N,2016,2027
+0HHU3Y,Other Device,0HHU3,2018,2027
+0HHU3YZ,"Insertion of Other Device into Left Breast, Percutaneous Approach",0HHU3Y,2018,2027
+0HHU7,Via Natural or Artificial Opening,0HHU,2016,2027
+0HHU71,Radioactive Element,0HHU7,2016,2027
+0HHU71Z,"Insertion of Radioactive Element into Left Breast, Via Natural or Artificial Opening",0HHU71,2016,2027
+0HHU7N,Tissue Expander,0HHU7,2016,2027
+0HHU7NZ,"Insertion of Tissue Expander into Left Breast, Via Natural or Artificial Opening",0HHU7N,2016,2027
+0HHU7Y,Other Device,0HHU7,2018,2027
+0HHU7YZ,"Insertion of Other Device into Left Breast, Via Natural or Artificial Opening",0HHU7Y,2018,2027
+0HHU8,Via Natural or Artificial Opening Endoscopic,0HHU,2016,2027
+0HHU81,Radioactive Element,0HHU8,2016,2027
+0HHU81Z,"Insertion of Radioactive Element into Left Breast, Via Natural or Artificial Opening Endoscopic",0HHU81,2016,2027
+0HHU8N,Tissue Expander,0HHU8,2016,2027
+0HHU8NZ,"Insertion of Tissue Expander into Left Breast, Via Natural or Artificial Opening Endoscopic",0HHU8N,2016,2027
+0HHU8Y,Other Device,0HHU8,2018,2027
+0HHU8YZ,"Insertion of Other Device into Left Breast, Via Natural or Artificial Opening Endoscopic",0HHU8Y,2018,2027
+0HHUX,External,0HHU,2016,2019
+0HHUX1,Radioactive Element,0HHUX,2016,2019
+0HHUX1Z,"Insertion of Radioactive Element into Left Breast, External Approach",0HHUX1,2016,2019
+0HHV,"Breast, Bilateral",0HH,2016,2027
+0HHV0,Open,0HHV,2016,2027
+0HHV01,Radioactive Element,0HHV0,2016,2027
+0HHV01Z,"Insertion of Radioactive Element into Bilateral Breast, Open Approach",0HHV01,2016,2027
+0HHV0N,Tissue Expander,0HHV0,2016,2027
+0HHV0NZ,"Insertion of Tissue Expander into Bilateral Breast, Open Approach",0HHV0N,2016,2027
+0HHV3,Percutaneous,0HHV,2016,2027
+0HHV31,Radioactive Element,0HHV3,2016,2027
+0HHV31Z,"Insertion of Radioactive Element into Bilateral Breast, Percutaneous Approach",0HHV31,2016,2027
+0HHV3N,Tissue Expander,0HHV3,2016,2027
+0HHV3NZ,"Insertion of Tissue Expander into Bilateral Breast, Percutaneous Approach",0HHV3N,2016,2027
+0HHV7,Via Natural or Artificial Opening,0HHV,2016,2027
+0HHV71,Radioactive Element,0HHV7,2016,2027
+0HHV71Z,"Insertion of Radioactive Element into Bilateral Breast, Via Natural or Artificial Opening",0HHV71,2016,2027
+0HHV7N,Tissue Expander,0HHV7,2016,2027
+0HHV7NZ,"Insertion of Tissue Expander into Bilateral Breast, Via Natural or Artificial Opening",0HHV7N,2016,2027
+0HHV8,Via Natural or Artificial Opening Endoscopic,0HHV,2016,2027
+0HHV81,Radioactive Element,0HHV8,2016,2027
+0HHV81Z,"Insertion of Radioactive Element into Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0HHV81,2016,2027
+0HHV8N,Tissue Expander,0HHV8,2016,2027
+0HHV8NZ,"Insertion of Tissue Expander into Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0HHV8N,2016,2027
+0HHVX,External,0HHV,2016,2019
+0HHVX1,Radioactive Element,0HHVX,2016,2019
+0HHVX1Z,"Insertion of Radioactive Element into Bilateral Breast, External Approach",0HHVX1,2016,2019
+0HHW,"Nipple, Right",0HH,2016,2027
+0HHW0,Open,0HHW,2016,2027
+0HHW01,Radioactive Element,0HHW0,2016,2027
+0HHW01Z,"Insertion of Radioactive Element into Right Nipple, Open Approach",0HHW01,2016,2027
+0HHW0N,Tissue Expander,0HHW0,2016,2027
+0HHW0NZ,"Insertion of Tissue Expander into Right Nipple, Open Approach",0HHW0N,2016,2027
+0HHW3,Percutaneous,0HHW,2016,2027
+0HHW31,Radioactive Element,0HHW3,2016,2027
+0HHW31Z,"Insertion of Radioactive Element into Right Nipple, Percutaneous Approach",0HHW31,2016,2027
+0HHW3N,Tissue Expander,0HHW3,2016,2027
+0HHW3NZ,"Insertion of Tissue Expander into Right Nipple, Percutaneous Approach",0HHW3N,2016,2027
+0HHW7,Via Natural or Artificial Opening,0HHW,2016,2027
+0HHW71,Radioactive Element,0HHW7,2016,2027
+0HHW71Z,"Insertion of Radioactive Element into Right Nipple, Via Natural or Artificial Opening",0HHW71,2016,2027
+0HHW7N,Tissue Expander,0HHW7,2016,2027
+0HHW7NZ,"Insertion of Tissue Expander into Right Nipple, Via Natural or Artificial Opening",0HHW7N,2016,2027
+0HHW8,Via Natural or Artificial Opening Endoscopic,0HHW,2016,2027
+0HHW81,Radioactive Element,0HHW8,2016,2027
+0HHW81Z,"Insertion of Radioactive Element into Right Nipple, Via Natural or Artificial Opening Endoscopic",0HHW81,2016,2027
+0HHW8N,Tissue Expander,0HHW8,2016,2027
+0HHW8NZ,"Insertion of Tissue Expander into Right Nipple, Via Natural or Artificial Opening Endoscopic",0HHW8N,2016,2027
+0HHWX,External,0HHW,2016,2027
+0HHWX1,Radioactive Element,0HHWX,2016,2027
+0HHWX1Z,"Insertion of Radioactive Element into Right Nipple, External Approach",0HHWX1,2016,2027
+0HHX,"Nipple, Left",0HH,2016,2027
+0HHX0,Open,0HHX,2016,2027
+0HHX01,Radioactive Element,0HHX0,2016,2027
+0HHX01Z,"Insertion of Radioactive Element into Left Nipple, Open Approach",0HHX01,2016,2027
+0HHX0N,Tissue Expander,0HHX0,2016,2027
+0HHX0NZ,"Insertion of Tissue Expander into Left Nipple, Open Approach",0HHX0N,2016,2027
+0HHX3,Percutaneous,0HHX,2016,2027
+0HHX31,Radioactive Element,0HHX3,2016,2027
+0HHX31Z,"Insertion of Radioactive Element into Left Nipple, Percutaneous Approach",0HHX31,2016,2027
+0HHX3N,Tissue Expander,0HHX3,2016,2027
+0HHX3NZ,"Insertion of Tissue Expander into Left Nipple, Percutaneous Approach",0HHX3N,2016,2027
+0HHX7,Via Natural or Artificial Opening,0HHX,2016,2027
+0HHX71,Radioactive Element,0HHX7,2016,2027
+0HHX71Z,"Insertion of Radioactive Element into Left Nipple, Via Natural or Artificial Opening",0HHX71,2016,2027
+0HHX7N,Tissue Expander,0HHX7,2016,2027
+0HHX7NZ,"Insertion of Tissue Expander into Left Nipple, Via Natural or Artificial Opening",0HHX7N,2016,2027
+0HHX8,Via Natural or Artificial Opening Endoscopic,0HHX,2016,2027
+0HHX81,Radioactive Element,0HHX8,2016,2027
+0HHX81Z,"Insertion of Radioactive Element into Left Nipple, Via Natural or Artificial Opening Endoscopic",0HHX81,2016,2027
+0HHX8N,Tissue Expander,0HHX8,2016,2027
+0HHX8NZ,"Insertion of Tissue Expander into Left Nipple, Via Natural or Artificial Opening Endoscopic",0HHX8N,2016,2027
+0HHXX,External,0HHX,2016,2027
+0HHXX1,Radioactive Element,0HHXX,2016,2027
+0HHXX1Z,"Insertion of Radioactive Element into Left Nipple, External Approach",0HHXX1,2016,2027
+0HJ,Inspection,0H,2016,2027
+0HJP,Skin,0HJ,2016,2027
+0HJPX,External,0HJP,2016,2027
+0HJPXZ,No Device,0HJPX,2016,2027
+0HJPXZZ,"Inspection of Skin, External Approach",0HJPXZ,2016,2027
+0HJQ,Finger Nail,0HJ,2016,2027
+0HJQX,External,0HJQ,2016,2027
+0HJQXZ,No Device,0HJQX,2016,2027
+0HJQXZZ,"Inspection of Finger Nail, External Approach",0HJQXZ,2016,2027
+0HJR,Toe Nail,0HJ,2016,2027
+0HJRX,External,0HJR,2016,2027
+0HJRXZ,No Device,0HJRX,2016,2027
+0HJRXZZ,"Inspection of Toe Nail, External Approach",0HJRXZ,2016,2027
+0HJT,"Breast, Right",0HJ,2016,2027
+0HJT0,Open,0HJT,2016,2027
+0HJT0Z,No Device,0HJT0,2016,2027
+0HJT0ZZ,"Inspection of Right Breast, Open Approach",0HJT0Z,2016,2027
+0HJT3,Percutaneous,0HJT,2016,2027
+0HJT3Z,No Device,0HJT3,2016,2027
+0HJT3ZZ,"Inspection of Right Breast, Percutaneous Approach",0HJT3Z,2016,2027
+0HJT7,Via Natural or Artificial Opening,0HJT,2016,2027
+0HJT7Z,No Device,0HJT7,2016,2027
+0HJT7ZZ,"Inspection of Right Breast, Via Natural or Artificial Opening",0HJT7Z,2016,2027
+0HJT8,Via Natural or Artificial Opening Endoscopic,0HJT,2016,2027
+0HJT8Z,No Device,0HJT8,2016,2027
+0HJT8ZZ,"Inspection of Right Breast, Via Natural or Artificial Opening Endoscopic",0HJT8Z,2016,2027
+0HJTX,External,0HJT,2016,2019
+0HJTXZ,No Device,0HJTX,2016,2019
+0HJTXZZ,"Inspection of Right Breast, External Approach",0HJTXZ,2016,2019
+0HJU,"Breast, Left",0HJ,2016,2027
+0HJU0,Open,0HJU,2016,2027
+0HJU0Z,No Device,0HJU0,2016,2027
+0HJU0ZZ,"Inspection of Left Breast, Open Approach",0HJU0Z,2016,2027
+0HJU3,Percutaneous,0HJU,2016,2027
+0HJU3Z,No Device,0HJU3,2016,2027
+0HJU3ZZ,"Inspection of Left Breast, Percutaneous Approach",0HJU3Z,2016,2027
+0HJU7,Via Natural or Artificial Opening,0HJU,2016,2027
+0HJU7Z,No Device,0HJU7,2016,2027
+0HJU7ZZ,"Inspection of Left Breast, Via Natural or Artificial Opening",0HJU7Z,2016,2027
+0HJU8,Via Natural or Artificial Opening Endoscopic,0HJU,2016,2027
+0HJU8Z,No Device,0HJU8,2016,2027
+0HJU8ZZ,"Inspection of Left Breast, Via Natural or Artificial Opening Endoscopic",0HJU8Z,2016,2027
+0HJUX,External,0HJU,2016,2019
+0HJUXZ,No Device,0HJUX,2016,2019
+0HJUXZZ,"Inspection of Left Breast, External Approach",0HJUXZ,2016,2019
+0HM,Reattachment,0H,2016,2027
+0HM0,"Skin, Scalp",0HM,2016,2027
+0HM0X,External,0HM0,2016,2027
+0HM0XZ,No Device,0HM0X,2016,2027
+0HM0XZZ,"Reattachment of Scalp Skin, External Approach",0HM0XZ,2016,2027
+0HM1,"Skin, Face",0HM,2016,2027
+0HM1X,External,0HM1,2016,2027
+0HM1XZ,No Device,0HM1X,2016,2027
+0HM1XZZ,"Reattachment of Face Skin, External Approach",0HM1XZ,2016,2027
+0HM2,"Skin, Right Ear",0HM,2016,2027
+0HM2X,External,0HM2,2016,2027
+0HM2XZ,No Device,0HM2X,2016,2027
+0HM2XZZ,"Reattachment of Right Ear Skin, External Approach",0HM2XZ,2016,2027
+0HM3,"Skin, Left Ear",0HM,2016,2027
+0HM3X,External,0HM3,2016,2027
+0HM3XZ,No Device,0HM3X,2016,2027
+0HM3XZZ,"Reattachment of Left Ear Skin, External Approach",0HM3XZ,2016,2027
+0HM4,"Skin, Neck",0HM,2016,2027
+0HM4X,External,0HM4,2016,2027
+0HM4XZ,No Device,0HM4X,2016,2027
+0HM4XZZ,"Reattachment of Neck Skin, External Approach",0HM4XZ,2016,2027
+0HM5,"Skin, Chest",0HM,2016,2027
+0HM5X,External,0HM5,2016,2027
+0HM5XZ,No Device,0HM5X,2016,2027
+0HM5XZZ,"Reattachment of Chest Skin, External Approach",0HM5XZ,2016,2027
+0HM6,"Skin, Back",0HM,2016,2027
+0HM6X,External,0HM6,2016,2027
+0HM6XZ,No Device,0HM6X,2016,2027
+0HM6XZZ,"Reattachment of Back Skin, External Approach",0HM6XZ,2016,2027
+0HM7,"Skin, Abdomen",0HM,2016,2027
+0HM7X,External,0HM7,2016,2027
+0HM7XZ,No Device,0HM7X,2016,2027
+0HM7XZZ,"Reattachment of Abdomen Skin, External Approach",0HM7XZ,2016,2027
+0HM8,"Skin, Buttock",0HM,2016,2027
+0HM8X,External,0HM8,2016,2027
+0HM8XZ,No Device,0HM8X,2016,2027
+0HM8XZZ,"Reattachment of Buttock Skin, External Approach",0HM8XZ,2016,2027
+0HM9,"Skin, Perineum",0HM,2016,2027
+0HM9X,External,0HM9,2016,2027
+0HM9XZ,No Device,0HM9X,2016,2027
+0HM9XZZ,"Reattachment of Perineum Skin, External Approach",0HM9XZ,2016,2027
+0HMA,"Skin, Inguinal",0HM,2016,2027
+0HMAX,External,0HMA,2016,2027
+0HMAXZ,No Device,0HMAX,2016,2027
+0HMAXZZ,"Reattachment of Inguinal Skin, External Approach",0HMAXZ,2016,2027
+0HMB,"Skin, Right Upper Arm",0HM,2016,2027
+0HMBX,External,0HMB,2016,2027
+0HMBXZ,No Device,0HMBX,2016,2027
+0HMBXZZ,"Reattachment of Right Upper Arm Skin, External Approach",0HMBXZ,2016,2027
+0HMC,"Skin, Left Upper Arm",0HM,2016,2027
+0HMCX,External,0HMC,2016,2027
+0HMCXZ,No Device,0HMCX,2016,2027
+0HMCXZZ,"Reattachment of Left Upper Arm Skin, External Approach",0HMCXZ,2016,2027
+0HMD,"Skin, Right Lower Arm",0HM,2016,2027
+0HMDX,External,0HMD,2016,2027
+0HMDXZ,No Device,0HMDX,2016,2027
+0HMDXZZ,"Reattachment of Right Lower Arm Skin, External Approach",0HMDXZ,2016,2027
+0HME,"Skin, Left Lower Arm",0HM,2016,2027
+0HMEX,External,0HME,2016,2027
+0HMEXZ,No Device,0HMEX,2016,2027
+0HMEXZZ,"Reattachment of Left Lower Arm Skin, External Approach",0HMEXZ,2016,2027
+0HMF,"Skin, Right Hand",0HM,2016,2027
+0HMFX,External,0HMF,2016,2027
+0HMFXZ,No Device,0HMFX,2016,2027
+0HMFXZZ,"Reattachment of Right Hand Skin, External Approach",0HMFXZ,2016,2027
+0HMG,"Skin, Left Hand",0HM,2016,2027
+0HMGX,External,0HMG,2016,2027
+0HMGXZ,No Device,0HMGX,2016,2027
+0HMGXZZ,"Reattachment of Left Hand Skin, External Approach",0HMGXZ,2016,2027
+0HMH,"Skin, Right Upper Leg",0HM,2016,2027
+0HMHX,External,0HMH,2016,2027
+0HMHXZ,No Device,0HMHX,2016,2027
+0HMHXZZ,"Reattachment of Right Upper Leg Skin, External Approach",0HMHXZ,2016,2027
+0HMJ,"Skin, Left Upper Leg",0HM,2016,2027
+0HMJX,External,0HMJ,2016,2027
+0HMJXZ,No Device,0HMJX,2016,2027
+0HMJXZZ,"Reattachment of Left Upper Leg Skin, External Approach",0HMJXZ,2016,2027
+0HMK,"Skin, Right Lower Leg",0HM,2016,2027
+0HMKX,External,0HMK,2016,2027
+0HMKXZ,No Device,0HMKX,2016,2027
+0HMKXZZ,"Reattachment of Right Lower Leg Skin, External Approach",0HMKXZ,2016,2027
+0HML,"Skin, Left Lower Leg",0HM,2016,2027
+0HMLX,External,0HML,2016,2027
+0HMLXZ,No Device,0HMLX,2016,2027
+0HMLXZZ,"Reattachment of Left Lower Leg Skin, External Approach",0HMLXZ,2016,2027
+0HMM,"Skin, Right Foot",0HM,2016,2027
+0HMMX,External,0HMM,2016,2027
+0HMMXZ,No Device,0HMMX,2016,2027
+0HMMXZZ,"Reattachment of Right Foot Skin, External Approach",0HMMXZ,2016,2027
+0HMN,"Skin, Left Foot",0HM,2016,2027
+0HMNX,External,0HMN,2016,2027
+0HMNXZ,No Device,0HMNX,2016,2027
+0HMNXZZ,"Reattachment of Left Foot Skin, External Approach",0HMNXZ,2016,2027
+0HMT,"Breast, Right",0HM,2016,2027
+0HMTX,External,0HMT,2016,2027
+0HMTXZ,No Device,0HMTX,2016,2027
+0HMTXZZ,"Reattachment of Right Breast, External Approach",0HMTXZ,2016,2027
+0HMU,"Breast, Left",0HM,2016,2027
+0HMUX,External,0HMU,2016,2027
+0HMUXZ,No Device,0HMUX,2016,2027
+0HMUXZZ,"Reattachment of Left Breast, External Approach",0HMUXZ,2016,2027
+0HMV,"Breast, Bilateral",0HM,2016,2027
+0HMVX,External,0HMV,2016,2027
+0HMVXZ,No Device,0HMVX,2016,2027
+0HMVXZZ,"Reattachment of Bilateral Breast, External Approach",0HMVXZ,2016,2027
+0HMW,"Nipple, Right",0HM,2016,2027
+0HMWX,External,0HMW,2016,2027
+0HMWXZ,No Device,0HMWX,2016,2027
+0HMWXZZ,"Reattachment of Right Nipple, External Approach",0HMWXZ,2016,2027
+0HMX,"Nipple, Left",0HM,2016,2027
+0HMXX,External,0HMX,2016,2027
+0HMXXZ,No Device,0HMXX,2016,2027
+0HMXXZZ,"Reattachment of Left Nipple, External Approach",0HMXXZ,2016,2027
+0HN,Release,0H,2016,2027
+0HN0,"Skin, Scalp",0HN,2016,2027
+0HN0X,External,0HN0,2016,2027
+0HN0XZ,No Device,0HN0X,2016,2027
+0HN0XZZ,"Release Scalp Skin, External Approach",0HN0XZ,2016,2027
+0HN1,"Skin, Face",0HN,2016,2027
+0HN1X,External,0HN1,2016,2027
+0HN1XZ,No Device,0HN1X,2016,2027
+0HN1XZZ,"Release Face Skin, External Approach",0HN1XZ,2016,2027
+0HN2,"Skin, Right Ear",0HN,2016,2027
+0HN2X,External,0HN2,2016,2027
+0HN2XZ,No Device,0HN2X,2016,2027
+0HN2XZZ,"Release Right Ear Skin, External Approach",0HN2XZ,2016,2027
+0HN3,"Skin, Left Ear",0HN,2016,2027
+0HN3X,External,0HN3,2016,2027
+0HN3XZ,No Device,0HN3X,2016,2027
+0HN3XZZ,"Release Left Ear Skin, External Approach",0HN3XZ,2016,2027
+0HN4,"Skin, Neck",0HN,2016,2027
+0HN4X,External,0HN4,2016,2027
+0HN4XZ,No Device,0HN4X,2016,2027
+0HN4XZZ,"Release Neck Skin, External Approach",0HN4XZ,2016,2027
+0HN5,"Skin, Chest",0HN,2016,2027
+0HN5X,External,0HN5,2016,2027
+0HN5XZ,No Device,0HN5X,2016,2027
+0HN5XZZ,"Release Chest Skin, External Approach",0HN5XZ,2016,2027
+0HN6,"Skin, Back",0HN,2016,2027
+0HN6X,External,0HN6,2016,2027
+0HN6XZ,No Device,0HN6X,2016,2027
+0HN6XZZ,"Release Back Skin, External Approach",0HN6XZ,2016,2027
+0HN7,"Skin, Abdomen",0HN,2016,2027
+0HN7X,External,0HN7,2016,2027
+0HN7XZ,No Device,0HN7X,2016,2027
+0HN7XZZ,"Release Abdomen Skin, External Approach",0HN7XZ,2016,2027
+0HN8,"Skin, Buttock",0HN,2016,2027
+0HN8X,External,0HN8,2016,2027
+0HN8XZ,No Device,0HN8X,2016,2027
+0HN8XZZ,"Release Buttock Skin, External Approach",0HN8XZ,2016,2027
+0HN9,"Skin, Perineum",0HN,2016,2027
+0HN9X,External,0HN9,2016,2027
+0HN9XZ,No Device,0HN9X,2016,2027
+0HN9XZZ,"Release Perineum Skin, External Approach",0HN9XZ,2016,2027
+0HNA,"Skin, Inguinal",0HN,2016,2027
+0HNAX,External,0HNA,2016,2027
+0HNAXZ,No Device,0HNAX,2016,2027
+0HNAXZZ,"Release Inguinal Skin, External Approach",0HNAXZ,2016,2027
+0HNB,"Skin, Right Upper Arm",0HN,2016,2027
+0HNBX,External,0HNB,2016,2027
+0HNBXZ,No Device,0HNBX,2016,2027
+0HNBXZZ,"Release Right Upper Arm Skin, External Approach",0HNBXZ,2016,2027
+0HNC,"Skin, Left Upper Arm",0HN,2016,2027
+0HNCX,External,0HNC,2016,2027
+0HNCXZ,No Device,0HNCX,2016,2027
+0HNCXZZ,"Release Left Upper Arm Skin, External Approach",0HNCXZ,2016,2027
+0HND,"Skin, Right Lower Arm",0HN,2016,2027
+0HNDX,External,0HND,2016,2027
+0HNDXZ,No Device,0HNDX,2016,2027
+0HNDXZZ,"Release Right Lower Arm Skin, External Approach",0HNDXZ,2016,2027
+0HNE,"Skin, Left Lower Arm",0HN,2016,2027
+0HNEX,External,0HNE,2016,2027
+0HNEXZ,No Device,0HNEX,2016,2027
+0HNEXZZ,"Release Left Lower Arm Skin, External Approach",0HNEXZ,2016,2027
+0HNF,"Skin, Right Hand",0HN,2016,2027
+0HNFX,External,0HNF,2016,2027
+0HNFXZ,No Device,0HNFX,2016,2027
+0HNFXZZ,"Release Right Hand Skin, External Approach",0HNFXZ,2016,2027
+0HNG,"Skin, Left Hand",0HN,2016,2027
+0HNGX,External,0HNG,2016,2027
+0HNGXZ,No Device,0HNGX,2016,2027
+0HNGXZZ,"Release Left Hand Skin, External Approach",0HNGXZ,2016,2027
+0HNH,"Skin, Right Upper Leg",0HN,2016,2027
+0HNHX,External,0HNH,2016,2027
+0HNHXZ,No Device,0HNHX,2016,2027
+0HNHXZZ,"Release Right Upper Leg Skin, External Approach",0HNHXZ,2016,2027
+0HNJ,"Skin, Left Upper Leg",0HN,2016,2027
+0HNJX,External,0HNJ,2016,2027
+0HNJXZ,No Device,0HNJX,2016,2027
+0HNJXZZ,"Release Left Upper Leg Skin, External Approach",0HNJXZ,2016,2027
+0HNK,"Skin, Right Lower Leg",0HN,2016,2027
+0HNKX,External,0HNK,2016,2027
+0HNKXZ,No Device,0HNKX,2016,2027
+0HNKXZZ,"Release Right Lower Leg Skin, External Approach",0HNKXZ,2016,2027
+0HNL,"Skin, Left Lower Leg",0HN,2016,2027
+0HNLX,External,0HNL,2016,2027
+0HNLXZ,No Device,0HNLX,2016,2027
+0HNLXZZ,"Release Left Lower Leg Skin, External Approach",0HNLXZ,2016,2027
+0HNM,"Skin, Right Foot",0HN,2016,2027
+0HNMX,External,0HNM,2016,2027
+0HNMXZ,No Device,0HNMX,2016,2027
+0HNMXZZ,"Release Right Foot Skin, External Approach",0HNMXZ,2016,2027
+0HNN,"Skin, Left Foot",0HN,2016,2027
+0HNNX,External,0HNN,2016,2027
+0HNNXZ,No Device,0HNNX,2016,2027
+0HNNXZZ,"Release Left Foot Skin, External Approach",0HNNXZ,2016,2027
+0HNQ,Finger Nail,0HN,2016,2027
+0HNQX,External,0HNQ,2016,2027
+0HNQXZ,No Device,0HNQX,2016,2027
+0HNQXZZ,"Release Finger Nail, External Approach",0HNQXZ,2016,2027
+0HNR,Toe Nail,0HN,2016,2027
+0HNRX,External,0HNR,2016,2027
+0HNRXZ,No Device,0HNRX,2016,2027
+0HNRXZZ,"Release Toe Nail, External Approach",0HNRXZ,2016,2027
+0HNT,"Breast, Right",0HN,2016,2027
+0HNT0,Open,0HNT,2016,2027
+0HNT0Z,No Device,0HNT0,2016,2027
+0HNT0ZZ,"Release Right Breast, Open Approach",0HNT0Z,2016,2027
+0HNT3,Percutaneous,0HNT,2016,2027
+0HNT3Z,No Device,0HNT3,2016,2027
+0HNT3ZZ,"Release Right Breast, Percutaneous Approach",0HNT3Z,2016,2027
+0HNT7,Via Natural or Artificial Opening,0HNT,2016,2027
+0HNT7Z,No Device,0HNT7,2016,2027
+0HNT7ZZ,"Release Right Breast, Via Natural or Artificial Opening",0HNT7Z,2016,2027
+0HNT8,Via Natural or Artificial Opening Endoscopic,0HNT,2016,2027
+0HNT8Z,No Device,0HNT8,2016,2027
+0HNT8ZZ,"Release Right Breast, Via Natural or Artificial Opening Endoscopic",0HNT8Z,2016,2027
+0HNTX,External,0HNT,2016,2019
+0HNTXZ,No Device,0HNTX,2016,2019
+0HNTXZZ,"Release Right Breast, External Approach",0HNTXZ,2016,2019
+0HNU,"Breast, Left",0HN,2016,2027
+0HNU0,Open,0HNU,2016,2027
+0HNU0Z,No Device,0HNU0,2016,2027
+0HNU0ZZ,"Release Left Breast, Open Approach",0HNU0Z,2016,2027
+0HNU3,Percutaneous,0HNU,2016,2027
+0HNU3Z,No Device,0HNU3,2016,2027
+0HNU3ZZ,"Release Left Breast, Percutaneous Approach",0HNU3Z,2016,2027
+0HNU7,Via Natural or Artificial Opening,0HNU,2016,2027
+0HNU7Z,No Device,0HNU7,2016,2027
+0HNU7ZZ,"Release Left Breast, Via Natural or Artificial Opening",0HNU7Z,2016,2027
+0HNU8,Via Natural or Artificial Opening Endoscopic,0HNU,2016,2027
+0HNU8Z,No Device,0HNU8,2016,2027
+0HNU8ZZ,"Release Left Breast, Via Natural or Artificial Opening Endoscopic",0HNU8Z,2016,2027
+0HNUX,External,0HNU,2016,2019
+0HNUXZ,No Device,0HNUX,2016,2019
+0HNUXZZ,"Release Left Breast, External Approach",0HNUXZ,2016,2019
+0HNV,"Breast, Bilateral",0HN,2016,2027
+0HNV0,Open,0HNV,2016,2027
+0HNV0Z,No Device,0HNV0,2016,2027
+0HNV0ZZ,"Release Bilateral Breast, Open Approach",0HNV0Z,2016,2027
+0HNV3,Percutaneous,0HNV,2016,2027
+0HNV3Z,No Device,0HNV3,2016,2027
+0HNV3ZZ,"Release Bilateral Breast, Percutaneous Approach",0HNV3Z,2016,2027
+0HNV7,Via Natural or Artificial Opening,0HNV,2016,2027
+0HNV7Z,No Device,0HNV7,2016,2027
+0HNV7ZZ,"Release Bilateral Breast, Via Natural or Artificial Opening",0HNV7Z,2016,2027
+0HNV8,Via Natural or Artificial Opening Endoscopic,0HNV,2016,2027
+0HNV8Z,No Device,0HNV8,2016,2027
+0HNV8ZZ,"Release Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0HNV8Z,2016,2027
+0HNVX,External,0HNV,2016,2019
+0HNVXZ,No Device,0HNVX,2016,2019
+0HNVXZZ,"Release Bilateral Breast, External Approach",0HNVXZ,2016,2019
+0HNW,"Nipple, Right",0HN,2016,2027
+0HNW0,Open,0HNW,2016,2027
+0HNW0Z,No Device,0HNW0,2016,2027
+0HNW0ZZ,"Release Right Nipple, Open Approach",0HNW0Z,2016,2027
+0HNW3,Percutaneous,0HNW,2016,2027
+0HNW3Z,No Device,0HNW3,2016,2027
+0HNW3ZZ,"Release Right Nipple, Percutaneous Approach",0HNW3Z,2016,2027
+0HNW7,Via Natural or Artificial Opening,0HNW,2016,2027
+0HNW7Z,No Device,0HNW7,2016,2027
+0HNW7ZZ,"Release Right Nipple, Via Natural or Artificial Opening",0HNW7Z,2016,2027
+0HNW8,Via Natural or Artificial Opening Endoscopic,0HNW,2016,2027
+0HNW8Z,No Device,0HNW8,2016,2027
+0HNW8ZZ,"Release Right Nipple, Via Natural or Artificial Opening Endoscopic",0HNW8Z,2016,2027
+0HNWX,External,0HNW,2016,2027
+0HNWXZ,No Device,0HNWX,2016,2027
+0HNWXZZ,"Release Right Nipple, External Approach",0HNWXZ,2016,2027
+0HNX,"Nipple, Left",0HN,2016,2027
+0HNX0,Open,0HNX,2016,2027
+0HNX0Z,No Device,0HNX0,2016,2027
+0HNX0ZZ,"Release Left Nipple, Open Approach",0HNX0Z,2016,2027
+0HNX3,Percutaneous,0HNX,2016,2027
+0HNX3Z,No Device,0HNX3,2016,2027
+0HNX3ZZ,"Release Left Nipple, Percutaneous Approach",0HNX3Z,2016,2027
+0HNX7,Via Natural or Artificial Opening,0HNX,2016,2027
+0HNX7Z,No Device,0HNX7,2016,2027
+0HNX7ZZ,"Release Left Nipple, Via Natural or Artificial Opening",0HNX7Z,2016,2027
+0HNX8,Via Natural or Artificial Opening Endoscopic,0HNX,2016,2027
+0HNX8Z,No Device,0HNX8,2016,2027
+0HNX8ZZ,"Release Left Nipple, Via Natural or Artificial Opening Endoscopic",0HNX8Z,2016,2027
+0HNXX,External,0HNX,2016,2027
+0HNXXZ,No Device,0HNXX,2016,2027
+0HNXXZZ,"Release Left Nipple, External Approach",0HNXXZ,2016,2027
+0HP,Removal,0H,2016,2027
+0HPP,Skin,0HP,2016,2027
+0HPPX,External,0HPP,2016,2027
+0HPPX0,Drainage Device,0HPPX,2016,2027
+0HPPX0Z,"Removal of Drainage Device from Skin, External Approach",0HPPX0,2016,2027
+0HPPX7,Autologous Tissue Substitute,0HPPX,2016,2027
+0HPPX7Z,"Removal of Autologous Tissue Substitute from Skin, External Approach",0HPPX7,2016,2027
+0HPPXJ,Synthetic Substitute,0HPPX,2016,2027
+0HPPXJZ,"Removal of Synthetic Substitute from Skin, External Approach",0HPPXJ,2016,2027
+0HPPXK,Nonautologous Tissue Substitute,0HPPX,2016,2027
+0HPPXKZ,"Removal of Nonautologous Tissue Substitute from Skin, External Approach",0HPPXK,2016,2027
+0HPPXY,Other Device,0HPPX,2018,2027
+0HPPXYZ,"Removal of Other Device from Skin, External Approach",0HPPXY,2018,2027
+0HPQ,Finger Nail,0HP,2016,2027
+0HPQX,External,0HPQ,2016,2027
+0HPQX0,Drainage Device,0HPQX,2016,2027
+0HPQX0Z,"Removal of Drainage Device from Finger Nail, External Approach",0HPQX0,2016,2027
+0HPQX7,Autologous Tissue Substitute,0HPQX,2016,2027
+0HPQX7Z,"Removal of Autologous Tissue Substitute from Finger Nail, External Approach",0HPQX7,2016,2027
+0HPQXJ,Synthetic Substitute,0HPQX,2016,2027
+0HPQXJZ,"Removal of Synthetic Substitute from Finger Nail, External Approach",0HPQXJ,2016,2027
+0HPQXK,Nonautologous Tissue Substitute,0HPQX,2016,2027
+0HPQXKZ,"Removal of Nonautologous Tissue Substitute from Finger Nail, External Approach",0HPQXK,2016,2027
+0HPR,Toe Nail,0HP,2016,2027
+0HPRX,External,0HPR,2016,2027
+0HPRX0,Drainage Device,0HPRX,2016,2027
+0HPRX0Z,"Removal of Drainage Device from Toe Nail, External Approach",0HPRX0,2016,2027
+0HPRX7,Autologous Tissue Substitute,0HPRX,2016,2027
+0HPRX7Z,"Removal of Autologous Tissue Substitute from Toe Nail, External Approach",0HPRX7,2016,2027
+0HPRXJ,Synthetic Substitute,0HPRX,2016,2027
+0HPRXJZ,"Removal of Synthetic Substitute from Toe Nail, External Approach",0HPRXJ,2016,2027
+0HPRXK,Nonautologous Tissue Substitute,0HPRX,2016,2027
+0HPRXKZ,"Removal of Nonautologous Tissue Substitute from Toe Nail, External Approach",0HPRXK,2016,2027
+0HPS,Hair,0HP,2016,2027
+0HPSX,External,0HPS,2016,2027
+0HPSX7,Autologous Tissue Substitute,0HPSX,2016,2027
+0HPSX7Z,"Removal of Autologous Tissue Substitute from Hair, External Approach",0HPSX7,2016,2027
+0HPSXJ,Synthetic Substitute,0HPSX,2016,2027
+0HPSXJZ,"Removal of Synthetic Substitute from Hair, External Approach",0HPSXJ,2016,2027
+0HPSXK,Nonautologous Tissue Substitute,0HPSX,2016,2027
+0HPSXKZ,"Removal of Nonautologous Tissue Substitute from Hair, External Approach",0HPSXK,2016,2027
+0HPT,"Breast, Right",0HP,2016,2027
+0HPT0,Open,0HPT,2016,2027
+0HPT00,Drainage Device,0HPT0,2016,2027
+0HPT00Z,"Removal of Drainage Device from Right Breast, Open Approach",0HPT00,2016,2027
+0HPT01,Radioactive Element,0HPT0,2016,2027
+0HPT01Z,"Removal of Radioactive Element from Right Breast, Open Approach",0HPT01,2016,2027
+0HPT07,Autologous Tissue Substitute,0HPT0,2016,2027
+0HPT07Z,"Removal of Autologous Tissue Substitute from Right Breast, Open Approach",0HPT07,2016,2027
+0HPT0J,Synthetic Substitute,0HPT0,2016,2027
+0HPT0JZ,"Removal of Synthetic Substitute from Right Breast, Open Approach",0HPT0J,2016,2027
+0HPT0K,Nonautologous Tissue Substitute,0HPT0,2016,2027
+0HPT0KZ,"Removal of Nonautologous Tissue Substitute from Right Breast, Open Approach",0HPT0K,2016,2027
+0HPT0N,Tissue Expander,0HPT0,2016,2027
+0HPT0NZ,"Removal of Tissue Expander from Right Breast, Open Approach",0HPT0N,2016,2027
+0HPT0Y,Other Device,0HPT0,2018,2027
+0HPT0YZ,"Removal of Other Device from Right Breast, Open Approach",0HPT0Y,2018,2027
+0HPT3,Percutaneous,0HPT,2016,2027
+0HPT30,Drainage Device,0HPT3,2016,2027
+0HPT30Z,"Removal of Drainage Device from Right Breast, Percutaneous Approach",0HPT30,2016,2027
+0HPT31,Radioactive Element,0HPT3,2016,2027
+0HPT31Z,"Removal of Radioactive Element from Right Breast, Percutaneous Approach",0HPT31,2016,2027
+0HPT37,Autologous Tissue Substitute,0HPT3,2016,2027
+0HPT37Z,"Removal of Autologous Tissue Substitute from Right Breast, Percutaneous Approach",0HPT37,2016,2027
+0HPT3J,Synthetic Substitute,0HPT3,2016,2027
+0HPT3JZ,"Removal of Synthetic Substitute from Right Breast, Percutaneous Approach",0HPT3J,2016,2027
+0HPT3K,Nonautologous Tissue Substitute,0HPT3,2016,2027
+0HPT3KZ,"Removal of Nonautologous Tissue Substitute from Right Breast, Percutaneous Approach",0HPT3K,2016,2027
+0HPT3N,Tissue Expander,0HPT3,2016,2027
+0HPT3NZ,"Removal of Tissue Expander from Right Breast, Percutaneous Approach",0HPT3N,2016,2027
+0HPT3Y,Other Device,0HPT3,2018,2027
+0HPT3YZ,"Removal of Other Device from Right Breast, Percutaneous Approach",0HPT3Y,2018,2027
+0HPT7,Via Natural or Artificial Opening,0HPT,2016,2027
+0HPT70,Drainage Device,0HPT7,2016,2027
+0HPT70Z,"Removal of Drainage Device from Right Breast, Via Natural or Artificial Opening",0HPT70,2016,2027
+0HPT71,Radioactive Element,0HPT7,2016,2027
+0HPT71Z,"Removal of Radioactive Element from Right Breast, Via Natural or Artificial Opening",0HPT71,2016,2027
+0HPT77,Autologous Tissue Substitute,0HPT7,2016,2027
+0HPT77Z,"Removal of Autologous Tissue Substitute from Right Breast, Via Natural or Artificial Opening",0HPT77,2016,2027
+0HPT7J,Synthetic Substitute,0HPT7,2016,2027
+0HPT7JZ,"Removal of Synthetic Substitute from Right Breast, Via Natural or Artificial Opening",0HPT7J,2016,2027
+0HPT7K,Nonautologous Tissue Substitute,0HPT7,2016,2027
+0HPT7KZ,"Removal of Nonautologous Tissue Substitute from Right Breast, Via Natural or Artificial Opening",0HPT7K,2016,2027
+0HPT7N,Tissue Expander,0HPT7,2016,2027
+0HPT7NZ,"Removal of Tissue Expander from Right Breast, Via Natural or Artificial Opening",0HPT7N,2016,2027
+0HPT7Y,Other Device,0HPT7,2018,2027
+0HPT7YZ,"Removal of Other Device from Right Breast, Via Natural or Artificial Opening",0HPT7Y,2018,2027
+0HPT8,Via Natural or Artificial Opening Endoscopic,0HPT,2016,2027
+0HPT80,Drainage Device,0HPT8,2016,2027
+0HPT80Z,"Removal of Drainage Device from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT80,2016,2027
+0HPT81,Radioactive Element,0HPT8,2016,2027
+0HPT81Z,"Removal of Radioactive Element from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT81,2016,2027
+0HPT87,Autologous Tissue Substitute,0HPT8,2016,2027
+0HPT87Z,"Removal of Autologous Tissue Substitute from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT87,2016,2027
+0HPT8J,Synthetic Substitute,0HPT8,2016,2027
+0HPT8JZ,"Removal of Synthetic Substitute from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT8J,2016,2027
+0HPT8K,Nonautologous Tissue Substitute,0HPT8,2016,2027
+0HPT8KZ,"Removal of Nonautologous Tissue Substitute from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT8K,2016,2027
+0HPT8N,Tissue Expander,0HPT8,2016,2027
+0HPT8NZ,"Removal of Tissue Expander from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT8N,2016,2027
+0HPT8Y,Other Device,0HPT8,2018,2027
+0HPT8YZ,"Removal of Other Device from Right Breast, Via Natural or Artificial Opening Endoscopic",0HPT8Y,2018,2027
+0HPTX,External,0HPT,2016,2019
+0HPTX0,Drainage Device,0HPTX,2016,2019
+0HPTX0Z,"Removal of Drainage Device from Right Breast, External Approach",0HPTX0,2016,2019
+0HPTX1,Radioactive Element,0HPTX,2016,2019
+0HPTX1Z,"Removal of Radioactive Element from Right Breast, External Approach",0HPTX1,2016,2019
+0HPTX7,Autologous Tissue Substitute,0HPTX,2016,2019
+0HPTX7Z,"Removal of Autologous Tissue Substitute from Right Breast, External Approach",0HPTX7,2016,2019
+0HPTXJ,Synthetic Substitute,0HPTX,2016,2019
+0HPTXJZ,"Removal of Synthetic Substitute from Right Breast, External Approach",0HPTXJ,2016,2019
+0HPTXK,Nonautologous Tissue Substitute,0HPTX,2016,2019
+0HPTXKZ,"Removal of Nonautologous Tissue Substitute from Right Breast, External Approach",0HPTXK,2016,2019
+0HPU,"Breast, Left",0HP,2016,2027
+0HPU0,Open,0HPU,2016,2027
+0HPU00,Drainage Device,0HPU0,2016,2027
+0HPU00Z,"Removal of Drainage Device from Left Breast, Open Approach",0HPU00,2016,2027
+0HPU01,Radioactive Element,0HPU0,2016,2027
+0HPU01Z,"Removal of Radioactive Element from Left Breast, Open Approach",0HPU01,2016,2027
+0HPU07,Autologous Tissue Substitute,0HPU0,2016,2027
+0HPU07Z,"Removal of Autologous Tissue Substitute from Left Breast, Open Approach",0HPU07,2016,2027
+0HPU0J,Synthetic Substitute,0HPU0,2016,2027
+0HPU0JZ,"Removal of Synthetic Substitute from Left Breast, Open Approach",0HPU0J,2016,2027
+0HPU0K,Nonautologous Tissue Substitute,0HPU0,2016,2027
+0HPU0KZ,"Removal of Nonautologous Tissue Substitute from Left Breast, Open Approach",0HPU0K,2016,2027
+0HPU0N,Tissue Expander,0HPU0,2016,2027
+0HPU0NZ,"Removal of Tissue Expander from Left Breast, Open Approach",0HPU0N,2016,2027
+0HPU0Y,Other Device,0HPU0,2018,2027
+0HPU0YZ,"Removal of Other Device from Left Breast, Open Approach",0HPU0Y,2018,2027
+0HPU3,Percutaneous,0HPU,2016,2027
+0HPU30,Drainage Device,0HPU3,2016,2027
+0HPU30Z,"Removal of Drainage Device from Left Breast, Percutaneous Approach",0HPU30,2016,2027
+0HPU31,Radioactive Element,0HPU3,2016,2027
+0HPU31Z,"Removal of Radioactive Element from Left Breast, Percutaneous Approach",0HPU31,2016,2027
+0HPU37,Autologous Tissue Substitute,0HPU3,2016,2027
+0HPU37Z,"Removal of Autologous Tissue Substitute from Left Breast, Percutaneous Approach",0HPU37,2016,2027
+0HPU3J,Synthetic Substitute,0HPU3,2016,2027
+0HPU3JZ,"Removal of Synthetic Substitute from Left Breast, Percutaneous Approach",0HPU3J,2016,2027
+0HPU3K,Nonautologous Tissue Substitute,0HPU3,2016,2027
+0HPU3KZ,"Removal of Nonautologous Tissue Substitute from Left Breast, Percutaneous Approach",0HPU3K,2016,2027
+0HPU3N,Tissue Expander,0HPU3,2016,2027
+0HPU3NZ,"Removal of Tissue Expander from Left Breast, Percutaneous Approach",0HPU3N,2016,2027
+0HPU3Y,Other Device,0HPU3,2018,2027
+0HPU3YZ,"Removal of Other Device from Left Breast, Percutaneous Approach",0HPU3Y,2018,2027
+0HPU7,Via Natural or Artificial Opening,0HPU,2016,2027
+0HPU70,Drainage Device,0HPU7,2016,2027
+0HPU70Z,"Removal of Drainage Device from Left Breast, Via Natural or Artificial Opening",0HPU70,2016,2027
+0HPU71,Radioactive Element,0HPU7,2016,2027
+0HPU71Z,"Removal of Radioactive Element from Left Breast, Via Natural or Artificial Opening",0HPU71,2016,2027
+0HPU77,Autologous Tissue Substitute,0HPU7,2016,2027
+0HPU77Z,"Removal of Autologous Tissue Substitute from Left Breast, Via Natural or Artificial Opening",0HPU77,2016,2027
+0HPU7J,Synthetic Substitute,0HPU7,2016,2027
+0HPU7JZ,"Removal of Synthetic Substitute from Left Breast, Via Natural or Artificial Opening",0HPU7J,2016,2027
+0HPU7K,Nonautologous Tissue Substitute,0HPU7,2016,2027
+0HPU7KZ,"Removal of Nonautologous Tissue Substitute from Left Breast, Via Natural or Artificial Opening",0HPU7K,2016,2027
+0HPU7N,Tissue Expander,0HPU7,2016,2027
+0HPU7NZ,"Removal of Tissue Expander from Left Breast, Via Natural or Artificial Opening",0HPU7N,2016,2027
+0HPU7Y,Other Device,0HPU7,2018,2027
+0HPU7YZ,"Removal of Other Device from Left Breast, Via Natural or Artificial Opening",0HPU7Y,2018,2027
+0HPU8,Via Natural or Artificial Opening Endoscopic,0HPU,2016,2027
+0HPU80,Drainage Device,0HPU8,2016,2027
+0HPU80Z,"Removal of Drainage Device from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU80,2016,2027
+0HPU81,Radioactive Element,0HPU8,2016,2027
+0HPU81Z,"Removal of Radioactive Element from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU81,2016,2027
+0HPU87,Autologous Tissue Substitute,0HPU8,2016,2027
+0HPU87Z,"Removal of Autologous Tissue Substitute from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU87,2016,2027
+0HPU8J,Synthetic Substitute,0HPU8,2016,2027
+0HPU8JZ,"Removal of Synthetic Substitute from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU8J,2016,2027
+0HPU8K,Nonautologous Tissue Substitute,0HPU8,2016,2027
+0HPU8KZ,"Removal of Nonautologous Tissue Substitute from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU8K,2016,2027
+0HPU8N,Tissue Expander,0HPU8,2016,2027
+0HPU8NZ,"Removal of Tissue Expander from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU8N,2016,2027
+0HPU8Y,Other Device,0HPU8,2018,2027
+0HPU8YZ,"Removal of Other Device from Left Breast, Via Natural or Artificial Opening Endoscopic",0HPU8Y,2018,2027
+0HPUX,External,0HPU,2016,2019
+0HPUX0,Drainage Device,0HPUX,2016,2019
+0HPUX0Z,"Removal of Drainage Device from Left Breast, External Approach",0HPUX0,2016,2019
+0HPUX1,Radioactive Element,0HPUX,2016,2019
+0HPUX1Z,"Removal of Radioactive Element from Left Breast, External Approach",0HPUX1,2016,2019
+0HPUX7,Autologous Tissue Substitute,0HPUX,2016,2019
+0HPUX7Z,"Removal of Autologous Tissue Substitute from Left Breast, External Approach",0HPUX7,2016,2019
+0HPUXJ,Synthetic Substitute,0HPUX,2016,2019
+0HPUXJZ,"Removal of Synthetic Substitute from Left Breast, External Approach",0HPUXJ,2016,2019
+0HPUXK,Nonautologous Tissue Substitute,0HPUX,2016,2019
+0HPUXKZ,"Removal of Nonautologous Tissue Substitute from Left Breast, External Approach",0HPUXK,2016,2019
+0HQ,Repair,0H,2016,2027
+0HQ0,"Skin, Scalp",0HQ,2016,2027
+0HQ0X,External,0HQ0,2016,2027
+0HQ0XZ,No Device,0HQ0X,2016,2027
+0HQ0XZZ,"Repair Scalp Skin, External Approach",0HQ0XZ,2016,2027
+0HQ1,"Skin, Face",0HQ,2016,2027
+0HQ1X,External,0HQ1,2016,2027
+0HQ1XZ,No Device,0HQ1X,2016,2027
+0HQ1XZZ,"Repair Face Skin, External Approach",0HQ1XZ,2016,2027
+0HQ2,"Skin, Right Ear",0HQ,2016,2027
+0HQ2X,External,0HQ2,2016,2027
+0HQ2XZ,No Device,0HQ2X,2016,2027
+0HQ2XZZ,"Repair Right Ear Skin, External Approach",0HQ2XZ,2016,2027
+0HQ3,"Skin, Left Ear",0HQ,2016,2027
+0HQ3X,External,0HQ3,2016,2027
+0HQ3XZ,No Device,0HQ3X,2016,2027
+0HQ3XZZ,"Repair Left Ear Skin, External Approach",0HQ3XZ,2016,2027
+0HQ4,"Skin, Neck",0HQ,2016,2027
+0HQ4X,External,0HQ4,2016,2027
+0HQ4XZ,No Device,0HQ4X,2016,2027
+0HQ4XZZ,"Repair Neck Skin, External Approach",0HQ4XZ,2016,2027
+0HQ5,"Skin, Chest",0HQ,2016,2027
+0HQ5X,External,0HQ5,2016,2027
+0HQ5XZ,No Device,0HQ5X,2016,2027
+0HQ5XZZ,"Repair Chest Skin, External Approach",0HQ5XZ,2016,2027
+0HQ6,"Skin, Back",0HQ,2016,2027
+0HQ6X,External,0HQ6,2016,2027
+0HQ6XZ,No Device,0HQ6X,2016,2027
+0HQ6XZZ,"Repair Back Skin, External Approach",0HQ6XZ,2016,2027
+0HQ7,"Skin, Abdomen",0HQ,2016,2027
+0HQ7X,External,0HQ7,2016,2027
+0HQ7XZ,No Device,0HQ7X,2016,2027
+0HQ7XZZ,"Repair Abdomen Skin, External Approach",0HQ7XZ,2016,2027
+0HQ8,"Skin, Buttock",0HQ,2016,2027
+0HQ8X,External,0HQ8,2016,2027
+0HQ8XZ,No Device,0HQ8X,2016,2027
+0HQ8XZZ,"Repair Buttock Skin, External Approach",0HQ8XZ,2016,2027
+0HQ9,"Skin, Perineum",0HQ,2016,2027
+0HQ9X,External,0HQ9,2016,2027
+0HQ9XZ,No Device,0HQ9X,2016,2027
+0HQ9XZZ,"Repair Perineum Skin, External Approach",0HQ9XZ,2016,2027
+0HQA,"Skin, Inguinal",0HQ,2016,2027
+0HQAX,External,0HQA,2016,2027
+0HQAXZ,No Device,0HQAX,2016,2027
+0HQAXZZ,"Repair Inguinal Skin, External Approach",0HQAXZ,2016,2027
+0HQB,"Skin, Right Upper Arm",0HQ,2016,2027
+0HQBX,External,0HQB,2016,2027
+0HQBXZ,No Device,0HQBX,2016,2027
+0HQBXZZ,"Repair Right Upper Arm Skin, External Approach",0HQBXZ,2016,2027
+0HQC,"Skin, Left Upper Arm",0HQ,2016,2027
+0HQCX,External,0HQC,2016,2027
+0HQCXZ,No Device,0HQCX,2016,2027
+0HQCXZZ,"Repair Left Upper Arm Skin, External Approach",0HQCXZ,2016,2027
+0HQD,"Skin, Right Lower Arm",0HQ,2016,2027
+0HQDX,External,0HQD,2016,2027
+0HQDXZ,No Device,0HQDX,2016,2027
+0HQDXZZ,"Repair Right Lower Arm Skin, External Approach",0HQDXZ,2016,2027
+0HQE,"Skin, Left Lower Arm",0HQ,2016,2027
+0HQEX,External,0HQE,2016,2027
+0HQEXZ,No Device,0HQEX,2016,2027
+0HQEXZZ,"Repair Left Lower Arm Skin, External Approach",0HQEXZ,2016,2027
+0HQF,"Skin, Right Hand",0HQ,2016,2027
+0HQFX,External,0HQF,2016,2027
+0HQFXZ,No Device,0HQFX,2016,2027
+0HQFXZZ,"Repair Right Hand Skin, External Approach",0HQFXZ,2016,2027
+0HQG,"Skin, Left Hand",0HQ,2016,2027
+0HQGX,External,0HQG,2016,2027
+0HQGXZ,No Device,0HQGX,2016,2027
+0HQGXZZ,"Repair Left Hand Skin, External Approach",0HQGXZ,2016,2027
+0HQH,"Skin, Right Upper Leg",0HQ,2016,2027
+0HQHX,External,0HQH,2016,2027
+0HQHXZ,No Device,0HQHX,2016,2027
+0HQHXZZ,"Repair Right Upper Leg Skin, External Approach",0HQHXZ,2016,2027
+0HQJ,"Skin, Left Upper Leg",0HQ,2016,2027
+0HQJX,External,0HQJ,2016,2027
+0HQJXZ,No Device,0HQJX,2016,2027
+0HQJXZZ,"Repair Left Upper Leg Skin, External Approach",0HQJXZ,2016,2027
+0HQK,"Skin, Right Lower Leg",0HQ,2016,2027
+0HQKX,External,0HQK,2016,2027
+0HQKXZ,No Device,0HQKX,2016,2027
+0HQKXZZ,"Repair Right Lower Leg Skin, External Approach",0HQKXZ,2016,2027
+0HQL,"Skin, Left Lower Leg",0HQ,2016,2027
+0HQLX,External,0HQL,2016,2027
+0HQLXZ,No Device,0HQLX,2016,2027
+0HQLXZZ,"Repair Left Lower Leg Skin, External Approach",0HQLXZ,2016,2027
+0HQM,"Skin, Right Foot",0HQ,2016,2027
+0HQMX,External,0HQM,2016,2027
+0HQMXZ,No Device,0HQMX,2016,2027
+0HQMXZZ,"Repair Right Foot Skin, External Approach",0HQMXZ,2016,2027
+0HQN,"Skin, Left Foot",0HQ,2016,2027
+0HQNX,External,0HQN,2016,2027
+0HQNXZ,No Device,0HQNX,2016,2027
+0HQNXZZ,"Repair Left Foot Skin, External Approach",0HQNXZ,2016,2027
+0HQQ,Finger Nail,0HQ,2016,2027
+0HQQX,External,0HQQ,2016,2027
+0HQQXZ,No Device,0HQQX,2016,2027
+0HQQXZZ,"Repair Finger Nail, External Approach",0HQQXZ,2016,2027
+0HQR,Toe Nail,0HQ,2016,2027
+0HQRX,External,0HQR,2016,2027
+0HQRXZ,No Device,0HQRX,2016,2027
+0HQRXZZ,"Repair Toe Nail, External Approach",0HQRXZ,2016,2027
+0HQT,"Breast, Right",0HQ,2016,2027
+0HQT0,Open,0HQT,2016,2027
+0HQT0Z,No Device,0HQT0,2016,2027
+0HQT0ZZ,"Repair Right Breast, Open Approach",0HQT0Z,2016,2027
+0HQT3,Percutaneous,0HQT,2016,2027
+0HQT3Z,No Device,0HQT3,2016,2027
+0HQT3ZZ,"Repair Right Breast, Percutaneous Approach",0HQT3Z,2016,2027
+0HQT7,Via Natural or Artificial Opening,0HQT,2016,2027
+0HQT7Z,No Device,0HQT7,2016,2027
+0HQT7ZZ,"Repair Right Breast, Via Natural or Artificial Opening",0HQT7Z,2016,2027
+0HQT8,Via Natural or Artificial Opening Endoscopic,0HQT,2016,2027
+0HQT8Z,No Device,0HQT8,2016,2027
+0HQT8ZZ,"Repair Right Breast, Via Natural or Artificial Opening Endoscopic",0HQT8Z,2016,2027
+0HQTX,External,0HQT,2016,2019
+0HQTXZ,No Device,0HQTX,2016,2019
+0HQTXZZ,"Repair Right Breast, External Approach",0HQTXZ,2016,2019
+0HQU,"Breast, Left",0HQ,2016,2027
+0HQU0,Open,0HQU,2016,2027
+0HQU0Z,No Device,0HQU0,2016,2027
+0HQU0ZZ,"Repair Left Breast, Open Approach",0HQU0Z,2016,2027
+0HQU3,Percutaneous,0HQU,2016,2027
+0HQU3Z,No Device,0HQU3,2016,2027
+0HQU3ZZ,"Repair Left Breast, Percutaneous Approach",0HQU3Z,2016,2027
+0HQU7,Via Natural or Artificial Opening,0HQU,2016,2027
+0HQU7Z,No Device,0HQU7,2016,2027
+0HQU7ZZ,"Repair Left Breast, Via Natural or Artificial Opening",0HQU7Z,2016,2027
+0HQU8,Via Natural or Artificial Opening Endoscopic,0HQU,2016,2027
+0HQU8Z,No Device,0HQU8,2016,2027
+0HQU8ZZ,"Repair Left Breast, Via Natural or Artificial Opening Endoscopic",0HQU8Z,2016,2027
+0HQUX,External,0HQU,2016,2019
+0HQUXZ,No Device,0HQUX,2016,2019
+0HQUXZZ,"Repair Left Breast, External Approach",0HQUXZ,2016,2019
+0HQV,"Breast, Bilateral",0HQ,2016,2027
+0HQV0,Open,0HQV,2016,2027
+0HQV0Z,No Device,0HQV0,2016,2027
+0HQV0ZZ,"Repair Bilateral Breast, Open Approach",0HQV0Z,2016,2027
+0HQV3,Percutaneous,0HQV,2016,2027
+0HQV3Z,No Device,0HQV3,2016,2027
+0HQV3ZZ,"Repair Bilateral Breast, Percutaneous Approach",0HQV3Z,2016,2027
+0HQV7,Via Natural or Artificial Opening,0HQV,2016,2027
+0HQV7Z,No Device,0HQV7,2016,2027
+0HQV7ZZ,"Repair Bilateral Breast, Via Natural or Artificial Opening",0HQV7Z,2016,2027
+0HQV8,Via Natural or Artificial Opening Endoscopic,0HQV,2016,2027
+0HQV8Z,No Device,0HQV8,2016,2027
+0HQV8ZZ,"Repair Bilateral Breast, Via Natural or Artificial Opening Endoscopic",0HQV8Z,2016,2027
+0HQVX,External,0HQV,2016,2019
+0HQVXZ,No Device,0HQVX,2016,2019
+0HQVXZZ,"Repair Bilateral Breast, External Approach",0HQVXZ,2016,2019
+0HQW,"Nipple, Right",0HQ,2016,2027
+0HQW0,Open,0HQW,2016,2027
+0HQW0Z,No Device,0HQW0,2016,2027
+0HQW0ZZ,"Repair Right Nipple, Open Approach",0HQW0Z,2016,2027
+0HQW3,Percutaneous,0HQW,2016,2027
+0HQW3Z,No Device,0HQW3,2016,2027
+0HQW3ZZ,"Repair Right Nipple, Percutaneous Approach",0HQW3Z,2016,2027
+0HQW7,Via Natural or Artificial Opening,0HQW,2016,2027
+0HQW7Z,No Device,0HQW7,2016,2027
+0HQW7ZZ,"Repair Right Nipple, Via Natural or Artificial Opening",0HQW7Z,2016,2027
+0HQW8,Via Natural or Artificial Opening Endoscopic,0HQW,2016,2027
+0HQW8Z,No Device,0HQW8,2016,2027
+0HQW8ZZ,"Repair Right Nipple, Via Natural or Artificial Opening Endoscopic",0HQW8Z,2016,2027
+0HQWX,External,0HQW,2016,2027
+0HQWXZ,No Device,0HQWX,2016,2027
+0HQWXZZ,"Repair Right Nipple, External Approach",0HQWXZ,2016,2027
+0HQX,"Nipple, Left",0HQ,2016,2027
+0HQX0,Open,0HQX,2016,2027
+0HQX0Z,No Device,0HQX0,2016,2027
+0HQX0ZZ,"Repair Left Nipple, Open Approach",0HQX0Z,2016,2027
+0HQX3,Percutaneous,0HQX,2016,2027
+0HQX3Z,No Device,0HQX3,2016,2027
+0HQX3ZZ,"Repair Left Nipple, Percutaneous Approach",0HQX3Z,2016,2027
+0HQX7,Via Natural or Artificial Opening,0HQX,2016,2027
+0HQX7Z,No Device,0HQX7,2016,2027
+0HQX7ZZ,"Repair Left Nipple, Via Natural or Artificial Opening",0HQX7Z,2016,2027
+0HQX8,Via Natural or Artificial Opening Endoscopic,0HQX,2016,2027
+0HQX8Z,No Device,0HQX8,2016,2027
+0HQX8ZZ,"Repair Left Nipple, Via Natural or Artificial Opening Endoscopic",0HQX8Z,2016,2027
+0HQXX,External,0HQX,2016,2027
+0HQXXZ,No Device,0HQXX,2016,2027
+0HQXXZZ,"Repair Left Nipple, External Approach",0HQXXZ,2016,2027
+0HQY,Supernumerary Breast,0HQ,2016,2027
+0HQY0,Open,0HQY,2016,2027
+0HQY0Z,No Device,0HQY0,2016,2027
+0HQY0ZZ,"Repair Supernumerary Breast, Open Approach",0HQY0Z,2016,2027
+0HQY3,Percutaneous,0HQY,2016,2027
+0HQY3Z,No Device,0HQY3,2016,2027
+0HQY3ZZ,"Repair Supernumerary Breast, Percutaneous Approach",0HQY3Z,2016,2027
+0HQY7,Via Natural or Artificial Opening,0HQY,2016,2027
+0HQY7Z,No Device,0HQY7,2016,2027
+0HQY7ZZ,"Repair Supernumerary Breast, Via Natural or Artificial Opening",0HQY7Z,2016,2027
+0HQY8,Via Natural or Artificial Opening Endoscopic,0HQY,2016,2027
+0HQY8Z,No Device,0HQY8,2016,2027
+0HQY8ZZ,"Repair Supernumerary Breast, Via Natural or Artificial Opening Endoscopic",0HQY8Z,2016,2027
+0HQYX,External,0HQY,2016,2019
+0HQYXZ,No Device,0HQYX,2016,2019
+0HQYXZZ,"Repair Supernumerary Breast, External Approach",0HQYXZ,2016,2019
+0HR,Replacement,0H,2016,2027
+0HR0,"Skin, Scalp",0HR,2016,2027
+0HR0X,External,0HR0,2016,2027
+0HR0X7,Autologous Tissue Substitute,0HR0X,2016,2027
+0HR0X72,"Replacement of Scalp Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR0X7,2020,2027
+0HR0X73,"Replacement of Scalp Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR0X7,2016,2027
+0HR0X74,"Replacement of Scalp Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR0X7,2016,2027
+0HR0XJ,Synthetic Substitute,0HR0X,2016,2027
+0HR0XJ3,"Replacement of Scalp Skin with Synthetic Substitute, Full Thickness, External Approach",0HR0XJ,2016,2027
+0HR0XJ4,"Replacement of Scalp Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR0XJ,2016,2027
+0HR0XJZ,"Replacement of Scalp Skin with Synthetic Substitute, External Approach",0HR0XJ,2016,2027
+0HR0XK,Nonautologous Tissue Substitute,0HR0X,2016,2027
+0HR0XK3,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR0XK,2016,2027
+0HR0XK4,"Replacement of Scalp Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR0XK,2016,2027
+0HR1,"Skin, Face",0HR,2016,2027
+0HR1X,External,0HR1,2016,2027
+0HR1X7,Autologous Tissue Substitute,0HR1X,2016,2027
+0HR1X72,"Replacement of Face Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR1X7,2020,2027
+0HR1X73,"Replacement of Face Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR1X7,2016,2027
+0HR1X74,"Replacement of Face Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR1X7,2016,2027
+0HR1XJ,Synthetic Substitute,0HR1X,2016,2027
+0HR1XJ3,"Replacement of Face Skin with Synthetic Substitute, Full Thickness, External Approach",0HR1XJ,2016,2027
+0HR1XJ4,"Replacement of Face Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR1XJ,2016,2027
+0HR1XJZ,"Replacement of Face Skin with Synthetic Substitute, External Approach",0HR1XJ,2016,2027
+0HR1XK,Nonautologous Tissue Substitute,0HR1X,2016,2027
+0HR1XK3,"Replacement of Face Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR1XK,2016,2027
+0HR1XK4,"Replacement of Face Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR1XK,2016,2027
+0HR2,"Skin, Right Ear",0HR,2016,2027
+0HR2X,External,0HR2,2016,2027
+0HR2X7,Autologous Tissue Substitute,0HR2X,2016,2027
+0HR2X72,"Replacement of Right Ear Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR2X7,2020,2027
+0HR2X73,"Replacement of Right Ear Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR2X7,2016,2027
+0HR2X74,"Replacement of Right Ear Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR2X7,2016,2027
+0HR2XJ,Synthetic Substitute,0HR2X,2016,2027
+0HR2XJ3,"Replacement of Right Ear Skin with Synthetic Substitute, Full Thickness, External Approach",0HR2XJ,2016,2027
+0HR2XJ4,"Replacement of Right Ear Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR2XJ,2016,2027
+0HR2XJZ,"Replacement of Right Ear Skin with Synthetic Substitute, External Approach",0HR2XJ,2016,2027
+0HR2XK,Nonautologous Tissue Substitute,0HR2X,2016,2027
+0HR2XK3,"Replacement of Right Ear Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR2XK,2016,2027
+0HR2XK4,"Replacement of Right Ear Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR2XK,2016,2027
+0HR3,"Skin, Left Ear",0HR,2016,2027
+0HR3X,External,0HR3,2016,2027
+0HR3X7,Autologous Tissue Substitute,0HR3X,2016,2027
+0HR3X72,"Replacement of Left Ear Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR3X7,2020,2027
+0HR3X73,"Replacement of Left Ear Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR3X7,2016,2027
+0HR3X74,"Replacement of Left Ear Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR3X7,2016,2027
+0HR3XJ,Synthetic Substitute,0HR3X,2016,2027
+0HR3XJ3,"Replacement of Left Ear Skin with Synthetic Substitute, Full Thickness, External Approach",0HR3XJ,2016,2027
+0HR3XJ4,"Replacement of Left Ear Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR3XJ,2016,2027
+0HR3XJZ,"Replacement of Left Ear Skin with Synthetic Substitute, External Approach",0HR3XJ,2016,2027
+0HR3XK,Nonautologous Tissue Substitute,0HR3X,2016,2027
+0HR3XK3,"Replacement of Left Ear Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR3XK,2016,2027
+0HR3XK4,"Replacement of Left Ear Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR3XK,2016,2027
+0HR4,"Skin, Neck",0HR,2016,2027
+0HR4X,External,0HR4,2016,2027
+0HR4X7,Autologous Tissue Substitute,0HR4X,2016,2027
+0HR4X72,"Replacement of Neck Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR4X7,2020,2027
+0HR4X73,"Replacement of Neck Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR4X7,2016,2027
+0HR4X74,"Replacement of Neck Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR4X7,2016,2027
+0HR4XJ,Synthetic Substitute,0HR4X,2016,2027
+0HR4XJ3,"Replacement of Neck Skin with Synthetic Substitute, Full Thickness, External Approach",0HR4XJ,2016,2027
+0HR4XJ4,"Replacement of Neck Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR4XJ,2016,2027
+0HR4XJZ,"Replacement of Neck Skin with Synthetic Substitute, External Approach",0HR4XJ,2016,2027
+0HR4XK,Nonautologous Tissue Substitute,0HR4X,2016,2027
+0HR4XK3,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR4XK,2016,2027
+0HR4XK4,"Replacement of Neck Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR4XK,2016,2027
+0HR5,"Skin, Chest",0HR,2016,2027
+0HR5X,External,0HR5,2016,2027
+0HR5X7,Autologous Tissue Substitute,0HR5X,2016,2027
+0HR5X72,"Replacement of Chest Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR5X7,2020,2027
+0HR5X73,"Replacement of Chest Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR5X7,2016,2027
+0HR5X74,"Replacement of Chest Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR5X7,2016,2027
+0HR5XJ,Synthetic Substitute,0HR5X,2016,2027
+0HR5XJ3,"Replacement of Chest Skin with Synthetic Substitute, Full Thickness, External Approach",0HR5XJ,2016,2027
+0HR5XJ4,"Replacement of Chest Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR5XJ,2016,2027
+0HR5XJZ,"Replacement of Chest Skin with Synthetic Substitute, External Approach",0HR5XJ,2016,2027
+0HR5XK,Nonautologous Tissue Substitute,0HR5X,2016,2027
+0HR5XK3,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR5XK,2016,2027
+0HR5XK4,"Replacement of Chest Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR5XK,2016,2027
+0HR6,"Skin, Back",0HR,2016,2027
+0HR6X,External,0HR6,2016,2027
+0HR6X7,Autologous Tissue Substitute,0HR6X,2016,2027
+0HR6X72,"Replacement of Back Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR6X7,2020,2027
+0HR6X73,"Replacement of Back Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR6X7,2016,2027
+0HR6X74,"Replacement of Back Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR6X7,2016,2027
+0HR6XJ,Synthetic Substitute,0HR6X,2016,2027
+0HR6XJ3,"Replacement of Back Skin with Synthetic Substitute, Full Thickness, External Approach",0HR6XJ,2016,2027
+0HR6XJ4,"Replacement of Back Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR6XJ,2016,2027
+0HR6XJZ,"Replacement of Back Skin with Synthetic Substitute, External Approach",0HR6XJ,2016,2027
+0HR6XK,Nonautologous Tissue Substitute,0HR6X,2016,2027
+0HR6XK3,"Replacement of Back Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR6XK,2016,2027
+0HR6XK4,"Replacement of Back Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR6XK,2016,2027
+0HR7,"Skin, Abdomen",0HR,2016,2027
+0HR7X,External,0HR7,2016,2027
+0HR7X7,Autologous Tissue Substitute,0HR7X,2016,2027
+0HR7X72,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR7X7,2020,2027
+0HR7X73,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR7X7,2016,2027
+0HR7X74,"Replacement of Abdomen Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR7X7,2016,2027
+0HR7XJ,Synthetic Substitute,0HR7X,2016,2027
+0HR7XJ3,"Replacement of Abdomen Skin with Synthetic Substitute, Full Thickness, External Approach",0HR7XJ,2016,2027
+0HR7XJ4,"Replacement of Abdomen Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR7XJ,2016,2027
+0HR7XJZ,"Replacement of Abdomen Skin with Synthetic Substitute, External Approach",0HR7XJ,2016,2027
+0HR7XK,Nonautologous Tissue Substitute,0HR7X,2016,2027
+0HR7XK3,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR7XK,2016,2027
+0HR7XK4,"Replacement of Abdomen Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR7XK,2016,2027
+0HR8,"Skin, Buttock",0HR,2016,2027
+0HR8X,External,0HR8,2016,2027
+0HR8X7,Autologous Tissue Substitute,0HR8X,2016,2027
+0HR8X72,"Replacement of Buttock Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR8X7,2020,2027
+0HR8X73,"Replacement of Buttock Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR8X7,2016,2027
+0HR8X74,"Replacement of Buttock Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR8X7,2016,2027
+0HR8XJ,Synthetic Substitute,0HR8X,2016,2027
+0HR8XJ3,"Replacement of Buttock Skin with Synthetic Substitute, Full Thickness, External Approach",0HR8XJ,2016,2027
+0HR8XJ4,"Replacement of Buttock Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR8XJ,2016,2027
+0HR8XJZ,"Replacement of Buttock Skin with Synthetic Substitute, External Approach",0HR8XJ,2016,2027
+0HR8XK,Nonautologous Tissue Substitute,0HR8X,2016,2027
+0HR8XK3,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR8XK,2016,2027
+0HR8XK4,"Replacement of Buttock Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR8XK,2016,2027
+0HR9,"Skin, Perineum",0HR,2016,2027
+0HR9X,External,0HR9,2016,2027
+0HR9X7,Autologous Tissue Substitute,0HR9X,2016,2027
+0HR9X72,"Replacement of Perineum Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HR9X7,2020,2027
+0HR9X73,"Replacement of Perineum Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HR9X7,2016,2027
+0HR9X74,"Replacement of Perineum Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HR9X7,2016,2027
+0HR9XJ,Synthetic Substitute,0HR9X,2016,2027
+0HR9XJ3,"Replacement of Perineum Skin with Synthetic Substitute, Full Thickness, External Approach",0HR9XJ,2016,2027
+0HR9XJ4,"Replacement of Perineum Skin with Synthetic Substitute, Partial Thickness, External Approach",0HR9XJ,2016,2027
+0HR9XJZ,"Replacement of Perineum Skin with Synthetic Substitute, External Approach",0HR9XJ,2016,2027
+0HR9XK,Nonautologous Tissue Substitute,0HR9X,2016,2027
+0HR9XK3,"Replacement of Perineum Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HR9XK,2016,2027
+0HR9XK4,"Replacement of Perineum Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HR9XK,2016,2027
+0HRA,"Skin, Inguinal",0HR,2016,2027
+0HRAX,External,0HRA,2016,2027
+0HRAX7,Autologous Tissue Substitute,0HRAX,2016,2027
+0HRAX72,"Replacement of Inguinal Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRAX7,2020,2027
+0HRAX73,"Replacement of Inguinal Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRAX7,2016,2027
+0HRAX74,"Replacement of Inguinal Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRAX7,2016,2027
+0HRAXJ,Synthetic Substitute,0HRAX,2016,2027
+0HRAXJ3,"Replacement of Inguinal Skin with Synthetic Substitute, Full Thickness, External Approach",0HRAXJ,2016,2027
+0HRAXJ4,"Replacement of Inguinal Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRAXJ,2016,2027
+0HRAXJZ,"Replacement of Inguinal Skin with Synthetic Substitute, External Approach",0HRAXJ,2016,2027
+0HRAXK,Nonautologous Tissue Substitute,0HRAX,2016,2027
+0HRAXK3,"Replacement of Inguinal Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRAXK,2016,2027
+0HRAXK4,"Replacement of Inguinal Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRAXK,2016,2027
+0HRB,"Skin, Right Upper Arm",0HR,2016,2027
+0HRBX,External,0HRB,2016,2027
+0HRBX7,Autologous Tissue Substitute,0HRBX,2016,2027
+0HRBX72,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRBX7,2020,2027
+0HRBX73,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRBX7,2016,2027
+0HRBX74,"Replacement of Right Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRBX7,2016,2027
+0HRBXJ,Synthetic Substitute,0HRBX,2016,2027
+0HRBXJ3,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach",0HRBXJ,2016,2027
+0HRBXJ4,"Replacement of Right Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRBXJ,2016,2027
+0HRBXJZ,"Replacement of Right Upper Arm Skin with Synthetic Substitute, External Approach",0HRBXJ,2016,2027
+0HRBXK,Nonautologous Tissue Substitute,0HRBX,2016,2027
+0HRBXK3,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRBXK,2016,2027
+0HRBXK4,"Replacement of Right Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRBXK,2016,2027
+0HRC,"Skin, Left Upper Arm",0HR,2016,2027
+0HRCX,External,0HRC,2016,2027
+0HRCX7,Autologous Tissue Substitute,0HRCX,2016,2027
+0HRCX72,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRCX7,2020,2027
+0HRCX73,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRCX7,2016,2027
+0HRCX74,"Replacement of Left Upper Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRCX7,2016,2027
+0HRCXJ,Synthetic Substitute,0HRCX,2016,2027
+0HRCXJ3,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Full Thickness, External Approach",0HRCXJ,2016,2027
+0HRCXJ4,"Replacement of Left Upper Arm Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRCXJ,2016,2027
+0HRCXJZ,"Replacement of Left Upper Arm Skin with Synthetic Substitute, External Approach",0HRCXJ,2016,2027
+0HRCXK,Nonautologous Tissue Substitute,0HRCX,2016,2027
+0HRCXK3,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRCXK,2016,2027
+0HRCXK4,"Replacement of Left Upper Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRCXK,2016,2027
+0HRD,"Skin, Right Lower Arm",0HR,2016,2027
+0HRDX,External,0HRD,2016,2027
+0HRDX7,Autologous Tissue Substitute,0HRDX,2016,2027
+0HRDX72,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRDX7,2020,2027
+0HRDX73,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRDX7,2016,2027
+0HRDX74,"Replacement of Right Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRDX7,2016,2027
+0HRDXJ,Synthetic Substitute,0HRDX,2016,2027
+0HRDXJ3,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach",0HRDXJ,2016,2027
+0HRDXJ4,"Replacement of Right Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRDXJ,2016,2027
+0HRDXJZ,"Replacement of Right Lower Arm Skin with Synthetic Substitute, External Approach",0HRDXJ,2016,2027
+0HRDXK,Nonautologous Tissue Substitute,0HRDX,2016,2027
+0HRDXK3,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRDXK,2016,2027
+0HRDXK4,"Replacement of Right Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRDXK,2016,2027
+0HRE,"Skin, Left Lower Arm",0HR,2016,2027
+0HREX,External,0HRE,2016,2027
+0HREX7,Autologous Tissue Substitute,0HREX,2016,2027
+0HREX72,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HREX7,2020,2027
+0HREX73,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HREX7,2016,2027
+0HREX74,"Replacement of Left Lower Arm Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HREX7,2016,2027
+0HREXJ,Synthetic Substitute,0HREX,2016,2027
+0HREXJ3,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Full Thickness, External Approach",0HREXJ,2016,2027
+0HREXJ4,"Replacement of Left Lower Arm Skin with Synthetic Substitute, Partial Thickness, External Approach",0HREXJ,2016,2027
+0HREXJZ,"Replacement of Left Lower Arm Skin with Synthetic Substitute, External Approach",0HREXJ,2016,2027
+0HREXK,Nonautologous Tissue Substitute,0HREX,2016,2027
+0HREXK3,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HREXK,2016,2027
+0HREXK4,"Replacement of Left Lower Arm Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HREXK,2016,2027
+0HRF,"Skin, Right Hand",0HR,2016,2027
+0HRFX,External,0HRF,2016,2027
+0HRFX7,Autologous Tissue Substitute,0HRFX,2016,2027
+0HRFX72,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRFX7,2020,2027
+0HRFX73,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRFX7,2016,2027
+0HRFX74,"Replacement of Right Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRFX7,2016,2027
+0HRFXJ,Synthetic Substitute,0HRFX,2016,2027
+0HRFXJ3,"Replacement of Right Hand Skin with Synthetic Substitute, Full Thickness, External Approach",0HRFXJ,2016,2027
+0HRFXJ4,"Replacement of Right Hand Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRFXJ,2016,2027
+0HRFXJZ,"Replacement of Right Hand Skin with Synthetic Substitute, External Approach",0HRFXJ,2016,2027
+0HRFXK,Nonautologous Tissue Substitute,0HRFX,2016,2027
+0HRFXK3,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRFXK,2016,2027
+0HRFXK4,"Replacement of Right Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRFXK,2016,2027
+0HRG,"Skin, Left Hand",0HR,2016,2027
+0HRGX,External,0HRG,2016,2027
+0HRGX7,Autologous Tissue Substitute,0HRGX,2016,2027
+0HRGX72,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRGX7,2020,2027
+0HRGX73,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRGX7,2016,2027
+0HRGX74,"Replacement of Left Hand Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRGX7,2016,2027
+0HRGXJ,Synthetic Substitute,0HRGX,2016,2027
+0HRGXJ3,"Replacement of Left Hand Skin with Synthetic Substitute, Full Thickness, External Approach",0HRGXJ,2016,2027
+0HRGXJ4,"Replacement of Left Hand Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRGXJ,2016,2027
+0HRGXJZ,"Replacement of Left Hand Skin with Synthetic Substitute, External Approach",0HRGXJ,2016,2027
+0HRGXK,Nonautologous Tissue Substitute,0HRGX,2016,2027
+0HRGXK3,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRGXK,2016,2027
+0HRGXK4,"Replacement of Left Hand Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRGXK,2016,2027
+0HRH,"Skin, Right Upper Leg",0HR,2016,2027
+0HRHX,External,0HRH,2016,2027
+0HRHX7,Autologous Tissue Substitute,0HRHX,2016,2027
+0HRHX72,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRHX7,2020,2027
+0HRHX73,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRHX7,2016,2027
+0HRHX74,"Replacement of Right Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRHX7,2016,2027
+0HRHXJ,Synthetic Substitute,0HRHX,2016,2027
+0HRHXJ3,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach",0HRHXJ,2016,2027
+0HRHXJ4,"Replacement of Right Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRHXJ,2016,2027
+0HRHXJZ,"Replacement of Right Upper Leg Skin with Synthetic Substitute, External Approach",0HRHXJ,2016,2027
+0HRHXK,Nonautologous Tissue Substitute,0HRHX,2016,2027
+0HRHXK3,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRHXK,2016,2027
+0HRHXK4,"Replacement of Right Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRHXK,2016,2027
+0HRJ,"Skin, Left Upper Leg",0HR,2016,2027
+0HRJX,External,0HRJ,2016,2027
+0HRJX7,Autologous Tissue Substitute,0HRJX,2016,2027
+0HRJX72,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRJX7,2020,2027
+0HRJX73,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRJX7,2016,2027
+0HRJX74,"Replacement of Left Upper Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRJX7,2016,2027
+0HRJXJ,Synthetic Substitute,0HRJX,2016,2027
+0HRJXJ3,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Full Thickness, External Approach",0HRJXJ,2016,2027
+0HRJXJ4,"Replacement of Left Upper Leg Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRJXJ,2016,2027
+0HRJXJZ,"Replacement of Left Upper Leg Skin with Synthetic Substitute, External Approach",0HRJXJ,2016,2027
+0HRJXK,Nonautologous Tissue Substitute,0HRJX,2016,2027
+0HRJXK3,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRJXK,2016,2027
+0HRJXK4,"Replacement of Left Upper Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRJXK,2016,2027
+0HRK,"Skin, Right Lower Leg",0HR,2016,2027
+0HRKX,External,0HRK,2016,2027
+0HRKX7,Autologous Tissue Substitute,0HRKX,2016,2027
+0HRKX72,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRKX7,2020,2027
+0HRKX73,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRKX7,2016,2027
+0HRKX74,"Replacement of Right Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRKX7,2016,2027
+0HRKXJ,Synthetic Substitute,0HRKX,2016,2027
+0HRKXJ3,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach",0HRKXJ,2016,2027
+0HRKXJ4,"Replacement of Right Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRKXJ,2016,2027
+0HRKXJZ,"Replacement of Right Lower Leg Skin with Synthetic Substitute, External Approach",0HRKXJ,2016,2027
+0HRKXK,Nonautologous Tissue Substitute,0HRKX,2016,2027
+0HRKXK3,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRKXK,2016,2027
+0HRKXK4,"Replacement of Right Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRKXK,2016,2027
+0HRL,"Skin, Left Lower Leg",0HR,2016,2027
+0HRLX,External,0HRL,2016,2027
+0HRLX7,Autologous Tissue Substitute,0HRLX,2016,2027
+0HRLX72,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRLX7,2020,2027
+0HRLX73,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRLX7,2016,2027
+0HRLX74,"Replacement of Left Lower Leg Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRLX7,2016,2027
+0HRLXJ,Synthetic Substitute,0HRLX,2016,2027
+0HRLXJ3,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Full Thickness, External Approach",0HRLXJ,2016,2027
+0HRLXJ4,"Replacement of Left Lower Leg Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRLXJ,2016,2027
+0HRLXJZ,"Replacement of Left Lower Leg Skin with Synthetic Substitute, External Approach",0HRLXJ,2016,2027
+0HRLXK,Nonautologous Tissue Substitute,0HRLX,2016,2027
+0HRLXK3,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRLXK,2016,2027
+0HRLXK4,"Replacement of Left Lower Leg Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRLXK,2016,2027
+0HRM,"Skin, Right Foot",0HR,2016,2027
+0HRMX,External,0HRM,2016,2027
+0HRMX7,Autologous Tissue Substitute,0HRMX,2016,2027
+0HRMX72,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRMX7,2020,2027
+0HRMX73,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRMX7,2016,2027
+0HRMX74,"Replacement of Right Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRMX7,2016,2027
+0HRMXJ,Synthetic Substitute,0HRMX,2016,2027
+0HRMXJ3,"Replacement of Right Foot Skin with Synthetic Substitute, Full Thickness, External Approach",0HRMXJ,2016,2027
+0HRMXJ4,"Replacement of Right Foot Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRMXJ,2016,2027
+0HRMXJZ,"Replacement of Right Foot Skin with Synthetic Substitute, External Approach",0HRMXJ,2016,2027
+0HRMXK,Nonautologous Tissue Substitute,0HRMX,2016,2027
+0HRMXK3,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRMXK,2016,2027
+0HRMXK4,"Replacement of Right Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRMXK,2016,2027
+0HRN,"Skin, Left Foot",0HR,2016,2027
+0HRNX,External,0HRN,2016,2027
+0HRNX7,Autologous Tissue Substitute,0HRNX,2016,2027
+0HRNX72,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Cell Suspension Technique, External Approach",0HRNX7,2020,2027
+0HRNX73,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Full Thickness, External Approach",0HRNX7,2016,2027
+0HRNX74,"Replacement of Left Foot Skin with Autologous Tissue Substitute, Partial Thickness, External Approach",0HRNX7,2016,2027
+0HRNXJ,Synthetic Substitute,0HRNX,2016,2027
+0HRNXJ3,"Replacement of Left Foot Skin with Synthetic Substitute, Full Thickness, External Approach",0HRNXJ,2016,2027
+0HRNXJ4,"Replacement of Left Foot Skin with Synthetic Substitute, Partial Thickness, External Approach",0HRNXJ,2016,2027
+0HRNXJZ,"Replacement of Left Foot Skin with Synthetic Substitute, External Approach",0HRNXJ,2016,2027
+0HRNXK,Nonautologous Tissue Substitute,0HRNX,2016,2027
+0HRNXK3,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Full Thickness, External Approach",0HRNXK,2016,2027
+0HRNXK4,"Replacement of Left Foot Skin with Nonautologous Tissue Substitute, Partial Thickness, External Approach",0HRNXK,2016,2027
+0HRQ,Finger Nail,0HR,2016,2027
+0HRQX,External,0HRQ,2016,2027
+0HRQX7,Autologous Tissue Substitute,0HRQX,2016,2027
+0HRQX7Z,"Replacement of Finger Nail with Autologous Tissue Substitute, External Approach",0HRQX7,2016,2027
+0HRQXJ,Synthetic Substitute,0HRQX,2016,2027
+0HRQXJZ,"Replacement of Finger Nail with Synthetic Substitute, External Approach",0HRQXJ,2016,2027
+0HRQXK,Nonautologous Tissue Substitute,0HRQX,2016,2027
+0HRQXKZ,"Replacement of Finger Nail with Nonautologous Tissue Substitute, External Approach",0HRQXK,2016,2027
+0HRR,Toe Nail,0HR,2016,2027
+0HRRX,External,0HRR,2016,2027
+0HRRX7,Autologous Tissue Substitute,0HRRX,2016,2027
+0HRRX7Z,"Replacement of Toe Nail with Autologous Tissue Substitute, External Approach",0HRRX7,2016,2027
+0HRRXJ,Synthetic Substitute,0HRRX,2016,2027
+0HRRXJZ,"Replacement of Toe Nail with Synthetic Substitute, External Approach",0HRRXJ,2016,2027
+0HRRXK,Nonautologous Tissue Substitute,0HRRX,2016,2027
+0HRRXKZ,"Replacement of Toe Nail with Nonautologous Tissue Substitute, External Approach",0HRRXK,2016,2027
+0HRS,Hair,0HR,2016,2027
+0HRSX,External,0HRS,2016,2027
+0HRSX7,Autologous Tissue Substitute,0HRSX,2016,2027
+0HRSX7Z,"Replacement of Hair with Autologous Tissue Substitute, External Approach",0HRSX7,2016,2027
+0HRSXJ,Synthetic Substitute,0HRSX,2016,2027
+0HRSXJZ,"Replacement of Hair with Synthetic Substitute, External Approach",0HRSXJ,2016,2027
+0HRSXK,Nonautologous Tissue Substitute,0HRSX,2016,2027
+0HRSXKZ,"Replacement of Hair with Nonautologous Tissue Substitute, External Approach",0HRSXK,2016,2027
+0HRT,"Breast, Right",0HR,2016,2027
+0HRT0,Open,0HRT,2016,2027
+0HRT07,Autologous Tissue Substitute,0HRT0,2016,2027
+0HRT075,"Replacement of Right Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach",0HRT07,2016,2027
+0HRT076,"Replacement of Right Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach",0HRT07,2016,2027
+0HRT077,"Replacement of Right Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach",0HRT07,2016,2027
+0HRT078,"Replacement of Right Breast using Superficial Inferior Epigastric Artery Flap, Open Approach",0HRT07,2016,2027
+0HRT079,"Replacement of Right Breast using Gluteal Artery Perforator Flap, Open Approach",0HRT07,2016,2027
+0HRT07B,"Replacement of Right Breast using Lumbar Artery Perforator Flap, Open Approach",0HRT07,2025,2027
+0HRT07Z,"Replacement of Right Breast with Autologous Tissue Substitute, Open Approach",0HRT07,2016,2027
+0HRT0J,Synthetic Substitute,0HRT0,2016,2027
+0HRT0JZ,"Replacement of Right Breast with Synthetic Substitute, Open Approach",0HRT0J,2016,2027
+0HRT0K,Nonautologous Tissue Substitute,0HRT0,2016,2027
+0HRT0KZ,"Replacement of Right Breast with Nonautologous Tissue Substitute, Open Approach",0HRT0K,2016,2027
+0HRT3,Percutaneous,0HRT,2016,2027
+0HRT37,Autologous Tissue Substitute,0HRT3,2016,2027
+0HRT37Z,"Replacement of Right Breast with Autologous Tissue Substitute, Percutaneous Approach",0HRT37,2016,2027
+0HRT3J,Synthetic Substitute,0HRT3,2016,2027
+0HRT3JZ,"Replacement of Right Breast with Synthetic Substitute, Percutaneous Approach",0HRT3J,2016,2027
+0HRT3K,Nonautologous Tissue Substitute,0HRT3,2016,2027
+0HRT3KZ,"Replacement of Right Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0HRT3K,2016,2027
+0HRTX,External,0HRT,2016,2019
+0HRTX7,Autologous Tissue Substitute,0HRTX,2016,2019
+0HRTX7Z,"Replacement of Right Breast with Autologous Tissue Substitute, External Approach",0HRTX7,2016,2019
+0HRTXJ,Synthetic Substitute,0HRTX,2016,2019
+0HRTXJZ,"Replacement of Right Breast with Synthetic Substitute, External Approach",0HRTXJ,2016,2019
+0HRTXK,Nonautologous Tissue Substitute,0HRTX,2016,2019
+0HRTXKZ,"Replacement of Right Breast with Nonautologous Tissue Substitute, External Approach",0HRTXK,2016,2019
+0HRU,"Breast, Left",0HR,2016,2027
+0HRU0,Open,0HRU,2016,2027
+0HRU07,Autologous Tissue Substitute,0HRU0,2016,2027
+0HRU075,"Replacement of Left Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach",0HRU07,2016,2027
+0HRU076,"Replacement of Left Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach",0HRU07,2016,2027
+0HRU077,"Replacement of Left Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach",0HRU07,2016,2027
+0HRU078,"Replacement of Left Breast using Superficial Inferior Epigastric Artery Flap, Open Approach",0HRU07,2016,2027
+0HRU079,"Replacement of Left Breast using Gluteal Artery Perforator Flap, Open Approach",0HRU07,2016,2027
+0HRU07B,"Replacement of Left Breast using Lumbar Artery Perforator Flap, Open Approach",0HRU07,2025,2027
+0HRU07Z,"Replacement of Left Breast with Autologous Tissue Substitute, Open Approach",0HRU07,2016,2027
+0HRU0J,Synthetic Substitute,0HRU0,2016,2027
+0HRU0JZ,"Replacement of Left Breast with Synthetic Substitute, Open Approach",0HRU0J,2016,2027
+0HRU0K,Nonautologous Tissue Substitute,0HRU0,2016,2027
+0HRU0KZ,"Replacement of Left Breast with Nonautologous Tissue Substitute, Open Approach",0HRU0K,2016,2027
+0HRU3,Percutaneous,0HRU,2016,2027
+0HRU37,Autologous Tissue Substitute,0HRU3,2016,2027
+0HRU37Z,"Replacement of Left Breast with Autologous Tissue Substitute, Percutaneous Approach",0HRU37,2016,2027
+0HRU3J,Synthetic Substitute,0HRU3,2016,2027
+0HRU3JZ,"Replacement of Left Breast with Synthetic Substitute, Percutaneous Approach",0HRU3J,2016,2027
+0HRU3K,Nonautologous Tissue Substitute,0HRU3,2016,2027
+0HRU3KZ,"Replacement of Left Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0HRU3K,2016,2027
+0HRUX,External,0HRU,2016,2019
+0HRUX7,Autologous Tissue Substitute,0HRUX,2016,2019
+0HRUX7Z,"Replacement of Left Breast with Autologous Tissue Substitute, External Approach",0HRUX7,2016,2019
+0HRUXJ,Synthetic Substitute,0HRUX,2016,2019
+0HRUXJZ,"Replacement of Left Breast with Synthetic Substitute, External Approach",0HRUXJ,2016,2019
+0HRUXK,Nonautologous Tissue Substitute,0HRUX,2016,2019
+0HRUXKZ,"Replacement of Left Breast with Nonautologous Tissue Substitute, External Approach",0HRUXK,2016,2019
+0HRV,"Breast, Bilateral",0HR,2016,2027
+0HRV0,Open,0HRV,2016,2027
+0HRV07,Autologous Tissue Substitute,0HRV0,2016,2027
+0HRV075,"Replacement of Bilateral Breast using Latissimus Dorsi Myocutaneous Flap, Open Approach",0HRV07,2016,2027
+0HRV076,"Replacement of Bilateral Breast using Transverse Rectus Abdominis Myocutaneous Flap, Open Approach",0HRV07,2016,2027
+0HRV077,"Replacement of Bilateral Breast using Deep Inferior Epigastric Artery Perforator Flap, Open Approach",0HRV07,2016,2027
+0HRV078,"Replacement of Bilateral Breast using Superficial Inferior Epigastric Artery Flap, Open Approach",0HRV07,2016,2027
+0HRV079,"Replacement of Bilateral Breast using Gluteal Artery Perforator Flap, Open Approach",0HRV07,2016,2027
+0HRV07B,"Replacement of Bilateral Breast using Lumbar Artery Perforator Flap, Open Approach",0HRV07,2025,2027
+0HRV07Z,"Replacement of Bilateral Breast with Autologous Tissue Substitute, Open Approach",0HRV07,2016,2027
+0HRV0J,Synthetic Substitute,0HRV0,2016,2027
+0HRV0JZ,"Replacement of Bilateral Breast with Synthetic Substitute, Open Approach",0HRV0J,2016,2027
+0HRV0K,Nonautologous Tissue Substitute,0HRV0,2016,2027
+0HRV0KZ,"Replacement of Bilateral Breast with Nonautologous Tissue Substitute, Open Approach",0HRV0K,2016,2027
+0HRV3,Percutaneous,0HRV,2016,2027
+0HRV37,Autologous Tissue Substitute,0HRV3,2016,2027
+0HRV37Z,"Replacement of Bilateral Breast with Autologous Tissue Substitute, Percutaneous Approach",0HRV37,2016,2027
+0HRV3J,Synthetic Substitute,0HRV3,2016,2027
+0HRV3JZ,"Replacement of Bilateral Breast with Synthetic Substitute, Percutaneous Approach",0HRV3J,2016,2027
+0HRV3K,Nonautologous Tissue Substitute,0HRV3,2016,2027
+0HRV3KZ,"Replacement of Bilateral Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0HRV3K,2016,2027
+0HRVX,External,0HRV,2016,2019
+0HRVX7,Autologous Tissue Substitute,0HRVX,2016,2019
+0HRVX7Z,"Replacement of Bilateral Breast with Autologous Tissue Substitute, External Approach",0HRVX7,2016,2019
+0HRVXJ,Synthetic Substitute,0HRVX,2016,2019
+0HRVXJZ,"Replacement of Bilateral Breast with Synthetic Substitute, External Approach",0HRVXJ,2016,2019
+0HRVXK,Nonautologous Tissue Substitute,0HRVX,2016,2019
+0HRVXKZ,"Replacement of Bilateral Breast with Nonautologous Tissue Substitute, External Approach",0HRVXK,2016,2019
+0HRW,"Nipple, Right",0HR,2016,2027
+0HRW0,Open,0HRW,2016,2027
+0HRW07,Autologous Tissue Substitute,0HRW0,2016,2027
+0HRW07Z,"Replacement of Right Nipple with Autologous Tissue Substitute, Open Approach",0HRW07,2016,2027
+0HRW0J,Synthetic Substitute,0HRW0,2016,2027
+0HRW0JZ,"Replacement of Right Nipple with Synthetic Substitute, Open Approach",0HRW0J,2016,2027
+0HRW0K,Nonautologous Tissue Substitute,0HRW0,2016,2027
+0HRW0KZ,"Replacement of Right Nipple with Nonautologous Tissue Substitute, Open Approach",0HRW0K,2016,2027
+0HRW3,Percutaneous,0HRW,2016,2027
+0HRW37,Autologous Tissue Substitute,0HRW3,2016,2027
+0HRW37Z,"Replacement of Right Nipple with Autologous Tissue Substitute, Percutaneous Approach",0HRW37,2016,2027
+0HRW3J,Synthetic Substitute,0HRW3,2016,2027
+0HRW3JZ,"Replacement of Right Nipple with Synthetic Substitute, Percutaneous Approach",0HRW3J,2016,2027
+0HRW3K,Nonautologous Tissue Substitute,0HRW3,2016,2027
+0HRW3KZ,"Replacement of Right Nipple with Nonautologous Tissue Substitute, Percutaneous Approach",0HRW3K,2016,2027
+0HRWX,External,0HRW,2016,2027
+0HRWX7,Autologous Tissue Substitute,0HRWX,2016,2027
+0HRWX7Z,"Replacement of Right Nipple with Autologous Tissue Substitute, External Approach",0HRWX7,2016,2027
+0HRWXJ,Synthetic Substitute,0HRWX,2016,2027
+0HRWXJZ,"Replacement of Right Nipple with Synthetic Substitute, External Approach",0HRWXJ,2016,2027
+0HRWXK,Nonautologous Tissue Substitute,0HRWX,2016,2027
+0HRWXKZ,"Replacement of Right Nipple with Nonautologous Tissue Substitute, External Approach",0HRWXK,2016,2027
+0HRX,"Nipple, Left",0HR,2016,2027
+0HRX0,Open,0HRX,2016,2027
+0HRX07,Autologous Tissue Substitute,0HRX0,2016,2027
+0HRX07Z,"Replacement of Left Nipple with Autologous Tissue Substitute, Open Approach",0HRX07,2016,2027
+0HRX0J,Synthetic Substitute,0HRX0,2016,2027
+0HRX0JZ,"Replacement of Left Nipple with Synthetic Substitute, Open Approach",0HRX0J,2016,2027
+0HRX0K,Nonautologous Tissue Substitute,0HRX0,2016,2027
+0HRX0KZ,"Replacement of Left Nipple with Nonautologous Tissue Substitute, Open Approach",0HRX0K,2016,2027
+0HRX3,Percutaneous,0HRX,2016,2027
+0HRX37,Autologous Tissue Substitute,0HRX3,2016,2027
+0HRX37Z,"Replacement of Left Nipple with Autologous Tissue Substitute, Percutaneous Approach",0HRX37,2016,2027
+0HRX3J,Synthetic Substitute,0HRX3,2016,2027
+0HRX3JZ,"Replacement of Left Nipple with Synthetic Substitute, Percutaneous Approach",0HRX3J,2016,2027
+0HRX3K,Nonautologous Tissue Substitute,0HRX3,2016,2027
+0HRX3KZ,"Replacement of Left Nipple with Nonautologous Tissue Substitute, Percutaneous Approach",0HRX3K,2016,2027
+0HRXX,External,0HRX,2016,2027
+0HRXX7,Autologous Tissue Substitute,0HRXX,2016,2027
+0HRXX7Z,"Replacement of Left Nipple with Autologous Tissue Substitute, External Approach",0HRXX7,2016,2027
+0HRXXJ,Synthetic Substitute,0HRXX,2016,2027
+0HRXXJZ,"Replacement of Left Nipple with Synthetic Substitute, External Approach",0HRXXJ,2016,2027
+0HRXXK,Nonautologous Tissue Substitute,0HRXX,2016,2027
+0HRXXKZ,"Replacement of Left Nipple with Nonautologous Tissue Substitute, External Approach",0HRXXK,2016,2027
+0HS,Reposition,0H,2016,2027
+0HSS,Hair,0HS,2016,2027
+0HSSX,External,0HSS,2016,2027
+0HSSXZ,No Device,0HSSX,2016,2027
+0HSSXZZ,"Reposition Hair, External Approach",0HSSXZ,2016,2027
+0HST,"Breast, Right",0HS,2016,2027
+0HST0,Open,0HST,2016,2027
+0HST0Z,No Device,0HST0,2016,2027
+0HST0ZZ,"Reposition Right Breast, Open Approach",0HST0Z,2016,2027
+0HSU,"Breast, Left",0HS,2016,2027
+0HSU0,Open,0HSU,2016,2027
+0HSU0Z,No Device,0HSU0,2016,2027
+0HSU0ZZ,"Reposition Left Breast, Open Approach",0HSU0Z,2016,2027
+0HSV,"Breast, Bilateral",0HS,2016,2027
+0HSV0,Open,0HSV,2016,2027
+0HSV0Z,No Device,0HSV0,2016,2027
+0HSV0ZZ,"Reposition Bilateral Breast, Open Approach",0HSV0Z,2016,2027
+0HSW,"Nipple, Right",0HS,2016,2027
+0HSWX,External,0HSW,2016,2027
+0HSWXZ,No Device,0HSWX,2016,2027
+0HSWXZZ,"Reposition Right Nipple, External Approach",0HSWXZ,2016,2027
+0HSX,"Nipple, Left",0HS,2016,2027
+0HSXX,External,0HSX,2016,2027
+0HSXXZ,No Device,0HSXX,2016,2027
+0HSXXZZ,"Reposition Left Nipple, External Approach",0HSXXZ,2016,2027
+0HT,Resection,0H,2016,2027
+0HTQ,Finger Nail,0HT,2016,2027
+0HTQX,External,0HTQ,2016,2027
+0HTQXZ,No Device,0HTQX,2016,2027
+0HTQXZZ,"Resection of Finger Nail, External Approach",0HTQXZ,2016,2027
+0HTR,Toe Nail,0HT,2016,2027
+0HTRX,External,0HTR,2016,2027
+0HTRXZ,No Device,0HTRX,2016,2027
+0HTRXZZ,"Resection of Toe Nail, External Approach",0HTRXZ,2016,2027
+0HTT,"Breast, Right",0HT,2016,2027
+0HTT0,Open,0HTT,2016,2027
+0HTT0Z,No Device,0HTT0,2016,2027
+0HTT0ZZ,"Resection of Right Breast, Open Approach",0HTT0Z,2016,2027
+0HTU,"Breast, Left",0HT,2016,2027
+0HTU0,Open,0HTU,2016,2027
+0HTU0Z,No Device,0HTU0,2016,2027
+0HTU0ZZ,"Resection of Left Breast, Open Approach",0HTU0Z,2016,2027
+0HTV,"Breast, Bilateral",0HT,2016,2027
+0HTV0,Open,0HTV,2016,2027
+0HTV0Z,No Device,0HTV0,2016,2027
+0HTV0ZZ,"Resection of Bilateral Breast, Open Approach",0HTV0Z,2016,2027
+0HTW,"Nipple, Right",0HT,2016,2027
+0HTWX,External,0HTW,2016,2027
+0HTWXZ,No Device,0HTWX,2016,2027
+0HTWXZZ,"Resection of Right Nipple, External Approach",0HTWXZ,2016,2027
+0HTX,"Nipple, Left",0HT,2016,2027
+0HTXX,External,0HTX,2016,2027
+0HTXXZ,No Device,0HTXX,2016,2027
+0HTXXZZ,"Resection of Left Nipple, External Approach",0HTXXZ,2016,2027
+0HTY,Supernumerary Breast,0HT,2016,2027
+0HTY0,Open,0HTY,2016,2027
+0HTY0Z,No Device,0HTY0,2016,2027
+0HTY0ZZ,"Resection of Supernumerary Breast, Open Approach",0HTY0Z,2016,2027
+0HU,Supplement,0H,2016,2027
+0HUT,"Breast, Right",0HU,2016,2027
+0HUT0,Open,0HUT,2016,2027
+0HUT07,Autologous Tissue Substitute,0HUT0,2016,2027
+0HUT07Z,"Supplement Right Breast with Autologous Tissue Substitute, Open Approach",0HUT07,2016,2027
+0HUT0J,Synthetic Substitute,0HUT0,2016,2027
+0HUT0JZ,"Supplement Right Breast with Synthetic Substitute, Open Approach",0HUT0J,2016,2027
+0HUT0K,Nonautologous Tissue Substitute,0HUT0,2016,2027
+0HUT0KZ,"Supplement Right Breast with Nonautologous Tissue Substitute, Open Approach",0HUT0K,2016,2027
+0HUT3,Percutaneous,0HUT,2016,2027
+0HUT37,Autologous Tissue Substitute,0HUT3,2016,2027
+0HUT37Z,"Supplement Right Breast with Autologous Tissue Substitute, Percutaneous Approach",0HUT37,2016,2027
+0HUT3J,Synthetic Substitute,0HUT3,2016,2027
+0HUT3JZ,"Supplement Right Breast with Synthetic Substitute, Percutaneous Approach",0HUT3J,2016,2027
+0HUT3K,Nonautologous Tissue Substitute,0HUT3,2016,2027
+0HUT3KZ,"Supplement Right Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0HUT3K,2016,2027
+0HUT7,Via Natural or Artificial Opening,0HUT,2016,2027
+0HUT77,Autologous Tissue Substitute,0HUT7,2016,2027
+0HUT77Z,"Supplement Right Breast with Autologous Tissue Substitute, Via Natural or Artificial Opening",0HUT77,2016,2027
+0HUT7J,Synthetic Substitute,0HUT7,2016,2027
+0HUT7JZ,"Supplement Right Breast with Synthetic Substitute, Via Natural or Artificial Opening",0HUT7J,2016,2027
+0HUT7K,Nonautologous Tissue Substitute,0HUT7,2016,2027
+0HUT7KZ,"Supplement Right Breast with Nonautologous Tissue Substitute, Via Natural or Artificial Opening",0HUT7K,2016,2027
+0HUT8,Via Natural or Artificial Opening Endoscopic,0HUT,2016,2027
+0HUT87,Autologous Tissue Substitute,0HUT8,2016,2027
+0HUT87Z,"Supplement Right Breast with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUT87,2016,2027
+0HUT8J,Synthetic Substitute,0HUT8,2016,2027
+0HUT8JZ,"Supplement Right Breast with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",0HUT8J,2016,2027
+0HUT8K,Nonautologous Tissue Substitute,0HUT8,2016,2027
+0HUT8KZ,"Supplement Right Breast with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUT8K,2016,2027
+0HUTX,External,0HUT,2016,2019
+0HUTX7,Autologous Tissue Substitute,0HUTX,2016,2019
+0HUTX7Z,"Supplement Right Breast with Autologous Tissue Substitute, External Approach",0HUTX7,2016,2019
+0HUTXJ,Synthetic Substitute,0HUTX,2016,2019
+0HUTXJZ,"Supplement Right Breast with Synthetic Substitute, External Approach",0HUTXJ,2016,2019
+0HUTXK,Nonautologous Tissue Substitute,0HUTX,2016,2019
+0HUTXKZ,"Supplement Right Breast with Nonautologous Tissue Substitute, External Approach",0HUTXK,2016,2019
+0HUU,"Breast, Left",0HU,2016,2027
+0HUU0,Open,0HUU,2016,2027
+0HUU07,Autologous Tissue Substitute,0HUU0,2016,2027
+0HUU07Z,"Supplement Left Breast with Autologous Tissue Substitute, Open Approach",0HUU07,2016,2027
+0HUU0J,Synthetic Substitute,0HUU0,2016,2027
+0HUU0JZ,"Supplement Left Breast with Synthetic Substitute, Open Approach",0HUU0J,2016,2027
+0HUU0K,Nonautologous Tissue Substitute,0HUU0,2016,2027
+0HUU0KZ,"Supplement Left Breast with Nonautologous Tissue Substitute, Open Approach",0HUU0K,2016,2027
+0HUU3,Percutaneous,0HUU,2016,2027
+0HUU37,Autologous Tissue Substitute,0HUU3,2016,2027
+0HUU37Z,"Supplement Left Breast with Autologous Tissue Substitute, Percutaneous Approach",0HUU37,2016,2027
+0HUU3J,Synthetic Substitute,0HUU3,2016,2027
+0HUU3JZ,"Supplement Left Breast with Synthetic Substitute, Percutaneous Approach",0HUU3J,2016,2027
+0HUU3K,Nonautologous Tissue Substitute,0HUU3,2016,2027
+0HUU3KZ,"Supplement Left Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0HUU3K,2016,2027
+0HUU7,Via Natural or Artificial Opening,0HUU,2016,2027
+0HUU77,Autologous Tissue Substitute,0HUU7,2016,2027
+0HUU77Z,"Supplement Left Breast with Autologous Tissue Substitute, Via Natural or Artificial Opening",0HUU77,2016,2027
+0HUU7J,Synthetic Substitute,0HUU7,2016,2027
+0HUU7JZ,"Supplement Left Breast with Synthetic Substitute, Via Natural or Artificial Opening",0HUU7J,2016,2027
+0HUU7K,Nonautologous Tissue Substitute,0HUU7,2016,2027
+0HUU7KZ,"Supplement Left Breast with Nonautologous Tissue Substitute, Via Natural or Artificial Opening",0HUU7K,2016,2027
+0HUU8,Via Natural or Artificial Opening Endoscopic,0HUU,2016,2027
+0HUU87,Autologous Tissue Substitute,0HUU8,2016,2027
+0HUU87Z,"Supplement Left Breast with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUU87,2016,2027
+0HUU8J,Synthetic Substitute,0HUU8,2016,2027
+0HUU8JZ,"Supplement Left Breast with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",0HUU8J,2016,2027
+0HUU8K,Nonautologous Tissue Substitute,0HUU8,2016,2027
+0HUU8KZ,"Supplement Left Breast with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUU8K,2016,2027
+0HUUX,External,0HUU,2016,2019
+0HUUX7,Autologous Tissue Substitute,0HUUX,2016,2019
+0HUUX7Z,"Supplement Left Breast with Autologous Tissue Substitute, External Approach",0HUUX7,2016,2019
+0HUUXJ,Synthetic Substitute,0HUUX,2016,2019
+0HUUXJZ,"Supplement Left Breast with Synthetic Substitute, External Approach",0HUUXJ,2016,2019
+0HUUXK,Nonautologous Tissue Substitute,0HUUX,2016,2019
+0HUUXKZ,"Supplement Left Breast with Nonautologous Tissue Substitute, External Approach",0HUUXK,2016,2019
+0HUV,"Breast, Bilateral",0HU,2016,2027
+0HUV0,Open,0HUV,2016,2027
+0HUV07,Autologous Tissue Substitute,0HUV0,2016,2027
+0HUV07Z,"Supplement Bilateral Breast with Autologous Tissue Substitute, Open Approach",0HUV07,2016,2027
+0HUV0J,Synthetic Substitute,0HUV0,2016,2027
+0HUV0JZ,"Supplement Bilateral Breast with Synthetic Substitute, Open Approach",0HUV0J,2016,2027
+0HUV0K,Nonautologous Tissue Substitute,0HUV0,2016,2027
+0HUV0KZ,"Supplement Bilateral Breast with Nonautologous Tissue Substitute, Open Approach",0HUV0K,2016,2027
+0HUV3,Percutaneous,0HUV,2016,2027
+0HUV37,Autologous Tissue Substitute,0HUV3,2016,2027
+0HUV37Z,"Supplement Bilateral Breast with Autologous Tissue Substitute, Percutaneous Approach",0HUV37,2016,2027
+0HUV3J,Synthetic Substitute,0HUV3,2016,2027
+0HUV3JZ,"Supplement Bilateral Breast with Synthetic Substitute, Percutaneous Approach",0HUV3J,2016,2027
+0HUV3K,Nonautologous Tissue Substitute,0HUV3,2016,2027
+0HUV3KZ,"Supplement Bilateral Breast with Nonautologous Tissue Substitute, Percutaneous Approach",0HUV3K,2016,2027
+0HUV7,Via Natural or Artificial Opening,0HUV,2016,2027
+0HUV77,Autologous Tissue Substitute,0HUV7,2016,2027
+0HUV77Z,"Supplement Bilateral Breast with Autologous Tissue Substitute, Via Natural or Artificial Opening",0HUV77,2016,2027
+0HUV7J,Synthetic Substitute,0HUV7,2016,2027
+0HUV7JZ,"Supplement Bilateral Breast with Synthetic Substitute, Via Natural or Artificial Opening",0HUV7J,2016,2027
+0HUV7K,Nonautologous Tissue Substitute,0HUV7,2016,2027
+0HUV7KZ,"Supplement Bilateral Breast with Nonautologous Tissue Substitute, Via Natural or Artificial Opening",0HUV7K,2016,2027
+0HUV8,Via Natural or Artificial Opening Endoscopic,0HUV,2016,2027
+0HUV87,Autologous Tissue Substitute,0HUV8,2016,2027
+0HUV87Z,"Supplement Bilateral Breast with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUV87,2016,2027
+0HUV8J,Synthetic Substitute,0HUV8,2016,2027
+0HUV8JZ,"Supplement Bilateral Breast with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",0HUV8J,2016,2027
+0HUV8K,Nonautologous Tissue Substitute,0HUV8,2016,2027
+0HUV8KZ,"Supplement Bilateral Breast with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUV8K,2016,2027
+0HUVX,External,0HUV,2016,2019
+0HUVX7,Autologous Tissue Substitute,0HUVX,2016,2019
+0HUVX7Z,"Supplement Bilateral Breast with Autologous Tissue Substitute, External Approach",0HUVX7,2016,2019
+0HUVXJ,Synthetic Substitute,0HUVX,2016,2019
+0HUVXJZ,"Supplement Bilateral Breast with Synthetic Substitute, External Approach",0HUVXJ,2016,2019
+0HUVXK,Nonautologous Tissue Substitute,0HUVX,2016,2019
+0HUVXKZ,"Supplement Bilateral Breast with Nonautologous Tissue Substitute, External Approach",0HUVXK,2016,2019
+0HUW,"Nipple, Right",0HU,2016,2027
+0HUW0,Open,0HUW,2016,2027
+0HUW07,Autologous Tissue Substitute,0HUW0,2016,2027
+0HUW07Z,"Supplement Right Nipple with Autologous Tissue Substitute, Open Approach",0HUW07,2016,2027
+0HUW0J,Synthetic Substitute,0HUW0,2016,2027
+0HUW0JZ,"Supplement Right Nipple with Synthetic Substitute, Open Approach",0HUW0J,2016,2027
+0HUW0K,Nonautologous Tissue Substitute,0HUW0,2016,2027
+0HUW0KZ,"Supplement Right Nipple with Nonautologous Tissue Substitute, Open Approach",0HUW0K,2016,2027
+0HUW3,Percutaneous,0HUW,2016,2027
+0HUW37,Autologous Tissue Substitute,0HUW3,2016,2027
+0HUW37Z,"Supplement Right Nipple with Autologous Tissue Substitute, Percutaneous Approach",0HUW37,2016,2027
+0HUW3J,Synthetic Substitute,0HUW3,2016,2027
+0HUW3JZ,"Supplement Right Nipple with Synthetic Substitute, Percutaneous Approach",0HUW3J,2016,2027
+0HUW3K,Nonautologous Tissue Substitute,0HUW3,2016,2027
+0HUW3KZ,"Supplement Right Nipple with Nonautologous Tissue Substitute, Percutaneous Approach",0HUW3K,2016,2027
+0HUW7,Via Natural or Artificial Opening,0HUW,2016,2027
+0HUW77,Autologous Tissue Substitute,0HUW7,2016,2027
+0HUW77Z,"Supplement Right Nipple with Autologous Tissue Substitute, Via Natural or Artificial Opening",0HUW77,2016,2027
+0HUW7J,Synthetic Substitute,0HUW7,2016,2027
+0HUW7JZ,"Supplement Right Nipple with Synthetic Substitute, Via Natural or Artificial Opening",0HUW7J,2016,2027
+0HUW7K,Nonautologous Tissue Substitute,0HUW7,2016,2027
+0HUW7KZ,"Supplement Right Nipple with Nonautologous Tissue Substitute, Via Natural or Artificial Opening",0HUW7K,2016,2027
+0HUW8,Via Natural or Artificial Opening Endoscopic,0HUW,2016,2027
+0HUW87,Autologous Tissue Substitute,0HUW8,2016,2027
+0HUW87Z,"Supplement Right Nipple with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUW87,2016,2027
+0HUW8J,Synthetic Substitute,0HUW8,2016,2027
+0HUW8JZ,"Supplement Right Nipple with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",0HUW8J,2016,2027
+0HUW8K,Nonautologous Tissue Substitute,0HUW8,2016,2027
+0HUW8KZ,"Supplement Right Nipple with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUW8K,2016,2027
+0HUWX,External,0HUW,2016,2027
+0HUWX7,Autologous Tissue Substitute,0HUWX,2016,2027
+0HUWX7Z,"Supplement Right Nipple with Autologous Tissue Substitute, External Approach",0HUWX7,2016,2027
+0HUWXJ,Synthetic Substitute,0HUWX,2016,2027
+0HUWXJZ,"Supplement Right Nipple with Synthetic Substitute, External Approach",0HUWXJ,2016,2027
+0HUWXK,Nonautologous Tissue Substitute,0HUWX,2016,2027
+0HUWXKZ,"Supplement Right Nipple with Nonautologous Tissue Substitute, External Approach",0HUWXK,2016,2027
+0HUX,"Nipple, Left",0HU,2016,2027
+0HUX0,Open,0HUX,2016,2027
+0HUX07,Autologous Tissue Substitute,0HUX0,2016,2027
+0HUX07Z,"Supplement Left Nipple with Autologous Tissue Substitute, Open Approach",0HUX07,2016,2027
+0HUX0J,Synthetic Substitute,0HUX0,2016,2027
+0HUX0JZ,"Supplement Left Nipple with Synthetic Substitute, Open Approach",0HUX0J,2016,2027
+0HUX0K,Nonautologous Tissue Substitute,0HUX0,2016,2027
+0HUX0KZ,"Supplement Left Nipple with Nonautologous Tissue Substitute, Open Approach",0HUX0K,2016,2027
+0HUX3,Percutaneous,0HUX,2016,2027
+0HUX37,Autologous Tissue Substitute,0HUX3,2016,2027
+0HUX37Z,"Supplement Left Nipple with Autologous Tissue Substitute, Percutaneous Approach",0HUX37,2016,2027
+0HUX3J,Synthetic Substitute,0HUX3,2016,2027
+0HUX3JZ,"Supplement Left Nipple with Synthetic Substitute, Percutaneous Approach",0HUX3J,2016,2027
+0HUX3K,Nonautologous Tissue Substitute,0HUX3,2016,2027
+0HUX3KZ,"Supplement Left Nipple with Nonautologous Tissue Substitute, Percutaneous Approach",0HUX3K,2016,2027
+0HUX7,Via Natural or Artificial Opening,0HUX,2016,2027
+0HUX77,Autologous Tissue Substitute,0HUX7,2016,2027
+0HUX77Z,"Supplement Left Nipple with Autologous Tissue Substitute, Via Natural or Artificial Opening",0HUX77,2016,2027
+0HUX7J,Synthetic Substitute,0HUX7,2016,2027
+0HUX7JZ,"Supplement Left Nipple with Synthetic Substitute, Via Natural or Artificial Opening",0HUX7J,2016,2027
+0HUX7K,Nonautologous Tissue Substitute,0HUX7,2016,2027
+0HUX7KZ,"Supplement Left Nipple with Nonautologous Tissue Substitute, Via Natural or Artificial Opening",0HUX7K,2016,2027
+0HUX8,Via Natural or Artificial Opening Endoscopic,0HUX,2016,2027
+0HUX87,Autologous Tissue Substitute,0HUX8,2016,2027
+0HUX87Z,"Supplement Left Nipple with Autologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUX87,2016,2027
+0HUX8J,Synthetic Substitute,0HUX8,2016,2027
+0HUX8JZ,"Supplement Left Nipple with Synthetic Substitute, Via Natural or Artificial Opening Endoscopic",0HUX8J,2016,2027
+0HUX8K,Nonautologous Tissue Substitute,0HUX8,2016,2027
+0HUX8KZ,"Supplement Left Nipple with Nonautologous Tissue Substitute, Via Natural or Artificial Opening Endoscopic",0HUX8K,2016,2027
+0HUXX,External,0HUX,2016,2027
+0HUXX7,Autologous Tissue Substitute,0HUXX,2016,2027
+0HUXX7Z,"Supplement Left Nipple with Autologous Tissue Substitute, External Approach",0HUXX7,2016,2027
+0HUXXJ,Synthetic Substitute,0HUXX,2016,2027
+0HUXXJZ,"Supplement Left Nipple with Synthetic Substitute, External Approach",0HUXXJ,2016,2027
+0HUXXK,Nonautologous Tissue Substitute,0HUXX,2016,2027
+0HUXXKZ,"Supplement Left Nipple with Nonautologous Tissue Substitute, External Approach",0HUXXK,2016,2027
+0HW,Revision,0H,2016,2027
+0HWP,Skin,0HW,2016,2027
+0HWPX,External,0HWP,2016,2027
+0HWPX0,Drainage Device,0HWPX,2016,2027
+0HWPX0Z,"Revision of Drainage Device in Skin, External Approach",0HWPX0,2016,2027
+0HWPX7,Autologous Tissue Substitute,0HWPX,2016,2027
+0HWPX7Z,"Revision of Autologous Tissue Substitute in Skin, External Approach",0HWPX7,2016,2027
+0HWPXJ,Synthetic Substitute,0HWPX,2016,2027
+0HWPXJZ,"Revision of Synthetic Substitute in Skin, External Approach",0HWPXJ,2016,2027
+0HWPXK,Nonautologous Tissue Substitute,0HWPX,2016,2027
+0HWPXKZ,"Revision of Nonautologous Tissue Substitute in Skin, External Approach",0HWPXK,2016,2027
+0HWPXY,Other Device,0HWPX,2018,2027
+0HWPXYZ,"Revision of Other Device in Skin, External Approach",0HWPXY,2018,2027
+0HWQ,Finger Nail,0HW,2016,2027
+0HWQX,External,0HWQ,2016,2027
+0HWQX0,Drainage Device,0HWQX,2016,2027
+0HWQX0Z,"Revision of Drainage Device in Finger Nail, External Approach",0HWQX0,2016,2027
+0HWQX7,Autologous Tissue Substitute,0HWQX,2016,2027
+0HWQX7Z,"Revision of Autologous Tissue Substitute in Finger Nail, External Approach",0HWQX7,2016,2027
+0HWQXJ,Synthetic Substitute,0HWQX,2016,2027
+0HWQXJZ,"Revision of Synthetic Substitute in Finger Nail, External Approach",0HWQXJ,2016,2027
+0HWQXK,Nonautologous Tissue Substitute,0HWQX,2016,2027
+0HWQXKZ,"Revision of Nonautologous Tissue Substitute in Finger Nail, External Approach",0HWQXK,2016,2027
+0HWR,Toe Nail,0HW,2016,2027
+0HWRX,External,0HWR,2016,2027
+0HWRX0,Drainage Device,0HWRX,2016,2027
+0HWRX0Z,"Revision of Drainage Device in Toe Nail, External Approach",0HWRX0,2016,2027
+0HWRX7,Autologous Tissue Substitute,0HWRX,2016,2027
+0HWRX7Z,"Revision of Autologous Tissue Substitute in Toe Nail, External Approach",0HWRX7,2016,2027
+0HWRXJ,Synthetic Substitute,0HWRX,2016,2027
+0HWRXJZ,"Revision of Synthetic Substitute in Toe Nail, External Approach",0HWRXJ,2016,2027
+0HWRXK,Nonautologous Tissue Substitute,0HWRX,2016,2027
+0HWRXKZ,"Revision of Nonautologous Tissue Substitute in Toe Nail, External Approach",0HWRXK,2016,2027
+0HWS,Hair,0HW,2016,2027
+0HWSX,External,0HWS,2016,2027
+0HWSX7,Autologous Tissue Substitute,0HWSX,2016,2027
+0HWSX7Z,"Revision of Autologous Tissue Substitute in Hair, External Approach",0HWSX7,2016,2027
+0HWSXJ,Synthetic Substitute,0HWSX,2016,2027
+0HWSXJZ,"Revision of Synthetic Substitute in Hair, External Approach",0HWSXJ,2016,2027
+0HWSXK,Nonautologous Tissue Substitute,0HWSX,2016,2027
+0HWSXKZ,"Revision of Nonautologous Tissue Substitute in Hair, External Approach",0HWSXK,2016,2027
+0HWT,"Breast, Right",0HW,2016,2027
+0HWT0,Open,0HWT,2016,2027
+0HWT00,Drainage Device,0HWT0,2016,2027
+0HWT00Z,"Revision of Drainage Device in Right Breast, Open Approach",0HWT00,2016,2027
+0HWT07,Autologous Tissue Substitute,0HWT0,2016,2027
+0HWT07Z,"Revision of Autologous Tissue Substitute in Right Breast, Open Approach",0HWT07,2016,2027
+0HWT0J,Synthetic Substitute,0HWT0,2016,2027
+0HWT0JZ,"Revision of Synthetic Substitute in Right Breast, Open Approach",0HWT0J,2016,2027
+0HWT0K,Nonautologous Tissue Substitute,0HWT0,2016,2027
+0HWT0KZ,"Revision of Nonautologous Tissue Substitute in Right Breast, Open Approach",0HWT0K,2016,2027
+0HWT0N,Tissue Expander,0HWT0,2016,2027
+0HWT0NZ,"Revision of Tissue Expander in Right Breast, Open Approach",0HWT0N,2016,2027
+0HWT0Y,Other Device,0HWT0,2018,2027
+0HWT0YZ,"Revision of Other Device in Right Breast, Open Approach",0HWT0Y,2018,2027
+0HWT3,Percutaneous,0HWT,2016,2027
+0HWT30,Drainage Device,0HWT3,2016,2027
+0HWT30Z,"Revision of Drainage Device in Right Breast, Percutaneous Approach",0HWT30,2016,2027
+0HWT37,Autologous Tissue Substitute,0HWT3,2016,2027
+0HWT37Z,"Revision of Autologous Tissue Substitute in Right Breast, Percutaneous Approach",0HWT37,2016,2027
+0HWT3J,Synthetic Substitute,0HWT3,2016,2027
+0HWT3JZ,"Revision of Synthetic Substitute in Right Breast, Percutaneous Approach",0HWT3J,2016,2027
+0HWT3K,Nonautologous Tissue Substitute,0HWT3,2016,2027
+0HWT3KZ,"Revision of Nonautologous Tissue Substitute in Right Breast, Percutaneous Approach",0HWT3K,2016,2027
+0HWT3N,Tissue Expander,0HWT3,2016,2027
+0HWT3NZ,"Revision of Tissue Expander in Right Breast, Percutaneous Approach",0HWT3N,2016,2027
+0HWT3Y,Other Device,0HWT3,2018,2027
+0HWT3YZ,"Revision of Other Device in Right Breast, Percutaneous Approach",0HWT3Y,2018,2027
+0HWT7,Via Natural or Artificial Opening,0HWT,2016,2027
+0HWT70,Drainage Device,0HWT7,2016,2027
+0HWT70Z,"Revision of Drainage Device in Right Breast, Via Natural or Artificial Opening",0HWT70,2016,2027
+0HWT77,Autologous Tissue Substitute,0HWT7,2016,2027
+0HWT77Z,"Revision of Autologous Tissue Substitute in Right Breast, Via Natural or Artificial Opening",0HWT77,2016,2027
+0HWT7J,Synthetic Substitute,0HWT7,2016,2027
+0HWT7JZ,"Revision of Synthetic Substitute in Right Breast, Via Natural or Artificial Opening",0HWT7J,2016,2027
+0HWT7K,Nonautologous Tissue Substitute,0HWT7,2016,2027
+0HWT7KZ,"Revision of Nonautologous Tissue Substitute in Right Breast, Via Natural or Artificial Opening",0HWT7K,2016,2027
+0HWT7N,Tissue Expander,0HWT7,2016,2027
+0HWT7NZ,"Revision of Tissue Expander in Right Breast, Via Natural or Artificial Opening",0HWT7N,2016,2027
+0HWT7Y,Other Device,0HWT7,2018,2027
+0HWT7YZ,"Revision of Other Device in Right Breast, Via Natural or Artificial Opening",0HWT7Y,2018,2027
+0HWT8,Via Natural or Artificial Opening Endoscopic,0HWT,2016,2027
+0HWT80,Drainage Device,0HWT8,2016,2027
+0HWT80Z,"Revision of Drainage Device in Right Breast, Via Natural or Artificial Opening Endoscopic",0HWT80,2016,2027
+0HWT87,Autologous Tissue Substitute,0HWT8,2016,2027
+0HWT87Z,"Revision of Autologous Tissue Substitute in Right Breast, Via Natural or Artificial Opening Endoscopic",0HWT87,2016,2027
+0HWT8J,Synthetic Substitute,0HWT8,2016,2027
+0HWT8JZ,"Revision of Synthetic Substitute in Right Breast, Via Natural or Artificial Opening Endoscopic",0HWT8J,2016,2027
+0HWT8K,Nonautologous Tissue Substitute,0HWT8,2016,2027
+0HWT8KZ,"Revision of Nonautologous Tissue Substitute in Right Breast, Via Natural or Artificial Opening Endoscopic",0HWT8K,2016,2027
+0HWT8N,Tissue Expander,0HWT8,2016,2027
+0HWT8NZ,"Revision of Tissue Expander in Right Breast, Via Natural or Artificial Opening Endoscopic",0HWT8N,2016,2027
+0HWT8Y,Other Device,0HWT8,2018,2027
+0HWT8YZ,"Revision of Other Device in Right Breast, Via Natural or Artificial Opening Endoscopic",0HWT8Y,2018,2027
+0HWTX,External,0HWT,2016,2019
+0HWTX0,Drainage Device,0HWTX,2016,2019
+0HWTX0Z,"Revision of Drainage Device in Right Breast, External Approach",0HWTX0,2016,2019
+0HWTX7,Autologous Tissue Substitute,0HWTX,2016,2019
+0HWTX7Z,"Revision of Autologous Tissue Substitute in Right Breast, External Approach",0HWTX7,2016,2019
+0HWTXJ,Synthetic Substitute,0HWTX,2016,2019
+0HWTXJZ,"Revision of Synthetic Substitute in Right Breast, External Approach",0HWTXJ,2016,2019
+0HWTXK,Nonautologous Tissue Substitute,0HWTX,2016,2019
+0HWTXKZ,"Revision of Nonautologous Tissue Substitute in Right Breast, External Approach",0HWTXK,2016,2019
+0HWU,"Breast, Left",0HW,2016,2027
+0HWU0,Open,0HWU,2016,2027
+0HWU00,Drainage Device,0HWU0,2016,2027
+0HWU00Z,"Revision of Drainage Device in Left Breast, Open Approach",0HWU00,2016,2027
+0HWU07,Autologous Tissue Substitute,0HWU0,2016,2027
+0HWU07Z,"Revision of Autologous Tissue Substitute in Left Breast, Open Approach",0HWU07,2016,2027
+0HWU0J,Synthetic Substitute,0HWU0,2016,2027
+0HWU0JZ,"Revision of Synthetic Substitute in Left Breast, Open Approach",0HWU0J,2016,2027
+0HWU0K,Nonautologous Tissue Substitute,0HWU0,2016,2027
+0HWU0KZ,"Revision of Nonautologous Tissue Substitute in Left Breast, Open Approach",0HWU0K,2016,2027
+0HWU0N,Tissue Expander,0HWU0,2016,2027
+0HWU0NZ,"Revision of Tissue Expander in Left Breast, Open Approach",0HWU0N,2016,2027
+0HWU0Y,Other Device,0HWU0,2018,2027
+0HWU0YZ,"Revision of Other Device in Left Breast, Open Approach",0HWU0Y,2018,2027
+0HWU3,Percutaneous,0HWU,2016,2027
+0HWU30,Drainage Device,0HWU3,2016,2027
+0HWU30Z,"Revision of Drainage Device in Left Breast, Percutaneous Approach",0HWU30,2016,2027
+0HWU37,Autologous Tissue Substitute,0HWU3,2016,2027
+0HWU37Z,"Revision of Autologous Tissue Substitute in Left Breast, Percutaneous Approach",0HWU37,2016,2027
+0HWU3J,Synthetic Substitute,0HWU3,2016,2027
+0HWU3JZ,"Revision of Synthetic Substitute in Left Breast, Percutaneous Approach",0HWU3J,2016,2027
+0HWU3K,Nonautologous Tissue Substitute,0HWU3,2016,2027
+0HWU3KZ,"Revision of Nonautologous Tissue Substitute in Left Breast, Percutaneous Approach",0HWU3K,2016,2027
+0HWU3N,Tissue Expander,0HWU3,2016,2027
+0HWU3NZ,"Revision of Tissue Expander in Left Breast, Percutaneous Approach",0HWU3N,2016,2027
+0HWU3Y,Other Device,0HWU3,2018,2027
+0HWU3YZ,"Revision of Other Device in Left Breast, Percutaneous Approach",0HWU3Y,2018,2027
+0HWU7,Via Natural or Artificial Opening,0HWU,2016,2027
+0HWU70,Drainage Device,0HWU7,2016,2027
+0HWU70Z,"Revision of Drainage Device in Left Breast, Via Natural or Artificial Opening",0HWU70,2016,2027
+0HWU77,Autologous Tissue Substitute,0HWU7,2016,2027
+0HWU77Z,"Revision of Autologous Tissue Substitute in Left Breast, Via Natural or Artificial Opening",0HWU77,2016,2027
+0HWU7J,Synthetic Substitute,0HWU7,2016,2027
+0HWU7JZ,"Revision of Synthetic Substitute in Left Breast, Via Natural or Artificial Opening",0HWU7J,2016,2027
+0HWU7K,Nonautologous Tissue Substitute,0HWU7,2016,2027
+0HWU7KZ,"Revision of Nonautologous Tissue Substitute in Left Breast, Via Natural or Artificial Opening",0HWU7K,2016,2027
+0HWU7N,Tissue Expander,0HWU7,2016,2027
+0HWU7NZ,"Revision of Tissue Expander in Left Breast, Via Natural or Artificial Opening",0HWU7N,2016,2027
+0HWU7Y,Other Device,0HWU7,2018,2027
+0HWU7YZ,"Revision of Other Device in Left Breast, Via Natural or Artificial Opening",0HWU7Y,2018,2027
+0HWU8,Via Natural or Artificial Opening Endoscopic,0HWU,2016,2027
+0HWU80,Drainage Device,0HWU8,2016,2027
+0HWU80Z,"Revision of Drainage Device in Left Breast, Via Natural or Artificial Opening Endoscopic",0HWU80,2016,2027
+0HWU87,Autologous Tissue Substitute,0HWU8,2016,2027
+0HWU87Z,"Revision of Autologous Tissue Substitute in Left Breast, Via Natural or Artificial Opening Endoscopic",0HWU87,2016,2027
+0HWU8J,Synthetic Substitute,0HWU8,2016,2027
+0HWU8JZ,"Revision of Synthetic Substitute in Left Breast, Via Natural or Artificial Opening Endoscopic",0HWU8J,2016,2027
+0HWU8K,Nonautologous Tissue Substitute,0HWU8,2016,2027
+0HWU8KZ,"Revision of Nonautologous Tissue Substitute in Left Breast, Via Natural or Artificial Opening Endoscopic",0HWU8K,2016,2027
+0HWU8N,Tissue Expander,0HWU8,2016,2027
+0HWU8NZ,"Revision of Tissue Expander in Left Breast, Via Natural or Artificial Opening Endoscopic",0HWU8N,2016,2027
+0HWU8Y,Other Device,0HWU8,2018,2027
+0HWU8YZ,"Revision of Other Device in Left Breast, Via Natural or Artificial Opening Endoscopic",0HWU8Y,2018,2027
+0HWUX,External,0HWU,2016,2019
+0HWUX0,Drainage Device,0HWUX,2016,2019
+0HWUX0Z,"Revision of Drainage Device in Left Breast, External Approach",0HWUX0,2016,2019
+0HWUX7,Autologous Tissue Substitute,0HWUX,2016,2019
+0HWUX7Z,"Revision of Autologous Tissue Substitute in Left Breast, External Approach",0HWUX7,2016,2019
+0HWUXJ,Synthetic Substitute,0HWUX,2016,2019
+0HWUXJZ,"Revision of Synthetic Substitute in Left Breast, External Approach",0HWUXJ,2016,2019
+0HWUXK,Nonautologous Tissue Substitute,0HWUX,2016,2019
+0HWUXKZ,"Revision of Nonautologous Tissue Substitute in Left Breast, External Approach",0HWUXK,2016,2019
+0HX,Transfer,0H,2016,2027
+0HX0,"Skin, Scalp",0HX,2016,2027
+0HX0X,External,0HX0,2016,2027
+0HX0XZ,No Device,0HX0X,2016,2027
+0HX0XZZ,"Transfer Scalp Skin, External Approach",0HX0XZ,2016,2027
+0HX1,"Skin, Face",0HX,2016,2027
+0HX1X,External,0HX1,2016,2027
+0HX1XZ,No Device,0HX1X,2016,2027
+0HX1XZZ,"Transfer Face Skin, External Approach",0HX1XZ,2016,2027
+0HX2,"Skin, Right Ear",0HX,2016,2027
+0HX2X,External,0HX2,2016,2027
+0HX2XZ,No Device,0HX2X,2016,2027
+0HX2XZZ,"Transfer Right Ear Skin, External Approach",0HX2XZ,2016,2027
+0HX3,"Skin, Left Ear",0HX,2016,2027
+0HX3X,External,0HX3,2016,2027
+0HX3XZ,No Device,0HX3X,2016,2027
+0HX3XZZ,"Transfer Left Ear Skin, External Approach",0HX3XZ,2016,2027
+0HX4,"Skin, Neck",0HX,2016,2027
+0HX4X,External,0HX4,2016,2027
+0HX4XZ,No Device,0HX4X,2016,2027
+0HX4XZZ,"Transfer Neck Skin, External Approach",0HX4XZ,2016,2027
+0HX5,"Skin, Chest",0HX,2016,2027
+0HX5X,External,0HX5,2016,2027
+0HX5XZ,No Device,0HX5X,2016,2027
+0HX5XZZ,"Transfer Chest Skin, External Approach",0HX5XZ,2016,2027
+0HX6,"Skin, Back",0HX,2016,2027
+0HX6X,External,0HX6,2016,2027
+0HX6XZ,No Device,0HX6X,2016,2027
+0HX6XZZ,"Transfer Back Skin, External Approach",0HX6XZ,2016,2027
+0HX7,"Skin, Abdomen",0HX,2016,2027
+0HX7X,External,0HX7,2016,2027
+0HX7XZ,No Device,0HX7X,2016,2027
+0HX7XZZ,"Transfer Abdomen Skin, External Approach",0HX7XZ,2016,2027
+0HX8,"Skin, Buttock",0HX,2016,2027
+0HX8X,External,0HX8,2016,2027
+0HX8XZ,No Device,0HX8X,2016,2027
+0HX8XZZ,"Transfer Buttock Skin, External Approach",0HX8XZ,2016,2027
+0HX9,"Skin, Perineum",0HX,2016,2027
+0HX9X,External,0HX9,2016,2027
+0HX9XZ,No Device,0HX9X,2016,2027
+0HX9XZZ,"Transfer Perineum Skin, External Approach",0HX9XZ,2016,2027
+0HXA,"Skin, Inguinal",0HX,2016,2027
+0HXAX,External,0HXA,2016,2027
+0HXAXZ,No Device,0HXAX,2016,2027
+0HXAXZZ,"Transfer Inguinal Skin, External Approach",0HXAXZ,2016,2027
+0HXB,"Skin, Right Upper Arm",0HX,2016,2027
+0HXBX,External,0HXB,2016,2027
+0HXBXZ,No Device,0HXBX,2016,2027
+0HXBXZZ,"Transfer Right Upper Arm Skin, External Approach",0HXBXZ,2016,2027
+0HXC,"Skin, Left Upper Arm",0HX,2016,2027
+0HXCX,External,0HXC,2016,2027
+0HXCXZ,No Device,0HXCX,2016,2027
+0HXCXZZ,"Transfer Left Upper Arm Skin, External Approach",0HXCXZ,2016,2027
+0HXD,"Skin, Right Lower Arm",0HX,2016,2027
+0HXDX,External,0HXD,2016,2027
+0HXDXZ,No Device,0HXDX,2016,2027
+0HXDXZZ,"Transfer Right Lower Arm Skin, External Approach",0HXDXZ,2016,2027
+0HXE,"Skin, Left Lower Arm",0HX,2016,2027
+0HXEX,External,0HXE,2016,2027
+0HXEXZ,No Device,0HXEX,2016,2027
+0HXEXZZ,"Transfer Left Lower Arm Skin, External Approach",0HXEXZ,2016,2027
+0HXF,"Skin, Right Hand",0HX,2016,2027
+0HXFX,External,0HXF,2016,2027
+0HXFXZ,No Device,0HXFX,2016,2027
+0HXFXZZ,"Transfer Right Hand Skin, External Approach",0HXFXZ,2016,2027
+0HXG,"Skin, Left Hand",0HX,2016,2027
+0HXGX,External,0HXG,2016,2027
+0HXGXZ,No Device,0HXGX,2016,2027
+0HXGXZZ,"Transfer Left Hand Skin, External Approach",0HXGXZ,2016,2027
+0HXH,"Skin, Right Upper Leg",0HX,2016,2027
+0HXHX,External,0HXH,2016,2027
+0HXHXZ,No Device,0HXHX,2016,2027
+0HXHXZZ,"Transfer Right Upper Leg Skin, External Approach",0HXHXZ,2016,2027
+0HXJ,"Skin, Left Upper Leg",0HX,2016,2027
+0HXJX,External,0HXJ,2016,2027
+0HXJXZ,No Device,0HXJX,2016,2027
+0HXJXZZ,"Transfer Left Upper Leg Skin, External Approach",0HXJXZ,2016,2027
+0HXK,"Skin, Right Lower Leg",0HX,2016,2027
+0HXKX,External,0HXK,2016,2027
+0HXKXZ,No Device,0HXKX,2016,2027
+0HXKXZZ,"Transfer Right Lower Leg Skin, External Approach",0HXKXZ,2016,2027
+0HXL,"Skin, Left Lower Leg",0HX,2016,2027
+0HXLX,External,0HXL,2016,2027
+0HXLXZ,No Device,0HXLX,2016,2027
+0HXLXZZ,"Transfer Left Lower Leg Skin, External Approach",0HXLXZ,2016,2027
+0HXM,"Skin, Right Foot",0HX,2016,2027
+0HXMX,External,0HXM,2016,2027
+0HXMXZ,No Device,0HXMX,2016,2027
+0HXMXZZ,"Transfer Right Foot Skin, External Approach",0HXMXZ,2016,2027
+0HXN,"Skin, Left Foot",0HX,2016,2027
+0HXNX,External,0HXN,2016,2027
+0HXNXZ,No Device,0HXNX,2016,2027
+0HXNXZZ,"Transfer Left Foot Skin, External Approach",0HXNXZ,2016,2027

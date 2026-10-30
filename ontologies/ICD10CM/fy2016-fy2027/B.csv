@@ -1,0 +1,615 @@
+code,description,parent,first_year,last_year
+B00,Herpesviral [herpes simplex] infections,,2016,2027
+B00.0,Eczema herpeticum,B00,2016,2027
+B00.1,Herpesviral vesicular dermatitis,B00,2016,2027
+B00.2,Herpesviral gingivostomatitis and pharyngotonsillitis,B00,2016,2027
+B00.3,Herpesviral meningitis,B00,2016,2027
+B00.4,Herpesviral encephalitis,B00,2016,2027
+B00.5,Herpesviral ocular disease,B00,2016,2027
+B00.50,"Herpesviral ocular disease, unspecified",B00.5,2016,2027
+B00.51,Herpesviral iridocyclitis,B00.5,2016,2027
+B00.52,Herpesviral keratitis,B00.5,2016,2027
+B00.53,Herpesviral conjunctivitis,B00.5,2016,2027
+B00.59,Other herpesviral disease of eye,B00.5,2016,2027
+B00.7,Disseminated herpesviral disease,B00,2016,2027
+B00.8,Other forms of herpesviral infections,B00,2016,2027
+B00.81,Herpesviral hepatitis,B00.8,2016,2027
+B00.82,Herpes simplex myelitis,B00.8,2016,2027
+B00.89,Other herpesviral infection,B00.8,2016,2027
+B00.9,"Herpesviral infection, unspecified",B00,2016,2027
+B01,Varicella [chickenpox],,2016,2027
+B01.0,Varicella meningitis,B01,2016,2027
+B01.1,"Varicella encephalitis, myelitis and encephalomyelitis",B01,2016,2027
+B01.11,Varicella encephalitis and encephalomyelitis,B01.1,2016,2027
+B01.12,Varicella myelitis,B01.1,2016,2027
+B01.2,Varicella pneumonia,B01,2016,2027
+B01.8,Varicella with other complications,B01,2016,2027
+B01.81,Varicella keratitis,B01.8,2016,2027
+B01.89,Other varicella complications,B01.8,2016,2027
+B01.9,Varicella without complication,B01,2016,2027
+B02,Zoster [herpes zoster],,2016,2027
+B02.0,Zoster encephalitis,B02,2016,2027
+B02.1,Zoster meningitis,B02,2016,2027
+B02.2,Zoster with other nervous system involvement,B02,2016,2027
+B02.21,Postherpetic geniculate ganglionitis,B02.2,2016,2027
+B02.22,Postherpetic trigeminal neuralgia,B02.2,2016,2027
+B02.23,Postherpetic polyneuropathy,B02.2,2016,2027
+B02.24,Postherpetic myelitis,B02.2,2016,2027
+B02.29,Other postherpetic nervous system involvement,B02.2,2016,2027
+B02.3,Zoster ocular disease,B02,2016,2027
+B02.30,"Zoster ocular disease, unspecified",B02.3,2016,2027
+B02.31,Zoster conjunctivitis,B02.3,2016,2027
+B02.32,Zoster iridocyclitis,B02.3,2016,2027
+B02.33,Zoster keratitis,B02.3,2016,2027
+B02.34,Zoster scleritis,B02.3,2016,2027
+B02.39,Other herpes zoster eye disease,B02.3,2016,2027
+B02.7,Disseminated zoster,B02,2016,2027
+B02.8,Zoster with other complications,B02,2016,2027
+B02.9,Zoster without complications,B02,2016,2027
+B03,Smallpox,,2016,2027
+B04,Monkeypox,,2016,2027
+B05,Measles,,2016,2027
+B05.0,Measles complicated by encephalitis,B05,2016,2027
+B05.1,Measles complicated by meningitis,B05,2016,2027
+B05.2,Measles complicated by pneumonia,B05,2016,2027
+B05.3,Measles complicated by otitis media,B05,2016,2027
+B05.4,Measles with intestinal complications,B05,2016,2027
+B05.8,Measles with other complications,B05,2016,2027
+B05.81,Measles keratitis and keratoconjunctivitis,B05.8,2016,2027
+B05.89,Other measles complications,B05.8,2016,2027
+B05.9,Measles without complication,B05,2016,2027
+B06,Rubella [German measles],,2016,2027
+B06.0,Rubella with neurological complications,B06,2016,2027
+B06.00,"Rubella with neurological complication, unspecified",B06.0,2016,2027
+B06.01,Rubella encephalitis,B06.0,2016,2027
+B06.02,Rubella meningitis,B06.0,2016,2027
+B06.09,Other neurological complications of rubella,B06.0,2016,2027
+B06.8,Rubella with other complications,B06,2016,2027
+B06.81,Rubella pneumonia,B06.8,2016,2027
+B06.82,Rubella arthritis,B06.8,2016,2027
+B06.89,Other rubella complications,B06.8,2016,2027
+B06.9,Rubella without complication,B06,2016,2027
+B07,Viral warts,,2016,2027
+B07.0,Plantar wart,B07,2016,2027
+B07.8,Other viral warts,B07,2016,2027
+B07.9,"Viral wart, unspecified",B07,2016,2027
+B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",,2016,2027
+B08.0,Other orthopoxvirus infections,B08,2016,2027
+B08.01,Cowpox and vaccinia not from vaccine,B08.0,2016,2027
+B08.010,Cowpox,B08.01,2016,2027
+B08.011,Vaccinia not from vaccine,B08.01,2016,2027
+B08.02,Orf virus disease,B08.0,2016,2027
+B08.03,Pseudocowpox [milker's node],B08.0,2016,2027
+B08.04,"Paravaccinia, unspecified",B08.0,2016,2027
+B08.09,Other orthopoxvirus infections,B08.0,2016,2027
+B08.1,Molluscum contagiosum,B08,2016,2027
+B08.2,Exanthema subitum [sixth disease],B08,2016,2027
+B08.20,"Exanthema subitum [sixth disease], unspecified",B08.2,2016,2027
+B08.21,Exanthema subitum [sixth disease] due to human herpesvirus 6,B08.2,2016,2027
+B08.22,Exanthema subitum [sixth disease] due to human herpesvirus 7,B08.2,2016,2027
+B08.3,Erythema infectiosum [fifth disease],B08,2016,2027
+B08.4,Enteroviral vesicular stomatitis with exanthem,B08,2016,2027
+B08.5,Enteroviral vesicular pharyngitis,B08,2016,2027
+B08.6,Parapoxvirus infections,B08,2016,2027
+B08.60,"Parapoxvirus infection, unspecified",B08.6,2016,2027
+B08.61,Bovine stomatitis,B08.6,2016,2027
+B08.62,Sealpox,B08.6,2016,2027
+B08.69,Other parapoxvirus infections,B08.6,2016,2027
+B08.7,Yatapoxvirus infections,B08,2016,2027
+B08.70,"Yatapoxvirus infection, unspecified",B08.7,2016,2027
+B08.71,Tanapox virus disease,B08.7,2016,2027
+B08.72,Yaba pox virus disease,B08.7,2016,2027
+B08.79,Other yatapoxvirus infections,B08.7,2016,2027
+B08.8,Other specified viral infections characterized by skin and mucous membrane lesions,B08,2016,2027
+B09,Unspecified viral infection characterized by skin and mucous membrane lesions,,2016,2027
+B10,Other human herpesviruses,,2016,2027
+B10.0,Other human herpesvirus encephalitis,B10,2016,2027
+B10.01,Human herpesvirus 6 encephalitis,B10.0,2016,2027
+B10.09,Other human herpesvirus encephalitis,B10.0,2016,2027
+B10.8,Other human herpesvirus infection,B10,2016,2027
+B10.81,Human herpesvirus 6 infection,B10.8,2016,2027
+B10.82,Human herpesvirus 7 infection,B10.8,2016,2027
+B10.89,Other human herpesvirus infection,B10.8,2016,2027
+B15,Acute hepatitis A,,2016,2027
+B15.0,Hepatitis A with hepatic coma,B15,2016,2027
+B15.9,Hepatitis A without hepatic coma,B15,2016,2027
+B16,Acute hepatitis B,,2016,2027
+B16.0,Acute hepatitis B with delta-agent with hepatic coma,B16,2016,2027
+B16.1,Acute hepatitis B with delta-agent without hepatic coma,B16,2016,2027
+B16.2,Acute hepatitis B without delta-agent with hepatic coma,B16,2016,2027
+B16.9,Acute hepatitis B without delta-agent and without hepatic coma,B16,2016,2027
+B17,Other acute viral hepatitis,,2016,2027
+B17.0,Acute delta-(super) infection of hepatitis B carrier,B17,2016,2027
+B17.1,Acute hepatitis C,B17,2016,2027
+B17.10,Acute hepatitis C without hepatic coma,B17.1,2016,2027
+B17.11,Acute hepatitis C with hepatic coma,B17.1,2016,2027
+B17.2,Acute hepatitis E,B17,2016,2027
+B17.8,Other specified acute viral hepatitis,B17,2016,2027
+B17.9,"Acute viral hepatitis, unspecified",B17,2016,2027
+B18,Chronic viral hepatitis,,2016,2027
+B18.0,Chronic viral hepatitis B with delta-agent,B18,2016,2027
+B18.1,Chronic viral hepatitis B without delta-agent,B18,2016,2027
+B18.2,Chronic viral hepatitis C,B18,2016,2027
+B18.8,Other chronic viral hepatitis,B18,2016,2027
+B18.9,"Chronic viral hepatitis, unspecified",B18,2016,2027
+B19,Unspecified viral hepatitis,,2016,2027
+B19.0,Unspecified viral hepatitis with hepatic coma,B19,2016,2027
+B19.1,Unspecified viral hepatitis B,B19,2016,2027
+B19.10,Unspecified viral hepatitis B without hepatic coma,B19.1,2016,2027
+B19.11,Unspecified viral hepatitis B with hepatic coma,B19.1,2016,2027
+B19.2,Unspecified viral hepatitis C,B19,2016,2027
+B19.20,Unspecified viral hepatitis C without hepatic coma,B19.2,2016,2027
+B19.21,Unspecified viral hepatitis C with hepatic coma,B19.2,2016,2027
+B19.9,Unspecified viral hepatitis without hepatic coma,B19,2016,2027
+B20,Human immunodeficiency virus [HIV] disease,,2016,2027
+B25,Cytomegaloviral disease,,2016,2027
+B25.0,Cytomegaloviral pneumonitis,B25,2016,2027
+B25.1,Cytomegaloviral hepatitis,B25,2016,2027
+B25.2,Cytomegaloviral pancreatitis,B25,2016,2027
+B25.8,Other cytomegaloviral diseases,B25,2016,2027
+B25.9,"Cytomegaloviral disease, unspecified",B25,2016,2027
+B26,Mumps,,2016,2027
+B26.0,Mumps orchitis,B26,2016,2027
+B26.1,Mumps meningitis,B26,2016,2027
+B26.2,Mumps encephalitis,B26,2016,2027
+B26.3,Mumps pancreatitis,B26,2016,2027
+B26.8,Mumps with other complications,B26,2016,2027
+B26.81,Mumps hepatitis,B26.8,2016,2027
+B26.82,Mumps myocarditis,B26.8,2016,2027
+B26.83,Mumps nephritis,B26.8,2016,2027
+B26.84,Mumps polyneuropathy,B26.8,2016,2027
+B26.85,Mumps arthritis,B26.8,2016,2027
+B26.89,Other mumps complications,B26.8,2016,2027
+B26.9,Mumps without complication,B26,2016,2027
+B27,Infectious mononucleosis,,2016,2027
+B27.0,Gammaherpesviral mononucleosis,B27,2016,2027
+B27.00,Gammaherpesviral mononucleosis without complication,B27.0,2016,2027
+B27.01,Gammaherpesviral mononucleosis with polyneuropathy,B27.0,2016,2027
+B27.02,Gammaherpesviral mononucleosis with meningitis,B27.0,2016,2027
+B27.09,Gammaherpesviral mononucleosis with other complications,B27.0,2016,2027
+B27.1,Cytomegaloviral mononucleosis,B27,2016,2027
+B27.10,Cytomegaloviral mononucleosis without complications,B27.1,2016,2027
+B27.11,Cytomegaloviral mononucleosis with polyneuropathy,B27.1,2016,2027
+B27.12,Cytomegaloviral mononucleosis with meningitis,B27.1,2016,2027
+B27.19,Cytomegaloviral mononucleosis with other complication,B27.1,2016,2027
+B27.8,Other infectious mononucleosis,B27,2016,2027
+B27.80,Other infectious mononucleosis without complication,B27.8,2016,2027
+B27.81,Other infectious mononucleosis with polyneuropathy,B27.8,2016,2027
+B27.82,Other infectious mononucleosis with meningitis,B27.8,2016,2027
+B27.89,Other infectious mononucleosis with other complication,B27.8,2016,2027
+B27.9,"Infectious mononucleosis, unspecified",B27,2016,2027
+B27.90,"Infectious mononucleosis, unspecified without complication",B27.9,2016,2027
+B27.91,"Infectious mononucleosis, unspecified with polyneuropathy",B27.9,2016,2027
+B27.92,"Infectious mononucleosis, unspecified with meningitis",B27.9,2016,2027
+B27.99,"Infectious mononucleosis, unspecified with other complication",B27.9,2016,2027
+B30,Viral conjunctivitis,,2016,2027
+B30.0,Keratoconjunctivitis due to adenovirus,B30,2016,2027
+B30.1,Conjunctivitis due to adenovirus,B30,2016,2027
+B30.2,Viral pharyngoconjunctivitis,B30,2016,2027
+B30.3,Acute epidemic hemorrhagic conjunctivitis (enteroviral),B30,2016,2027
+B30.8,Other viral conjunctivitis,B30,2016,2027
+B30.9,"Viral conjunctivitis, unspecified",B30,2016,2027
+B33,"Other viral diseases, not elsewhere classified",,2016,2027
+B33.0,Epidemic myalgia,B33,2016,2027
+B33.1,Ross River disease,B33,2016,2027
+B33.2,Viral carditis,B33,2016,2027
+B33.20,"Viral carditis, unspecified",B33.2,2016,2027
+B33.21,Viral endocarditis,B33.2,2016,2027
+B33.22,Viral myocarditis,B33.2,2016,2027
+B33.23,Viral pericarditis,B33.2,2016,2027
+B33.24,Viral cardiomyopathy,B33.2,2016,2027
+B33.3,"Retrovirus infections, not elsewhere classified",B33,2016,2027
+B33.4,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],B33,2016,2027
+B33.8,Other specified viral diseases,B33,2016,2027
+B34,Viral infection of unspecified site,,2016,2027
+B34.0,"Adenovirus infection, unspecified",B34,2016,2027
+B34.1,"Enterovirus infection, unspecified",B34,2016,2027
+B34.2,"Coronavirus infection, unspecified",B34,2016,2027
+B34.3,"Parvovirus infection, unspecified",B34,2016,2027
+B34.4,"Papovavirus infection, unspecified",B34,2016,2027
+B34.8,Other viral infections of unspecified site,B34,2016,2027
+B34.9,"Viral infection, unspecified",B34,2016,2027
+B35,Dermatophytosis,,2016,2027
+B35.0,Tinea barbae and tinea capitis,B35,2016,2027
+B35.1,Tinea unguium,B35,2016,2027
+B35.2,Tinea manuum,B35,2016,2027
+B35.3,Tinea pedis,B35,2016,2027
+B35.4,Tinea corporis,B35,2016,2027
+B35.5,Tinea imbricata,B35,2016,2027
+B35.6,Tinea cruris,B35,2016,2027
+B35.8,Other dermatophytoses,B35,2016,2027
+B35.9,"Dermatophytosis, unspecified",B35,2016,2027
+B36,Other superficial mycoses,,2016,2027
+B36.0,Pityriasis versicolor,B36,2016,2027
+B36.1,Tinea nigra,B36,2016,2027
+B36.2,White piedra,B36,2016,2027
+B36.3,Black piedra,B36,2016,2027
+B36.8,Other specified superficial mycoses,B36,2016,2027
+B36.9,"Superficial mycosis, unspecified",B36,2016,2027
+B37,Candidiasis,,2016,2027
+B37.0,Candidal stomatitis,B37,2016,2027
+B37.1,Pulmonary candidiasis,B37,2016,2027
+B37.2,Candidiasis of skin and nail,B37,2016,2027
+B37.3,Candidiasis of vulva and vagina,B37,2016,2027
+B37.31,Acute candidiasis of vulva and vagina,B37.3,2023,2027
+B37.32,Chronic candidiasis of vulva and vagina,B37.3,2023,2027
+B37.4,Candidiasis of other urogenital sites,B37,2016,2027
+B37.41,Candidal cystitis and urethritis,B37.4,2016,2027
+B37.42,Candidal balanitis,B37.4,2016,2027
+B37.49,Other urogenital candidiasis,B37.4,2016,2027
+B37.5,Candidal meningitis,B37,2016,2027
+B37.6,Candidal endocarditis,B37,2016,2027
+B37.7,Candidal sepsis,B37,2016,2027
+B37.8,Candidiasis of other sites,B37,2016,2027
+B37.81,Candidal esophagitis,B37.8,2016,2027
+B37.82,Candidal enteritis,B37.8,2016,2027
+B37.83,Candidal cheilitis,B37.8,2016,2027
+B37.84,Candidal otitis externa,B37.8,2016,2027
+B37.89,Other sites of candidiasis,B37.8,2016,2027
+B37.9,"Candidiasis, unspecified",B37,2016,2027
+B38,Coccidioidomycosis,,2016,2027
+B38.0,Acute pulmonary coccidioidomycosis,B38,2016,2027
+B38.1,Chronic pulmonary coccidioidomycosis,B38,2016,2027
+B38.2,"Pulmonary coccidioidomycosis, unspecified",B38,2016,2027
+B38.3,Cutaneous coccidioidomycosis,B38,2016,2027
+B38.4,Coccidioidomycosis meningitis,B38,2016,2027
+B38.7,Disseminated coccidioidomycosis,B38,2016,2027
+B38.8,Other forms of coccidioidomycosis,B38,2016,2027
+B38.81,Prostatic coccidioidomycosis,B38.8,2016,2027
+B38.89,Other forms of coccidioidomycosis,B38.8,2016,2027
+B38.9,"Coccidioidomycosis, unspecified",B38,2016,2027
+B39,Histoplasmosis,,2016,2027
+B39.0,Acute pulmonary histoplasmosis capsulati,B39,2016,2027
+B39.1,Chronic pulmonary histoplasmosis capsulati,B39,2016,2027
+B39.2,"Pulmonary histoplasmosis capsulati, unspecified",B39,2016,2027
+B39.3,Disseminated histoplasmosis capsulati,B39,2016,2027
+B39.4,"Histoplasmosis capsulati, unspecified",B39,2016,2027
+B39.5,Histoplasmosis duboisii,B39,2016,2027
+B39.9,"Histoplasmosis, unspecified",B39,2016,2027
+B40,Blastomycosis,,2016,2027
+B40.0,Acute pulmonary blastomycosis,B40,2016,2027
+B40.1,Chronic pulmonary blastomycosis,B40,2016,2027
+B40.2,"Pulmonary blastomycosis, unspecified",B40,2016,2027
+B40.3,Cutaneous blastomycosis,B40,2016,2027
+B40.7,Disseminated blastomycosis,B40,2016,2027
+B40.8,Other forms of blastomycosis,B40,2016,2027
+B40.81,Blastomycotic meningoencephalitis,B40.8,2016,2027
+B40.89,Other forms of blastomycosis,B40.8,2016,2027
+B40.9,"Blastomycosis, unspecified",B40,2016,2027
+B41,Paracoccidioidomycosis,,2016,2027
+B41.0,Pulmonary paracoccidioidomycosis,B41,2016,2027
+B41.7,Disseminated paracoccidioidomycosis,B41,2016,2027
+B41.8,Other forms of paracoccidioidomycosis,B41,2016,2027
+B41.9,"Paracoccidioidomycosis, unspecified",B41,2016,2027
+B42,Sporotrichosis,,2016,2027
+B42.0,Pulmonary sporotrichosis,B42,2016,2027
+B42.1,Lymphocutaneous sporotrichosis,B42,2016,2027
+B42.7,Disseminated sporotrichosis,B42,2016,2027
+B42.8,Other forms of sporotrichosis,B42,2016,2027
+B42.81,Cerebral sporotrichosis,B42.8,2016,2027
+B42.82,Sporotrichosis arthritis,B42.8,2016,2027
+B42.89,Other forms of sporotrichosis,B42.8,2016,2027
+B42.9,"Sporotrichosis, unspecified",B42,2016,2027
+B43,Chromomycosis and pheomycotic abscess,,2016,2027
+B43.0,Cutaneous chromomycosis,B43,2016,2027
+B43.1,Pheomycotic brain abscess,B43,2016,2027
+B43.2,Subcutaneous pheomycotic abscess and cyst,B43,2016,2027
+B43.8,Other forms of chromomycosis,B43,2016,2027
+B43.9,"Chromomycosis, unspecified",B43,2016,2027
+B44,Aspergillosis,,2016,2027
+B44.0,Invasive pulmonary aspergillosis,B44,2016,2027
+B44.1,Other pulmonary aspergillosis,B44,2016,2027
+B44.2,Tonsillar aspergillosis,B44,2016,2027
+B44.7,Disseminated aspergillosis,B44,2016,2027
+B44.8,Other forms of aspergillosis,B44,2016,2027
+B44.81,Allergic bronchopulmonary aspergillosis,B44.8,2016,2027
+B44.89,Other forms of aspergillosis,B44.8,2016,2027
+B44.9,"Aspergillosis, unspecified",B44,2016,2027
+B45,Cryptococcosis,,2016,2027
+B45.0,Pulmonary cryptococcosis,B45,2016,2027
+B45.1,Cerebral cryptococcosis,B45,2016,2027
+B45.2,Cutaneous cryptococcosis,B45,2016,2027
+B45.3,Osseous cryptococcosis,B45,2016,2027
+B45.7,Disseminated cryptococcosis,B45,2016,2027
+B45.8,Other forms of cryptococcosis,B45,2016,2027
+B45.9,"Cryptococcosis, unspecified",B45,2016,2027
+B46,Zygomycosis,,2016,2027
+B46.0,Pulmonary mucormycosis,B46,2016,2027
+B46.1,Rhinocerebral mucormycosis,B46,2016,2027
+B46.2,Gastrointestinal mucormycosis,B46,2016,2027
+B46.3,Cutaneous mucormycosis,B46,2016,2027
+B46.4,Disseminated mucormycosis,B46,2016,2027
+B46.5,"Mucormycosis, unspecified",B46,2016,2027
+B46.8,Other zygomycoses,B46,2016,2027
+B46.9,"Zygomycosis, unspecified",B46,2016,2027
+B47,Mycetoma,,2016,2027
+B47.0,Eumycetoma,B47,2016,2027
+B47.1,Actinomycetoma,B47,2016,2027
+B47.9,"Mycetoma, unspecified",B47,2016,2027
+B48,"Other mycoses, not elsewhere classified",,2016,2027
+B48.0,Lobomycosis,B48,2016,2027
+B48.1,Rhinosporidiosis,B48,2016,2027
+B48.2,Allescheriasis,B48,2016,2027
+B48.3,Geotrichosis,B48,2016,2027
+B48.4,Penicillosis,B48,2016,2027
+B48.8,Other specified mycoses,B48,2016,2027
+B49,Unspecified mycosis,,2016,2027
+B50,Plasmodium falciparum malaria,,2016,2027
+B50.0,Plasmodium falciparum malaria with cerebral complications,B50,2016,2027
+B50.8,Other severe and complicated Plasmodium falciparum malaria,B50,2016,2027
+B50.9,"Plasmodium falciparum malaria, unspecified",B50,2016,2027
+B51,Plasmodium vivax malaria,,2016,2027
+B51.0,Plasmodium vivax malaria with rupture of spleen,B51,2016,2027
+B51.8,Plasmodium vivax malaria with other complications,B51,2016,2027
+B51.9,Plasmodium vivax malaria without complication,B51,2016,2027
+B52,Plasmodium malariae malaria,,2016,2027
+B52.0,Plasmodium malariae malaria with nephropathy,B52,2016,2027
+B52.8,Plasmodium malariae malaria with other complications,B52,2016,2027
+B52.9,Plasmodium malariae malaria without complication,B52,2016,2027
+B53,Other specified malaria,,2016,2027
+B53.0,Plasmodium ovale malaria,B53,2016,2027
+B53.1,Malaria due to simian plasmodia,B53,2016,2027
+B53.8,"Other malaria, not elsewhere classified",B53,2016,2027
+B54,Unspecified malaria,,2016,2027
+B55,Leishmaniasis,,2016,2027
+B55.0,Visceral leishmaniasis,B55,2016,2027
+B55.1,Cutaneous leishmaniasis,B55,2016,2027
+B55.2,Mucocutaneous leishmaniasis,B55,2016,2027
+B55.9,"Leishmaniasis, unspecified",B55,2016,2027
+B56,African trypanosomiasis,,2016,2027
+B56.0,Gambiense trypanosomiasis,B56,2016,2027
+B56.1,Rhodesiense trypanosomiasis,B56,2016,2027
+B56.9,"African trypanosomiasis, unspecified",B56,2016,2027
+B57,Chagas' disease,,2016,2027
+B57.0,Acute Chagas' disease with heart involvement,B57,2016,2027
+B57.1,Acute Chagas' disease without heart involvement,B57,2016,2027
+B57.2,Chagas' disease (chronic) with heart involvement,B57,2016,2027
+B57.3,Chagas' disease (chronic) with digestive system involvement,B57,2016,2027
+B57.30,"Chagas' disease with digestive system involvement, unspecified",B57.3,2016,2027
+B57.31,Megaesophagus in Chagas' disease,B57.3,2016,2027
+B57.32,Megacolon in Chagas' disease,B57.3,2016,2027
+B57.39,Other digestive system involvement in Chagas' disease,B57.3,2016,2027
+B57.4,Chagas' disease (chronic) with nervous system involvement,B57,2016,2027
+B57.40,"Chagas' disease with nervous system involvement, unspecified",B57.4,2016,2027
+B57.41,Meningitis in Chagas' disease,B57.4,2016,2027
+B57.42,Meningoencephalitis in Chagas' disease,B57.4,2016,2027
+B57.49,Other nervous system involvement in Chagas' disease,B57.4,2016,2027
+B57.5,Chagas' disease (chronic) with other organ involvement,B57,2016,2027
+B58,Toxoplasmosis,,2016,2027
+B58.0,Toxoplasma oculopathy,B58,2016,2027
+B58.00,"Toxoplasma oculopathy, unspecified",B58.0,2016,2027
+B58.01,Toxoplasma chorioretinitis,B58.0,2016,2027
+B58.09,Other toxoplasma oculopathy,B58.0,2016,2027
+B58.1,Toxoplasma hepatitis,B58,2016,2027
+B58.2,Toxoplasma meningoencephalitis,B58,2016,2027
+B58.3,Pulmonary toxoplasmosis,B58,2016,2027
+B58.8,Toxoplasmosis with other organ involvement,B58,2016,2027
+B58.81,Toxoplasma myocarditis,B58.8,2016,2027
+B58.82,Toxoplasma myositis,B58.8,2016,2027
+B58.83,Toxoplasma tubulo-interstitial nephropathy,B58.8,2016,2027
+B58.89,Toxoplasmosis with other organ involvement,B58.8,2016,2027
+B58.9,"Toxoplasmosis, unspecified",B58,2016,2027
+B59,Pneumocystosis,,2016,2027
+B60,"Other protozoal diseases, not elsewhere classified",,2016,2027
+B60.0,Babesiosis,B60,2016,2027
+B60.00,"Babesiosis, unspecified",B60.0,2021,2027
+B60.01,Babesiosis due to Babesia microti,B60.0,2021,2027
+B60.02,Babesiosis due to Babesia duncani,B60.0,2021,2027
+B60.03,Babesiosis due to Babesia divergens,B60.0,2021,2027
+B60.09,Other babesiosis,B60.0,2021,2027
+B60.1,Acanthamebiasis,B60,2016,2027
+B60.10,"Acanthamebiasis, unspecified",B60.1,2016,2027
+B60.11,Meningoencephalitis due to Acanthamoeba (culbertsoni),B60.1,2016,2027
+B60.12,Conjunctivitis due to Acanthamoeba,B60.1,2016,2027
+B60.13,Keratoconjunctivitis due to Acanthamoeba,B60.1,2016,2027
+B60.19,Other acanthamebic disease,B60.1,2016,2027
+B60.2,Naegleriasis,B60,2016,2027
+B60.8,Other specified protozoal diseases,B60,2016,2027
+B64,Unspecified protozoal disease,,2016,2027
+B65,Schistosomiasis [bilharziasis],,2016,2027
+B65.0,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],B65,2016,2027
+B65.1,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis],B65,2016,2027
+B65.2,Schistosomiasis due to Schistosoma japonicum,B65,2016,2027
+B65.3,Cercarial dermatitis,B65,2016,2027
+B65.8,Other schistosomiasis,B65,2016,2027
+B65.9,"Schistosomiasis, unspecified",B65,2016,2027
+B66,Other fluke infections,,2016,2027
+B66.0,Opisthorchiasis,B66,2016,2027
+B66.1,Clonorchiasis,B66,2016,2027
+B66.2,Dicroceliasis,B66,2016,2027
+B66.3,Fascioliasis,B66,2016,2027
+B66.4,Paragonimiasis,B66,2016,2027
+B66.5,Fasciolopsiasis,B66,2016,2027
+B66.8,Other specified fluke infections,B66,2016,2027
+B66.9,"Fluke infection, unspecified",B66,2016,2027
+B67,Echinococcosis,,2016,2027
+B67.0,Echinococcus granulosus infection of liver,B67,2016,2027
+B67.1,Echinococcus granulosus infection of lung,B67,2016,2027
+B67.2,Echinococcus granulosus infection of bone,B67,2016,2027
+B67.3,"Echinococcus granulosus infection, other and multiple sites",B67,2016,2027
+B67.31,"Echinococcus granulosus infection, thyroid gland",B67.3,2016,2027
+B67.32,"Echinococcus granulosus infection, multiple sites",B67.3,2016,2027
+B67.39,"Echinococcus granulosus infection, other sites",B67.3,2016,2027
+B67.4,"Echinococcus granulosus infection, unspecified",B67,2016,2027
+B67.5,Echinococcus multilocularis infection of liver,B67,2016,2027
+B67.6,"Echinococcus multilocularis infection, other and multiple sites",B67,2016,2027
+B67.61,"Echinococcus multilocularis infection, multiple sites",B67.6,2016,2027
+B67.69,"Echinococcus multilocularis infection, other sites",B67.6,2016,2027
+B67.7,"Echinococcus multilocularis infection, unspecified",B67,2016,2027
+B67.8,"Echinococcosis, unspecified, of liver",B67,2016,2027
+B67.9,"Echinococcosis, other and unspecified",B67,2016,2027
+B67.90,"Echinococcosis, unspecified",B67.9,2016,2027
+B67.99,Other echinococcosis,B67.9,2016,2027
+B68,Taeniasis,,2016,2027
+B68.0,Taenia solium taeniasis,B68,2016,2027
+B68.1,Taenia saginata taeniasis,B68,2016,2027
+B68.9,"Taeniasis, unspecified",B68,2016,2027
+B69,Cysticercosis,,2016,2027
+B69.0,Cysticercosis of central nervous system,B69,2016,2027
+B69.1,Cysticercosis of eye,B69,2016,2027
+B69.8,Cysticercosis of other sites,B69,2016,2027
+B69.81,Myositis in cysticercosis,B69.8,2016,2027
+B69.89,Cysticercosis of other sites,B69.8,2016,2027
+B69.9,"Cysticercosis, unspecified",B69,2016,2027
+B70,Diphyllobothriasis and sparganosis,,2016,2027
+B70.0,Diphyllobothriasis,B70,2016,2027
+B70.1,Sparganosis,B70,2016,2027
+B71,Other cestode infections,,2016,2027
+B71.0,Hymenolepiasis,B71,2016,2027
+B71.1,Dipylidiasis,B71,2016,2027
+B71.8,Other specified cestode infections,B71,2016,2027
+B71.9,"Cestode infection, unspecified",B71,2016,2027
+B72,Dracunculiasis,,2016,2027
+B73,Onchocerciasis,,2016,2027
+B73.0,Onchocerciasis with eye disease,B73,2016,2027
+B73.00,"Onchocerciasis with eye involvement, unspecified",B73.0,2016,2027
+B73.01,Onchocerciasis with endophthalmitis,B73.0,2016,2027
+B73.02,Onchocerciasis with glaucoma,B73.0,2016,2027
+B73.09,Onchocerciasis with other eye involvement,B73.0,2016,2027
+B73.1,Onchocerciasis without eye disease,B73,2016,2027
+B74,Filariasis,,2016,2027
+B74.0,Filariasis due to Wuchereria bancrofti,B74,2016,2027
+B74.1,Filariasis due to Brugia malayi,B74,2016,2027
+B74.2,Filariasis due to Brugia timori,B74,2016,2027
+B74.3,Loiasis,B74,2016,2027
+B74.4,Mansonelliasis,B74,2016,2027
+B74.8,Other filariases,B74,2016,2027
+B74.9,"Filariasis, unspecified",B74,2016,2027
+B75,Trichinellosis,,2016,2027
+B76,Hookworm diseases,,2016,2027
+B76.0,Ancylostomiasis,B76,2016,2027
+B76.1,Necatoriasis,B76,2016,2027
+B76.8,Other hookworm diseases,B76,2016,2027
+B76.9,"Hookworm disease, unspecified",B76,2016,2027
+B77,Ascariasis,,2016,2027
+B77.0,Ascariasis with intestinal complications,B77,2016,2027
+B77.8,Ascariasis with other complications,B77,2016,2027
+B77.81,Ascariasis pneumonia,B77.8,2016,2027
+B77.89,Ascariasis with other complications,B77.8,2016,2027
+B77.9,"Ascariasis, unspecified",B77,2016,2027
+B78,Strongyloidiasis,,2016,2027
+B78.0,Intestinal strongyloidiasis,B78,2016,2027
+B78.1,Cutaneous strongyloidiasis,B78,2016,2027
+B78.7,Disseminated strongyloidiasis,B78,2016,2027
+B78.9,"Strongyloidiasis, unspecified",B78,2016,2027
+B79,Trichuriasis,,2016,2027
+B80,Enterobiasis,,2016,2027
+B81,"Other intestinal helminthiases, not elsewhere classified",,2016,2027
+B81.0,Anisakiasis,B81,2016,2027
+B81.1,Intestinal capillariasis,B81,2016,2027
+B81.2,Trichostrongyliasis,B81,2016,2027
+B81.3,Intestinal angiostrongyliasis,B81,2016,2027
+B81.4,Mixed intestinal helminthiases,B81,2016,2027
+B81.8,Other specified intestinal helminthiases,B81,2016,2027
+B82,Unspecified intestinal parasitism,,2016,2027
+B82.0,"Intestinal helminthiasis, unspecified",B82,2016,2027
+B82.9,"Intestinal parasitism, unspecified",B82,2016,2027
+B83,Other helminthiases,,2016,2027
+B83.0,Visceral larva migrans,B83,2016,2027
+B83.1,Gnathostomiasis,B83,2016,2027
+B83.2,Angiostrongyliasis due to Parastrongylus cantonensis,B83,2016,2027
+B83.3,Syngamiasis,B83,2016,2027
+B83.4,Internal hirudiniasis,B83,2016,2027
+B83.8,Other specified helminthiases,B83,2016,2027
+B83.9,"Helminthiasis, unspecified",B83,2016,2027
+B85,Pediculosis and phthiriasis,,2016,2027
+B85.0,Pediculosis due to Pediculus humanus capitis,B85,2016,2027
+B85.1,Pediculosis due to Pediculus humanus corporis,B85,2016,2027
+B85.2,"Pediculosis, unspecified",B85,2016,2027
+B85.3,Phthiriasis,B85,2016,2027
+B85.4,Mixed pediculosis and phthiriasis,B85,2016,2027
+B86,Scabies,,2016,2027
+B87,Myiasis,,2016,2027
+B87.0,Cutaneous myiasis,B87,2016,2027
+B87.1,Wound myiasis,B87,2016,2027
+B87.2,Ocular myiasis,B87,2016,2027
+B87.3,Nasopharyngeal myiasis,B87,2016,2027
+B87.4,Aural myiasis,B87,2016,2027
+B87.8,Myiasis of other sites,B87,2016,2027
+B87.81,Genitourinary myiasis,B87.8,2016,2027
+B87.82,Intestinal myiasis,B87.8,2016,2027
+B87.89,Myiasis of other sites,B87.8,2016,2027
+B87.9,"Myiasis, unspecified",B87,2016,2027
+B88,Other infestations,,2016,2027
+B88.0,Other acariasis,B88,2016,2027
+B88.01,Infestation by Demodex mites,B88.0,2026,2027
+B88.09,Other acariasis,B88.0,2026,2027
+B88.1,Tungiasis [sandflea infestation],B88,2016,2027
+B88.2,Other arthropod infestations,B88,2016,2027
+B88.3,External hirudiniasis,B88,2016,2027
+B88.8,Other specified infestations,B88,2016,2027
+B88.9,"Infestation, unspecified",B88,2016,2027
+B89,Unspecified parasitic disease,,2016,2027
+B90,Sequelae of tuberculosis,,2016,2027
+B90.0,Sequelae of central nervous system tuberculosis,B90,2016,2027
+B90.1,Sequelae of genitourinary tuberculosis,B90,2016,2027
+B90.2,Sequelae of tuberculosis of bones and joints,B90,2016,2027
+B90.8,Sequelae of tuberculosis of other organs,B90,2016,2027
+B90.9,Sequelae of respiratory and unspecified tuberculosis,B90,2016,2027
+B91,Sequelae of poliomyelitis,,2016,2027
+B92,Sequelae of leprosy,,2016,2027
+B94,Sequelae of other and unspecified infectious and parasitic diseases,,2016,2027
+B94.0,Sequelae of trachoma,B94,2016,2027
+B94.1,Sequelae of viral encephalitis,B94,2016,2027
+B94.2,Sequelae of viral hepatitis,B94,2016,2027
+B94.8,Sequelae of other specified infectious and parasitic diseases,B94,2016,2027
+B94.9,Sequelae of unspecified infectious and parasitic disease,B94,2016,2027
+B95,"Streptococcus, Staphylococcus, and Enterococcus as the cause of diseases classified elsewhere",,2016,2027
+B95.0,"Streptococcus, group A, as the cause of diseases classified elsewhere",B95,2016,2027
+B95.1,"Streptococcus, group B, as the cause of diseases classified elsewhere",B95,2016,2027
+B95.2,Enterococcus as the cause of diseases classified elsewhere,B95,2016,2027
+B95.3,Streptococcus pneumoniae as the cause of diseases classified elsewhere,B95,2016,2027
+B95.4,Other streptococcus as the cause of diseases classified elsewhere,B95,2016,2027
+B95.5,Unspecified streptococcus as the cause of diseases classified elsewhere,B95,2016,2027
+B95.6,Staphylococcus aureus as the cause of diseases classified elsewhere,B95,2016,2027
+B95.61,Methicillin susceptible Staphylococcus aureus infection as the cause of diseases classified elsewhere,B95.6,2016,2027
+B95.62,Methicillin resistant Staphylococcus aureus infection as the cause of diseases classified elsewhere,B95.6,2016,2027
+B95.7,Other staphylococcus as the cause of diseases classified elsewhere,B95,2016,2027
+B95.8,Unspecified staphylococcus as the cause of diseases classified elsewhere,B95,2016,2027
+B96,Other bacterial agents as the cause of diseases classified elsewhere,,2016,2027
+B96.0,Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified elsewhere,B96,2016,2027
+B96.1,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,B96,2016,2027
+B96.2,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,B96,2016,2027
+B96.20,Unspecified Escherichia coli [E. coli] as the cause of diseases classified elsewhere,B96.2,2016,2027
+B96.21,Shiga toxin-producing Escherichia coli [E. coli] [STEC] O157 as the cause of diseases classified elsewhere,B96.2,2016,2027
+B96.22,Other specified Shiga toxin-producing Escherichia coli [E. coli] [STEC] as the cause of diseases classified elsewhere,B96.2,2016,2027
+B96.23,Unspecified Shiga toxin-producing Escherichia coli [E. coli] [STEC] as the cause of diseases classified elsewhere,B96.2,2016,2027
+B96.29,Other Escherichia coli [E. coli] as the cause of diseases classified elsewhere,B96.2,2016,2027
+B96.3,Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere,B96,2016,2027
+B96.4,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,B96,2016,2027
+B96.5,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,B96,2016,2027
+B96.6,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere,B96,2016,2027
+B96.7,Clostridium perfringens [C. perfringens] as the cause of diseases classified elsewhere,B96,2016,2027
+B96.8,Other specified bacterial agents as the cause of diseases classified elsewhere,B96,2016,2027
+B96.81,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,B96.8,2016,2027
+B96.82,Vibrio vulnificus as the cause of diseases classified elsewhere,B96.8,2016,2027
+B96.83,Acinetobacter baumannii as the cause of diseases classified elsewhere,B96.8,2024,2027
+B96.89,Other specified bacterial agents as the cause of diseases classified elsewhere,B96.8,2016,2027
+B97,Viral agents as the cause of diseases classified elsewhere,,2016,2027
+B97.0,Adenovirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.1,Enterovirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.10,Unspecified enterovirus as the cause of diseases classified elsewhere,B97.1,2016,2027
+B97.11,Coxsackievirus as the cause of diseases classified elsewhere,B97.1,2016,2027
+B97.12,Echovirus as the cause of diseases classified elsewhere,B97.1,2016,2027
+B97.19,Other enterovirus as the cause of diseases classified elsewhere,B97.1,2016,2027
+B97.2,Coronavirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.21,SARS-associated coronavirus as the cause of diseases classified elsewhere,B97.2,2016,2027
+B97.29,Other coronavirus as the cause of diseases classified elsewhere,B97.2,2016,2027
+B97.3,Retrovirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.30,Unspecified retrovirus as the cause of diseases classified elsewhere,B97.3,2016,2027
+B97.31,Lentivirus as the cause of diseases classified elsewhere,B97.3,2016,2027
+B97.32,Oncovirus as the cause of diseases classified elsewhere,B97.3,2016,2027
+B97.33,"Human T-cell lymphotrophic virus, type I [HTLV-I] as the cause of diseases classified elsewhere",B97.3,2016,2027
+B97.34,"Human T-cell lymphotrophic virus, type II [HTLV-II] as the cause of diseases classified elsewhere",B97.3,2016,2027
+B97.35,"Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere",B97.3,2016,2027
+B97.39,Other retrovirus as the cause of diseases classified elsewhere,B97.3,2016,2027
+B97.4,Respiratory syncytial virus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.5,Reovirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.6,Parvovirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.7,Papillomavirus as the cause of diseases classified elsewhere,B97,2016,2027
+B97.8,Other viral agents as the cause of diseases classified elsewhere,B97,2016,2027
+B97.81,Human metapneumovirus as the cause of diseases classified elsewhere,B97.8,2016,2027
+B97.89,Other viral agents as the cause of diseases classified elsewhere,B97.8,2016,2027
+B99,Other and unspecified infectious diseases,,2016,2027
+B99.8,Other infectious disease,B99,2016,2027
+B99.9,Unspecified infectious disease,B99,2016,2027

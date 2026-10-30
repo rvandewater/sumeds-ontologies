@@ -1,0 +1,472 @@
+code,description,parent,first_year,last_year
+10,Pregnancy,1,2016,2027
+102,Change,10,2016,2027
+1020,Products of Conception,102,2016,2027
+10207,Via Natural or Artificial Opening,1020,2016,2027
+102073,Monitoring Electrode,10207,2016,2027
+102073Z,"Change Monitoring Electrode in Products of Conception, Via Natural or Artificial Opening",102073,2016,2027
+10207Y,Other Device,10207,2016,2027
+10207YZ,"Change Other Device in Products of Conception, Via Natural or Artificial Opening",10207Y,2016,2027
+109,Drainage,10,2016,2027
+1090,Products of Conception,109,2016,2027
+10900,Open,1090,2016,2027
+10900Z,No Device,10900,2016,2027
+10900Z9,"Drainage of Fetal Blood from Products of Conception, Open Approach",10900Z,2016,2027
+10900ZA,"Drainage of Fetal Cerebrospinal Fluid from Products of Conception, Open Approach",10900Z,2016,2027
+10900ZB,"Drainage of Other Fetal Fluid from Products of Conception, Open Approach",10900Z,2016,2027
+10900ZC,"Drainage of Amniotic Fluid, Therapeutic from Products of Conception, Open Approach",10900Z,2016,2027
+10900ZD,"Drainage of Other Fluid from Products of Conception, Open Approach",10900Z,2016,2027
+10900ZU,"Drainage of Amniotic Fluid, Diagnostic from Products of Conception, Open Approach",10900Z,2016,2027
+10903,Percutaneous,1090,2016,2027
+10903Z,No Device,10903,2016,2027
+10903Z9,"Drainage of Fetal Blood from Products of Conception, Percutaneous Approach",10903Z,2016,2027
+10903ZA,"Drainage of Fetal Cerebrospinal Fluid from Products of Conception, Percutaneous Approach",10903Z,2016,2027
+10903ZB,"Drainage of Other Fetal Fluid from Products of Conception, Percutaneous Approach",10903Z,2016,2027
+10903ZC,"Drainage of Amniotic Fluid, Therapeutic from Products of Conception, Percutaneous Approach",10903Z,2016,2027
+10903ZD,"Drainage of Other Fluid from Products of Conception, Percutaneous Approach",10903Z,2016,2027
+10903ZU,"Drainage of Amniotic Fluid, Diagnostic from Products of Conception, Percutaneous Approach",10903Z,2016,2027
+10904,Percutaneous Endoscopic,1090,2016,2027
+10904Z,No Device,10904,2016,2027
+10904Z9,"Drainage of Fetal Blood from Products of Conception, Percutaneous Endoscopic Approach",10904Z,2016,2027
+10904ZA,"Drainage of Fetal Cerebrospinal Fluid from Products of Conception, Percutaneous Endoscopic Approach",10904Z,2016,2027
+10904ZB,"Drainage of Other Fetal Fluid from Products of Conception, Percutaneous Endoscopic Approach",10904Z,2016,2027
+10904ZC,"Drainage of Amniotic Fluid, Therapeutic from Products of Conception, Percutaneous Endoscopic Approach",10904Z,2016,2027
+10904ZD,"Drainage of Other Fluid from Products of Conception, Percutaneous Endoscopic Approach",10904Z,2016,2027
+10904ZU,"Drainage of Amniotic Fluid, Diagnostic from Products of Conception, Percutaneous Endoscopic Approach",10904Z,2016,2027
+10907,Via Natural or Artificial Opening,1090,2016,2027
+10907Z,No Device,10907,2016,2027
+10907Z9,"Drainage of Fetal Blood from Products of Conception, Via Natural or Artificial Opening",10907Z,2016,2027
+10907ZA,"Drainage of Fetal Cerebrospinal Fluid from Products of Conception, Via Natural or Artificial Opening",10907Z,2016,2027
+10907ZB,"Drainage of Other Fetal Fluid from Products of Conception, Via Natural or Artificial Opening",10907Z,2016,2027
+10907ZC,"Drainage of Amniotic Fluid, Therapeutic from Products of Conception, Via Natural or Artificial Opening",10907Z,2016,2027
+10907ZD,"Drainage of Other Fluid from Products of Conception, Via Natural or Artificial Opening",10907Z,2016,2027
+10907ZU,"Drainage of Amniotic Fluid, Diagnostic from Products of Conception, Via Natural or Artificial Opening",10907Z,2016,2027
+10908,Via Natural or Artificial Opening Endoscopic,1090,2016,2027
+10908Z,No Device,10908,2016,2027
+10908Z9,"Drainage of Fetal Blood from Products of Conception, Via Natural or Artificial Opening Endoscopic",10908Z,2016,2027
+10908ZA,"Drainage of Fetal Cerebrospinal Fluid from Products of Conception, Via Natural or Artificial Opening Endoscopic",10908Z,2016,2027
+10908ZB,"Drainage of Other Fetal Fluid from Products of Conception, Via Natural or Artificial Opening Endoscopic",10908Z,2016,2027
+10908ZC,"Drainage of Amniotic Fluid, Therapeutic from Products of Conception, Via Natural or Artificial Opening Endoscopic",10908Z,2016,2027
+10908ZD,"Drainage of Other Fluid from Products of Conception, Via Natural or Artificial Opening Endoscopic",10908Z,2016,2027
+10908ZU,"Drainage of Amniotic Fluid, Diagnostic from Products of Conception, Via Natural or Artificial Opening Endoscopic",10908Z,2016,2027
+10A,Abortion,10,2016,2027
+10A0,Products of Conception,10A,2016,2027
+10A00,Open,10A0,2016,2027
+10A00Z,No Device,10A00,2016,2027
+10A00ZZ,"Abortion of Products of Conception, Open Approach",10A00Z,2016,2027
+10A03,Percutaneous,10A0,2016,2027
+10A03Z,No Device,10A03,2016,2027
+10A03ZZ,"Abortion of Products of Conception, Percutaneous Approach",10A03Z,2016,2027
+10A04,Percutaneous Endoscopic,10A0,2016,2027
+10A04Z,No Device,10A04,2016,2027
+10A04ZZ,"Abortion of Products of Conception, Percutaneous Endoscopic Approach",10A04Z,2016,2027
+10A07,Via Natural or Artificial Opening,10A0,2016,2027
+10A07Z,No Device,10A07,2016,2027
+10A07Z6,"Abortion of Products of Conception, Vacuum, Via Natural or Artificial Opening",10A07Z,2016,2027
+10A07ZW,"Abortion of Products of Conception, Laminaria, Via Natural or Artificial Opening",10A07Z,2016,2027
+10A07ZX,"Abortion of Products of Conception, Abortifacient, Via Natural or Artificial Opening",10A07Z,2016,2027
+10A07ZZ,"Abortion of Products of Conception, Via Natural or Artificial Opening",10A07Z,2016,2027
+10A08,Via Natural or Artificial Opening Endoscopic,10A0,2016,2027
+10A08Z,No Device,10A08,2016,2027
+10A08ZZ,"Abortion of Products of Conception, Via Natural or Artificial Opening Endoscopic",10A08Z,2016,2027
+10D,Extraction,10,2016,2027
+10D0,Products of Conception,10D,2016,2027
+10D00,Open,10D0,2016,2027
+10D00Z,No Device,10D00,2016,2027
+10D00Z0,"Extraction of Products of Conception, High, Open Approach",10D00Z,2016,2027
+10D00Z1,"Extraction of Products of Conception, Low, Open Approach",10D00Z,2016,2027
+10D00Z2,"Extraction of Products of Conception, Extraperitoneal, Open Approach",10D00Z,2016,2027
+10D07,Via Natural or Artificial Opening,10D0,2016,2027
+10D07Z,No Device,10D07,2016,2027
+10D07Z3,"Extraction of Products of Conception, Low Forceps, Via Natural or Artificial Opening",10D07Z,2016,2027
+10D07Z4,"Extraction of Products of Conception, Mid Forceps, Via Natural or Artificial Opening",10D07Z,2016,2027
+10D07Z5,"Extraction of Products of Conception, High Forceps, Via Natural or Artificial Opening",10D07Z,2016,2027
+10D07Z6,"Extraction of Products of Conception, Vacuum, Via Natural or Artificial Opening",10D07Z,2016,2027
+10D07Z7,"Extraction of Products of Conception, Internal Version, Via Natural or Artificial Opening",10D07Z,2016,2027
+10D07Z8,"Extraction of Products of Conception, Other, Via Natural or Artificial Opening",10D07Z,2016,2027
+10D1,"Products of Conception, Retained",10D,2016,2027
+10D10,Open,10D1,2025,2027
+10D10Z,No Device,10D10,2025,2027
+10D10ZZ,"Extraction of Products of Conception, Retained, Open Approach",10D10Z,2025,2027
+10D17,Via Natural or Artificial Opening,10D1,2016,2027
+10D17Z,No Device,10D17,2016,2027
+10D17Z9,"Manual Extraction of Products of Conception, Retained, Via Natural or Artificial Opening",10D17Z,2018,2027
+10D17ZZ,"Extraction of Products of Conception, Retained, Via Natural or Artificial Opening",10D17Z,2016,2027
+10D18,Via Natural or Artificial Opening Endoscopic,10D1,2016,2027
+10D18Z,No Device,10D18,2016,2027
+10D18Z9,"Manual Extraction of Products of Conception, Retained, Via Natural or Artificial Opening Endoscopic",10D18Z,2018,2027
+10D18ZZ,"Extraction of Products of Conception, Retained, Via Natural or Artificial Opening Endoscopic",10D18Z,2016,2027
+10D2,"Products of Conception, Ectopic",10D,2016,2027
+10D20,Open,10D2,2021,2027
+10D20Z,No Device,10D20,2021,2027
+10D20ZZ,"Extraction of Products of Conception, Ectopic, Open Approach",10D20Z,2021,2027
+10D24,Percutaneous Endoscopic,10D2,2021,2027
+10D24Z,No Device,10D24,2021,2027
+10D24ZZ,"Extraction of Products of Conception, Ectopic, Percutaneous Endoscopic Approach",10D24Z,2021,2027
+10D27,Via Natural or Artificial Opening,10D2,2016,2027
+10D27Z,No Device,10D27,2016,2027
+10D27ZZ,"Extraction of Products of Conception, Ectopic, Via Natural or Artificial Opening",10D27Z,2016,2027
+10D28,Via Natural or Artificial Opening Endoscopic,10D2,2016,2027
+10D28Z,No Device,10D28,2016,2027
+10D28ZZ,"Extraction of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic",10D28Z,2016,2027
+10E,Delivery,10,2016,2027
+10E0,Products of Conception,10E,2016,2027
+10E0X,External,10E0,2016,2027
+10E0XZ,No Device,10E0X,2016,2027
+10E0XZZ,"Delivery of Products of Conception, External Approach",10E0XZ,2016,2027
+10H,Insertion,10,2016,2027
+10H0,Products of Conception,10H,2016,2027
+10H00,Open,10H0,2016,2027
+10H003,Monitoring Electrode,10H00,2016,2027
+10H003Z,"Insertion of Monitoring Electrode into Products of Conception, Open Approach",10H003,2016,2027
+10H00Y,Other Device,10H00,2016,2027
+10H00YZ,"Insertion of Other Device into Products of Conception, Open Approach",10H00Y,2016,2027
+10H07,Via Natural or Artificial Opening,10H0,2016,2027
+10H073,Monitoring Electrode,10H07,2016,2027
+10H073Z,"Insertion of Monitoring Electrode into Products of Conception, Via Natural or Artificial Opening",10H073,2016,2027
+10H07Y,Other Device,10H07,2016,2027
+10H07YZ,"Insertion of Other Device into Products of Conception, Via Natural or Artificial Opening",10H07Y,2016,2027
+10J,Inspection,10,2016,2027
+10J0,Products of Conception,10J,2016,2027
+10J00,Open,10J0,2016,2027
+10J00Z,No Device,10J00,2016,2027
+10J00ZZ,"Inspection of Products of Conception, Open Approach",10J00Z,2016,2027
+10J03,Percutaneous,10J0,2016,2027
+10J03Z,No Device,10J03,2016,2027
+10J03ZZ,"Inspection of Products of Conception, Percutaneous Approach",10J03Z,2016,2027
+10J04,Percutaneous Endoscopic,10J0,2016,2027
+10J04Z,No Device,10J04,2016,2027
+10J04ZZ,"Inspection of Products of Conception, Percutaneous Endoscopic Approach",10J04Z,2016,2027
+10J07,Via Natural or Artificial Opening,10J0,2016,2027
+10J07Z,No Device,10J07,2016,2027
+10J07ZZ,"Inspection of Products of Conception, Via Natural or Artificial Opening",10J07Z,2016,2027
+10J08,Via Natural or Artificial Opening Endoscopic,10J0,2016,2027
+10J08Z,No Device,10J08,2016,2027
+10J08ZZ,"Inspection of Products of Conception, Via Natural or Artificial Opening Endoscopic",10J08Z,2016,2027
+10J0X,External,10J0,2016,2027
+10J0XZ,No Device,10J0X,2016,2027
+10J0XZZ,"Inspection of Products of Conception, External Approach",10J0XZ,2016,2027
+10J1,"Products of Conception, Retained",10J,2016,2027
+10J10,Open,10J1,2016,2027
+10J10Z,No Device,10J10,2016,2027
+10J10ZZ,"Inspection of Products of Conception, Retained, Open Approach",10J10Z,2016,2027
+10J13,Percutaneous,10J1,2016,2027
+10J13Z,No Device,10J13,2016,2027
+10J13ZZ,"Inspection of Products of Conception, Retained, Percutaneous Approach",10J13Z,2016,2027
+10J14,Percutaneous Endoscopic,10J1,2016,2027
+10J14Z,No Device,10J14,2016,2027
+10J14ZZ,"Inspection of Products of Conception, Retained, Percutaneous Endoscopic Approach",10J14Z,2016,2027
+10J17,Via Natural or Artificial Opening,10J1,2016,2027
+10J17Z,No Device,10J17,2016,2027
+10J17ZZ,"Inspection of Products of Conception, Retained, Via Natural or Artificial Opening",10J17Z,2016,2027
+10J18,Via Natural or Artificial Opening Endoscopic,10J1,2016,2027
+10J18Z,No Device,10J18,2016,2027
+10J18ZZ,"Inspection of Products of Conception, Retained, Via Natural or Artificial Opening Endoscopic",10J18Z,2016,2027
+10J1X,External,10J1,2016,2027
+10J1XZ,No Device,10J1X,2016,2027
+10J1XZZ,"Inspection of Products of Conception, Retained, External Approach",10J1XZ,2016,2027
+10J2,"Products of Conception, Ectopic",10J,2016,2027
+10J20,Open,10J2,2016,2027
+10J20Z,No Device,10J20,2016,2027
+10J20ZZ,"Inspection of Products of Conception, Ectopic, Open Approach",10J20Z,2016,2027
+10J23,Percutaneous,10J2,2016,2027
+10J23Z,No Device,10J23,2016,2027
+10J23ZZ,"Inspection of Products of Conception, Ectopic, Percutaneous Approach",10J23Z,2016,2027
+10J24,Percutaneous Endoscopic,10J2,2016,2027
+10J24Z,No Device,10J24,2016,2027
+10J24ZZ,"Inspection of Products of Conception, Ectopic, Percutaneous Endoscopic Approach",10J24Z,2016,2027
+10J27,Via Natural or Artificial Opening,10J2,2016,2027
+10J27Z,No Device,10J27,2016,2027
+10J27ZZ,"Inspection of Products of Conception, Ectopic, Via Natural or Artificial Opening",10J27Z,2016,2027
+10J28,Via Natural or Artificial Opening Endoscopic,10J2,2016,2027
+10J28Z,No Device,10J28,2016,2027
+10J28ZZ,"Inspection of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic",10J28Z,2016,2027
+10J2X,External,10J2,2016,2027
+10J2XZ,No Device,10J2X,2016,2027
+10J2XZZ,"Inspection of Products of Conception, Ectopic, External Approach",10J2XZ,2016,2027
+10P,Removal,10,2016,2027
+10P0,Products of Conception,10P,2016,2027
+10P00,Open,10P0,2016,2027
+10P003,Monitoring Electrode,10P00,2016,2027
+10P003Z,"Removal of Monitoring Electrode from Products of Conception, Open Approach",10P003,2016,2027
+10P00Y,Other Device,10P00,2016,2027
+10P00YZ,"Removal of Other Device from Products of Conception, Open Approach",10P00Y,2016,2027
+10P07,Via Natural or Artificial Opening,10P0,2016,2027
+10P073,Monitoring Electrode,10P07,2016,2027
+10P073Z,"Removal of Monitoring Electrode from Products of Conception, Via Natural or Artificial Opening",10P073,2016,2027
+10P07Y,Other Device,10P07,2016,2027
+10P07YZ,"Removal of Other Device from Products of Conception, Via Natural or Artificial Opening",10P07Y,2016,2027
+10Q,Repair,10,2016,2027
+10Q0,Products of Conception,10Q,2016,2027
+10Q00,Open,10Q0,2016,2027
+10Q00Y,Other Device,10Q00,2016,2027
+10Q00YE,"Repair Nervous System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YF,"Repair Cardiovascular System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YG,"Repair Lymphatics and Hemic in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YH,"Repair Eye in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YJ,"Repair Ear, Nose and Sinus in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YK,"Repair Respiratory System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YL,"Repair Mouth and Throat in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YM,"Repair Gastrointestinal System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YN,"Repair Hepatobiliary and Pancreas in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YP,"Repair Endocrine System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YQ,"Repair Skin in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YR,"Repair Musculoskeletal System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YS,"Repair Urinary System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YT,"Repair Female Reproductive System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YV,"Repair Male Reproductive System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00YY,"Repair Other Body System in Products of Conception with Other Device, Open Approach",10Q00Y,2016,2027
+10Q00Z,No Device,10Q00,2016,2027
+10Q00ZE,"Repair Nervous System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZF,"Repair Cardiovascular System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZG,"Repair Lymphatics and Hemic in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZH,"Repair Eye in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZJ,"Repair Ear, Nose and Sinus in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZK,"Repair Respiratory System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZL,"Repair Mouth and Throat in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZM,"Repair Gastrointestinal System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZN,"Repair Hepatobiliary and Pancreas in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZP,"Repair Endocrine System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZQ,"Repair Skin in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZR,"Repair Musculoskeletal System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZS,"Repair Urinary System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZT,"Repair Female Reproductive System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZV,"Repair Male Reproductive System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q00ZY,"Repair Other Body System in Products of Conception, Open Approach",10Q00Z,2016,2027
+10Q03,Percutaneous,10Q0,2016,2027
+10Q03Y,Other Device,10Q03,2016,2027
+10Q03YE,"Repair Nervous System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YF,"Repair Cardiovascular System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YG,"Repair Lymphatics and Hemic in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YH,"Repair Eye in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YJ,"Repair Ear, Nose and Sinus in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YK,"Repair Respiratory System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YL,"Repair Mouth and Throat in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YM,"Repair Gastrointestinal System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YN,"Repair Hepatobiliary and Pancreas in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YP,"Repair Endocrine System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YQ,"Repair Skin in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YR,"Repair Musculoskeletal System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YS,"Repair Urinary System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YT,"Repair Female Reproductive System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YV,"Repair Male Reproductive System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03YY,"Repair Other Body System in Products of Conception with Other Device, Percutaneous Approach",10Q03Y,2016,2027
+10Q03Z,No Device,10Q03,2016,2027
+10Q03ZE,"Repair Nervous System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZF,"Repair Cardiovascular System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZG,"Repair Lymphatics and Hemic in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZH,"Repair Eye in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZJ,"Repair Ear, Nose and Sinus in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZK,"Repair Respiratory System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZL,"Repair Mouth and Throat in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZM,"Repair Gastrointestinal System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZN,"Repair Hepatobiliary and Pancreas in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZP,"Repair Endocrine System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZQ,"Repair Skin in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZR,"Repair Musculoskeletal System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZS,"Repair Urinary System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZT,"Repair Female Reproductive System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZV,"Repair Male Reproductive System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q03ZY,"Repair Other Body System in Products of Conception, Percutaneous Approach",10Q03Z,2016,2027
+10Q04,Percutaneous Endoscopic,10Q0,2016,2027
+10Q04Y,Other Device,10Q04,2016,2027
+10Q04YE,"Repair Nervous System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YF,"Repair Cardiovascular System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YG,"Repair Lymphatics and Hemic in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YH,"Repair Eye in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YJ,"Repair Ear, Nose and Sinus in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YK,"Repair Respiratory System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YL,"Repair Mouth and Throat in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YM,"Repair Gastrointestinal System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YN,"Repair Hepatobiliary and Pancreas in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YP,"Repair Endocrine System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YQ,"Repair Skin in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YR,"Repair Musculoskeletal System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YS,"Repair Urinary System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YT,"Repair Female Reproductive System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YV,"Repair Male Reproductive System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04YY,"Repair Other Body System in Products of Conception with Other Device, Percutaneous Endoscopic Approach",10Q04Y,2016,2027
+10Q04Z,No Device,10Q04,2016,2027
+10Q04ZE,"Repair Nervous System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZF,"Repair Cardiovascular System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZG,"Repair Lymphatics and Hemic in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZH,"Repair Eye in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZJ,"Repair Ear, Nose and Sinus in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZK,"Repair Respiratory System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZL,"Repair Mouth and Throat in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZM,"Repair Gastrointestinal System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZN,"Repair Hepatobiliary and Pancreas in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZP,"Repair Endocrine System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZQ,"Repair Skin in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZR,"Repair Musculoskeletal System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZS,"Repair Urinary System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZT,"Repair Female Reproductive System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZV,"Repair Male Reproductive System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q04ZY,"Repair Other Body System in Products of Conception, Percutaneous Endoscopic Approach",10Q04Z,2016,2027
+10Q07,Via Natural or Artificial Opening,10Q0,2016,2027
+10Q07Y,Other Device,10Q07,2016,2027
+10Q07YE,"Repair Nervous System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YF,"Repair Cardiovascular System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YG,"Repair Lymphatics and Hemic in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YH,"Repair Eye in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YJ,"Repair Ear, Nose and Sinus in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YK,"Repair Respiratory System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YL,"Repair Mouth and Throat in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YM,"Repair Gastrointestinal System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YN,"Repair Hepatobiliary and Pancreas in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YP,"Repair Endocrine System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YQ,"Repair Skin in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YR,"Repair Musculoskeletal System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YS,"Repair Urinary System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YT,"Repair Female Reproductive System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YV,"Repair Male Reproductive System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07YY,"Repair Other Body System in Products of Conception with Other Device, Via Natural or Artificial Opening",10Q07Y,2016,2027
+10Q07Z,No Device,10Q07,2016,2027
+10Q07ZE,"Repair Nervous System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZF,"Repair Cardiovascular System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZG,"Repair Lymphatics and Hemic in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZH,"Repair Eye in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZJ,"Repair Ear, Nose and Sinus in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZK,"Repair Respiratory System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZL,"Repair Mouth and Throat in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZM,"Repair Gastrointestinal System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZN,"Repair Hepatobiliary and Pancreas in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZP,"Repair Endocrine System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZQ,"Repair Skin in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZR,"Repair Musculoskeletal System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZS,"Repair Urinary System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZT,"Repair Female Reproductive System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZV,"Repair Male Reproductive System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q07ZY,"Repair Other Body System in Products of Conception, Via Natural or Artificial Opening",10Q07Z,2016,2027
+10Q08,Via Natural or Artificial Opening Endoscopic,10Q0,2016,2027
+10Q08Y,Other Device,10Q08,2016,2027
+10Q08YE,"Repair Nervous System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YF,"Repair Cardiovascular System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YG,"Repair Lymphatics and Hemic in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YH,"Repair Eye in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YJ,"Repair Ear, Nose and Sinus in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YK,"Repair Respiratory System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YL,"Repair Mouth and Throat in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YM,"Repair Gastrointestinal System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YN,"Repair Hepatobiliary and Pancreas in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YP,"Repair Endocrine System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YQ,"Repair Skin in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YR,"Repair Musculoskeletal System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YS,"Repair Urinary System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YT,"Repair Female Reproductive System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YV,"Repair Male Reproductive System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08YY,"Repair Other Body System in Products of Conception with Other Device, Via Natural or Artificial Opening Endoscopic",10Q08Y,2016,2027
+10Q08Z,No Device,10Q08,2016,2027
+10Q08ZE,"Repair Nervous System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZF,"Repair Cardiovascular System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZG,"Repair Lymphatics and Hemic in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZH,"Repair Eye in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZJ,"Repair Ear, Nose and Sinus in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZK,"Repair Respiratory System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZL,"Repair Mouth and Throat in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZM,"Repair Gastrointestinal System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZN,"Repair Hepatobiliary and Pancreas in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZP,"Repair Endocrine System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZQ,"Repair Skin in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZR,"Repair Musculoskeletal System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZS,"Repair Urinary System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZT,"Repair Female Reproductive System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZV,"Repair Male Reproductive System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10Q08ZY,"Repair Other Body System in Products of Conception, Via Natural or Artificial Opening Endoscopic",10Q08Z,2016,2027
+10S,Reposition,10,2016,2027
+10S0,Products of Conception,10S,2016,2027
+10S07,Via Natural or Artificial Opening,10S0,2016,2027
+10S07Z,No Device,10S07,2016,2027
+10S07ZZ,"Reposition Products of Conception, Via Natural or Artificial Opening",10S07Z,2016,2027
+10S0X,External,10S0,2016,2027
+10S0XZ,No Device,10S0X,2016,2027
+10S0XZZ,"Reposition Products of Conception, External Approach",10S0XZ,2016,2027
+10S2,"Products of Conception, Ectopic",10S,2016,2027
+10S20,Open,10S2,2016,2027
+10S20Z,No Device,10S20,2016,2027
+10S20ZZ,"Reposition Products of Conception, Ectopic, Open Approach",10S20Z,2016,2027
+10S23,Percutaneous,10S2,2016,2027
+10S23Z,No Device,10S23,2016,2027
+10S23ZZ,"Reposition Products of Conception, Ectopic, Percutaneous Approach",10S23Z,2016,2027
+10S24,Percutaneous Endoscopic,10S2,2016,2027
+10S24Z,No Device,10S24,2016,2027
+10S24ZZ,"Reposition Products of Conception, Ectopic, Percutaneous Endoscopic Approach",10S24Z,2016,2027
+10S27,Via Natural or Artificial Opening,10S2,2016,2027
+10S27Z,No Device,10S27,2016,2027
+10S27ZZ,"Reposition Products of Conception, Ectopic, Via Natural or Artificial Opening",10S27Z,2016,2027
+10S28,Via Natural or Artificial Opening Endoscopic,10S2,2016,2027
+10S28Z,No Device,10S28,2016,2027
+10S28ZZ,"Reposition Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic",10S28Z,2016,2027
+10T,Resection,10,2016,2027
+10T2,"Products of Conception, Ectopic",10T,2016,2027
+10T20,Open,10T2,2016,2027
+10T20Z,No Device,10T20,2016,2027
+10T20ZZ,"Resection of Products of Conception, Ectopic, Open Approach",10T20Z,2016,2027
+10T23,Percutaneous,10T2,2016,2027
+10T23Z,No Device,10T23,2016,2027
+10T23ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Approach",10T23Z,2016,2027
+10T24,Percutaneous Endoscopic,10T2,2016,2027
+10T24Z,No Device,10T24,2016,2027
+10T24ZZ,"Resection of Products of Conception, Ectopic, Percutaneous Endoscopic Approach",10T24Z,2016,2027
+10T27,Via Natural or Artificial Opening,10T2,2016,2027
+10T27Z,No Device,10T27,2016,2027
+10T27ZZ,"Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening",10T27Z,2016,2027
+10T28,Via Natural or Artificial Opening Endoscopic,10T2,2016,2027
+10T28Z,No Device,10T28,2016,2027
+10T28ZZ,"Resection of Products of Conception, Ectopic, Via Natural or Artificial Opening Endoscopic",10T28Z,2016,2027
+10Y,Transplantation,10,2016,2027
+10Y0,Products of Conception,10Y,2016,2027
+10Y03,Percutaneous,10Y0,2016,2027
+10Y03Z,No Device,10Y03,2016,2027
+10Y03ZE,"Transplantation of Nervous System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZF,"Transplantation of Cardiovascular System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZG,"Transplantation of Lymphatics and Hemic into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZH,"Transplantation of Eye into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZJ,"Transplantation of Ear, Nose and Sinus into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZK,"Transplantation of Respiratory System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZL,"Transplantation of Mouth and Throat into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZM,"Transplantation of Gastrointestinal System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZN,"Transplantation of Hepatobiliary and Pancreas into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZP,"Transplantation of Endocrine System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZQ,"Transplantation of Skin into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZR,"Transplantation of Musculoskeletal System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZS,"Transplantation of Urinary System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZT,"Transplantation of Female Reproductive System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZV,"Transplantation of Male Reproductive System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y03ZY,"Transplantation of Other Body System into Products of Conception, Percutaneous Approach",10Y03Z,2016,2027
+10Y04,Percutaneous Endoscopic,10Y0,2016,2027
+10Y04Z,No Device,10Y04,2016,2027
+10Y04ZE,"Transplantation of Nervous System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZF,"Transplantation of Cardiovascular System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZG,"Transplantation of Lymphatics and Hemic into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZH,"Transplantation of Eye into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZJ,"Transplantation of Ear, Nose and Sinus into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZK,"Transplantation of Respiratory System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZL,"Transplantation of Mouth and Throat into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZM,"Transplantation of Gastrointestinal System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZN,"Transplantation of Hepatobiliary and Pancreas into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZP,"Transplantation of Endocrine System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZQ,"Transplantation of Skin into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZR,"Transplantation of Musculoskeletal System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZS,"Transplantation of Urinary System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZT,"Transplantation of Female Reproductive System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZV,"Transplantation of Male Reproductive System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y04ZY,"Transplantation of Other Body System into Products of Conception, Percutaneous Endoscopic Approach",10Y04Z,2016,2027
+10Y07,Via Natural or Artificial Opening,10Y0,2016,2027
+10Y07Z,No Device,10Y07,2016,2027
+10Y07ZE,"Transplantation of Nervous System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZF,"Transplantation of Cardiovascular System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZG,"Transplantation of Lymphatics and Hemic into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZH,"Transplantation of Eye into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZJ,"Transplantation of Ear, Nose and Sinus into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZK,"Transplantation of Respiratory System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZL,"Transplantation of Mouth and Throat into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZM,"Transplantation of Gastrointestinal System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZN,"Transplantation of Hepatobiliary and Pancreas into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZP,"Transplantation of Endocrine System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZQ,"Transplantation of Skin into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZR,"Transplantation of Musculoskeletal System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZS,"Transplantation of Urinary System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZT,"Transplantation of Female Reproductive System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZV,"Transplantation of Male Reproductive System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027
+10Y07ZY,"Transplantation of Other Body System into Products of Conception, Via Natural or Artificial Opening",10Y07Z,2016,2027

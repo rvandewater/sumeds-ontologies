@@ -1,0 +1,7 @@
+code,description,parent,first_year,last_year
+XT,Urinary System,X,2020,2027
+XT2,Monitoring,XT,2020,2027
+XT25,Kidney,XT2,2020,2027
+XT25X,External,XT25,2020,2027
+XT25XE,Fluorescent Pyrazine,XT25X,2020,2027
+XT25XE5,"Monitoring of Kidney using Fluorescent Pyrazine, External Approach, New Technology Group 5",XT25XE,2020,2027

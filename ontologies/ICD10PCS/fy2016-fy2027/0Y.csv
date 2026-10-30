@@ -1,0 +1,3117 @@
+code,description,parent,first_year,last_year
+0Y,"Anatomical Regions, Lower Extremities",0,2016,2027
+0Y0,Alteration,0Y,2016,2027
+0Y00,"Buttock, Right",0Y0,2016,2027
+0Y000,Open,0Y00,2016,2027
+0Y0007,Autologous Tissue Substitute,0Y000,2016,2027
+0Y0007Z,"Alteration of Right Buttock with Autologous Tissue Substitute, Open Approach",0Y0007,2016,2027
+0Y000J,Synthetic Substitute,0Y000,2016,2027
+0Y000JZ,"Alteration of Right Buttock with Synthetic Substitute, Open Approach",0Y000J,2016,2027
+0Y000K,Nonautologous Tissue Substitute,0Y000,2016,2027
+0Y000KZ,"Alteration of Right Buttock with Nonautologous Tissue Substitute, Open Approach",0Y000K,2016,2027
+0Y000Z,No Device,0Y000,2016,2027
+0Y000ZZ,"Alteration of Right Buttock, Open Approach",0Y000Z,2016,2027
+0Y003,Percutaneous,0Y00,2016,2027
+0Y0037,Autologous Tissue Substitute,0Y003,2016,2027
+0Y0037Z,"Alteration of Right Buttock with Autologous Tissue Substitute, Percutaneous Approach",0Y0037,2016,2027
+0Y003J,Synthetic Substitute,0Y003,2016,2027
+0Y003JZ,"Alteration of Right Buttock with Synthetic Substitute, Percutaneous Approach",0Y003J,2016,2027
+0Y003K,Nonautologous Tissue Substitute,0Y003,2016,2027
+0Y003KZ,"Alteration of Right Buttock with Nonautologous Tissue Substitute, Percutaneous Approach",0Y003K,2016,2027
+0Y003Z,No Device,0Y003,2016,2027
+0Y003ZZ,"Alteration of Right Buttock, Percutaneous Approach",0Y003Z,2016,2027
+0Y004,Percutaneous Endoscopic,0Y00,2016,2027
+0Y0047,Autologous Tissue Substitute,0Y004,2016,2027
+0Y0047Z,"Alteration of Right Buttock with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0047,2016,2027
+0Y004J,Synthetic Substitute,0Y004,2016,2027
+0Y004JZ,"Alteration of Right Buttock with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y004J,2016,2027
+0Y004K,Nonautologous Tissue Substitute,0Y004,2016,2027
+0Y004KZ,"Alteration of Right Buttock with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y004K,2016,2027
+0Y004Z,No Device,0Y004,2016,2027
+0Y004ZZ,"Alteration of Right Buttock, Percutaneous Endoscopic Approach",0Y004Z,2016,2027
+0Y01,"Buttock, Left",0Y0,2016,2027
+0Y010,Open,0Y01,2016,2027
+0Y0107,Autologous Tissue Substitute,0Y010,2016,2027
+0Y0107Z,"Alteration of Left Buttock with Autologous Tissue Substitute, Open Approach",0Y0107,2016,2027
+0Y010J,Synthetic Substitute,0Y010,2016,2027
+0Y010JZ,"Alteration of Left Buttock with Synthetic Substitute, Open Approach",0Y010J,2016,2027
+0Y010K,Nonautologous Tissue Substitute,0Y010,2016,2027
+0Y010KZ,"Alteration of Left Buttock with Nonautologous Tissue Substitute, Open Approach",0Y010K,2016,2027
+0Y010Z,No Device,0Y010,2016,2027
+0Y010ZZ,"Alteration of Left Buttock, Open Approach",0Y010Z,2016,2027
+0Y013,Percutaneous,0Y01,2016,2027
+0Y0137,Autologous Tissue Substitute,0Y013,2016,2027
+0Y0137Z,"Alteration of Left Buttock with Autologous Tissue Substitute, Percutaneous Approach",0Y0137,2016,2027
+0Y013J,Synthetic Substitute,0Y013,2016,2027
+0Y013JZ,"Alteration of Left Buttock with Synthetic Substitute, Percutaneous Approach",0Y013J,2016,2027
+0Y013K,Nonautologous Tissue Substitute,0Y013,2016,2027
+0Y013KZ,"Alteration of Left Buttock with Nonautologous Tissue Substitute, Percutaneous Approach",0Y013K,2016,2027
+0Y013Z,No Device,0Y013,2016,2027
+0Y013ZZ,"Alteration of Left Buttock, Percutaneous Approach",0Y013Z,2016,2027
+0Y014,Percutaneous Endoscopic,0Y01,2016,2027
+0Y0147,Autologous Tissue Substitute,0Y014,2016,2027
+0Y0147Z,"Alteration of Left Buttock with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0147,2016,2027
+0Y014J,Synthetic Substitute,0Y014,2016,2027
+0Y014JZ,"Alteration of Left Buttock with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y014J,2016,2027
+0Y014K,Nonautologous Tissue Substitute,0Y014,2016,2027
+0Y014KZ,"Alteration of Left Buttock with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y014K,2016,2027
+0Y014Z,No Device,0Y014,2016,2027
+0Y014ZZ,"Alteration of Left Buttock, Percutaneous Endoscopic Approach",0Y014Z,2016,2027
+0Y09,"Lower Extremity, Right",0Y0,2016,2027
+0Y090,Open,0Y09,2016,2027
+0Y0907,Autologous Tissue Substitute,0Y090,2016,2027
+0Y0907Z,"Alteration of Right Lower Extremity with Autologous Tissue Substitute, Open Approach",0Y0907,2016,2027
+0Y090J,Synthetic Substitute,0Y090,2016,2027
+0Y090JZ,"Alteration of Right Lower Extremity with Synthetic Substitute, Open Approach",0Y090J,2016,2027
+0Y090K,Nonautologous Tissue Substitute,0Y090,2016,2027
+0Y090KZ,"Alteration of Right Lower Extremity with Nonautologous Tissue Substitute, Open Approach",0Y090K,2016,2027
+0Y090Z,No Device,0Y090,2016,2027
+0Y090ZZ,"Alteration of Right Lower Extremity, Open Approach",0Y090Z,2016,2027
+0Y093,Percutaneous,0Y09,2016,2027
+0Y0937,Autologous Tissue Substitute,0Y093,2016,2027
+0Y0937Z,"Alteration of Right Lower Extremity with Autologous Tissue Substitute, Percutaneous Approach",0Y0937,2016,2027
+0Y093J,Synthetic Substitute,0Y093,2016,2027
+0Y093JZ,"Alteration of Right Lower Extremity with Synthetic Substitute, Percutaneous Approach",0Y093J,2016,2027
+0Y093K,Nonautologous Tissue Substitute,0Y093,2016,2027
+0Y093KZ,"Alteration of Right Lower Extremity with Nonautologous Tissue Substitute, Percutaneous Approach",0Y093K,2016,2027
+0Y093Z,No Device,0Y093,2016,2027
+0Y093ZZ,"Alteration of Right Lower Extremity, Percutaneous Approach",0Y093Z,2016,2027
+0Y094,Percutaneous Endoscopic,0Y09,2016,2027
+0Y0947,Autologous Tissue Substitute,0Y094,2016,2027
+0Y0947Z,"Alteration of Right Lower Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0947,2016,2027
+0Y094J,Synthetic Substitute,0Y094,2016,2027
+0Y094JZ,"Alteration of Right Lower Extremity with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y094J,2016,2027
+0Y094K,Nonautologous Tissue Substitute,0Y094,2016,2027
+0Y094KZ,"Alteration of Right Lower Extremity with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y094K,2016,2027
+0Y094Z,No Device,0Y094,2016,2027
+0Y094ZZ,"Alteration of Right Lower Extremity, Percutaneous Endoscopic Approach",0Y094Z,2016,2027
+0Y0B,"Lower Extremity, Left",0Y0,2016,2027
+0Y0B0,Open,0Y0B,2016,2027
+0Y0B07,Autologous Tissue Substitute,0Y0B0,2016,2027
+0Y0B07Z,"Alteration of Left Lower Extremity with Autologous Tissue Substitute, Open Approach",0Y0B07,2016,2027
+0Y0B0J,Synthetic Substitute,0Y0B0,2016,2027
+0Y0B0JZ,"Alteration of Left Lower Extremity with Synthetic Substitute, Open Approach",0Y0B0J,2016,2027
+0Y0B0K,Nonautologous Tissue Substitute,0Y0B0,2016,2027
+0Y0B0KZ,"Alteration of Left Lower Extremity with Nonautologous Tissue Substitute, Open Approach",0Y0B0K,2016,2027
+0Y0B0Z,No Device,0Y0B0,2016,2027
+0Y0B0ZZ,"Alteration of Left Lower Extremity, Open Approach",0Y0B0Z,2016,2027
+0Y0B3,Percutaneous,0Y0B,2016,2027
+0Y0B37,Autologous Tissue Substitute,0Y0B3,2016,2027
+0Y0B37Z,"Alteration of Left Lower Extremity with Autologous Tissue Substitute, Percutaneous Approach",0Y0B37,2016,2027
+0Y0B3J,Synthetic Substitute,0Y0B3,2016,2027
+0Y0B3JZ,"Alteration of Left Lower Extremity with Synthetic Substitute, Percutaneous Approach",0Y0B3J,2016,2027
+0Y0B3K,Nonautologous Tissue Substitute,0Y0B3,2016,2027
+0Y0B3KZ,"Alteration of Left Lower Extremity with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0B3K,2016,2027
+0Y0B3Z,No Device,0Y0B3,2016,2027
+0Y0B3ZZ,"Alteration of Left Lower Extremity, Percutaneous Approach",0Y0B3Z,2016,2027
+0Y0B4,Percutaneous Endoscopic,0Y0B,2016,2027
+0Y0B47,Autologous Tissue Substitute,0Y0B4,2016,2027
+0Y0B47Z,"Alteration of Left Lower Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0B47,2016,2027
+0Y0B4J,Synthetic Substitute,0Y0B4,2016,2027
+0Y0B4JZ,"Alteration of Left Lower Extremity with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0B4J,2016,2027
+0Y0B4K,Nonautologous Tissue Substitute,0Y0B4,2016,2027
+0Y0B4KZ,"Alteration of Left Lower Extremity with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0B4K,2016,2027
+0Y0B4Z,No Device,0Y0B4,2016,2027
+0Y0B4ZZ,"Alteration of Left Lower Extremity, Percutaneous Endoscopic Approach",0Y0B4Z,2016,2027
+0Y0C,"Upper Leg, Right",0Y0,2016,2027
+0Y0C0,Open,0Y0C,2016,2027
+0Y0C07,Autologous Tissue Substitute,0Y0C0,2016,2027
+0Y0C07Z,"Alteration of Right Upper Leg with Autologous Tissue Substitute, Open Approach",0Y0C07,2016,2027
+0Y0C0J,Synthetic Substitute,0Y0C0,2016,2027
+0Y0C0JZ,"Alteration of Right Upper Leg with Synthetic Substitute, Open Approach",0Y0C0J,2016,2027
+0Y0C0K,Nonautologous Tissue Substitute,0Y0C0,2016,2027
+0Y0C0KZ,"Alteration of Right Upper Leg with Nonautologous Tissue Substitute, Open Approach",0Y0C0K,2016,2027
+0Y0C0Z,No Device,0Y0C0,2016,2027
+0Y0C0ZZ,"Alteration of Right Upper Leg, Open Approach",0Y0C0Z,2016,2027
+0Y0C3,Percutaneous,0Y0C,2016,2027
+0Y0C37,Autologous Tissue Substitute,0Y0C3,2016,2027
+0Y0C37Z,"Alteration of Right Upper Leg with Autologous Tissue Substitute, Percutaneous Approach",0Y0C37,2016,2027
+0Y0C3J,Synthetic Substitute,0Y0C3,2016,2027
+0Y0C3JZ,"Alteration of Right Upper Leg with Synthetic Substitute, Percutaneous Approach",0Y0C3J,2016,2027
+0Y0C3K,Nonautologous Tissue Substitute,0Y0C3,2016,2027
+0Y0C3KZ,"Alteration of Right Upper Leg with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0C3K,2016,2027
+0Y0C3Z,No Device,0Y0C3,2016,2027
+0Y0C3ZZ,"Alteration of Right Upper Leg, Percutaneous Approach",0Y0C3Z,2016,2027
+0Y0C4,Percutaneous Endoscopic,0Y0C,2016,2027
+0Y0C47,Autologous Tissue Substitute,0Y0C4,2016,2027
+0Y0C47Z,"Alteration of Right Upper Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0C47,2016,2027
+0Y0C4J,Synthetic Substitute,0Y0C4,2016,2027
+0Y0C4JZ,"Alteration of Right Upper Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0C4J,2016,2027
+0Y0C4K,Nonautologous Tissue Substitute,0Y0C4,2016,2027
+0Y0C4KZ,"Alteration of Right Upper Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0C4K,2016,2027
+0Y0C4Z,No Device,0Y0C4,2016,2027
+0Y0C4ZZ,"Alteration of Right Upper Leg, Percutaneous Endoscopic Approach",0Y0C4Z,2016,2027
+0Y0D,"Upper Leg, Left",0Y0,2016,2027
+0Y0D0,Open,0Y0D,2016,2027
+0Y0D07,Autologous Tissue Substitute,0Y0D0,2016,2027
+0Y0D07Z,"Alteration of Left Upper Leg with Autologous Tissue Substitute, Open Approach",0Y0D07,2016,2027
+0Y0D0J,Synthetic Substitute,0Y0D0,2016,2027
+0Y0D0JZ,"Alteration of Left Upper Leg with Synthetic Substitute, Open Approach",0Y0D0J,2016,2027
+0Y0D0K,Nonautologous Tissue Substitute,0Y0D0,2016,2027
+0Y0D0KZ,"Alteration of Left Upper Leg with Nonautologous Tissue Substitute, Open Approach",0Y0D0K,2016,2027
+0Y0D0Z,No Device,0Y0D0,2016,2027
+0Y0D0ZZ,"Alteration of Left Upper Leg, Open Approach",0Y0D0Z,2016,2027
+0Y0D3,Percutaneous,0Y0D,2016,2027
+0Y0D37,Autologous Tissue Substitute,0Y0D3,2016,2027
+0Y0D37Z,"Alteration of Left Upper Leg with Autologous Tissue Substitute, Percutaneous Approach",0Y0D37,2016,2027
+0Y0D3J,Synthetic Substitute,0Y0D3,2016,2027
+0Y0D3JZ,"Alteration of Left Upper Leg with Synthetic Substitute, Percutaneous Approach",0Y0D3J,2016,2027
+0Y0D3K,Nonautologous Tissue Substitute,0Y0D3,2016,2027
+0Y0D3KZ,"Alteration of Left Upper Leg with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0D3K,2016,2027
+0Y0D3Z,No Device,0Y0D3,2016,2027
+0Y0D3ZZ,"Alteration of Left Upper Leg, Percutaneous Approach",0Y0D3Z,2016,2027
+0Y0D4,Percutaneous Endoscopic,0Y0D,2016,2027
+0Y0D47,Autologous Tissue Substitute,0Y0D4,2016,2027
+0Y0D47Z,"Alteration of Left Upper Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0D47,2016,2027
+0Y0D4J,Synthetic Substitute,0Y0D4,2016,2027
+0Y0D4JZ,"Alteration of Left Upper Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0D4J,2016,2027
+0Y0D4K,Nonautologous Tissue Substitute,0Y0D4,2016,2027
+0Y0D4KZ,"Alteration of Left Upper Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0D4K,2016,2027
+0Y0D4Z,No Device,0Y0D4,2016,2027
+0Y0D4ZZ,"Alteration of Left Upper Leg, Percutaneous Endoscopic Approach",0Y0D4Z,2016,2027
+0Y0F,"Knee Region, Right",0Y0,2016,2027
+0Y0F0,Open,0Y0F,2016,2027
+0Y0F07,Autologous Tissue Substitute,0Y0F0,2016,2027
+0Y0F07Z,"Alteration of Right Knee Region with Autologous Tissue Substitute, Open Approach",0Y0F07,2016,2027
+0Y0F0J,Synthetic Substitute,0Y0F0,2016,2027
+0Y0F0JZ,"Alteration of Right Knee Region with Synthetic Substitute, Open Approach",0Y0F0J,2016,2027
+0Y0F0K,Nonautologous Tissue Substitute,0Y0F0,2016,2027
+0Y0F0KZ,"Alteration of Right Knee Region with Nonautologous Tissue Substitute, Open Approach",0Y0F0K,2016,2027
+0Y0F0Z,No Device,0Y0F0,2016,2027
+0Y0F0ZZ,"Alteration of Right Knee Region, Open Approach",0Y0F0Z,2016,2027
+0Y0F3,Percutaneous,0Y0F,2016,2027
+0Y0F37,Autologous Tissue Substitute,0Y0F3,2016,2027
+0Y0F37Z,"Alteration of Right Knee Region with Autologous Tissue Substitute, Percutaneous Approach",0Y0F37,2016,2027
+0Y0F3J,Synthetic Substitute,0Y0F3,2016,2027
+0Y0F3JZ,"Alteration of Right Knee Region with Synthetic Substitute, Percutaneous Approach",0Y0F3J,2016,2027
+0Y0F3K,Nonautologous Tissue Substitute,0Y0F3,2016,2027
+0Y0F3KZ,"Alteration of Right Knee Region with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0F3K,2016,2027
+0Y0F3Z,No Device,0Y0F3,2016,2027
+0Y0F3ZZ,"Alteration of Right Knee Region, Percutaneous Approach",0Y0F3Z,2016,2027
+0Y0F4,Percutaneous Endoscopic,0Y0F,2016,2027
+0Y0F47,Autologous Tissue Substitute,0Y0F4,2016,2027
+0Y0F47Z,"Alteration of Right Knee Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0F47,2016,2027
+0Y0F4J,Synthetic Substitute,0Y0F4,2016,2027
+0Y0F4JZ,"Alteration of Right Knee Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0F4J,2016,2027
+0Y0F4K,Nonautologous Tissue Substitute,0Y0F4,2016,2027
+0Y0F4KZ,"Alteration of Right Knee Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0F4K,2016,2027
+0Y0F4Z,No Device,0Y0F4,2016,2027
+0Y0F4ZZ,"Alteration of Right Knee Region, Percutaneous Endoscopic Approach",0Y0F4Z,2016,2027
+0Y0G,"Knee Region, Left",0Y0,2016,2027
+0Y0G0,Open,0Y0G,2016,2027
+0Y0G07,Autologous Tissue Substitute,0Y0G0,2016,2027
+0Y0G07Z,"Alteration of Left Knee Region with Autologous Tissue Substitute, Open Approach",0Y0G07,2016,2027
+0Y0G0J,Synthetic Substitute,0Y0G0,2016,2027
+0Y0G0JZ,"Alteration of Left Knee Region with Synthetic Substitute, Open Approach",0Y0G0J,2016,2027
+0Y0G0K,Nonautologous Tissue Substitute,0Y0G0,2016,2027
+0Y0G0KZ,"Alteration of Left Knee Region with Nonautologous Tissue Substitute, Open Approach",0Y0G0K,2016,2027
+0Y0G0Z,No Device,0Y0G0,2016,2027
+0Y0G0ZZ,"Alteration of Left Knee Region, Open Approach",0Y0G0Z,2016,2027
+0Y0G3,Percutaneous,0Y0G,2016,2027
+0Y0G37,Autologous Tissue Substitute,0Y0G3,2016,2027
+0Y0G37Z,"Alteration of Left Knee Region with Autologous Tissue Substitute, Percutaneous Approach",0Y0G37,2016,2027
+0Y0G3J,Synthetic Substitute,0Y0G3,2016,2027
+0Y0G3JZ,"Alteration of Left Knee Region with Synthetic Substitute, Percutaneous Approach",0Y0G3J,2016,2027
+0Y0G3K,Nonautologous Tissue Substitute,0Y0G3,2016,2027
+0Y0G3KZ,"Alteration of Left Knee Region with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0G3K,2016,2027
+0Y0G3Z,No Device,0Y0G3,2016,2027
+0Y0G3ZZ,"Alteration of Left Knee Region, Percutaneous Approach",0Y0G3Z,2016,2027
+0Y0G4,Percutaneous Endoscopic,0Y0G,2016,2027
+0Y0G47,Autologous Tissue Substitute,0Y0G4,2016,2027
+0Y0G47Z,"Alteration of Left Knee Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0G47,2016,2027
+0Y0G4J,Synthetic Substitute,0Y0G4,2016,2027
+0Y0G4JZ,"Alteration of Left Knee Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0G4J,2016,2027
+0Y0G4K,Nonautologous Tissue Substitute,0Y0G4,2016,2027
+0Y0G4KZ,"Alteration of Left Knee Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0G4K,2016,2027
+0Y0G4Z,No Device,0Y0G4,2016,2027
+0Y0G4ZZ,"Alteration of Left Knee Region, Percutaneous Endoscopic Approach",0Y0G4Z,2016,2027
+0Y0H,"Lower Leg, Right",0Y0,2016,2027
+0Y0H0,Open,0Y0H,2016,2027
+0Y0H07,Autologous Tissue Substitute,0Y0H0,2016,2027
+0Y0H07Z,"Alteration of Right Lower Leg with Autologous Tissue Substitute, Open Approach",0Y0H07,2016,2027
+0Y0H0J,Synthetic Substitute,0Y0H0,2016,2027
+0Y0H0JZ,"Alteration of Right Lower Leg with Synthetic Substitute, Open Approach",0Y0H0J,2016,2027
+0Y0H0K,Nonautologous Tissue Substitute,0Y0H0,2016,2027
+0Y0H0KZ,"Alteration of Right Lower Leg with Nonautologous Tissue Substitute, Open Approach",0Y0H0K,2016,2027
+0Y0H0Z,No Device,0Y0H0,2016,2027
+0Y0H0ZZ,"Alteration of Right Lower Leg, Open Approach",0Y0H0Z,2016,2027
+0Y0H3,Percutaneous,0Y0H,2016,2027
+0Y0H37,Autologous Tissue Substitute,0Y0H3,2016,2027
+0Y0H37Z,"Alteration of Right Lower Leg with Autologous Tissue Substitute, Percutaneous Approach",0Y0H37,2016,2027
+0Y0H3J,Synthetic Substitute,0Y0H3,2016,2027
+0Y0H3JZ,"Alteration of Right Lower Leg with Synthetic Substitute, Percutaneous Approach",0Y0H3J,2016,2027
+0Y0H3K,Nonautologous Tissue Substitute,0Y0H3,2016,2027
+0Y0H3KZ,"Alteration of Right Lower Leg with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0H3K,2016,2027
+0Y0H3Z,No Device,0Y0H3,2016,2027
+0Y0H3ZZ,"Alteration of Right Lower Leg, Percutaneous Approach",0Y0H3Z,2016,2027
+0Y0H4,Percutaneous Endoscopic,0Y0H,2016,2027
+0Y0H47,Autologous Tissue Substitute,0Y0H4,2016,2027
+0Y0H47Z,"Alteration of Right Lower Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0H47,2016,2027
+0Y0H4J,Synthetic Substitute,0Y0H4,2016,2027
+0Y0H4JZ,"Alteration of Right Lower Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0H4J,2016,2027
+0Y0H4K,Nonautologous Tissue Substitute,0Y0H4,2016,2027
+0Y0H4KZ,"Alteration of Right Lower Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0H4K,2016,2027
+0Y0H4Z,No Device,0Y0H4,2016,2027
+0Y0H4ZZ,"Alteration of Right Lower Leg, Percutaneous Endoscopic Approach",0Y0H4Z,2016,2027
+0Y0J,"Lower Leg, Left",0Y0,2016,2027
+0Y0J0,Open,0Y0J,2016,2027
+0Y0J07,Autologous Tissue Substitute,0Y0J0,2016,2027
+0Y0J07Z,"Alteration of Left Lower Leg with Autologous Tissue Substitute, Open Approach",0Y0J07,2016,2027
+0Y0J0J,Synthetic Substitute,0Y0J0,2016,2027
+0Y0J0JZ,"Alteration of Left Lower Leg with Synthetic Substitute, Open Approach",0Y0J0J,2016,2027
+0Y0J0K,Nonautologous Tissue Substitute,0Y0J0,2016,2027
+0Y0J0KZ,"Alteration of Left Lower Leg with Nonautologous Tissue Substitute, Open Approach",0Y0J0K,2016,2027
+0Y0J0Z,No Device,0Y0J0,2016,2027
+0Y0J0ZZ,"Alteration of Left Lower Leg, Open Approach",0Y0J0Z,2016,2027
+0Y0J3,Percutaneous,0Y0J,2016,2027
+0Y0J37,Autologous Tissue Substitute,0Y0J3,2016,2027
+0Y0J37Z,"Alteration of Left Lower Leg with Autologous Tissue Substitute, Percutaneous Approach",0Y0J37,2016,2027
+0Y0J3J,Synthetic Substitute,0Y0J3,2016,2027
+0Y0J3JZ,"Alteration of Left Lower Leg with Synthetic Substitute, Percutaneous Approach",0Y0J3J,2016,2027
+0Y0J3K,Nonautologous Tissue Substitute,0Y0J3,2016,2027
+0Y0J3KZ,"Alteration of Left Lower Leg with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0J3K,2016,2027
+0Y0J3Z,No Device,0Y0J3,2016,2027
+0Y0J3ZZ,"Alteration of Left Lower Leg, Percutaneous Approach",0Y0J3Z,2016,2027
+0Y0J4,Percutaneous Endoscopic,0Y0J,2016,2027
+0Y0J47,Autologous Tissue Substitute,0Y0J4,2016,2027
+0Y0J47Z,"Alteration of Left Lower Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0J47,2016,2027
+0Y0J4J,Synthetic Substitute,0Y0J4,2016,2027
+0Y0J4JZ,"Alteration of Left Lower Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0J4J,2016,2027
+0Y0J4K,Nonautologous Tissue Substitute,0Y0J4,2016,2027
+0Y0J4KZ,"Alteration of Left Lower Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0J4K,2016,2027
+0Y0J4Z,No Device,0Y0J4,2016,2027
+0Y0J4ZZ,"Alteration of Left Lower Leg, Percutaneous Endoscopic Approach",0Y0J4Z,2016,2027
+0Y0K,"Ankle Region, Right",0Y0,2016,2027
+0Y0K0,Open,0Y0K,2016,2027
+0Y0K07,Autologous Tissue Substitute,0Y0K0,2016,2027
+0Y0K07Z,"Alteration of Right Ankle Region with Autologous Tissue Substitute, Open Approach",0Y0K07,2016,2027
+0Y0K0J,Synthetic Substitute,0Y0K0,2016,2027
+0Y0K0JZ,"Alteration of Right Ankle Region with Synthetic Substitute, Open Approach",0Y0K0J,2016,2027
+0Y0K0K,Nonautologous Tissue Substitute,0Y0K0,2016,2027
+0Y0K0KZ,"Alteration of Right Ankle Region with Nonautologous Tissue Substitute, Open Approach",0Y0K0K,2016,2027
+0Y0K0Z,No Device,0Y0K0,2016,2027
+0Y0K0ZZ,"Alteration of Right Ankle Region, Open Approach",0Y0K0Z,2016,2027
+0Y0K3,Percutaneous,0Y0K,2016,2027
+0Y0K37,Autologous Tissue Substitute,0Y0K3,2016,2027
+0Y0K37Z,"Alteration of Right Ankle Region with Autologous Tissue Substitute, Percutaneous Approach",0Y0K37,2016,2027
+0Y0K3J,Synthetic Substitute,0Y0K3,2016,2027
+0Y0K3JZ,"Alteration of Right Ankle Region with Synthetic Substitute, Percutaneous Approach",0Y0K3J,2016,2027
+0Y0K3K,Nonautologous Tissue Substitute,0Y0K3,2016,2027
+0Y0K3KZ,"Alteration of Right Ankle Region with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0K3K,2016,2027
+0Y0K3Z,No Device,0Y0K3,2016,2027
+0Y0K3ZZ,"Alteration of Right Ankle Region, Percutaneous Approach",0Y0K3Z,2016,2027
+0Y0K4,Percutaneous Endoscopic,0Y0K,2016,2027
+0Y0K47,Autologous Tissue Substitute,0Y0K4,2016,2027
+0Y0K47Z,"Alteration of Right Ankle Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0K47,2016,2027
+0Y0K4J,Synthetic Substitute,0Y0K4,2016,2027
+0Y0K4JZ,"Alteration of Right Ankle Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0K4J,2016,2027
+0Y0K4K,Nonautologous Tissue Substitute,0Y0K4,2016,2027
+0Y0K4KZ,"Alteration of Right Ankle Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0K4K,2016,2027
+0Y0K4Z,No Device,0Y0K4,2016,2027
+0Y0K4ZZ,"Alteration of Right Ankle Region, Percutaneous Endoscopic Approach",0Y0K4Z,2016,2027
+0Y0L,"Ankle Region, Left",0Y0,2016,2027
+0Y0L0,Open,0Y0L,2016,2027
+0Y0L07,Autologous Tissue Substitute,0Y0L0,2016,2027
+0Y0L07Z,"Alteration of Left Ankle Region with Autologous Tissue Substitute, Open Approach",0Y0L07,2016,2027
+0Y0L0J,Synthetic Substitute,0Y0L0,2016,2027
+0Y0L0JZ,"Alteration of Left Ankle Region with Synthetic Substitute, Open Approach",0Y0L0J,2016,2027
+0Y0L0K,Nonautologous Tissue Substitute,0Y0L0,2016,2027
+0Y0L0KZ,"Alteration of Left Ankle Region with Nonautologous Tissue Substitute, Open Approach",0Y0L0K,2016,2027
+0Y0L0Z,No Device,0Y0L0,2016,2027
+0Y0L0ZZ,"Alteration of Left Ankle Region, Open Approach",0Y0L0Z,2016,2027
+0Y0L3,Percutaneous,0Y0L,2016,2027
+0Y0L37,Autologous Tissue Substitute,0Y0L3,2016,2027
+0Y0L37Z,"Alteration of Left Ankle Region with Autologous Tissue Substitute, Percutaneous Approach",0Y0L37,2016,2027
+0Y0L3J,Synthetic Substitute,0Y0L3,2016,2027
+0Y0L3JZ,"Alteration of Left Ankle Region with Synthetic Substitute, Percutaneous Approach",0Y0L3J,2016,2027
+0Y0L3K,Nonautologous Tissue Substitute,0Y0L3,2016,2027
+0Y0L3KZ,"Alteration of Left Ankle Region with Nonautologous Tissue Substitute, Percutaneous Approach",0Y0L3K,2016,2027
+0Y0L3Z,No Device,0Y0L3,2016,2027
+0Y0L3ZZ,"Alteration of Left Ankle Region, Percutaneous Approach",0Y0L3Z,2016,2027
+0Y0L4,Percutaneous Endoscopic,0Y0L,2016,2027
+0Y0L47,Autologous Tissue Substitute,0Y0L4,2016,2027
+0Y0L47Z,"Alteration of Left Ankle Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0L47,2016,2027
+0Y0L4J,Synthetic Substitute,0Y0L4,2016,2027
+0Y0L4JZ,"Alteration of Left Ankle Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0Y0L4J,2016,2027
+0Y0L4K,Nonautologous Tissue Substitute,0Y0L4,2016,2027
+0Y0L4KZ,"Alteration of Left Ankle Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0Y0L4K,2016,2027
+0Y0L4Z,No Device,0Y0L4,2016,2027
+0Y0L4ZZ,"Alteration of Left Ankle Region, Percutaneous Endoscopic Approach",0Y0L4Z,2016,2027
+0Y2,Change,0Y,2016,2027
+0Y29,"Lower Extremity, Right",0Y2,2016,2027
+0Y29X,External,0Y29,2016,2027
+0Y29X0,Drainage Device,0Y29X,2016,2027
+0Y29X0Z,"Change Drainage Device in Right Lower Extremity, External Approach",0Y29X0,2016,2027
+0Y29XY,Other Device,0Y29X,2016,2027
+0Y29XYZ,"Change Other Device in Right Lower Extremity, External Approach",0Y29XY,2016,2027
+0Y2B,"Lower Extremity, Left",0Y2,2016,2027
+0Y2BX,External,0Y2B,2016,2027
+0Y2BX0,Drainage Device,0Y2BX,2016,2027
+0Y2BX0Z,"Change Drainage Device in Left Lower Extremity, External Approach",0Y2BX0,2016,2027
+0Y2BXY,Other Device,0Y2BX,2016,2027
+0Y2BXYZ,"Change Other Device in Left Lower Extremity, External Approach",0Y2BXY,2016,2027
+0Y3,Control,0Y,2016,2027
+0Y30,"Buttock, Right",0Y3,2016,2027
+0Y300,Open,0Y30,2016,2027
+0Y300Z,No Device,0Y300,2016,2027
+0Y300ZZ,"Control Bleeding in Right Buttock, Open Approach",0Y300Z,2016,2027
+0Y303,Percutaneous,0Y30,2016,2027
+0Y303Z,No Device,0Y303,2016,2027
+0Y303ZZ,"Control Bleeding in Right Buttock, Percutaneous Approach",0Y303Z,2016,2027
+0Y304,Percutaneous Endoscopic,0Y30,2016,2027
+0Y304Z,No Device,0Y304,2016,2027
+0Y304ZZ,"Control Bleeding in Right Buttock, Percutaneous Endoscopic Approach",0Y304Z,2016,2027
+0Y31,"Buttock, Left",0Y3,2016,2027
+0Y310,Open,0Y31,2016,2027
+0Y310Z,No Device,0Y310,2016,2027
+0Y310ZZ,"Control Bleeding in Left Buttock, Open Approach",0Y310Z,2016,2027
+0Y313,Percutaneous,0Y31,2016,2027
+0Y313Z,No Device,0Y313,2016,2027
+0Y313ZZ,"Control Bleeding in Left Buttock, Percutaneous Approach",0Y313Z,2016,2027
+0Y314,Percutaneous Endoscopic,0Y31,2016,2027
+0Y314Z,No Device,0Y314,2016,2027
+0Y314ZZ,"Control Bleeding in Left Buttock, Percutaneous Endoscopic Approach",0Y314Z,2016,2027
+0Y35,"Inguinal Region, Right",0Y3,2016,2027
+0Y350,Open,0Y35,2016,2027
+0Y350Z,No Device,0Y350,2016,2027
+0Y350ZZ,"Control Bleeding in Right Inguinal Region, Open Approach",0Y350Z,2016,2027
+0Y353,Percutaneous,0Y35,2016,2027
+0Y353Z,No Device,0Y353,2016,2027
+0Y353ZZ,"Control Bleeding in Right Inguinal Region, Percutaneous Approach",0Y353Z,2016,2027
+0Y354,Percutaneous Endoscopic,0Y35,2016,2027
+0Y354Z,No Device,0Y354,2016,2027
+0Y354ZZ,"Control Bleeding in Right Inguinal Region, Percutaneous Endoscopic Approach",0Y354Z,2016,2027
+0Y36,"Inguinal Region, Left",0Y3,2016,2027
+0Y360,Open,0Y36,2016,2027
+0Y360Z,No Device,0Y360,2016,2027
+0Y360ZZ,"Control Bleeding in Left Inguinal Region, Open Approach",0Y360Z,2016,2027
+0Y363,Percutaneous,0Y36,2016,2027
+0Y363Z,No Device,0Y363,2016,2027
+0Y363ZZ,"Control Bleeding in Left Inguinal Region, Percutaneous Approach",0Y363Z,2016,2027
+0Y364,Percutaneous Endoscopic,0Y36,2016,2027
+0Y364Z,No Device,0Y364,2016,2027
+0Y364ZZ,"Control Bleeding in Left Inguinal Region, Percutaneous Endoscopic Approach",0Y364Z,2016,2027
+0Y37,"Femoral Region, Right",0Y3,2016,2027
+0Y370,Open,0Y37,2016,2027
+0Y370Z,No Device,0Y370,2016,2027
+0Y370ZZ,"Control Bleeding in Right Femoral Region, Open Approach",0Y370Z,2016,2027
+0Y373,Percutaneous,0Y37,2016,2027
+0Y373Z,No Device,0Y373,2016,2027
+0Y373ZZ,"Control Bleeding in Right Femoral Region, Percutaneous Approach",0Y373Z,2016,2027
+0Y374,Percutaneous Endoscopic,0Y37,2016,2027
+0Y374Z,No Device,0Y374,2016,2027
+0Y374ZZ,"Control Bleeding in Right Femoral Region, Percutaneous Endoscopic Approach",0Y374Z,2016,2027
+0Y38,"Femoral Region, Left",0Y3,2016,2027
+0Y380,Open,0Y38,2016,2027
+0Y380Z,No Device,0Y380,2016,2027
+0Y380ZZ,"Control Bleeding in Left Femoral Region, Open Approach",0Y380Z,2016,2027
+0Y383,Percutaneous,0Y38,2016,2027
+0Y383Z,No Device,0Y383,2016,2027
+0Y383ZZ,"Control Bleeding in Left Femoral Region, Percutaneous Approach",0Y383Z,2016,2027
+0Y384,Percutaneous Endoscopic,0Y38,2016,2027
+0Y384Z,No Device,0Y384,2016,2027
+0Y384ZZ,"Control Bleeding in Left Femoral Region, Percutaneous Endoscopic Approach",0Y384Z,2016,2027
+0Y39,"Lower Extremity, Right",0Y3,2016,2027
+0Y390,Open,0Y39,2016,2027
+0Y390Z,No Device,0Y390,2016,2027
+0Y390ZZ,"Control Bleeding in Right Lower Extremity, Open Approach",0Y390Z,2016,2027
+0Y393,Percutaneous,0Y39,2016,2027
+0Y393Z,No Device,0Y393,2016,2027
+0Y393ZZ,"Control Bleeding in Right Lower Extremity, Percutaneous Approach",0Y393Z,2016,2027
+0Y394,Percutaneous Endoscopic,0Y39,2016,2027
+0Y394Z,No Device,0Y394,2016,2027
+0Y394ZZ,"Control Bleeding in Right Lower Extremity, Percutaneous Endoscopic Approach",0Y394Z,2016,2027
+0Y3B,"Lower Extremity, Left",0Y3,2016,2027
+0Y3B0,Open,0Y3B,2016,2027
+0Y3B0Z,No Device,0Y3B0,2016,2027
+0Y3B0ZZ,"Control Bleeding in Left Lower Extremity, Open Approach",0Y3B0Z,2016,2027
+0Y3B3,Percutaneous,0Y3B,2016,2027
+0Y3B3Z,No Device,0Y3B3,2016,2027
+0Y3B3ZZ,"Control Bleeding in Left Lower Extremity, Percutaneous Approach",0Y3B3Z,2016,2027
+0Y3B4,Percutaneous Endoscopic,0Y3B,2016,2027
+0Y3B4Z,No Device,0Y3B4,2016,2027
+0Y3B4ZZ,"Control Bleeding in Left Lower Extremity, Percutaneous Endoscopic Approach",0Y3B4Z,2016,2027
+0Y3C,"Upper Leg, Right",0Y3,2016,2027
+0Y3C0,Open,0Y3C,2016,2027
+0Y3C0Z,No Device,0Y3C0,2016,2027
+0Y3C0ZZ,"Control Bleeding in Right Upper Leg, Open Approach",0Y3C0Z,2016,2027
+0Y3C3,Percutaneous,0Y3C,2016,2027
+0Y3C3Z,No Device,0Y3C3,2016,2027
+0Y3C3ZZ,"Control Bleeding in Right Upper Leg, Percutaneous Approach",0Y3C3Z,2016,2027
+0Y3C4,Percutaneous Endoscopic,0Y3C,2016,2027
+0Y3C4Z,No Device,0Y3C4,2016,2027
+0Y3C4ZZ,"Control Bleeding in Right Upper Leg, Percutaneous Endoscopic Approach",0Y3C4Z,2016,2027
+0Y3D,"Upper Leg, Left",0Y3,2016,2027
+0Y3D0,Open,0Y3D,2016,2027
+0Y3D0Z,No Device,0Y3D0,2016,2027
+0Y3D0ZZ,"Control Bleeding in Left Upper Leg, Open Approach",0Y3D0Z,2016,2027
+0Y3D3,Percutaneous,0Y3D,2016,2027
+0Y3D3Z,No Device,0Y3D3,2016,2027
+0Y3D3ZZ,"Control Bleeding in Left Upper Leg, Percutaneous Approach",0Y3D3Z,2016,2027
+0Y3D4,Percutaneous Endoscopic,0Y3D,2016,2027
+0Y3D4Z,No Device,0Y3D4,2016,2027
+0Y3D4ZZ,"Control Bleeding in Left Upper Leg, Percutaneous Endoscopic Approach",0Y3D4Z,2016,2027
+0Y3F,"Knee Region, Right",0Y3,2016,2027
+0Y3F0,Open,0Y3F,2016,2027
+0Y3F0Z,No Device,0Y3F0,2016,2027
+0Y3F0ZZ,"Control Bleeding in Right Knee Region, Open Approach",0Y3F0Z,2016,2027
+0Y3F3,Percutaneous,0Y3F,2016,2027
+0Y3F3Z,No Device,0Y3F3,2016,2027
+0Y3F3ZZ,"Control Bleeding in Right Knee Region, Percutaneous Approach",0Y3F3Z,2016,2027
+0Y3F4,Percutaneous Endoscopic,0Y3F,2016,2027
+0Y3F4Z,No Device,0Y3F4,2016,2027
+0Y3F4ZZ,"Control Bleeding in Right Knee Region, Percutaneous Endoscopic Approach",0Y3F4Z,2016,2027
+0Y3G,"Knee Region, Left",0Y3,2016,2027
+0Y3G0,Open,0Y3G,2016,2027
+0Y3G0Z,No Device,0Y3G0,2016,2027
+0Y3G0ZZ,"Control Bleeding in Left Knee Region, Open Approach",0Y3G0Z,2016,2027
+0Y3G3,Percutaneous,0Y3G,2016,2027
+0Y3G3Z,No Device,0Y3G3,2016,2027
+0Y3G3ZZ,"Control Bleeding in Left Knee Region, Percutaneous Approach",0Y3G3Z,2016,2027
+0Y3G4,Percutaneous Endoscopic,0Y3G,2016,2027
+0Y3G4Z,No Device,0Y3G4,2016,2027
+0Y3G4ZZ,"Control Bleeding in Left Knee Region, Percutaneous Endoscopic Approach",0Y3G4Z,2016,2027
+0Y3H,"Lower Leg, Right",0Y3,2016,2027
+0Y3H0,Open,0Y3H,2016,2027
+0Y3H0Z,No Device,0Y3H0,2016,2027
+0Y3H0ZZ,"Control Bleeding in Right Lower Leg, Open Approach",0Y3H0Z,2016,2027
+0Y3H3,Percutaneous,0Y3H,2016,2027
+0Y3H3Z,No Device,0Y3H3,2016,2027
+0Y3H3ZZ,"Control Bleeding in Right Lower Leg, Percutaneous Approach",0Y3H3Z,2016,2027
+0Y3H4,Percutaneous Endoscopic,0Y3H,2016,2027
+0Y3H4Z,No Device,0Y3H4,2016,2027
+0Y3H4ZZ,"Control Bleeding in Right Lower Leg, Percutaneous Endoscopic Approach",0Y3H4Z,2016,2027
+0Y3J,"Lower Leg, Left",0Y3,2016,2027
+0Y3J0,Open,0Y3J,2016,2027
+0Y3J0Z,No Device,0Y3J0,2016,2027
+0Y3J0ZZ,"Control Bleeding in Left Lower Leg, Open Approach",0Y3J0Z,2016,2027
+0Y3J3,Percutaneous,0Y3J,2016,2027
+0Y3J3Z,No Device,0Y3J3,2016,2027
+0Y3J3ZZ,"Control Bleeding in Left Lower Leg, Percutaneous Approach",0Y3J3Z,2016,2027
+0Y3J4,Percutaneous Endoscopic,0Y3J,2016,2027
+0Y3J4Z,No Device,0Y3J4,2016,2027
+0Y3J4ZZ,"Control Bleeding in Left Lower Leg, Percutaneous Endoscopic Approach",0Y3J4Z,2016,2027
+0Y3K,"Ankle Region, Right",0Y3,2016,2027
+0Y3K0,Open,0Y3K,2016,2027
+0Y3K0Z,No Device,0Y3K0,2016,2027
+0Y3K0ZZ,"Control Bleeding in Right Ankle Region, Open Approach",0Y3K0Z,2016,2027
+0Y3K3,Percutaneous,0Y3K,2016,2027
+0Y3K3Z,No Device,0Y3K3,2016,2027
+0Y3K3ZZ,"Control Bleeding in Right Ankle Region, Percutaneous Approach",0Y3K3Z,2016,2027
+0Y3K4,Percutaneous Endoscopic,0Y3K,2016,2027
+0Y3K4Z,No Device,0Y3K4,2016,2027
+0Y3K4ZZ,"Control Bleeding in Right Ankle Region, Percutaneous Endoscopic Approach",0Y3K4Z,2016,2027
+0Y3L,"Ankle Region, Left",0Y3,2016,2027
+0Y3L0,Open,0Y3L,2016,2027
+0Y3L0Z,No Device,0Y3L0,2016,2027
+0Y3L0ZZ,"Control Bleeding in Left Ankle Region, Open Approach",0Y3L0Z,2016,2027
+0Y3L3,Percutaneous,0Y3L,2016,2027
+0Y3L3Z,No Device,0Y3L3,2016,2027
+0Y3L3ZZ,"Control Bleeding in Left Ankle Region, Percutaneous Approach",0Y3L3Z,2016,2027
+0Y3L4,Percutaneous Endoscopic,0Y3L,2016,2027
+0Y3L4Z,No Device,0Y3L4,2016,2027
+0Y3L4ZZ,"Control Bleeding in Left Ankle Region, Percutaneous Endoscopic Approach",0Y3L4Z,2016,2027
+0Y3M,"Foot, Right",0Y3,2016,2027
+0Y3M0,Open,0Y3M,2016,2027
+0Y3M0Z,No Device,0Y3M0,2016,2027
+0Y3M0ZZ,"Control Bleeding in Right Foot, Open Approach",0Y3M0Z,2016,2027
+0Y3M3,Percutaneous,0Y3M,2016,2027
+0Y3M3Z,No Device,0Y3M3,2016,2027
+0Y3M3ZZ,"Control Bleeding in Right Foot, Percutaneous Approach",0Y3M3Z,2016,2027
+0Y3M4,Percutaneous Endoscopic,0Y3M,2016,2027
+0Y3M4Z,No Device,0Y3M4,2016,2027
+0Y3M4ZZ,"Control Bleeding in Right Foot, Percutaneous Endoscopic Approach",0Y3M4Z,2016,2027
+0Y3N,"Foot, Left",0Y3,2016,2027
+0Y3N0,Open,0Y3N,2016,2027
+0Y3N0Z,No Device,0Y3N0,2016,2027
+0Y3N0ZZ,"Control Bleeding in Left Foot, Open Approach",0Y3N0Z,2016,2027
+0Y3N3,Percutaneous,0Y3N,2016,2027
+0Y3N3Z,No Device,0Y3N3,2016,2027
+0Y3N3ZZ,"Control Bleeding in Left Foot, Percutaneous Approach",0Y3N3Z,2016,2027
+0Y3N4,Percutaneous Endoscopic,0Y3N,2016,2027
+0Y3N4Z,No Device,0Y3N4,2016,2027
+0Y3N4ZZ,"Control Bleeding in Left Foot, Percutaneous Endoscopic Approach",0Y3N4Z,2016,2027
+0Y6,Detachment,0Y,2016,2027
+0Y62,"Hindquarter, Right",0Y6,2016,2027
+0Y620,Open,0Y62,2016,2027
+0Y620Z,No Device,0Y620,2016,2027
+0Y620ZZ,"Detachment at Right Hindquarter, Open Approach",0Y620Z,2016,2027
+0Y63,"Hindquarter, Left",0Y6,2016,2027
+0Y630,Open,0Y63,2016,2027
+0Y630Z,No Device,0Y630,2016,2027
+0Y630ZZ,"Detachment at Left Hindquarter, Open Approach",0Y630Z,2016,2027
+0Y64,"Hindquarter, Bilateral",0Y6,2016,2027
+0Y640,Open,0Y64,2016,2027
+0Y640Z,No Device,0Y640,2016,2027
+0Y640ZZ,"Detachment at Bilateral Hindquarter, Open Approach",0Y640Z,2016,2027
+0Y67,"Femoral Region, Right",0Y6,2016,2027
+0Y670,Open,0Y67,2016,2027
+0Y670Z,No Device,0Y670,2016,2027
+0Y670ZZ,"Detachment at Right Femoral Region, Open Approach",0Y670Z,2016,2027
+0Y68,"Femoral Region, Left",0Y6,2016,2027
+0Y680,Open,0Y68,2016,2027
+0Y680Z,No Device,0Y680,2016,2027
+0Y680ZZ,"Detachment at Left Femoral Region, Open Approach",0Y680Z,2016,2027
+0Y6C,"Upper Leg, Right",0Y6,2016,2027
+0Y6C0,Open,0Y6C,2016,2027
+0Y6C0Z,No Device,0Y6C0,2016,2027
+0Y6C0Z1,"Detachment at Right Upper Leg, High, Open Approach",0Y6C0Z,2016,2027
+0Y6C0Z2,"Detachment at Right Upper Leg, Mid, Open Approach",0Y6C0Z,2016,2027
+0Y6C0Z3,"Detachment at Right Upper Leg, Low, Open Approach",0Y6C0Z,2016,2027
+0Y6D,"Upper Leg, Left",0Y6,2016,2027
+0Y6D0,Open,0Y6D,2016,2027
+0Y6D0Z,No Device,0Y6D0,2016,2027
+0Y6D0Z1,"Detachment at Left Upper Leg, High, Open Approach",0Y6D0Z,2016,2027
+0Y6D0Z2,"Detachment at Left Upper Leg, Mid, Open Approach",0Y6D0Z,2016,2027
+0Y6D0Z3,"Detachment at Left Upper Leg, Low, Open Approach",0Y6D0Z,2016,2027
+0Y6F,"Knee Region, Right",0Y6,2016,2027
+0Y6F0,Open,0Y6F,2016,2027
+0Y6F0Z,No Device,0Y6F0,2016,2027
+0Y6F0ZZ,"Detachment at Right Knee Region, Open Approach",0Y6F0Z,2016,2027
+0Y6G,"Knee Region, Left",0Y6,2016,2027
+0Y6G0,Open,0Y6G,2016,2027
+0Y6G0Z,No Device,0Y6G0,2016,2027
+0Y6G0ZZ,"Detachment at Left Knee Region, Open Approach",0Y6G0Z,2016,2027
+0Y6H,"Lower Leg, Right",0Y6,2016,2027
+0Y6H0,Open,0Y6H,2016,2027
+0Y6H0Z,No Device,0Y6H0,2016,2027
+0Y6H0Z1,"Detachment at Right Lower Leg, High, Open Approach",0Y6H0Z,2016,2027
+0Y6H0Z2,"Detachment at Right Lower Leg, Mid, Open Approach",0Y6H0Z,2016,2027
+0Y6H0Z3,"Detachment at Right Lower Leg, Low, Open Approach",0Y6H0Z,2016,2027
+0Y6J,"Lower Leg, Left",0Y6,2016,2027
+0Y6J0,Open,0Y6J,2016,2027
+0Y6J0Z,No Device,0Y6J0,2016,2027
+0Y6J0Z1,"Detachment at Left Lower Leg, High, Open Approach",0Y6J0Z,2016,2027
+0Y6J0Z2,"Detachment at Left Lower Leg, Mid, Open Approach",0Y6J0Z,2016,2027
+0Y6J0Z3,"Detachment at Left Lower Leg, Low, Open Approach",0Y6J0Z,2016,2027
+0Y6M,"Foot, Right",0Y6,2016,2027
+0Y6M0,Open,0Y6M,2016,2027
+0Y6M0Z,No Device,0Y6M0,2016,2027
+0Y6M0Z0,"Detachment at Right Foot, Complete, Open Approach",0Y6M0Z,2016,2027
+0Y6M0Z4,"Detachment at Right Foot, Complete 1st Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0Z5,"Detachment at Right Foot, Complete 2nd Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0Z6,"Detachment at Right Foot, Complete 3rd Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0Z7,"Detachment at Right Foot, Complete 4th Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0Z8,"Detachment at Right Foot, Complete 5th Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0Z9,"Detachment at Right Foot, Partial 1st Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0ZB,"Detachment at Right Foot, Partial 2nd Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0ZC,"Detachment at Right Foot, Partial 3rd Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0ZD,"Detachment at Right Foot, Partial 4th Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6M0ZF,"Detachment at Right Foot, Partial 5th Ray, Open Approach",0Y6M0Z,2016,2027
+0Y6N,"Foot, Left",0Y6,2016,2027
+0Y6N0,Open,0Y6N,2016,2027
+0Y6N0Z,No Device,0Y6N0,2016,2027
+0Y6N0Z0,"Detachment at Left Foot, Complete, Open Approach",0Y6N0Z,2016,2027
+0Y6N0Z4,"Detachment at Left Foot, Complete 1st Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0Z5,"Detachment at Left Foot, Complete 2nd Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0Z6,"Detachment at Left Foot, Complete 3rd Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0Z7,"Detachment at Left Foot, Complete 4th Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0Z8,"Detachment at Left Foot, Complete 5th Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0Z9,"Detachment at Left Foot, Partial 1st Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0ZB,"Detachment at Left Foot, Partial 2nd Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0ZC,"Detachment at Left Foot, Partial 3rd Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0ZD,"Detachment at Left Foot, Partial 4th Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6N0ZF,"Detachment at Left Foot, Partial 5th Ray, Open Approach",0Y6N0Z,2016,2027
+0Y6P,"1st Toe, Right",0Y6,2016,2027
+0Y6P0,Open,0Y6P,2016,2027
+0Y6P0Z,No Device,0Y6P0,2016,2027
+0Y6P0Z0,"Detachment at Right 1st Toe, Complete, Open Approach",0Y6P0Z,2016,2027
+0Y6P0Z1,"Detachment at Right 1st Toe, High, Open Approach",0Y6P0Z,2016,2027
+0Y6P0Z2,"Detachment at Right 1st Toe, Mid, Open Approach",0Y6P0Z,2016,2023
+0Y6P0Z3,"Detachment at Right 1st Toe, Low, Open Approach",0Y6P0Z,2016,2027
+0Y6Q,"1st Toe, Left",0Y6,2016,2027
+0Y6Q0,Open,0Y6Q,2016,2027
+0Y6Q0Z,No Device,0Y6Q0,2016,2027
+0Y6Q0Z0,"Detachment at Left 1st Toe, Complete, Open Approach",0Y6Q0Z,2016,2027
+0Y6Q0Z1,"Detachment at Left 1st Toe, High, Open Approach",0Y6Q0Z,2016,2027
+0Y6Q0Z2,"Detachment at Left 1st Toe, Mid, Open Approach",0Y6Q0Z,2016,2023
+0Y6Q0Z3,"Detachment at Left 1st Toe, Low, Open Approach",0Y6Q0Z,2016,2027
+0Y6R,"2nd Toe, Right",0Y6,2016,2027
+0Y6R0,Open,0Y6R,2016,2027
+0Y6R0Z,No Device,0Y6R0,2016,2027
+0Y6R0Z0,"Detachment at Right 2nd Toe, Complete, Open Approach",0Y6R0Z,2016,2027
+0Y6R0Z1,"Detachment at Right 2nd Toe, High, Open Approach",0Y6R0Z,2016,2027
+0Y6R0Z2,"Detachment at Right 2nd Toe, Mid, Open Approach",0Y6R0Z,2016,2027
+0Y6R0Z3,"Detachment at Right 2nd Toe, Low, Open Approach",0Y6R0Z,2016,2027
+0Y6S,"2nd Toe, Left",0Y6,2016,2027
+0Y6S0,Open,0Y6S,2016,2027
+0Y6S0Z,No Device,0Y6S0,2016,2027
+0Y6S0Z0,"Detachment at Left 2nd Toe, Complete, Open Approach",0Y6S0Z,2016,2027
+0Y6S0Z1,"Detachment at Left 2nd Toe, High, Open Approach",0Y6S0Z,2016,2027
+0Y6S0Z2,"Detachment at Left 2nd Toe, Mid, Open Approach",0Y6S0Z,2016,2027
+0Y6S0Z3,"Detachment at Left 2nd Toe, Low, Open Approach",0Y6S0Z,2016,2027
+0Y6T,"3rd Toe, Right",0Y6,2016,2027
+0Y6T0,Open,0Y6T,2016,2027
+0Y6T0Z,No Device,0Y6T0,2016,2027
+0Y6T0Z0,"Detachment at Right 3rd Toe, Complete, Open Approach",0Y6T0Z,2016,2027
+0Y6T0Z1,"Detachment at Right 3rd Toe, High, Open Approach",0Y6T0Z,2016,2027
+0Y6T0Z2,"Detachment at Right 3rd Toe, Mid, Open Approach",0Y6T0Z,2016,2027
+0Y6T0Z3,"Detachment at Right 3rd Toe, Low, Open Approach",0Y6T0Z,2016,2027
+0Y6U,"3rd Toe, Left",0Y6,2016,2027
+0Y6U0,Open,0Y6U,2016,2027
+0Y6U0Z,No Device,0Y6U0,2016,2027
+0Y6U0Z0,"Detachment at Left 3rd Toe, Complete, Open Approach",0Y6U0Z,2016,2027
+0Y6U0Z1,"Detachment at Left 3rd Toe, High, Open Approach",0Y6U0Z,2016,2027
+0Y6U0Z2,"Detachment at Left 3rd Toe, Mid, Open Approach",0Y6U0Z,2016,2027
+0Y6U0Z3,"Detachment at Left 3rd Toe, Low, Open Approach",0Y6U0Z,2016,2027
+0Y6V,"4th Toe, Right",0Y6,2016,2027
+0Y6V0,Open,0Y6V,2016,2027
+0Y6V0Z,No Device,0Y6V0,2016,2027
+0Y6V0Z0,"Detachment at Right 4th Toe, Complete, Open Approach",0Y6V0Z,2016,2027
+0Y6V0Z1,"Detachment at Right 4th Toe, High, Open Approach",0Y6V0Z,2016,2027
+0Y6V0Z2,"Detachment at Right 4th Toe, Mid, Open Approach",0Y6V0Z,2016,2027
+0Y6V0Z3,"Detachment at Right 4th Toe, Low, Open Approach",0Y6V0Z,2016,2027
+0Y6W,"4th Toe, Left",0Y6,2016,2027
+0Y6W0,Open,0Y6W,2016,2027
+0Y6W0Z,No Device,0Y6W0,2016,2027
+0Y6W0Z0,"Detachment at Left 4th Toe, Complete, Open Approach",0Y6W0Z,2016,2027
+0Y6W0Z1,"Detachment at Left 4th Toe, High, Open Approach",0Y6W0Z,2016,2027
+0Y6W0Z2,"Detachment at Left 4th Toe, Mid, Open Approach",0Y6W0Z,2016,2027
+0Y6W0Z3,"Detachment at Left 4th Toe, Low, Open Approach",0Y6W0Z,2016,2027
+0Y6X,"5th Toe, Right",0Y6,2016,2027
+0Y6X0,Open,0Y6X,2016,2027
+0Y6X0Z,No Device,0Y6X0,2016,2027
+0Y6X0Z0,"Detachment at Right 5th Toe, Complete, Open Approach",0Y6X0Z,2016,2027
+0Y6X0Z1,"Detachment at Right 5th Toe, High, Open Approach",0Y6X0Z,2016,2027
+0Y6X0Z2,"Detachment at Right 5th Toe, Mid, Open Approach",0Y6X0Z,2016,2027
+0Y6X0Z3,"Detachment at Right 5th Toe, Low, Open Approach",0Y6X0Z,2016,2027
+0Y6Y,"5th Toe, Left",0Y6,2016,2027
+0Y6Y0,Open,0Y6Y,2016,2027
+0Y6Y0Z,No Device,0Y6Y0,2016,2027
+0Y6Y0Z0,"Detachment at Left 5th Toe, Complete, Open Approach",0Y6Y0Z,2016,2027
+0Y6Y0Z1,"Detachment at Left 5th Toe, High, Open Approach",0Y6Y0Z,2016,2027
+0Y6Y0Z2,"Detachment at Left 5th Toe, Mid, Open Approach",0Y6Y0Z,2016,2027
+0Y6Y0Z3,"Detachment at Left 5th Toe, Low, Open Approach",0Y6Y0Z,2016,2027
+0Y9,Drainage,0Y,2016,2027
+0Y90,"Buttock, Right",0Y9,2016,2027
+0Y900,Open,0Y90,2016,2027
+0Y9000,Drainage Device,0Y900,2016,2027
+0Y9000Z,"Drainage of Right Buttock with Drainage Device, Open Approach",0Y9000,2016,2027
+0Y900Z,No Device,0Y900,2016,2027
+0Y900ZX,"Drainage of Right Buttock, Open Approach, Diagnostic",0Y900Z,2016,2027
+0Y900ZZ,"Drainage of Right Buttock, Open Approach",0Y900Z,2016,2027
+0Y903,Percutaneous,0Y90,2016,2027
+0Y9030,Drainage Device,0Y903,2016,2027
+0Y9030Z,"Drainage of Right Buttock with Drainage Device, Percutaneous Approach",0Y9030,2016,2027
+0Y903Z,No Device,0Y903,2016,2027
+0Y903ZX,"Drainage of Right Buttock, Percutaneous Approach, Diagnostic",0Y903Z,2016,2027
+0Y903ZZ,"Drainage of Right Buttock, Percutaneous Approach",0Y903Z,2016,2027
+0Y904,Percutaneous Endoscopic,0Y90,2016,2027
+0Y9040,Drainage Device,0Y904,2016,2027
+0Y9040Z,"Drainage of Right Buttock with Drainage Device, Percutaneous Endoscopic Approach",0Y9040,2016,2027
+0Y904Z,No Device,0Y904,2016,2027
+0Y904ZX,"Drainage of Right Buttock, Percutaneous Endoscopic Approach, Diagnostic",0Y904Z,2016,2027
+0Y904ZZ,"Drainage of Right Buttock, Percutaneous Endoscopic Approach",0Y904Z,2016,2027
+0Y91,"Buttock, Left",0Y9,2016,2027
+0Y910,Open,0Y91,2016,2027
+0Y9100,Drainage Device,0Y910,2016,2027
+0Y9100Z,"Drainage of Left Buttock with Drainage Device, Open Approach",0Y9100,2016,2027
+0Y910Z,No Device,0Y910,2016,2027
+0Y910ZX,"Drainage of Left Buttock, Open Approach, Diagnostic",0Y910Z,2016,2027
+0Y910ZZ,"Drainage of Left Buttock, Open Approach",0Y910Z,2016,2027
+0Y913,Percutaneous,0Y91,2016,2027
+0Y9130,Drainage Device,0Y913,2016,2027
+0Y9130Z,"Drainage of Left Buttock with Drainage Device, Percutaneous Approach",0Y9130,2016,2027
+0Y913Z,No Device,0Y913,2016,2027
+0Y913ZX,"Drainage of Left Buttock, Percutaneous Approach, Diagnostic",0Y913Z,2016,2027
+0Y913ZZ,"Drainage of Left Buttock, Percutaneous Approach",0Y913Z,2016,2027
+0Y914,Percutaneous Endoscopic,0Y91,2016,2027
+0Y9140,Drainage Device,0Y914,2016,2027
+0Y9140Z,"Drainage of Left Buttock with Drainage Device, Percutaneous Endoscopic Approach",0Y9140,2016,2027
+0Y914Z,No Device,0Y914,2016,2027
+0Y914ZX,"Drainage of Left Buttock, Percutaneous Endoscopic Approach, Diagnostic",0Y914Z,2016,2027
+0Y914ZZ,"Drainage of Left Buttock, Percutaneous Endoscopic Approach",0Y914Z,2016,2027
+0Y95,"Inguinal Region, Right",0Y9,2016,2027
+0Y950,Open,0Y95,2016,2027
+0Y9500,Drainage Device,0Y950,2016,2027
+0Y9500Z,"Drainage of Right Inguinal Region with Drainage Device, Open Approach",0Y9500,2016,2027
+0Y950Z,No Device,0Y950,2016,2027
+0Y950ZX,"Drainage of Right Inguinal Region, Open Approach, Diagnostic",0Y950Z,2016,2027
+0Y950ZZ,"Drainage of Right Inguinal Region, Open Approach",0Y950Z,2016,2027
+0Y953,Percutaneous,0Y95,2016,2027
+0Y9530,Drainage Device,0Y953,2016,2027
+0Y9530Z,"Drainage of Right Inguinal Region with Drainage Device, Percutaneous Approach",0Y9530,2016,2027
+0Y953Z,No Device,0Y953,2016,2027
+0Y953ZX,"Drainage of Right Inguinal Region, Percutaneous Approach, Diagnostic",0Y953Z,2016,2027
+0Y953ZZ,"Drainage of Right Inguinal Region, Percutaneous Approach",0Y953Z,2016,2027
+0Y954,Percutaneous Endoscopic,0Y95,2016,2027
+0Y9540,Drainage Device,0Y954,2016,2027
+0Y9540Z,"Drainage of Right Inguinal Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9540,2016,2027
+0Y954Z,No Device,0Y954,2016,2027
+0Y954ZX,"Drainage of Right Inguinal Region, Percutaneous Endoscopic Approach, Diagnostic",0Y954Z,2016,2027
+0Y954ZZ,"Drainage of Right Inguinal Region, Percutaneous Endoscopic Approach",0Y954Z,2016,2027
+0Y96,"Inguinal Region, Left",0Y9,2016,2027
+0Y960,Open,0Y96,2016,2027
+0Y9600,Drainage Device,0Y960,2016,2027
+0Y9600Z,"Drainage of Left Inguinal Region with Drainage Device, Open Approach",0Y9600,2016,2027
+0Y960Z,No Device,0Y960,2016,2027
+0Y960ZX,"Drainage of Left Inguinal Region, Open Approach, Diagnostic",0Y960Z,2016,2027
+0Y960ZZ,"Drainage of Left Inguinal Region, Open Approach",0Y960Z,2016,2027
+0Y963,Percutaneous,0Y96,2016,2027
+0Y9630,Drainage Device,0Y963,2016,2027
+0Y9630Z,"Drainage of Left Inguinal Region with Drainage Device, Percutaneous Approach",0Y9630,2016,2027
+0Y963Z,No Device,0Y963,2016,2027
+0Y963ZX,"Drainage of Left Inguinal Region, Percutaneous Approach, Diagnostic",0Y963Z,2016,2027
+0Y963ZZ,"Drainage of Left Inguinal Region, Percutaneous Approach",0Y963Z,2016,2027
+0Y964,Percutaneous Endoscopic,0Y96,2016,2027
+0Y9640,Drainage Device,0Y964,2016,2027
+0Y9640Z,"Drainage of Left Inguinal Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9640,2016,2027
+0Y964Z,No Device,0Y964,2016,2027
+0Y964ZX,"Drainage of Left Inguinal Region, Percutaneous Endoscopic Approach, Diagnostic",0Y964Z,2016,2027
+0Y964ZZ,"Drainage of Left Inguinal Region, Percutaneous Endoscopic Approach",0Y964Z,2016,2027
+0Y97,"Femoral Region, Right",0Y9,2016,2027
+0Y970,Open,0Y97,2016,2027
+0Y9700,Drainage Device,0Y970,2016,2027
+0Y9700Z,"Drainage of Right Femoral Region with Drainage Device, Open Approach",0Y9700,2016,2027
+0Y970Z,No Device,0Y970,2016,2027
+0Y970ZX,"Drainage of Right Femoral Region, Open Approach, Diagnostic",0Y970Z,2016,2027
+0Y970ZZ,"Drainage of Right Femoral Region, Open Approach",0Y970Z,2016,2027
+0Y973,Percutaneous,0Y97,2016,2027
+0Y9730,Drainage Device,0Y973,2016,2027
+0Y9730Z,"Drainage of Right Femoral Region with Drainage Device, Percutaneous Approach",0Y9730,2016,2027
+0Y973Z,No Device,0Y973,2016,2027
+0Y973ZX,"Drainage of Right Femoral Region, Percutaneous Approach, Diagnostic",0Y973Z,2016,2027
+0Y973ZZ,"Drainage of Right Femoral Region, Percutaneous Approach",0Y973Z,2016,2027
+0Y974,Percutaneous Endoscopic,0Y97,2016,2027
+0Y9740,Drainage Device,0Y974,2016,2027
+0Y9740Z,"Drainage of Right Femoral Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9740,2016,2027
+0Y974Z,No Device,0Y974,2016,2027
+0Y974ZX,"Drainage of Right Femoral Region, Percutaneous Endoscopic Approach, Diagnostic",0Y974Z,2016,2027
+0Y974ZZ,"Drainage of Right Femoral Region, Percutaneous Endoscopic Approach",0Y974Z,2016,2027
+0Y98,"Femoral Region, Left",0Y9,2016,2027
+0Y980,Open,0Y98,2016,2027
+0Y9800,Drainage Device,0Y980,2016,2027
+0Y9800Z,"Drainage of Left Femoral Region with Drainage Device, Open Approach",0Y9800,2016,2027
+0Y980Z,No Device,0Y980,2016,2027
+0Y980ZX,"Drainage of Left Femoral Region, Open Approach, Diagnostic",0Y980Z,2016,2027
+0Y980ZZ,"Drainage of Left Femoral Region, Open Approach",0Y980Z,2016,2027
+0Y983,Percutaneous,0Y98,2016,2027
+0Y9830,Drainage Device,0Y983,2016,2027
+0Y9830Z,"Drainage of Left Femoral Region with Drainage Device, Percutaneous Approach",0Y9830,2016,2027
+0Y983Z,No Device,0Y983,2016,2027
+0Y983ZX,"Drainage of Left Femoral Region, Percutaneous Approach, Diagnostic",0Y983Z,2016,2027
+0Y983ZZ,"Drainage of Left Femoral Region, Percutaneous Approach",0Y983Z,2016,2027
+0Y984,Percutaneous Endoscopic,0Y98,2016,2027
+0Y9840,Drainage Device,0Y984,2016,2027
+0Y9840Z,"Drainage of Left Femoral Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9840,2016,2027
+0Y984Z,No Device,0Y984,2016,2027
+0Y984ZX,"Drainage of Left Femoral Region, Percutaneous Endoscopic Approach, Diagnostic",0Y984Z,2016,2027
+0Y984ZZ,"Drainage of Left Femoral Region, Percutaneous Endoscopic Approach",0Y984Z,2016,2027
+0Y99,"Lower Extremity, Right",0Y9,2016,2027
+0Y990,Open,0Y99,2016,2027
+0Y9900,Drainage Device,0Y990,2016,2027
+0Y9900Z,"Drainage of Right Lower Extremity with Drainage Device, Open Approach",0Y9900,2016,2027
+0Y990Z,No Device,0Y990,2016,2027
+0Y990ZX,"Drainage of Right Lower Extremity, Open Approach, Diagnostic",0Y990Z,2016,2027
+0Y990ZZ,"Drainage of Right Lower Extremity, Open Approach",0Y990Z,2016,2027
+0Y993,Percutaneous,0Y99,2016,2027
+0Y9930,Drainage Device,0Y993,2016,2027
+0Y9930Z,"Drainage of Right Lower Extremity with Drainage Device, Percutaneous Approach",0Y9930,2016,2027
+0Y993Z,No Device,0Y993,2016,2027
+0Y993ZX,"Drainage of Right Lower Extremity, Percutaneous Approach, Diagnostic",0Y993Z,2016,2027
+0Y993ZZ,"Drainage of Right Lower Extremity, Percutaneous Approach",0Y993Z,2016,2027
+0Y994,Percutaneous Endoscopic,0Y99,2016,2027
+0Y9940,Drainage Device,0Y994,2016,2027
+0Y9940Z,"Drainage of Right Lower Extremity with Drainage Device, Percutaneous Endoscopic Approach",0Y9940,2016,2027
+0Y994Z,No Device,0Y994,2016,2027
+0Y994ZX,"Drainage of Right Lower Extremity, Percutaneous Endoscopic Approach, Diagnostic",0Y994Z,2016,2027
+0Y994ZZ,"Drainage of Right Lower Extremity, Percutaneous Endoscopic Approach",0Y994Z,2016,2027
+0Y9B,"Lower Extremity, Left",0Y9,2016,2027
+0Y9B0,Open,0Y9B,2016,2027
+0Y9B00,Drainage Device,0Y9B0,2016,2027
+0Y9B00Z,"Drainage of Left Lower Extremity with Drainage Device, Open Approach",0Y9B00,2016,2027
+0Y9B0Z,No Device,0Y9B0,2016,2027
+0Y9B0ZX,"Drainage of Left Lower Extremity, Open Approach, Diagnostic",0Y9B0Z,2016,2027
+0Y9B0ZZ,"Drainage of Left Lower Extremity, Open Approach",0Y9B0Z,2016,2027
+0Y9B3,Percutaneous,0Y9B,2016,2027
+0Y9B30,Drainage Device,0Y9B3,2016,2027
+0Y9B30Z,"Drainage of Left Lower Extremity with Drainage Device, Percutaneous Approach",0Y9B30,2016,2027
+0Y9B3Z,No Device,0Y9B3,2016,2027
+0Y9B3ZX,"Drainage of Left Lower Extremity, Percutaneous Approach, Diagnostic",0Y9B3Z,2016,2027
+0Y9B3ZZ,"Drainage of Left Lower Extremity, Percutaneous Approach",0Y9B3Z,2016,2027
+0Y9B4,Percutaneous Endoscopic,0Y9B,2016,2027
+0Y9B40,Drainage Device,0Y9B4,2016,2027
+0Y9B40Z,"Drainage of Left Lower Extremity with Drainage Device, Percutaneous Endoscopic Approach",0Y9B40,2016,2027
+0Y9B4Z,No Device,0Y9B4,2016,2027
+0Y9B4ZX,"Drainage of Left Lower Extremity, Percutaneous Endoscopic Approach, Diagnostic",0Y9B4Z,2016,2027
+0Y9B4ZZ,"Drainage of Left Lower Extremity, Percutaneous Endoscopic Approach",0Y9B4Z,2016,2027
+0Y9C,"Upper Leg, Right",0Y9,2016,2027
+0Y9C0,Open,0Y9C,2016,2027
+0Y9C00,Drainage Device,0Y9C0,2016,2027
+0Y9C00Z,"Drainage of Right Upper Leg with Drainage Device, Open Approach",0Y9C00,2016,2027
+0Y9C0Z,No Device,0Y9C0,2016,2027
+0Y9C0ZX,"Drainage of Right Upper Leg, Open Approach, Diagnostic",0Y9C0Z,2016,2027
+0Y9C0ZZ,"Drainage of Right Upper Leg, Open Approach",0Y9C0Z,2016,2027
+0Y9C3,Percutaneous,0Y9C,2016,2027
+0Y9C30,Drainage Device,0Y9C3,2016,2027
+0Y9C30Z,"Drainage of Right Upper Leg with Drainage Device, Percutaneous Approach",0Y9C30,2016,2027
+0Y9C3Z,No Device,0Y9C3,2016,2027
+0Y9C3ZX,"Drainage of Right Upper Leg, Percutaneous Approach, Diagnostic",0Y9C3Z,2016,2027
+0Y9C3ZZ,"Drainage of Right Upper Leg, Percutaneous Approach",0Y9C3Z,2016,2027
+0Y9C4,Percutaneous Endoscopic,0Y9C,2016,2027
+0Y9C40,Drainage Device,0Y9C4,2016,2027
+0Y9C40Z,"Drainage of Right Upper Leg with Drainage Device, Percutaneous Endoscopic Approach",0Y9C40,2016,2027
+0Y9C4Z,No Device,0Y9C4,2016,2027
+0Y9C4ZX,"Drainage of Right Upper Leg, Percutaneous Endoscopic Approach, Diagnostic",0Y9C4Z,2016,2027
+0Y9C4ZZ,"Drainage of Right Upper Leg, Percutaneous Endoscopic Approach",0Y9C4Z,2016,2027
+0Y9D,"Upper Leg, Left",0Y9,2016,2027
+0Y9D0,Open,0Y9D,2016,2027
+0Y9D00,Drainage Device,0Y9D0,2016,2027
+0Y9D00Z,"Drainage of Left Upper Leg with Drainage Device, Open Approach",0Y9D00,2016,2027
+0Y9D0Z,No Device,0Y9D0,2016,2027
+0Y9D0ZX,"Drainage of Left Upper Leg, Open Approach, Diagnostic",0Y9D0Z,2016,2027
+0Y9D0ZZ,"Drainage of Left Upper Leg, Open Approach",0Y9D0Z,2016,2027
+0Y9D3,Percutaneous,0Y9D,2016,2027
+0Y9D30,Drainage Device,0Y9D3,2016,2027
+0Y9D30Z,"Drainage of Left Upper Leg with Drainage Device, Percutaneous Approach",0Y9D30,2016,2027
+0Y9D3Z,No Device,0Y9D3,2016,2027
+0Y9D3ZX,"Drainage of Left Upper Leg, Percutaneous Approach, Diagnostic",0Y9D3Z,2016,2027
+0Y9D3ZZ,"Drainage of Left Upper Leg, Percutaneous Approach",0Y9D3Z,2016,2027
+0Y9D4,Percutaneous Endoscopic,0Y9D,2016,2027
+0Y9D40,Drainage Device,0Y9D4,2016,2027
+0Y9D40Z,"Drainage of Left Upper Leg with Drainage Device, Percutaneous Endoscopic Approach",0Y9D40,2016,2027
+0Y9D4Z,No Device,0Y9D4,2016,2027
+0Y9D4ZX,"Drainage of Left Upper Leg, Percutaneous Endoscopic Approach, Diagnostic",0Y9D4Z,2016,2027
+0Y9D4ZZ,"Drainage of Left Upper Leg, Percutaneous Endoscopic Approach",0Y9D4Z,2016,2027
+0Y9F,"Knee Region, Right",0Y9,2016,2027
+0Y9F0,Open,0Y9F,2016,2027
+0Y9F00,Drainage Device,0Y9F0,2016,2027
+0Y9F00Z,"Drainage of Right Knee Region with Drainage Device, Open Approach",0Y9F00,2016,2027
+0Y9F0Z,No Device,0Y9F0,2016,2027
+0Y9F0ZX,"Drainage of Right Knee Region, Open Approach, Diagnostic",0Y9F0Z,2016,2027
+0Y9F0ZZ,"Drainage of Right Knee Region, Open Approach",0Y9F0Z,2016,2027
+0Y9F3,Percutaneous,0Y9F,2016,2027
+0Y9F30,Drainage Device,0Y9F3,2016,2027
+0Y9F30Z,"Drainage of Right Knee Region with Drainage Device, Percutaneous Approach",0Y9F30,2016,2027
+0Y9F3Z,No Device,0Y9F3,2016,2027
+0Y9F3ZX,"Drainage of Right Knee Region, Percutaneous Approach, Diagnostic",0Y9F3Z,2016,2027
+0Y9F3ZZ,"Drainage of Right Knee Region, Percutaneous Approach",0Y9F3Z,2016,2027
+0Y9F4,Percutaneous Endoscopic,0Y9F,2016,2027
+0Y9F40,Drainage Device,0Y9F4,2016,2027
+0Y9F40Z,"Drainage of Right Knee Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9F40,2016,2027
+0Y9F4Z,No Device,0Y9F4,2016,2027
+0Y9F4ZX,"Drainage of Right Knee Region, Percutaneous Endoscopic Approach, Diagnostic",0Y9F4Z,2016,2027
+0Y9F4ZZ,"Drainage of Right Knee Region, Percutaneous Endoscopic Approach",0Y9F4Z,2016,2027
+0Y9G,"Knee Region, Left",0Y9,2016,2027
+0Y9G0,Open,0Y9G,2016,2027
+0Y9G00,Drainage Device,0Y9G0,2016,2027
+0Y9G00Z,"Drainage of Left Knee Region with Drainage Device, Open Approach",0Y9G00,2016,2027
+0Y9G0Z,No Device,0Y9G0,2016,2027
+0Y9G0ZX,"Drainage of Left Knee Region, Open Approach, Diagnostic",0Y9G0Z,2016,2027
+0Y9G0ZZ,"Drainage of Left Knee Region, Open Approach",0Y9G0Z,2016,2027
+0Y9G3,Percutaneous,0Y9G,2016,2027
+0Y9G30,Drainage Device,0Y9G3,2016,2027
+0Y9G30Z,"Drainage of Left Knee Region with Drainage Device, Percutaneous Approach",0Y9G30,2016,2027
+0Y9G3Z,No Device,0Y9G3,2016,2027
+0Y9G3ZX,"Drainage of Left Knee Region, Percutaneous Approach, Diagnostic",0Y9G3Z,2016,2027
+0Y9G3ZZ,"Drainage of Left Knee Region, Percutaneous Approach",0Y9G3Z,2016,2027
+0Y9G4,Percutaneous Endoscopic,0Y9G,2016,2027
+0Y9G40,Drainage Device,0Y9G4,2016,2027
+0Y9G40Z,"Drainage of Left Knee Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9G40,2016,2027
+0Y9G4Z,No Device,0Y9G4,2016,2027
+0Y9G4ZX,"Drainage of Left Knee Region, Percutaneous Endoscopic Approach, Diagnostic",0Y9G4Z,2016,2027
+0Y9G4ZZ,"Drainage of Left Knee Region, Percutaneous Endoscopic Approach",0Y9G4Z,2016,2027
+0Y9H,"Lower Leg, Right",0Y9,2016,2027
+0Y9H0,Open,0Y9H,2016,2027
+0Y9H00,Drainage Device,0Y9H0,2016,2027
+0Y9H00Z,"Drainage of Right Lower Leg with Drainage Device, Open Approach",0Y9H00,2016,2027
+0Y9H0Z,No Device,0Y9H0,2016,2027
+0Y9H0ZX,"Drainage of Right Lower Leg, Open Approach, Diagnostic",0Y9H0Z,2016,2027
+0Y9H0ZZ,"Drainage of Right Lower Leg, Open Approach",0Y9H0Z,2016,2027
+0Y9H3,Percutaneous,0Y9H,2016,2027
+0Y9H30,Drainage Device,0Y9H3,2016,2027
+0Y9H30Z,"Drainage of Right Lower Leg with Drainage Device, Percutaneous Approach",0Y9H30,2016,2027
+0Y9H3Z,No Device,0Y9H3,2016,2027
+0Y9H3ZX,"Drainage of Right Lower Leg, Percutaneous Approach, Diagnostic",0Y9H3Z,2016,2027
+0Y9H3ZZ,"Drainage of Right Lower Leg, Percutaneous Approach",0Y9H3Z,2016,2027
+0Y9H4,Percutaneous Endoscopic,0Y9H,2016,2027
+0Y9H40,Drainage Device,0Y9H4,2016,2027
+0Y9H40Z,"Drainage of Right Lower Leg with Drainage Device, Percutaneous Endoscopic Approach",0Y9H40,2016,2027
+0Y9H4Z,No Device,0Y9H4,2016,2027
+0Y9H4ZX,"Drainage of Right Lower Leg, Percutaneous Endoscopic Approach, Diagnostic",0Y9H4Z,2016,2027
+0Y9H4ZZ,"Drainage of Right Lower Leg, Percutaneous Endoscopic Approach",0Y9H4Z,2016,2027
+0Y9J,"Lower Leg, Left",0Y9,2016,2027
+0Y9J0,Open,0Y9J,2016,2027
+0Y9J00,Drainage Device,0Y9J0,2016,2027
+0Y9J00Z,"Drainage of Left Lower Leg with Drainage Device, Open Approach",0Y9J00,2016,2027
+0Y9J0Z,No Device,0Y9J0,2016,2027
+0Y9J0ZX,"Drainage of Left Lower Leg, Open Approach, Diagnostic",0Y9J0Z,2016,2027
+0Y9J0ZZ,"Drainage of Left Lower Leg, Open Approach",0Y9J0Z,2016,2027
+0Y9J3,Percutaneous,0Y9J,2016,2027
+0Y9J30,Drainage Device,0Y9J3,2016,2027
+0Y9J30Z,"Drainage of Left Lower Leg with Drainage Device, Percutaneous Approach",0Y9J30,2016,2027
+0Y9J3Z,No Device,0Y9J3,2016,2027
+0Y9J3ZX,"Drainage of Left Lower Leg, Percutaneous Approach, Diagnostic",0Y9J3Z,2016,2027
+0Y9J3ZZ,"Drainage of Left Lower Leg, Percutaneous Approach",0Y9J3Z,2016,2027
+0Y9J4,Percutaneous Endoscopic,0Y9J,2016,2027
+0Y9J40,Drainage Device,0Y9J4,2016,2027
+0Y9J40Z,"Drainage of Left Lower Leg with Drainage Device, Percutaneous Endoscopic Approach",0Y9J40,2016,2027
+0Y9J4Z,No Device,0Y9J4,2016,2027
+0Y9J4ZX,"Drainage of Left Lower Leg, Percutaneous Endoscopic Approach, Diagnostic",0Y9J4Z,2016,2027
+0Y9J4ZZ,"Drainage of Left Lower Leg, Percutaneous Endoscopic Approach",0Y9J4Z,2016,2027
+0Y9K,"Ankle Region, Right",0Y9,2016,2027
+0Y9K0,Open,0Y9K,2016,2027
+0Y9K00,Drainage Device,0Y9K0,2016,2027
+0Y9K00Z,"Drainage of Right Ankle Region with Drainage Device, Open Approach",0Y9K00,2016,2027
+0Y9K0Z,No Device,0Y9K0,2016,2027
+0Y9K0ZX,"Drainage of Right Ankle Region, Open Approach, Diagnostic",0Y9K0Z,2016,2027
+0Y9K0ZZ,"Drainage of Right Ankle Region, Open Approach",0Y9K0Z,2016,2027
+0Y9K3,Percutaneous,0Y9K,2016,2027
+0Y9K30,Drainage Device,0Y9K3,2016,2027
+0Y9K30Z,"Drainage of Right Ankle Region with Drainage Device, Percutaneous Approach",0Y9K30,2016,2027
+0Y9K3Z,No Device,0Y9K3,2016,2027
+0Y9K3ZX,"Drainage of Right Ankle Region, Percutaneous Approach, Diagnostic",0Y9K3Z,2016,2027
+0Y9K3ZZ,"Drainage of Right Ankle Region, Percutaneous Approach",0Y9K3Z,2016,2027
+0Y9K4,Percutaneous Endoscopic,0Y9K,2016,2027
+0Y9K40,Drainage Device,0Y9K4,2016,2027
+0Y9K40Z,"Drainage of Right Ankle Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9K40,2016,2027
+0Y9K4Z,No Device,0Y9K4,2016,2027
+0Y9K4ZX,"Drainage of Right Ankle Region, Percutaneous Endoscopic Approach, Diagnostic",0Y9K4Z,2016,2027
+0Y9K4ZZ,"Drainage of Right Ankle Region, Percutaneous Endoscopic Approach",0Y9K4Z,2016,2027
+0Y9L,"Ankle Region, Left",0Y9,2016,2027
+0Y9L0,Open,0Y9L,2016,2027
+0Y9L00,Drainage Device,0Y9L0,2016,2027
+0Y9L00Z,"Drainage of Left Ankle Region with Drainage Device, Open Approach",0Y9L00,2016,2027
+0Y9L0Z,No Device,0Y9L0,2016,2027
+0Y9L0ZX,"Drainage of Left Ankle Region, Open Approach, Diagnostic",0Y9L0Z,2016,2027
+0Y9L0ZZ,"Drainage of Left Ankle Region, Open Approach",0Y9L0Z,2016,2027
+0Y9L3,Percutaneous,0Y9L,2016,2027
+0Y9L30,Drainage Device,0Y9L3,2016,2027
+0Y9L30Z,"Drainage of Left Ankle Region with Drainage Device, Percutaneous Approach",0Y9L30,2016,2027
+0Y9L3Z,No Device,0Y9L3,2016,2027
+0Y9L3ZX,"Drainage of Left Ankle Region, Percutaneous Approach, Diagnostic",0Y9L3Z,2016,2027
+0Y9L3ZZ,"Drainage of Left Ankle Region, Percutaneous Approach",0Y9L3Z,2016,2027
+0Y9L4,Percutaneous Endoscopic,0Y9L,2016,2027
+0Y9L40,Drainage Device,0Y9L4,2016,2027
+0Y9L40Z,"Drainage of Left Ankle Region with Drainage Device, Percutaneous Endoscopic Approach",0Y9L40,2016,2027
+0Y9L4Z,No Device,0Y9L4,2016,2027
+0Y9L4ZX,"Drainage of Left Ankle Region, Percutaneous Endoscopic Approach, Diagnostic",0Y9L4Z,2016,2027
+0Y9L4ZZ,"Drainage of Left Ankle Region, Percutaneous Endoscopic Approach",0Y9L4Z,2016,2027
+0Y9M,"Foot, Right",0Y9,2016,2027
+0Y9M0,Open,0Y9M,2016,2027
+0Y9M00,Drainage Device,0Y9M0,2016,2027
+0Y9M00Z,"Drainage of Right Foot with Drainage Device, Open Approach",0Y9M00,2016,2027
+0Y9M0Z,No Device,0Y9M0,2016,2027
+0Y9M0ZX,"Drainage of Right Foot, Open Approach, Diagnostic",0Y9M0Z,2016,2027
+0Y9M0ZZ,"Drainage of Right Foot, Open Approach",0Y9M0Z,2016,2027
+0Y9M3,Percutaneous,0Y9M,2016,2027
+0Y9M30,Drainage Device,0Y9M3,2016,2027
+0Y9M30Z,"Drainage of Right Foot with Drainage Device, Percutaneous Approach",0Y9M30,2016,2027
+0Y9M3Z,No Device,0Y9M3,2016,2027
+0Y9M3ZX,"Drainage of Right Foot, Percutaneous Approach, Diagnostic",0Y9M3Z,2016,2027
+0Y9M3ZZ,"Drainage of Right Foot, Percutaneous Approach",0Y9M3Z,2016,2027
+0Y9M4,Percutaneous Endoscopic,0Y9M,2016,2027
+0Y9M40,Drainage Device,0Y9M4,2016,2027
+0Y9M40Z,"Drainage of Right Foot with Drainage Device, Percutaneous Endoscopic Approach",0Y9M40,2016,2027
+0Y9M4Z,No Device,0Y9M4,2016,2027
+0Y9M4ZX,"Drainage of Right Foot, Percutaneous Endoscopic Approach, Diagnostic",0Y9M4Z,2016,2027
+0Y9M4ZZ,"Drainage of Right Foot, Percutaneous Endoscopic Approach",0Y9M4Z,2016,2027
+0Y9N,"Foot, Left",0Y9,2016,2027
+0Y9N0,Open,0Y9N,2016,2027
+0Y9N00,Drainage Device,0Y9N0,2016,2027
+0Y9N00Z,"Drainage of Left Foot with Drainage Device, Open Approach",0Y9N00,2016,2027
+0Y9N0Z,No Device,0Y9N0,2016,2027
+0Y9N0ZX,"Drainage of Left Foot, Open Approach, Diagnostic",0Y9N0Z,2016,2027
+0Y9N0ZZ,"Drainage of Left Foot, Open Approach",0Y9N0Z,2016,2027
+0Y9N3,Percutaneous,0Y9N,2016,2027
+0Y9N30,Drainage Device,0Y9N3,2016,2027
+0Y9N30Z,"Drainage of Left Foot with Drainage Device, Percutaneous Approach",0Y9N30,2016,2027
+0Y9N3Z,No Device,0Y9N3,2016,2027
+0Y9N3ZX,"Drainage of Left Foot, Percutaneous Approach, Diagnostic",0Y9N3Z,2016,2027
+0Y9N3ZZ,"Drainage of Left Foot, Percutaneous Approach",0Y9N3Z,2016,2027
+0Y9N4,Percutaneous Endoscopic,0Y9N,2016,2027
+0Y9N40,Drainage Device,0Y9N4,2016,2027
+0Y9N40Z,"Drainage of Left Foot with Drainage Device, Percutaneous Endoscopic Approach",0Y9N40,2016,2027
+0Y9N4Z,No Device,0Y9N4,2016,2027
+0Y9N4ZX,"Drainage of Left Foot, Percutaneous Endoscopic Approach, Diagnostic",0Y9N4Z,2016,2027
+0Y9N4ZZ,"Drainage of Left Foot, Percutaneous Endoscopic Approach",0Y9N4Z,2016,2027
+0YB,Excision,0Y,2016,2027
+0YB0,"Buttock, Right",0YB,2016,2027
+0YB00,Open,0YB0,2016,2027
+0YB00Z,No Device,0YB00,2016,2027
+0YB00ZX,"Excision of Right Buttock, Open Approach, Diagnostic",0YB00Z,2016,2027
+0YB00ZZ,"Excision of Right Buttock, Open Approach",0YB00Z,2016,2027
+0YB03,Percutaneous,0YB0,2016,2027
+0YB03Z,No Device,0YB03,2016,2027
+0YB03ZX,"Excision of Right Buttock, Percutaneous Approach, Diagnostic",0YB03Z,2016,2027
+0YB03ZZ,"Excision of Right Buttock, Percutaneous Approach",0YB03Z,2016,2027
+0YB04,Percutaneous Endoscopic,0YB0,2016,2027
+0YB04Z,No Device,0YB04,2016,2027
+0YB04ZX,"Excision of Right Buttock, Percutaneous Endoscopic Approach, Diagnostic",0YB04Z,2016,2027
+0YB04ZZ,"Excision of Right Buttock, Percutaneous Endoscopic Approach",0YB04Z,2016,2027
+0YB1,"Buttock, Left",0YB,2016,2027
+0YB10,Open,0YB1,2016,2027
+0YB10Z,No Device,0YB10,2016,2027
+0YB10ZX,"Excision of Left Buttock, Open Approach, Diagnostic",0YB10Z,2016,2027
+0YB10ZZ,"Excision of Left Buttock, Open Approach",0YB10Z,2016,2027
+0YB13,Percutaneous,0YB1,2016,2027
+0YB13Z,No Device,0YB13,2016,2027
+0YB13ZX,"Excision of Left Buttock, Percutaneous Approach, Diagnostic",0YB13Z,2016,2027
+0YB13ZZ,"Excision of Left Buttock, Percutaneous Approach",0YB13Z,2016,2027
+0YB14,Percutaneous Endoscopic,0YB1,2016,2027
+0YB14Z,No Device,0YB14,2016,2027
+0YB14ZX,"Excision of Left Buttock, Percutaneous Endoscopic Approach, Diagnostic",0YB14Z,2016,2027
+0YB14ZZ,"Excision of Left Buttock, Percutaneous Endoscopic Approach",0YB14Z,2016,2027
+0YB5,"Inguinal Region, Right",0YB,2016,2027
+0YB50,Open,0YB5,2016,2027
+0YB50Z,No Device,0YB50,2016,2027
+0YB50ZX,"Excision of Right Inguinal Region, Open Approach, Diagnostic",0YB50Z,2016,2027
+0YB50ZZ,"Excision of Right Inguinal Region, Open Approach",0YB50Z,2016,2027
+0YB53,Percutaneous,0YB5,2016,2027
+0YB53Z,No Device,0YB53,2016,2027
+0YB53ZX,"Excision of Right Inguinal Region, Percutaneous Approach, Diagnostic",0YB53Z,2016,2027
+0YB53ZZ,"Excision of Right Inguinal Region, Percutaneous Approach",0YB53Z,2016,2027
+0YB54,Percutaneous Endoscopic,0YB5,2016,2027
+0YB54Z,No Device,0YB54,2016,2027
+0YB54ZX,"Excision of Right Inguinal Region, Percutaneous Endoscopic Approach, Diagnostic",0YB54Z,2016,2027
+0YB54ZZ,"Excision of Right Inguinal Region, Percutaneous Endoscopic Approach",0YB54Z,2016,2027
+0YB6,"Inguinal Region, Left",0YB,2016,2027
+0YB60,Open,0YB6,2016,2027
+0YB60Z,No Device,0YB60,2016,2027
+0YB60ZX,"Excision of Left Inguinal Region, Open Approach, Diagnostic",0YB60Z,2016,2027
+0YB60ZZ,"Excision of Left Inguinal Region, Open Approach",0YB60Z,2016,2027
+0YB63,Percutaneous,0YB6,2016,2027
+0YB63Z,No Device,0YB63,2016,2027
+0YB63ZX,"Excision of Left Inguinal Region, Percutaneous Approach, Diagnostic",0YB63Z,2016,2027
+0YB63ZZ,"Excision of Left Inguinal Region, Percutaneous Approach",0YB63Z,2016,2027
+0YB64,Percutaneous Endoscopic,0YB6,2016,2027
+0YB64Z,No Device,0YB64,2016,2027
+0YB64ZX,"Excision of Left Inguinal Region, Percutaneous Endoscopic Approach, Diagnostic",0YB64Z,2016,2027
+0YB64ZZ,"Excision of Left Inguinal Region, Percutaneous Endoscopic Approach",0YB64Z,2016,2027
+0YB7,"Femoral Region, Right",0YB,2016,2027
+0YB70,Open,0YB7,2016,2027
+0YB70Z,No Device,0YB70,2016,2027
+0YB70ZX,"Excision of Right Femoral Region, Open Approach, Diagnostic",0YB70Z,2016,2027
+0YB70ZZ,"Excision of Right Femoral Region, Open Approach",0YB70Z,2016,2027
+0YB73,Percutaneous,0YB7,2016,2027
+0YB73Z,No Device,0YB73,2016,2027
+0YB73ZX,"Excision of Right Femoral Region, Percutaneous Approach, Diagnostic",0YB73Z,2016,2027
+0YB73ZZ,"Excision of Right Femoral Region, Percutaneous Approach",0YB73Z,2016,2027
+0YB74,Percutaneous Endoscopic,0YB7,2016,2027
+0YB74Z,No Device,0YB74,2016,2027
+0YB74ZX,"Excision of Right Femoral Region, Percutaneous Endoscopic Approach, Diagnostic",0YB74Z,2016,2027
+0YB74ZZ,"Excision of Right Femoral Region, Percutaneous Endoscopic Approach",0YB74Z,2016,2027
+0YB8,"Femoral Region, Left",0YB,2016,2027
+0YB80,Open,0YB8,2016,2027
+0YB80Z,No Device,0YB80,2016,2027
+0YB80ZX,"Excision of Left Femoral Region, Open Approach, Diagnostic",0YB80Z,2016,2027
+0YB80ZZ,"Excision of Left Femoral Region, Open Approach",0YB80Z,2016,2027
+0YB83,Percutaneous,0YB8,2016,2027
+0YB83Z,No Device,0YB83,2016,2027
+0YB83ZX,"Excision of Left Femoral Region, Percutaneous Approach, Diagnostic",0YB83Z,2016,2027
+0YB83ZZ,"Excision of Left Femoral Region, Percutaneous Approach",0YB83Z,2016,2027
+0YB84,Percutaneous Endoscopic,0YB8,2016,2027
+0YB84Z,No Device,0YB84,2016,2027
+0YB84ZX,"Excision of Left Femoral Region, Percutaneous Endoscopic Approach, Diagnostic",0YB84Z,2016,2027
+0YB84ZZ,"Excision of Left Femoral Region, Percutaneous Endoscopic Approach",0YB84Z,2016,2027
+0YB9,"Lower Extremity, Right",0YB,2016,2027
+0YB90,Open,0YB9,2016,2027
+0YB90Z,No Device,0YB90,2016,2027
+0YB90ZX,"Excision of Right Lower Extremity, Open Approach, Diagnostic",0YB90Z,2016,2027
+0YB90ZZ,"Excision of Right Lower Extremity, Open Approach",0YB90Z,2016,2027
+0YB93,Percutaneous,0YB9,2016,2027
+0YB93Z,No Device,0YB93,2016,2027
+0YB93ZX,"Excision of Right Lower Extremity, Percutaneous Approach, Diagnostic",0YB93Z,2016,2027
+0YB93ZZ,"Excision of Right Lower Extremity, Percutaneous Approach",0YB93Z,2016,2027
+0YB94,Percutaneous Endoscopic,0YB9,2016,2027
+0YB94Z,No Device,0YB94,2016,2027
+0YB94ZX,"Excision of Right Lower Extremity, Percutaneous Endoscopic Approach, Diagnostic",0YB94Z,2016,2027
+0YB94ZZ,"Excision of Right Lower Extremity, Percutaneous Endoscopic Approach",0YB94Z,2016,2027
+0YBB,"Lower Extremity, Left",0YB,2016,2027
+0YBB0,Open,0YBB,2016,2027
+0YBB0Z,No Device,0YBB0,2016,2027
+0YBB0ZX,"Excision of Left Lower Extremity, Open Approach, Diagnostic",0YBB0Z,2016,2027
+0YBB0ZZ,"Excision of Left Lower Extremity, Open Approach",0YBB0Z,2016,2027
+0YBB3,Percutaneous,0YBB,2016,2027
+0YBB3Z,No Device,0YBB3,2016,2027
+0YBB3ZX,"Excision of Left Lower Extremity, Percutaneous Approach, Diagnostic",0YBB3Z,2016,2027
+0YBB3ZZ,"Excision of Left Lower Extremity, Percutaneous Approach",0YBB3Z,2016,2027
+0YBB4,Percutaneous Endoscopic,0YBB,2016,2027
+0YBB4Z,No Device,0YBB4,2016,2027
+0YBB4ZX,"Excision of Left Lower Extremity, Percutaneous Endoscopic Approach, Diagnostic",0YBB4Z,2016,2027
+0YBB4ZZ,"Excision of Left Lower Extremity, Percutaneous Endoscopic Approach",0YBB4Z,2016,2027
+0YBC,"Upper Leg, Right",0YB,2016,2027
+0YBC0,Open,0YBC,2016,2027
+0YBC0Z,No Device,0YBC0,2016,2027
+0YBC0ZX,"Excision of Right Upper Leg, Open Approach, Diagnostic",0YBC0Z,2016,2027
+0YBC0ZZ,"Excision of Right Upper Leg, Open Approach",0YBC0Z,2016,2027
+0YBC3,Percutaneous,0YBC,2016,2027
+0YBC3Z,No Device,0YBC3,2016,2027
+0YBC3ZX,"Excision of Right Upper Leg, Percutaneous Approach, Diagnostic",0YBC3Z,2016,2027
+0YBC3ZZ,"Excision of Right Upper Leg, Percutaneous Approach",0YBC3Z,2016,2027
+0YBC4,Percutaneous Endoscopic,0YBC,2016,2027
+0YBC4Z,No Device,0YBC4,2016,2027
+0YBC4ZX,"Excision of Right Upper Leg, Percutaneous Endoscopic Approach, Diagnostic",0YBC4Z,2016,2027
+0YBC4ZZ,"Excision of Right Upper Leg, Percutaneous Endoscopic Approach",0YBC4Z,2016,2027
+0YBD,"Upper Leg, Left",0YB,2016,2027
+0YBD0,Open,0YBD,2016,2027
+0YBD0Z,No Device,0YBD0,2016,2027
+0YBD0ZX,"Excision of Left Upper Leg, Open Approach, Diagnostic",0YBD0Z,2016,2027
+0YBD0ZZ,"Excision of Left Upper Leg, Open Approach",0YBD0Z,2016,2027
+0YBD3,Percutaneous,0YBD,2016,2027
+0YBD3Z,No Device,0YBD3,2016,2027
+0YBD3ZX,"Excision of Left Upper Leg, Percutaneous Approach, Diagnostic",0YBD3Z,2016,2027
+0YBD3ZZ,"Excision of Left Upper Leg, Percutaneous Approach",0YBD3Z,2016,2027
+0YBD4,Percutaneous Endoscopic,0YBD,2016,2027
+0YBD4Z,No Device,0YBD4,2016,2027
+0YBD4ZX,"Excision of Left Upper Leg, Percutaneous Endoscopic Approach, Diagnostic",0YBD4Z,2016,2027
+0YBD4ZZ,"Excision of Left Upper Leg, Percutaneous Endoscopic Approach",0YBD4Z,2016,2027
+0YBF,"Knee Region, Right",0YB,2016,2027
+0YBF0,Open,0YBF,2016,2027
+0YBF0Z,No Device,0YBF0,2016,2027
+0YBF0ZX,"Excision of Right Knee Region, Open Approach, Diagnostic",0YBF0Z,2016,2027
+0YBF0ZZ,"Excision of Right Knee Region, Open Approach",0YBF0Z,2016,2027
+0YBF3,Percutaneous,0YBF,2016,2027
+0YBF3Z,No Device,0YBF3,2016,2027
+0YBF3ZX,"Excision of Right Knee Region, Percutaneous Approach, Diagnostic",0YBF3Z,2016,2027
+0YBF3ZZ,"Excision of Right Knee Region, Percutaneous Approach",0YBF3Z,2016,2027
+0YBF4,Percutaneous Endoscopic,0YBF,2016,2027
+0YBF4Z,No Device,0YBF4,2016,2027
+0YBF4ZX,"Excision of Right Knee Region, Percutaneous Endoscopic Approach, Diagnostic",0YBF4Z,2016,2027
+0YBF4ZZ,"Excision of Right Knee Region, Percutaneous Endoscopic Approach",0YBF4Z,2016,2027
+0YBG,"Knee Region, Left",0YB,2016,2027
+0YBG0,Open,0YBG,2016,2027
+0YBG0Z,No Device,0YBG0,2016,2027
+0YBG0ZX,"Excision of Left Knee Region, Open Approach, Diagnostic",0YBG0Z,2016,2027
+0YBG0ZZ,"Excision of Left Knee Region, Open Approach",0YBG0Z,2016,2027
+0YBG3,Percutaneous,0YBG,2016,2027
+0YBG3Z,No Device,0YBG3,2016,2027
+0YBG3ZX,"Excision of Left Knee Region, Percutaneous Approach, Diagnostic",0YBG3Z,2016,2027
+0YBG3ZZ,"Excision of Left Knee Region, Percutaneous Approach",0YBG3Z,2016,2027
+0YBG4,Percutaneous Endoscopic,0YBG,2016,2027
+0YBG4Z,No Device,0YBG4,2016,2027
+0YBG4ZX,"Excision of Left Knee Region, Percutaneous Endoscopic Approach, Diagnostic",0YBG4Z,2016,2027
+0YBG4ZZ,"Excision of Left Knee Region, Percutaneous Endoscopic Approach",0YBG4Z,2016,2027
+0YBH,"Lower Leg, Right",0YB,2016,2027
+0YBH0,Open,0YBH,2016,2027
+0YBH0Z,No Device,0YBH0,2016,2027
+0YBH0ZX,"Excision of Right Lower Leg, Open Approach, Diagnostic",0YBH0Z,2016,2027
+0YBH0ZZ,"Excision of Right Lower Leg, Open Approach",0YBH0Z,2016,2027
+0YBH3,Percutaneous,0YBH,2016,2027
+0YBH3Z,No Device,0YBH3,2016,2027
+0YBH3ZX,"Excision of Right Lower Leg, Percutaneous Approach, Diagnostic",0YBH3Z,2016,2027
+0YBH3ZZ,"Excision of Right Lower Leg, Percutaneous Approach",0YBH3Z,2016,2027
+0YBH4,Percutaneous Endoscopic,0YBH,2016,2027
+0YBH4Z,No Device,0YBH4,2016,2027
+0YBH4ZX,"Excision of Right Lower Leg, Percutaneous Endoscopic Approach, Diagnostic",0YBH4Z,2016,2027
+0YBH4ZZ,"Excision of Right Lower Leg, Percutaneous Endoscopic Approach",0YBH4Z,2016,2027
+0YBJ,"Lower Leg, Left",0YB,2016,2027
+0YBJ0,Open,0YBJ,2016,2027
+0YBJ0Z,No Device,0YBJ0,2016,2027
+0YBJ0ZX,"Excision of Left Lower Leg, Open Approach, Diagnostic",0YBJ0Z,2016,2027
+0YBJ0ZZ,"Excision of Left Lower Leg, Open Approach",0YBJ0Z,2016,2027
+0YBJ3,Percutaneous,0YBJ,2016,2027
+0YBJ3Z,No Device,0YBJ3,2016,2027
+0YBJ3ZX,"Excision of Left Lower Leg, Percutaneous Approach, Diagnostic",0YBJ3Z,2016,2027
+0YBJ3ZZ,"Excision of Left Lower Leg, Percutaneous Approach",0YBJ3Z,2016,2027
+0YBJ4,Percutaneous Endoscopic,0YBJ,2016,2027
+0YBJ4Z,No Device,0YBJ4,2016,2027
+0YBJ4ZX,"Excision of Left Lower Leg, Percutaneous Endoscopic Approach, Diagnostic",0YBJ4Z,2016,2027
+0YBJ4ZZ,"Excision of Left Lower Leg, Percutaneous Endoscopic Approach",0YBJ4Z,2016,2027
+0YBK,"Ankle Region, Right",0YB,2016,2027
+0YBK0,Open,0YBK,2016,2027
+0YBK0Z,No Device,0YBK0,2016,2027
+0YBK0ZX,"Excision of Right Ankle Region, Open Approach, Diagnostic",0YBK0Z,2016,2027
+0YBK0ZZ,"Excision of Right Ankle Region, Open Approach",0YBK0Z,2016,2027
+0YBK3,Percutaneous,0YBK,2016,2027
+0YBK3Z,No Device,0YBK3,2016,2027
+0YBK3ZX,"Excision of Right Ankle Region, Percutaneous Approach, Diagnostic",0YBK3Z,2016,2027
+0YBK3ZZ,"Excision of Right Ankle Region, Percutaneous Approach",0YBK3Z,2016,2027
+0YBK4,Percutaneous Endoscopic,0YBK,2016,2027
+0YBK4Z,No Device,0YBK4,2016,2027
+0YBK4ZX,"Excision of Right Ankle Region, Percutaneous Endoscopic Approach, Diagnostic",0YBK4Z,2016,2027
+0YBK4ZZ,"Excision of Right Ankle Region, Percutaneous Endoscopic Approach",0YBK4Z,2016,2027
+0YBL,"Ankle Region, Left",0YB,2016,2027
+0YBL0,Open,0YBL,2016,2027
+0YBL0Z,No Device,0YBL0,2016,2027
+0YBL0ZX,"Excision of Left Ankle Region, Open Approach, Diagnostic",0YBL0Z,2016,2027
+0YBL0ZZ,"Excision of Left Ankle Region, Open Approach",0YBL0Z,2016,2027
+0YBL3,Percutaneous,0YBL,2016,2027
+0YBL3Z,No Device,0YBL3,2016,2027
+0YBL3ZX,"Excision of Left Ankle Region, Percutaneous Approach, Diagnostic",0YBL3Z,2016,2027
+0YBL3ZZ,"Excision of Left Ankle Region, Percutaneous Approach",0YBL3Z,2016,2027
+0YBL4,Percutaneous Endoscopic,0YBL,2016,2027
+0YBL4Z,No Device,0YBL4,2016,2027
+0YBL4ZX,"Excision of Left Ankle Region, Percutaneous Endoscopic Approach, Diagnostic",0YBL4Z,2016,2027
+0YBL4ZZ,"Excision of Left Ankle Region, Percutaneous Endoscopic Approach",0YBL4Z,2016,2027
+0YBM,"Foot, Right",0YB,2016,2027
+0YBM0,Open,0YBM,2016,2027
+0YBM0Z,No Device,0YBM0,2016,2027
+0YBM0ZX,"Excision of Right Foot, Open Approach, Diagnostic",0YBM0Z,2016,2027
+0YBM0ZZ,"Excision of Right Foot, Open Approach",0YBM0Z,2016,2027
+0YBM3,Percutaneous,0YBM,2016,2027
+0YBM3Z,No Device,0YBM3,2016,2027
+0YBM3ZX,"Excision of Right Foot, Percutaneous Approach, Diagnostic",0YBM3Z,2016,2027
+0YBM3ZZ,"Excision of Right Foot, Percutaneous Approach",0YBM3Z,2016,2027
+0YBM4,Percutaneous Endoscopic,0YBM,2016,2027
+0YBM4Z,No Device,0YBM4,2016,2027
+0YBM4ZX,"Excision of Right Foot, Percutaneous Endoscopic Approach, Diagnostic",0YBM4Z,2016,2027
+0YBM4ZZ,"Excision of Right Foot, Percutaneous Endoscopic Approach",0YBM4Z,2016,2027
+0YBN,"Foot, Left",0YB,2016,2027
+0YBN0,Open,0YBN,2016,2027
+0YBN0Z,No Device,0YBN0,2016,2027
+0YBN0ZX,"Excision of Left Foot, Open Approach, Diagnostic",0YBN0Z,2016,2027
+0YBN0ZZ,"Excision of Left Foot, Open Approach",0YBN0Z,2016,2027
+0YBN3,Percutaneous,0YBN,2016,2027
+0YBN3Z,No Device,0YBN3,2016,2027
+0YBN3ZX,"Excision of Left Foot, Percutaneous Approach, Diagnostic",0YBN3Z,2016,2027
+0YBN3ZZ,"Excision of Left Foot, Percutaneous Approach",0YBN3Z,2016,2027
+0YBN4,Percutaneous Endoscopic,0YBN,2016,2027
+0YBN4Z,No Device,0YBN4,2016,2027
+0YBN4ZX,"Excision of Left Foot, Percutaneous Endoscopic Approach, Diagnostic",0YBN4Z,2016,2027
+0YBN4ZZ,"Excision of Left Foot, Percutaneous Endoscopic Approach",0YBN4Z,2016,2027
+0YH,Insertion,0Y,2016,2027
+0YH0,"Buttock, Right",0YH,2016,2027
+0YH00,Open,0YH0,2016,2027
+0YH001,Radioactive Element,0YH00,2016,2027
+0YH001Z,"Insertion of Radioactive Element into Right Buttock, Open Approach",0YH001,2016,2027
+0YH003,Infusion Device,0YH00,2016,2027
+0YH003Z,"Insertion of Infusion Device into Right Buttock, Open Approach",0YH003,2016,2027
+0YH00Y,Other Device,0YH00,2016,2027
+0YH00YZ,"Insertion of Other Device into Right Buttock, Open Approach",0YH00Y,2016,2027
+0YH03,Percutaneous,0YH0,2016,2027
+0YH031,Radioactive Element,0YH03,2016,2027
+0YH031Z,"Insertion of Radioactive Element into Right Buttock, Percutaneous Approach",0YH031,2016,2027
+0YH033,Infusion Device,0YH03,2016,2027
+0YH033Z,"Insertion of Infusion Device into Right Buttock, Percutaneous Approach",0YH033,2016,2027
+0YH03Y,Other Device,0YH03,2016,2027
+0YH03YZ,"Insertion of Other Device into Right Buttock, Percutaneous Approach",0YH03Y,2016,2027
+0YH04,Percutaneous Endoscopic,0YH0,2016,2027
+0YH041,Radioactive Element,0YH04,2016,2027
+0YH041Z,"Insertion of Radioactive Element into Right Buttock, Percutaneous Endoscopic Approach",0YH041,2016,2027
+0YH043,Infusion Device,0YH04,2016,2027
+0YH043Z,"Insertion of Infusion Device into Right Buttock, Percutaneous Endoscopic Approach",0YH043,2016,2027
+0YH04Y,Other Device,0YH04,2016,2027
+0YH04YZ,"Insertion of Other Device into Right Buttock, Percutaneous Endoscopic Approach",0YH04Y,2016,2027
+0YH1,"Buttock, Left",0YH,2016,2027
+0YH10,Open,0YH1,2016,2027
+0YH101,Radioactive Element,0YH10,2016,2027
+0YH101Z,"Insertion of Radioactive Element into Left Buttock, Open Approach",0YH101,2016,2027
+0YH103,Infusion Device,0YH10,2016,2027
+0YH103Z,"Insertion of Infusion Device into Left Buttock, Open Approach",0YH103,2016,2027
+0YH10Y,Other Device,0YH10,2016,2027
+0YH10YZ,"Insertion of Other Device into Left Buttock, Open Approach",0YH10Y,2016,2027
+0YH13,Percutaneous,0YH1,2016,2027
+0YH131,Radioactive Element,0YH13,2016,2027
+0YH131Z,"Insertion of Radioactive Element into Left Buttock, Percutaneous Approach",0YH131,2016,2027
+0YH133,Infusion Device,0YH13,2016,2027
+0YH133Z,"Insertion of Infusion Device into Left Buttock, Percutaneous Approach",0YH133,2016,2027
+0YH13Y,Other Device,0YH13,2016,2027
+0YH13YZ,"Insertion of Other Device into Left Buttock, Percutaneous Approach",0YH13Y,2016,2027
+0YH14,Percutaneous Endoscopic,0YH1,2016,2027
+0YH141,Radioactive Element,0YH14,2016,2027
+0YH141Z,"Insertion of Radioactive Element into Left Buttock, Percutaneous Endoscopic Approach",0YH141,2016,2027
+0YH143,Infusion Device,0YH14,2016,2027
+0YH143Z,"Insertion of Infusion Device into Left Buttock, Percutaneous Endoscopic Approach",0YH143,2016,2027
+0YH14Y,Other Device,0YH14,2016,2027
+0YH14YZ,"Insertion of Other Device into Left Buttock, Percutaneous Endoscopic Approach",0YH14Y,2016,2027
+0YH5,"Inguinal Region, Right",0YH,2016,2027
+0YH50,Open,0YH5,2016,2027
+0YH501,Radioactive Element,0YH50,2016,2027
+0YH501Z,"Insertion of Radioactive Element into Right Inguinal Region, Open Approach",0YH501,2016,2027
+0YH503,Infusion Device,0YH50,2016,2027
+0YH503Z,"Insertion of Infusion Device into Right Inguinal Region, Open Approach",0YH503,2016,2027
+0YH50Y,Other Device,0YH50,2016,2027
+0YH50YZ,"Insertion of Other Device into Right Inguinal Region, Open Approach",0YH50Y,2016,2027
+0YH53,Percutaneous,0YH5,2016,2027
+0YH531,Radioactive Element,0YH53,2016,2027
+0YH531Z,"Insertion of Radioactive Element into Right Inguinal Region, Percutaneous Approach",0YH531,2016,2027
+0YH533,Infusion Device,0YH53,2016,2027
+0YH533Z,"Insertion of Infusion Device into Right Inguinal Region, Percutaneous Approach",0YH533,2016,2027
+0YH53Y,Other Device,0YH53,2016,2027
+0YH53YZ,"Insertion of Other Device into Right Inguinal Region, Percutaneous Approach",0YH53Y,2016,2027
+0YH54,Percutaneous Endoscopic,0YH5,2016,2027
+0YH541,Radioactive Element,0YH54,2016,2027
+0YH541Z,"Insertion of Radioactive Element into Right Inguinal Region, Percutaneous Endoscopic Approach",0YH541,2016,2027
+0YH543,Infusion Device,0YH54,2016,2027
+0YH543Z,"Insertion of Infusion Device into Right Inguinal Region, Percutaneous Endoscopic Approach",0YH543,2016,2027
+0YH54Y,Other Device,0YH54,2016,2027
+0YH54YZ,"Insertion of Other Device into Right Inguinal Region, Percutaneous Endoscopic Approach",0YH54Y,2016,2027
+0YH6,"Inguinal Region, Left",0YH,2016,2027
+0YH60,Open,0YH6,2016,2027
+0YH601,Radioactive Element,0YH60,2016,2027
+0YH601Z,"Insertion of Radioactive Element into Left Inguinal Region, Open Approach",0YH601,2016,2027
+0YH603,Infusion Device,0YH60,2016,2027
+0YH603Z,"Insertion of Infusion Device into Left Inguinal Region, Open Approach",0YH603,2016,2027
+0YH60Y,Other Device,0YH60,2016,2027
+0YH60YZ,"Insertion of Other Device into Left Inguinal Region, Open Approach",0YH60Y,2016,2027
+0YH63,Percutaneous,0YH6,2016,2027
+0YH631,Radioactive Element,0YH63,2016,2027
+0YH631Z,"Insertion of Radioactive Element into Left Inguinal Region, Percutaneous Approach",0YH631,2016,2027
+0YH633,Infusion Device,0YH63,2016,2027
+0YH633Z,"Insertion of Infusion Device into Left Inguinal Region, Percutaneous Approach",0YH633,2016,2027
+0YH63Y,Other Device,0YH63,2016,2027
+0YH63YZ,"Insertion of Other Device into Left Inguinal Region, Percutaneous Approach",0YH63Y,2016,2027
+0YH64,Percutaneous Endoscopic,0YH6,2016,2027
+0YH641,Radioactive Element,0YH64,2016,2027
+0YH641Z,"Insertion of Radioactive Element into Left Inguinal Region, Percutaneous Endoscopic Approach",0YH641,2016,2027
+0YH643,Infusion Device,0YH64,2016,2027
+0YH643Z,"Insertion of Infusion Device into Left Inguinal Region, Percutaneous Endoscopic Approach",0YH643,2016,2027
+0YH64Y,Other Device,0YH64,2016,2027
+0YH64YZ,"Insertion of Other Device into Left Inguinal Region, Percutaneous Endoscopic Approach",0YH64Y,2016,2027
+0YH7,"Femoral Region, Right",0YH,2016,2027
+0YH70,Open,0YH7,2016,2027
+0YH701,Radioactive Element,0YH70,2016,2027
+0YH701Z,"Insertion of Radioactive Element into Right Femoral Region, Open Approach",0YH701,2016,2027
+0YH703,Infusion Device,0YH70,2016,2027
+0YH703Z,"Insertion of Infusion Device into Right Femoral Region, Open Approach",0YH703,2016,2027
+0YH70Y,Other Device,0YH70,2016,2027
+0YH70YZ,"Insertion of Other Device into Right Femoral Region, Open Approach",0YH70Y,2016,2027
+0YH73,Percutaneous,0YH7,2016,2027
+0YH731,Radioactive Element,0YH73,2016,2027
+0YH731Z,"Insertion of Radioactive Element into Right Femoral Region, Percutaneous Approach",0YH731,2016,2027
+0YH733,Infusion Device,0YH73,2016,2027
+0YH733Z,"Insertion of Infusion Device into Right Femoral Region, Percutaneous Approach",0YH733,2016,2027
+0YH73Y,Other Device,0YH73,2016,2027
+0YH73YZ,"Insertion of Other Device into Right Femoral Region, Percutaneous Approach",0YH73Y,2016,2027
+0YH74,Percutaneous Endoscopic,0YH7,2016,2027
+0YH741,Radioactive Element,0YH74,2016,2027
+0YH741Z,"Insertion of Radioactive Element into Right Femoral Region, Percutaneous Endoscopic Approach",0YH741,2016,2027
+0YH743,Infusion Device,0YH74,2016,2027
+0YH743Z,"Insertion of Infusion Device into Right Femoral Region, Percutaneous Endoscopic Approach",0YH743,2016,2027
+0YH74Y,Other Device,0YH74,2016,2027
+0YH74YZ,"Insertion of Other Device into Right Femoral Region, Percutaneous Endoscopic Approach",0YH74Y,2016,2027
+0YH8,"Femoral Region, Left",0YH,2016,2027
+0YH80,Open,0YH8,2016,2027
+0YH801,Radioactive Element,0YH80,2016,2027
+0YH801Z,"Insertion of Radioactive Element into Left Femoral Region, Open Approach",0YH801,2016,2027
+0YH803,Infusion Device,0YH80,2016,2027
+0YH803Z,"Insertion of Infusion Device into Left Femoral Region, Open Approach",0YH803,2016,2027
+0YH80Y,Other Device,0YH80,2016,2027
+0YH80YZ,"Insertion of Other Device into Left Femoral Region, Open Approach",0YH80Y,2016,2027
+0YH83,Percutaneous,0YH8,2016,2027
+0YH831,Radioactive Element,0YH83,2016,2027
+0YH831Z,"Insertion of Radioactive Element into Left Femoral Region, Percutaneous Approach",0YH831,2016,2027
+0YH833,Infusion Device,0YH83,2016,2027
+0YH833Z,"Insertion of Infusion Device into Left Femoral Region, Percutaneous Approach",0YH833,2016,2027
+0YH83Y,Other Device,0YH83,2016,2027
+0YH83YZ,"Insertion of Other Device into Left Femoral Region, Percutaneous Approach",0YH83Y,2016,2027
+0YH84,Percutaneous Endoscopic,0YH8,2016,2027
+0YH841,Radioactive Element,0YH84,2016,2027
+0YH841Z,"Insertion of Radioactive Element into Left Femoral Region, Percutaneous Endoscopic Approach",0YH841,2016,2027
+0YH843,Infusion Device,0YH84,2016,2027
+0YH843Z,"Insertion of Infusion Device into Left Femoral Region, Percutaneous Endoscopic Approach",0YH843,2016,2027
+0YH84Y,Other Device,0YH84,2016,2027
+0YH84YZ,"Insertion of Other Device into Left Femoral Region, Percutaneous Endoscopic Approach",0YH84Y,2016,2027
+0YH9,"Lower Extremity, Right",0YH,2016,2027
+0YH90,Open,0YH9,2016,2027
+0YH901,Radioactive Element,0YH90,2016,2027
+0YH901Z,"Insertion of Radioactive Element into Right Lower Extremity, Open Approach",0YH901,2016,2027
+0YH903,Infusion Device,0YH90,2016,2027
+0YH903Z,"Insertion of Infusion Device into Right Lower Extremity, Open Approach",0YH903,2016,2027
+0YH90Y,Other Device,0YH90,2016,2027
+0YH90YZ,"Insertion of Other Device into Right Lower Extremity, Open Approach",0YH90Y,2016,2027
+0YH93,Percutaneous,0YH9,2016,2027
+0YH931,Radioactive Element,0YH93,2016,2027
+0YH931Z,"Insertion of Radioactive Element into Right Lower Extremity, Percutaneous Approach",0YH931,2016,2027
+0YH933,Infusion Device,0YH93,2016,2027
+0YH933Z,"Insertion of Infusion Device into Right Lower Extremity, Percutaneous Approach",0YH933,2016,2027
+0YH93Y,Other Device,0YH93,2016,2027
+0YH93YZ,"Insertion of Other Device into Right Lower Extremity, Percutaneous Approach",0YH93Y,2016,2027
+0YH94,Percutaneous Endoscopic,0YH9,2016,2027
+0YH941,Radioactive Element,0YH94,2016,2027
+0YH941Z,"Insertion of Radioactive Element into Right Lower Extremity, Percutaneous Endoscopic Approach",0YH941,2016,2027
+0YH943,Infusion Device,0YH94,2016,2027
+0YH943Z,"Insertion of Infusion Device into Right Lower Extremity, Percutaneous Endoscopic Approach",0YH943,2016,2027
+0YH94Y,Other Device,0YH94,2016,2027
+0YH94YZ,"Insertion of Other Device into Right Lower Extremity, Percutaneous Endoscopic Approach",0YH94Y,2016,2027
+0YHB,"Lower Extremity, Left",0YH,2016,2027
+0YHB0,Open,0YHB,2016,2027
+0YHB01,Radioactive Element,0YHB0,2016,2027
+0YHB01Z,"Insertion of Radioactive Element into Left Lower Extremity, Open Approach",0YHB01,2016,2027
+0YHB03,Infusion Device,0YHB0,2016,2027
+0YHB03Z,"Insertion of Infusion Device into Left Lower Extremity, Open Approach",0YHB03,2016,2027
+0YHB0Y,Other Device,0YHB0,2016,2027
+0YHB0YZ,"Insertion of Other Device into Left Lower Extremity, Open Approach",0YHB0Y,2016,2027
+0YHB3,Percutaneous,0YHB,2016,2027
+0YHB31,Radioactive Element,0YHB3,2016,2027
+0YHB31Z,"Insertion of Radioactive Element into Left Lower Extremity, Percutaneous Approach",0YHB31,2016,2027
+0YHB33,Infusion Device,0YHB3,2016,2027
+0YHB33Z,"Insertion of Infusion Device into Left Lower Extremity, Percutaneous Approach",0YHB33,2016,2027
+0YHB3Y,Other Device,0YHB3,2016,2027
+0YHB3YZ,"Insertion of Other Device into Left Lower Extremity, Percutaneous Approach",0YHB3Y,2016,2027
+0YHB4,Percutaneous Endoscopic,0YHB,2016,2027
+0YHB41,Radioactive Element,0YHB4,2016,2027
+0YHB41Z,"Insertion of Radioactive Element into Left Lower Extremity, Percutaneous Endoscopic Approach",0YHB41,2016,2027
+0YHB43,Infusion Device,0YHB4,2016,2027
+0YHB43Z,"Insertion of Infusion Device into Left Lower Extremity, Percutaneous Endoscopic Approach",0YHB43,2016,2027
+0YHB4Y,Other Device,0YHB4,2016,2027
+0YHB4YZ,"Insertion of Other Device into Left Lower Extremity, Percutaneous Endoscopic Approach",0YHB4Y,2016,2027
+0YHC,"Upper Leg, Right",0YH,2016,2027
+0YHC0,Open,0YHC,2016,2027
+0YHC01,Radioactive Element,0YHC0,2016,2027
+0YHC01Z,"Insertion of Radioactive Element into Right Upper Leg, Open Approach",0YHC01,2016,2027
+0YHC03,Infusion Device,0YHC0,2016,2027
+0YHC03Z,"Insertion of Infusion Device into Right Upper Leg, Open Approach",0YHC03,2016,2027
+0YHC0Y,Other Device,0YHC0,2016,2027
+0YHC0YZ,"Insertion of Other Device into Right Upper Leg, Open Approach",0YHC0Y,2016,2027
+0YHC3,Percutaneous,0YHC,2016,2027
+0YHC31,Radioactive Element,0YHC3,2016,2027
+0YHC31Z,"Insertion of Radioactive Element into Right Upper Leg, Percutaneous Approach",0YHC31,2016,2027
+0YHC33,Infusion Device,0YHC3,2016,2027
+0YHC33Z,"Insertion of Infusion Device into Right Upper Leg, Percutaneous Approach",0YHC33,2016,2027
+0YHC3Y,Other Device,0YHC3,2016,2027
+0YHC3YZ,"Insertion of Other Device into Right Upper Leg, Percutaneous Approach",0YHC3Y,2016,2027
+0YHC4,Percutaneous Endoscopic,0YHC,2016,2027
+0YHC41,Radioactive Element,0YHC4,2016,2027
+0YHC41Z,"Insertion of Radioactive Element into Right Upper Leg, Percutaneous Endoscopic Approach",0YHC41,2016,2027
+0YHC43,Infusion Device,0YHC4,2016,2027
+0YHC43Z,"Insertion of Infusion Device into Right Upper Leg, Percutaneous Endoscopic Approach",0YHC43,2016,2027
+0YHC4Y,Other Device,0YHC4,2016,2027
+0YHC4YZ,"Insertion of Other Device into Right Upper Leg, Percutaneous Endoscopic Approach",0YHC4Y,2016,2027
+0YHD,"Upper Leg, Left",0YH,2016,2027
+0YHD0,Open,0YHD,2016,2027
+0YHD01,Radioactive Element,0YHD0,2016,2027
+0YHD01Z,"Insertion of Radioactive Element into Left Upper Leg, Open Approach",0YHD01,2016,2027
+0YHD03,Infusion Device,0YHD0,2016,2027
+0YHD03Z,"Insertion of Infusion Device into Left Upper Leg, Open Approach",0YHD03,2016,2027
+0YHD0Y,Other Device,0YHD0,2016,2027
+0YHD0YZ,"Insertion of Other Device into Left Upper Leg, Open Approach",0YHD0Y,2016,2027
+0YHD3,Percutaneous,0YHD,2016,2027
+0YHD31,Radioactive Element,0YHD3,2016,2027
+0YHD31Z,"Insertion of Radioactive Element into Left Upper Leg, Percutaneous Approach",0YHD31,2016,2027
+0YHD33,Infusion Device,0YHD3,2016,2027
+0YHD33Z,"Insertion of Infusion Device into Left Upper Leg, Percutaneous Approach",0YHD33,2016,2027
+0YHD3Y,Other Device,0YHD3,2016,2027
+0YHD3YZ,"Insertion of Other Device into Left Upper Leg, Percutaneous Approach",0YHD3Y,2016,2027
+0YHD4,Percutaneous Endoscopic,0YHD,2016,2027
+0YHD41,Radioactive Element,0YHD4,2016,2027
+0YHD41Z,"Insertion of Radioactive Element into Left Upper Leg, Percutaneous Endoscopic Approach",0YHD41,2016,2027
+0YHD43,Infusion Device,0YHD4,2016,2027
+0YHD43Z,"Insertion of Infusion Device into Left Upper Leg, Percutaneous Endoscopic Approach",0YHD43,2016,2027
+0YHD4Y,Other Device,0YHD4,2016,2027
+0YHD4YZ,"Insertion of Other Device into Left Upper Leg, Percutaneous Endoscopic Approach",0YHD4Y,2016,2027
+0YHF,"Knee Region, Right",0YH,2016,2027
+0YHF0,Open,0YHF,2016,2027
+0YHF01,Radioactive Element,0YHF0,2016,2027
+0YHF01Z,"Insertion of Radioactive Element into Right Knee Region, Open Approach",0YHF01,2016,2027
+0YHF03,Infusion Device,0YHF0,2016,2027
+0YHF03Z,"Insertion of Infusion Device into Right Knee Region, Open Approach",0YHF03,2016,2027
+0YHF0Y,Other Device,0YHF0,2016,2027
+0YHF0YZ,"Insertion of Other Device into Right Knee Region, Open Approach",0YHF0Y,2016,2027
+0YHF3,Percutaneous,0YHF,2016,2027
+0YHF31,Radioactive Element,0YHF3,2016,2027
+0YHF31Z,"Insertion of Radioactive Element into Right Knee Region, Percutaneous Approach",0YHF31,2016,2027
+0YHF33,Infusion Device,0YHF3,2016,2027
+0YHF33Z,"Insertion of Infusion Device into Right Knee Region, Percutaneous Approach",0YHF33,2016,2027
+0YHF3Y,Other Device,0YHF3,2016,2027
+0YHF3YZ,"Insertion of Other Device into Right Knee Region, Percutaneous Approach",0YHF3Y,2016,2027
+0YHF4,Percutaneous Endoscopic,0YHF,2016,2027
+0YHF41,Radioactive Element,0YHF4,2016,2027
+0YHF41Z,"Insertion of Radioactive Element into Right Knee Region, Percutaneous Endoscopic Approach",0YHF41,2016,2027
+0YHF43,Infusion Device,0YHF4,2016,2027
+0YHF43Z,"Insertion of Infusion Device into Right Knee Region, Percutaneous Endoscopic Approach",0YHF43,2016,2027
+0YHF4Y,Other Device,0YHF4,2016,2027
+0YHF4YZ,"Insertion of Other Device into Right Knee Region, Percutaneous Endoscopic Approach",0YHF4Y,2016,2027
+0YHG,"Knee Region, Left",0YH,2016,2027
+0YHG0,Open,0YHG,2016,2027
+0YHG01,Radioactive Element,0YHG0,2016,2027
+0YHG01Z,"Insertion of Radioactive Element into Left Knee Region, Open Approach",0YHG01,2016,2027
+0YHG03,Infusion Device,0YHG0,2016,2027
+0YHG03Z,"Insertion of Infusion Device into Left Knee Region, Open Approach",0YHG03,2016,2027
+0YHG0Y,Other Device,0YHG0,2016,2027
+0YHG0YZ,"Insertion of Other Device into Left Knee Region, Open Approach",0YHG0Y,2016,2027
+0YHG3,Percutaneous,0YHG,2016,2027
+0YHG31,Radioactive Element,0YHG3,2016,2027
+0YHG31Z,"Insertion of Radioactive Element into Left Knee Region, Percutaneous Approach",0YHG31,2016,2027
+0YHG33,Infusion Device,0YHG3,2016,2027
+0YHG33Z,"Insertion of Infusion Device into Left Knee Region, Percutaneous Approach",0YHG33,2016,2027
+0YHG3Y,Other Device,0YHG3,2016,2027
+0YHG3YZ,"Insertion of Other Device into Left Knee Region, Percutaneous Approach",0YHG3Y,2016,2027
+0YHG4,Percutaneous Endoscopic,0YHG,2016,2027
+0YHG41,Radioactive Element,0YHG4,2016,2027
+0YHG41Z,"Insertion of Radioactive Element into Left Knee Region, Percutaneous Endoscopic Approach",0YHG41,2016,2027
+0YHG43,Infusion Device,0YHG4,2016,2027
+0YHG43Z,"Insertion of Infusion Device into Left Knee Region, Percutaneous Endoscopic Approach",0YHG43,2016,2027
+0YHG4Y,Other Device,0YHG4,2016,2027
+0YHG4YZ,"Insertion of Other Device into Left Knee Region, Percutaneous Endoscopic Approach",0YHG4Y,2016,2027
+0YHH,"Lower Leg, Right",0YH,2016,2027
+0YHH0,Open,0YHH,2016,2027
+0YHH01,Radioactive Element,0YHH0,2016,2027
+0YHH01Z,"Insertion of Radioactive Element into Right Lower Leg, Open Approach",0YHH01,2016,2027
+0YHH03,Infusion Device,0YHH0,2016,2027
+0YHH03Z,"Insertion of Infusion Device into Right Lower Leg, Open Approach",0YHH03,2016,2027
+0YHH0Y,Other Device,0YHH0,2016,2027
+0YHH0YZ,"Insertion of Other Device into Right Lower Leg, Open Approach",0YHH0Y,2016,2027
+0YHH3,Percutaneous,0YHH,2016,2027
+0YHH31,Radioactive Element,0YHH3,2016,2027
+0YHH31Z,"Insertion of Radioactive Element into Right Lower Leg, Percutaneous Approach",0YHH31,2016,2027
+0YHH33,Infusion Device,0YHH3,2016,2027
+0YHH33Z,"Insertion of Infusion Device into Right Lower Leg, Percutaneous Approach",0YHH33,2016,2027
+0YHH3Y,Other Device,0YHH3,2016,2027
+0YHH3YZ,"Insertion of Other Device into Right Lower Leg, Percutaneous Approach",0YHH3Y,2016,2027
+0YHH4,Percutaneous Endoscopic,0YHH,2016,2027
+0YHH41,Radioactive Element,0YHH4,2016,2027
+0YHH41Z,"Insertion of Radioactive Element into Right Lower Leg, Percutaneous Endoscopic Approach",0YHH41,2016,2027
+0YHH43,Infusion Device,0YHH4,2016,2027
+0YHH43Z,"Insertion of Infusion Device into Right Lower Leg, Percutaneous Endoscopic Approach",0YHH43,2016,2027
+0YHH4Y,Other Device,0YHH4,2016,2027
+0YHH4YZ,"Insertion of Other Device into Right Lower Leg, Percutaneous Endoscopic Approach",0YHH4Y,2016,2027
+0YHJ,"Lower Leg, Left",0YH,2016,2027
+0YHJ0,Open,0YHJ,2016,2027
+0YHJ01,Radioactive Element,0YHJ0,2016,2027
+0YHJ01Z,"Insertion of Radioactive Element into Left Lower Leg, Open Approach",0YHJ01,2016,2027
+0YHJ03,Infusion Device,0YHJ0,2016,2027
+0YHJ03Z,"Insertion of Infusion Device into Left Lower Leg, Open Approach",0YHJ03,2016,2027
+0YHJ0Y,Other Device,0YHJ0,2016,2027
+0YHJ0YZ,"Insertion of Other Device into Left Lower Leg, Open Approach",0YHJ0Y,2016,2027
+0YHJ3,Percutaneous,0YHJ,2016,2027
+0YHJ31,Radioactive Element,0YHJ3,2016,2027
+0YHJ31Z,"Insertion of Radioactive Element into Left Lower Leg, Percutaneous Approach",0YHJ31,2016,2027
+0YHJ33,Infusion Device,0YHJ3,2016,2027
+0YHJ33Z,"Insertion of Infusion Device into Left Lower Leg, Percutaneous Approach",0YHJ33,2016,2027
+0YHJ3Y,Other Device,0YHJ3,2016,2027
+0YHJ3YZ,"Insertion of Other Device into Left Lower Leg, Percutaneous Approach",0YHJ3Y,2016,2027
+0YHJ4,Percutaneous Endoscopic,0YHJ,2016,2027
+0YHJ41,Radioactive Element,0YHJ4,2016,2027
+0YHJ41Z,"Insertion of Radioactive Element into Left Lower Leg, Percutaneous Endoscopic Approach",0YHJ41,2016,2027
+0YHJ43,Infusion Device,0YHJ4,2016,2027
+0YHJ43Z,"Insertion of Infusion Device into Left Lower Leg, Percutaneous Endoscopic Approach",0YHJ43,2016,2027
+0YHJ4Y,Other Device,0YHJ4,2016,2027
+0YHJ4YZ,"Insertion of Other Device into Left Lower Leg, Percutaneous Endoscopic Approach",0YHJ4Y,2016,2027
+0YHK,"Ankle Region, Right",0YH,2016,2027
+0YHK0,Open,0YHK,2016,2027
+0YHK01,Radioactive Element,0YHK0,2016,2027
+0YHK01Z,"Insertion of Radioactive Element into Right Ankle Region, Open Approach",0YHK01,2016,2027
+0YHK03,Infusion Device,0YHK0,2016,2027
+0YHK03Z,"Insertion of Infusion Device into Right Ankle Region, Open Approach",0YHK03,2016,2027
+0YHK0Y,Other Device,0YHK0,2016,2027
+0YHK0YZ,"Insertion of Other Device into Right Ankle Region, Open Approach",0YHK0Y,2016,2027
+0YHK3,Percutaneous,0YHK,2016,2027
+0YHK31,Radioactive Element,0YHK3,2016,2027
+0YHK31Z,"Insertion of Radioactive Element into Right Ankle Region, Percutaneous Approach",0YHK31,2016,2027
+0YHK33,Infusion Device,0YHK3,2016,2027
+0YHK33Z,"Insertion of Infusion Device into Right Ankle Region, Percutaneous Approach",0YHK33,2016,2027
+0YHK3Y,Other Device,0YHK3,2016,2027
+0YHK3YZ,"Insertion of Other Device into Right Ankle Region, Percutaneous Approach",0YHK3Y,2016,2027
+0YHK4,Percutaneous Endoscopic,0YHK,2016,2027
+0YHK41,Radioactive Element,0YHK4,2016,2027
+0YHK41Z,"Insertion of Radioactive Element into Right Ankle Region, Percutaneous Endoscopic Approach",0YHK41,2016,2027
+0YHK43,Infusion Device,0YHK4,2016,2027
+0YHK43Z,"Insertion of Infusion Device into Right Ankle Region, Percutaneous Endoscopic Approach",0YHK43,2016,2027
+0YHK4Y,Other Device,0YHK4,2016,2027
+0YHK4YZ,"Insertion of Other Device into Right Ankle Region, Percutaneous Endoscopic Approach",0YHK4Y,2016,2027
+0YHL,"Ankle Region, Left",0YH,2016,2027
+0YHL0,Open,0YHL,2016,2027
+0YHL01,Radioactive Element,0YHL0,2016,2027
+0YHL01Z,"Insertion of Radioactive Element into Left Ankle Region, Open Approach",0YHL01,2016,2027
+0YHL03,Infusion Device,0YHL0,2016,2027
+0YHL03Z,"Insertion of Infusion Device into Left Ankle Region, Open Approach",0YHL03,2016,2027
+0YHL0Y,Other Device,0YHL0,2016,2027
+0YHL0YZ,"Insertion of Other Device into Left Ankle Region, Open Approach",0YHL0Y,2016,2027
+0YHL3,Percutaneous,0YHL,2016,2027
+0YHL31,Radioactive Element,0YHL3,2016,2027
+0YHL31Z,"Insertion of Radioactive Element into Left Ankle Region, Percutaneous Approach",0YHL31,2016,2027
+0YHL33,Infusion Device,0YHL3,2016,2027
+0YHL33Z,"Insertion of Infusion Device into Left Ankle Region, Percutaneous Approach",0YHL33,2016,2027
+0YHL3Y,Other Device,0YHL3,2016,2027
+0YHL3YZ,"Insertion of Other Device into Left Ankle Region, Percutaneous Approach",0YHL3Y,2016,2027
+0YHL4,Percutaneous Endoscopic,0YHL,2016,2027
+0YHL41,Radioactive Element,0YHL4,2016,2027
+0YHL41Z,"Insertion of Radioactive Element into Left Ankle Region, Percutaneous Endoscopic Approach",0YHL41,2016,2027
+0YHL43,Infusion Device,0YHL4,2016,2027
+0YHL43Z,"Insertion of Infusion Device into Left Ankle Region, Percutaneous Endoscopic Approach",0YHL43,2016,2027
+0YHL4Y,Other Device,0YHL4,2016,2027
+0YHL4YZ,"Insertion of Other Device into Left Ankle Region, Percutaneous Endoscopic Approach",0YHL4Y,2016,2027
+0YHM,"Foot, Right",0YH,2016,2027
+0YHM0,Open,0YHM,2016,2027
+0YHM01,Radioactive Element,0YHM0,2016,2027
+0YHM01Z,"Insertion of Radioactive Element into Right Foot, Open Approach",0YHM01,2016,2027
+0YHM03,Infusion Device,0YHM0,2016,2027
+0YHM03Z,"Insertion of Infusion Device into Right Foot, Open Approach",0YHM03,2016,2027
+0YHM0Y,Other Device,0YHM0,2016,2027
+0YHM0YZ,"Insertion of Other Device into Right Foot, Open Approach",0YHM0Y,2016,2027
+0YHM3,Percutaneous,0YHM,2016,2027
+0YHM31,Radioactive Element,0YHM3,2016,2027
+0YHM31Z,"Insertion of Radioactive Element into Right Foot, Percutaneous Approach",0YHM31,2016,2027
+0YHM33,Infusion Device,0YHM3,2016,2027
+0YHM33Z,"Insertion of Infusion Device into Right Foot, Percutaneous Approach",0YHM33,2016,2027
+0YHM3Y,Other Device,0YHM3,2016,2027
+0YHM3YZ,"Insertion of Other Device into Right Foot, Percutaneous Approach",0YHM3Y,2016,2027
+0YHM4,Percutaneous Endoscopic,0YHM,2016,2027
+0YHM41,Radioactive Element,0YHM4,2016,2027
+0YHM41Z,"Insertion of Radioactive Element into Right Foot, Percutaneous Endoscopic Approach",0YHM41,2016,2027
+0YHM43,Infusion Device,0YHM4,2016,2027
+0YHM43Z,"Insertion of Infusion Device into Right Foot, Percutaneous Endoscopic Approach",0YHM43,2016,2027
+0YHM4Y,Other Device,0YHM4,2016,2027
+0YHM4YZ,"Insertion of Other Device into Right Foot, Percutaneous Endoscopic Approach",0YHM4Y,2016,2027
+0YHN,"Foot, Left",0YH,2016,2027
+0YHN0,Open,0YHN,2016,2027
+0YHN01,Radioactive Element,0YHN0,2016,2027
+0YHN01Z,"Insertion of Radioactive Element into Left Foot, Open Approach",0YHN01,2016,2027
+0YHN03,Infusion Device,0YHN0,2016,2027
+0YHN03Z,"Insertion of Infusion Device into Left Foot, Open Approach",0YHN03,2016,2027
+0YHN0Y,Other Device,0YHN0,2016,2027
+0YHN0YZ,"Insertion of Other Device into Left Foot, Open Approach",0YHN0Y,2016,2027
+0YHN3,Percutaneous,0YHN,2016,2027
+0YHN31,Radioactive Element,0YHN3,2016,2027
+0YHN31Z,"Insertion of Radioactive Element into Left Foot, Percutaneous Approach",0YHN31,2016,2027
+0YHN33,Infusion Device,0YHN3,2016,2027
+0YHN33Z,"Insertion of Infusion Device into Left Foot, Percutaneous Approach",0YHN33,2016,2027
+0YHN3Y,Other Device,0YHN3,2016,2027
+0YHN3YZ,"Insertion of Other Device into Left Foot, Percutaneous Approach",0YHN3Y,2016,2027
+0YHN4,Percutaneous Endoscopic,0YHN,2016,2027
+0YHN41,Radioactive Element,0YHN4,2016,2027
+0YHN41Z,"Insertion of Radioactive Element into Left Foot, Percutaneous Endoscopic Approach",0YHN41,2016,2027
+0YHN43,Infusion Device,0YHN4,2016,2027
+0YHN43Z,"Insertion of Infusion Device into Left Foot, Percutaneous Endoscopic Approach",0YHN43,2016,2027
+0YHN4Y,Other Device,0YHN4,2016,2027
+0YHN4YZ,"Insertion of Other Device into Left Foot, Percutaneous Endoscopic Approach",0YHN4Y,2016,2027
+0YJ,Inspection,0Y,2016,2027
+0YJ0,"Buttock, Right",0YJ,2016,2027
+0YJ00,Open,0YJ0,2016,2027
+0YJ00Z,No Device,0YJ00,2016,2027
+0YJ00ZZ,"Inspection of Right Buttock, Open Approach",0YJ00Z,2016,2027
+0YJ03,Percutaneous,0YJ0,2016,2027
+0YJ03Z,No Device,0YJ03,2016,2027
+0YJ03ZZ,"Inspection of Right Buttock, Percutaneous Approach",0YJ03Z,2016,2027
+0YJ04,Percutaneous Endoscopic,0YJ0,2016,2027
+0YJ04Z,No Device,0YJ04,2016,2027
+0YJ04ZZ,"Inspection of Right Buttock, Percutaneous Endoscopic Approach",0YJ04Z,2016,2027
+0YJ0X,External,0YJ0,2016,2027
+0YJ0XZ,No Device,0YJ0X,2016,2027
+0YJ0XZZ,"Inspection of Right Buttock, External Approach",0YJ0XZ,2016,2027
+0YJ1,"Buttock, Left",0YJ,2016,2027
+0YJ10,Open,0YJ1,2016,2027
+0YJ10Z,No Device,0YJ10,2016,2027
+0YJ10ZZ,"Inspection of Left Buttock, Open Approach",0YJ10Z,2016,2027
+0YJ13,Percutaneous,0YJ1,2016,2027
+0YJ13Z,No Device,0YJ13,2016,2027
+0YJ13ZZ,"Inspection of Left Buttock, Percutaneous Approach",0YJ13Z,2016,2027
+0YJ14,Percutaneous Endoscopic,0YJ1,2016,2027
+0YJ14Z,No Device,0YJ14,2016,2027
+0YJ14ZZ,"Inspection of Left Buttock, Percutaneous Endoscopic Approach",0YJ14Z,2016,2027
+0YJ1X,External,0YJ1,2016,2027
+0YJ1XZ,No Device,0YJ1X,2016,2027
+0YJ1XZZ,"Inspection of Left Buttock, External Approach",0YJ1XZ,2016,2027
+0YJ5,"Inguinal Region, Right",0YJ,2016,2027
+0YJ50,Open,0YJ5,2016,2027
+0YJ50Z,No Device,0YJ50,2016,2027
+0YJ50ZZ,"Inspection of Right Inguinal Region, Open Approach",0YJ50Z,2016,2027
+0YJ53,Percutaneous,0YJ5,2016,2027
+0YJ53Z,No Device,0YJ53,2016,2027
+0YJ53ZZ,"Inspection of Right Inguinal Region, Percutaneous Approach",0YJ53Z,2016,2027
+0YJ54,Percutaneous Endoscopic,0YJ5,2016,2027
+0YJ54Z,No Device,0YJ54,2016,2027
+0YJ54ZZ,"Inspection of Right Inguinal Region, Percutaneous Endoscopic Approach",0YJ54Z,2016,2027
+0YJ5X,External,0YJ5,2016,2027
+0YJ5XZ,No Device,0YJ5X,2016,2027
+0YJ5XZZ,"Inspection of Right Inguinal Region, External Approach",0YJ5XZ,2016,2027
+0YJ6,"Inguinal Region, Left",0YJ,2016,2027
+0YJ60,Open,0YJ6,2016,2027
+0YJ60Z,No Device,0YJ60,2016,2027
+0YJ60ZZ,"Inspection of Left Inguinal Region, Open Approach",0YJ60Z,2016,2027
+0YJ63,Percutaneous,0YJ6,2016,2027
+0YJ63Z,No Device,0YJ63,2016,2027
+0YJ63ZZ,"Inspection of Left Inguinal Region, Percutaneous Approach",0YJ63Z,2016,2027
+0YJ64,Percutaneous Endoscopic,0YJ6,2016,2027
+0YJ64Z,No Device,0YJ64,2016,2027
+0YJ64ZZ,"Inspection of Left Inguinal Region, Percutaneous Endoscopic Approach",0YJ64Z,2016,2027
+0YJ6X,External,0YJ6,2016,2027
+0YJ6XZ,No Device,0YJ6X,2016,2027
+0YJ6XZZ,"Inspection of Left Inguinal Region, External Approach",0YJ6XZ,2016,2027
+0YJ7,"Femoral Region, Right",0YJ,2016,2027
+0YJ70,Open,0YJ7,2016,2027
+0YJ70Z,No Device,0YJ70,2016,2027
+0YJ70ZZ,"Inspection of Right Femoral Region, Open Approach",0YJ70Z,2016,2027
+0YJ73,Percutaneous,0YJ7,2016,2027
+0YJ73Z,No Device,0YJ73,2016,2027
+0YJ73ZZ,"Inspection of Right Femoral Region, Percutaneous Approach",0YJ73Z,2016,2027
+0YJ74,Percutaneous Endoscopic,0YJ7,2016,2027
+0YJ74Z,No Device,0YJ74,2016,2027
+0YJ74ZZ,"Inspection of Right Femoral Region, Percutaneous Endoscopic Approach",0YJ74Z,2016,2027
+0YJ7X,External,0YJ7,2016,2027
+0YJ7XZ,No Device,0YJ7X,2016,2027
+0YJ7XZZ,"Inspection of Right Femoral Region, External Approach",0YJ7XZ,2016,2027
+0YJ8,"Femoral Region, Left",0YJ,2016,2027
+0YJ80,Open,0YJ8,2016,2027
+0YJ80Z,No Device,0YJ80,2016,2027
+0YJ80ZZ,"Inspection of Left Femoral Region, Open Approach",0YJ80Z,2016,2027
+0YJ83,Percutaneous,0YJ8,2016,2027
+0YJ83Z,No Device,0YJ83,2016,2027
+0YJ83ZZ,"Inspection of Left Femoral Region, Percutaneous Approach",0YJ83Z,2016,2027
+0YJ84,Percutaneous Endoscopic,0YJ8,2016,2027
+0YJ84Z,No Device,0YJ84,2016,2027
+0YJ84ZZ,"Inspection of Left Femoral Region, Percutaneous Endoscopic Approach",0YJ84Z,2016,2027
+0YJ8X,External,0YJ8,2016,2027
+0YJ8XZ,No Device,0YJ8X,2016,2027
+0YJ8XZZ,"Inspection of Left Femoral Region, External Approach",0YJ8XZ,2016,2027
+0YJ9,"Lower Extremity, Right",0YJ,2016,2027
+0YJ90,Open,0YJ9,2016,2027
+0YJ90Z,No Device,0YJ90,2016,2027
+0YJ90ZZ,"Inspection of Right Lower Extremity, Open Approach",0YJ90Z,2016,2027
+0YJ93,Percutaneous,0YJ9,2016,2027
+0YJ93Z,No Device,0YJ93,2016,2027
+0YJ93ZZ,"Inspection of Right Lower Extremity, Percutaneous Approach",0YJ93Z,2016,2027
+0YJ94,Percutaneous Endoscopic,0YJ9,2016,2027
+0YJ94Z,No Device,0YJ94,2016,2027
+0YJ94ZZ,"Inspection of Right Lower Extremity, Percutaneous Endoscopic Approach",0YJ94Z,2016,2027
+0YJ9X,External,0YJ9,2016,2027
+0YJ9XZ,No Device,0YJ9X,2016,2027
+0YJ9XZZ,"Inspection of Right Lower Extremity, External Approach",0YJ9XZ,2016,2027
+0YJA,"Inguinal Region, Bilateral",0YJ,2016,2027
+0YJA0,Open,0YJA,2016,2027
+0YJA0Z,No Device,0YJA0,2016,2027
+0YJA0ZZ,"Inspection of Bilateral Inguinal Region, Open Approach",0YJA0Z,2016,2027
+0YJA3,Percutaneous,0YJA,2016,2027
+0YJA3Z,No Device,0YJA3,2016,2027
+0YJA3ZZ,"Inspection of Bilateral Inguinal Region, Percutaneous Approach",0YJA3Z,2016,2027
+0YJA4,Percutaneous Endoscopic,0YJA,2016,2027
+0YJA4Z,No Device,0YJA4,2016,2027
+0YJA4ZZ,"Inspection of Bilateral Inguinal Region, Percutaneous Endoscopic Approach",0YJA4Z,2016,2027
+0YJAX,External,0YJA,2016,2027
+0YJAXZ,No Device,0YJAX,2016,2027
+0YJAXZZ,"Inspection of Bilateral Inguinal Region, External Approach",0YJAXZ,2016,2027
+0YJB,"Lower Extremity, Left",0YJ,2016,2027
+0YJB0,Open,0YJB,2016,2027
+0YJB0Z,No Device,0YJB0,2016,2027
+0YJB0ZZ,"Inspection of Left Lower Extremity, Open Approach",0YJB0Z,2016,2027
+0YJB3,Percutaneous,0YJB,2016,2027
+0YJB3Z,No Device,0YJB3,2016,2027
+0YJB3ZZ,"Inspection of Left Lower Extremity, Percutaneous Approach",0YJB3Z,2016,2027
+0YJB4,Percutaneous Endoscopic,0YJB,2016,2027
+0YJB4Z,No Device,0YJB4,2016,2027
+0YJB4ZZ,"Inspection of Left Lower Extremity, Percutaneous Endoscopic Approach",0YJB4Z,2016,2027
+0YJBX,External,0YJB,2016,2027
+0YJBXZ,No Device,0YJBX,2016,2027
+0YJBXZZ,"Inspection of Left Lower Extremity, External Approach",0YJBXZ,2016,2027
+0YJC,"Upper Leg, Right",0YJ,2016,2027
+0YJC0,Open,0YJC,2016,2027
+0YJC0Z,No Device,0YJC0,2016,2027
+0YJC0ZZ,"Inspection of Right Upper Leg, Open Approach",0YJC0Z,2016,2027
+0YJC3,Percutaneous,0YJC,2016,2027
+0YJC3Z,No Device,0YJC3,2016,2027
+0YJC3ZZ,"Inspection of Right Upper Leg, Percutaneous Approach",0YJC3Z,2016,2027
+0YJC4,Percutaneous Endoscopic,0YJC,2016,2027
+0YJC4Z,No Device,0YJC4,2016,2027
+0YJC4ZZ,"Inspection of Right Upper Leg, Percutaneous Endoscopic Approach",0YJC4Z,2016,2027
+0YJCX,External,0YJC,2016,2027
+0YJCXZ,No Device,0YJCX,2016,2027
+0YJCXZZ,"Inspection of Right Upper Leg, External Approach",0YJCXZ,2016,2027
+0YJD,"Upper Leg, Left",0YJ,2016,2027
+0YJD0,Open,0YJD,2016,2027
+0YJD0Z,No Device,0YJD0,2016,2027
+0YJD0ZZ,"Inspection of Left Upper Leg, Open Approach",0YJD0Z,2016,2027
+0YJD3,Percutaneous,0YJD,2016,2027
+0YJD3Z,No Device,0YJD3,2016,2027
+0YJD3ZZ,"Inspection of Left Upper Leg, Percutaneous Approach",0YJD3Z,2016,2027
+0YJD4,Percutaneous Endoscopic,0YJD,2016,2027
+0YJD4Z,No Device,0YJD4,2016,2027
+0YJD4ZZ,"Inspection of Left Upper Leg, Percutaneous Endoscopic Approach",0YJD4Z,2016,2027
+0YJDX,External,0YJD,2016,2027
+0YJDXZ,No Device,0YJDX,2016,2027
+0YJDXZZ,"Inspection of Left Upper Leg, External Approach",0YJDXZ,2016,2027
+0YJE,"Femoral Region, Bilateral",0YJ,2016,2027
+0YJE0,Open,0YJE,2016,2027
+0YJE0Z,No Device,0YJE0,2016,2027
+0YJE0ZZ,"Inspection of Bilateral Femoral Region, Open Approach",0YJE0Z,2016,2027
+0YJE3,Percutaneous,0YJE,2016,2027
+0YJE3Z,No Device,0YJE3,2016,2027
+0YJE3ZZ,"Inspection of Bilateral Femoral Region, Percutaneous Approach",0YJE3Z,2016,2027
+0YJE4,Percutaneous Endoscopic,0YJE,2016,2027
+0YJE4Z,No Device,0YJE4,2016,2027
+0YJE4ZZ,"Inspection of Bilateral Femoral Region, Percutaneous Endoscopic Approach",0YJE4Z,2016,2027
+0YJEX,External,0YJE,2016,2027
+0YJEXZ,No Device,0YJEX,2016,2027
+0YJEXZZ,"Inspection of Bilateral Femoral Region, External Approach",0YJEXZ,2016,2027
+0YJF,"Knee Region, Right",0YJ,2016,2027
+0YJF0,Open,0YJF,2016,2027
+0YJF0Z,No Device,0YJF0,2016,2027
+0YJF0ZZ,"Inspection of Right Knee Region, Open Approach",0YJF0Z,2016,2027
+0YJF3,Percutaneous,0YJF,2016,2027
+0YJF3Z,No Device,0YJF3,2016,2027
+0YJF3ZZ,"Inspection of Right Knee Region, Percutaneous Approach",0YJF3Z,2016,2027
+0YJF4,Percutaneous Endoscopic,0YJF,2016,2027
+0YJF4Z,No Device,0YJF4,2016,2027
+0YJF4ZZ,"Inspection of Right Knee Region, Percutaneous Endoscopic Approach",0YJF4Z,2016,2027
+0YJFX,External,0YJF,2016,2027
+0YJFXZ,No Device,0YJFX,2016,2027
+0YJFXZZ,"Inspection of Right Knee Region, External Approach",0YJFXZ,2016,2027
+0YJG,"Knee Region, Left",0YJ,2016,2027
+0YJG0,Open,0YJG,2016,2027
+0YJG0Z,No Device,0YJG0,2016,2027
+0YJG0ZZ,"Inspection of Left Knee Region, Open Approach",0YJG0Z,2016,2027
+0YJG3,Percutaneous,0YJG,2016,2027
+0YJG3Z,No Device,0YJG3,2016,2027
+0YJG3ZZ,"Inspection of Left Knee Region, Percutaneous Approach",0YJG3Z,2016,2027
+0YJG4,Percutaneous Endoscopic,0YJG,2016,2027
+0YJG4Z,No Device,0YJG4,2016,2027
+0YJG4ZZ,"Inspection of Left Knee Region, Percutaneous Endoscopic Approach",0YJG4Z,2016,2027
+0YJGX,External,0YJG,2016,2027
+0YJGXZ,No Device,0YJGX,2016,2027
+0YJGXZZ,"Inspection of Left Knee Region, External Approach",0YJGXZ,2016,2027
+0YJH,"Lower Leg, Right",0YJ,2016,2027
+0YJH0,Open,0YJH,2016,2027
+0YJH0Z,No Device,0YJH0,2016,2027
+0YJH0ZZ,"Inspection of Right Lower Leg, Open Approach",0YJH0Z,2016,2027
+0YJH3,Percutaneous,0YJH,2016,2027
+0YJH3Z,No Device,0YJH3,2016,2027
+0YJH3ZZ,"Inspection of Right Lower Leg, Percutaneous Approach",0YJH3Z,2016,2027
+0YJH4,Percutaneous Endoscopic,0YJH,2016,2027
+0YJH4Z,No Device,0YJH4,2016,2027
+0YJH4ZZ,"Inspection of Right Lower Leg, Percutaneous Endoscopic Approach",0YJH4Z,2016,2027
+0YJHX,External,0YJH,2016,2027
+0YJHXZ,No Device,0YJHX,2016,2027
+0YJHXZZ,"Inspection of Right Lower Leg, External Approach",0YJHXZ,2016,2027
+0YJJ,"Lower Leg, Left",0YJ,2016,2027
+0YJJ0,Open,0YJJ,2016,2027
+0YJJ0Z,No Device,0YJJ0,2016,2027
+0YJJ0ZZ,"Inspection of Left Lower Leg, Open Approach",0YJJ0Z,2016,2027
+0YJJ3,Percutaneous,0YJJ,2016,2027
+0YJJ3Z,No Device,0YJJ3,2016,2027
+0YJJ3ZZ,"Inspection of Left Lower Leg, Percutaneous Approach",0YJJ3Z,2016,2027
+0YJJ4,Percutaneous Endoscopic,0YJJ,2016,2027
+0YJJ4Z,No Device,0YJJ4,2016,2027
+0YJJ4ZZ,"Inspection of Left Lower Leg, Percutaneous Endoscopic Approach",0YJJ4Z,2016,2027
+0YJJX,External,0YJJ,2016,2027
+0YJJXZ,No Device,0YJJX,2016,2027
+0YJJXZZ,"Inspection of Left Lower Leg, External Approach",0YJJXZ,2016,2027
+0YJK,"Ankle Region, Right",0YJ,2016,2027
+0YJK0,Open,0YJK,2016,2027
+0YJK0Z,No Device,0YJK0,2016,2027
+0YJK0ZZ,"Inspection of Right Ankle Region, Open Approach",0YJK0Z,2016,2027
+0YJK3,Percutaneous,0YJK,2016,2027
+0YJK3Z,No Device,0YJK3,2016,2027
+0YJK3ZZ,"Inspection of Right Ankle Region, Percutaneous Approach",0YJK3Z,2016,2027
+0YJK4,Percutaneous Endoscopic,0YJK,2016,2027
+0YJK4Z,No Device,0YJK4,2016,2027
+0YJK4ZZ,"Inspection of Right Ankle Region, Percutaneous Endoscopic Approach",0YJK4Z,2016,2027
+0YJKX,External,0YJK,2016,2027
+0YJKXZ,No Device,0YJKX,2016,2027
+0YJKXZZ,"Inspection of Right Ankle Region, External Approach",0YJKXZ,2016,2027
+0YJL,"Ankle Region, Left",0YJ,2016,2027
+0YJL0,Open,0YJL,2016,2027
+0YJL0Z,No Device,0YJL0,2016,2027
+0YJL0ZZ,"Inspection of Left Ankle Region, Open Approach",0YJL0Z,2016,2027
+0YJL3,Percutaneous,0YJL,2016,2027
+0YJL3Z,No Device,0YJL3,2016,2027
+0YJL3ZZ,"Inspection of Left Ankle Region, Percutaneous Approach",0YJL3Z,2016,2027
+0YJL4,Percutaneous Endoscopic,0YJL,2016,2027
+0YJL4Z,No Device,0YJL4,2016,2027
+0YJL4ZZ,"Inspection of Left Ankle Region, Percutaneous Endoscopic Approach",0YJL4Z,2016,2027
+0YJLX,External,0YJL,2016,2027
+0YJLXZ,No Device,0YJLX,2016,2027
+0YJLXZZ,"Inspection of Left Ankle Region, External Approach",0YJLXZ,2016,2027
+0YJM,"Foot, Right",0YJ,2016,2027
+0YJM0,Open,0YJM,2016,2027
+0YJM0Z,No Device,0YJM0,2016,2027
+0YJM0ZZ,"Inspection of Right Foot, Open Approach",0YJM0Z,2016,2027
+0YJM3,Percutaneous,0YJM,2016,2027
+0YJM3Z,No Device,0YJM3,2016,2027
+0YJM3ZZ,"Inspection of Right Foot, Percutaneous Approach",0YJM3Z,2016,2027
+0YJM4,Percutaneous Endoscopic,0YJM,2016,2027
+0YJM4Z,No Device,0YJM4,2016,2027
+0YJM4ZZ,"Inspection of Right Foot, Percutaneous Endoscopic Approach",0YJM4Z,2016,2027
+0YJMX,External,0YJM,2016,2027
+0YJMXZ,No Device,0YJMX,2016,2027
+0YJMXZZ,"Inspection of Right Foot, External Approach",0YJMXZ,2016,2027
+0YJN,"Foot, Left",0YJ,2016,2027
+0YJN0,Open,0YJN,2016,2027
+0YJN0Z,No Device,0YJN0,2016,2027
+0YJN0ZZ,"Inspection of Left Foot, Open Approach",0YJN0Z,2016,2027
+0YJN3,Percutaneous,0YJN,2016,2027
+0YJN3Z,No Device,0YJN3,2016,2027
+0YJN3ZZ,"Inspection of Left Foot, Percutaneous Approach",0YJN3Z,2016,2027
+0YJN4,Percutaneous Endoscopic,0YJN,2016,2027
+0YJN4Z,No Device,0YJN4,2016,2027
+0YJN4ZZ,"Inspection of Left Foot, Percutaneous Endoscopic Approach",0YJN4Z,2016,2027
+0YJNX,External,0YJN,2016,2027
+0YJNXZ,No Device,0YJNX,2016,2027
+0YJNXZZ,"Inspection of Left Foot, External Approach",0YJNXZ,2016,2027
+0YM,Reattachment,0Y,2016,2027
+0YM0,"Buttock, Right",0YM,2016,2027
+0YM00,Open,0YM0,2016,2027
+0YM00Z,No Device,0YM00,2016,2027
+0YM00ZZ,"Reattachment of Right Buttock, Open Approach",0YM00Z,2016,2027
+0YM1,"Buttock, Left",0YM,2016,2027
+0YM10,Open,0YM1,2016,2027
+0YM10Z,No Device,0YM10,2016,2027
+0YM10ZZ,"Reattachment of Left Buttock, Open Approach",0YM10Z,2016,2027
+0YM2,"Hindquarter, Right",0YM,2016,2027
+0YM20,Open,0YM2,2016,2027
+0YM20Z,No Device,0YM20,2016,2027
+0YM20ZZ,"Reattachment of Right Hindquarter, Open Approach",0YM20Z,2016,2027
+0YM3,"Hindquarter, Left",0YM,2016,2027
+0YM30,Open,0YM3,2016,2027
+0YM30Z,No Device,0YM30,2016,2027
+0YM30ZZ,"Reattachment of Left Hindquarter, Open Approach",0YM30Z,2016,2027
+0YM4,"Hindquarter, Bilateral",0YM,2016,2027
+0YM40,Open,0YM4,2016,2027
+0YM40Z,No Device,0YM40,2016,2027
+0YM40ZZ,"Reattachment of Bilateral Hindquarter, Open Approach",0YM40Z,2016,2027
+0YM5,"Inguinal Region, Right",0YM,2016,2027
+0YM50,Open,0YM5,2016,2027
+0YM50Z,No Device,0YM50,2016,2027
+0YM50ZZ,"Reattachment of Right Inguinal Region, Open Approach",0YM50Z,2016,2027
+0YM6,"Inguinal Region, Left",0YM,2016,2027
+0YM60,Open,0YM6,2016,2027
+0YM60Z,No Device,0YM60,2016,2027
+0YM60ZZ,"Reattachment of Left Inguinal Region, Open Approach",0YM60Z,2016,2027
+0YM7,"Femoral Region, Right",0YM,2016,2027
+0YM70,Open,0YM7,2016,2027
+0YM70Z,No Device,0YM70,2016,2027
+0YM70ZZ,"Reattachment of Right Femoral Region, Open Approach",0YM70Z,2016,2027
+0YM8,"Femoral Region, Left",0YM,2016,2027
+0YM80,Open,0YM8,2016,2027
+0YM80Z,No Device,0YM80,2016,2027
+0YM80ZZ,"Reattachment of Left Femoral Region, Open Approach",0YM80Z,2016,2027
+0YM9,"Lower Extremity, Right",0YM,2016,2027
+0YM90,Open,0YM9,2016,2027
+0YM90Z,No Device,0YM90,2016,2027
+0YM90ZZ,"Reattachment of Right Lower Extremity, Open Approach",0YM90Z,2016,2027
+0YMB,"Lower Extremity, Left",0YM,2016,2027
+0YMB0,Open,0YMB,2016,2027
+0YMB0Z,No Device,0YMB0,2016,2027
+0YMB0ZZ,"Reattachment of Left Lower Extremity, Open Approach",0YMB0Z,2016,2027
+0YMC,"Upper Leg, Right",0YM,2016,2027
+0YMC0,Open,0YMC,2016,2027
+0YMC0Z,No Device,0YMC0,2016,2027
+0YMC0ZZ,"Reattachment of Right Upper Leg, Open Approach",0YMC0Z,2016,2027
+0YMD,"Upper Leg, Left",0YM,2016,2027
+0YMD0,Open,0YMD,2016,2027
+0YMD0Z,No Device,0YMD0,2016,2027
+0YMD0ZZ,"Reattachment of Left Upper Leg, Open Approach",0YMD0Z,2016,2027
+0YMF,"Knee Region, Right",0YM,2016,2027
+0YMF0,Open,0YMF,2016,2027
+0YMF0Z,No Device,0YMF0,2016,2027
+0YMF0ZZ,"Reattachment of Right Knee Region, Open Approach",0YMF0Z,2016,2027
+0YMG,"Knee Region, Left",0YM,2016,2027
+0YMG0,Open,0YMG,2016,2027
+0YMG0Z,No Device,0YMG0,2016,2027
+0YMG0ZZ,"Reattachment of Left Knee Region, Open Approach",0YMG0Z,2016,2027
+0YMH,"Lower Leg, Right",0YM,2016,2027
+0YMH0,Open,0YMH,2016,2027
+0YMH0Z,No Device,0YMH0,2016,2027
+0YMH0ZZ,"Reattachment of Right Lower Leg, Open Approach",0YMH0Z,2016,2027
+0YMJ,"Lower Leg, Left",0YM,2016,2027
+0YMJ0,Open,0YMJ,2016,2027
+0YMJ0Z,No Device,0YMJ0,2016,2027
+0YMJ0ZZ,"Reattachment of Left Lower Leg, Open Approach",0YMJ0Z,2016,2027
+0YMK,"Ankle Region, Right",0YM,2016,2027
+0YMK0,Open,0YMK,2016,2027
+0YMK0Z,No Device,0YMK0,2016,2027
+0YMK0ZZ,"Reattachment of Right Ankle Region, Open Approach",0YMK0Z,2016,2027
+0YML,"Ankle Region, Left",0YM,2016,2027
+0YML0,Open,0YML,2016,2027
+0YML0Z,No Device,0YML0,2016,2027
+0YML0ZZ,"Reattachment of Left Ankle Region, Open Approach",0YML0Z,2016,2027
+0YMM,"Foot, Right",0YM,2016,2027
+0YMM0,Open,0YMM,2016,2027
+0YMM0Z,No Device,0YMM0,2016,2027
+0YMM0ZZ,"Reattachment of Right Foot, Open Approach",0YMM0Z,2016,2027
+0YMN,"Foot, Left",0YM,2016,2027
+0YMN0,Open,0YMN,2016,2027
+0YMN0Z,No Device,0YMN0,2016,2027
+0YMN0ZZ,"Reattachment of Left Foot, Open Approach",0YMN0Z,2016,2027
+0YMP,"1st Toe, Right",0YM,2016,2027
+0YMP0,Open,0YMP,2016,2027
+0YMP0Z,No Device,0YMP0,2016,2027
+0YMP0ZZ,"Reattachment of Right 1st Toe, Open Approach",0YMP0Z,2016,2027
+0YMQ,"1st Toe, Left",0YM,2016,2027
+0YMQ0,Open,0YMQ,2016,2027
+0YMQ0Z,No Device,0YMQ0,2016,2027
+0YMQ0ZZ,"Reattachment of Left 1st Toe, Open Approach",0YMQ0Z,2016,2027
+0YMR,"2nd Toe, Right",0YM,2016,2027
+0YMR0,Open,0YMR,2016,2027
+0YMR0Z,No Device,0YMR0,2016,2027
+0YMR0ZZ,"Reattachment of Right 2nd Toe, Open Approach",0YMR0Z,2016,2027
+0YMS,"2nd Toe, Left",0YM,2016,2027
+0YMS0,Open,0YMS,2016,2027
+0YMS0Z,No Device,0YMS0,2016,2027
+0YMS0ZZ,"Reattachment of Left 2nd Toe, Open Approach",0YMS0Z,2016,2027
+0YMT,"3rd Toe, Right",0YM,2016,2027
+0YMT0,Open,0YMT,2016,2027
+0YMT0Z,No Device,0YMT0,2016,2027
+0YMT0ZZ,"Reattachment of Right 3rd Toe, Open Approach",0YMT0Z,2016,2027
+0YMU,"3rd Toe, Left",0YM,2016,2027
+0YMU0,Open,0YMU,2016,2027
+0YMU0Z,No Device,0YMU0,2016,2027
+0YMU0ZZ,"Reattachment of Left 3rd Toe, Open Approach",0YMU0Z,2016,2027
+0YMV,"4th Toe, Right",0YM,2016,2027
+0YMV0,Open,0YMV,2016,2027
+0YMV0Z,No Device,0YMV0,2016,2027
+0YMV0ZZ,"Reattachment of Right 4th Toe, Open Approach",0YMV0Z,2016,2027
+0YMW,"4th Toe, Left",0YM,2016,2027
+0YMW0,Open,0YMW,2016,2027
+0YMW0Z,No Device,0YMW0,2016,2027
+0YMW0ZZ,"Reattachment of Left 4th Toe, Open Approach",0YMW0Z,2016,2027
+0YMX,"5th Toe, Right",0YM,2016,2027
+0YMX0,Open,0YMX,2016,2027
+0YMX0Z,No Device,0YMX0,2016,2027
+0YMX0ZZ,"Reattachment of Right 5th Toe, Open Approach",0YMX0Z,2016,2027
+0YMY,"5th Toe, Left",0YM,2016,2027
+0YMY0,Open,0YMY,2016,2027
+0YMY0Z,No Device,0YMY0,2016,2027
+0YMY0ZZ,"Reattachment of Left 5th Toe, Open Approach",0YMY0Z,2016,2027
+0YP,Removal,0Y,2016,2027
+0YP9,"Lower Extremity, Right",0YP,2016,2027
+0YP90,Open,0YP9,2016,2027
+0YP900,Drainage Device,0YP90,2016,2027
+0YP900Z,"Removal of Drainage Device from Right Lower Extremity, Open Approach",0YP900,2016,2027
+0YP901,Radioactive Element,0YP90,2016,2027
+0YP901Z,"Removal of Radioactive Element from Right Lower Extremity, Open Approach",0YP901,2016,2027
+0YP903,Infusion Device,0YP90,2016,2027
+0YP903Z,"Removal of Infusion Device from Right Lower Extremity, Open Approach",0YP903,2016,2027
+0YP907,Autologous Tissue Substitute,0YP90,2016,2027
+0YP907Z,"Removal of Autologous Tissue Substitute from Right Lower Extremity, Open Approach",0YP907,2016,2027
+0YP90J,Synthetic Substitute,0YP90,2016,2027
+0YP90JZ,"Removal of Synthetic Substitute from Right Lower Extremity, Open Approach",0YP90J,2016,2027
+0YP90K,Nonautologous Tissue Substitute,0YP90,2016,2027
+0YP90KZ,"Removal of Nonautologous Tissue Substitute from Right Lower Extremity, Open Approach",0YP90K,2016,2027
+0YP90Y,Other Device,0YP90,2016,2027
+0YP90YZ,"Removal of Other Device from Right Lower Extremity, Open Approach",0YP90Y,2016,2027
+0YP93,Percutaneous,0YP9,2016,2027
+0YP930,Drainage Device,0YP93,2016,2027
+0YP930Z,"Removal of Drainage Device from Right Lower Extremity, Percutaneous Approach",0YP930,2016,2027
+0YP931,Radioactive Element,0YP93,2016,2027
+0YP931Z,"Removal of Radioactive Element from Right Lower Extremity, Percutaneous Approach",0YP931,2016,2027
+0YP933,Infusion Device,0YP93,2016,2027
+0YP933Z,"Removal of Infusion Device from Right Lower Extremity, Percutaneous Approach",0YP933,2016,2027
+0YP937,Autologous Tissue Substitute,0YP93,2016,2027
+0YP937Z,"Removal of Autologous Tissue Substitute from Right Lower Extremity, Percutaneous Approach",0YP937,2016,2027
+0YP93J,Synthetic Substitute,0YP93,2016,2027
+0YP93JZ,"Removal of Synthetic Substitute from Right Lower Extremity, Percutaneous Approach",0YP93J,2016,2027
+0YP93K,Nonautologous Tissue Substitute,0YP93,2016,2027
+0YP93KZ,"Removal of Nonautologous Tissue Substitute from Right Lower Extremity, Percutaneous Approach",0YP93K,2016,2027
+0YP93Y,Other Device,0YP93,2016,2027
+0YP93YZ,"Removal of Other Device from Right Lower Extremity, Percutaneous Approach",0YP93Y,2016,2027
+0YP94,Percutaneous Endoscopic,0YP9,2016,2027
+0YP940,Drainage Device,0YP94,2016,2027
+0YP940Z,"Removal of Drainage Device from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP940,2016,2027
+0YP941,Radioactive Element,0YP94,2016,2027
+0YP941Z,"Removal of Radioactive Element from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP941,2016,2027
+0YP943,Infusion Device,0YP94,2016,2027
+0YP943Z,"Removal of Infusion Device from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP943,2016,2027
+0YP947,Autologous Tissue Substitute,0YP94,2016,2027
+0YP947Z,"Removal of Autologous Tissue Substitute from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP947,2016,2027
+0YP94J,Synthetic Substitute,0YP94,2016,2027
+0YP94JZ,"Removal of Synthetic Substitute from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP94J,2016,2027
+0YP94K,Nonautologous Tissue Substitute,0YP94,2016,2027
+0YP94KZ,"Removal of Nonautologous Tissue Substitute from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP94K,2016,2027
+0YP94Y,Other Device,0YP94,2016,2027
+0YP94YZ,"Removal of Other Device from Right Lower Extremity, Percutaneous Endoscopic Approach",0YP94Y,2016,2027
+0YP9X,External,0YP9,2016,2027
+0YP9X0,Drainage Device,0YP9X,2016,2027
+0YP9X0Z,"Removal of Drainage Device from Right Lower Extremity, External Approach",0YP9X0,2016,2027
+0YP9X1,Radioactive Element,0YP9X,2016,2027
+0YP9X1Z,"Removal of Radioactive Element from Right Lower Extremity, External Approach",0YP9X1,2016,2027
+0YP9X3,Infusion Device,0YP9X,2016,2027
+0YP9X3Z,"Removal of Infusion Device from Right Lower Extremity, External Approach",0YP9X3,2016,2027
+0YP9X7,Autologous Tissue Substitute,0YP9X,2016,2027
+0YP9X7Z,"Removal of Autologous Tissue Substitute from Right Lower Extremity, External Approach",0YP9X7,2016,2027
+0YP9XJ,Synthetic Substitute,0YP9X,2016,2027
+0YP9XJZ,"Removal of Synthetic Substitute from Right Lower Extremity, External Approach",0YP9XJ,2016,2027
+0YP9XK,Nonautologous Tissue Substitute,0YP9X,2016,2027
+0YP9XKZ,"Removal of Nonautologous Tissue Substitute from Right Lower Extremity, External Approach",0YP9XK,2016,2027
+0YP9XY,Other Device,0YP9X,2016,2027
+0YP9XYZ,"Removal of Other Device from Right Lower Extremity, External Approach",0YP9XY,2016,2027
+0YPB,"Lower Extremity, Left",0YP,2016,2027
+0YPB0,Open,0YPB,2016,2027
+0YPB00,Drainage Device,0YPB0,2016,2027
+0YPB00Z,"Removal of Drainage Device from Left Lower Extremity, Open Approach",0YPB00,2016,2027
+0YPB01,Radioactive Element,0YPB0,2016,2027
+0YPB01Z,"Removal of Radioactive Element from Left Lower Extremity, Open Approach",0YPB01,2016,2027
+0YPB03,Infusion Device,0YPB0,2016,2027
+0YPB03Z,"Removal of Infusion Device from Left Lower Extremity, Open Approach",0YPB03,2016,2027
+0YPB07,Autologous Tissue Substitute,0YPB0,2016,2027
+0YPB07Z,"Removal of Autologous Tissue Substitute from Left Lower Extremity, Open Approach",0YPB07,2016,2027
+0YPB0J,Synthetic Substitute,0YPB0,2016,2027
+0YPB0JZ,"Removal of Synthetic Substitute from Left Lower Extremity, Open Approach",0YPB0J,2016,2027
+0YPB0K,Nonautologous Tissue Substitute,0YPB0,2016,2027
+0YPB0KZ,"Removal of Nonautologous Tissue Substitute from Left Lower Extremity, Open Approach",0YPB0K,2016,2027
+0YPB0Y,Other Device,0YPB0,2016,2027
+0YPB0YZ,"Removal of Other Device from Left Lower Extremity, Open Approach",0YPB0Y,2016,2027
+0YPB3,Percutaneous,0YPB,2016,2027
+0YPB30,Drainage Device,0YPB3,2016,2027
+0YPB30Z,"Removal of Drainage Device from Left Lower Extremity, Percutaneous Approach",0YPB30,2016,2027
+0YPB31,Radioactive Element,0YPB3,2016,2027
+0YPB31Z,"Removal of Radioactive Element from Left Lower Extremity, Percutaneous Approach",0YPB31,2016,2027
+0YPB33,Infusion Device,0YPB3,2016,2027
+0YPB33Z,"Removal of Infusion Device from Left Lower Extremity, Percutaneous Approach",0YPB33,2016,2027
+0YPB37,Autologous Tissue Substitute,0YPB3,2016,2027
+0YPB37Z,"Removal of Autologous Tissue Substitute from Left Lower Extremity, Percutaneous Approach",0YPB37,2016,2027
+0YPB3J,Synthetic Substitute,0YPB3,2016,2027
+0YPB3JZ,"Removal of Synthetic Substitute from Left Lower Extremity, Percutaneous Approach",0YPB3J,2016,2027
+0YPB3K,Nonautologous Tissue Substitute,0YPB3,2016,2027
+0YPB3KZ,"Removal of Nonautologous Tissue Substitute from Left Lower Extremity, Percutaneous Approach",0YPB3K,2016,2027
+0YPB3Y,Other Device,0YPB3,2016,2027
+0YPB3YZ,"Removal of Other Device from Left Lower Extremity, Percutaneous Approach",0YPB3Y,2016,2027
+0YPB4,Percutaneous Endoscopic,0YPB,2016,2027
+0YPB40,Drainage Device,0YPB4,2016,2027
+0YPB40Z,"Removal of Drainage Device from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB40,2016,2027
+0YPB41,Radioactive Element,0YPB4,2016,2027
+0YPB41Z,"Removal of Radioactive Element from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB41,2016,2027
+0YPB43,Infusion Device,0YPB4,2016,2027
+0YPB43Z,"Removal of Infusion Device from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB43,2016,2027
+0YPB47,Autologous Tissue Substitute,0YPB4,2016,2027
+0YPB47Z,"Removal of Autologous Tissue Substitute from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB47,2016,2027
+0YPB4J,Synthetic Substitute,0YPB4,2016,2027
+0YPB4JZ,"Removal of Synthetic Substitute from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB4J,2016,2027
+0YPB4K,Nonautologous Tissue Substitute,0YPB4,2016,2027
+0YPB4KZ,"Removal of Nonautologous Tissue Substitute from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB4K,2016,2027
+0YPB4Y,Other Device,0YPB4,2016,2027
+0YPB4YZ,"Removal of Other Device from Left Lower Extremity, Percutaneous Endoscopic Approach",0YPB4Y,2016,2027
+0YPBX,External,0YPB,2016,2027
+0YPBX0,Drainage Device,0YPBX,2016,2027
+0YPBX0Z,"Removal of Drainage Device from Left Lower Extremity, External Approach",0YPBX0,2016,2027
+0YPBX1,Radioactive Element,0YPBX,2016,2027
+0YPBX1Z,"Removal of Radioactive Element from Left Lower Extremity, External Approach",0YPBX1,2016,2027
+0YPBX3,Infusion Device,0YPBX,2016,2027
+0YPBX3Z,"Removal of Infusion Device from Left Lower Extremity, External Approach",0YPBX3,2016,2027
+0YPBX7,Autologous Tissue Substitute,0YPBX,2016,2027
+0YPBX7Z,"Removal of Autologous Tissue Substitute from Left Lower Extremity, External Approach",0YPBX7,2016,2027
+0YPBXJ,Synthetic Substitute,0YPBX,2016,2027
+0YPBXJZ,"Removal of Synthetic Substitute from Left Lower Extremity, External Approach",0YPBXJ,2016,2027
+0YPBXK,Nonautologous Tissue Substitute,0YPBX,2016,2027
+0YPBXKZ,"Removal of Nonautologous Tissue Substitute from Left Lower Extremity, External Approach",0YPBXK,2016,2027
+0YPBXY,Other Device,0YPBX,2016,2027
+0YPBXYZ,"Removal of Other Device from Left Lower Extremity, External Approach",0YPBXY,2016,2027
+0YQ,Repair,0Y,2016,2027
+0YQ0,"Buttock, Right",0YQ,2016,2027
+0YQ00,Open,0YQ0,2016,2027
+0YQ00Z,No Device,0YQ00,2016,2027
+0YQ00ZZ,"Repair Right Buttock, Open Approach",0YQ00Z,2016,2027
+0YQ03,Percutaneous,0YQ0,2016,2027
+0YQ03Z,No Device,0YQ03,2016,2027
+0YQ03ZZ,"Repair Right Buttock, Percutaneous Approach",0YQ03Z,2016,2027
+0YQ04,Percutaneous Endoscopic,0YQ0,2016,2027
+0YQ04Z,No Device,0YQ04,2016,2027
+0YQ04ZZ,"Repair Right Buttock, Percutaneous Endoscopic Approach",0YQ04Z,2016,2027
+0YQ0X,External,0YQ0,2016,2027
+0YQ0XZ,No Device,0YQ0X,2016,2027
+0YQ0XZZ,"Repair Right Buttock, External Approach",0YQ0XZ,2016,2027
+0YQ1,"Buttock, Left",0YQ,2016,2027
+0YQ10,Open,0YQ1,2016,2027
+0YQ10Z,No Device,0YQ10,2016,2027
+0YQ10ZZ,"Repair Left Buttock, Open Approach",0YQ10Z,2016,2027
+0YQ13,Percutaneous,0YQ1,2016,2027
+0YQ13Z,No Device,0YQ13,2016,2027
+0YQ13ZZ,"Repair Left Buttock, Percutaneous Approach",0YQ13Z,2016,2027
+0YQ14,Percutaneous Endoscopic,0YQ1,2016,2027
+0YQ14Z,No Device,0YQ14,2016,2027
+0YQ14ZZ,"Repair Left Buttock, Percutaneous Endoscopic Approach",0YQ14Z,2016,2027
+0YQ1X,External,0YQ1,2016,2027
+0YQ1XZ,No Device,0YQ1X,2016,2027
+0YQ1XZZ,"Repair Left Buttock, External Approach",0YQ1XZ,2016,2027
+0YQ5,"Inguinal Region, Right",0YQ,2016,2027
+0YQ50,Open,0YQ5,2016,2027
+0YQ50Z,No Device,0YQ50,2016,2027
+0YQ50ZZ,"Repair Right Inguinal Region, Open Approach",0YQ50Z,2016,2027
+0YQ53,Percutaneous,0YQ5,2016,2027
+0YQ53Z,No Device,0YQ53,2016,2027
+0YQ53ZZ,"Repair Right Inguinal Region, Percutaneous Approach",0YQ53Z,2016,2027
+0YQ54,Percutaneous Endoscopic,0YQ5,2016,2027
+0YQ54Z,No Device,0YQ54,2016,2027
+0YQ54ZZ,"Repair Right Inguinal Region, Percutaneous Endoscopic Approach",0YQ54Z,2016,2027
+0YQ5X,External,0YQ5,2016,2027
+0YQ5XZ,No Device,0YQ5X,2016,2027
+0YQ5XZZ,"Repair Right Inguinal Region, External Approach",0YQ5XZ,2016,2027
+0YQ6,"Inguinal Region, Left",0YQ,2016,2027
+0YQ60,Open,0YQ6,2016,2027
+0YQ60Z,No Device,0YQ60,2016,2027
+0YQ60ZZ,"Repair Left Inguinal Region, Open Approach",0YQ60Z,2016,2027
+0YQ63,Percutaneous,0YQ6,2016,2027
+0YQ63Z,No Device,0YQ63,2016,2027
+0YQ63ZZ,"Repair Left Inguinal Region, Percutaneous Approach",0YQ63Z,2016,2027
+0YQ64,Percutaneous Endoscopic,0YQ6,2016,2027
+0YQ64Z,No Device,0YQ64,2016,2027
+0YQ64ZZ,"Repair Left Inguinal Region, Percutaneous Endoscopic Approach",0YQ64Z,2016,2027
+0YQ6X,External,0YQ6,2016,2027
+0YQ6XZ,No Device,0YQ6X,2016,2027
+0YQ6XZZ,"Repair Left Inguinal Region, External Approach",0YQ6XZ,2016,2027
+0YQ7,"Femoral Region, Right",0YQ,2016,2027
+0YQ70,Open,0YQ7,2016,2027
+0YQ70Z,No Device,0YQ70,2016,2027
+0YQ70ZZ,"Repair Right Femoral Region, Open Approach",0YQ70Z,2016,2027
+0YQ73,Percutaneous,0YQ7,2016,2027
+0YQ73Z,No Device,0YQ73,2016,2027
+0YQ73ZZ,"Repair Right Femoral Region, Percutaneous Approach",0YQ73Z,2016,2027
+0YQ74,Percutaneous Endoscopic,0YQ7,2016,2027
+0YQ74Z,No Device,0YQ74,2016,2027
+0YQ74ZZ,"Repair Right Femoral Region, Percutaneous Endoscopic Approach",0YQ74Z,2016,2027
+0YQ7X,External,0YQ7,2016,2027
+0YQ7XZ,No Device,0YQ7X,2016,2027
+0YQ7XZZ,"Repair Right Femoral Region, External Approach",0YQ7XZ,2016,2027
+0YQ8,"Femoral Region, Left",0YQ,2016,2027
+0YQ80,Open,0YQ8,2016,2027
+0YQ80Z,No Device,0YQ80,2016,2027
+0YQ80ZZ,"Repair Left Femoral Region, Open Approach",0YQ80Z,2016,2027
+0YQ83,Percutaneous,0YQ8,2016,2027
+0YQ83Z,No Device,0YQ83,2016,2027
+0YQ83ZZ,"Repair Left Femoral Region, Percutaneous Approach",0YQ83Z,2016,2027
+0YQ84,Percutaneous Endoscopic,0YQ8,2016,2027
+0YQ84Z,No Device,0YQ84,2016,2027
+0YQ84ZZ,"Repair Left Femoral Region, Percutaneous Endoscopic Approach",0YQ84Z,2016,2027
+0YQ8X,External,0YQ8,2016,2027
+0YQ8XZ,No Device,0YQ8X,2016,2027
+0YQ8XZZ,"Repair Left Femoral Region, External Approach",0YQ8XZ,2016,2027
+0YQ9,"Lower Extremity, Right",0YQ,2016,2027
+0YQ90,Open,0YQ9,2016,2027
+0YQ90Z,No Device,0YQ90,2016,2027
+0YQ90ZZ,"Repair Right Lower Extremity, Open Approach",0YQ90Z,2016,2027
+0YQ93,Percutaneous,0YQ9,2016,2027
+0YQ93Z,No Device,0YQ93,2016,2027
+0YQ93ZZ,"Repair Right Lower Extremity, Percutaneous Approach",0YQ93Z,2016,2027
+0YQ94,Percutaneous Endoscopic,0YQ9,2016,2027
+0YQ94Z,No Device,0YQ94,2016,2027
+0YQ94ZZ,"Repair Right Lower Extremity, Percutaneous Endoscopic Approach",0YQ94Z,2016,2027
+0YQ9X,External,0YQ9,2016,2027
+0YQ9XZ,No Device,0YQ9X,2016,2027
+0YQ9XZZ,"Repair Right Lower Extremity, External Approach",0YQ9XZ,2016,2027
+0YQA,"Inguinal Region, Bilateral",0YQ,2016,2027
+0YQA0,Open,0YQA,2016,2027
+0YQA0Z,No Device,0YQA0,2016,2027
+0YQA0ZZ,"Repair Bilateral Inguinal Region, Open Approach",0YQA0Z,2016,2027
+0YQA3,Percutaneous,0YQA,2016,2027
+0YQA3Z,No Device,0YQA3,2016,2027
+0YQA3ZZ,"Repair Bilateral Inguinal Region, Percutaneous Approach",0YQA3Z,2016,2027
+0YQA4,Percutaneous Endoscopic,0YQA,2016,2027
+0YQA4Z,No Device,0YQA4,2016,2027
+0YQA4ZZ,"Repair Bilateral Inguinal Region, Percutaneous Endoscopic Approach",0YQA4Z,2016,2027
+0YQAX,External,0YQA,2016,2027
+0YQAXZ,No Device,0YQAX,2016,2027
+0YQAXZZ,"Repair Bilateral Inguinal Region, External Approach",0YQAXZ,2016,2027
+0YQB,"Lower Extremity, Left",0YQ,2016,2027
+0YQB0,Open,0YQB,2016,2027
+0YQB0Z,No Device,0YQB0,2016,2027
+0YQB0ZZ,"Repair Left Lower Extremity, Open Approach",0YQB0Z,2016,2027
+0YQB3,Percutaneous,0YQB,2016,2027
+0YQB3Z,No Device,0YQB3,2016,2027
+0YQB3ZZ,"Repair Left Lower Extremity, Percutaneous Approach",0YQB3Z,2016,2027
+0YQB4,Percutaneous Endoscopic,0YQB,2016,2027
+0YQB4Z,No Device,0YQB4,2016,2027
+0YQB4ZZ,"Repair Left Lower Extremity, Percutaneous Endoscopic Approach",0YQB4Z,2016,2027
+0YQBX,External,0YQB,2016,2027
+0YQBXZ,No Device,0YQBX,2016,2027
+0YQBXZZ,"Repair Left Lower Extremity, External Approach",0YQBXZ,2016,2027
+0YQC,"Upper Leg, Right",0YQ,2016,2027
+0YQC0,Open,0YQC,2016,2027
+0YQC0Z,No Device,0YQC0,2016,2027
+0YQC0ZZ,"Repair Right Upper Leg, Open Approach",0YQC0Z,2016,2027
+0YQC3,Percutaneous,0YQC,2016,2027
+0YQC3Z,No Device,0YQC3,2016,2027
+0YQC3ZZ,"Repair Right Upper Leg, Percutaneous Approach",0YQC3Z,2016,2027
+0YQC4,Percutaneous Endoscopic,0YQC,2016,2027
+0YQC4Z,No Device,0YQC4,2016,2027
+0YQC4ZZ,"Repair Right Upper Leg, Percutaneous Endoscopic Approach",0YQC4Z,2016,2027
+0YQCX,External,0YQC,2016,2027
+0YQCXZ,No Device,0YQCX,2016,2027
+0YQCXZZ,"Repair Right Upper Leg, External Approach",0YQCXZ,2016,2027
+0YQD,"Upper Leg, Left",0YQ,2016,2027
+0YQD0,Open,0YQD,2016,2027
+0YQD0Z,No Device,0YQD0,2016,2027
+0YQD0ZZ,"Repair Left Upper Leg, Open Approach",0YQD0Z,2016,2027
+0YQD3,Percutaneous,0YQD,2016,2027
+0YQD3Z,No Device,0YQD3,2016,2027
+0YQD3ZZ,"Repair Left Upper Leg, Percutaneous Approach",0YQD3Z,2016,2027
+0YQD4,Percutaneous Endoscopic,0YQD,2016,2027
+0YQD4Z,No Device,0YQD4,2016,2027
+0YQD4ZZ,"Repair Left Upper Leg, Percutaneous Endoscopic Approach",0YQD4Z,2016,2027
+0YQDX,External,0YQD,2016,2027
+0YQDXZ,No Device,0YQDX,2016,2027
+0YQDXZZ,"Repair Left Upper Leg, External Approach",0YQDXZ,2016,2027
+0YQE,"Femoral Region, Bilateral",0YQ,2016,2027
+0YQE0,Open,0YQE,2016,2027
+0YQE0Z,No Device,0YQE0,2016,2027
+0YQE0ZZ,"Repair Bilateral Femoral Region, Open Approach",0YQE0Z,2016,2027
+0YQE3,Percutaneous,0YQE,2016,2027
+0YQE3Z,No Device,0YQE3,2016,2027
+0YQE3ZZ,"Repair Bilateral Femoral Region, Percutaneous Approach",0YQE3Z,2016,2027
+0YQE4,Percutaneous Endoscopic,0YQE,2016,2027
+0YQE4Z,No Device,0YQE4,2016,2027
+0YQE4ZZ,"Repair Bilateral Femoral Region, Percutaneous Endoscopic Approach",0YQE4Z,2016,2027
+0YQEX,External,0YQE,2016,2027
+0YQEXZ,No Device,0YQEX,2016,2027
+0YQEXZZ,"Repair Bilateral Femoral Region, External Approach",0YQEXZ,2016,2027
+0YQF,"Knee Region, Right",0YQ,2016,2027
+0YQF0,Open,0YQF,2016,2027
+0YQF0Z,No Device,0YQF0,2016,2027
+0YQF0ZZ,"Repair Right Knee Region, Open Approach",0YQF0Z,2016,2027
+0YQF3,Percutaneous,0YQF,2016,2027
+0YQF3Z,No Device,0YQF3,2016,2027
+0YQF3ZZ,"Repair Right Knee Region, Percutaneous Approach",0YQF3Z,2016,2027
+0YQF4,Percutaneous Endoscopic,0YQF,2016,2027
+0YQF4Z,No Device,0YQF4,2016,2027
+0YQF4ZZ,"Repair Right Knee Region, Percutaneous Endoscopic Approach",0YQF4Z,2016,2027
+0YQFX,External,0YQF,2016,2027
+0YQFXZ,No Device,0YQFX,2016,2027
+0YQFXZZ,"Repair Right Knee Region, External Approach",0YQFXZ,2016,2027
+0YQG,"Knee Region, Left",0YQ,2016,2027
+0YQG0,Open,0YQG,2016,2027
+0YQG0Z,No Device,0YQG0,2016,2027
+0YQG0ZZ,"Repair Left Knee Region, Open Approach",0YQG0Z,2016,2027
+0YQG3,Percutaneous,0YQG,2016,2027
+0YQG3Z,No Device,0YQG3,2016,2027
+0YQG3ZZ,"Repair Left Knee Region, Percutaneous Approach",0YQG3Z,2016,2027
+0YQG4,Percutaneous Endoscopic,0YQG,2016,2027
+0YQG4Z,No Device,0YQG4,2016,2027
+0YQG4ZZ,"Repair Left Knee Region, Percutaneous Endoscopic Approach",0YQG4Z,2016,2027
+0YQGX,External,0YQG,2016,2027
+0YQGXZ,No Device,0YQGX,2016,2027
+0YQGXZZ,"Repair Left Knee Region, External Approach",0YQGXZ,2016,2027
+0YQH,"Lower Leg, Right",0YQ,2016,2027
+0YQH0,Open,0YQH,2016,2027
+0YQH0Z,No Device,0YQH0,2016,2027
+0YQH0ZZ,"Repair Right Lower Leg, Open Approach",0YQH0Z,2016,2027
+0YQH3,Percutaneous,0YQH,2016,2027
+0YQH3Z,No Device,0YQH3,2016,2027
+0YQH3ZZ,"Repair Right Lower Leg, Percutaneous Approach",0YQH3Z,2016,2027
+0YQH4,Percutaneous Endoscopic,0YQH,2016,2027
+0YQH4Z,No Device,0YQH4,2016,2027
+0YQH4ZZ,"Repair Right Lower Leg, Percutaneous Endoscopic Approach",0YQH4Z,2016,2027
+0YQHX,External,0YQH,2016,2027
+0YQHXZ,No Device,0YQHX,2016,2027
+0YQHXZZ,"Repair Right Lower Leg, External Approach",0YQHXZ,2016,2027
+0YQJ,"Lower Leg, Left",0YQ,2016,2027
+0YQJ0,Open,0YQJ,2016,2027
+0YQJ0Z,No Device,0YQJ0,2016,2027
+0YQJ0ZZ,"Repair Left Lower Leg, Open Approach",0YQJ0Z,2016,2027
+0YQJ3,Percutaneous,0YQJ,2016,2027
+0YQJ3Z,No Device,0YQJ3,2016,2027
+0YQJ3ZZ,"Repair Left Lower Leg, Percutaneous Approach",0YQJ3Z,2016,2027
+0YQJ4,Percutaneous Endoscopic,0YQJ,2016,2027
+0YQJ4Z,No Device,0YQJ4,2016,2027
+0YQJ4ZZ,"Repair Left Lower Leg, Percutaneous Endoscopic Approach",0YQJ4Z,2016,2027
+0YQJX,External,0YQJ,2016,2027
+0YQJXZ,No Device,0YQJX,2016,2027
+0YQJXZZ,"Repair Left Lower Leg, External Approach",0YQJXZ,2016,2027
+0YQK,"Ankle Region, Right",0YQ,2016,2027
+0YQK0,Open,0YQK,2016,2027
+0YQK0Z,No Device,0YQK0,2016,2027
+0YQK0ZZ,"Repair Right Ankle Region, Open Approach",0YQK0Z,2016,2027
+0YQK3,Percutaneous,0YQK,2016,2027
+0YQK3Z,No Device,0YQK3,2016,2027
+0YQK3ZZ,"Repair Right Ankle Region, Percutaneous Approach",0YQK3Z,2016,2027
+0YQK4,Percutaneous Endoscopic,0YQK,2016,2027
+0YQK4Z,No Device,0YQK4,2016,2027
+0YQK4ZZ,"Repair Right Ankle Region, Percutaneous Endoscopic Approach",0YQK4Z,2016,2027
+0YQKX,External,0YQK,2016,2027
+0YQKXZ,No Device,0YQKX,2016,2027
+0YQKXZZ,"Repair Right Ankle Region, External Approach",0YQKXZ,2016,2027
+0YQL,"Ankle Region, Left",0YQ,2016,2027
+0YQL0,Open,0YQL,2016,2027
+0YQL0Z,No Device,0YQL0,2016,2027
+0YQL0ZZ,"Repair Left Ankle Region, Open Approach",0YQL0Z,2016,2027
+0YQL3,Percutaneous,0YQL,2016,2027
+0YQL3Z,No Device,0YQL3,2016,2027
+0YQL3ZZ,"Repair Left Ankle Region, Percutaneous Approach",0YQL3Z,2016,2027
+0YQL4,Percutaneous Endoscopic,0YQL,2016,2027
+0YQL4Z,No Device,0YQL4,2016,2027
+0YQL4ZZ,"Repair Left Ankle Region, Percutaneous Endoscopic Approach",0YQL4Z,2016,2027
+0YQLX,External,0YQL,2016,2027
+0YQLXZ,No Device,0YQLX,2016,2027
+0YQLXZZ,"Repair Left Ankle Region, External Approach",0YQLXZ,2016,2027
+0YQM,"Foot, Right",0YQ,2016,2027
+0YQM0,Open,0YQM,2016,2027
+0YQM0Z,No Device,0YQM0,2016,2027
+0YQM0ZZ,"Repair Right Foot, Open Approach",0YQM0Z,2016,2027
+0YQM3,Percutaneous,0YQM,2016,2027
+0YQM3Z,No Device,0YQM3,2016,2027
+0YQM3ZZ,"Repair Right Foot, Percutaneous Approach",0YQM3Z,2016,2027
+0YQM4,Percutaneous Endoscopic,0YQM,2016,2027
+0YQM4Z,No Device,0YQM4,2016,2027
+0YQM4ZZ,"Repair Right Foot, Percutaneous Endoscopic Approach",0YQM4Z,2016,2027
+0YQMX,External,0YQM,2016,2027
+0YQMXZ,No Device,0YQMX,2016,2027
+0YQMXZZ,"Repair Right Foot, External Approach",0YQMXZ,2016,2027
+0YQN,"Foot, Left",0YQ,2016,2027
+0YQN0,Open,0YQN,2016,2027
+0YQN0Z,No Device,0YQN0,2016,2027
+0YQN0ZZ,"Repair Left Foot, Open Approach",0YQN0Z,2016,2027
+0YQN3,Percutaneous,0YQN,2016,2027
+0YQN3Z,No Device,0YQN3,2016,2027
+0YQN3ZZ,"Repair Left Foot, Percutaneous Approach",0YQN3Z,2016,2027
+0YQN4,Percutaneous Endoscopic,0YQN,2016,2027
+0YQN4Z,No Device,0YQN4,2016,2027
+0YQN4ZZ,"Repair Left Foot, Percutaneous Endoscopic Approach",0YQN4Z,2016,2027
+0YQNX,External,0YQN,2016,2027
+0YQNXZ,No Device,0YQNX,2016,2027
+0YQNXZZ,"Repair Left Foot, External Approach",0YQNXZ,2016,2027
+0YQP,"1st Toe, Right",0YQ,2016,2027
+0YQP0,Open,0YQP,2016,2027
+0YQP0Z,No Device,0YQP0,2016,2027
+0YQP0ZZ,"Repair Right 1st Toe, Open Approach",0YQP0Z,2016,2027
+0YQP3,Percutaneous,0YQP,2016,2027
+0YQP3Z,No Device,0YQP3,2016,2027
+0YQP3ZZ,"Repair Right 1st Toe, Percutaneous Approach",0YQP3Z,2016,2027
+0YQP4,Percutaneous Endoscopic,0YQP,2016,2027
+0YQP4Z,No Device,0YQP4,2016,2027
+0YQP4ZZ,"Repair Right 1st Toe, Percutaneous Endoscopic Approach",0YQP4Z,2016,2027
+0YQPX,External,0YQP,2016,2027
+0YQPXZ,No Device,0YQPX,2016,2027
+0YQPXZZ,"Repair Right 1st Toe, External Approach",0YQPXZ,2016,2027
+0YQQ,"1st Toe, Left",0YQ,2016,2027
+0YQQ0,Open,0YQQ,2016,2027
+0YQQ0Z,No Device,0YQQ0,2016,2027
+0YQQ0ZZ,"Repair Left 1st Toe, Open Approach",0YQQ0Z,2016,2027
+0YQQ3,Percutaneous,0YQQ,2016,2027
+0YQQ3Z,No Device,0YQQ3,2016,2027
+0YQQ3ZZ,"Repair Left 1st Toe, Percutaneous Approach",0YQQ3Z,2016,2027
+0YQQ4,Percutaneous Endoscopic,0YQQ,2016,2027
+0YQQ4Z,No Device,0YQQ4,2016,2027
+0YQQ4ZZ,"Repair Left 1st Toe, Percutaneous Endoscopic Approach",0YQQ4Z,2016,2027
+0YQQX,External,0YQQ,2016,2027
+0YQQXZ,No Device,0YQQX,2016,2027
+0YQQXZZ,"Repair Left 1st Toe, External Approach",0YQQXZ,2016,2027
+0YQR,"2nd Toe, Right",0YQ,2016,2027
+0YQR0,Open,0YQR,2016,2027
+0YQR0Z,No Device,0YQR0,2016,2027
+0YQR0ZZ,"Repair Right 2nd Toe, Open Approach",0YQR0Z,2016,2027
+0YQR3,Percutaneous,0YQR,2016,2027
+0YQR3Z,No Device,0YQR3,2016,2027
+0YQR3ZZ,"Repair Right 2nd Toe, Percutaneous Approach",0YQR3Z,2016,2027
+0YQR4,Percutaneous Endoscopic,0YQR,2016,2027
+0YQR4Z,No Device,0YQR4,2016,2027
+0YQR4ZZ,"Repair Right 2nd Toe, Percutaneous Endoscopic Approach",0YQR4Z,2016,2027
+0YQRX,External,0YQR,2016,2027
+0YQRXZ,No Device,0YQRX,2016,2027
+0YQRXZZ,"Repair Right 2nd Toe, External Approach",0YQRXZ,2016,2027
+0YQS,"2nd Toe, Left",0YQ,2016,2027
+0YQS0,Open,0YQS,2016,2027
+0YQS0Z,No Device,0YQS0,2016,2027
+0YQS0ZZ,"Repair Left 2nd Toe, Open Approach",0YQS0Z,2016,2027
+0YQS3,Percutaneous,0YQS,2016,2027
+0YQS3Z,No Device,0YQS3,2016,2027
+0YQS3ZZ,"Repair Left 2nd Toe, Percutaneous Approach",0YQS3Z,2016,2027
+0YQS4,Percutaneous Endoscopic,0YQS,2016,2027
+0YQS4Z,No Device,0YQS4,2016,2027
+0YQS4ZZ,"Repair Left 2nd Toe, Percutaneous Endoscopic Approach",0YQS4Z,2016,2027
+0YQSX,External,0YQS,2016,2027
+0YQSXZ,No Device,0YQSX,2016,2027
+0YQSXZZ,"Repair Left 2nd Toe, External Approach",0YQSXZ,2016,2027
+0YQT,"3rd Toe, Right",0YQ,2016,2027
+0YQT0,Open,0YQT,2016,2027
+0YQT0Z,No Device,0YQT0,2016,2027
+0YQT0ZZ,"Repair Right 3rd Toe, Open Approach",0YQT0Z,2016,2027
+0YQT3,Percutaneous,0YQT,2016,2027
+0YQT3Z,No Device,0YQT3,2016,2027
+0YQT3ZZ,"Repair Right 3rd Toe, Percutaneous Approach",0YQT3Z,2016,2027
+0YQT4,Percutaneous Endoscopic,0YQT,2016,2027
+0YQT4Z,No Device,0YQT4,2016,2027
+0YQT4ZZ,"Repair Right 3rd Toe, Percutaneous Endoscopic Approach",0YQT4Z,2016,2027
+0YQTX,External,0YQT,2016,2027
+0YQTXZ,No Device,0YQTX,2016,2027
+0YQTXZZ,"Repair Right 3rd Toe, External Approach",0YQTXZ,2016,2027
+0YQU,"3rd Toe, Left",0YQ,2016,2027
+0YQU0,Open,0YQU,2016,2027
+0YQU0Z,No Device,0YQU0,2016,2027
+0YQU0ZZ,"Repair Left 3rd Toe, Open Approach",0YQU0Z,2016,2027
+0YQU3,Percutaneous,0YQU,2016,2027
+0YQU3Z,No Device,0YQU3,2016,2027
+0YQU3ZZ,"Repair Left 3rd Toe, Percutaneous Approach",0YQU3Z,2016,2027
+0YQU4,Percutaneous Endoscopic,0YQU,2016,2027
+0YQU4Z,No Device,0YQU4,2016,2027
+0YQU4ZZ,"Repair Left 3rd Toe, Percutaneous Endoscopic Approach",0YQU4Z,2016,2027
+0YQUX,External,0YQU,2016,2027
+0YQUXZ,No Device,0YQUX,2016,2027
+0YQUXZZ,"Repair Left 3rd Toe, External Approach",0YQUXZ,2016,2027
+0YQV,"4th Toe, Right",0YQ,2016,2027
+0YQV0,Open,0YQV,2016,2027
+0YQV0Z,No Device,0YQV0,2016,2027
+0YQV0ZZ,"Repair Right 4th Toe, Open Approach",0YQV0Z,2016,2027
+0YQV3,Percutaneous,0YQV,2016,2027
+0YQV3Z,No Device,0YQV3,2016,2027
+0YQV3ZZ,"Repair Right 4th Toe, Percutaneous Approach",0YQV3Z,2016,2027
+0YQV4,Percutaneous Endoscopic,0YQV,2016,2027
+0YQV4Z,No Device,0YQV4,2016,2027
+0YQV4ZZ,"Repair Right 4th Toe, Percutaneous Endoscopic Approach",0YQV4Z,2016,2027
+0YQVX,External,0YQV,2016,2027
+0YQVXZ,No Device,0YQVX,2016,2027
+0YQVXZZ,"Repair Right 4th Toe, External Approach",0YQVXZ,2016,2027
+0YQW,"4th Toe, Left",0YQ,2016,2027
+0YQW0,Open,0YQW,2016,2027
+0YQW0Z,No Device,0YQW0,2016,2027
+0YQW0ZZ,"Repair Left 4th Toe, Open Approach",0YQW0Z,2016,2027
+0YQW3,Percutaneous,0YQW,2016,2027
+0YQW3Z,No Device,0YQW3,2016,2027
+0YQW3ZZ,"Repair Left 4th Toe, Percutaneous Approach",0YQW3Z,2016,2027
+0YQW4,Percutaneous Endoscopic,0YQW,2016,2027
+0YQW4Z,No Device,0YQW4,2016,2027
+0YQW4ZZ,"Repair Left 4th Toe, Percutaneous Endoscopic Approach",0YQW4Z,2016,2027
+0YQWX,External,0YQW,2016,2027
+0YQWXZ,No Device,0YQWX,2016,2027
+0YQWXZZ,"Repair Left 4th Toe, External Approach",0YQWXZ,2016,2027
+0YQX,"5th Toe, Right",0YQ,2016,2027
+0YQX0,Open,0YQX,2016,2027
+0YQX0Z,No Device,0YQX0,2016,2027
+0YQX0ZZ,"Repair Right 5th Toe, Open Approach",0YQX0Z,2016,2027
+0YQX3,Percutaneous,0YQX,2016,2027
+0YQX3Z,No Device,0YQX3,2016,2027
+0YQX3ZZ,"Repair Right 5th Toe, Percutaneous Approach",0YQX3Z,2016,2027
+0YQX4,Percutaneous Endoscopic,0YQX,2016,2027
+0YQX4Z,No Device,0YQX4,2016,2027
+0YQX4ZZ,"Repair Right 5th Toe, Percutaneous Endoscopic Approach",0YQX4Z,2016,2027
+0YQXX,External,0YQX,2016,2027
+0YQXXZ,No Device,0YQXX,2016,2027
+0YQXXZZ,"Repair Right 5th Toe, External Approach",0YQXXZ,2016,2027
+0YQY,"5th Toe, Left",0YQ,2016,2027
+0YQY0,Open,0YQY,2016,2027
+0YQY0Z,No Device,0YQY0,2016,2027
+0YQY0ZZ,"Repair Left 5th Toe, Open Approach",0YQY0Z,2016,2027
+0YQY3,Percutaneous,0YQY,2016,2027
+0YQY3Z,No Device,0YQY3,2016,2027
+0YQY3ZZ,"Repair Left 5th Toe, Percutaneous Approach",0YQY3Z,2016,2027
+0YQY4,Percutaneous Endoscopic,0YQY,2016,2027
+0YQY4Z,No Device,0YQY4,2016,2027
+0YQY4ZZ,"Repair Left 5th Toe, Percutaneous Endoscopic Approach",0YQY4Z,2016,2027
+0YQYX,External,0YQY,2016,2027
+0YQYXZ,No Device,0YQYX,2016,2027
+0YQYXZZ,"Repair Left 5th Toe, External Approach",0YQYXZ,2016,2027
+0YU,Supplement,0Y,2016,2027
+0YU0,"Buttock, Right",0YU,2016,2027
+0YU00,Open,0YU0,2016,2027
+0YU007,Autologous Tissue Substitute,0YU00,2016,2027
+0YU007Z,"Supplement Right Buttock with Autologous Tissue Substitute, Open Approach",0YU007,2016,2027
+0YU00J,Synthetic Substitute,0YU00,2016,2027
+0YU00JZ,"Supplement Right Buttock with Synthetic Substitute, Open Approach",0YU00J,2016,2027
+0YU00K,Nonautologous Tissue Substitute,0YU00,2016,2027
+0YU00KZ,"Supplement Right Buttock with Nonautologous Tissue Substitute, Open Approach",0YU00K,2016,2027
+0YU04,Percutaneous Endoscopic,0YU0,2016,2027
+0YU047,Autologous Tissue Substitute,0YU04,2016,2027
+0YU047Z,"Supplement Right Buttock with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU047,2016,2027
+0YU04J,Synthetic Substitute,0YU04,2016,2027
+0YU04JZ,"Supplement Right Buttock with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU04J,2016,2027
+0YU04K,Nonautologous Tissue Substitute,0YU04,2016,2027
+0YU04KZ,"Supplement Right Buttock with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU04K,2016,2027
+0YU1,"Buttock, Left",0YU,2016,2027
+0YU10,Open,0YU1,2016,2027
+0YU107,Autologous Tissue Substitute,0YU10,2016,2027
+0YU107Z,"Supplement Left Buttock with Autologous Tissue Substitute, Open Approach",0YU107,2016,2027
+0YU10J,Synthetic Substitute,0YU10,2016,2027
+0YU10JZ,"Supplement Left Buttock with Synthetic Substitute, Open Approach",0YU10J,2016,2027
+0YU10K,Nonautologous Tissue Substitute,0YU10,2016,2027
+0YU10KZ,"Supplement Left Buttock with Nonautologous Tissue Substitute, Open Approach",0YU10K,2016,2027
+0YU14,Percutaneous Endoscopic,0YU1,2016,2027
+0YU147,Autologous Tissue Substitute,0YU14,2016,2027
+0YU147Z,"Supplement Left Buttock with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU147,2016,2027
+0YU14J,Synthetic Substitute,0YU14,2016,2027
+0YU14JZ,"Supplement Left Buttock with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU14J,2016,2027
+0YU14K,Nonautologous Tissue Substitute,0YU14,2016,2027
+0YU14KZ,"Supplement Left Buttock with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU14K,2016,2027
+0YU5,"Inguinal Region, Right",0YU,2016,2027
+0YU50,Open,0YU5,2016,2027
+0YU507,Autologous Tissue Substitute,0YU50,2016,2027
+0YU507Z,"Supplement Right Inguinal Region with Autologous Tissue Substitute, Open Approach",0YU507,2016,2027
+0YU50J,Synthetic Substitute,0YU50,2016,2027
+0YU50JZ,"Supplement Right Inguinal Region with Synthetic Substitute, Open Approach",0YU50J,2016,2027
+0YU50K,Nonautologous Tissue Substitute,0YU50,2016,2027
+0YU50KZ,"Supplement Right Inguinal Region with Nonautologous Tissue Substitute, Open Approach",0YU50K,2016,2027
+0YU54,Percutaneous Endoscopic,0YU5,2016,2027
+0YU547,Autologous Tissue Substitute,0YU54,2016,2027
+0YU547Z,"Supplement Right Inguinal Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU547,2016,2027
+0YU54J,Synthetic Substitute,0YU54,2016,2027
+0YU54JZ,"Supplement Right Inguinal Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU54J,2016,2027
+0YU54K,Nonautologous Tissue Substitute,0YU54,2016,2027
+0YU54KZ,"Supplement Right Inguinal Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU54K,2016,2027
+0YU6,"Inguinal Region, Left",0YU,2016,2027
+0YU60,Open,0YU6,2016,2027
+0YU607,Autologous Tissue Substitute,0YU60,2016,2027
+0YU607Z,"Supplement Left Inguinal Region with Autologous Tissue Substitute, Open Approach",0YU607,2016,2027
+0YU60J,Synthetic Substitute,0YU60,2016,2027
+0YU60JZ,"Supplement Left Inguinal Region with Synthetic Substitute, Open Approach",0YU60J,2016,2027
+0YU60K,Nonautologous Tissue Substitute,0YU60,2016,2027
+0YU60KZ,"Supplement Left Inguinal Region with Nonautologous Tissue Substitute, Open Approach",0YU60K,2016,2027
+0YU64,Percutaneous Endoscopic,0YU6,2016,2027
+0YU647,Autologous Tissue Substitute,0YU64,2016,2027
+0YU647Z,"Supplement Left Inguinal Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU647,2016,2027
+0YU64J,Synthetic Substitute,0YU64,2016,2027
+0YU64JZ,"Supplement Left Inguinal Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU64J,2016,2027
+0YU64K,Nonautologous Tissue Substitute,0YU64,2016,2027
+0YU64KZ,"Supplement Left Inguinal Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU64K,2016,2027
+0YU7,"Femoral Region, Right",0YU,2016,2027
+0YU70,Open,0YU7,2016,2027
+0YU707,Autologous Tissue Substitute,0YU70,2016,2027
+0YU707Z,"Supplement Right Femoral Region with Autologous Tissue Substitute, Open Approach",0YU707,2016,2027
+0YU70J,Synthetic Substitute,0YU70,2016,2027
+0YU70JZ,"Supplement Right Femoral Region with Synthetic Substitute, Open Approach",0YU70J,2016,2027
+0YU70K,Nonautologous Tissue Substitute,0YU70,2016,2027
+0YU70KZ,"Supplement Right Femoral Region with Nonautologous Tissue Substitute, Open Approach",0YU70K,2016,2027
+0YU74,Percutaneous Endoscopic,0YU7,2016,2027
+0YU747,Autologous Tissue Substitute,0YU74,2016,2027
+0YU747Z,"Supplement Right Femoral Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU747,2016,2027
+0YU74J,Synthetic Substitute,0YU74,2016,2027
+0YU74JZ,"Supplement Right Femoral Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU74J,2016,2027
+0YU74K,Nonautologous Tissue Substitute,0YU74,2016,2027
+0YU74KZ,"Supplement Right Femoral Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU74K,2016,2027
+0YU8,"Femoral Region, Left",0YU,2016,2027
+0YU80,Open,0YU8,2016,2027
+0YU807,Autologous Tissue Substitute,0YU80,2016,2027
+0YU807Z,"Supplement Left Femoral Region with Autologous Tissue Substitute, Open Approach",0YU807,2016,2027
+0YU80J,Synthetic Substitute,0YU80,2016,2027
+0YU80JZ,"Supplement Left Femoral Region with Synthetic Substitute, Open Approach",0YU80J,2016,2027
+0YU80K,Nonautologous Tissue Substitute,0YU80,2016,2027
+0YU80KZ,"Supplement Left Femoral Region with Nonautologous Tissue Substitute, Open Approach",0YU80K,2016,2027
+0YU84,Percutaneous Endoscopic,0YU8,2016,2027
+0YU847,Autologous Tissue Substitute,0YU84,2016,2027
+0YU847Z,"Supplement Left Femoral Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU847,2016,2027
+0YU84J,Synthetic Substitute,0YU84,2016,2027
+0YU84JZ,"Supplement Left Femoral Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU84J,2016,2027
+0YU84K,Nonautologous Tissue Substitute,0YU84,2016,2027
+0YU84KZ,"Supplement Left Femoral Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU84K,2016,2027
+0YU9,"Lower Extremity, Right",0YU,2016,2027
+0YU90,Open,0YU9,2016,2027
+0YU907,Autologous Tissue Substitute,0YU90,2016,2027
+0YU907Z,"Supplement Right Lower Extremity with Autologous Tissue Substitute, Open Approach",0YU907,2016,2027
+0YU90J,Synthetic Substitute,0YU90,2016,2027
+0YU90JZ,"Supplement Right Lower Extremity with Synthetic Substitute, Open Approach",0YU90J,2016,2027
+0YU90K,Nonautologous Tissue Substitute,0YU90,2016,2027
+0YU90KZ,"Supplement Right Lower Extremity with Nonautologous Tissue Substitute, Open Approach",0YU90K,2016,2027
+0YU94,Percutaneous Endoscopic,0YU9,2016,2027
+0YU947,Autologous Tissue Substitute,0YU94,2016,2027
+0YU947Z,"Supplement Right Lower Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU947,2016,2027
+0YU94J,Synthetic Substitute,0YU94,2016,2027
+0YU94JZ,"Supplement Right Lower Extremity with Synthetic Substitute, Percutaneous Endoscopic Approach",0YU94J,2016,2027
+0YU94K,Nonautologous Tissue Substitute,0YU94,2016,2027
+0YU94KZ,"Supplement Right Lower Extremity with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YU94K,2016,2027
+0YUA,"Inguinal Region, Bilateral",0YU,2016,2027
+0YUA0,Open,0YUA,2016,2027
+0YUA07,Autologous Tissue Substitute,0YUA0,2016,2027
+0YUA07Z,"Supplement Bilateral Inguinal Region with Autologous Tissue Substitute, Open Approach",0YUA07,2016,2027
+0YUA0J,Synthetic Substitute,0YUA0,2016,2027
+0YUA0JZ,"Supplement Bilateral Inguinal Region with Synthetic Substitute, Open Approach",0YUA0J,2016,2027
+0YUA0K,Nonautologous Tissue Substitute,0YUA0,2016,2027
+0YUA0KZ,"Supplement Bilateral Inguinal Region with Nonautologous Tissue Substitute, Open Approach",0YUA0K,2016,2027
+0YUA4,Percutaneous Endoscopic,0YUA,2016,2027
+0YUA47,Autologous Tissue Substitute,0YUA4,2016,2027
+0YUA47Z,"Supplement Bilateral Inguinal Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUA47,2016,2027
+0YUA4J,Synthetic Substitute,0YUA4,2016,2027
+0YUA4JZ,"Supplement Bilateral Inguinal Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUA4J,2016,2027
+0YUA4K,Nonautologous Tissue Substitute,0YUA4,2016,2027
+0YUA4KZ,"Supplement Bilateral Inguinal Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUA4K,2016,2027
+0YUB,"Lower Extremity, Left",0YU,2016,2027
+0YUB0,Open,0YUB,2016,2027
+0YUB07,Autologous Tissue Substitute,0YUB0,2016,2027
+0YUB07Z,"Supplement Left Lower Extremity with Autologous Tissue Substitute, Open Approach",0YUB07,2016,2027
+0YUB0J,Synthetic Substitute,0YUB0,2016,2027
+0YUB0JZ,"Supplement Left Lower Extremity with Synthetic Substitute, Open Approach",0YUB0J,2016,2027
+0YUB0K,Nonautologous Tissue Substitute,0YUB0,2016,2027
+0YUB0KZ,"Supplement Left Lower Extremity with Nonautologous Tissue Substitute, Open Approach",0YUB0K,2016,2027
+0YUB4,Percutaneous Endoscopic,0YUB,2016,2027
+0YUB47,Autologous Tissue Substitute,0YUB4,2016,2027
+0YUB47Z,"Supplement Left Lower Extremity with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUB47,2016,2027
+0YUB4J,Synthetic Substitute,0YUB4,2016,2027
+0YUB4JZ,"Supplement Left Lower Extremity with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUB4J,2016,2027
+0YUB4K,Nonautologous Tissue Substitute,0YUB4,2016,2027
+0YUB4KZ,"Supplement Left Lower Extremity with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUB4K,2016,2027
+0YUC,"Upper Leg, Right",0YU,2016,2027
+0YUC0,Open,0YUC,2016,2027
+0YUC07,Autologous Tissue Substitute,0YUC0,2016,2027
+0YUC07Z,"Supplement Right Upper Leg with Autologous Tissue Substitute, Open Approach",0YUC07,2016,2027
+0YUC0J,Synthetic Substitute,0YUC0,2016,2027
+0YUC0JZ,"Supplement Right Upper Leg with Synthetic Substitute, Open Approach",0YUC0J,2016,2027
+0YUC0K,Nonautologous Tissue Substitute,0YUC0,2016,2027
+0YUC0KZ,"Supplement Right Upper Leg with Nonautologous Tissue Substitute, Open Approach",0YUC0K,2016,2027
+0YUC4,Percutaneous Endoscopic,0YUC,2016,2027
+0YUC47,Autologous Tissue Substitute,0YUC4,2016,2027
+0YUC47Z,"Supplement Right Upper Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUC47,2016,2027
+0YUC4J,Synthetic Substitute,0YUC4,2016,2027
+0YUC4JZ,"Supplement Right Upper Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUC4J,2016,2027
+0YUC4K,Nonautologous Tissue Substitute,0YUC4,2016,2027
+0YUC4KZ,"Supplement Right Upper Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUC4K,2016,2027
+0YUD,"Upper Leg, Left",0YU,2016,2027
+0YUD0,Open,0YUD,2016,2027
+0YUD07,Autologous Tissue Substitute,0YUD0,2016,2027
+0YUD07Z,"Supplement Left Upper Leg with Autologous Tissue Substitute, Open Approach",0YUD07,2016,2027
+0YUD0J,Synthetic Substitute,0YUD0,2016,2027
+0YUD0JZ,"Supplement Left Upper Leg with Synthetic Substitute, Open Approach",0YUD0J,2016,2027
+0YUD0K,Nonautologous Tissue Substitute,0YUD0,2016,2027
+0YUD0KZ,"Supplement Left Upper Leg with Nonautologous Tissue Substitute, Open Approach",0YUD0K,2016,2027
+0YUD4,Percutaneous Endoscopic,0YUD,2016,2027
+0YUD47,Autologous Tissue Substitute,0YUD4,2016,2027
+0YUD47Z,"Supplement Left Upper Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUD47,2016,2027
+0YUD4J,Synthetic Substitute,0YUD4,2016,2027
+0YUD4JZ,"Supplement Left Upper Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUD4J,2016,2027
+0YUD4K,Nonautologous Tissue Substitute,0YUD4,2016,2027
+0YUD4KZ,"Supplement Left Upper Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUD4K,2016,2027
+0YUE,"Femoral Region, Bilateral",0YU,2016,2027
+0YUE0,Open,0YUE,2016,2027
+0YUE07,Autologous Tissue Substitute,0YUE0,2016,2027
+0YUE07Z,"Supplement Bilateral Femoral Region with Autologous Tissue Substitute, Open Approach",0YUE07,2016,2027
+0YUE0J,Synthetic Substitute,0YUE0,2016,2027
+0YUE0JZ,"Supplement Bilateral Femoral Region with Synthetic Substitute, Open Approach",0YUE0J,2016,2027
+0YUE0K,Nonautologous Tissue Substitute,0YUE0,2016,2027
+0YUE0KZ,"Supplement Bilateral Femoral Region with Nonautologous Tissue Substitute, Open Approach",0YUE0K,2016,2027
+0YUE4,Percutaneous Endoscopic,0YUE,2016,2027
+0YUE47,Autologous Tissue Substitute,0YUE4,2016,2027
+0YUE47Z,"Supplement Bilateral Femoral Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUE47,2016,2027
+0YUE4J,Synthetic Substitute,0YUE4,2016,2027
+0YUE4JZ,"Supplement Bilateral Femoral Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUE4J,2016,2027
+0YUE4K,Nonautologous Tissue Substitute,0YUE4,2016,2027
+0YUE4KZ,"Supplement Bilateral Femoral Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUE4K,2016,2027
+0YUF,"Knee Region, Right",0YU,2016,2027
+0YUF0,Open,0YUF,2016,2027
+0YUF07,Autologous Tissue Substitute,0YUF0,2016,2027
+0YUF07Z,"Supplement Right Knee Region with Autologous Tissue Substitute, Open Approach",0YUF07,2016,2027
+0YUF0J,Synthetic Substitute,0YUF0,2016,2027
+0YUF0JZ,"Supplement Right Knee Region with Synthetic Substitute, Open Approach",0YUF0J,2016,2027
+0YUF0K,Nonautologous Tissue Substitute,0YUF0,2016,2027
+0YUF0KZ,"Supplement Right Knee Region with Nonautologous Tissue Substitute, Open Approach",0YUF0K,2016,2027
+0YUF4,Percutaneous Endoscopic,0YUF,2016,2027
+0YUF47,Autologous Tissue Substitute,0YUF4,2016,2027
+0YUF47Z,"Supplement Right Knee Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUF47,2016,2027
+0YUF4J,Synthetic Substitute,0YUF4,2016,2027
+0YUF4JZ,"Supplement Right Knee Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUF4J,2016,2027
+0YUF4K,Nonautologous Tissue Substitute,0YUF4,2016,2027
+0YUF4KZ,"Supplement Right Knee Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUF4K,2016,2027
+0YUG,"Knee Region, Left",0YU,2016,2027
+0YUG0,Open,0YUG,2016,2027
+0YUG07,Autologous Tissue Substitute,0YUG0,2016,2027
+0YUG07Z,"Supplement Left Knee Region with Autologous Tissue Substitute, Open Approach",0YUG07,2016,2027
+0YUG0J,Synthetic Substitute,0YUG0,2016,2027
+0YUG0JZ,"Supplement Left Knee Region with Synthetic Substitute, Open Approach",0YUG0J,2016,2027
+0YUG0K,Nonautologous Tissue Substitute,0YUG0,2016,2027
+0YUG0KZ,"Supplement Left Knee Region with Nonautologous Tissue Substitute, Open Approach",0YUG0K,2016,2027
+0YUG4,Percutaneous Endoscopic,0YUG,2016,2027
+0YUG47,Autologous Tissue Substitute,0YUG4,2016,2027
+0YUG47Z,"Supplement Left Knee Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUG47,2016,2027
+0YUG4J,Synthetic Substitute,0YUG4,2016,2027
+0YUG4JZ,"Supplement Left Knee Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUG4J,2016,2027
+0YUG4K,Nonautologous Tissue Substitute,0YUG4,2016,2027
+0YUG4KZ,"Supplement Left Knee Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUG4K,2016,2027
+0YUH,"Lower Leg, Right",0YU,2016,2027
+0YUH0,Open,0YUH,2016,2027
+0YUH07,Autologous Tissue Substitute,0YUH0,2016,2027
+0YUH07Z,"Supplement Right Lower Leg with Autologous Tissue Substitute, Open Approach",0YUH07,2016,2027
+0YUH0J,Synthetic Substitute,0YUH0,2016,2027
+0YUH0JZ,"Supplement Right Lower Leg with Synthetic Substitute, Open Approach",0YUH0J,2016,2027
+0YUH0K,Nonautologous Tissue Substitute,0YUH0,2016,2027
+0YUH0KZ,"Supplement Right Lower Leg with Nonautologous Tissue Substitute, Open Approach",0YUH0K,2016,2027
+0YUH4,Percutaneous Endoscopic,0YUH,2016,2027
+0YUH47,Autologous Tissue Substitute,0YUH4,2016,2027
+0YUH47Z,"Supplement Right Lower Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUH47,2016,2027
+0YUH4J,Synthetic Substitute,0YUH4,2016,2027
+0YUH4JZ,"Supplement Right Lower Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUH4J,2016,2027
+0YUH4K,Nonautologous Tissue Substitute,0YUH4,2016,2027
+0YUH4KZ,"Supplement Right Lower Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUH4K,2016,2027
+0YUJ,"Lower Leg, Left",0YU,2016,2027
+0YUJ0,Open,0YUJ,2016,2027
+0YUJ07,Autologous Tissue Substitute,0YUJ0,2016,2027
+0YUJ07Z,"Supplement Left Lower Leg with Autologous Tissue Substitute, Open Approach",0YUJ07,2016,2027
+0YUJ0J,Synthetic Substitute,0YUJ0,2016,2027
+0YUJ0JZ,"Supplement Left Lower Leg with Synthetic Substitute, Open Approach",0YUJ0J,2016,2027
+0YUJ0K,Nonautologous Tissue Substitute,0YUJ0,2016,2027
+0YUJ0KZ,"Supplement Left Lower Leg with Nonautologous Tissue Substitute, Open Approach",0YUJ0K,2016,2027
+0YUJ4,Percutaneous Endoscopic,0YUJ,2016,2027
+0YUJ47,Autologous Tissue Substitute,0YUJ4,2016,2027
+0YUJ47Z,"Supplement Left Lower Leg with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUJ47,2016,2027
+0YUJ4J,Synthetic Substitute,0YUJ4,2016,2027
+0YUJ4JZ,"Supplement Left Lower Leg with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUJ4J,2016,2027
+0YUJ4K,Nonautologous Tissue Substitute,0YUJ4,2016,2027
+0YUJ4KZ,"Supplement Left Lower Leg with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUJ4K,2016,2027
+0YUK,"Ankle Region, Right",0YU,2016,2027
+0YUK0,Open,0YUK,2016,2027
+0YUK07,Autologous Tissue Substitute,0YUK0,2016,2027
+0YUK07Z,"Supplement Right Ankle Region with Autologous Tissue Substitute, Open Approach",0YUK07,2016,2027
+0YUK0J,Synthetic Substitute,0YUK0,2016,2027
+0YUK0JZ,"Supplement Right Ankle Region with Synthetic Substitute, Open Approach",0YUK0J,2016,2027
+0YUK0K,Nonautologous Tissue Substitute,0YUK0,2016,2027
+0YUK0KZ,"Supplement Right Ankle Region with Nonautologous Tissue Substitute, Open Approach",0YUK0K,2016,2027
+0YUK4,Percutaneous Endoscopic,0YUK,2016,2027
+0YUK47,Autologous Tissue Substitute,0YUK4,2016,2027
+0YUK47Z,"Supplement Right Ankle Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUK47,2016,2027
+0YUK4J,Synthetic Substitute,0YUK4,2016,2027
+0YUK4JZ,"Supplement Right Ankle Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUK4J,2016,2027
+0YUK4K,Nonautologous Tissue Substitute,0YUK4,2016,2027
+0YUK4KZ,"Supplement Right Ankle Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUK4K,2016,2027
+0YUL,"Ankle Region, Left",0YU,2016,2027
+0YUL0,Open,0YUL,2016,2027
+0YUL07,Autologous Tissue Substitute,0YUL0,2016,2027
+0YUL07Z,"Supplement Left Ankle Region with Autologous Tissue Substitute, Open Approach",0YUL07,2016,2027
+0YUL0J,Synthetic Substitute,0YUL0,2016,2027
+0YUL0JZ,"Supplement Left Ankle Region with Synthetic Substitute, Open Approach",0YUL0J,2016,2027
+0YUL0K,Nonautologous Tissue Substitute,0YUL0,2016,2027
+0YUL0KZ,"Supplement Left Ankle Region with Nonautologous Tissue Substitute, Open Approach",0YUL0K,2016,2027
+0YUL4,Percutaneous Endoscopic,0YUL,2016,2027
+0YUL47,Autologous Tissue Substitute,0YUL4,2016,2027
+0YUL47Z,"Supplement Left Ankle Region with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUL47,2016,2027
+0YUL4J,Synthetic Substitute,0YUL4,2016,2027
+0YUL4JZ,"Supplement Left Ankle Region with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUL4J,2016,2027
+0YUL4K,Nonautologous Tissue Substitute,0YUL4,2016,2027
+0YUL4KZ,"Supplement Left Ankle Region with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUL4K,2016,2027
+0YUM,"Foot, Right",0YU,2016,2027
+0YUM0,Open,0YUM,2016,2027
+0YUM07,Autologous Tissue Substitute,0YUM0,2016,2027
+0YUM07Z,"Supplement Right Foot with Autologous Tissue Substitute, Open Approach",0YUM07,2016,2027
+0YUM0J,Synthetic Substitute,0YUM0,2016,2027
+0YUM0JZ,"Supplement Right Foot with Synthetic Substitute, Open Approach",0YUM0J,2016,2027
+0YUM0K,Nonautologous Tissue Substitute,0YUM0,2016,2027
+0YUM0KZ,"Supplement Right Foot with Nonautologous Tissue Substitute, Open Approach",0YUM0K,2016,2027
+0YUM4,Percutaneous Endoscopic,0YUM,2016,2027
+0YUM47,Autologous Tissue Substitute,0YUM4,2016,2027
+0YUM47Z,"Supplement Right Foot with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUM47,2016,2027
+0YUM4J,Synthetic Substitute,0YUM4,2016,2027
+0YUM4JZ,"Supplement Right Foot with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUM4J,2016,2027
+0YUM4K,Nonautologous Tissue Substitute,0YUM4,2016,2027
+0YUM4KZ,"Supplement Right Foot with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUM4K,2016,2027
+0YUN,"Foot, Left",0YU,2016,2027
+0YUN0,Open,0YUN,2016,2027
+0YUN07,Autologous Tissue Substitute,0YUN0,2016,2027
+0YUN07Z,"Supplement Left Foot with Autologous Tissue Substitute, Open Approach",0YUN07,2016,2027
+0YUN0J,Synthetic Substitute,0YUN0,2016,2027
+0YUN0JZ,"Supplement Left Foot with Synthetic Substitute, Open Approach",0YUN0J,2016,2027
+0YUN0K,Nonautologous Tissue Substitute,0YUN0,2016,2027
+0YUN0KZ,"Supplement Left Foot with Nonautologous Tissue Substitute, Open Approach",0YUN0K,2016,2027
+0YUN4,Percutaneous Endoscopic,0YUN,2016,2027
+0YUN47,Autologous Tissue Substitute,0YUN4,2016,2027
+0YUN47Z,"Supplement Left Foot with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUN47,2016,2027
+0YUN4J,Synthetic Substitute,0YUN4,2016,2027
+0YUN4JZ,"Supplement Left Foot with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUN4J,2016,2027
+0YUN4K,Nonautologous Tissue Substitute,0YUN4,2016,2027
+0YUN4KZ,"Supplement Left Foot with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUN4K,2016,2027
+0YUP,"1st Toe, Right",0YU,2016,2027
+0YUP0,Open,0YUP,2016,2027
+0YUP07,Autologous Tissue Substitute,0YUP0,2016,2027
+0YUP07Z,"Supplement Right 1st Toe with Autologous Tissue Substitute, Open Approach",0YUP07,2016,2027
+0YUP0J,Synthetic Substitute,0YUP0,2016,2027
+0YUP0JZ,"Supplement Right 1st Toe with Synthetic Substitute, Open Approach",0YUP0J,2016,2027
+0YUP0K,Nonautologous Tissue Substitute,0YUP0,2016,2027
+0YUP0KZ,"Supplement Right 1st Toe with Nonautologous Tissue Substitute, Open Approach",0YUP0K,2016,2027
+0YUP4,Percutaneous Endoscopic,0YUP,2016,2027
+0YUP47,Autologous Tissue Substitute,0YUP4,2016,2027
+0YUP47Z,"Supplement Right 1st Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUP47,2016,2027
+0YUP4J,Synthetic Substitute,0YUP4,2016,2027
+0YUP4JZ,"Supplement Right 1st Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUP4J,2016,2027
+0YUP4K,Nonautologous Tissue Substitute,0YUP4,2016,2027
+0YUP4KZ,"Supplement Right 1st Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUP4K,2016,2027
+0YUQ,"1st Toe, Left",0YU,2016,2027
+0YUQ0,Open,0YUQ,2016,2027
+0YUQ07,Autologous Tissue Substitute,0YUQ0,2016,2027
+0YUQ07Z,"Supplement Left 1st Toe with Autologous Tissue Substitute, Open Approach",0YUQ07,2016,2027
+0YUQ0J,Synthetic Substitute,0YUQ0,2016,2027
+0YUQ0JZ,"Supplement Left 1st Toe with Synthetic Substitute, Open Approach",0YUQ0J,2016,2027
+0YUQ0K,Nonautologous Tissue Substitute,0YUQ0,2016,2027
+0YUQ0KZ,"Supplement Left 1st Toe with Nonautologous Tissue Substitute, Open Approach",0YUQ0K,2016,2027
+0YUQ4,Percutaneous Endoscopic,0YUQ,2016,2027
+0YUQ47,Autologous Tissue Substitute,0YUQ4,2016,2027
+0YUQ47Z,"Supplement Left 1st Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUQ47,2016,2027
+0YUQ4J,Synthetic Substitute,0YUQ4,2016,2027
+0YUQ4JZ,"Supplement Left 1st Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUQ4J,2016,2027
+0YUQ4K,Nonautologous Tissue Substitute,0YUQ4,2016,2027
+0YUQ4KZ,"Supplement Left 1st Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUQ4K,2016,2027
+0YUR,"2nd Toe, Right",0YU,2016,2027
+0YUR0,Open,0YUR,2016,2027
+0YUR07,Autologous Tissue Substitute,0YUR0,2016,2027
+0YUR07Z,"Supplement Right 2nd Toe with Autologous Tissue Substitute, Open Approach",0YUR07,2016,2027
+0YUR0J,Synthetic Substitute,0YUR0,2016,2027
+0YUR0JZ,"Supplement Right 2nd Toe with Synthetic Substitute, Open Approach",0YUR0J,2016,2027
+0YUR0K,Nonautologous Tissue Substitute,0YUR0,2016,2027
+0YUR0KZ,"Supplement Right 2nd Toe with Nonautologous Tissue Substitute, Open Approach",0YUR0K,2016,2027
+0YUR4,Percutaneous Endoscopic,0YUR,2016,2027
+0YUR47,Autologous Tissue Substitute,0YUR4,2016,2027
+0YUR47Z,"Supplement Right 2nd Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUR47,2016,2027
+0YUR4J,Synthetic Substitute,0YUR4,2016,2027
+0YUR4JZ,"Supplement Right 2nd Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUR4J,2016,2027
+0YUR4K,Nonautologous Tissue Substitute,0YUR4,2016,2027
+0YUR4KZ,"Supplement Right 2nd Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUR4K,2016,2027
+0YUS,"2nd Toe, Left",0YU,2016,2027
+0YUS0,Open,0YUS,2016,2027
+0YUS07,Autologous Tissue Substitute,0YUS0,2016,2027
+0YUS07Z,"Supplement Left 2nd Toe with Autologous Tissue Substitute, Open Approach",0YUS07,2016,2027
+0YUS0J,Synthetic Substitute,0YUS0,2016,2027
+0YUS0JZ,"Supplement Left 2nd Toe with Synthetic Substitute, Open Approach",0YUS0J,2016,2027
+0YUS0K,Nonautologous Tissue Substitute,0YUS0,2016,2027
+0YUS0KZ,"Supplement Left 2nd Toe with Nonautologous Tissue Substitute, Open Approach",0YUS0K,2016,2027
+0YUS4,Percutaneous Endoscopic,0YUS,2016,2027
+0YUS47,Autologous Tissue Substitute,0YUS4,2016,2027
+0YUS47Z,"Supplement Left 2nd Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUS47,2016,2027
+0YUS4J,Synthetic Substitute,0YUS4,2016,2027
+0YUS4JZ,"Supplement Left 2nd Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUS4J,2016,2027
+0YUS4K,Nonautologous Tissue Substitute,0YUS4,2016,2027
+0YUS4KZ,"Supplement Left 2nd Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUS4K,2016,2027
+0YUT,"3rd Toe, Right",0YU,2016,2027
+0YUT0,Open,0YUT,2016,2027
+0YUT07,Autologous Tissue Substitute,0YUT0,2016,2027
+0YUT07Z,"Supplement Right 3rd Toe with Autologous Tissue Substitute, Open Approach",0YUT07,2016,2027
+0YUT0J,Synthetic Substitute,0YUT0,2016,2027
+0YUT0JZ,"Supplement Right 3rd Toe with Synthetic Substitute, Open Approach",0YUT0J,2016,2027
+0YUT0K,Nonautologous Tissue Substitute,0YUT0,2016,2027
+0YUT0KZ,"Supplement Right 3rd Toe with Nonautologous Tissue Substitute, Open Approach",0YUT0K,2016,2027
+0YUT4,Percutaneous Endoscopic,0YUT,2016,2027
+0YUT47,Autologous Tissue Substitute,0YUT4,2016,2027
+0YUT47Z,"Supplement Right 3rd Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUT47,2016,2027
+0YUT4J,Synthetic Substitute,0YUT4,2016,2027
+0YUT4JZ,"Supplement Right 3rd Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUT4J,2016,2027
+0YUT4K,Nonautologous Tissue Substitute,0YUT4,2016,2027
+0YUT4KZ,"Supplement Right 3rd Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUT4K,2016,2027
+0YUU,"3rd Toe, Left",0YU,2016,2027
+0YUU0,Open,0YUU,2016,2027
+0YUU07,Autologous Tissue Substitute,0YUU0,2016,2027
+0YUU07Z,"Supplement Left 3rd Toe with Autologous Tissue Substitute, Open Approach",0YUU07,2016,2027
+0YUU0J,Synthetic Substitute,0YUU0,2016,2027
+0YUU0JZ,"Supplement Left 3rd Toe with Synthetic Substitute, Open Approach",0YUU0J,2016,2027
+0YUU0K,Nonautologous Tissue Substitute,0YUU0,2016,2027
+0YUU0KZ,"Supplement Left 3rd Toe with Nonautologous Tissue Substitute, Open Approach",0YUU0K,2016,2027
+0YUU4,Percutaneous Endoscopic,0YUU,2016,2027
+0YUU47,Autologous Tissue Substitute,0YUU4,2016,2027
+0YUU47Z,"Supplement Left 3rd Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUU47,2016,2027
+0YUU4J,Synthetic Substitute,0YUU4,2016,2027
+0YUU4JZ,"Supplement Left 3rd Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUU4J,2016,2027
+0YUU4K,Nonautologous Tissue Substitute,0YUU4,2016,2027
+0YUU4KZ,"Supplement Left 3rd Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUU4K,2016,2027
+0YUV,"4th Toe, Right",0YU,2016,2027
+0YUV0,Open,0YUV,2016,2027
+0YUV07,Autologous Tissue Substitute,0YUV0,2016,2027
+0YUV07Z,"Supplement Right 4th Toe with Autologous Tissue Substitute, Open Approach",0YUV07,2016,2027
+0YUV0J,Synthetic Substitute,0YUV0,2016,2027
+0YUV0JZ,"Supplement Right 4th Toe with Synthetic Substitute, Open Approach",0YUV0J,2016,2027
+0YUV0K,Nonautologous Tissue Substitute,0YUV0,2016,2027
+0YUV0KZ,"Supplement Right 4th Toe with Nonautologous Tissue Substitute, Open Approach",0YUV0K,2016,2027
+0YUV4,Percutaneous Endoscopic,0YUV,2016,2027
+0YUV47,Autologous Tissue Substitute,0YUV4,2016,2027
+0YUV47Z,"Supplement Right 4th Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUV47,2016,2027
+0YUV4J,Synthetic Substitute,0YUV4,2016,2027
+0YUV4JZ,"Supplement Right 4th Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUV4J,2016,2027
+0YUV4K,Nonautologous Tissue Substitute,0YUV4,2016,2027
+0YUV4KZ,"Supplement Right 4th Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUV4K,2016,2027
+0YUW,"4th Toe, Left",0YU,2016,2027
+0YUW0,Open,0YUW,2016,2027
+0YUW07,Autologous Tissue Substitute,0YUW0,2016,2027
+0YUW07Z,"Supplement Left 4th Toe with Autologous Tissue Substitute, Open Approach",0YUW07,2016,2027
+0YUW0J,Synthetic Substitute,0YUW0,2016,2027
+0YUW0JZ,"Supplement Left 4th Toe with Synthetic Substitute, Open Approach",0YUW0J,2016,2027
+0YUW0K,Nonautologous Tissue Substitute,0YUW0,2016,2027
+0YUW0KZ,"Supplement Left 4th Toe with Nonautologous Tissue Substitute, Open Approach",0YUW0K,2016,2027
+0YUW4,Percutaneous Endoscopic,0YUW,2016,2027
+0YUW47,Autologous Tissue Substitute,0YUW4,2016,2027
+0YUW47Z,"Supplement Left 4th Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUW47,2016,2027
+0YUW4J,Synthetic Substitute,0YUW4,2016,2027
+0YUW4JZ,"Supplement Left 4th Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUW4J,2016,2027
+0YUW4K,Nonautologous Tissue Substitute,0YUW4,2016,2027
+0YUW4KZ,"Supplement Left 4th Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUW4K,2016,2027
+0YUX,"5th Toe, Right",0YU,2016,2027
+0YUX0,Open,0YUX,2016,2027
+0YUX07,Autologous Tissue Substitute,0YUX0,2016,2027
+0YUX07Z,"Supplement Right 5th Toe with Autologous Tissue Substitute, Open Approach",0YUX07,2016,2027
+0YUX0J,Synthetic Substitute,0YUX0,2016,2027
+0YUX0JZ,"Supplement Right 5th Toe with Synthetic Substitute, Open Approach",0YUX0J,2016,2027
+0YUX0K,Nonautologous Tissue Substitute,0YUX0,2016,2027
+0YUX0KZ,"Supplement Right 5th Toe with Nonautologous Tissue Substitute, Open Approach",0YUX0K,2016,2027
+0YUX4,Percutaneous Endoscopic,0YUX,2016,2027
+0YUX47,Autologous Tissue Substitute,0YUX4,2016,2027
+0YUX47Z,"Supplement Right 5th Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUX47,2016,2027
+0YUX4J,Synthetic Substitute,0YUX4,2016,2027
+0YUX4JZ,"Supplement Right 5th Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUX4J,2016,2027
+0YUX4K,Nonautologous Tissue Substitute,0YUX4,2016,2027
+0YUX4KZ,"Supplement Right 5th Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUX4K,2016,2027
+0YUY,"5th Toe, Left",0YU,2016,2027
+0YUY0,Open,0YUY,2016,2027
+0YUY07,Autologous Tissue Substitute,0YUY0,2016,2027
+0YUY07Z,"Supplement Left 5th Toe with Autologous Tissue Substitute, Open Approach",0YUY07,2016,2027
+0YUY0J,Synthetic Substitute,0YUY0,2016,2027
+0YUY0JZ,"Supplement Left 5th Toe with Synthetic Substitute, Open Approach",0YUY0J,2016,2027
+0YUY0K,Nonautologous Tissue Substitute,0YUY0,2016,2027
+0YUY0KZ,"Supplement Left 5th Toe with Nonautologous Tissue Substitute, Open Approach",0YUY0K,2016,2027
+0YUY4,Percutaneous Endoscopic,0YUY,2016,2027
+0YUY47,Autologous Tissue Substitute,0YUY4,2016,2027
+0YUY47Z,"Supplement Left 5th Toe with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUY47,2016,2027
+0YUY4J,Synthetic Substitute,0YUY4,2016,2027
+0YUY4JZ,"Supplement Left 5th Toe with Synthetic Substitute, Percutaneous Endoscopic Approach",0YUY4J,2016,2027
+0YUY4K,Nonautologous Tissue Substitute,0YUY4,2016,2027
+0YUY4KZ,"Supplement Left 5th Toe with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",0YUY4K,2016,2027
+0YW,Revision,0Y,2016,2027
+0YW9,"Lower Extremity, Right",0YW,2016,2027
+0YW90,Open,0YW9,2016,2027
+0YW900,Drainage Device,0YW90,2016,2027
+0YW900Z,"Revision of Drainage Device in Right Lower Extremity, Open Approach",0YW900,2016,2027
+0YW903,Infusion Device,0YW90,2016,2027
+0YW903Z,"Revision of Infusion Device in Right Lower Extremity, Open Approach",0YW903,2016,2027
+0YW907,Autologous Tissue Substitute,0YW90,2016,2027
+0YW907Z,"Revision of Autologous Tissue Substitute in Right Lower Extremity, Open Approach",0YW907,2016,2027
+0YW90J,Synthetic Substitute,0YW90,2016,2027
+0YW90JZ,"Revision of Synthetic Substitute in Right Lower Extremity, Open Approach",0YW90J,2016,2027
+0YW90K,Nonautologous Tissue Substitute,0YW90,2016,2027
+0YW90KZ,"Revision of Nonautologous Tissue Substitute in Right Lower Extremity, Open Approach",0YW90K,2016,2027
+0YW90Y,Other Device,0YW90,2016,2027
+0YW90YZ,"Revision of Other Device in Right Lower Extremity, Open Approach",0YW90Y,2016,2027
+0YW93,Percutaneous,0YW9,2016,2027
+0YW930,Drainage Device,0YW93,2016,2027
+0YW930Z,"Revision of Drainage Device in Right Lower Extremity, Percutaneous Approach",0YW930,2016,2027
+0YW933,Infusion Device,0YW93,2016,2027
+0YW933Z,"Revision of Infusion Device in Right Lower Extremity, Percutaneous Approach",0YW933,2016,2027
+0YW937,Autologous Tissue Substitute,0YW93,2016,2027
+0YW937Z,"Revision of Autologous Tissue Substitute in Right Lower Extremity, Percutaneous Approach",0YW937,2016,2027
+0YW93J,Synthetic Substitute,0YW93,2016,2027
+0YW93JZ,"Revision of Synthetic Substitute in Right Lower Extremity, Percutaneous Approach",0YW93J,2016,2027
+0YW93K,Nonautologous Tissue Substitute,0YW93,2016,2027
+0YW93KZ,"Revision of Nonautologous Tissue Substitute in Right Lower Extremity, Percutaneous Approach",0YW93K,2016,2027
+0YW93Y,Other Device,0YW93,2016,2027
+0YW93YZ,"Revision of Other Device in Right Lower Extremity, Percutaneous Approach",0YW93Y,2016,2027
+0YW94,Percutaneous Endoscopic,0YW9,2016,2027
+0YW940,Drainage Device,0YW94,2016,2027
+0YW940Z,"Revision of Drainage Device in Right Lower Extremity, Percutaneous Endoscopic Approach",0YW940,2016,2027
+0YW943,Infusion Device,0YW94,2016,2027
+0YW943Z,"Revision of Infusion Device in Right Lower Extremity, Percutaneous Endoscopic Approach",0YW943,2016,2027
+0YW947,Autologous Tissue Substitute,0YW94,2016,2027
+0YW947Z,"Revision of Autologous Tissue Substitute in Right Lower Extremity, Percutaneous Endoscopic Approach",0YW947,2016,2027
+0YW94J,Synthetic Substitute,0YW94,2016,2027
+0YW94JZ,"Revision of Synthetic Substitute in Right Lower Extremity, Percutaneous Endoscopic Approach",0YW94J,2016,2027
+0YW94K,Nonautologous Tissue Substitute,0YW94,2016,2027
+0YW94KZ,"Revision of Nonautologous Tissue Substitute in Right Lower Extremity, Percutaneous Endoscopic Approach",0YW94K,2016,2027
+0YW94Y,Other Device,0YW94,2016,2027
+0YW94YZ,"Revision of Other Device in Right Lower Extremity, Percutaneous Endoscopic Approach",0YW94Y,2016,2027
+0YW9X,External,0YW9,2016,2027
+0YW9X0,Drainage Device,0YW9X,2016,2027
+0YW9X0Z,"Revision of Drainage Device in Right Lower Extremity, External Approach",0YW9X0,2016,2027
+0YW9X3,Infusion Device,0YW9X,2016,2027
+0YW9X3Z,"Revision of Infusion Device in Right Lower Extremity, External Approach",0YW9X3,2016,2027
+0YW9X7,Autologous Tissue Substitute,0YW9X,2016,2027
+0YW9X7Z,"Revision of Autologous Tissue Substitute in Right Lower Extremity, External Approach",0YW9X7,2016,2027
+0YW9XJ,Synthetic Substitute,0YW9X,2016,2027
+0YW9XJZ,"Revision of Synthetic Substitute in Right Lower Extremity, External Approach",0YW9XJ,2016,2027
+0YW9XK,Nonautologous Tissue Substitute,0YW9X,2016,2027
+0YW9XKZ,"Revision of Nonautologous Tissue Substitute in Right Lower Extremity, External Approach",0YW9XK,2016,2027
+0YW9XY,Other Device,0YW9X,2016,2027
+0YW9XYZ,"Revision of Other Device in Right Lower Extremity, External Approach",0YW9XY,2016,2027
+0YWB,"Lower Extremity, Left",0YW,2016,2027
+0YWB0,Open,0YWB,2016,2027
+0YWB00,Drainage Device,0YWB0,2016,2027
+0YWB00Z,"Revision of Drainage Device in Left Lower Extremity, Open Approach",0YWB00,2016,2027
+0YWB03,Infusion Device,0YWB0,2016,2027
+0YWB03Z,"Revision of Infusion Device in Left Lower Extremity, Open Approach",0YWB03,2016,2027
+0YWB07,Autologous Tissue Substitute,0YWB0,2016,2027
+0YWB07Z,"Revision of Autologous Tissue Substitute in Left Lower Extremity, Open Approach",0YWB07,2016,2027
+0YWB0J,Synthetic Substitute,0YWB0,2016,2027
+0YWB0JZ,"Revision of Synthetic Substitute in Left Lower Extremity, Open Approach",0YWB0J,2016,2027
+0YWB0K,Nonautologous Tissue Substitute,0YWB0,2016,2027
+0YWB0KZ,"Revision of Nonautologous Tissue Substitute in Left Lower Extremity, Open Approach",0YWB0K,2016,2027
+0YWB0Y,Other Device,0YWB0,2016,2027
+0YWB0YZ,"Revision of Other Device in Left Lower Extremity, Open Approach",0YWB0Y,2016,2027
+0YWB3,Percutaneous,0YWB,2016,2027
+0YWB30,Drainage Device,0YWB3,2016,2027
+0YWB30Z,"Revision of Drainage Device in Left Lower Extremity, Percutaneous Approach",0YWB30,2016,2027
+0YWB33,Infusion Device,0YWB3,2016,2027
+0YWB33Z,"Revision of Infusion Device in Left Lower Extremity, Percutaneous Approach",0YWB33,2016,2027
+0YWB37,Autologous Tissue Substitute,0YWB3,2016,2027
+0YWB37Z,"Revision of Autologous Tissue Substitute in Left Lower Extremity, Percutaneous Approach",0YWB37,2016,2027
+0YWB3J,Synthetic Substitute,0YWB3,2016,2027
+0YWB3JZ,"Revision of Synthetic Substitute in Left Lower Extremity, Percutaneous Approach",0YWB3J,2016,2027
+0YWB3K,Nonautologous Tissue Substitute,0YWB3,2016,2027
+0YWB3KZ,"Revision of Nonautologous Tissue Substitute in Left Lower Extremity, Percutaneous Approach",0YWB3K,2016,2027
+0YWB3Y,Other Device,0YWB3,2016,2027
+0YWB3YZ,"Revision of Other Device in Left Lower Extremity, Percutaneous Approach",0YWB3Y,2016,2027
+0YWB4,Percutaneous Endoscopic,0YWB,2016,2027
+0YWB40,Drainage Device,0YWB4,2016,2027
+0YWB40Z,"Revision of Drainage Device in Left Lower Extremity, Percutaneous Endoscopic Approach",0YWB40,2016,2027
+0YWB43,Infusion Device,0YWB4,2016,2027
+0YWB43Z,"Revision of Infusion Device in Left Lower Extremity, Percutaneous Endoscopic Approach",0YWB43,2016,2027
+0YWB47,Autologous Tissue Substitute,0YWB4,2016,2027
+0YWB47Z,"Revision of Autologous Tissue Substitute in Left Lower Extremity, Percutaneous Endoscopic Approach",0YWB47,2016,2027
+0YWB4J,Synthetic Substitute,0YWB4,2016,2027
+0YWB4JZ,"Revision of Synthetic Substitute in Left Lower Extremity, Percutaneous Endoscopic Approach",0YWB4J,2016,2027
+0YWB4K,Nonautologous Tissue Substitute,0YWB4,2016,2027
+0YWB4KZ,"Revision of Nonautologous Tissue Substitute in Left Lower Extremity, Percutaneous Endoscopic Approach",0YWB4K,2016,2027
+0YWB4Y,Other Device,0YWB4,2016,2027
+0YWB4YZ,"Revision of Other Device in Left Lower Extremity, Percutaneous Endoscopic Approach",0YWB4Y,2016,2027
+0YWBX,External,0YWB,2016,2027
+0YWBX0,Drainage Device,0YWBX,2016,2027
+0YWBX0Z,"Revision of Drainage Device in Left Lower Extremity, External Approach",0YWBX0,2016,2027
+0YWBX3,Infusion Device,0YWBX,2016,2027
+0YWBX3Z,"Revision of Infusion Device in Left Lower Extremity, External Approach",0YWBX3,2016,2027
+0YWBX7,Autologous Tissue Substitute,0YWBX,2016,2027
+0YWBX7Z,"Revision of Autologous Tissue Substitute in Left Lower Extremity, External Approach",0YWBX7,2016,2027
+0YWBXJ,Synthetic Substitute,0YWBX,2016,2027
+0YWBXJZ,"Revision of Synthetic Substitute in Left Lower Extremity, External Approach",0YWBXJ,2016,2027
+0YWBXK,Nonautologous Tissue Substitute,0YWBX,2016,2027
+0YWBXKZ,"Revision of Nonautologous Tissue Substitute in Left Lower Extremity, External Approach",0YWBXK,2016,2027
+0YWBXY,Other Device,0YWBX,2016,2027
+0YWBXYZ,"Revision of Other Device in Left Lower Extremity, External Approach",0YWBXY,2016,2027

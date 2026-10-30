@@ -1,0 +1,77 @@
+code,description,parent,first_year,last_year
+2Y,Anatomical Orifices,2,2016,2027
+2Y0,Change,2Y,2016,2027
+2Y00,Mouth and Pharynx,2Y0,2016,2027
+2Y00X,External,2Y00,2016,2027
+2Y00X5,Packing Material,2Y00X,2016,2027
+2Y00X5Z,Change Mouth and Pharynx Packing Material,2Y00X5,2016,2027
+2Y01,Nasal,2Y0,2016,2027
+2Y01X,External,2Y01,2016,2027
+2Y01X5,Packing Material,2Y01X,2016,2027
+2Y01X5Z,Change Nasal Packing Material,2Y01X5,2016,2027
+2Y02,Ear,2Y0,2016,2027
+2Y02X,External,2Y02,2016,2027
+2Y02X5,Packing Material,2Y02X,2016,2027
+2Y02X5Z,Change Ear Packing Material,2Y02X5,2016,2027
+2Y03,Anorectal,2Y0,2016,2027
+2Y03X,External,2Y03,2016,2027
+2Y03X5,Packing Material,2Y03X,2016,2027
+2Y03X5Z,Change Anorectal Packing Material,2Y03X5,2016,2027
+2Y04,Female Genital Tract,2Y0,2016,2027
+2Y04X,External,2Y04,2016,2027
+2Y04X5,Packing Material,2Y04X,2016,2027
+2Y04X5Z,Change Female Genital Tract Packing Material,2Y04X5,2016,2027
+2Y05,Urethra,2Y0,2016,2027
+2Y05X,External,2Y05,2016,2027
+2Y05X5,Packing Material,2Y05X,2016,2027
+2Y05X5Z,Change Urethra Packing Material,2Y05X5,2016,2027
+2Y4,Packing,2Y,2016,2027
+2Y40,Mouth and Pharynx,2Y4,2016,2027
+2Y40X,External,2Y40,2016,2027
+2Y40X5,Packing Material,2Y40X,2016,2027
+2Y40X5Z,Packing of Mouth and Pharynx using Packing Material,2Y40X5,2016,2027
+2Y41,Nasal,2Y4,2016,2027
+2Y41X,External,2Y41,2016,2027
+2Y41X5,Packing Material,2Y41X,2016,2027
+2Y41X5Z,Packing of Nasal Region using Packing Material,2Y41X5,2016,2027
+2Y42,Ear,2Y4,2016,2027
+2Y42X,External,2Y42,2016,2027
+2Y42X5,Packing Material,2Y42X,2016,2027
+2Y42X5Z,Packing of Ear using Packing Material,2Y42X5,2016,2027
+2Y43,Anorectal,2Y4,2016,2027
+2Y43X,External,2Y43,2016,2027
+2Y43X5,Packing Material,2Y43X,2016,2027
+2Y43X5Z,Packing of Anorectal Region using Packing Material,2Y43X5,2016,2027
+2Y44,Female Genital Tract,2Y4,2016,2027
+2Y44X,External,2Y44,2016,2027
+2Y44X5,Packing Material,2Y44X,2016,2027
+2Y44X5Z,Packing of Female Genital Tract using Packing Material,2Y44X5,2016,2027
+2Y45,Urethra,2Y4,2016,2027
+2Y45X,External,2Y45,2016,2027
+2Y45X5,Packing Material,2Y45X,2016,2027
+2Y45X5Z,Packing of Urethra using Packing Material,2Y45X5,2016,2027
+2Y5,Removal,2Y,2016,2027
+2Y50,Mouth and Pharynx,2Y5,2016,2027
+2Y50X,External,2Y50,2016,2027
+2Y50X5,Packing Material,2Y50X,2016,2027
+2Y50X5Z,Removal of Mouth and Pharynx Packing Material,2Y50X5,2016,2027
+2Y51,Nasal,2Y5,2016,2027
+2Y51X,External,2Y51,2016,2027
+2Y51X5,Packing Material,2Y51X,2016,2027
+2Y51X5Z,Removal of Nasal Packing Material,2Y51X5,2016,2027
+2Y52,Ear,2Y5,2016,2027
+2Y52X,External,2Y52,2016,2027
+2Y52X5,Packing Material,2Y52X,2016,2027
+2Y52X5Z,Removal of Ear Packing Material,2Y52X5,2016,2027
+2Y53,Anorectal,2Y5,2016,2027
+2Y53X,External,2Y53,2016,2027
+2Y53X5,Packing Material,2Y53X,2016,2027
+2Y53X5Z,Removal of Anorectal Packing Material,2Y53X5,2016,2027
+2Y54,Female Genital Tract,2Y5,2016,2027
+2Y54X,External,2Y54,2016,2027
+2Y54X5,Packing Material,2Y54X,2016,2027
+2Y54X5Z,Removal of Female Genital Tract Packing Material,2Y54X5,2016,2027
+2Y55,Urethra,2Y5,2016,2027
+2Y55X,External,2Y55,2016,2027
+2Y55X5,Packing Material,2Y55X,2016,2027
+2Y55X5Z,Removal of Urethra Packing Material,2Y55X5,2016,2027

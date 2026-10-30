@@ -1,0 +1,558 @@
+code,description,parent,first_year,last_year
+30,Circulatory,3,2016,2027
+302,Transfusion,30,2016,2027
+3023,Peripheral Vein,302,2016,2027
+30230,Open,3023,2016,2021
+30230A,"Stem Cells, Embryonic",30230,2016,2021
+30230AZ,"Transfusion of Embryonic Stem Cells into Peripheral Vein, Open Approach",30230A,2016,2021
+30230C,"Hematopoietic Stem/Progenitor Cells, Genetically Modified",30230,2021,2021
+30230C0,"Transfusion of Autologous Hematopoietic Stem/Progenitor Cells, Genetically Modified into Peripheral Vein, Open Approach",30230C,2021,2021
+30230G,Bone Marrow,30230,2016,2021
+30230G0,"Transfusion of Autologous Bone Marrow into Peripheral Vein, Open Approach",30230G,2016,2021
+30230G1,"Transfusion of Nonautologous Bone Marrow into Peripheral Vein, Open Approach",30230G,2016,2016
+30230G2,"Transfusion of Allogeneic Related Bone Marrow into Peripheral Vein, Open Approach",30230G,2017,2021
+30230G3,"Transfusion of Allogeneic Unrelated Bone Marrow into Peripheral Vein, Open Approach",30230G,2017,2021
+30230G4,"Transfusion of Allogeneic Unspecified Bone Marrow into Peripheral Vein, Open Approach",30230G,2017,2021
+30230H,Whole Blood,30230,2016,2021
+30230H0,"Transfusion of Autologous Whole Blood into Peripheral Vein, Open Approach",30230H,2016,2021
+30230H1,"Transfusion of Nonautologous Whole Blood into Peripheral Vein, Open Approach",30230H,2016,2021
+30230J,Serum Albumin,30230,2016,2021
+30230J0,"Transfusion of Autologous Serum Albumin into Peripheral Vein, Open Approach",30230J,2016,2021
+30230J1,"Transfusion of Nonautologous Serum Albumin into Peripheral Vein, Open Approach",30230J,2016,2021
+30230K,Frozen Plasma,30230,2016,2021
+30230K0,"Transfusion of Autologous Frozen Plasma into Peripheral Vein, Open Approach",30230K,2016,2021
+30230K1,"Transfusion of Nonautologous Frozen Plasma into Peripheral Vein, Open Approach",30230K,2016,2021
+30230L,Fresh Plasma,30230,2016,2021
+30230L0,"Transfusion of Autologous Fresh Plasma into Peripheral Vein, Open Approach",30230L,2016,2021
+30230L1,"Transfusion of Nonautologous Fresh Plasma into Peripheral Vein, Open Approach",30230L,2016,2021
+30230M,Plasma Cryoprecipitate,30230,2016,2021
+30230M0,"Transfusion of Autologous Plasma Cryoprecipitate into Peripheral Vein, Open Approach",30230M,2016,2021
+30230M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Peripheral Vein, Open Approach",30230M,2016,2021
+30230N,Red Blood Cells,30230,2016,2021
+30230N0,"Transfusion of Autologous Red Blood Cells into Peripheral Vein, Open Approach",30230N,2016,2021
+30230N1,"Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Open Approach",30230N,2016,2021
+30230P,Frozen Red Cells,30230,2016,2021
+30230P0,"Transfusion of Autologous Frozen Red Cells into Peripheral Vein, Open Approach",30230P,2016,2021
+30230P1,"Transfusion of Nonautologous Frozen Red Cells into Peripheral Vein, Open Approach",30230P,2016,2021
+30230Q,White Cells,30230,2016,2021
+30230Q0,"Transfusion of Autologous White Cells into Peripheral Vein, Open Approach",30230Q,2016,2021
+30230Q1,"Transfusion of Nonautologous White Cells into Peripheral Vein, Open Approach",30230Q,2016,2021
+30230R,Platelets,30230,2016,2021
+30230R0,"Transfusion of Autologous Platelets into Peripheral Vein, Open Approach",30230R,2016,2021
+30230R1,"Transfusion of Nonautologous Platelets into Peripheral Vein, Open Approach",30230R,2016,2021
+30230S,Globulin,30230,2016,2021
+30230S0,"Transfusion of Autologous Globulin into Peripheral Vein, Open Approach",30230S,2016,2021
+30230S1,"Transfusion of Nonautologous Globulin into Peripheral Vein, Open Approach",30230S,2016,2021
+30230T,Fibrinogen,30230,2016,2021
+30230T0,"Transfusion of Autologous Fibrinogen into Peripheral Vein, Open Approach",30230T,2016,2021
+30230T1,"Transfusion of Nonautologous Fibrinogen into Peripheral Vein, Open Approach",30230T,2016,2021
+30230U,"Stem Cells, T-cell Depleted Hematopoietic",30230,2020,2021
+30230U2,"Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230U,2020,2021
+30230U3,"Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230U,2020,2021
+30230U4,"Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230U,2020,2021
+30230V,Antihemophilic Factors,30230,2016,2021
+30230V0,"Transfusion of Autologous Antihemophilic Factors into Peripheral Vein, Open Approach",30230V,2016,2021
+30230V1,"Transfusion of Nonautologous Antihemophilic Factors into Peripheral Vein, Open Approach",30230V,2016,2021
+30230W,Factor IX,30230,2016,2021
+30230W0,"Transfusion of Autologous Factor IX into Peripheral Vein, Open Approach",30230W,2016,2021
+30230W1,"Transfusion of Nonautologous Factor IX into Peripheral Vein, Open Approach",30230W,2016,2021
+30230X,"Stem Cells, Cord Blood",30230,2016,2021
+30230X0,"Transfusion of Autologous Cord Blood Stem Cells into Peripheral Vein, Open Approach",30230X,2016,2021
+30230X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Vein, Open Approach",30230X,2016,2016
+30230X2,"Transfusion of Allogeneic Related Cord Blood Stem Cells into Peripheral Vein, Open Approach",30230X,2017,2021
+30230X3,"Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Peripheral Vein, Open Approach",30230X,2017,2021
+30230X4,"Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Peripheral Vein, Open Approach",30230X,2017,2021
+30230Y,"Stem Cells, Hematopoietic",30230,2016,2021
+30230Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230Y,2016,2021
+30230Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230Y,2016,2016
+30230Y2,"Transfusion of Allogeneic Related Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230Y,2017,2021
+30230Y3,"Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230Y,2017,2021
+30230Y4,"Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Peripheral Vein, Open Approach",30230Y,2017,2021
+30233,Percutaneous,3023,2016,2027
+30233A,"Stem Cells, Embryonic",30233,2016,2026
+30233AZ,"Transfusion of Embryonic Stem Cells into Peripheral Vein, Percutaneous Approach",30233A,2016,2026
+30233C,"Hematopoietic Stem/Progenitor Cells, Genetically Modified",30233,2021,2027
+30233C0,"Transfusion of Autologous Hematopoietic Stem/Progenitor Cells, Genetically Modified into Peripheral Vein, Percutaneous Approach",30233C,2021,2027
+30233D,Pathogen Reduced Cryoprecipitated Fibrinogen Complex,30233,2022,2027
+30233D1,"Transfusion of Nonautologous Pathogen Reduced Cryoprecipitated Fibrinogen Complex into Peripheral Vein, Percutaneous Approach",30233D,2022,2027
+30233G,Bone Marrow,30233,2016,2027
+30233G0,"Transfusion of Autologous Bone Marrow into Peripheral Vein, Percutaneous Approach",30233G,2016,2027
+30233G1,"Transfusion of Nonautologous Bone Marrow into Peripheral Vein, Percutaneous Approach",30233G,2016,2016
+30233G2,"Transfusion of Allogeneic Related Bone Marrow into Peripheral Vein, Percutaneous Approach",30233G,2017,2027
+30233G3,"Transfusion of Allogeneic Unrelated Bone Marrow into Peripheral Vein, Percutaneous Approach",30233G,2017,2027
+30233G4,"Transfusion of Allogeneic Unspecified Bone Marrow into Peripheral Vein, Percutaneous Approach",30233G,2017,2027
+30233H,Whole Blood,30233,2016,2027
+30233H0,"Transfusion of Autologous Whole Blood into Peripheral Vein, Percutaneous Approach",30233H,2016,2027
+30233H1,"Transfusion of Nonautologous Whole Blood into Peripheral Vein, Percutaneous Approach",30233H,2016,2027
+30233J,Serum Albumin,30233,2016,2027
+30233J0,"Transfusion of Autologous Serum Albumin into Peripheral Vein, Percutaneous Approach",30233J,2016,2027
+30233J1,"Transfusion of Nonautologous Serum Albumin into Peripheral Vein, Percutaneous Approach",30233J,2016,2027
+30233K,Frozen Plasma,30233,2016,2027
+30233K0,"Transfusion of Autologous Frozen Plasma into Peripheral Vein, Percutaneous Approach",30233K,2016,2027
+30233K1,"Transfusion of Nonautologous Frozen Plasma into Peripheral Vein, Percutaneous Approach",30233K,2016,2027
+30233L,Fresh Plasma,30233,2016,2027
+30233L0,"Transfusion of Autologous Fresh Plasma into Peripheral Vein, Percutaneous Approach",30233L,2016,2027
+30233L1,"Transfusion of Nonautologous Fresh Plasma into Peripheral Vein, Percutaneous Approach",30233L,2016,2027
+30233M,Plasma Cryoprecipitate,30233,2016,2027
+30233M0,"Transfusion of Autologous Plasma Cryoprecipitate into Peripheral Vein, Percutaneous Approach",30233M,2016,2027
+30233M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Peripheral Vein, Percutaneous Approach",30233M,2016,2027
+30233N,Red Blood Cells,30233,2016,2027
+30233N0,"Transfusion of Autologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",30233N,2016,2027
+30233N1,"Transfusion of Nonautologous Red Blood Cells into Peripheral Vein, Percutaneous Approach",30233N,2016,2027
+30233P,Frozen Red Cells,30233,2016,2027
+30233P0,"Transfusion of Autologous Frozen Red Cells into Peripheral Vein, Percutaneous Approach",30233P,2016,2027
+30233P1,"Transfusion of Nonautologous Frozen Red Cells into Peripheral Vein, Percutaneous Approach",30233P,2016,2027
+30233Q,White Cells,30233,2016,2027
+30233Q0,"Transfusion of Autologous White Cells into Peripheral Vein, Percutaneous Approach",30233Q,2016,2027
+30233Q1,"Transfusion of Nonautologous White Cells into Peripheral Vein, Percutaneous Approach",30233Q,2016,2027
+30233R,Platelets,30233,2016,2027
+30233R0,"Transfusion of Autologous Platelets into Peripheral Vein, Percutaneous Approach",30233R,2016,2027
+30233R1,"Transfusion of Nonautologous Platelets into Peripheral Vein, Percutaneous Approach",30233R,2016,2027
+30233S,Globulin,30233,2016,2027
+30233S0,"Transfusion of Autologous Globulin into Peripheral Vein, Percutaneous Approach",30233S,2016,2027
+30233S1,"Transfusion of Nonautologous Globulin into Peripheral Vein, Percutaneous Approach",30233S,2016,2027
+30233S5,"Transfusion of High-Dose Immune Globulin into Peripheral Vein, Percutaneous Approach",30233S,2027,2027
+30233T,Fibrinogen,30233,2016,2027
+30233T0,"Transfusion of Autologous Fibrinogen into Peripheral Vein, Percutaneous Approach",30233T,2016,2027
+30233T1,"Transfusion of Nonautologous Fibrinogen into Peripheral Vein, Percutaneous Approach",30233T,2016,2027
+30233U,"Stem Cells, T-cell Depleted Hematopoietic",30233,2020,2027
+30233U2,"Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233U,2020,2027
+30233U3,"Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233U,2020,2027
+30233U4,"Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233U,2020,2027
+30233V,Antihemophilic Factors,30233,2016,2027
+30233V0,"Transfusion of Autologous Antihemophilic Factors into Peripheral Vein, Percutaneous Approach",30233V,2016,2027
+30233V1,"Transfusion of Nonautologous Antihemophilic Factors into Peripheral Vein, Percutaneous Approach",30233V,2016,2027
+30233W,Factor IX,30233,2016,2027
+30233W0,"Transfusion of Autologous Factor IX into Peripheral Vein, Percutaneous Approach",30233W,2016,2027
+30233W1,"Transfusion of Nonautologous Factor IX into Peripheral Vein, Percutaneous Approach",30233W,2016,2027
+30233X,"Stem Cells, Cord Blood",30233,2016,2027
+30233X0,"Transfusion of Autologous Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach",30233X,2016,2027
+30233X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach",30233X,2016,2016
+30233X2,"Transfusion of Allogeneic Related Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach",30233X,2017,2027
+30233X3,"Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach",30233X,2017,2027
+30233X4,"Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Peripheral Vein, Percutaneous Approach",30233X,2017,2027
+30233Y,"Stem Cells, Hematopoietic",30233,2016,2027
+30233Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233Y,2016,2027
+30233Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233Y,2016,2016
+30233Y2,"Transfusion of Allogeneic Related Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233Y,2017,2027
+30233Y3,"Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233Y,2017,2027
+30233Y4,"Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Peripheral Vein, Percutaneous Approach",30233Y,2017,2027
+3024,Central Vein,302,2016,2027
+30240,Open,3024,2016,2021
+30240A,"Stem Cells, Embryonic",30240,2016,2021
+30240AZ,"Transfusion of Embryonic Stem Cells into Central Vein, Open Approach",30240A,2016,2021
+30240C,"Hematopoietic Stem/Progenitor Cells, Genetically Modified",30240,2021,2021
+30240C0,"Transfusion of Autologous Hematopoietic Stem/Progenitor Cells, Genetically Modified into Central Vein, Open Approach",30240C,2021,2021
+30240G,Bone Marrow,30240,2016,2021
+30240G0,"Transfusion of Autologous Bone Marrow into Central Vein, Open Approach",30240G,2016,2021
+30240G1,"Transfusion of Nonautologous Bone Marrow into Central Vein, Open Approach",30240G,2016,2016
+30240G2,"Transfusion of Allogeneic Related Bone Marrow into Central Vein, Open Approach",30240G,2017,2021
+30240G3,"Transfusion of Allogeneic Unrelated Bone Marrow into Central Vein, Open Approach",30240G,2017,2021
+30240G4,"Transfusion of Allogeneic Unspecified Bone Marrow into Central Vein, Open Approach",30240G,2017,2021
+30240H,Whole Blood,30240,2016,2021
+30240H0,"Transfusion of Autologous Whole Blood into Central Vein, Open Approach",30240H,2016,2021
+30240H1,"Transfusion of Nonautologous Whole Blood into Central Vein, Open Approach",30240H,2016,2021
+30240J,Serum Albumin,30240,2016,2021
+30240J0,"Transfusion of Autologous Serum Albumin into Central Vein, Open Approach",30240J,2016,2021
+30240J1,"Transfusion of Nonautologous Serum Albumin into Central Vein, Open Approach",30240J,2016,2021
+30240K,Frozen Plasma,30240,2016,2021
+30240K0,"Transfusion of Autologous Frozen Plasma into Central Vein, Open Approach",30240K,2016,2021
+30240K1,"Transfusion of Nonautologous Frozen Plasma into Central Vein, Open Approach",30240K,2016,2021
+30240L,Fresh Plasma,30240,2016,2021
+30240L0,"Transfusion of Autologous Fresh Plasma into Central Vein, Open Approach",30240L,2016,2021
+30240L1,"Transfusion of Nonautologous Fresh Plasma into Central Vein, Open Approach",30240L,2016,2021
+30240M,Plasma Cryoprecipitate,30240,2016,2021
+30240M0,"Transfusion of Autologous Plasma Cryoprecipitate into Central Vein, Open Approach",30240M,2016,2021
+30240M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Central Vein, Open Approach",30240M,2016,2021
+30240N,Red Blood Cells,30240,2016,2021
+30240N0,"Transfusion of Autologous Red Blood Cells into Central Vein, Open Approach",30240N,2016,2021
+30240N1,"Transfusion of Nonautologous Red Blood Cells into Central Vein, Open Approach",30240N,2016,2021
+30240P,Frozen Red Cells,30240,2016,2021
+30240P0,"Transfusion of Autologous Frozen Red Cells into Central Vein, Open Approach",30240P,2016,2021
+30240P1,"Transfusion of Nonautologous Frozen Red Cells into Central Vein, Open Approach",30240P,2016,2021
+30240Q,White Cells,30240,2016,2021
+30240Q0,"Transfusion of Autologous White Cells into Central Vein, Open Approach",30240Q,2016,2021
+30240Q1,"Transfusion of Nonautologous White Cells into Central Vein, Open Approach",30240Q,2016,2021
+30240R,Platelets,30240,2016,2021
+30240R0,"Transfusion of Autologous Platelets into Central Vein, Open Approach",30240R,2016,2021
+30240R1,"Transfusion of Nonautologous Platelets into Central Vein, Open Approach",30240R,2016,2021
+30240S,Globulin,30240,2016,2021
+30240S0,"Transfusion of Autologous Globulin into Central Vein, Open Approach",30240S,2016,2021
+30240S1,"Transfusion of Nonautologous Globulin into Central Vein, Open Approach",30240S,2016,2021
+30240T,Fibrinogen,30240,2016,2021
+30240T0,"Transfusion of Autologous Fibrinogen into Central Vein, Open Approach",30240T,2016,2021
+30240T1,"Transfusion of Nonautologous Fibrinogen into Central Vein, Open Approach",30240T,2016,2021
+30240U,"Stem Cells, T-cell Depleted Hematopoietic",30240,2020,2021
+30240U2,"Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Central Vein, Open Approach",30240U,2020,2021
+30240U3,"Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Central Vein, Open Approach",30240U,2020,2021
+30240U4,"Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Central Vein, Open Approach",30240U,2020,2021
+30240V,Antihemophilic Factors,30240,2016,2021
+30240V0,"Transfusion of Autologous Antihemophilic Factors into Central Vein, Open Approach",30240V,2016,2021
+30240V1,"Transfusion of Nonautologous Antihemophilic Factors into Central Vein, Open Approach",30240V,2016,2021
+30240W,Factor IX,30240,2016,2021
+30240W0,"Transfusion of Autologous Factor IX into Central Vein, Open Approach",30240W,2016,2021
+30240W1,"Transfusion of Nonautologous Factor IX into Central Vein, Open Approach",30240W,2016,2021
+30240X,"Stem Cells, Cord Blood",30240,2016,2021
+30240X0,"Transfusion of Autologous Cord Blood Stem Cells into Central Vein, Open Approach",30240X,2016,2021
+30240X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Central Vein, Open Approach",30240X,2016,2016
+30240X2,"Transfusion of Allogeneic Related Cord Blood Stem Cells into Central Vein, Open Approach",30240X,2017,2021
+30240X3,"Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Central Vein, Open Approach",30240X,2017,2021
+30240X4,"Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Central Vein, Open Approach",30240X,2017,2021
+30240Y,"Stem Cells, Hematopoietic",30240,2016,2021
+30240Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Central Vein, Open Approach",30240Y,2016,2021
+30240Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Central Vein, Open Approach",30240Y,2016,2016
+30240Y2,"Transfusion of Allogeneic Related Hematopoietic Stem Cells into Central Vein, Open Approach",30240Y,2017,2021
+30240Y3,"Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Central Vein, Open Approach",30240Y,2017,2021
+30240Y4,"Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Central Vein, Open Approach",30240Y,2017,2021
+30243,Percutaneous,3024,2016,2027
+30243A,"Stem Cells, Embryonic",30243,2016,2026
+30243AZ,"Transfusion of Embryonic Stem Cells into Central Vein, Percutaneous Approach",30243A,2016,2026
+30243C,"Hematopoietic Stem/Progenitor Cells, Genetically Modified",30243,2021,2027
+30243C0,"Transfusion of Autologous Hematopoietic Stem/Progenitor Cells, Genetically Modified into Central Vein, Percutaneous Approach",30243C,2021,2027
+30243D,Pathogen Reduced Cryoprecipitated Fibrinogen Complex,30243,2022,2027
+30243D1,"Transfusion of Nonautologous Pathogen Reduced Cryoprecipitated Fibrinogen Complex into Central Vein, Percutaneous Approach",30243D,2022,2027
+30243G,Bone Marrow,30243,2016,2027
+30243G0,"Transfusion of Autologous Bone Marrow into Central Vein, Percutaneous Approach",30243G,2016,2027
+30243G1,"Transfusion of Nonautologous Bone Marrow into Central Vein, Percutaneous Approach",30243G,2016,2016
+30243G2,"Transfusion of Allogeneic Related Bone Marrow into Central Vein, Percutaneous Approach",30243G,2017,2027
+30243G3,"Transfusion of Allogeneic Unrelated Bone Marrow into Central Vein, Percutaneous Approach",30243G,2017,2027
+30243G4,"Transfusion of Allogeneic Unspecified Bone Marrow into Central Vein, Percutaneous Approach",30243G,2017,2027
+30243H,Whole Blood,30243,2016,2027
+30243H0,"Transfusion of Autologous Whole Blood into Central Vein, Percutaneous Approach",30243H,2016,2027
+30243H1,"Transfusion of Nonautologous Whole Blood into Central Vein, Percutaneous Approach",30243H,2016,2027
+30243J,Serum Albumin,30243,2016,2027
+30243J0,"Transfusion of Autologous Serum Albumin into Central Vein, Percutaneous Approach",30243J,2016,2027
+30243J1,"Transfusion of Nonautologous Serum Albumin into Central Vein, Percutaneous Approach",30243J,2016,2027
+30243K,Frozen Plasma,30243,2016,2027
+30243K0,"Transfusion of Autologous Frozen Plasma into Central Vein, Percutaneous Approach",30243K,2016,2027
+30243K1,"Transfusion of Nonautologous Frozen Plasma into Central Vein, Percutaneous Approach",30243K,2016,2027
+30243L,Fresh Plasma,30243,2016,2027
+30243L0,"Transfusion of Autologous Fresh Plasma into Central Vein, Percutaneous Approach",30243L,2016,2027
+30243L1,"Transfusion of Nonautologous Fresh Plasma into Central Vein, Percutaneous Approach",30243L,2016,2027
+30243M,Plasma Cryoprecipitate,30243,2016,2027
+30243M0,"Transfusion of Autologous Plasma Cryoprecipitate into Central Vein, Percutaneous Approach",30243M,2016,2027
+30243M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Central Vein, Percutaneous Approach",30243M,2016,2027
+30243N,Red Blood Cells,30243,2016,2027
+30243N0,"Transfusion of Autologous Red Blood Cells into Central Vein, Percutaneous Approach",30243N,2016,2027
+30243N1,"Transfusion of Nonautologous Red Blood Cells into Central Vein, Percutaneous Approach",30243N,2016,2027
+30243P,Frozen Red Cells,30243,2016,2027
+30243P0,"Transfusion of Autologous Frozen Red Cells into Central Vein, Percutaneous Approach",30243P,2016,2027
+30243P1,"Transfusion of Nonautologous Frozen Red Cells into Central Vein, Percutaneous Approach",30243P,2016,2027
+30243Q,White Cells,30243,2016,2027
+30243Q0,"Transfusion of Autologous White Cells into Central Vein, Percutaneous Approach",30243Q,2016,2027
+30243Q1,"Transfusion of Nonautologous White Cells into Central Vein, Percutaneous Approach",30243Q,2016,2027
+30243R,Platelets,30243,2016,2027
+30243R0,"Transfusion of Autologous Platelets into Central Vein, Percutaneous Approach",30243R,2016,2027
+30243R1,"Transfusion of Nonautologous Platelets into Central Vein, Percutaneous Approach",30243R,2016,2027
+30243S,Globulin,30243,2016,2027
+30243S0,"Transfusion of Autologous Globulin into Central Vein, Percutaneous Approach",30243S,2016,2027
+30243S1,"Transfusion of Nonautologous Globulin into Central Vein, Percutaneous Approach",30243S,2016,2027
+30243S5,"Transfusion of High-Dose Immune Globulin into Central Vein, Percutaneous Approach",30243S,2027,2027
+30243T,Fibrinogen,30243,2016,2027
+30243T0,"Transfusion of Autologous Fibrinogen into Central Vein, Percutaneous Approach",30243T,2016,2027
+30243T1,"Transfusion of Nonautologous Fibrinogen into Central Vein, Percutaneous Approach",30243T,2016,2027
+30243U,"Stem Cells, T-cell Depleted Hematopoietic",30243,2020,2027
+30243U2,"Transfusion of Allogeneic Related T-cell Depleted Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243U,2020,2027
+30243U3,"Transfusion of Allogeneic Unrelated T-cell Depleted Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243U,2020,2027
+30243U4,"Transfusion of Allogeneic Unspecified T-cell Depleted Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243U,2020,2027
+30243V,Antihemophilic Factors,30243,2016,2027
+30243V0,"Transfusion of Autologous Antihemophilic Factors into Central Vein, Percutaneous Approach",30243V,2016,2027
+30243V1,"Transfusion of Nonautologous Antihemophilic Factors into Central Vein, Percutaneous Approach",30243V,2016,2027
+30243W,Factor IX,30243,2016,2027
+30243W0,"Transfusion of Autologous Factor IX into Central Vein, Percutaneous Approach",30243W,2016,2027
+30243W1,"Transfusion of Nonautologous Factor IX into Central Vein, Percutaneous Approach",30243W,2016,2027
+30243X,"Stem Cells, Cord Blood",30243,2016,2027
+30243X0,"Transfusion of Autologous Cord Blood Stem Cells into Central Vein, Percutaneous Approach",30243X,2016,2027
+30243X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Central Vein, Percutaneous Approach",30243X,2016,2016
+30243X2,"Transfusion of Allogeneic Related Cord Blood Stem Cells into Central Vein, Percutaneous Approach",30243X,2017,2027
+30243X3,"Transfusion of Allogeneic Unrelated Cord Blood Stem Cells into Central Vein, Percutaneous Approach",30243X,2017,2027
+30243X4,"Transfusion of Allogeneic Unspecified Cord Blood Stem Cells into Central Vein, Percutaneous Approach",30243X,2017,2027
+30243Y,"Stem Cells, Hematopoietic",30243,2016,2027
+30243Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243Y,2016,2027
+30243Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243Y,2016,2016
+30243Y2,"Transfusion of Allogeneic Related Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243Y,2017,2027
+30243Y3,"Transfusion of Allogeneic Unrelated Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243Y,2017,2027
+30243Y4,"Transfusion of Allogeneic Unspecified Hematopoietic Stem Cells into Central Vein, Percutaneous Approach",30243Y,2017,2027
+3025,Peripheral Artery,302,2016,2019
+30250,Open,3025,2016,2019
+30250G,Bone Marrow,30250,2016,2019
+30250G0,"Transfusion of Autologous Bone Marrow into Peripheral Artery, Open Approach",30250G,2016,2019
+30250G1,"Transfusion of Nonautologous Bone Marrow into Peripheral Artery, Open Approach",30250G,2016,2019
+30250H,Whole Blood,30250,2016,2019
+30250H0,"Transfusion of Autologous Whole Blood into Peripheral Artery, Open Approach",30250H,2016,2019
+30250H1,"Transfusion of Nonautologous Whole Blood into Peripheral Artery, Open Approach",30250H,2016,2019
+30250J,Serum Albumin,30250,2016,2019
+30250J0,"Transfusion of Autologous Serum Albumin into Peripheral Artery, Open Approach",30250J,2016,2019
+30250J1,"Transfusion of Nonautologous Serum Albumin into Peripheral Artery, Open Approach",30250J,2016,2019
+30250K,Frozen Plasma,30250,2016,2019
+30250K0,"Transfusion of Autologous Frozen Plasma into Peripheral Artery, Open Approach",30250K,2016,2019
+30250K1,"Transfusion of Nonautologous Frozen Plasma into Peripheral Artery, Open Approach",30250K,2016,2019
+30250L,Fresh Plasma,30250,2016,2019
+30250L0,"Transfusion of Autologous Fresh Plasma into Peripheral Artery, Open Approach",30250L,2016,2019
+30250L1,"Transfusion of Nonautologous Fresh Plasma into Peripheral Artery, Open Approach",30250L,2016,2019
+30250M,Plasma Cryoprecipitate,30250,2016,2019
+30250M0,"Transfusion of Autologous Plasma Cryoprecipitate into Peripheral Artery, Open Approach",30250M,2016,2019
+30250M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Peripheral Artery, Open Approach",30250M,2016,2019
+30250N,Red Blood Cells,30250,2016,2019
+30250N0,"Transfusion of Autologous Red Blood Cells into Peripheral Artery, Open Approach",30250N,2016,2019
+30250N1,"Transfusion of Nonautologous Red Blood Cells into Peripheral Artery, Open Approach",30250N,2016,2019
+30250P,Frozen Red Cells,30250,2016,2019
+30250P0,"Transfusion of Autologous Frozen Red Cells into Peripheral Artery, Open Approach",30250P,2016,2019
+30250P1,"Transfusion of Nonautologous Frozen Red Cells into Peripheral Artery, Open Approach",30250P,2016,2019
+30250Q,White Cells,30250,2016,2019
+30250Q0,"Transfusion of Autologous White Cells into Peripheral Artery, Open Approach",30250Q,2016,2019
+30250Q1,"Transfusion of Nonautologous White Cells into Peripheral Artery, Open Approach",30250Q,2016,2019
+30250R,Platelets,30250,2016,2019
+30250R0,"Transfusion of Autologous Platelets into Peripheral Artery, Open Approach",30250R,2016,2019
+30250R1,"Transfusion of Nonautologous Platelets into Peripheral Artery, Open Approach",30250R,2016,2019
+30250S,Globulin,30250,2016,2019
+30250S0,"Transfusion of Autologous Globulin into Peripheral Artery, Open Approach",30250S,2016,2019
+30250S1,"Transfusion of Nonautologous Globulin into Peripheral Artery, Open Approach",30250S,2016,2019
+30250T,Fibrinogen,30250,2016,2019
+30250T0,"Transfusion of Autologous Fibrinogen into Peripheral Artery, Open Approach",30250T,2016,2019
+30250T1,"Transfusion of Nonautologous Fibrinogen into Peripheral Artery, Open Approach",30250T,2016,2019
+30250V,Antihemophilic Factors,30250,2016,2019
+30250V0,"Transfusion of Autologous Antihemophilic Factors into Peripheral Artery, Open Approach",30250V,2016,2019
+30250V1,"Transfusion of Nonautologous Antihemophilic Factors into Peripheral Artery, Open Approach",30250V,2016,2019
+30250W,Factor IX,30250,2016,2019
+30250W0,"Transfusion of Autologous Factor IX into Peripheral Artery, Open Approach",30250W,2016,2019
+30250W1,"Transfusion of Nonautologous Factor IX into Peripheral Artery, Open Approach",30250W,2016,2019
+30250X,"Stem Cells, Cord Blood",30250,2016,2019
+30250X0,"Transfusion of Autologous Cord Blood Stem Cells into Peripheral Artery, Open Approach",30250X,2016,2019
+30250X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Artery, Open Approach",30250X,2016,2019
+30250Y,"Stem Cells, Hematopoietic",30250,2016,2019
+30250Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Artery, Open Approach",30250Y,2016,2019
+30250Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Artery, Open Approach",30250Y,2016,2019
+30253,Percutaneous,3025,2016,2019
+30253G,Bone Marrow,30253,2016,2019
+30253G0,"Transfusion of Autologous Bone Marrow into Peripheral Artery, Percutaneous Approach",30253G,2016,2019
+30253G1,"Transfusion of Nonautologous Bone Marrow into Peripheral Artery, Percutaneous Approach",30253G,2016,2019
+30253H,Whole Blood,30253,2016,2019
+30253H0,"Transfusion of Autologous Whole Blood into Peripheral Artery, Percutaneous Approach",30253H,2016,2019
+30253H1,"Transfusion of Nonautologous Whole Blood into Peripheral Artery, Percutaneous Approach",30253H,2016,2019
+30253J,Serum Albumin,30253,2016,2019
+30253J0,"Transfusion of Autologous Serum Albumin into Peripheral Artery, Percutaneous Approach",30253J,2016,2019
+30253J1,"Transfusion of Nonautologous Serum Albumin into Peripheral Artery, Percutaneous Approach",30253J,2016,2019
+30253K,Frozen Plasma,30253,2016,2019
+30253K0,"Transfusion of Autologous Frozen Plasma into Peripheral Artery, Percutaneous Approach",30253K,2016,2019
+30253K1,"Transfusion of Nonautologous Frozen Plasma into Peripheral Artery, Percutaneous Approach",30253K,2016,2019
+30253L,Fresh Plasma,30253,2016,2019
+30253L0,"Transfusion of Autologous Fresh Plasma into Peripheral Artery, Percutaneous Approach",30253L,2016,2019
+30253L1,"Transfusion of Nonautologous Fresh Plasma into Peripheral Artery, Percutaneous Approach",30253L,2016,2019
+30253M,Plasma Cryoprecipitate,30253,2016,2019
+30253M0,"Transfusion of Autologous Plasma Cryoprecipitate into Peripheral Artery, Percutaneous Approach",30253M,2016,2019
+30253M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Peripheral Artery, Percutaneous Approach",30253M,2016,2019
+30253N,Red Blood Cells,30253,2016,2019
+30253N0,"Transfusion of Autologous Red Blood Cells into Peripheral Artery, Percutaneous Approach",30253N,2016,2019
+30253N1,"Transfusion of Nonautologous Red Blood Cells into Peripheral Artery, Percutaneous Approach",30253N,2016,2019
+30253P,Frozen Red Cells,30253,2016,2019
+30253P0,"Transfusion of Autologous Frozen Red Cells into Peripheral Artery, Percutaneous Approach",30253P,2016,2019
+30253P1,"Transfusion of Nonautologous Frozen Red Cells into Peripheral Artery, Percutaneous Approach",30253P,2016,2019
+30253Q,White Cells,30253,2016,2019
+30253Q0,"Transfusion of Autologous White Cells into Peripheral Artery, Percutaneous Approach",30253Q,2016,2019
+30253Q1,"Transfusion of Nonautologous White Cells into Peripheral Artery, Percutaneous Approach",30253Q,2016,2019
+30253R,Platelets,30253,2016,2019
+30253R0,"Transfusion of Autologous Platelets into Peripheral Artery, Percutaneous Approach",30253R,2016,2019
+30253R1,"Transfusion of Nonautologous Platelets into Peripheral Artery, Percutaneous Approach",30253R,2016,2019
+30253S,Globulin,30253,2016,2019
+30253S0,"Transfusion of Autologous Globulin into Peripheral Artery, Percutaneous Approach",30253S,2016,2019
+30253S1,"Transfusion of Nonautologous Globulin into Peripheral Artery, Percutaneous Approach",30253S,2016,2019
+30253T,Fibrinogen,30253,2016,2019
+30253T0,"Transfusion of Autologous Fibrinogen into Peripheral Artery, Percutaneous Approach",30253T,2016,2019
+30253T1,"Transfusion of Nonautologous Fibrinogen into Peripheral Artery, Percutaneous Approach",30253T,2016,2019
+30253V,Antihemophilic Factors,30253,2016,2019
+30253V0,"Transfusion of Autologous Antihemophilic Factors into Peripheral Artery, Percutaneous Approach",30253V,2016,2019
+30253V1,"Transfusion of Nonautologous Antihemophilic Factors into Peripheral Artery, Percutaneous Approach",30253V,2016,2019
+30253W,Factor IX,30253,2016,2019
+30253W0,"Transfusion of Autologous Factor IX into Peripheral Artery, Percutaneous Approach",30253W,2016,2019
+30253W1,"Transfusion of Nonautologous Factor IX into Peripheral Artery, Percutaneous Approach",30253W,2016,2019
+30253X,"Stem Cells, Cord Blood",30253,2016,2019
+30253X0,"Transfusion of Autologous Cord Blood Stem Cells into Peripheral Artery, Percutaneous Approach",30253X,2016,2019
+30253X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Peripheral Artery, Percutaneous Approach",30253X,2016,2019
+30253Y,"Stem Cells, Hematopoietic",30253,2016,2019
+30253Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Peripheral Artery, Percutaneous Approach",30253Y,2016,2019
+30253Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Peripheral Artery, Percutaneous Approach",30253Y,2016,2019
+3026,Central Artery,302,2016,2019
+30260,Open,3026,2016,2019
+30260G,Bone Marrow,30260,2016,2019
+30260G0,"Transfusion of Autologous Bone Marrow into Central Artery, Open Approach",30260G,2016,2019
+30260G1,"Transfusion of Nonautologous Bone Marrow into Central Artery, Open Approach",30260G,2016,2019
+30260H,Whole Blood,30260,2016,2019
+30260H0,"Transfusion of Autologous Whole Blood into Central Artery, Open Approach",30260H,2016,2019
+30260H1,"Transfusion of Nonautologous Whole Blood into Central Artery, Open Approach",30260H,2016,2019
+30260J,Serum Albumin,30260,2016,2019
+30260J0,"Transfusion of Autologous Serum Albumin into Central Artery, Open Approach",30260J,2016,2019
+30260J1,"Transfusion of Nonautologous Serum Albumin into Central Artery, Open Approach",30260J,2016,2019
+30260K,Frozen Plasma,30260,2016,2019
+30260K0,"Transfusion of Autologous Frozen Plasma into Central Artery, Open Approach",30260K,2016,2019
+30260K1,"Transfusion of Nonautologous Frozen Plasma into Central Artery, Open Approach",30260K,2016,2019
+30260L,Fresh Plasma,30260,2016,2019
+30260L0,"Transfusion of Autologous Fresh Plasma into Central Artery, Open Approach",30260L,2016,2019
+30260L1,"Transfusion of Nonautologous Fresh Plasma into Central Artery, Open Approach",30260L,2016,2019
+30260M,Plasma Cryoprecipitate,30260,2016,2019
+30260M0,"Transfusion of Autologous Plasma Cryoprecipitate into Central Artery, Open Approach",30260M,2016,2019
+30260M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Central Artery, Open Approach",30260M,2016,2019
+30260N,Red Blood Cells,30260,2016,2019
+30260N0,"Transfusion of Autologous Red Blood Cells into Central Artery, Open Approach",30260N,2016,2019
+30260N1,"Transfusion of Nonautologous Red Blood Cells into Central Artery, Open Approach",30260N,2016,2019
+30260P,Frozen Red Cells,30260,2016,2019
+30260P0,"Transfusion of Autologous Frozen Red Cells into Central Artery, Open Approach",30260P,2016,2019
+30260P1,"Transfusion of Nonautologous Frozen Red Cells into Central Artery, Open Approach",30260P,2016,2019
+30260Q,White Cells,30260,2016,2019
+30260Q0,"Transfusion of Autologous White Cells into Central Artery, Open Approach",30260Q,2016,2019
+30260Q1,"Transfusion of Nonautologous White Cells into Central Artery, Open Approach",30260Q,2016,2019
+30260R,Platelets,30260,2016,2019
+30260R0,"Transfusion of Autologous Platelets into Central Artery, Open Approach",30260R,2016,2019
+30260R1,"Transfusion of Nonautologous Platelets into Central Artery, Open Approach",30260R,2016,2019
+30260S,Globulin,30260,2016,2019
+30260S0,"Transfusion of Autologous Globulin into Central Artery, Open Approach",30260S,2016,2019
+30260S1,"Transfusion of Nonautologous Globulin into Central Artery, Open Approach",30260S,2016,2019
+30260T,Fibrinogen,30260,2016,2019
+30260T0,"Transfusion of Autologous Fibrinogen into Central Artery, Open Approach",30260T,2016,2019
+30260T1,"Transfusion of Nonautologous Fibrinogen into Central Artery, Open Approach",30260T,2016,2019
+30260V,Antihemophilic Factors,30260,2016,2019
+30260V0,"Transfusion of Autologous Antihemophilic Factors into Central Artery, Open Approach",30260V,2016,2019
+30260V1,"Transfusion of Nonautologous Antihemophilic Factors into Central Artery, Open Approach",30260V,2016,2019
+30260W,Factor IX,30260,2016,2019
+30260W0,"Transfusion of Autologous Factor IX into Central Artery, Open Approach",30260W,2016,2019
+30260W1,"Transfusion of Nonautologous Factor IX into Central Artery, Open Approach",30260W,2016,2019
+30260X,"Stem Cells, Cord Blood",30260,2016,2019
+30260X0,"Transfusion of Autologous Cord Blood Stem Cells into Central Artery, Open Approach",30260X,2016,2019
+30260X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Central Artery, Open Approach",30260X,2016,2019
+30260Y,"Stem Cells, Hematopoietic",30260,2016,2019
+30260Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Central Artery, Open Approach",30260Y,2016,2019
+30260Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Central Artery, Open Approach",30260Y,2016,2019
+30263,Percutaneous,3026,2016,2019
+30263G,Bone Marrow,30263,2016,2019
+30263G0,"Transfusion of Autologous Bone Marrow into Central Artery, Percutaneous Approach",30263G,2016,2019
+30263G1,"Transfusion of Nonautologous Bone Marrow into Central Artery, Percutaneous Approach",30263G,2016,2019
+30263H,Whole Blood,30263,2016,2019
+30263H0,"Transfusion of Autologous Whole Blood into Central Artery, Percutaneous Approach",30263H,2016,2019
+30263H1,"Transfusion of Nonautologous Whole Blood into Central Artery, Percutaneous Approach",30263H,2016,2019
+30263J,Serum Albumin,30263,2016,2019
+30263J0,"Transfusion of Autologous Serum Albumin into Central Artery, Percutaneous Approach",30263J,2016,2019
+30263J1,"Transfusion of Nonautologous Serum Albumin into Central Artery, Percutaneous Approach",30263J,2016,2019
+30263K,Frozen Plasma,30263,2016,2019
+30263K0,"Transfusion of Autologous Frozen Plasma into Central Artery, Percutaneous Approach",30263K,2016,2019
+30263K1,"Transfusion of Nonautologous Frozen Plasma into Central Artery, Percutaneous Approach",30263K,2016,2019
+30263L,Fresh Plasma,30263,2016,2019
+30263L0,"Transfusion of Autologous Fresh Plasma into Central Artery, Percutaneous Approach",30263L,2016,2019
+30263L1,"Transfusion of Nonautologous Fresh Plasma into Central Artery, Percutaneous Approach",30263L,2016,2019
+30263M,Plasma Cryoprecipitate,30263,2016,2019
+30263M0,"Transfusion of Autologous Plasma Cryoprecipitate into Central Artery, Percutaneous Approach",30263M,2016,2019
+30263M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Central Artery, Percutaneous Approach",30263M,2016,2019
+30263N,Red Blood Cells,30263,2016,2019
+30263N0,"Transfusion of Autologous Red Blood Cells into Central Artery, Percutaneous Approach",30263N,2016,2019
+30263N1,"Transfusion of Nonautologous Red Blood Cells into Central Artery, Percutaneous Approach",30263N,2016,2019
+30263P,Frozen Red Cells,30263,2016,2019
+30263P0,"Transfusion of Autologous Frozen Red Cells into Central Artery, Percutaneous Approach",30263P,2016,2019
+30263P1,"Transfusion of Nonautologous Frozen Red Cells into Central Artery, Percutaneous Approach",30263P,2016,2019
+30263Q,White Cells,30263,2016,2019
+30263Q0,"Transfusion of Autologous White Cells into Central Artery, Percutaneous Approach",30263Q,2016,2019
+30263Q1,"Transfusion of Nonautologous White Cells into Central Artery, Percutaneous Approach",30263Q,2016,2019
+30263R,Platelets,30263,2016,2019
+30263R0,"Transfusion of Autologous Platelets into Central Artery, Percutaneous Approach",30263R,2016,2019
+30263R1,"Transfusion of Nonautologous Platelets into Central Artery, Percutaneous Approach",30263R,2016,2019
+30263S,Globulin,30263,2016,2019
+30263S0,"Transfusion of Autologous Globulin into Central Artery, Percutaneous Approach",30263S,2016,2019
+30263S1,"Transfusion of Nonautologous Globulin into Central Artery, Percutaneous Approach",30263S,2016,2019
+30263T,Fibrinogen,30263,2016,2019
+30263T0,"Transfusion of Autologous Fibrinogen into Central Artery, Percutaneous Approach",30263T,2016,2019
+30263T1,"Transfusion of Nonautologous Fibrinogen into Central Artery, Percutaneous Approach",30263T,2016,2019
+30263V,Antihemophilic Factors,30263,2016,2019
+30263V0,"Transfusion of Autologous Antihemophilic Factors into Central Artery, Percutaneous Approach",30263V,2016,2019
+30263V1,"Transfusion of Nonautologous Antihemophilic Factors into Central Artery, Percutaneous Approach",30263V,2016,2019
+30263W,Factor IX,30263,2016,2019
+30263W0,"Transfusion of Autologous Factor IX into Central Artery, Percutaneous Approach",30263W,2016,2019
+30263W1,"Transfusion of Nonautologous Factor IX into Central Artery, Percutaneous Approach",30263W,2016,2019
+30263X,"Stem Cells, Cord Blood",30263,2016,2019
+30263X0,"Transfusion of Autologous Cord Blood Stem Cells into Central Artery, Percutaneous Approach",30263X,2016,2019
+30263X1,"Transfusion of Nonautologous Cord Blood Stem Cells into Central Artery, Percutaneous Approach",30263X,2016,2019
+30263Y,"Stem Cells, Hematopoietic",30263,2016,2019
+30263Y0,"Transfusion of Autologous Hematopoietic Stem Cells into Central Artery, Percutaneous Approach",30263Y,2016,2019
+30263Y1,"Transfusion of Nonautologous Hematopoietic Stem Cells into Central Artery, Percutaneous Approach",30263Y,2016,2019
+3027,"Products of Conception, Circulatory",302,2016,2027
+30273,Percutaneous,3027,2016,2027
+30273H,Whole Blood,30273,2016,2027
+30273H1,"Transfusion of Nonautologous Whole Blood into Products of Conception, Circulatory, Percutaneous Approach",30273H,2016,2027
+30273J,Serum Albumin,30273,2016,2027
+30273J1,"Transfusion of Nonautologous Serum Albumin into Products of Conception, Circulatory, Percutaneous Approach",30273J,2016,2027
+30273K,Frozen Plasma,30273,2016,2027
+30273K1,"Transfusion of Nonautologous Frozen Plasma into Products of Conception, Circulatory, Percutaneous Approach",30273K,2016,2027
+30273L,Fresh Plasma,30273,2016,2027
+30273L1,"Transfusion of Nonautologous Fresh Plasma into Products of Conception, Circulatory, Percutaneous Approach",30273L,2016,2027
+30273M,Plasma Cryoprecipitate,30273,2016,2027
+30273M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Products of Conception, Circulatory, Percutaneous Approach",30273M,2016,2027
+30273N,Red Blood Cells,30273,2016,2027
+30273N1,"Transfusion of Nonautologous Red Blood Cells into Products of Conception, Circulatory, Percutaneous Approach",30273N,2016,2027
+30273P,Frozen Red Cells,30273,2016,2027
+30273P1,"Transfusion of Nonautologous Frozen Red Cells into Products of Conception, Circulatory, Percutaneous Approach",30273P,2016,2027
+30273Q,White Cells,30273,2016,2027
+30273Q1,"Transfusion of Nonautologous White Cells into Products of Conception, Circulatory, Percutaneous Approach",30273Q,2016,2027
+30273R,Platelets,30273,2016,2027
+30273R1,"Transfusion of Nonautologous Platelets into Products of Conception, Circulatory, Percutaneous Approach",30273R,2016,2027
+30273S,Globulin,30273,2016,2027
+30273S1,"Transfusion of Nonautologous Globulin into Products of Conception, Circulatory, Percutaneous Approach",30273S,2016,2027
+30273T,Fibrinogen,30273,2016,2027
+30273T1,"Transfusion of Nonautologous Fibrinogen into Products of Conception, Circulatory, Percutaneous Approach",30273T,2016,2027
+30273V,Antihemophilic Factors,30273,2016,2027
+30273V1,"Transfusion of Nonautologous Antihemophilic Factors into Products of Conception, Circulatory, Percutaneous Approach",30273V,2016,2027
+30273W,Factor IX,30273,2016,2027
+30273W1,"Transfusion of Nonautologous Factor IX into Products of Conception, Circulatory, Percutaneous Approach",30273W,2016,2027
+30277,Via Natural or Artificial Opening,3027,2016,2027
+30277H,Whole Blood,30277,2016,2027
+30277H1,"Transfusion of Nonautologous Whole Blood into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277H,2016,2027
+30277J,Serum Albumin,30277,2016,2027
+30277J1,"Transfusion of Nonautologous Serum Albumin into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277J,2016,2027
+30277K,Frozen Plasma,30277,2016,2027
+30277K1,"Transfusion of Nonautologous Frozen Plasma into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277K,2016,2027
+30277L,Fresh Plasma,30277,2016,2027
+30277L1,"Transfusion of Nonautologous Fresh Plasma into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277L,2016,2027
+30277M,Plasma Cryoprecipitate,30277,2016,2027
+30277M1,"Transfusion of Nonautologous Plasma Cryoprecipitate into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277M,2016,2027
+30277N,Red Blood Cells,30277,2016,2027
+30277N1,"Transfusion of Nonautologous Red Blood Cells into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277N,2016,2027
+30277P,Frozen Red Cells,30277,2016,2027
+30277P1,"Transfusion of Nonautologous Frozen Red Cells into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277P,2016,2027
+30277Q,White Cells,30277,2016,2027
+30277Q1,"Transfusion of Nonautologous White Cells into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277Q,2016,2027
+30277R,Platelets,30277,2016,2027
+30277R1,"Transfusion of Nonautologous Platelets into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277R,2016,2027
+30277S,Globulin,30277,2016,2027
+30277S1,"Transfusion of Nonautologous Globulin into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277S,2016,2027
+30277T,Fibrinogen,30277,2016,2027
+30277T1,"Transfusion of Nonautologous Fibrinogen into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277T,2016,2027
+30277V,Antihemophilic Factors,30277,2016,2027
+30277V1,"Transfusion of Nonautologous Antihemophilic Factors into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277V,2016,2027
+30277W,Factor IX,30277,2016,2027
+30277W1,"Transfusion of Nonautologous Factor IX into Products of Conception, Circulatory, Via Natural or Artificial Opening",30277W,2016,2027
+3028,Vein,302,2016,2027
+30280,Open,3028,2016,2021
+30280B,4-Factor Prothrombin Complex Concentrate,30280,2016,2021
+30280B1,"Transfusion of Nonautologous 4-Factor Prothrombin Complex Concentrate into Vein, Open Approach",30280B,2016,2021
+30283,Percutaneous,3028,2016,2027
+30283B,4-Factor Prothrombin Complex Concentrate,30283,2016,2027
+30283B1,"Transfusion of Nonautologous 4-Factor Prothrombin Complex Concentrate into Vein, Percutaneous Approach",30283B,2016,2027
+302A,Bone Marrow,302,2023,2027
+302A3,Percutaneous,302A,2023,2027
+302A3H,Whole Blood,302A3,2023,2027
+302A3H0,"Transfusion of Autologous Whole Blood into Bone Marrow, Percutaneous Approach",302A3H,2023,2027
+302A3H1,"Transfusion of Nonautologous Whole Blood into Bone Marrow, Percutaneous Approach",302A3H,2023,2027
+302A3J,Serum Albumin,302A3,2023,2027
+302A3J0,"Transfusion of Autologous Serum Albumin into Bone Marrow, Percutaneous Approach",302A3J,2023,2027
+302A3J1,"Transfusion of Nonautologous Serum Albumin into Bone Marrow, Percutaneous Approach",302A3J,2023,2027
+302A3K,Frozen Plasma,302A3,2023,2027
+302A3K0,"Transfusion of Autologous Frozen Plasma into Bone Marrow, Percutaneous Approach",302A3K,2023,2027
+302A3K1,"Transfusion of Nonautologous Frozen Plasma into Bone Marrow, Percutaneous Approach",302A3K,2023,2027
+302A3L,Fresh Plasma,302A3,2023,2027
+302A3L0,"Transfusion of Autologous Fresh Plasma into Bone Marrow, Percutaneous Approach",302A3L,2023,2027
+302A3L1,"Transfusion of Nonautologous Fresh Plasma into Bone Marrow, Percutaneous Approach",302A3L,2023,2027
+302A3N,Red Blood Cells,302A3,2023,2027
+302A3N0,"Transfusion of Autologous Red Blood Cells into Bone Marrow, Percutaneous Approach",302A3N,2023,2027
+302A3N1,"Transfusion of Nonautologous Red Blood Cells into Bone Marrow, Percutaneous Approach",302A3N,2023,2027
+302A3P,Frozen Red Cells,302A3,2023,2027
+302A3P0,"Transfusion of Autologous Frozen Red Cells into Bone Marrow, Percutaneous Approach",302A3P,2023,2027
+302A3P1,"Transfusion of Nonautologous Frozen Red Cells into Bone Marrow, Percutaneous Approach",302A3P,2023,2027
+302A3R,Platelets,302A3,2023,2027
+302A3R0,"Transfusion of Autologous Platelets into Bone Marrow, Percutaneous Approach",302A3R,2023,2027
+302A3R1,"Transfusion of Nonautologous Platelets into Bone Marrow, Percutaneous Approach",302A3R,2023,2027

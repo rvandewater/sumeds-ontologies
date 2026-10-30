@@ -1,0 +1,158 @@
+code,description,parent,first_year,last_year
+DM,Breast,D,2016,2027
+DM0,Beam Radiation,DM,2016,2027
+DM00,"Breast, Left",DM0,2016,2027
+DM000,Photons <1 MeV,DM00,2016,2027
+DM000Z,None,DM000,2016,2027
+DM000ZZ,Beam Radiation of Left Breast using Photons <1 MeV,DM000Z,2016,2027
+DM001,Photons 1 - 10 MeV,DM00,2016,2027
+DM001Z,None,DM001,2016,2027
+DM001ZZ,Beam Radiation of Left Breast using Photons 1 - 10 MeV,DM001Z,2016,2027
+DM002,Photons >10 MeV,DM00,2016,2027
+DM002Z,None,DM002,2016,2027
+DM002ZZ,Beam Radiation of Left Breast using Photons >10 MeV,DM002Z,2016,2027
+DM003,Electrons,DM00,2016,2027
+DM003Z,None,DM003,2016,2027
+DM003Z0,"Beam Radiation of Left Breast using Electrons, Intraoperative",DM003Z,2016,2027
+DM003ZZ,Beam Radiation of Left Breast using Electrons,DM003Z,2016,2027
+DM004,"Heavy Particles (Protons,Ions)",DM00,2016,2027
+DM004Z,None,DM004,2016,2027
+DM004ZZ,"Beam Radiation of Left Breast using Heavy Particles (Protons,Ions)",DM004Z,2016,2027
+DM005,Neutrons,DM00,2016,2027
+DM005Z,None,DM005,2016,2027
+DM005ZZ,Beam Radiation of Left Breast using Neutrons,DM005Z,2016,2027
+DM006,Neutron Capture,DM00,2016,2027
+DM006Z,None,DM006,2016,2027
+DM006ZZ,Beam Radiation of Left Breast using Neutron Capture,DM006Z,2016,2027
+DM01,"Breast, Right",DM0,2016,2027
+DM010,Photons <1 MeV,DM01,2016,2027
+DM010Z,None,DM010,2016,2027
+DM010ZZ,Beam Radiation of Right Breast using Photons <1 MeV,DM010Z,2016,2027
+DM011,Photons 1 - 10 MeV,DM01,2016,2027
+DM011Z,None,DM011,2016,2027
+DM011ZZ,Beam Radiation of Right Breast using Photons 1 - 10 MeV,DM011Z,2016,2027
+DM012,Photons >10 MeV,DM01,2016,2027
+DM012Z,None,DM012,2016,2027
+DM012ZZ,Beam Radiation of Right Breast using Photons >10 MeV,DM012Z,2016,2027
+DM013,Electrons,DM01,2016,2027
+DM013Z,None,DM013,2016,2027
+DM013Z0,"Beam Radiation of Right Breast using Electrons, Intraoperative",DM013Z,2016,2027
+DM013ZZ,Beam Radiation of Right Breast using Electrons,DM013Z,2016,2027
+DM014,"Heavy Particles (Protons,Ions)",DM01,2016,2027
+DM014Z,None,DM014,2016,2027
+DM014ZZ,"Beam Radiation of Right Breast using Heavy Particles (Protons,Ions)",DM014Z,2016,2027
+DM015,Neutrons,DM01,2016,2027
+DM015Z,None,DM015,2016,2027
+DM015ZZ,Beam Radiation of Right Breast using Neutrons,DM015Z,2016,2027
+DM016,Neutron Capture,DM01,2016,2027
+DM016Z,None,DM016,2016,2027
+DM016ZZ,Beam Radiation of Right Breast using Neutron Capture,DM016Z,2016,2027
+DM1,Brachytherapy,DM,2016,2027
+DM10,"Breast, Left",DM1,2016,2027
+DM109,High Dose Rate (HDR),DM10,2016,2027
+DM1097,Cesium 137 (Cs-137),DM109,2016,2027
+DM1097Z,High Dose Rate (HDR) Brachytherapy of Left Breast using Cesium 137 (Cs-137),DM1097,2016,2027
+DM1098,Iridium 192 (Ir-192),DM109,2016,2027
+DM1098Z,High Dose Rate (HDR) Brachytherapy of Left Breast using Iridium 192 (Ir-192),DM1098,2016,2027
+DM1099,Iodine 125 (I-125),DM109,2016,2027
+DM1099Z,High Dose Rate (HDR) Brachytherapy of Left Breast using Iodine 125 (I-125),DM1099,2016,2027
+DM109B,Palladium 103 (Pd-103),DM109,2016,2027
+DM109BZ,High Dose Rate (HDR) Brachytherapy of Left Breast using Palladium 103 (Pd-103),DM109B,2016,2027
+DM109C,Californium 252 (Cf-252),DM109,2016,2027
+DM109CZ,High Dose Rate (HDR) Brachytherapy of Left Breast using Californium 252 (Cf-252),DM109C,2016,2027
+DM109Y,Other Isotope,DM109,2016,2027
+DM109YZ,High Dose Rate (HDR) Brachytherapy of Left Breast using Other Isotope,DM109Y,2016,2027
+DM10B,Low Dose Rate (LDR),DM10,2016,2027
+DM10B6,Cesium 131 (Cs-131),DM10B,2021,2027
+DM10B6Z,Low Dose Rate (LDR) Brachytherapy of Left Breast using Cesium 131 (Cs-131),DM10B6,2021,2027
+DM10B7,Cesium 137 (Cs-137),DM10B,2016,2027
+DM10B7Z,Low Dose Rate (LDR) Brachytherapy of Left Breast using Cesium 137 (Cs-137),DM10B7,2016,2027
+DM10B8,Iridium 192 (Ir-192),DM10B,2016,2027
+DM10B8Z,Low Dose Rate (LDR) Brachytherapy of Left Breast using Iridium 192 (Ir-192),DM10B8,2016,2027
+DM10B9,Iodine 125 (I-125),DM10B,2016,2027
+DM10B9Z,Low Dose Rate (LDR) Brachytherapy of Left Breast using Iodine 125 (I-125),DM10B9,2016,2027
+DM10BB,Palladium 103 (Pd-103),DM10B,2016,2027
+DM10BB1,"Low Dose Rate (LDR) Brachytherapy of Left Breast using Palladium 103 (Pd-103), Unidirectional Source",DM10BB,2020,2027
+DM10BBZ,Low Dose Rate (LDR) Brachytherapy of Left Breast using Palladium 103 (Pd-103),DM10BB,2016,2027
+DM10BC,Californium 252 (Cf-252),DM10B,2016,2027
+DM10BCZ,Low Dose Rate (LDR) Brachytherapy of Left Breast using Californium 252 (Cf-252),DM10BC,2016,2027
+DM10BY,Other Isotope,DM10B,2016,2027
+DM10BYZ,Low Dose Rate (LDR) Brachytherapy of Left Breast using Other Isotope,DM10BY,2016,2027
+DM11,"Breast, Right",DM1,2016,2027
+DM119,High Dose Rate (HDR),DM11,2016,2027
+DM1197,Cesium 137 (Cs-137),DM119,2016,2027
+DM1197Z,High Dose Rate (HDR) Brachytherapy of Right Breast using Cesium 137 (Cs-137),DM1197,2016,2027
+DM1198,Iridium 192 (Ir-192),DM119,2016,2027
+DM1198Z,High Dose Rate (HDR) Brachytherapy of Right Breast using Iridium 192 (Ir-192),DM1198,2016,2027
+DM1199,Iodine 125 (I-125),DM119,2016,2027
+DM1199Z,High Dose Rate (HDR) Brachytherapy of Right Breast using Iodine 125 (I-125),DM1199,2016,2027
+DM119B,Palladium 103 (Pd-103),DM119,2016,2027
+DM119BZ,High Dose Rate (HDR) Brachytherapy of Right Breast using Palladium 103 (Pd-103),DM119B,2016,2027
+DM119C,Californium 252 (Cf-252),DM119,2016,2027
+DM119CZ,High Dose Rate (HDR) Brachytherapy of Right Breast using Californium 252 (Cf-252),DM119C,2016,2027
+DM119Y,Other Isotope,DM119,2016,2027
+DM119YZ,High Dose Rate (HDR) Brachytherapy of Right Breast using Other Isotope,DM119Y,2016,2027
+DM11B,Low Dose Rate (LDR),DM11,2016,2027
+DM11B6,Cesium 131 (Cs-131),DM11B,2021,2027
+DM11B6Z,Low Dose Rate (LDR) Brachytherapy of Right Breast using Cesium 131 (Cs-131),DM11B6,2021,2027
+DM11B7,Cesium 137 (Cs-137),DM11B,2016,2027
+DM11B7Z,Low Dose Rate (LDR) Brachytherapy of Right Breast using Cesium 137 (Cs-137),DM11B7,2016,2027
+DM11B8,Iridium 192 (Ir-192),DM11B,2016,2027
+DM11B8Z,Low Dose Rate (LDR) Brachytherapy of Right Breast using Iridium 192 (Ir-192),DM11B8,2016,2027
+DM11B9,Iodine 125 (I-125),DM11B,2016,2027
+DM11B9Z,Low Dose Rate (LDR) Brachytherapy of Right Breast using Iodine 125 (I-125),DM11B9,2016,2027
+DM11BB,Palladium 103 (Pd-103),DM11B,2016,2027
+DM11BB1,"Low Dose Rate (LDR) Brachytherapy of Right Breast using Palladium 103 (Pd-103), Unidirectional Source",DM11BB,2020,2027
+DM11BBZ,Low Dose Rate (LDR) Brachytherapy of Right Breast using Palladium 103 (Pd-103),DM11BB,2016,2027
+DM11BC,Californium 252 (Cf-252),DM11B,2016,2027
+DM11BCZ,Low Dose Rate (LDR) Brachytherapy of Right Breast using Californium 252 (Cf-252),DM11BC,2016,2027
+DM11BY,Other Isotope,DM11B,2016,2027
+DM11BYZ,Low Dose Rate (LDR) Brachytherapy of Right Breast using Other Isotope,DM11BY,2016,2027
+DM2,Stereotactic Radiosurgery,DM,2016,2027
+DM20,"Breast, Left",DM2,2016,2027
+DM20D,Stereotactic Other Photon Radiosurgery,DM20,2016,2027
+DM20DZ,None,DM20D,2016,2027
+DM20DZZ,Stereotactic Other Photon Radiosurgery of Left Breast,DM20DZ,2016,2027
+DM20H,Stereotactic Particulate Radiosurgery,DM20,2016,2027
+DM20HZ,None,DM20H,2016,2027
+DM20HZZ,Stereotactic Particulate Radiosurgery of Left Breast,DM20HZ,2016,2027
+DM20J,Stereotactic Gamma Beam Radiosurgery,DM20,2016,2027
+DM20JZ,None,DM20J,2016,2027
+DM20JZZ,Stereotactic Gamma Beam Radiosurgery of Left Breast,DM20JZ,2016,2027
+DM21,"Breast, Right",DM2,2016,2027
+DM21D,Stereotactic Other Photon Radiosurgery,DM21,2016,2027
+DM21DZ,None,DM21D,2016,2027
+DM21DZZ,Stereotactic Other Photon Radiosurgery of Right Breast,DM21DZ,2016,2027
+DM21H,Stereotactic Particulate Radiosurgery,DM21,2016,2027
+DM21HZ,None,DM21H,2016,2027
+DM21HZZ,Stereotactic Particulate Radiosurgery of Right Breast,DM21HZ,2016,2027
+DM21J,Stereotactic Gamma Beam Radiosurgery,DM21,2016,2027
+DM21JZ,None,DM21J,2016,2027
+DM21JZZ,Stereotactic Gamma Beam Radiosurgery of Right Breast,DM21JZ,2016,2027
+DMY,Other Radiation,DM,2016,2027
+DMY0,"Breast, Left",DMY,2016,2027
+DMY07,Contact Radiation,DMY0,2016,2027
+DMY07Z,None,DMY07,2016,2027
+DMY07ZZ,Contact Radiation of Left Breast,DMY07Z,2016,2027
+DMY08,Hyperthermia,DMY0,2016,2027
+DMY08Z,None,DMY08,2016,2027
+DMY08ZZ,Hyperthermia of Left Breast,DMY08Z,2016,2027
+DMY0F,Plaque Radiation,DMY0,2016,2027
+DMY0FZ,None,DMY0F,2016,2027
+DMY0FZZ,Plaque Radiation of Left Breast,DMY0FZ,2016,2027
+DMY0K,Laser Interstitial Thermal Therapy,DMY0,2016,2022
+DMY0KZ,None,DMY0K,2016,2022
+DMY0KZZ,Laser Interstitial Thermal Therapy of Left Breast,DMY0KZ,2016,2022
+DMY1,"Breast, Right",DMY,2016,2027
+DMY17,Contact Radiation,DMY1,2016,2027
+DMY17Z,None,DMY17,2016,2027
+DMY17ZZ,Contact Radiation of Right Breast,DMY17Z,2016,2027
+DMY18,Hyperthermia,DMY1,2016,2027
+DMY18Z,None,DMY18,2016,2027
+DMY18ZZ,Hyperthermia of Right Breast,DMY18Z,2016,2027
+DMY1F,Plaque Radiation,DMY1,2016,2027
+DMY1FZ,None,DMY1F,2016,2027
+DMY1FZZ,Plaque Radiation of Right Breast,DMY1FZ,2016,2027
+DMY1K,Laser Interstitial Thermal Therapy,DMY1,2016,2022
+DMY1KZ,None,DMY1K,2016,2022
+DMY1KZZ,Laser Interstitial Thermal Therapy of Right Breast,DMY1KZ,2016,2022

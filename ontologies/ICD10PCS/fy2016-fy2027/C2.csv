@@ -1,0 +1,94 @@
+code,description,parent,first_year,last_year
+C2,Heart,C,2016,2027
+C21,Planar Nuclear Medicine Imaging,C2,2016,2027
+C216,"Heart, Right and Left",C21,2016,2027
+C2161,Technetium 99m (Tc-99m),C216,2016,2027
+C2161Z,None,C2161,2016,2027
+C2161ZZ,Planar Nuclear Medicine Imaging of Right and Left Heart using Technetium 99m (Tc-99m),C2161Z,2016,2027
+C216Y,Other Radionuclide,C216,2016,2027
+C216YZ,None,C216Y,2016,2027
+C216YZZ,Planar Nuclear Medicine Imaging of Right and Left Heart using Other Radionuclide,C216YZ,2016,2027
+C21G,Myocardium,C21,2016,2027
+C21G1,Technetium 99m (Tc-99m),C21G,2016,2027
+C21G1Z,None,C21G1,2016,2027
+C21G1ZZ,Planar Nuclear Medicine Imaging of Myocardium using Technetium 99m (Tc-99m),C21G1Z,2016,2027
+C21GD,Indium 111 (In-111),C21G,2016,2027
+C21GDZ,None,C21GD,2016,2027
+C21GDZZ,Planar Nuclear Medicine Imaging of Myocardium using Indium 111 (In-111),C21GDZ,2016,2027
+C21GS,Thallium 201 (Tl-201),C21G,2016,2027
+C21GSZ,None,C21GS,2016,2027
+C21GSZZ,Planar Nuclear Medicine Imaging of Myocardium using Thallium 201 (Tl-201),C21GSZ,2016,2027
+C21GY,Other Radionuclide,C21G,2016,2027
+C21GYZ,None,C21GY,2016,2027
+C21GYZZ,Planar Nuclear Medicine Imaging of Myocardium using Other Radionuclide,C21GYZ,2016,2027
+C21GZ,None,C21G,2016,2027
+C21GZZ,None,C21GZ,2016,2027
+C21GZZZ,Planar Nuclear Medicine Imaging of Myocardium,C21GZZ,2016,2027
+C21Y,Heart,C21,2016,2027
+C21YY,Other Radionuclide,C21Y,2016,2027
+C21YYZ,None,C21YY,2016,2027
+C21YYZZ,Planar Nuclear Medicine Imaging of Heart using Other Radionuclide,C21YYZ,2016,2027
+C22,Tomographic (Tomo) Nuclear Medicine Imaging,C2,2016,2027
+C226,"Heart, Right and Left",C22,2016,2027
+C2261,Technetium 99m (Tc-99m),C226,2016,2027
+C2261Z,None,C2261,2016,2027
+C2261ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right and Left Heart using Technetium 99m (Tc-99m),C2261Z,2016,2027
+C226Y,Other Radionuclide,C226,2016,2027
+C226YZ,None,C226Y,2016,2027
+C226YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right and Left Heart using Other Radionuclide,C226YZ,2016,2027
+C22G,Myocardium,C22,2016,2027
+C22G1,Technetium 99m (Tc-99m),C22G,2016,2027
+C22G1Z,None,C22G1,2016,2027
+C22G1ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium using Technetium 99m (Tc-99m),C22G1Z,2016,2027
+C22GD,Indium 111 (In-111),C22G,2016,2027
+C22GDZ,None,C22GD,2016,2027
+C22GDZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium using Indium 111 (In-111),C22GDZ,2016,2027
+C22GK,Fluorine 18 (F-18),C22G,2016,2027
+C22GKZ,None,C22GK,2016,2027
+C22GKZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium using Fluorine 18 (F-18),C22GKZ,2016,2027
+C22GS,Thallium 201 (Tl-201),C22G,2016,2027
+C22GSZ,None,C22GS,2016,2027
+C22GSZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium using Thallium 201 (Tl-201),C22GSZ,2016,2027
+C22GY,Other Radionuclide,C22G,2016,2027
+C22GYZ,None,C22GY,2016,2027
+C22GYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium using Other Radionuclide,C22GYZ,2016,2027
+C22GZ,None,C22G,2016,2027
+C22GZZ,None,C22GZ,2016,2027
+C22GZZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Myocardium,C22GZZ,2016,2027
+C22Y,Heart,C22,2016,2027
+C22YY,Other Radionuclide,C22Y,2016,2027
+C22YYZ,None,C22YY,2016,2027
+C22YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Heart using Other Radionuclide,C22YYZ,2016,2027
+C23,Positron Emission Tomographic (PET) Imaging,C2,2016,2027
+C23G,Myocardium,C23,2016,2027
+C23GK,Fluorine 18 (F-18),C23G,2016,2027
+C23GKZ,None,C23GK,2016,2027
+C23GKZZ,Positron Emission Tomographic (PET) Imaging of Myocardium using Fluorine 18 (F-18),C23GKZ,2016,2027
+C23GM,Oxygen 15 (O-15),C23G,2016,2027
+C23GMZ,None,C23GM,2016,2027
+C23GMZZ,Positron Emission Tomographic (PET) Imaging of Myocardium using Oxygen 15 (O-15),C23GMZ,2016,2027
+C23GQ,Rubidium 82 (Rb-82),C23G,2016,2027
+C23GQZ,None,C23GQ,2016,2027
+C23GQZZ,Positron Emission Tomographic (PET) Imaging of Myocardium using Rubidium 82 (Rb-82),C23GQZ,2016,2027
+C23GR,Nitrogen 13 (N-13),C23G,2016,2027
+C23GRZ,None,C23GR,2016,2027
+C23GRZZ,Positron Emission Tomographic (PET) Imaging of Myocardium using Nitrogen 13 (N-13),C23GRZ,2016,2027
+C23GY,Other Radionuclide,C23G,2016,2027
+C23GYZ,None,C23GY,2016,2027
+C23GYZZ,Positron Emission Tomographic (PET) Imaging of Myocardium using Other Radionuclide,C23GYZ,2016,2027
+C23Y,Heart,C23,2016,2027
+C23YY,Other Radionuclide,C23Y,2016,2027
+C23YYZ,None,C23YY,2016,2027
+C23YYZZ,Positron Emission Tomographic (PET) Imaging of Heart using Other Radionuclide,C23YYZ,2016,2027
+C25,Nonimaging Nuclear Medicine Probe,C2,2016,2027
+C256,"Heart, Right and Left",C25,2016,2027
+C2561,Technetium 99m (Tc-99m),C256,2016,2027
+C2561Z,None,C2561,2016,2027
+C2561ZZ,Nonimaging Nuclear Medicine Probe of Right and Left Heart using Technetium 99m (Tc-99m),C2561Z,2016,2027
+C256Y,Other Radionuclide,C256,2016,2027
+C256YZ,None,C256Y,2016,2027
+C256YZZ,Nonimaging Nuclear Medicine Probe of Right and Left Heart using Other Radionuclide,C256YZ,2016,2027
+C25Y,Heart,C25,2016,2027
+C25YY,Other Radionuclide,C25Y,2016,2027
+C25YYZ,None,C25YY,2016,2027
+C25YYZZ,Nonimaging Nuclear Medicine Probe of Heart using Other Radionuclide,C25YYZ,2016,2027

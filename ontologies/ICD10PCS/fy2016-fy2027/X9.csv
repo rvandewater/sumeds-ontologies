@@ -1,0 +1,15 @@
+code,description,parent,first_year,last_year
+X9,"Ear, Nose, Sinus",X,2026,2027
+X9H,Insertion,X9,2026,2027
+X9HD,"Inner Ear, Right",X9H,2026,2027
+X9HD0,Open,X9HD,2026,2027
+X9HD01,"Infusion Device, Temporary",X9HD0,2026,2027
+X9HD01B,"Insertion of Temporary Infusion Device into Right Inner Ear, Open Approach, New Technology Group 11",X9HD01,2026,2027
+X9HE,"Inner Ear, Left",X9H,2026,2027
+X9HE0,Open,X9HE,2026,2027
+X9HE01,"Infusion Device, Temporary",X9HE0,2026,2027
+X9HE01B,"Insertion of Temporary Infusion Device into Left Inner Ear, Open Approach, New Technology Group 11",X9HE01,2026,2027
+X9HF,"Inner Ear, Bilateral",X9H,2026,2027
+X9HF0,Open,X9HF,2026,2027
+X9HF01,"Infusion Device, Temporary",X9HF0,2026,2027
+X9HF01B,"Insertion of Temporary Infusion Device into Bilateral Inner Ear, Open Approach, New Technology Group 11",X9HF01,2026,2027

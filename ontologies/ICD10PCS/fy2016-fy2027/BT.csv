@@ -1,0 +1,499 @@
+code,description,parent,first_year,last_year
+BT,Urinary System,B,2016,2027
+BT0,Plain Radiography,BT,2016,2027
+BT00,Bladder,BT0,2016,2027
+BT000,High Osmolar,BT00,2016,2027
+BT000Z,None,BT000,2016,2027
+BT000ZZ,Plain Radiography of Bladder using High Osmolar Contrast,BT000Z,2016,2027
+BT001,Low Osmolar,BT00,2016,2027
+BT001Z,None,BT001,2016,2027
+BT001ZZ,Plain Radiography of Bladder using Low Osmolar Contrast,BT001Z,2016,2027
+BT00Y,Other Contrast,BT00,2016,2027
+BT00YZ,None,BT00Y,2016,2027
+BT00YZZ,Plain Radiography of Bladder using Other Contrast,BT00YZ,2016,2027
+BT00Z,None,BT00,2016,2027
+BT00ZZ,None,BT00Z,2016,2027
+BT00ZZZ,Plain Radiography of Bladder,BT00ZZ,2016,2027
+BT01,"Kidney, Right",BT0,2016,2027
+BT010,High Osmolar,BT01,2016,2027
+BT010Z,None,BT010,2016,2027
+BT010ZZ,Plain Radiography of Right Kidney using High Osmolar Contrast,BT010Z,2016,2027
+BT011,Low Osmolar,BT01,2016,2027
+BT011Z,None,BT011,2016,2027
+BT011ZZ,Plain Radiography of Right Kidney using Low Osmolar Contrast,BT011Z,2016,2027
+BT01Y,Other Contrast,BT01,2016,2027
+BT01YZ,None,BT01Y,2016,2027
+BT01YZZ,Plain Radiography of Right Kidney using Other Contrast,BT01YZ,2016,2027
+BT01Z,None,BT01,2016,2027
+BT01ZZ,None,BT01Z,2016,2027
+BT01ZZZ,Plain Radiography of Right Kidney,BT01ZZ,2016,2027
+BT02,"Kidney, Left",BT0,2016,2027
+BT020,High Osmolar,BT02,2016,2027
+BT020Z,None,BT020,2016,2027
+BT020ZZ,Plain Radiography of Left Kidney using High Osmolar Contrast,BT020Z,2016,2027
+BT021,Low Osmolar,BT02,2016,2027
+BT021Z,None,BT021,2016,2027
+BT021ZZ,Plain Radiography of Left Kidney using Low Osmolar Contrast,BT021Z,2016,2027
+BT02Y,Other Contrast,BT02,2016,2027
+BT02YZ,None,BT02Y,2016,2027
+BT02YZZ,Plain Radiography of Left Kidney using Other Contrast,BT02YZ,2016,2027
+BT02Z,None,BT02,2016,2027
+BT02ZZ,None,BT02Z,2016,2027
+BT02ZZZ,Plain Radiography of Left Kidney,BT02ZZ,2016,2027
+BT03,"Kidneys, Bilateral",BT0,2016,2027
+BT030,High Osmolar,BT03,2016,2027
+BT030Z,None,BT030,2016,2027
+BT030ZZ,Plain Radiography of Bilateral Kidneys using High Osmolar Contrast,BT030Z,2016,2027
+BT031,Low Osmolar,BT03,2016,2027
+BT031Z,None,BT031,2016,2027
+BT031ZZ,Plain Radiography of Bilateral Kidneys using Low Osmolar Contrast,BT031Z,2016,2027
+BT03Y,Other Contrast,BT03,2016,2027
+BT03YZ,None,BT03Y,2016,2027
+BT03YZZ,Plain Radiography of Bilateral Kidneys using Other Contrast,BT03YZ,2016,2027
+BT03Z,None,BT03,2016,2027
+BT03ZZ,None,BT03Z,2016,2027
+BT03ZZZ,Plain Radiography of Bilateral Kidneys,BT03ZZ,2016,2027
+BT04,"Kidneys, Ureters and Bladder",BT0,2016,2027
+BT040,High Osmolar,BT04,2016,2027
+BT040Z,None,BT040,2016,2027
+BT040ZZ,"Plain Radiography of Kidneys, Ureters and Bladder using High Osmolar Contrast",BT040Z,2016,2027
+BT041,Low Osmolar,BT04,2016,2027
+BT041Z,None,BT041,2016,2027
+BT041ZZ,"Plain Radiography of Kidneys, Ureters and Bladder using Low Osmolar Contrast",BT041Z,2016,2027
+BT04Y,Other Contrast,BT04,2016,2027
+BT04YZ,None,BT04Y,2016,2027
+BT04YZZ,"Plain Radiography of Kidneys, Ureters and Bladder using Other Contrast",BT04YZ,2016,2027
+BT04Z,None,BT04,2016,2027
+BT04ZZ,None,BT04Z,2016,2027
+BT04ZZZ,"Plain Radiography of Kidneys, Ureters and Bladder",BT04ZZ,2016,2027
+BT05,Urethra,BT0,2016,2027
+BT050,High Osmolar,BT05,2016,2027
+BT050Z,None,BT050,2016,2027
+BT050ZZ,Plain Radiography of Urethra using High Osmolar Contrast,BT050Z,2016,2027
+BT051,Low Osmolar,BT05,2016,2027
+BT051Z,None,BT051,2016,2027
+BT051ZZ,Plain Radiography of Urethra using Low Osmolar Contrast,BT051Z,2016,2027
+BT05Y,Other Contrast,BT05,2016,2027
+BT05YZ,None,BT05Y,2016,2027
+BT05YZZ,Plain Radiography of Urethra using Other Contrast,BT05YZ,2016,2027
+BT05Z,None,BT05,2016,2027
+BT05ZZ,None,BT05Z,2016,2027
+BT05ZZZ,Plain Radiography of Urethra,BT05ZZ,2016,2027
+BT06,"Ureter, Right",BT0,2016,2027
+BT060,High Osmolar,BT06,2016,2027
+BT060Z,None,BT060,2016,2027
+BT060ZZ,Plain Radiography of Right Ureter using High Osmolar Contrast,BT060Z,2016,2027
+BT061,Low Osmolar,BT06,2016,2027
+BT061Z,None,BT061,2016,2027
+BT061ZZ,Plain Radiography of Right Ureter using Low Osmolar Contrast,BT061Z,2016,2027
+BT06Y,Other Contrast,BT06,2016,2027
+BT06YZ,None,BT06Y,2016,2027
+BT06YZZ,Plain Radiography of Right Ureter using Other Contrast,BT06YZ,2016,2027
+BT06Z,None,BT06,2016,2027
+BT06ZZ,None,BT06Z,2016,2027
+BT06ZZZ,Plain Radiography of Right Ureter,BT06ZZ,2016,2027
+BT07,"Ureter, Left",BT0,2016,2027
+BT070,High Osmolar,BT07,2016,2027
+BT070Z,None,BT070,2016,2027
+BT070ZZ,Plain Radiography of Left Ureter using High Osmolar Contrast,BT070Z,2016,2027
+BT071,Low Osmolar,BT07,2016,2027
+BT071Z,None,BT071,2016,2027
+BT071ZZ,Plain Radiography of Left Ureter using Low Osmolar Contrast,BT071Z,2016,2027
+BT07Y,Other Contrast,BT07,2016,2027
+BT07YZ,None,BT07Y,2016,2027
+BT07YZZ,Plain Radiography of Left Ureter using Other Contrast,BT07YZ,2016,2027
+BT07Z,None,BT07,2016,2027
+BT07ZZ,None,BT07Z,2016,2027
+BT07ZZZ,Plain Radiography of Left Ureter,BT07ZZ,2016,2027
+BT08,"Ureters, Bilateral",BT0,2016,2027
+BT080,High Osmolar,BT08,2016,2027
+BT080Z,None,BT080,2016,2027
+BT080ZZ,Plain Radiography of Bilateral Ureters using High Osmolar Contrast,BT080Z,2016,2027
+BT081,Low Osmolar,BT08,2016,2027
+BT081Z,None,BT081,2016,2027
+BT081ZZ,Plain Radiography of Bilateral Ureters using Low Osmolar Contrast,BT081Z,2016,2027
+BT08Y,Other Contrast,BT08,2016,2027
+BT08YZ,None,BT08Y,2016,2027
+BT08YZZ,Plain Radiography of Bilateral Ureters using Other Contrast,BT08YZ,2016,2027
+BT08Z,None,BT08,2016,2027
+BT08ZZ,None,BT08Z,2016,2027
+BT08ZZZ,Plain Radiography of Bilateral Ureters,BT08ZZ,2016,2027
+BT0B,Bladder and Urethra,BT0,2016,2027
+BT0B0,High Osmolar,BT0B,2016,2027
+BT0B0Z,None,BT0B0,2016,2027
+BT0B0ZZ,Plain Radiography of Bladder and Urethra using High Osmolar Contrast,BT0B0Z,2016,2027
+BT0B1,Low Osmolar,BT0B,2016,2027
+BT0B1Z,None,BT0B1,2016,2027
+BT0B1ZZ,Plain Radiography of Bladder and Urethra using Low Osmolar Contrast,BT0B1Z,2016,2027
+BT0BY,Other Contrast,BT0B,2016,2027
+BT0BYZ,None,BT0BY,2016,2027
+BT0BYZZ,Plain Radiography of Bladder and Urethra using Other Contrast,BT0BYZ,2016,2027
+BT0BZ,None,BT0B,2016,2027
+BT0BZZ,None,BT0BZ,2016,2027
+BT0BZZZ,Plain Radiography of Bladder and Urethra,BT0BZZ,2016,2027
+BT0C,Ileal Diversion Loop,BT0,2016,2027
+BT0C0,High Osmolar,BT0C,2016,2027
+BT0C0Z,None,BT0C0,2016,2027
+BT0C0ZZ,Plain Radiography of Ileal Diversion Loop using High Osmolar Contrast,BT0C0Z,2016,2027
+BT0C1,Low Osmolar,BT0C,2016,2027
+BT0C1Z,None,BT0C1,2016,2027
+BT0C1ZZ,Plain Radiography of Ileal Diversion Loop using Low Osmolar Contrast,BT0C1Z,2016,2027
+BT0CY,Other Contrast,BT0C,2016,2027
+BT0CYZ,None,BT0CY,2016,2027
+BT0CYZZ,Plain Radiography of Ileal Diversion Loop using Other Contrast,BT0CYZ,2016,2027
+BT0CZ,None,BT0C,2016,2027
+BT0CZZ,None,BT0CZ,2016,2027
+BT0CZZZ,Plain Radiography of Ileal Diversion Loop,BT0CZZ,2016,2027
+BT1,Fluoroscopy,BT,2016,2027
+BT10,Bladder,BT1,2016,2027
+BT100,High Osmolar,BT10,2016,2027
+BT100Z,None,BT100,2016,2027
+BT100ZZ,Fluoroscopy of Bladder using High Osmolar Contrast,BT100Z,2016,2027
+BT101,Low Osmolar,BT10,2016,2027
+BT101Z,None,BT101,2016,2027
+BT101ZZ,Fluoroscopy of Bladder using Low Osmolar Contrast,BT101Z,2016,2027
+BT10Y,Other Contrast,BT10,2016,2027
+BT10YZ,None,BT10Y,2016,2027
+BT10YZZ,Fluoroscopy of Bladder using Other Contrast,BT10YZ,2016,2027
+BT10Z,None,BT10,2016,2027
+BT10ZZ,None,BT10Z,2016,2027
+BT10ZZZ,Fluoroscopy of Bladder,BT10ZZ,2016,2027
+BT11,"Kidney, Right",BT1,2016,2027
+BT110,High Osmolar,BT11,2016,2027
+BT110Z,None,BT110,2016,2027
+BT110ZZ,Fluoroscopy of Right Kidney using High Osmolar Contrast,BT110Z,2016,2027
+BT111,Low Osmolar,BT11,2016,2027
+BT111Z,None,BT111,2016,2027
+BT111ZZ,Fluoroscopy of Right Kidney using Low Osmolar Contrast,BT111Z,2016,2027
+BT11Y,Other Contrast,BT11,2016,2027
+BT11YZ,None,BT11Y,2016,2027
+BT11YZZ,Fluoroscopy of Right Kidney using Other Contrast,BT11YZ,2016,2027
+BT11Z,None,BT11,2016,2027
+BT11ZZ,None,BT11Z,2016,2027
+BT11ZZZ,Fluoroscopy of Right Kidney,BT11ZZ,2016,2027
+BT12,"Kidney, Left",BT1,2016,2027
+BT120,High Osmolar,BT12,2016,2027
+BT120Z,None,BT120,2016,2027
+BT120ZZ,Fluoroscopy of Left Kidney using High Osmolar Contrast,BT120Z,2016,2027
+BT121,Low Osmolar,BT12,2016,2027
+BT121Z,None,BT121,2016,2027
+BT121ZZ,Fluoroscopy of Left Kidney using Low Osmolar Contrast,BT121Z,2016,2027
+BT12Y,Other Contrast,BT12,2016,2027
+BT12YZ,None,BT12Y,2016,2027
+BT12YZZ,Fluoroscopy of Left Kidney using Other Contrast,BT12YZ,2016,2027
+BT12Z,None,BT12,2016,2027
+BT12ZZ,None,BT12Z,2016,2027
+BT12ZZZ,Fluoroscopy of Left Kidney,BT12ZZ,2016,2027
+BT13,"Kidneys, Bilateral",BT1,2016,2027
+BT130,High Osmolar,BT13,2016,2027
+BT130Z,None,BT130,2016,2027
+BT130ZZ,Fluoroscopy of Bilateral Kidneys using High Osmolar Contrast,BT130Z,2016,2027
+BT131,Low Osmolar,BT13,2016,2027
+BT131Z,None,BT131,2016,2027
+BT131ZZ,Fluoroscopy of Bilateral Kidneys using Low Osmolar Contrast,BT131Z,2016,2027
+BT13Y,Other Contrast,BT13,2016,2027
+BT13YZ,None,BT13Y,2016,2027
+BT13YZZ,Fluoroscopy of Bilateral Kidneys using Other Contrast,BT13YZ,2016,2027
+BT13Z,None,BT13,2016,2027
+BT13ZZ,None,BT13Z,2016,2027
+BT13ZZZ,Fluoroscopy of Bilateral Kidneys,BT13ZZ,2016,2027
+BT14,"Kidneys, Ureters and Bladder",BT1,2016,2027
+BT140,High Osmolar,BT14,2016,2027
+BT140Z,None,BT140,2016,2027
+BT140ZZ,"Fluoroscopy of Kidneys, Ureters and Bladder using High Osmolar Contrast",BT140Z,2016,2027
+BT141,Low Osmolar,BT14,2016,2027
+BT141Z,None,BT141,2016,2027
+BT141ZZ,"Fluoroscopy of Kidneys, Ureters and Bladder using Low Osmolar Contrast",BT141Z,2016,2027
+BT14Y,Other Contrast,BT14,2016,2027
+BT14YZ,None,BT14Y,2016,2027
+BT14YZZ,"Fluoroscopy of Kidneys, Ureters and Bladder using Other Contrast",BT14YZ,2016,2027
+BT14Z,None,BT14,2016,2027
+BT14ZZ,None,BT14Z,2016,2027
+BT14ZZZ,"Fluoroscopy of Kidneys, Ureters and Bladder",BT14ZZ,2016,2027
+BT15,Urethra,BT1,2016,2027
+BT150,High Osmolar,BT15,2016,2027
+BT150Z,None,BT150,2016,2027
+BT150ZZ,Fluoroscopy of Urethra using High Osmolar Contrast,BT150Z,2016,2027
+BT151,Low Osmolar,BT15,2016,2027
+BT151Z,None,BT151,2016,2027
+BT151ZZ,Fluoroscopy of Urethra using Low Osmolar Contrast,BT151Z,2016,2027
+BT15Y,Other Contrast,BT15,2016,2027
+BT15YZ,None,BT15Y,2016,2027
+BT15YZZ,Fluoroscopy of Urethra using Other Contrast,BT15YZ,2016,2027
+BT15Z,None,BT15,2016,2027
+BT15ZZ,None,BT15Z,2016,2027
+BT15ZZZ,Fluoroscopy of Urethra,BT15ZZ,2016,2027
+BT16,"Ureter, Right",BT1,2016,2027
+BT160,High Osmolar,BT16,2016,2027
+BT160Z,None,BT160,2016,2027
+BT160ZZ,Fluoroscopy of Right Ureter using High Osmolar Contrast,BT160Z,2016,2027
+BT161,Low Osmolar,BT16,2016,2027
+BT161Z,None,BT161,2016,2027
+BT161ZZ,Fluoroscopy of Right Ureter using Low Osmolar Contrast,BT161Z,2016,2027
+BT16Y,Other Contrast,BT16,2016,2027
+BT16YZ,None,BT16Y,2016,2027
+BT16YZZ,Fluoroscopy of Right Ureter using Other Contrast,BT16YZ,2016,2027
+BT16Z,None,BT16,2016,2027
+BT16ZZ,None,BT16Z,2016,2027
+BT16ZZZ,Fluoroscopy of Right Ureter,BT16ZZ,2016,2027
+BT17,"Ureter, Left",BT1,2016,2027
+BT170,High Osmolar,BT17,2016,2027
+BT170Z,None,BT170,2016,2027
+BT170ZZ,Fluoroscopy of Left Ureter using High Osmolar Contrast,BT170Z,2016,2027
+BT171,Low Osmolar,BT17,2016,2027
+BT171Z,None,BT171,2016,2027
+BT171ZZ,Fluoroscopy of Left Ureter using Low Osmolar Contrast,BT171Z,2016,2027
+BT17Y,Other Contrast,BT17,2016,2027
+BT17YZ,None,BT17Y,2016,2027
+BT17YZZ,Fluoroscopy of Left Ureter using Other Contrast,BT17YZ,2016,2027
+BT17Z,None,BT17,2016,2027
+BT17ZZ,None,BT17Z,2016,2027
+BT17ZZZ,Fluoroscopy of Left Ureter,BT17ZZ,2016,2027
+BT1B,Bladder and Urethra,BT1,2016,2027
+BT1B0,High Osmolar,BT1B,2016,2027
+BT1B0Z,None,BT1B0,2016,2027
+BT1B0ZZ,Fluoroscopy of Bladder and Urethra using High Osmolar Contrast,BT1B0Z,2016,2027
+BT1B1,Low Osmolar,BT1B,2016,2027
+BT1B1Z,None,BT1B1,2016,2027
+BT1B1ZZ,Fluoroscopy of Bladder and Urethra using Low Osmolar Contrast,BT1B1Z,2016,2027
+BT1BY,Other Contrast,BT1B,2016,2027
+BT1BYZ,None,BT1BY,2016,2027
+BT1BYZZ,Fluoroscopy of Bladder and Urethra using Other Contrast,BT1BYZ,2016,2027
+BT1BZ,None,BT1B,2016,2027
+BT1BZZ,None,BT1BZ,2016,2027
+BT1BZZZ,Fluoroscopy of Bladder and Urethra,BT1BZZ,2016,2027
+BT1C,Ileal Diversion Loop,BT1,2016,2027
+BT1C0,High Osmolar,BT1C,2016,2027
+BT1C0Z,None,BT1C0,2016,2027
+BT1C0ZZ,Fluoroscopy of Ileal Diversion Loop using High Osmolar Contrast,BT1C0Z,2016,2027
+BT1C1,Low Osmolar,BT1C,2016,2027
+BT1C1Z,None,BT1C1,2016,2027
+BT1C1ZZ,Fluoroscopy of Ileal Diversion Loop using Low Osmolar Contrast,BT1C1Z,2016,2027
+BT1CY,Other Contrast,BT1C,2016,2027
+BT1CYZ,None,BT1CY,2016,2027
+BT1CYZZ,Fluoroscopy of Ileal Diversion Loop using Other Contrast,BT1CYZ,2016,2027
+BT1CZ,None,BT1C,2016,2027
+BT1CZZ,None,BT1CZ,2016,2027
+BT1CZZZ,Fluoroscopy of Ileal Diversion Loop,BT1CZZ,2016,2027
+BT1D,"Kidney, Ureter and Bladder, Right",BT1,2016,2027
+BT1D0,High Osmolar,BT1D,2016,2027
+BT1D0Z,None,BT1D0,2016,2027
+BT1D0ZZ,"Fluoroscopy of Right Kidney, Ureter and Bladder using High Osmolar Contrast",BT1D0Z,2016,2027
+BT1D1,Low Osmolar,BT1D,2016,2027
+BT1D1Z,None,BT1D1,2016,2027
+BT1D1ZZ,"Fluoroscopy of Right Kidney, Ureter and Bladder using Low Osmolar Contrast",BT1D1Z,2016,2027
+BT1DY,Other Contrast,BT1D,2016,2027
+BT1DYZ,None,BT1DY,2016,2027
+BT1DYZZ,"Fluoroscopy of Right Kidney, Ureter and Bladder using Other Contrast",BT1DYZ,2016,2027
+BT1DZ,None,BT1D,2016,2027
+BT1DZZ,None,BT1DZ,2016,2027
+BT1DZZZ,"Fluoroscopy of Right Kidney, Ureter and Bladder",BT1DZZ,2016,2027
+BT1F,"Kidney, Ureter and Bladder, Left",BT1,2016,2027
+BT1F0,High Osmolar,BT1F,2016,2027
+BT1F0Z,None,BT1F0,2016,2027
+BT1F0ZZ,"Fluoroscopy of Left Kidney, Ureter and Bladder using High Osmolar Contrast",BT1F0Z,2016,2027
+BT1F1,Low Osmolar,BT1F,2016,2027
+BT1F1Z,None,BT1F1,2016,2027
+BT1F1ZZ,"Fluoroscopy of Left Kidney, Ureter and Bladder using Low Osmolar Contrast",BT1F1Z,2016,2027
+BT1FY,Other Contrast,BT1F,2016,2027
+BT1FYZ,None,BT1FY,2016,2027
+BT1FYZZ,"Fluoroscopy of Left Kidney, Ureter and Bladder using Other Contrast",BT1FYZ,2016,2027
+BT1FZ,None,BT1F,2016,2027
+BT1FZZ,None,BT1FZ,2016,2027
+BT1FZZZ,"Fluoroscopy of Left Kidney, Ureter and Bladder",BT1FZZ,2016,2027
+BT1G,"Ileal Loop, Ureters and Kidneys",BT1,2016,2027
+BT1G0,High Osmolar,BT1G,2016,2027
+BT1G0Z,None,BT1G0,2016,2027
+BT1G0ZZ,"Fluoroscopy of Ileal Loop, Ureters and Kidneys using High Osmolar Contrast",BT1G0Z,2016,2027
+BT1G1,Low Osmolar,BT1G,2016,2027
+BT1G1Z,None,BT1G1,2016,2027
+BT1G1ZZ,"Fluoroscopy of Ileal Loop, Ureters and Kidneys using Low Osmolar Contrast",BT1G1Z,2016,2027
+BT1GY,Other Contrast,BT1G,2016,2027
+BT1GYZ,None,BT1GY,2016,2027
+BT1GYZZ,"Fluoroscopy of Ileal Loop, Ureters and Kidneys using Other Contrast",BT1GYZ,2016,2027
+BT1GZ,None,BT1G,2016,2027
+BT1GZZ,None,BT1GZ,2016,2027
+BT1GZZZ,"Fluoroscopy of Ileal Loop, Ureters and Kidneys",BT1GZZ,2016,2027
+BT2,Computerized Tomography (CT Scan),BT,2016,2027
+BT20,Bladder,BT2,2016,2027
+BT200,High Osmolar,BT20,2016,2027
+BT2000,Unenhanced and Enhanced,BT200,2016,2027
+BT2000Z,"Computerized Tomography (CT Scan) of Bladder using High Osmolar Contrast, Unenhanced and Enhanced",BT2000,2016,2027
+BT200Z,None,BT200,2016,2027
+BT200ZZ,Computerized Tomography (CT Scan) of Bladder using High Osmolar Contrast,BT200Z,2016,2027
+BT201,Low Osmolar,BT20,2016,2027
+BT2010,Unenhanced and Enhanced,BT201,2016,2027
+BT2010Z,"Computerized Tomography (CT Scan) of Bladder using Low Osmolar Contrast, Unenhanced and Enhanced",BT2010,2016,2027
+BT201Z,None,BT201,2016,2027
+BT201ZZ,Computerized Tomography (CT Scan) of Bladder using Low Osmolar Contrast,BT201Z,2016,2027
+BT20Y,Other Contrast,BT20,2016,2027
+BT20Y0,Unenhanced and Enhanced,BT20Y,2016,2027
+BT20Y0Z,"Computerized Tomography (CT Scan) of Bladder using Other Contrast, Unenhanced and Enhanced",BT20Y0,2016,2027
+BT20YZ,None,BT20Y,2016,2027
+BT20YZZ,Computerized Tomography (CT Scan) of Bladder using Other Contrast,BT20YZ,2016,2027
+BT20Z,None,BT20,2016,2027
+BT20ZZ,None,BT20Z,2016,2027
+BT20ZZZ,Computerized Tomography (CT Scan) of Bladder,BT20ZZ,2016,2027
+BT21,"Kidney, Right",BT2,2016,2027
+BT210,High Osmolar,BT21,2016,2027
+BT2100,Unenhanced and Enhanced,BT210,2016,2027
+BT2100Z,"Computerized Tomography (CT Scan) of Right Kidney using High Osmolar Contrast, Unenhanced and Enhanced",BT2100,2016,2027
+BT210Z,None,BT210,2016,2027
+BT210ZZ,Computerized Tomography (CT Scan) of Right Kidney using High Osmolar Contrast,BT210Z,2016,2027
+BT211,Low Osmolar,BT21,2016,2027
+BT2110,Unenhanced and Enhanced,BT211,2016,2027
+BT2110Z,"Computerized Tomography (CT Scan) of Right Kidney using Low Osmolar Contrast, Unenhanced and Enhanced",BT2110,2016,2027
+BT211Z,None,BT211,2016,2027
+BT211ZZ,Computerized Tomography (CT Scan) of Right Kidney using Low Osmolar Contrast,BT211Z,2016,2027
+BT21Y,Other Contrast,BT21,2016,2027
+BT21Y0,Unenhanced and Enhanced,BT21Y,2016,2027
+BT21Y0Z,"Computerized Tomography (CT Scan) of Right Kidney using Other Contrast, Unenhanced and Enhanced",BT21Y0,2016,2027
+BT21YZ,None,BT21Y,2016,2027
+BT21YZZ,Computerized Tomography (CT Scan) of Right Kidney using Other Contrast,BT21YZ,2016,2027
+BT21Z,None,BT21,2016,2027
+BT21ZZ,None,BT21Z,2016,2027
+BT21ZZZ,Computerized Tomography (CT Scan) of Right Kidney,BT21ZZ,2016,2027
+BT22,"Kidney, Left",BT2,2016,2027
+BT220,High Osmolar,BT22,2016,2027
+BT2200,Unenhanced and Enhanced,BT220,2016,2027
+BT2200Z,"Computerized Tomography (CT Scan) of Left Kidney using High Osmolar Contrast, Unenhanced and Enhanced",BT2200,2016,2027
+BT220Z,None,BT220,2016,2027
+BT220ZZ,Computerized Tomography (CT Scan) of Left Kidney using High Osmolar Contrast,BT220Z,2016,2027
+BT221,Low Osmolar,BT22,2016,2027
+BT2210,Unenhanced and Enhanced,BT221,2016,2027
+BT2210Z,"Computerized Tomography (CT Scan) of Left Kidney using Low Osmolar Contrast, Unenhanced and Enhanced",BT2210,2016,2027
+BT221Z,None,BT221,2016,2027
+BT221ZZ,Computerized Tomography (CT Scan) of Left Kidney using Low Osmolar Contrast,BT221Z,2016,2027
+BT22Y,Other Contrast,BT22,2016,2027
+BT22Y0,Unenhanced and Enhanced,BT22Y,2016,2027
+BT22Y0Z,"Computerized Tomography (CT Scan) of Left Kidney using Other Contrast, Unenhanced and Enhanced",BT22Y0,2016,2027
+BT22YZ,None,BT22Y,2016,2027
+BT22YZZ,Computerized Tomography (CT Scan) of Left Kidney using Other Contrast,BT22YZ,2016,2027
+BT22Z,None,BT22,2016,2027
+BT22ZZ,None,BT22Z,2016,2027
+BT22ZZZ,Computerized Tomography (CT Scan) of Left Kidney,BT22ZZ,2016,2027
+BT23,"Kidneys, Bilateral",BT2,2016,2027
+BT230,High Osmolar,BT23,2016,2027
+BT2300,Unenhanced and Enhanced,BT230,2016,2027
+BT2300Z,"Computerized Tomography (CT Scan) of Bilateral Kidneys using High Osmolar Contrast, Unenhanced and Enhanced",BT2300,2016,2027
+BT230Z,None,BT230,2016,2027
+BT230ZZ,Computerized Tomography (CT Scan) of Bilateral Kidneys using High Osmolar Contrast,BT230Z,2016,2027
+BT231,Low Osmolar,BT23,2016,2027
+BT2310,Unenhanced and Enhanced,BT231,2016,2027
+BT2310Z,"Computerized Tomography (CT Scan) of Bilateral Kidneys using Low Osmolar Contrast, Unenhanced and Enhanced",BT2310,2016,2027
+BT231Z,None,BT231,2016,2027
+BT231ZZ,Computerized Tomography (CT Scan) of Bilateral Kidneys using Low Osmolar Contrast,BT231Z,2016,2027
+BT23Y,Other Contrast,BT23,2016,2027
+BT23Y0,Unenhanced and Enhanced,BT23Y,2016,2027
+BT23Y0Z,"Computerized Tomography (CT Scan) of Bilateral Kidneys using Other Contrast, Unenhanced and Enhanced",BT23Y0,2016,2027
+BT23YZ,None,BT23Y,2016,2027
+BT23YZZ,Computerized Tomography (CT Scan) of Bilateral Kidneys using Other Contrast,BT23YZ,2016,2027
+BT23Z,None,BT23,2016,2027
+BT23ZZ,None,BT23Z,2016,2027
+BT23ZZZ,Computerized Tomography (CT Scan) of Bilateral Kidneys,BT23ZZ,2016,2027
+BT29,Kidney Transplant,BT2,2016,2027
+BT290,High Osmolar,BT29,2016,2027
+BT2900,Unenhanced and Enhanced,BT290,2016,2027
+BT2900Z,"Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast, Unenhanced and Enhanced",BT2900,2016,2027
+BT290Z,None,BT290,2016,2027
+BT290ZZ,Computerized Tomography (CT Scan) of Kidney Transplant using High Osmolar Contrast,BT290Z,2016,2027
+BT291,Low Osmolar,BT29,2016,2027
+BT2910,Unenhanced and Enhanced,BT291,2016,2027
+BT2910Z,"Computerized Tomography (CT Scan) of Kidney Transplant using Low Osmolar Contrast, Unenhanced and Enhanced",BT2910,2016,2027
+BT291Z,None,BT291,2016,2027
+BT291ZZ,Computerized Tomography (CT Scan) of Kidney Transplant using Low Osmolar Contrast,BT291Z,2016,2027
+BT29Y,Other Contrast,BT29,2016,2027
+BT29Y0,Unenhanced and Enhanced,BT29Y,2016,2027
+BT29Y0Z,"Computerized Tomography (CT Scan) of Kidney Transplant using Other Contrast, Unenhanced and Enhanced",BT29Y0,2016,2027
+BT29YZ,None,BT29Y,2016,2027
+BT29YZZ,Computerized Tomography (CT Scan) of Kidney Transplant using Other Contrast,BT29YZ,2016,2027
+BT29Z,None,BT29,2016,2027
+BT29ZZ,None,BT29Z,2016,2027
+BT29ZZZ,Computerized Tomography (CT Scan) of Kidney Transplant,BT29ZZ,2016,2027
+BT3,Magnetic Resonance Imaging (MRI),BT,2016,2027
+BT30,Bladder,BT3,2016,2027
+BT30Y,Other Contrast,BT30,2016,2027
+BT30Y0,Unenhanced and Enhanced,BT30Y,2016,2027
+BT30Y0Z,"Magnetic Resonance Imaging (MRI) of Bladder using Other Contrast, Unenhanced and Enhanced",BT30Y0,2016,2027
+BT30YZ,None,BT30Y,2016,2027
+BT30YZZ,Magnetic Resonance Imaging (MRI) of Bladder using Other Contrast,BT30YZ,2016,2027
+BT30Z,None,BT30,2016,2027
+BT30ZZ,None,BT30Z,2016,2027
+BT30ZZZ,Magnetic Resonance Imaging (MRI) of Bladder,BT30ZZ,2016,2027
+BT31,"Kidney, Right",BT3,2016,2027
+BT31Y,Other Contrast,BT31,2016,2027
+BT31Y0,Unenhanced and Enhanced,BT31Y,2016,2027
+BT31Y0Z,"Magnetic Resonance Imaging (MRI) of Right Kidney using Other Contrast, Unenhanced and Enhanced",BT31Y0,2016,2027
+BT31YZ,None,BT31Y,2016,2027
+BT31YZZ,Magnetic Resonance Imaging (MRI) of Right Kidney using Other Contrast,BT31YZ,2016,2027
+BT31Z,None,BT31,2016,2027
+BT31ZZ,None,BT31Z,2016,2027
+BT31ZZZ,Magnetic Resonance Imaging (MRI) of Right Kidney,BT31ZZ,2016,2027
+BT32,"Kidney, Left",BT3,2016,2027
+BT32Y,Other Contrast,BT32,2016,2027
+BT32Y0,Unenhanced and Enhanced,BT32Y,2016,2027
+BT32Y0Z,"Magnetic Resonance Imaging (MRI) of Left Kidney using Other Contrast, Unenhanced and Enhanced",BT32Y0,2016,2027
+BT32YZ,None,BT32Y,2016,2027
+BT32YZZ,Magnetic Resonance Imaging (MRI) of Left Kidney using Other Contrast,BT32YZ,2016,2027
+BT32Z,None,BT32,2016,2027
+BT32ZZ,None,BT32Z,2016,2027
+BT32ZZZ,Magnetic Resonance Imaging (MRI) of Left Kidney,BT32ZZ,2016,2027
+BT33,"Kidneys, Bilateral",BT3,2016,2027
+BT33Y,Other Contrast,BT33,2016,2027
+BT33Y0,Unenhanced and Enhanced,BT33Y,2016,2027
+BT33Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Kidneys using Other Contrast, Unenhanced and Enhanced",BT33Y0,2016,2027
+BT33YZ,None,BT33Y,2016,2027
+BT33YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Kidneys using Other Contrast,BT33YZ,2016,2027
+BT33Z,None,BT33,2016,2027
+BT33ZZ,None,BT33Z,2016,2027
+BT33ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Kidneys,BT33ZZ,2016,2027
+BT39,Kidney Transplant,BT3,2016,2027
+BT39Y,Other Contrast,BT39,2016,2027
+BT39Y0,Unenhanced and Enhanced,BT39Y,2016,2027
+BT39Y0Z,"Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast, Unenhanced and Enhanced",BT39Y0,2016,2027
+BT39YZ,None,BT39Y,2016,2027
+BT39YZZ,Magnetic Resonance Imaging (MRI) of Kidney Transplant using Other Contrast,BT39YZ,2016,2027
+BT39Z,None,BT39,2016,2027
+BT39ZZ,None,BT39Z,2016,2027
+BT39ZZZ,Magnetic Resonance Imaging (MRI) of Kidney Transplant,BT39ZZ,2016,2027
+BT4,Ultrasonography,BT,2016,2027
+BT40,Bladder,BT4,2016,2027
+BT40Z,None,BT40,2016,2027
+BT40ZZ,None,BT40Z,2016,2027
+BT40ZZZ,Ultrasonography of Bladder,BT40ZZ,2016,2027
+BT41,"Kidney, Right",BT4,2016,2027
+BT41Z,None,BT41,2016,2027
+BT41ZZ,None,BT41Z,2016,2027
+BT41ZZZ,Ultrasonography of Right Kidney,BT41ZZ,2016,2027
+BT42,"Kidney, Left",BT4,2016,2027
+BT42Z,None,BT42,2016,2027
+BT42ZZ,None,BT42Z,2016,2027
+BT42ZZZ,Ultrasonography of Left Kidney,BT42ZZ,2016,2027
+BT43,"Kidneys, Bilateral",BT4,2016,2027
+BT43Z,None,BT43,2016,2027
+BT43ZZ,None,BT43Z,2016,2027
+BT43ZZZ,Ultrasonography of Bilateral Kidneys,BT43ZZ,2016,2027
+BT45,Urethra,BT4,2016,2027
+BT45Z,None,BT45,2016,2027
+BT45ZZ,None,BT45Z,2016,2027
+BT45ZZZ,Ultrasonography of Urethra,BT45ZZ,2016,2027
+BT46,"Ureter, Right",BT4,2016,2027
+BT46Z,None,BT46,2016,2027
+BT46ZZ,None,BT46Z,2016,2027
+BT46ZZZ,Ultrasonography of Right Ureter,BT46ZZ,2016,2027
+BT47,"Ureter, Left",BT4,2016,2027
+BT47Z,None,BT47,2016,2027
+BT47ZZ,None,BT47Z,2016,2027
+BT47ZZZ,Ultrasonography of Left Ureter,BT47ZZ,2016,2027
+BT48,"Ureters, Bilateral",BT4,2016,2027
+BT48Z,None,BT48,2016,2027
+BT48ZZ,None,BT48Z,2016,2027
+BT48ZZZ,Ultrasonography of Bilateral Ureters,BT48ZZ,2016,2027
+BT49,Kidney Transplant,BT4,2016,2027
+BT49Z,None,BT49,2016,2027
+BT49ZZ,None,BT49Z,2016,2027
+BT49ZZZ,Ultrasonography of Kidney Transplant,BT49ZZ,2016,2027
+BT4J,Kidneys and Bladder,BT4,2016,2027
+BT4JZ,None,BT4J,2016,2027
+BT4JZZ,None,BT4JZ,2016,2027
+BT4JZZZ,Ultrasonography of Kidneys and Bladder,BT4JZZ,2016,2027

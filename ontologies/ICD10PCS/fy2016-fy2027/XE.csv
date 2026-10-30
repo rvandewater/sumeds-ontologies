@@ -1,0 +1,33 @@
+code,description,parent,first_year,last_year
+XE,Physiological Systems and Anatomical Regions,X,2027,2027
+XEZ,Other Procedures,XE,2027,2027
+XEZ5,"Chest, Abdomen and Pelvis",XEZ,2027,2027
+XEZ5X,External,XEZ5,2027,2027
+XEZ5XK,Computer-Aided Triage and Notification for Imaging Abnormalities in Computed Tomography,XEZ5X,2027,2027
+XEZ5XKC,"Computer-Aided Triage and Notification for Imaging Abnormalities in Computed Tomography of Chest, Abdomen and Pelvis, New Technology Group 12",XEZ5XK,2027,2027
+XEZD,Pericardial Cavity,XEZ,2027,2027
+XEZD3,Percutaneous,XEZD,2027,2027
+XEZD3Q,Pericardial Cavity Access using Blunt-tip Concealed Needle with Mechanical Gripping Mechanism,XEZD3,2027,2027
+XEZD3QC,"Pericardial Cavity Access using Blunt-tip Concealed Needle with Mechanical Gripping Mechanism, Percutaneous Approach, New Technology Group 12",XEZD3Q,2027,2027
+XEZJ,Coronary Artery/Arteries,XEZ,2027,2027
+XEZJ3,Percutaneous,XEZJ,2027,2027
+XEZJ3N,Coronary Artery Access using Image-Guided Crossing and Re-entry System,XEZJ3,2027,2027
+XEZJ3NC,"Coronary Artery Access using Image-Guided Crossing and Re-entry System, Percutaneous Approach, New Technology Group 12",XEZJ3N,2027,2027
+XEZU,Spinal Canal,XEZ,2027,2027
+XEZU3,Percutaneous,XEZU,2027,2027
+XEZU3H,Computer-Aided Guidance for Intraprocedural Navigation using Ultrasound Imaging with Continuous Needle Tracking,XEZU3,2027,2027
+XEZU3HC,"Computer-Aided Guidance for Intraprocedural Navigation using Ultrasound Imaging with Continuous Needle Tracking in Spinal Canal, Percutaneous Approach, New Technology Group 12",XEZU3H,2027,2027
+XEZZ,None,XEZ,2027,2027
+XEZZX,External,XEZZ,2027,2027
+XEZZXJ,"High Dimensional Mixture-of-Experts Computer-aided Assessment of Inflammatory Response and Organ Function, for Notification and Triage",XEZZX,2027,2027
+XEZZXJC,"High Dimensional Mixture-of-Experts Computer-aided Assessment of Inflammatory Response and Organ Function, for Notification and Triage, New Technology Group 12",XEZZXJ,2027,2027
+XEZZXL,Computer-Aided Detection and Notification for Imaging Abnormalities in Echocardiography,XEZZX,2027,2027
+XEZZXLC,"Computer-Aided Detection and Notification for Imaging Abnormalities in Echocardiography, New Technology Group 12",XEZZXL,2027,2027
+XEZZXM,Computer-Aided Detection and Notification for Abnormalities in Electrocardiogram,XEZZX,2027,2027
+XEZZXMC,"Computer-Aided Detection and Notification for Abnormalities in Electrocardiogram, New Technology Group 12",XEZZXM,2027,2027
+XEZZXP,"Cardiac Conduction Mechanism, Computer-aided Guidance for Three Dimensional Intraprocedural Navigation using Fluoroscopic Imaging",XEZZX,2027,2027
+XEZZXPC,"Cardiac Conduction Mechanism, Computer-aided Guidance for Three Dimensional Intraprocedural Navigation using Fluoroscopic Imaging, New Technology Group 12",XEZZXP,2027,2027
+XEZZXR,Computer-Aided Detection and Notification of Cardiac Abnormalities using Vital Signs,XEZZX,2027,2027
+XEZZXRC,"Computer-Aided Detection and Notification of Cardiac Abnormalities using Vital Signs, New Technology Group 12",XEZZXR,2027,2027
+XEZZXS,"Cardiac Conduction Mechanism, Computer-aided Intraprocedural Visualization for Guidance",XEZZX,2027,2027
+XEZZXSC,"Cardiac Conduction Mechanism, Computer-aided Intraprocedural Visualization for Guidance, New Technology Group 12",XEZZXS,2027,2027

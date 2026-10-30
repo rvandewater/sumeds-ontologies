@@ -1,0 +1,13 @@
+code,description,parent,first_year,last_year
+XY,Extracorporeal,X,2018,2027
+XY0,Introduction,XY,2018,2027
+XY0V,Vein Graft,XY0,2018,2027
+XY0VX,External,XY0V,2018,2027
+XY0VX8,Endothelial Damage Inhibitor,XY0VX,2018,2027
+XY0VX83,"Extracorporeal Introduction of Endothelial Damage Inhibitor to Vein Graft, New Technology Group 3",XY0VX8,2018,2027
+XY0Y,Extracorporeal,XY0,2022,2027
+XY0YX,External,XY0Y,2022,2027
+XY0YX2,Taurolidine Anti-infective and Heparin Anticoagulant,XY0YX,2023,2027
+XY0YX28,"Extracorporeal Introduction of Taurolidine Anti-infective and Heparin Anticoagulant, New Technology Group 8",XY0YX2,2023,2027
+XY0YX3,Nafamostat Anticoagulant,XY0YX,2022,2027
+XY0YX37,"Extracorporeal Introduction of Nafamostat Anticoagulant, New Technology Group 7",XY0YX3,2022,2027

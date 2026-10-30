@@ -1,0 +1,99 @@
+code,description,parent,first_year,last_year
+BY,Fetus and Obstetrical,B,2016,2027
+BY3,Magnetic Resonance Imaging (MRI),BY,2016,2027
+BY30,Fetal Head,BY3,2016,2027
+BY30Y,Other Contrast,BY30,2016,2027
+BY30Y0,Unenhanced and Enhanced,BY30Y,2016,2027
+BY30Y0Z,"Magnetic Resonance Imaging (MRI) of Fetal Head using Other Contrast, Unenhanced and Enhanced",BY30Y0,2016,2027
+BY30YZ,None,BY30Y,2016,2027
+BY30YZZ,Magnetic Resonance Imaging (MRI) of Fetal Head using Other Contrast,BY30YZ,2016,2027
+BY30Z,None,BY30,2016,2027
+BY30ZZ,None,BY30Z,2016,2027
+BY30ZZZ,Magnetic Resonance Imaging (MRI) of Fetal Head,BY30ZZ,2016,2027
+BY31,Fetal Heart,BY3,2016,2027
+BY31Y,Other Contrast,BY31,2016,2027
+BY31Y0,Unenhanced and Enhanced,BY31Y,2016,2027
+BY31Y0Z,"Magnetic Resonance Imaging (MRI) of Fetal Heart using Other Contrast, Unenhanced and Enhanced",BY31Y0,2016,2027
+BY31YZ,None,BY31Y,2016,2027
+BY31YZZ,Magnetic Resonance Imaging (MRI) of Fetal Heart using Other Contrast,BY31YZ,2016,2027
+BY31Z,None,BY31,2016,2027
+BY31ZZ,None,BY31Z,2016,2027
+BY31ZZZ,Magnetic Resonance Imaging (MRI) of Fetal Heart,BY31ZZ,2016,2027
+BY32,Fetal Thorax,BY3,2016,2027
+BY32Y,Other Contrast,BY32,2016,2027
+BY32Y0,Unenhanced and Enhanced,BY32Y,2016,2027
+BY32Y0Z,"Magnetic Resonance Imaging (MRI) of Fetal Thorax using Other Contrast, Unenhanced and Enhanced",BY32Y0,2016,2027
+BY32YZ,None,BY32Y,2016,2027
+BY32YZZ,Magnetic Resonance Imaging (MRI) of Fetal Thorax using Other Contrast,BY32YZ,2016,2027
+BY32Z,None,BY32,2016,2027
+BY32ZZ,None,BY32Z,2016,2027
+BY32ZZZ,Magnetic Resonance Imaging (MRI) of Fetal Thorax,BY32ZZ,2016,2027
+BY33,Fetal Abdomen,BY3,2016,2027
+BY33Y,Other Contrast,BY33,2016,2027
+BY33Y0,Unenhanced and Enhanced,BY33Y,2016,2027
+BY33Y0Z,"Magnetic Resonance Imaging (MRI) of Fetal Abdomen using Other Contrast, Unenhanced and Enhanced",BY33Y0,2016,2027
+BY33YZ,None,BY33Y,2016,2027
+BY33YZZ,Magnetic Resonance Imaging (MRI) of Fetal Abdomen using Other Contrast,BY33YZ,2016,2027
+BY33Z,None,BY33,2016,2027
+BY33ZZ,None,BY33Z,2016,2027
+BY33ZZZ,Magnetic Resonance Imaging (MRI) of Fetal Abdomen,BY33ZZ,2016,2027
+BY34,Fetal Spine,BY3,2016,2027
+BY34Y,Other Contrast,BY34,2016,2027
+BY34Y0,Unenhanced and Enhanced,BY34Y,2016,2027
+BY34Y0Z,"Magnetic Resonance Imaging (MRI) of Fetal Spine using Other Contrast, Unenhanced and Enhanced",BY34Y0,2016,2027
+BY34YZ,None,BY34Y,2016,2027
+BY34YZZ,Magnetic Resonance Imaging (MRI) of Fetal Spine using Other Contrast,BY34YZ,2016,2027
+BY34Z,None,BY34,2016,2027
+BY34ZZ,None,BY34Z,2016,2027
+BY34ZZZ,Magnetic Resonance Imaging (MRI) of Fetal Spine,BY34ZZ,2016,2027
+BY35,Fetal Extremities,BY3,2016,2027
+BY35Y,Other Contrast,BY35,2016,2027
+BY35Y0,Unenhanced and Enhanced,BY35Y,2016,2027
+BY35Y0Z,"Magnetic Resonance Imaging (MRI) of Fetal Extremities using Other Contrast, Unenhanced and Enhanced",BY35Y0,2016,2027
+BY35YZ,None,BY35Y,2016,2027
+BY35YZZ,Magnetic Resonance Imaging (MRI) of Fetal Extremities using Other Contrast,BY35YZ,2016,2027
+BY35Z,None,BY35,2016,2027
+BY35ZZ,None,BY35Z,2016,2027
+BY35ZZZ,Magnetic Resonance Imaging (MRI) of Fetal Extremities,BY35ZZ,2016,2027
+BY36,Whole Fetus,BY3,2016,2027
+BY36Y,Other Contrast,BY36,2016,2027
+BY36Y0,Unenhanced and Enhanced,BY36Y,2016,2027
+BY36Y0Z,"Magnetic Resonance Imaging (MRI) of Whole Fetus using Other Contrast, Unenhanced and Enhanced",BY36Y0,2016,2027
+BY36YZ,None,BY36Y,2016,2027
+BY36YZZ,Magnetic Resonance Imaging (MRI) of Whole Fetus using Other Contrast,BY36YZ,2016,2027
+BY36Z,None,BY36,2016,2027
+BY36ZZ,None,BY36Z,2016,2027
+BY36ZZZ,Magnetic Resonance Imaging (MRI) of Whole Fetus,BY36ZZ,2016,2027
+BY4,Ultrasonography,BY,2016,2027
+BY47,Fetal Umbilical Cord,BY4,2016,2027
+BY47Z,None,BY47,2016,2027
+BY47ZZ,None,BY47Z,2016,2027
+BY47ZZZ,Ultrasonography of Fetal Umbilical Cord,BY47ZZ,2016,2027
+BY48,Placenta,BY4,2016,2027
+BY48Z,None,BY48,2016,2027
+BY48ZZ,None,BY48Z,2016,2027
+BY48ZZZ,Ultrasonography of Placenta,BY48ZZ,2016,2027
+BY49,"First Trimester, Single Fetus",BY4,2016,2027
+BY49Z,None,BY49,2016,2027
+BY49ZZ,None,BY49Z,2016,2027
+BY49ZZZ,"Ultrasonography of First Trimester, Single Fetus",BY49ZZ,2016,2027
+BY4B,"First Trimester, Multiple Gestation",BY4,2016,2027
+BY4BZ,None,BY4B,2016,2027
+BY4BZZ,None,BY4BZ,2016,2027
+BY4BZZZ,"Ultrasonography of First Trimester, Multiple Gestation",BY4BZZ,2016,2027
+BY4C,"Second Trimester, Single Fetus",BY4,2016,2027
+BY4CZ,None,BY4C,2016,2027
+BY4CZZ,None,BY4CZ,2016,2027
+BY4CZZZ,"Ultrasonography of Second Trimester, Single Fetus",BY4CZZ,2016,2027
+BY4D,"Second Trimester, Multiple Gestation",BY4,2016,2027
+BY4DZ,None,BY4D,2016,2027
+BY4DZZ,None,BY4DZ,2016,2027
+BY4DZZZ,"Ultrasonography of Second Trimester, Multiple Gestation",BY4DZZ,2016,2027
+BY4F,"Third Trimester, Single Fetus",BY4,2016,2027
+BY4FZ,None,BY4F,2016,2027
+BY4FZZ,None,BY4FZ,2016,2027
+BY4FZZZ,"Ultrasonography of Third Trimester, Single Fetus",BY4FZZ,2016,2027
+BY4G,"Third Trimester, Multiple Gestation",BY4,2016,2027
+BY4GZ,None,BY4G,2016,2027
+BY4GZZ,None,BY4GZ,2016,2027
+BY4GZZZ,"Ultrasonography of Third Trimester, Multiple Gestation",BY4GZZ,2016,2027

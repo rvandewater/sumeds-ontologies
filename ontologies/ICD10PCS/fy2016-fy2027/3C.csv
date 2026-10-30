@@ -1,0 +1,7 @@
+code,description,parent,first_year,last_year
+3C,Indwelling Device,3,2016,2027
+3C1,Irrigation,3C,2016,2027
+3C1Z,None,3C1,2016,2027
+3C1ZX,External,3C1Z,2016,2027
+3C1ZX8,Irrigating Substance,3C1ZX,2016,2027
+3C1ZX8Z,"Irrigation of Indwelling Device using Irrigating Substance, External Approach",3C1ZX8,2016,2027

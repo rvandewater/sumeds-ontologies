@@ -1,0 +1,175 @@
+code,description,parent,first_year,last_year
+BB,Respiratory System,B,2016,2027
+BB0,Plain Radiography,BB,2016,2027
+BB07,"Tracheobronchial Tree, Right",BB0,2016,2027
+BB07Y,Other Contrast,BB07,2016,2027
+BB07YZ,None,BB07Y,2016,2027
+BB07YZZ,Plain Radiography of Right Tracheobronchial Tree using Other Contrast,BB07YZ,2016,2027
+BB08,"Tracheobronchial Tree, Left",BB0,2016,2027
+BB08Y,Other Contrast,BB08,2016,2027
+BB08YZ,None,BB08Y,2016,2027
+BB08YZZ,Plain Radiography of Left Tracheobronchial Tree using Other Contrast,BB08YZ,2016,2027
+BB09,"Tracheobronchial Trees, Bilateral",BB0,2016,2027
+BB09Y,Other Contrast,BB09,2016,2027
+BB09YZ,None,BB09Y,2016,2027
+BB09YZZ,Plain Radiography of Bilateral Tracheobronchial Trees using Other Contrast,BB09YZ,2016,2027
+BB0D,Upper Airways,BB0,2016,2027
+BB0DZ,None,BB0D,2016,2027
+BB0DZZ,None,BB0DZ,2016,2027
+BB0DZZZ,Plain Radiography of Upper Airways,BB0DZZ,2016,2027
+BB1,Fluoroscopy,BB,2016,2027
+BB12,"Lung, Right",BB1,2016,2027
+BB12Z,None,BB12,2016,2027
+BB12ZZ,None,BB12Z,2016,2027
+BB12ZZZ,Fluoroscopy of Right Lung,BB12ZZ,2016,2027
+BB13,"Lung, Left",BB1,2016,2027
+BB13Z,None,BB13,2016,2027
+BB13ZZ,None,BB13Z,2016,2027
+BB13ZZZ,Fluoroscopy of Left Lung,BB13ZZ,2016,2027
+BB14,"Lungs, Bilateral",BB1,2016,2027
+BB14Z,None,BB14,2016,2027
+BB14ZZ,None,BB14Z,2016,2027
+BB14ZZZ,Fluoroscopy of Bilateral Lungs,BB14ZZ,2016,2027
+BB16,Diaphragm,BB1,2016,2027
+BB16Z,None,BB16,2016,2027
+BB16ZZ,None,BB16Z,2016,2027
+BB16ZZZ,Fluoroscopy of Diaphragm,BB16ZZ,2016,2027
+BB17,"Tracheobronchial Tree, Right",BB1,2016,2027
+BB17Y,Other Contrast,BB17,2016,2027
+BB17YZ,None,BB17Y,2016,2027
+BB17YZZ,Fluoroscopy of Right Tracheobronchial Tree using Other Contrast,BB17YZ,2016,2027
+BB18,"Tracheobronchial Tree, Left",BB1,2016,2027
+BB18Y,Other Contrast,BB18,2016,2027
+BB18YZ,None,BB18Y,2016,2027
+BB18YZZ,Fluoroscopy of Left Tracheobronchial Tree using Other Contrast,BB18YZ,2016,2027
+BB19,"Tracheobronchial Trees, Bilateral",BB1,2016,2027
+BB19Y,Other Contrast,BB19,2016,2027
+BB19YZ,None,BB19Y,2016,2027
+BB19YZZ,Fluoroscopy of Bilateral Tracheobronchial Trees using Other Contrast,BB19YZ,2016,2027
+BB1C,Mediastinum,BB1,2016,2027
+BB1CZ,None,BB1C,2016,2027
+BB1CZZ,None,BB1CZ,2016,2027
+BB1CZZZ,Fluoroscopy of Mediastinum,BB1CZZ,2016,2027
+BB1D,Upper Airways,BB1,2016,2027
+BB1DZ,None,BB1D,2016,2027
+BB1DZZ,None,BB1DZ,2016,2027
+BB1DZZZ,Fluoroscopy of Upper Airways,BB1DZZ,2016,2027
+BB2,Computerized Tomography (CT Scan),BB,2016,2027
+BB24,"Lungs, Bilateral",BB2,2016,2027
+BB240,High Osmolar,BB24,2016,2027
+BB2400,Unenhanced and Enhanced,BB240,2016,2027
+BB2400Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast, Unenhanced and Enhanced",BB2400,2016,2027
+BB240Z,None,BB240,2016,2027
+BB240ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using High Osmolar Contrast,BB240Z,2016,2027
+BB241,Low Osmolar,BB24,2016,2027
+BB2410,Unenhanced and Enhanced,BB241,2016,2027
+BB2410Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast, Unenhanced and Enhanced",BB2410,2016,2027
+BB241Z,None,BB241,2016,2027
+BB241ZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Low Osmolar Contrast,BB241Z,2016,2027
+BB24Y,Other Contrast,BB24,2016,2027
+BB24Y0,Unenhanced and Enhanced,BB24Y,2016,2027
+BB24Y0Z,"Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast, Unenhanced and Enhanced",BB24Y0,2016,2027
+BB24YZ,None,BB24Y,2016,2027
+BB24YZZ,Computerized Tomography (CT Scan) of Bilateral Lungs using Other Contrast,BB24YZ,2016,2027
+BB24Z,None,BB24,2016,2027
+BB24ZZ,None,BB24Z,2016,2027
+BB24ZZZ,Computerized Tomography (CT Scan) of Bilateral Lungs,BB24ZZ,2016,2027
+BB27,"Tracheobronchial Tree, Right",BB2,2016,2027
+BB270,High Osmolar,BB27,2016,2027
+BB2700,Unenhanced and Enhanced,BB270,2016,2027
+BB2700Z,"Computerized Tomography (CT Scan) of Right Tracheobronchial Tree using High Osmolar Contrast, Unenhanced and Enhanced",BB2700,2016,2027
+BB270Z,None,BB270,2016,2027
+BB270ZZ,Computerized Tomography (CT Scan) of Right Tracheobronchial Tree using High Osmolar Contrast,BB270Z,2016,2027
+BB271,Low Osmolar,BB27,2016,2027
+BB2710,Unenhanced and Enhanced,BB271,2016,2027
+BB2710Z,"Computerized Tomography (CT Scan) of Right Tracheobronchial Tree using Low Osmolar Contrast, Unenhanced and Enhanced",BB2710,2016,2027
+BB271Z,None,BB271,2016,2027
+BB271ZZ,Computerized Tomography (CT Scan) of Right Tracheobronchial Tree using Low Osmolar Contrast,BB271Z,2016,2027
+BB27Y,Other Contrast,BB27,2016,2027
+BB27Y0,Unenhanced and Enhanced,BB27Y,2016,2027
+BB27Y0Z,"Computerized Tomography (CT Scan) of Right Tracheobronchial Tree using Other Contrast, Unenhanced and Enhanced",BB27Y0,2016,2027
+BB27YZ,None,BB27Y,2016,2027
+BB27YZZ,Computerized Tomography (CT Scan) of Right Tracheobronchial Tree using Other Contrast,BB27YZ,2016,2027
+BB27Z,None,BB27,2016,2027
+BB27ZZ,None,BB27Z,2016,2027
+BB27ZZZ,Computerized Tomography (CT Scan) of Right Tracheobronchial Tree,BB27ZZ,2016,2027
+BB28,"Tracheobronchial Tree, Left",BB2,2016,2027
+BB280,High Osmolar,BB28,2016,2027
+BB2800,Unenhanced and Enhanced,BB280,2016,2027
+BB2800Z,"Computerized Tomography (CT Scan) of Left Tracheobronchial Tree using High Osmolar Contrast, Unenhanced and Enhanced",BB2800,2016,2027
+BB280Z,None,BB280,2016,2027
+BB280ZZ,Computerized Tomography (CT Scan) of Left Tracheobronchial Tree using High Osmolar Contrast,BB280Z,2016,2027
+BB281,Low Osmolar,BB28,2016,2027
+BB2810,Unenhanced and Enhanced,BB281,2016,2027
+BB2810Z,"Computerized Tomography (CT Scan) of Left Tracheobronchial Tree using Low Osmolar Contrast, Unenhanced and Enhanced",BB2810,2016,2027
+BB281Z,None,BB281,2016,2027
+BB281ZZ,Computerized Tomography (CT Scan) of Left Tracheobronchial Tree using Low Osmolar Contrast,BB281Z,2016,2027
+BB28Y,Other Contrast,BB28,2016,2027
+BB28Y0,Unenhanced and Enhanced,BB28Y,2016,2027
+BB28Y0Z,"Computerized Tomography (CT Scan) of Left Tracheobronchial Tree using Other Contrast, Unenhanced and Enhanced",BB28Y0,2016,2027
+BB28YZ,None,BB28Y,2016,2027
+BB28YZZ,Computerized Tomography (CT Scan) of Left Tracheobronchial Tree using Other Contrast,BB28YZ,2016,2027
+BB28Z,None,BB28,2016,2027
+BB28ZZ,None,BB28Z,2016,2027
+BB28ZZZ,Computerized Tomography (CT Scan) of Left Tracheobronchial Tree,BB28ZZ,2016,2027
+BB29,"Tracheobronchial Trees, Bilateral",BB2,2016,2027
+BB290,High Osmolar,BB29,2016,2027
+BB2900,Unenhanced and Enhanced,BB290,2016,2027
+BB2900Z,"Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees using High Osmolar Contrast, Unenhanced and Enhanced",BB2900,2016,2027
+BB290Z,None,BB290,2016,2027
+BB290ZZ,Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees using High Osmolar Contrast,BB290Z,2016,2027
+BB291,Low Osmolar,BB29,2016,2027
+BB2910,Unenhanced and Enhanced,BB291,2016,2027
+BB2910Z,"Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees using Low Osmolar Contrast, Unenhanced and Enhanced",BB2910,2016,2027
+BB291Z,None,BB291,2016,2027
+BB291ZZ,Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees using Low Osmolar Contrast,BB291Z,2016,2027
+BB29Y,Other Contrast,BB29,2016,2027
+BB29Y0,Unenhanced and Enhanced,BB29Y,2016,2027
+BB29Y0Z,"Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees using Other Contrast, Unenhanced and Enhanced",BB29Y0,2016,2027
+BB29YZ,None,BB29Y,2016,2027
+BB29YZZ,Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees using Other Contrast,BB29YZ,2016,2027
+BB29Z,None,BB29,2016,2027
+BB29ZZ,None,BB29Z,2016,2027
+BB29ZZZ,Computerized Tomography (CT Scan) of Bilateral Tracheobronchial Trees,BB29ZZ,2016,2027
+BB2F,Trachea/Airways,BB2,2016,2027
+BB2F0,High Osmolar,BB2F,2016,2027
+BB2F00,Unenhanced and Enhanced,BB2F0,2016,2027
+BB2F00Z,"Computerized Tomography (CT Scan) of Trachea/Airways using High Osmolar Contrast, Unenhanced and Enhanced",BB2F00,2016,2027
+BB2F0Z,None,BB2F0,2016,2027
+BB2F0ZZ,Computerized Tomography (CT Scan) of Trachea/Airways using High Osmolar Contrast,BB2F0Z,2016,2027
+BB2F1,Low Osmolar,BB2F,2016,2027
+BB2F10,Unenhanced and Enhanced,BB2F1,2016,2027
+BB2F10Z,"Computerized Tomography (CT Scan) of Trachea/Airways using Low Osmolar Contrast, Unenhanced and Enhanced",BB2F10,2016,2027
+BB2F1Z,None,BB2F1,2016,2027
+BB2F1ZZ,Computerized Tomography (CT Scan) of Trachea/Airways using Low Osmolar Contrast,BB2F1Z,2016,2027
+BB2FY,Other Contrast,BB2F,2016,2027
+BB2FY0,Unenhanced and Enhanced,BB2FY,2016,2027
+BB2FY0Z,"Computerized Tomography (CT Scan) of Trachea/Airways using Other Contrast, Unenhanced and Enhanced",BB2FY0,2016,2027
+BB2FYZ,None,BB2FY,2016,2027
+BB2FYZZ,Computerized Tomography (CT Scan) of Trachea/Airways using Other Contrast,BB2FYZ,2016,2027
+BB2FZ,None,BB2F,2016,2027
+BB2FZZ,None,BB2FZ,2016,2027
+BB2FZZZ,Computerized Tomography (CT Scan) of Trachea/Airways,BB2FZZ,2016,2027
+BB3,Magnetic Resonance Imaging (MRI),BB,2016,2027
+BB34,"Lungs, Bilateral",BB3,2023,2027
+BB34Z,None,BB34,2023,2027
+BB34Z3,Hyperpolarized Xenon 129 (Xe-129),BB34Z,2023,2027
+BB34Z3Z,Magnetic Resonance Imaging (MRI) of Bilateral Lungs using Hyperpolarized Xenon 129 (Xe-129),BB34Z3,2023,2027
+BB3G,Lung Apices,BB3,2016,2027
+BB3GY,Other Contrast,BB3G,2016,2027
+BB3GY0,Unenhanced and Enhanced,BB3GY,2016,2027
+BB3GY0Z,"Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast, Unenhanced and Enhanced",BB3GY0,2016,2027
+BB3GYZ,None,BB3GY,2016,2027
+BB3GYZZ,Magnetic Resonance Imaging (MRI) of Lung Apices using Other Contrast,BB3GYZ,2016,2027
+BB3GZ,None,BB3G,2016,2027
+BB3GZZ,None,BB3GZ,2016,2027
+BB3GZZZ,Magnetic Resonance Imaging (MRI) of Lung Apices,BB3GZZ,2016,2027
+BB4,Ultrasonography,BB,2016,2027
+BB4B,Pleura,BB4,2016,2027
+BB4BZ,None,BB4B,2016,2027
+BB4BZZ,None,BB4BZ,2016,2027
+BB4BZZZ,Ultrasonography of Pleura,BB4BZZ,2016,2027
+BB4C,Mediastinum,BB4,2016,2027
+BB4CZ,None,BB4C,2016,2027
+BB4CZZ,None,BB4CZ,2016,2027
+BB4CZZZ,Ultrasonography of Mediastinum,BB4CZZ,2016,2027

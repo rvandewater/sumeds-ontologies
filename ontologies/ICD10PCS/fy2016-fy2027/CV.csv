@@ -1,0 +1,14 @@
+code,description,parent,first_year,last_year
+CV,Male Reproductive System,C,2016,2027
+CV1,Planar Nuclear Medicine Imaging,CV,2016,2027
+CV19,"Testicles, Bilateral",CV1,2016,2027
+CV191,Technetium 99m (Tc-99m),CV19,2016,2027
+CV191Z,None,CV191,2016,2027
+CV191ZZ,Planar Nuclear Medicine Imaging of Bilateral Testicles using Technetium 99m (Tc-99m),CV191Z,2016,2027
+CV19Y,Other Radionuclide,CV19,2016,2027
+CV19YZ,None,CV19Y,2016,2027
+CV19YZZ,Planar Nuclear Medicine Imaging of Bilateral Testicles using Other Radionuclide,CV19YZ,2016,2027
+CV1Y,Male Reproductive System,CV1,2016,2027
+CV1YY,Other Radionuclide,CV1Y,2016,2027
+CV1YYZ,None,CV1YY,2016,2027
+CV1YYZZ,Planar Nuclear Medicine Imaging of Male Reproductive System using Other Radionuclide,CV1YYZ,2016,2027

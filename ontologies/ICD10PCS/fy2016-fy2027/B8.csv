@@ -1,0 +1,169 @@
+code,description,parent,first_year,last_year
+B8,Eye,B,2016,2027
+B80,Plain Radiography,B8,2016,2027
+B800,"Lacrimal Duct, Right",B80,2016,2027
+B8000,High Osmolar,B800,2016,2027
+B8000Z,None,B8000,2016,2027
+B8000ZZ,Plain Radiography of Right Lacrimal Duct using High Osmolar Contrast,B8000Z,2016,2027
+B8001,Low Osmolar,B800,2016,2027
+B8001Z,None,B8001,2016,2027
+B8001ZZ,Plain Radiography of Right Lacrimal Duct using Low Osmolar Contrast,B8001Z,2016,2027
+B800Y,Other Contrast,B800,2016,2027
+B800YZ,None,B800Y,2016,2027
+B800YZZ,Plain Radiography of Right Lacrimal Duct using Other Contrast,B800YZ,2016,2027
+B801,"Lacrimal Duct, Left",B80,2016,2027
+B8010,High Osmolar,B801,2016,2027
+B8010Z,None,B8010,2016,2027
+B8010ZZ,Plain Radiography of Left Lacrimal Duct using High Osmolar Contrast,B8010Z,2016,2027
+B8011,Low Osmolar,B801,2016,2027
+B8011Z,None,B8011,2016,2027
+B8011ZZ,Plain Radiography of Left Lacrimal Duct using Low Osmolar Contrast,B8011Z,2016,2027
+B801Y,Other Contrast,B801,2016,2027
+B801YZ,None,B801Y,2016,2027
+B801YZZ,Plain Radiography of Left Lacrimal Duct using Other Contrast,B801YZ,2016,2027
+B802,"Lacrimal Ducts, Bilateral",B80,2016,2027
+B8020,High Osmolar,B802,2016,2027
+B8020Z,None,B8020,2016,2027
+B8020ZZ,Plain Radiography of Bilateral Lacrimal Ducts using High Osmolar Contrast,B8020Z,2016,2027
+B8021,Low Osmolar,B802,2016,2027
+B8021Z,None,B8021,2016,2027
+B8021ZZ,Plain Radiography of Bilateral Lacrimal Ducts using Low Osmolar Contrast,B8021Z,2016,2027
+B802Y,Other Contrast,B802,2016,2027
+B802YZ,None,B802Y,2016,2027
+B802YZZ,Plain Radiography of Bilateral Lacrimal Ducts using Other Contrast,B802YZ,2016,2027
+B803,"Optic Foramina, Right",B80,2016,2027
+B803Z,None,B803,2016,2027
+B803ZZ,None,B803Z,2016,2027
+B803ZZZ,Plain Radiography of Right Optic Foramina,B803ZZ,2016,2027
+B804,"Optic Foramina, Left",B80,2016,2027
+B804Z,None,B804,2016,2027
+B804ZZ,None,B804Z,2016,2027
+B804ZZZ,Plain Radiography of Left Optic Foramina,B804ZZ,2016,2027
+B805,"Eye, Right",B80,2016,2027
+B805Z,None,B805,2016,2027
+B805ZZ,None,B805Z,2016,2027
+B805ZZZ,Plain Radiography of Right Eye,B805ZZ,2016,2027
+B806,"Eye, Left",B80,2016,2027
+B806Z,None,B806,2016,2027
+B806ZZ,None,B806Z,2016,2027
+B806ZZZ,Plain Radiography of Left Eye,B806ZZ,2016,2027
+B807,"Eyes, Bilateral",B80,2016,2027
+B807Z,None,B807,2016,2027
+B807ZZ,None,B807Z,2016,2027
+B807ZZZ,Plain Radiography of Bilateral Eyes,B807ZZ,2016,2027
+B82,Computerized Tomography (CT Scan),B8,2016,2027
+B825,"Eye, Right",B82,2016,2027
+B8250,High Osmolar,B825,2016,2027
+B82500,Unenhanced and Enhanced,B8250,2016,2027
+B82500Z,"Computerized Tomography (CT Scan) of Right Eye using High Osmolar Contrast, Unenhanced and Enhanced",B82500,2016,2027
+B8250Z,None,B8250,2016,2027
+B8250ZZ,Computerized Tomography (CT Scan) of Right Eye using High Osmolar Contrast,B8250Z,2016,2027
+B8251,Low Osmolar,B825,2016,2027
+B82510,Unenhanced and Enhanced,B8251,2016,2027
+B82510Z,"Computerized Tomography (CT Scan) of Right Eye using Low Osmolar Contrast, Unenhanced and Enhanced",B82510,2016,2027
+B8251Z,None,B8251,2016,2027
+B8251ZZ,Computerized Tomography (CT Scan) of Right Eye using Low Osmolar Contrast,B8251Z,2016,2027
+B825Y,Other Contrast,B825,2016,2027
+B825Y0,Unenhanced and Enhanced,B825Y,2016,2027
+B825Y0Z,"Computerized Tomography (CT Scan) of Right Eye using Other Contrast, Unenhanced and Enhanced",B825Y0,2016,2027
+B825YZ,None,B825Y,2016,2027
+B825YZZ,Computerized Tomography (CT Scan) of Right Eye using Other Contrast,B825YZ,2016,2027
+B825Z,None,B825,2016,2027
+B825ZZ,None,B825Z,2016,2027
+B825ZZZ,Computerized Tomography (CT Scan) of Right Eye,B825ZZ,2016,2027
+B826,"Eye, Left",B82,2016,2027
+B8260,High Osmolar,B826,2016,2027
+B82600,Unenhanced and Enhanced,B8260,2016,2027
+B82600Z,"Computerized Tomography (CT Scan) of Left Eye using High Osmolar Contrast, Unenhanced and Enhanced",B82600,2016,2027
+B8260Z,None,B8260,2016,2027
+B8260ZZ,Computerized Tomography (CT Scan) of Left Eye using High Osmolar Contrast,B8260Z,2016,2027
+B8261,Low Osmolar,B826,2016,2027
+B82610,Unenhanced and Enhanced,B8261,2016,2027
+B82610Z,"Computerized Tomography (CT Scan) of Left Eye using Low Osmolar Contrast, Unenhanced and Enhanced",B82610,2016,2027
+B8261Z,None,B8261,2016,2027
+B8261ZZ,Computerized Tomography (CT Scan) of Left Eye using Low Osmolar Contrast,B8261Z,2016,2027
+B826Y,Other Contrast,B826,2016,2027
+B826Y0,Unenhanced and Enhanced,B826Y,2016,2027
+B826Y0Z,"Computerized Tomography (CT Scan) of Left Eye using Other Contrast, Unenhanced and Enhanced",B826Y0,2016,2027
+B826YZ,None,B826Y,2016,2027
+B826YZZ,Computerized Tomography (CT Scan) of Left Eye using Other Contrast,B826YZ,2016,2027
+B826Z,None,B826,2016,2027
+B826ZZ,None,B826Z,2016,2027
+B826ZZZ,Computerized Tomography (CT Scan) of Left Eye,B826ZZ,2016,2027
+B827,"Eyes, Bilateral",B82,2016,2027
+B8270,High Osmolar,B827,2016,2027
+B82700,Unenhanced and Enhanced,B8270,2016,2027
+B82700Z,"Computerized Tomography (CT Scan) of Bilateral Eyes using High Osmolar Contrast, Unenhanced and Enhanced",B82700,2016,2027
+B8270Z,None,B8270,2016,2027
+B8270ZZ,Computerized Tomography (CT Scan) of Bilateral Eyes using High Osmolar Contrast,B8270Z,2016,2027
+B8271,Low Osmolar,B827,2016,2027
+B82710,Unenhanced and Enhanced,B8271,2016,2027
+B82710Z,"Computerized Tomography (CT Scan) of Bilateral Eyes using Low Osmolar Contrast, Unenhanced and Enhanced",B82710,2016,2027
+B8271Z,None,B8271,2016,2027
+B8271ZZ,Computerized Tomography (CT Scan) of Bilateral Eyes using Low Osmolar Contrast,B8271Z,2016,2027
+B827Y,Other Contrast,B827,2016,2027
+B827Y0,Unenhanced and Enhanced,B827Y,2016,2027
+B827Y0Z,"Computerized Tomography (CT Scan) of Bilateral Eyes using Other Contrast, Unenhanced and Enhanced",B827Y0,2016,2027
+B827YZ,None,B827Y,2016,2027
+B827YZZ,Computerized Tomography (CT Scan) of Bilateral Eyes using Other Contrast,B827YZ,2016,2027
+B827Z,None,B827,2016,2027
+B827ZZ,None,B827Z,2016,2027
+B827ZZZ,Computerized Tomography (CT Scan) of Bilateral Eyes,B827ZZ,2016,2027
+B83,Magnetic Resonance Imaging (MRI),B8,2016,2027
+B835,"Eye, Right",B83,2016,2027
+B835Y,Other Contrast,B835,2016,2027
+B835Y0,Unenhanced and Enhanced,B835Y,2016,2027
+B835Y0Z,"Magnetic Resonance Imaging (MRI) of Right Eye using Other Contrast, Unenhanced and Enhanced",B835Y0,2016,2027
+B835YZ,None,B835Y,2016,2027
+B835YZZ,Magnetic Resonance Imaging (MRI) of Right Eye using Other Contrast,B835YZ,2016,2027
+B835Z,None,B835,2016,2027
+B835ZZ,None,B835Z,2016,2027
+B835ZZZ,Magnetic Resonance Imaging (MRI) of Right Eye,B835ZZ,2016,2027
+B836,"Eye, Left",B83,2016,2027
+B836Y,Other Contrast,B836,2016,2027
+B836Y0,Unenhanced and Enhanced,B836Y,2016,2027
+B836Y0Z,"Magnetic Resonance Imaging (MRI) of Left Eye using Other Contrast, Unenhanced and Enhanced",B836Y0,2016,2027
+B836YZ,None,B836Y,2016,2027
+B836YZZ,Magnetic Resonance Imaging (MRI) of Left Eye using Other Contrast,B836YZ,2016,2027
+B836Z,None,B836,2016,2027
+B836ZZ,None,B836Z,2016,2027
+B836ZZZ,Magnetic Resonance Imaging (MRI) of Left Eye,B836ZZ,2016,2027
+B837,"Eyes, Bilateral",B83,2016,2027
+B837Y,Other Contrast,B837,2016,2027
+B837Y0,Unenhanced and Enhanced,B837Y,2016,2027
+B837Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Eyes using Other Contrast, Unenhanced and Enhanced",B837Y0,2016,2027
+B837YZ,None,B837Y,2016,2027
+B837YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Eyes using Other Contrast,B837YZ,2016,2027
+B837Z,None,B837,2016,2027
+B837ZZ,None,B837Z,2016,2027
+B837ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Eyes,B837ZZ,2016,2027
+B84,Ultrasonography,B8,2016,2027
+B845,"Eye, Right",B84,2016,2027
+B845Z,None,B845,2016,2027
+B845ZZ,None,B845Z,2016,2027
+B845ZZZ,Ultrasonography of Right Eye,B845ZZ,2016,2027
+B846,"Eye, Left",B84,2016,2027
+B846Z,None,B846,2016,2027
+B846ZZ,None,B846Z,2016,2027
+B846ZZZ,Ultrasonography of Left Eye,B846ZZ,2016,2027
+B847,"Eyes, Bilateral",B84,2016,2027
+B847Z,None,B847,2016,2027
+B847ZZ,None,B847Z,2016,2027
+B847ZZZ,Ultrasonography of Bilateral Eyes,B847ZZ,2016,2027
+B85,Other Imaging,B8,2027,2027
+B85A,"Choroid, Right",B85,2027,2027
+B85A2,Fluorescing Agent,B85A,2027,2027
+B85A2Z,None,B85A2,2027,2027
+B85A2ZZ,Other Imaging of Right Choroid using Fluorescing Agent,B85A2Z,2027,2027
+B85B,"Choroid, Left",B85,2027,2027
+B85B2,Fluorescing Agent,B85B,2027,2027
+B85B2Z,None,B85B2,2027,2027
+B85B2ZZ,Other Imaging of Left Choroid using Fluorescing Agent,B85B2Z,2027,2027
+B85G,"Retinal Vessel, Right",B85,2027,2027
+B85G2,Fluorescing Agent,B85G,2027,2027
+B85G2Z,None,B85G2,2027,2027
+B85G2ZZ,Other Imaging of Right Retinal Vessel using Fluorescing Agent,B85G2Z,2027,2027
+B85H,"Retinal Vessel, Left",B85,2027,2027
+B85H2,Fluorescing Agent,B85H,2027,2027
+B85H2Z,None,B85H2,2027,2027
+B85H2ZZ,Other Imaging of Left Retinal Vessel using Fluorescing Agent,B85H2Z,2027,2027

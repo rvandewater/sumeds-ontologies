@@ -1,0 +1,322 @@
+code,description,parent,first_year,last_year
+D0,Central and Peripheral Nervous System,D,2016,2027
+D00,Beam Radiation,D0,2016,2027
+D000,Brain,D00,2016,2027
+D0000,Photons <1 MeV,D000,2016,2027
+D0000Z,None,D0000,2016,2027
+D0000ZZ,Beam Radiation of Brain using Photons <1 MeV,D0000Z,2016,2027
+D0001,Photons 1 - 10 MeV,D000,2016,2027
+D0001Z,None,D0001,2016,2027
+D0001ZZ,Beam Radiation of Brain using Photons 1 - 10 MeV,D0001Z,2016,2027
+D0002,Photons >10 MeV,D000,2016,2027
+D0002Z,None,D0002,2016,2027
+D0002ZZ,Beam Radiation of Brain using Photons >10 MeV,D0002Z,2016,2027
+D0003,Electrons,D000,2016,2027
+D0003Z,None,D0003,2016,2027
+D0003Z0,"Beam Radiation of Brain using Electrons, Intraoperative",D0003Z,2016,2027
+D0003ZZ,Beam Radiation of Brain using Electrons,D0003Z,2016,2027
+D0004,"Heavy Particles (Protons,Ions)",D000,2016,2027
+D0004Z,None,D0004,2016,2027
+D0004ZZ,"Beam Radiation of Brain using Heavy Particles (Protons,Ions)",D0004Z,2016,2027
+D0005,Neutrons,D000,2016,2027
+D0005Z,None,D0005,2016,2027
+D0005ZZ,Beam Radiation of Brain using Neutrons,D0005Z,2016,2027
+D0006,Neutron Capture,D000,2016,2027
+D0006Z,None,D0006,2016,2027
+D0006ZZ,Beam Radiation of Brain using Neutron Capture,D0006Z,2016,2027
+D001,Brain Stem,D00,2016,2027
+D0010,Photons <1 MeV,D001,2016,2027
+D0010Z,None,D0010,2016,2027
+D0010ZZ,Beam Radiation of Brain Stem using Photons <1 MeV,D0010Z,2016,2027
+D0011,Photons 1 - 10 MeV,D001,2016,2027
+D0011Z,None,D0011,2016,2027
+D0011ZZ,Beam Radiation of Brain Stem using Photons 1 - 10 MeV,D0011Z,2016,2027
+D0012,Photons >10 MeV,D001,2016,2027
+D0012Z,None,D0012,2016,2027
+D0012ZZ,Beam Radiation of Brain Stem using Photons >10 MeV,D0012Z,2016,2027
+D0013,Electrons,D001,2016,2027
+D0013Z,None,D0013,2016,2027
+D0013Z0,"Beam Radiation of Brain Stem using Electrons, Intraoperative",D0013Z,2016,2027
+D0013ZZ,Beam Radiation of Brain Stem using Electrons,D0013Z,2016,2027
+D0014,"Heavy Particles (Protons,Ions)",D001,2016,2027
+D0014Z,None,D0014,2016,2027
+D0014ZZ,"Beam Radiation of Brain Stem using Heavy Particles (Protons,Ions)",D0014Z,2016,2027
+D0015,Neutrons,D001,2016,2027
+D0015Z,None,D0015,2016,2027
+D0015ZZ,Beam Radiation of Brain Stem using Neutrons,D0015Z,2016,2027
+D0016,Neutron Capture,D001,2016,2027
+D0016Z,None,D0016,2016,2027
+D0016ZZ,Beam Radiation of Brain Stem using Neutron Capture,D0016Z,2016,2027
+D006,Spinal Cord,D00,2016,2027
+D0060,Photons <1 MeV,D006,2016,2027
+D0060Z,None,D0060,2016,2027
+D0060ZZ,Beam Radiation of Spinal Cord using Photons <1 MeV,D0060Z,2016,2027
+D0061,Photons 1 - 10 MeV,D006,2016,2027
+D0061Z,None,D0061,2016,2027
+D0061ZZ,Beam Radiation of Spinal Cord using Photons 1 - 10 MeV,D0061Z,2016,2027
+D0062,Photons >10 MeV,D006,2016,2027
+D0062Z,None,D0062,2016,2027
+D0062ZZ,Beam Radiation of Spinal Cord using Photons >10 MeV,D0062Z,2016,2027
+D0063,Electrons,D006,2016,2027
+D0063Z,None,D0063,2016,2027
+D0063Z0,"Beam Radiation of Spinal Cord using Electrons, Intraoperative",D0063Z,2016,2027
+D0063ZZ,Beam Radiation of Spinal Cord using Electrons,D0063Z,2016,2027
+D0064,"Heavy Particles (Protons,Ions)",D006,2016,2027
+D0064Z,None,D0064,2016,2027
+D0064ZZ,"Beam Radiation of Spinal Cord using Heavy Particles (Protons,Ions)",D0064Z,2016,2027
+D0065,Neutrons,D006,2016,2027
+D0065Z,None,D0065,2016,2027
+D0065ZZ,Beam Radiation of Spinal Cord using Neutrons,D0065Z,2016,2027
+D0066,Neutron Capture,D006,2016,2027
+D0066Z,None,D0066,2016,2027
+D0066ZZ,Beam Radiation of Spinal Cord using Neutron Capture,D0066Z,2016,2027
+D007,Peripheral Nerve,D00,2016,2027
+D0070,Photons <1 MeV,D007,2016,2027
+D0070Z,None,D0070,2016,2027
+D0070ZZ,Beam Radiation of Peripheral Nerve using Photons <1 MeV,D0070Z,2016,2027
+D0071,Photons 1 - 10 MeV,D007,2016,2027
+D0071Z,None,D0071,2016,2027
+D0071ZZ,Beam Radiation of Peripheral Nerve using Photons 1 - 10 MeV,D0071Z,2016,2027
+D0072,Photons >10 MeV,D007,2016,2027
+D0072Z,None,D0072,2016,2027
+D0072ZZ,Beam Radiation of Peripheral Nerve using Photons >10 MeV,D0072Z,2016,2027
+D0073,Electrons,D007,2016,2027
+D0073Z,None,D0073,2016,2027
+D0073Z0,"Beam Radiation of Peripheral Nerve using Electrons, Intraoperative",D0073Z,2016,2027
+D0073ZZ,Beam Radiation of Peripheral Nerve using Electrons,D0073Z,2016,2027
+D0074,"Heavy Particles (Protons,Ions)",D007,2016,2027
+D0074Z,None,D0074,2016,2027
+D0074ZZ,"Beam Radiation of Peripheral Nerve using Heavy Particles (Protons,Ions)",D0074Z,2016,2027
+D0075,Neutrons,D007,2016,2027
+D0075Z,None,D0075,2016,2027
+D0075ZZ,Beam Radiation of Peripheral Nerve using Neutrons,D0075Z,2016,2027
+D0076,Neutron Capture,D007,2016,2027
+D0076Z,None,D0076,2016,2027
+D0076ZZ,Beam Radiation of Peripheral Nerve using Neutron Capture,D0076Z,2016,2027
+D01,Brachytherapy,D0,2016,2027
+D010,Brain,D01,2016,2027
+D0109,High Dose Rate (HDR),D010,2016,2027
+D01097,Cesium 137 (Cs-137),D0109,2016,2027
+D01097Z,High Dose Rate (HDR) Brachytherapy of Brain using Cesium 137 (Cs-137),D01097,2016,2027
+D01098,Iridium 192 (Ir-192),D0109,2016,2027
+D01098Z,High Dose Rate (HDR) Brachytherapy of Brain using Iridium 192 (Ir-192),D01098,2016,2027
+D01099,Iodine 125 (I-125),D0109,2016,2027
+D01099Z,High Dose Rate (HDR) Brachytherapy of Brain using Iodine 125 (I-125),D01099,2016,2027
+D0109B,Palladium 103 (Pd-103),D0109,2016,2027
+D0109BZ,High Dose Rate (HDR) Brachytherapy of Brain using Palladium 103 (Pd-103),D0109B,2016,2027
+D0109C,Californium 252 (Cf-252),D0109,2016,2027
+D0109CZ,High Dose Rate (HDR) Brachytherapy of Brain using Californium 252 (Cf-252),D0109C,2016,2027
+D0109Y,Other Isotope,D0109,2016,2027
+D0109YZ,High Dose Rate (HDR) Brachytherapy of Brain using Other Isotope,D0109Y,2016,2027
+D010B,Low Dose Rate (LDR),D010,2016,2027
+D010B6,Cesium 131 (Cs-131),D010B,2021,2027
+D010B6Z,Low Dose Rate (LDR) Brachytherapy of Brain using Cesium 131 (Cs-131),D010B6,2021,2027
+D010B7,Cesium 137 (Cs-137),D010B,2016,2027
+D010B7Z,Low Dose Rate (LDR) Brachytherapy of Brain using Cesium 137 (Cs-137),D010B7,2016,2027
+D010B8,Iridium 192 (Ir-192),D010B,2016,2027
+D010B8Z,Low Dose Rate (LDR) Brachytherapy of Brain using Iridium 192 (Ir-192),D010B8,2016,2027
+D010B9,Iodine 125 (I-125),D010B,2016,2027
+D010B9Z,Low Dose Rate (LDR) Brachytherapy of Brain using Iodine 125 (I-125),D010B9,2016,2027
+D010BB,Palladium 103 (Pd-103),D010B,2016,2027
+D010BB1,"Low Dose Rate (LDR) Brachytherapy of Brain using Palladium 103 (Pd-103), Unidirectional Source",D010BB,2020,2027
+D010BBZ,Low Dose Rate (LDR) Brachytherapy of Brain using Palladium 103 (Pd-103),D010BB,2016,2027
+D010BC,Californium 252 (Cf-252),D010B,2016,2027
+D010BCZ,Low Dose Rate (LDR) Brachytherapy of Brain using Californium 252 (Cf-252),D010BC,2016,2027
+D010BY,Other Isotope,D010B,2016,2027
+D010BYZ,Low Dose Rate (LDR) Brachytherapy of Brain using Other Isotope,D010BY,2016,2027
+D011,Brain Stem,D01,2016,2027
+D0119,High Dose Rate (HDR),D011,2016,2027
+D01197,Cesium 137 (Cs-137),D0119,2016,2027
+D01197Z,High Dose Rate (HDR) Brachytherapy of Brain Stem using Cesium 137 (Cs-137),D01197,2016,2027
+D01198,Iridium 192 (Ir-192),D0119,2016,2027
+D01198Z,High Dose Rate (HDR) Brachytherapy of Brain Stem using Iridium 192 (Ir-192),D01198,2016,2027
+D01199,Iodine 125 (I-125),D0119,2016,2027
+D01199Z,High Dose Rate (HDR) Brachytherapy of Brain Stem using Iodine 125 (I-125),D01199,2016,2027
+D0119B,Palladium 103 (Pd-103),D0119,2016,2027
+D0119BZ,High Dose Rate (HDR) Brachytherapy of Brain Stem using Palladium 103 (Pd-103),D0119B,2016,2027
+D0119C,Californium 252 (Cf-252),D0119,2016,2027
+D0119CZ,High Dose Rate (HDR) Brachytherapy of Brain Stem using Californium 252 (Cf-252),D0119C,2016,2027
+D0119Y,Other Isotope,D0119,2016,2027
+D0119YZ,High Dose Rate (HDR) Brachytherapy of Brain Stem using Other Isotope,D0119Y,2016,2027
+D011B,Low Dose Rate (LDR),D011,2016,2027
+D011B6,Cesium 131 (Cs-131),D011B,2021,2027
+D011B6Z,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Cesium 131 (Cs-131),D011B6,2021,2027
+D011B7,Cesium 137 (Cs-137),D011B,2016,2027
+D011B7Z,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Cesium 137 (Cs-137),D011B7,2016,2027
+D011B8,Iridium 192 (Ir-192),D011B,2016,2027
+D011B8Z,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Iridium 192 (Ir-192),D011B8,2016,2027
+D011B9,Iodine 125 (I-125),D011B,2016,2027
+D011B9Z,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Iodine 125 (I-125),D011B9,2016,2027
+D011BB,Palladium 103 (Pd-103),D011B,2016,2027
+D011BB1,"Low Dose Rate (LDR) Brachytherapy of Brain Stem using Palladium 103 (Pd-103), Unidirectional Source",D011BB,2020,2027
+D011BBZ,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Palladium 103 (Pd-103),D011BB,2016,2027
+D011BC,Californium 252 (Cf-252),D011B,2016,2027
+D011BCZ,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Californium 252 (Cf-252),D011BC,2016,2027
+D011BY,Other Isotope,D011B,2016,2027
+D011BYZ,Low Dose Rate (LDR) Brachytherapy of Brain Stem using Other Isotope,D011BY,2016,2027
+D016,Spinal Cord,D01,2016,2027
+D0169,High Dose Rate (HDR),D016,2016,2027
+D01697,Cesium 137 (Cs-137),D0169,2016,2027
+D01697Z,High Dose Rate (HDR) Brachytherapy of Spinal Cord using Cesium 137 (Cs-137),D01697,2016,2027
+D01698,Iridium 192 (Ir-192),D0169,2016,2027
+D01698Z,High Dose Rate (HDR) Brachytherapy of Spinal Cord using Iridium 192 (Ir-192),D01698,2016,2027
+D01699,Iodine 125 (I-125),D0169,2016,2027
+D01699Z,High Dose Rate (HDR) Brachytherapy of Spinal Cord using Iodine 125 (I-125),D01699,2016,2027
+D0169B,Palladium 103 (Pd-103),D0169,2016,2027
+D0169BZ,High Dose Rate (HDR) Brachytherapy of Spinal Cord using Palladium 103 (Pd-103),D0169B,2016,2027
+D0169C,Californium 252 (Cf-252),D0169,2016,2027
+D0169CZ,High Dose Rate (HDR) Brachytherapy of Spinal Cord using Californium 252 (Cf-252),D0169C,2016,2027
+D0169Y,Other Isotope,D0169,2016,2027
+D0169YZ,High Dose Rate (HDR) Brachytherapy of Spinal Cord using Other Isotope,D0169Y,2016,2027
+D016B,Low Dose Rate (LDR),D016,2016,2027
+D016B6,Cesium 131 (Cs-131),D016B,2021,2027
+D016B6Z,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Cesium 131 (Cs-131),D016B6,2021,2027
+D016B7,Cesium 137 (Cs-137),D016B,2016,2027
+D016B7Z,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Cesium 137 (Cs-137),D016B7,2016,2027
+D016B8,Iridium 192 (Ir-192),D016B,2016,2027
+D016B8Z,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Iridium 192 (Ir-192),D016B8,2016,2027
+D016B9,Iodine 125 (I-125),D016B,2016,2027
+D016B9Z,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Iodine 125 (I-125),D016B9,2016,2027
+D016BB,Palladium 103 (Pd-103),D016B,2016,2027
+D016BB1,"Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Palladium 103 (Pd-103), Unidirectional Source",D016BB,2020,2027
+D016BBZ,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Palladium 103 (Pd-103),D016BB,2016,2027
+D016BC,Californium 252 (Cf-252),D016B,2016,2027
+D016BCZ,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Californium 252 (Cf-252),D016BC,2016,2027
+D016BY,Other Isotope,D016B,2016,2027
+D016BYZ,Low Dose Rate (LDR) Brachytherapy of Spinal Cord using Other Isotope,D016BY,2016,2027
+D017,Peripheral Nerve,D01,2016,2027
+D0179,High Dose Rate (HDR),D017,2016,2027
+D01797,Cesium 137 (Cs-137),D0179,2016,2027
+D01797Z,High Dose Rate (HDR) Brachytherapy of Peripheral Nerve using Cesium 137 (Cs-137),D01797,2016,2027
+D01798,Iridium 192 (Ir-192),D0179,2016,2027
+D01798Z,High Dose Rate (HDR) Brachytherapy of Peripheral Nerve using Iridium 192 (Ir-192),D01798,2016,2027
+D01799,Iodine 125 (I-125),D0179,2016,2027
+D01799Z,High Dose Rate (HDR) Brachytherapy of Peripheral Nerve using Iodine 125 (I-125),D01799,2016,2027
+D0179B,Palladium 103 (Pd-103),D0179,2016,2027
+D0179BZ,High Dose Rate (HDR) Brachytherapy of Peripheral Nerve using Palladium 103 (Pd-103),D0179B,2016,2027
+D0179C,Californium 252 (Cf-252),D0179,2016,2027
+D0179CZ,High Dose Rate (HDR) Brachytherapy of Peripheral Nerve using Californium 252 (Cf-252),D0179C,2016,2027
+D0179Y,Other Isotope,D0179,2016,2027
+D0179YZ,High Dose Rate (HDR) Brachytherapy of Peripheral Nerve using Other Isotope,D0179Y,2016,2027
+D017B,Low Dose Rate (LDR),D017,2016,2027
+D017B6,Cesium 131 (Cs-131),D017B,2021,2027
+D017B6Z,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Cesium 131 (Cs-131),D017B6,2021,2027
+D017B7,Cesium 137 (Cs-137),D017B,2016,2027
+D017B7Z,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Cesium 137 (Cs-137),D017B7,2016,2027
+D017B8,Iridium 192 (Ir-192),D017B,2016,2027
+D017B8Z,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Iridium 192 (Ir-192),D017B8,2016,2027
+D017B9,Iodine 125 (I-125),D017B,2016,2027
+D017B9Z,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Iodine 125 (I-125),D017B9,2016,2027
+D017BB,Palladium 103 (Pd-103),D017B,2016,2027
+D017BB1,"Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Palladium 103 (Pd-103), Unidirectional Source",D017BB,2020,2027
+D017BBZ,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Palladium 103 (Pd-103),D017BB,2016,2027
+D017BC,Californium 252 (Cf-252),D017B,2016,2027
+D017BCZ,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Californium 252 (Cf-252),D017BC,2016,2027
+D017BY,Other Isotope,D017B,2016,2027
+D017BYZ,Low Dose Rate (LDR) Brachytherapy of Peripheral Nerve using Other Isotope,D017BY,2016,2027
+D02,Stereotactic Radiosurgery,D0,2016,2027
+D020,Brain,D02,2016,2027
+D020D,Stereotactic Other Photon Radiosurgery,D020,2016,2027
+D020DZ,None,D020D,2016,2027
+D020DZZ,Stereotactic Other Photon Radiosurgery of Brain,D020DZ,2016,2027
+D020H,Stereotactic Particulate Radiosurgery,D020,2016,2027
+D020HZ,None,D020H,2016,2027
+D020HZZ,Stereotactic Particulate Radiosurgery of Brain,D020HZ,2016,2027
+D020J,Stereotactic Gamma Beam Radiosurgery,D020,2016,2027
+D020JZ,None,D020J,2016,2027
+D020JZZ,Stereotactic Gamma Beam Radiosurgery of Brain,D020JZ,2016,2027
+D021,Brain Stem,D02,2016,2027
+D021D,Stereotactic Other Photon Radiosurgery,D021,2016,2027
+D021DZ,None,D021D,2016,2027
+D021DZZ,Stereotactic Other Photon Radiosurgery of Brain Stem,D021DZ,2016,2027
+D021H,Stereotactic Particulate Radiosurgery,D021,2016,2027
+D021HZ,None,D021H,2016,2027
+D021HZZ,Stereotactic Particulate Radiosurgery of Brain Stem,D021HZ,2016,2027
+D021J,Stereotactic Gamma Beam Radiosurgery,D021,2016,2027
+D021JZ,None,D021J,2016,2027
+D021JZZ,Stereotactic Gamma Beam Radiosurgery of Brain Stem,D021JZ,2016,2027
+D026,Spinal Cord,D02,2016,2027
+D026D,Stereotactic Other Photon Radiosurgery,D026,2016,2027
+D026DZ,None,D026D,2016,2027
+D026DZZ,Stereotactic Other Photon Radiosurgery of Spinal Cord,D026DZ,2016,2027
+D026H,Stereotactic Particulate Radiosurgery,D026,2016,2027
+D026HZ,None,D026H,2016,2027
+D026HZZ,Stereotactic Particulate Radiosurgery of Spinal Cord,D026HZ,2016,2027
+D026J,Stereotactic Gamma Beam Radiosurgery,D026,2016,2027
+D026JZ,None,D026J,2016,2027
+D026JZZ,Stereotactic Gamma Beam Radiosurgery of Spinal Cord,D026JZ,2016,2027
+D027,Peripheral Nerve,D02,2016,2027
+D027D,Stereotactic Other Photon Radiosurgery,D027,2016,2027
+D027DZ,None,D027D,2016,2027
+D027DZZ,Stereotactic Other Photon Radiosurgery of Peripheral Nerve,D027DZ,2016,2027
+D027H,Stereotactic Particulate Radiosurgery,D027,2016,2027
+D027HZ,None,D027H,2016,2027
+D027HZZ,Stereotactic Particulate Radiosurgery of Peripheral Nerve,D027HZ,2016,2027
+D027J,Stereotactic Gamma Beam Radiosurgery,D027,2016,2027
+D027JZ,None,D027J,2016,2027
+D027JZZ,Stereotactic Gamma Beam Radiosurgery of Peripheral Nerve,D027JZ,2016,2027
+D0Y,Other Radiation,D0,2016,2027
+D0Y0,Brain,D0Y,2016,2027
+D0Y07,Contact Radiation,D0Y0,2016,2027
+D0Y07Z,None,D0Y07,2016,2027
+D0Y07ZZ,Contact Radiation of Brain,D0Y07Z,2016,2027
+D0Y08,Hyperthermia,D0Y0,2016,2027
+D0Y08Z,None,D0Y08,2016,2027
+D0Y08ZZ,Hyperthermia of Brain,D0Y08Z,2016,2027
+D0Y0C,Intraoperative Radiation Therapy (IORT),D0Y0,2021,2027
+D0Y0CZ,None,D0Y0C,2021,2027
+D0Y0CZZ,Intraoperative Radiation Therapy (IORT) of Brain,D0Y0CZ,2021,2027
+D0Y0F,Plaque Radiation,D0Y0,2016,2027
+D0Y0FZ,None,D0Y0F,2016,2027
+D0Y0FZZ,Plaque Radiation of Brain,D0Y0FZ,2016,2027
+D0Y0K,Laser Interstitial Thermal Therapy,D0Y0,2016,2022
+D0Y0KZ,None,D0Y0K,2016,2022
+D0Y0KZZ,Laser Interstitial Thermal Therapy of Brain,D0Y0KZ,2016,2022
+D0Y1,Brain Stem,D0Y,2016,2027
+D0Y17,Contact Radiation,D0Y1,2016,2027
+D0Y17Z,None,D0Y17,2016,2027
+D0Y17ZZ,Contact Radiation of Brain Stem,D0Y17Z,2016,2027
+D0Y18,Hyperthermia,D0Y1,2016,2027
+D0Y18Z,None,D0Y18,2016,2027
+D0Y18ZZ,Hyperthermia of Brain Stem,D0Y18Z,2016,2027
+D0Y1C,Intraoperative Radiation Therapy (IORT),D0Y1,2021,2027
+D0Y1CZ,None,D0Y1C,2021,2027
+D0Y1CZZ,Intraoperative Radiation Therapy (IORT) of Brain Stem,D0Y1CZ,2021,2027
+D0Y1F,Plaque Radiation,D0Y1,2016,2027
+D0Y1FZ,None,D0Y1F,2016,2027
+D0Y1FZZ,Plaque Radiation of Brain Stem,D0Y1FZ,2016,2027
+D0Y1K,Laser Interstitial Thermal Therapy,D0Y1,2016,2022
+D0Y1KZ,None,D0Y1K,2016,2022
+D0Y1KZZ,Laser Interstitial Thermal Therapy of Brain Stem,D0Y1KZ,2016,2022
+D0Y6,Spinal Cord,D0Y,2016,2027
+D0Y67,Contact Radiation,D0Y6,2016,2027
+D0Y67Z,None,D0Y67,2016,2027
+D0Y67ZZ,Contact Radiation of Spinal Cord,D0Y67Z,2016,2027
+D0Y68,Hyperthermia,D0Y6,2016,2027
+D0Y68Z,None,D0Y68,2016,2027
+D0Y68ZZ,Hyperthermia of Spinal Cord,D0Y68Z,2016,2027
+D0Y6C,Intraoperative Radiation Therapy (IORT),D0Y6,2021,2027
+D0Y6CZ,None,D0Y6C,2021,2027
+D0Y6CZZ,Intraoperative Radiation Therapy (IORT) of Spinal Cord,D0Y6CZ,2021,2027
+D0Y6F,Plaque Radiation,D0Y6,2016,2027
+D0Y6FZ,None,D0Y6F,2016,2027
+D0Y6FZZ,Plaque Radiation of Spinal Cord,D0Y6FZ,2016,2027
+D0Y6K,Laser Interstitial Thermal Therapy,D0Y6,2016,2022
+D0Y6KZ,None,D0Y6K,2016,2022
+D0Y6KZZ,Laser Interstitial Thermal Therapy of Spinal Cord,D0Y6KZ,2016,2022
+D0Y7,Peripheral Nerve,D0Y,2016,2027
+D0Y77,Contact Radiation,D0Y7,2016,2027
+D0Y77Z,None,D0Y77,2016,2027
+D0Y77ZZ,Contact Radiation of Peripheral Nerve,D0Y77Z,2016,2027
+D0Y78,Hyperthermia,D0Y7,2016,2027
+D0Y78Z,None,D0Y78,2016,2027
+D0Y78ZZ,Hyperthermia of Peripheral Nerve,D0Y78Z,2016,2027
+D0Y7C,Intraoperative Radiation Therapy (IORT),D0Y7,2021,2027
+D0Y7CZ,None,D0Y7C,2021,2027
+D0Y7CZZ,Intraoperative Radiation Therapy (IORT) of Peripheral Nerve,D0Y7CZ,2021,2027
+D0Y7F,Plaque Radiation,D0Y7,2016,2027
+D0Y7FZ,None,D0Y7F,2016,2027
+D0Y7FZZ,Plaque Radiation of Peripheral Nerve,D0Y7FZ,2016,2027
+D0Y7K,Laser Interstitial Thermal Therapy,D0Y7,2016,2022
+D0Y7KZ,None,D0Y7K,2016,2022
+D0Y7KZZ,Laser Interstitial Thermal Therapy of Peripheral Nerve,D0Y7KZ,2016,2022

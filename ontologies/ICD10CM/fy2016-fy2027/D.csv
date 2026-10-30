@@ -1,0 +1,1043 @@
+code,description,parent,first_year,last_year
+D00,"Carcinoma in situ of oral cavity, esophagus and stomach",,2016,2027
+D00.0,"Carcinoma in situ of lip, oral cavity and pharynx",D00,2016,2027
+D00.00,"Carcinoma in situ of oral cavity, unspecified site",D00.0,2016,2027
+D00.01,Carcinoma in situ of labial mucosa and vermilion border,D00.0,2016,2027
+D00.02,Carcinoma in situ of buccal mucosa,D00.0,2016,2027
+D00.03,Carcinoma in situ of gingiva and edentulous alveolar ridge,D00.0,2016,2027
+D00.04,Carcinoma in situ of soft palate,D00.0,2016,2027
+D00.05,Carcinoma in situ of hard palate,D00.0,2016,2027
+D00.06,Carcinoma in situ of floor of mouth,D00.0,2016,2027
+D00.07,Carcinoma in situ of tongue,D00.0,2016,2027
+D00.08,Carcinoma in situ of pharynx,D00.0,2016,2027
+D00.1,Carcinoma in situ of esophagus,D00,2016,2027
+D00.2,Carcinoma in situ of stomach,D00,2016,2027
+D01,Carcinoma in situ of other and unspecified digestive organs,,2016,2027
+D01.0,Carcinoma in situ of colon,D01,2016,2027
+D01.1,Carcinoma in situ of rectosigmoid junction,D01,2016,2027
+D01.2,Carcinoma in situ of rectum,D01,2016,2027
+D01.3,Carcinoma in situ of anus and anal canal,D01,2016,2027
+D01.4,Carcinoma in situ of other and unspecified parts of intestine,D01,2016,2027
+D01.40,Carcinoma in situ of unspecified part of intestine,D01.4,2016,2027
+D01.49,Carcinoma in situ of other parts of intestine,D01.4,2016,2027
+D01.5,"Carcinoma in situ of liver, gallbladder and bile ducts",D01,2016,2027
+D01.7,Carcinoma in situ of other specified digestive organs,D01,2016,2027
+D01.9,"Carcinoma in situ of digestive organ, unspecified",D01,2016,2027
+D02,Carcinoma in situ of middle ear and respiratory system,,2016,2027
+D02.0,Carcinoma in situ of larynx,D02,2016,2027
+D02.1,Carcinoma in situ of trachea,D02,2016,2027
+D02.2,Carcinoma in situ of bronchus and lung,D02,2016,2027
+D02.20,Carcinoma in situ of unspecified bronchus and lung,D02.2,2016,2027
+D02.21,Carcinoma in situ of right bronchus and lung,D02.2,2016,2027
+D02.22,Carcinoma in situ of left bronchus and lung,D02.2,2016,2027
+D02.3,Carcinoma in situ of other parts of respiratory system,D02,2016,2027
+D02.4,"Carcinoma in situ of respiratory system, unspecified",D02,2016,2027
+D03,Melanoma in situ,,2016,2027
+D03.0,Melanoma in situ of lip,D03,2016,2027
+D03.1,"Melanoma in situ of eyelid, including canthus",D03,2016,2027
+D03.10,"Melanoma in situ of unspecified eyelid, including canthus",D03.1,2016,2027
+D03.11,"Melanoma in situ of right eyelid, including canthus",D03.1,2016,2027
+D03.111,"Melanoma in situ of right upper eyelid, including canthus",D03.11,2019,2027
+D03.112,"Melanoma in situ of right lower eyelid, including canthus",D03.11,2019,2027
+D03.12,"Melanoma in situ of left eyelid, including canthus",D03.1,2016,2027
+D03.121,"Melanoma in situ of left upper eyelid, including canthus",D03.12,2019,2027
+D03.122,"Melanoma in situ of left lower eyelid, including canthus",D03.12,2019,2027
+D03.2,Melanoma in situ of ear and external auricular canal,D03,2016,2027
+D03.20,Melanoma in situ of unspecified ear and external auricular canal,D03.2,2016,2027
+D03.21,Melanoma in situ of right ear and external auricular canal,D03.2,2016,2027
+D03.22,Melanoma in situ of left ear and external auricular canal,D03.2,2016,2027
+D03.3,Melanoma in situ of other and unspecified parts of face,D03,2016,2027
+D03.30,Melanoma in situ of unspecified part of face,D03.3,2016,2027
+D03.39,Melanoma in situ of other parts of face,D03.3,2016,2027
+D03.4,Melanoma in situ of scalp and neck,D03,2016,2027
+D03.5,Melanoma in situ of trunk,D03,2016,2027
+D03.51,Melanoma in situ of anal skin,D03.5,2016,2027
+D03.52,Melanoma in situ of breast (skin) (soft tissue),D03.5,2016,2027
+D03.59,Melanoma in situ of other part of trunk,D03.5,2016,2027
+D03.6,"Melanoma in situ of upper limb, including shoulder",D03,2016,2027
+D03.60,"Melanoma in situ of unspecified upper limb, including shoulder",D03.6,2016,2027
+D03.61,"Melanoma in situ of right upper limb, including shoulder",D03.6,2016,2027
+D03.62,"Melanoma in situ of left upper limb, including shoulder",D03.6,2016,2027
+D03.7,"Melanoma in situ of lower limb, including hip",D03,2016,2027
+D03.70,"Melanoma in situ of unspecified lower limb, including hip",D03.7,2016,2027
+D03.71,"Melanoma in situ of right lower limb, including hip",D03.7,2016,2027
+D03.72,"Melanoma in situ of left lower limb, including hip",D03.7,2016,2027
+D03.8,Melanoma in situ of other sites,D03,2016,2027
+D03.9,"Melanoma in situ, unspecified",D03,2016,2027
+D04,Carcinoma in situ of skin,,2016,2027
+D04.0,Carcinoma in situ of skin of lip,D04,2016,2027
+D04.1,"Carcinoma in situ of skin of eyelid, including canthus",D04,2016,2027
+D04.10,"Carcinoma in situ of skin of unspecified eyelid, including canthus",D04.1,2016,2027
+D04.11,"Carcinoma in situ of skin of right eyelid, including canthus",D04.1,2016,2027
+D04.111,"Carcinoma in situ of skin of right upper eyelid, including canthus",D04.11,2019,2027
+D04.112,"Carcinoma in situ of skin of right lower eyelid, including canthus",D04.11,2019,2027
+D04.12,"Carcinoma in situ of skin of left eyelid, including canthus",D04.1,2016,2027
+D04.121,"Carcinoma in situ of skin of left upper eyelid, including canthus",D04.12,2019,2027
+D04.122,"Carcinoma in situ of skin of left lower eyelid, including canthus",D04.12,2019,2027
+D04.2,Carcinoma in situ of skin of ear and external auricular canal,D04,2016,2027
+D04.20,Carcinoma in situ of skin of unspecified ear and external auricular canal,D04.2,2016,2027
+D04.21,Carcinoma in situ of skin of right ear and external auricular canal,D04.2,2016,2027
+D04.22,Carcinoma in situ of skin of left ear and external auricular canal,D04.2,2016,2027
+D04.3,Carcinoma in situ of skin of other and unspecified parts of face,D04,2016,2027
+D04.30,Carcinoma in situ of skin of unspecified part of face,D04.3,2016,2027
+D04.39,Carcinoma in situ of skin of other parts of face,D04.3,2016,2027
+D04.4,Carcinoma in situ of skin of scalp and neck,D04,2016,2027
+D04.5,Carcinoma in situ of skin of trunk,D04,2016,2027
+D04.6,"Carcinoma in situ of skin of upper limb, including shoulder",D04,2016,2027
+D04.60,"Carcinoma in situ of skin of unspecified upper limb, including shoulder",D04.6,2016,2027
+D04.61,"Carcinoma in situ of skin of right upper limb, including shoulder",D04.6,2016,2027
+D04.62,"Carcinoma in situ of skin of left upper limb, including shoulder",D04.6,2016,2027
+D04.7,"Carcinoma in situ of skin of lower limb, including hip",D04,2016,2027
+D04.70,"Carcinoma in situ of skin of unspecified lower limb, including hip",D04.7,2016,2027
+D04.71,"Carcinoma in situ of skin of right lower limb, including hip",D04.7,2016,2027
+D04.72,"Carcinoma in situ of skin of left lower limb, including hip",D04.7,2016,2027
+D04.8,Carcinoma in situ of skin of other sites,D04,2016,2027
+D04.9,"Carcinoma in situ of skin, unspecified",D04,2016,2027
+D05,Carcinoma in situ of breast,,2016,2027
+D05.0,Lobular carcinoma in situ of breast,D05,2016,2027
+D05.00,Lobular carcinoma in situ of unspecified breast,D05.0,2016,2027
+D05.01,Lobular carcinoma in situ of right breast,D05.0,2016,2027
+D05.02,Lobular carcinoma in situ of left breast,D05.0,2016,2027
+D05.1,Intraductal carcinoma in situ of breast,D05,2016,2027
+D05.10,Intraductal carcinoma in situ of unspecified breast,D05.1,2016,2027
+D05.11,Intraductal carcinoma in situ of right breast,D05.1,2016,2027
+D05.12,Intraductal carcinoma in situ of left breast,D05.1,2016,2027
+D05.8,Other specified type of carcinoma in situ of breast,D05,2016,2027
+D05.80,Other specified type of carcinoma in situ of unspecified breast,D05.8,2016,2027
+D05.81,Other specified type of carcinoma in situ of right breast,D05.8,2016,2027
+D05.82,Other specified type of carcinoma in situ of left breast,D05.8,2016,2027
+D05.9,Unspecified type of carcinoma in situ of breast,D05,2016,2027
+D05.90,Unspecified type of carcinoma in situ of unspecified breast,D05.9,2016,2027
+D05.91,Unspecified type of carcinoma in situ of right breast,D05.9,2016,2027
+D05.92,Unspecified type of carcinoma in situ of left breast,D05.9,2016,2027
+D06,Carcinoma in situ of cervix uteri,,2016,2027
+D06.0,Carcinoma in situ of endocervix,D06,2016,2027
+D06.1,Carcinoma in situ of exocervix,D06,2016,2027
+D06.7,Carcinoma in situ of other parts of cervix,D06,2016,2027
+D06.9,"Carcinoma in situ of cervix, unspecified",D06,2016,2027
+D07,Carcinoma in situ of other and unspecified genital organs,,2016,2027
+D07.0,Carcinoma in situ of endometrium,D07,2016,2027
+D07.1,Carcinoma in situ of vulva,D07,2016,2027
+D07.2,Carcinoma in situ of vagina,D07,2016,2027
+D07.3,Carcinoma in situ of other and unspecified female genital organs,D07,2016,2027
+D07.30,Carcinoma in situ of unspecified female genital organs,D07.3,2016,2027
+D07.39,Carcinoma in situ of other female genital organs,D07.3,2016,2027
+D07.4,Carcinoma in situ of penis,D07,2016,2027
+D07.5,Carcinoma in situ of prostate,D07,2016,2027
+D07.6,Carcinoma in situ of other and unspecified male genital organs,D07,2016,2027
+D07.60,Carcinoma in situ of unspecified male genital organs,D07.6,2016,2027
+D07.61,Carcinoma in situ of scrotum,D07.6,2016,2027
+D07.69,Carcinoma in situ of other male genital organs,D07.6,2016,2027
+D09,Carcinoma in situ of other and unspecified sites,,2016,2027
+D09.0,Carcinoma in situ of bladder,D09,2016,2027
+D09.1,Carcinoma in situ of other and unspecified urinary organs,D09,2016,2027
+D09.10,Carcinoma in situ of unspecified urinary organ,D09.1,2016,2027
+D09.19,Carcinoma in situ of other urinary organs,D09.1,2016,2027
+D09.2,Carcinoma in situ of eye,D09,2016,2027
+D09.20,Carcinoma in situ of unspecified eye,D09.2,2016,2027
+D09.21,Carcinoma in situ of right eye,D09.2,2016,2027
+D09.22,Carcinoma in situ of left eye,D09.2,2016,2027
+D09.3,Carcinoma in situ of thyroid and other endocrine glands,D09,2016,2027
+D09.8,Carcinoma in situ of other specified sites,D09,2016,2027
+D09.9,"Carcinoma in situ, unspecified",D09,2016,2027
+D10,Benign neoplasm of mouth and pharynx,,2016,2027
+D10.0,Benign neoplasm of lip,D10,2016,2027
+D10.1,Benign neoplasm of tongue,D10,2016,2027
+D10.2,Benign neoplasm of floor of mouth,D10,2016,2027
+D10.3,Benign neoplasm of other and unspecified parts of mouth,D10,2016,2027
+D10.30,Benign neoplasm of unspecified part of mouth,D10.3,2016,2027
+D10.39,Benign neoplasm of other parts of mouth,D10.3,2016,2027
+D10.4,Benign neoplasm of tonsil,D10,2016,2027
+D10.5,Benign neoplasm of other parts of oropharynx,D10,2016,2027
+D10.6,Benign neoplasm of nasopharynx,D10,2016,2027
+D10.7,Benign neoplasm of hypopharynx,D10,2016,2027
+D10.9,"Benign neoplasm of pharynx, unspecified",D10,2016,2027
+D11,Benign neoplasm of major salivary glands,,2016,2027
+D11.0,Benign neoplasm of parotid gland,D11,2016,2027
+D11.7,Benign neoplasm of other major salivary glands,D11,2016,2027
+D11.9,"Benign neoplasm of major salivary gland, unspecified",D11,2016,2027
+D12,"Benign neoplasm of colon, rectum, anus and anal canal",,2016,2027
+D12.0,Benign neoplasm of cecum,D12,2016,2027
+D12.1,Benign neoplasm of appendix,D12,2016,2027
+D12.2,Benign neoplasm of ascending colon,D12,2016,2027
+D12.3,Benign neoplasm of transverse colon,D12,2016,2027
+D12.4,Benign neoplasm of descending colon,D12,2016,2027
+D12.5,Benign neoplasm of sigmoid colon,D12,2016,2027
+D12.6,"Benign neoplasm of colon, unspecified",D12,2016,2027
+D12.7,Benign neoplasm of rectosigmoid junction,D12,2016,2027
+D12.8,Benign neoplasm of rectum,D12,2016,2027
+D12.9,Benign neoplasm of anus and anal canal,D12,2016,2027
+D13,Benign neoplasm of other and ill-defined parts of digestive system,,2016,2027
+D13.0,Benign neoplasm of esophagus,D13,2016,2027
+D13.1,Benign neoplasm of stomach,D13,2016,2027
+D13.2,Benign neoplasm of duodenum,D13,2016,2027
+D13.3,Benign neoplasm of other and unspecified parts of small intestine,D13,2016,2027
+D13.30,Benign neoplasm of unspecified part of small intestine,D13.3,2016,2027
+D13.39,Benign neoplasm of other parts of small intestine,D13.3,2016,2027
+D13.4,Benign neoplasm of liver,D13,2016,2027
+D13.5,Benign neoplasm of extrahepatic bile ducts,D13,2016,2027
+D13.6,Benign neoplasm of pancreas,D13,2016,2027
+D13.7,Benign neoplasm of endocrine pancreas,D13,2016,2027
+D13.9,Benign neoplasm of ill-defined sites within the digestive system,D13,2016,2027
+D13.91,Familial adenomatous polyposis,D13.9,2024,2027
+D13.99,Benign neoplasm of ill-defined sites within the digestive system,D13.9,2024,2027
+D14,Benign neoplasm of middle ear and respiratory system,,2016,2027
+D14.0,"Benign neoplasm of middle ear, nasal cavity and accessory sinuses",D14,2016,2027
+D14.1,Benign neoplasm of larynx,D14,2016,2027
+D14.2,Benign neoplasm of trachea,D14,2016,2027
+D14.3,Benign neoplasm of bronchus and lung,D14,2016,2027
+D14.30,Benign neoplasm of unspecified bronchus and lung,D14.3,2016,2027
+D14.31,Benign neoplasm of right bronchus and lung,D14.3,2016,2027
+D14.32,Benign neoplasm of left bronchus and lung,D14.3,2016,2027
+D14.4,"Benign neoplasm of respiratory system, unspecified",D14,2016,2027
+D15,Benign neoplasm of other and unspecified intrathoracic organs,,2016,2027
+D15.0,Benign neoplasm of thymus,D15,2016,2027
+D15.1,Benign neoplasm of heart,D15,2016,2027
+D15.2,Benign neoplasm of mediastinum,D15,2016,2027
+D15.7,Benign neoplasm of other specified intrathoracic organs,D15,2016,2027
+D15.9,"Benign neoplasm of intrathoracic organ, unspecified",D15,2016,2027
+D16,Benign neoplasm of bone and articular cartilage,,2016,2027
+D16.0,Benign neoplasm of scapula and long bones of upper limb,D16,2016,2027
+D16.00,Benign neoplasm of scapula and long bones of unspecified upper limb,D16.0,2016,2027
+D16.01,Benign neoplasm of scapula and long bones of right upper limb,D16.0,2016,2027
+D16.02,Benign neoplasm of scapula and long bones of left upper limb,D16.0,2016,2027
+D16.1,Benign neoplasm of short bones of upper limb,D16,2016,2027
+D16.10,Benign neoplasm of short bones of unspecified upper limb,D16.1,2016,2027
+D16.11,Benign neoplasm of short bones of right upper limb,D16.1,2016,2027
+D16.12,Benign neoplasm of short bones of left upper limb,D16.1,2016,2027
+D16.2,Benign neoplasm of long bones of lower limb,D16,2016,2027
+D16.20,Benign neoplasm of long bones of unspecified lower limb,D16.2,2016,2027
+D16.21,Benign neoplasm of long bones of right lower limb,D16.2,2016,2027
+D16.22,Benign neoplasm of long bones of left lower limb,D16.2,2016,2027
+D16.3,Benign neoplasm of short bones of lower limb,D16,2016,2027
+D16.30,Benign neoplasm of short bones of unspecified lower limb,D16.3,2016,2027
+D16.31,Benign neoplasm of short bones of right lower limb,D16.3,2016,2027
+D16.32,Benign neoplasm of short bones of left lower limb,D16.3,2016,2027
+D16.4,Benign neoplasm of bones of skull and face,D16,2016,2027
+D16.5,Benign neoplasm of lower jaw bone,D16,2016,2027
+D16.6,Benign neoplasm of vertebral column,D16,2016,2027
+D16.7,"Benign neoplasm of ribs, sternum and clavicle",D16,2016,2027
+D16.8,"Benign neoplasm of pelvic bones, sacrum and coccyx",D16,2016,2027
+D16.9,"Benign neoplasm of bone and articular cartilage, unspecified",D16,2016,2027
+D17,Benign lipomatous neoplasm,,2016,2027
+D17.0,"Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck",D17,2016,2027
+D17.1,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,D17,2016,2027
+D17.2,Benign lipomatous neoplasm of skin and subcutaneous tissue of limb,D17,2016,2027
+D17.20,Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified limb,D17.2,2016,2027
+D17.21,Benign lipomatous neoplasm of skin and subcutaneous tissue of right arm,D17.2,2016,2027
+D17.22,Benign lipomatous neoplasm of skin and subcutaneous tissue of left arm,D17.2,2016,2027
+D17.23,Benign lipomatous neoplasm of skin and subcutaneous tissue of right leg,D17.2,2016,2027
+D17.24,Benign lipomatous neoplasm of skin and subcutaneous tissue of left leg,D17.2,2016,2027
+D17.3,Benign lipomatous neoplasm of skin and subcutaneous tissue of other and unspecified sites,D17,2016,2027
+D17.30,Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified sites,D17.3,2016,2027
+D17.39,Benign lipomatous neoplasm of skin and subcutaneous tissue of other sites,D17.3,2016,2027
+D17.4,Benign lipomatous neoplasm of intrathoracic organs,D17,2016,2027
+D17.5,Benign lipomatous neoplasm of intra-abdominal organs,D17,2016,2027
+D17.6,Benign lipomatous neoplasm of spermatic cord,D17,2016,2027
+D17.7,Benign lipomatous neoplasm of other sites,D17,2016,2027
+D17.71,Benign lipomatous neoplasm of kidney,D17.7,2016,2027
+D17.72,Benign lipomatous neoplasm of other genitourinary organ,D17.7,2016,2027
+D17.79,Benign lipomatous neoplasm of other sites,D17.7,2016,2027
+D17.9,"Benign lipomatous neoplasm, unspecified",D17,2016,2027
+D18,"Hemangioma and lymphangioma, any site",,2016,2027
+D18.0,Hemangioma,D18,2016,2027
+D18.00,Hemangioma unspecified site,D18.0,2016,2027
+D18.01,Hemangioma of skin and subcutaneous tissue,D18.0,2016,2027
+D18.02,Hemangioma of intracranial structures,D18.0,2016,2027
+D18.03,Hemangioma of intra-abdominal structures,D18.0,2016,2027
+D18.09,Hemangioma of other sites,D18.0,2016,2027
+D18.1,"Lymphangioma, any site",D18,2016,2027
+D19,Benign neoplasm of mesothelial tissue,,2016,2027
+D19.0,Benign neoplasm of mesothelial tissue of pleura,D19,2016,2027
+D19.1,Benign neoplasm of mesothelial tissue of peritoneum,D19,2016,2027
+D19.7,Benign neoplasm of mesothelial tissue of other sites,D19,2016,2027
+D19.9,"Benign neoplasm of mesothelial tissue, unspecified",D19,2016,2027
+D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,,2016,2027
+D20.0,Benign neoplasm of soft tissue of retroperitoneum,D20,2016,2027
+D20.1,Benign neoplasm of soft tissue of peritoneum,D20,2016,2027
+D21,Other benign neoplasms of connective and other soft tissue,,2016,2027
+D21.0,"Benign neoplasm of connective and other soft tissue of head, face and neck",D21,2016,2027
+D21.1,"Benign neoplasm of connective and other soft tissue of upper limb, including shoulder",D21,2016,2027
+D21.10,"Benign neoplasm of connective and other soft tissue of unspecified upper limb, including shoulder",D21.1,2016,2027
+D21.11,"Benign neoplasm of connective and other soft tissue of right upper limb, including shoulder",D21.1,2016,2027
+D21.12,"Benign neoplasm of connective and other soft tissue of left upper limb, including shoulder",D21.1,2016,2027
+D21.2,"Benign neoplasm of connective and other soft tissue of lower limb, including hip",D21,2016,2027
+D21.20,"Benign neoplasm of connective and other soft tissue of unspecified lower limb, including hip",D21.2,2016,2027
+D21.21,"Benign neoplasm of connective and other soft tissue of right lower limb, including hip",D21.2,2016,2027
+D21.22,"Benign neoplasm of connective and other soft tissue of left lower limb, including hip",D21.2,2016,2027
+D21.3,Benign neoplasm of connective and other soft tissue of thorax,D21,2016,2027
+D21.4,Benign neoplasm of connective and other soft tissue of abdomen,D21,2016,2027
+D21.5,Benign neoplasm of connective and other soft tissue of pelvis,D21,2016,2027
+D21.6,"Benign neoplasm of connective and other soft tissue of trunk, unspecified",D21,2016,2027
+D21.9,"Benign neoplasm of connective and other soft tissue, unspecified",D21,2016,2027
+D22,Melanocytic nevi,,2016,2027
+D22.0,Melanocytic nevi of lip,D22,2016,2027
+D22.1,"Melanocytic nevi of eyelid, including canthus",D22,2016,2027
+D22.10,"Melanocytic nevi of unspecified eyelid, including canthus",D22.1,2016,2027
+D22.11,"Melanocytic nevi of right eyelid, including canthus",D22.1,2016,2027
+D22.111,"Melanocytic nevi of right upper eyelid, including canthus",D22.11,2019,2027
+D22.112,"Melanocytic nevi of right lower eyelid, including canthus",D22.11,2019,2027
+D22.12,"Melanocytic nevi of left eyelid, including canthus",D22.1,2016,2027
+D22.121,"Melanocytic nevi of left upper eyelid, including canthus",D22.12,2019,2027
+D22.122,"Melanocytic nevi of left lower eyelid, including canthus",D22.12,2019,2027
+D22.2,Melanocytic nevi of ear and external auricular canal,D22,2016,2027
+D22.20,Melanocytic nevi of unspecified ear and external auricular canal,D22.2,2016,2027
+D22.21,Melanocytic nevi of right ear and external auricular canal,D22.2,2016,2027
+D22.22,Melanocytic nevi of left ear and external auricular canal,D22.2,2016,2027
+D22.3,Melanocytic nevi of other and unspecified parts of face,D22,2016,2027
+D22.30,Melanocytic nevi of unspecified part of face,D22.3,2016,2027
+D22.39,Melanocytic nevi of other parts of face,D22.3,2016,2027
+D22.4,Melanocytic nevi of scalp and neck,D22,2016,2027
+D22.5,Melanocytic nevi of trunk,D22,2016,2027
+D22.6,"Melanocytic nevi of upper limb, including shoulder",D22,2016,2027
+D22.60,"Melanocytic nevi of unspecified upper limb, including shoulder",D22.6,2016,2027
+D22.61,"Melanocytic nevi of right upper limb, including shoulder",D22.6,2016,2027
+D22.62,"Melanocytic nevi of left upper limb, including shoulder",D22.6,2016,2027
+D22.7,"Melanocytic nevi of lower limb, including hip",D22,2016,2027
+D22.70,"Melanocytic nevi of unspecified lower limb, including hip",D22.7,2016,2027
+D22.71,"Melanocytic nevi of right lower limb, including hip",D22.7,2016,2027
+D22.72,"Melanocytic nevi of left lower limb, including hip",D22.7,2016,2027
+D22.9,"Melanocytic nevi, unspecified",D22,2016,2027
+D23,Other benign neoplasms of skin,,2016,2027
+D23.0,Other benign neoplasm of skin of lip,D23,2016,2027
+D23.1,"Other benign neoplasm of skin of eyelid, including canthus",D23,2016,2027
+D23.10,"Other benign neoplasm of skin of unspecified eyelid, including canthus",D23.1,2016,2027
+D23.11,"Other benign neoplasm of skin of right eyelid, including canthus",D23.1,2016,2027
+D23.111,"Other benign neoplasm of skin of right upper eyelid, including canthus",D23.11,2019,2027
+D23.112,"Other benign neoplasm of skin of right lower eyelid, including canthus",D23.11,2019,2027
+D23.12,"Other benign neoplasm of skin of left eyelid, including canthus",D23.1,2016,2027
+D23.121,"Other benign neoplasm of skin of left upper eyelid, including canthus",D23.12,2019,2027
+D23.122,"Other benign neoplasm of skin of left lower eyelid, including canthus",D23.12,2019,2027
+D23.2,Other benign neoplasm of skin of ear and external auricular canal,D23,2016,2027
+D23.20,Other benign neoplasm of skin of unspecified ear and external auricular canal,D23.2,2016,2027
+D23.21,Other benign neoplasm of skin of right ear and external auricular canal,D23.2,2016,2027
+D23.22,Other benign neoplasm of skin of left ear and external auricular canal,D23.2,2016,2027
+D23.3,Other benign neoplasm of skin of other and unspecified parts of face,D23,2016,2027
+D23.30,Other benign neoplasm of skin of unspecified part of face,D23.3,2016,2027
+D23.39,Other benign neoplasm of skin of other parts of face,D23.3,2016,2027
+D23.4,Other benign neoplasm of skin of scalp and neck,D23,2016,2027
+D23.5,Other benign neoplasm of skin of trunk,D23,2016,2027
+D23.6,"Other benign neoplasm of skin of upper limb, including shoulder",D23,2016,2027
+D23.60,"Other benign neoplasm of skin of unspecified upper limb, including shoulder",D23.6,2016,2027
+D23.61,"Other benign neoplasm of skin of right upper limb, including shoulder",D23.6,2016,2027
+D23.62,"Other benign neoplasm of skin of left upper limb, including shoulder",D23.6,2016,2027
+D23.7,"Other benign neoplasm of skin of lower limb, including hip",D23,2016,2027
+D23.70,"Other benign neoplasm of skin of unspecified lower limb, including hip",D23.7,2016,2027
+D23.71,"Other benign neoplasm of skin of right lower limb, including hip",D23.7,2016,2027
+D23.72,"Other benign neoplasm of skin of left lower limb, including hip",D23.7,2016,2027
+D23.9,"Other benign neoplasm of skin, unspecified",D23,2016,2027
+D24,Benign neoplasm of breast,,2016,2027
+D24.1,Benign neoplasm of right breast,D24,2016,2027
+D24.2,Benign neoplasm of left breast,D24,2016,2027
+D24.9,Benign neoplasm of unspecified breast,D24,2016,2027
+D25,Leiomyoma of uterus,,2016,2027
+D25.0,Submucous leiomyoma of uterus,D25,2016,2027
+D25.1,Intramural leiomyoma of uterus,D25,2016,2027
+D25.2,Subserosal leiomyoma of uterus,D25,2016,2027
+D25.9,"Leiomyoma of uterus, unspecified",D25,2016,2027
+D26,Other benign neoplasms of uterus,,2016,2027
+D26.0,Other benign neoplasm of cervix uteri,D26,2016,2027
+D26.1,Other benign neoplasm of corpus uteri,D26,2016,2027
+D26.7,Other benign neoplasm of other parts of uterus,D26,2016,2027
+D26.9,"Other benign neoplasm of uterus, unspecified",D26,2016,2027
+D27,Benign neoplasm of ovary,,2016,2027
+D27.0,Benign neoplasm of right ovary,D27,2016,2027
+D27.1,Benign neoplasm of left ovary,D27,2016,2027
+D27.9,Benign neoplasm of unspecified ovary,D27,2016,2027
+D28,Benign neoplasm of other and unspecified female genital organs,,2016,2027
+D28.0,Benign neoplasm of vulva,D28,2016,2027
+D28.1,Benign neoplasm of vagina,D28,2016,2027
+D28.2,Benign neoplasm of uterine tubes and ligaments,D28,2016,2027
+D28.7,Benign neoplasm of other specified female genital organs,D28,2016,2027
+D28.9,"Benign neoplasm of female genital organ, unspecified",D28,2016,2027
+D29,Benign neoplasm of male genital organs,,2016,2027
+D29.0,Benign neoplasm of penis,D29,2016,2027
+D29.1,Benign neoplasm of prostate,D29,2016,2027
+D29.2,Benign neoplasm of testis,D29,2016,2027
+D29.20,Benign neoplasm of unspecified testis,D29.2,2016,2027
+D29.21,Benign neoplasm of right testis,D29.2,2016,2027
+D29.22,Benign neoplasm of left testis,D29.2,2016,2027
+D29.3,Benign neoplasm of epididymis,D29,2016,2027
+D29.30,Benign neoplasm of unspecified epididymis,D29.3,2016,2027
+D29.31,Benign neoplasm of right epididymis,D29.3,2016,2027
+D29.32,Benign neoplasm of left epididymis,D29.3,2016,2027
+D29.4,Benign neoplasm of scrotum,D29,2016,2027
+D29.8,Benign neoplasm of other specified male genital organs,D29,2016,2027
+D29.9,"Benign neoplasm of male genital organ, unspecified",D29,2016,2027
+D30,Benign neoplasm of urinary organs,,2016,2027
+D30.0,Benign neoplasm of kidney,D30,2016,2027
+D30.00,Benign neoplasm of unspecified kidney,D30.0,2016,2027
+D30.01,Benign neoplasm of right kidney,D30.0,2016,2027
+D30.02,Benign neoplasm of left kidney,D30.0,2016,2027
+D30.1,Benign neoplasm of renal pelvis,D30,2016,2027
+D30.10,Benign neoplasm of unspecified renal pelvis,D30.1,2016,2027
+D30.11,Benign neoplasm of right renal pelvis,D30.1,2016,2027
+D30.12,Benign neoplasm of left renal pelvis,D30.1,2016,2027
+D30.2,Benign neoplasm of ureter,D30,2016,2027
+D30.20,Benign neoplasm of unspecified ureter,D30.2,2016,2027
+D30.21,Benign neoplasm of right ureter,D30.2,2016,2027
+D30.22,Benign neoplasm of left ureter,D30.2,2016,2027
+D30.3,Benign neoplasm of bladder,D30,2016,2027
+D30.4,Benign neoplasm of urethra,D30,2016,2027
+D30.8,Benign neoplasm of other specified urinary organs,D30,2016,2027
+D30.9,"Benign neoplasm of urinary organ, unspecified",D30,2016,2027
+D31,Benign neoplasm of eye and adnexa,,2016,2027
+D31.0,Benign neoplasm of conjunctiva,D31,2016,2027
+D31.00,Benign neoplasm of unspecified conjunctiva,D31.0,2016,2027
+D31.01,Benign neoplasm of right conjunctiva,D31.0,2016,2027
+D31.02,Benign neoplasm of left conjunctiva,D31.0,2016,2027
+D31.1,Benign neoplasm of cornea,D31,2016,2027
+D31.10,Benign neoplasm of unspecified cornea,D31.1,2016,2027
+D31.11,Benign neoplasm of right cornea,D31.1,2016,2027
+D31.12,Benign neoplasm of left cornea,D31.1,2016,2027
+D31.2,Benign neoplasm of retina,D31,2016,2027
+D31.20,Benign neoplasm of unspecified retina,D31.2,2016,2027
+D31.21,Benign neoplasm of right retina,D31.2,2016,2027
+D31.22,Benign neoplasm of left retina,D31.2,2016,2027
+D31.3,Benign neoplasm of choroid,D31,2016,2027
+D31.30,Benign neoplasm of unspecified choroid,D31.3,2016,2027
+D31.31,Benign neoplasm of right choroid,D31.3,2016,2027
+D31.32,Benign neoplasm of left choroid,D31.3,2016,2027
+D31.4,Benign neoplasm of ciliary body,D31,2016,2027
+D31.40,Benign neoplasm of unspecified ciliary body,D31.4,2016,2027
+D31.41,Benign neoplasm of right ciliary body,D31.4,2016,2027
+D31.42,Benign neoplasm of left ciliary body,D31.4,2016,2027
+D31.5,Benign neoplasm of lacrimal gland and duct,D31,2016,2027
+D31.50,Benign neoplasm of unspecified lacrimal gland and duct,D31.5,2016,2027
+D31.51,Benign neoplasm of right lacrimal gland and duct,D31.5,2016,2027
+D31.52,Benign neoplasm of left lacrimal gland and duct,D31.5,2016,2027
+D31.6,Benign neoplasm of unspecified site of orbit,D31,2016,2027
+D31.60,Benign neoplasm of unspecified site of unspecified orbit,D31.6,2016,2027
+D31.61,Benign neoplasm of unspecified site of right orbit,D31.6,2016,2027
+D31.62,Benign neoplasm of unspecified site of left orbit,D31.6,2016,2027
+D31.9,Benign neoplasm of unspecified part of eye,D31,2016,2027
+D31.90,Benign neoplasm of unspecified part of unspecified eye,D31.9,2016,2027
+D31.91,Benign neoplasm of unspecified part of right eye,D31.9,2016,2027
+D31.92,Benign neoplasm of unspecified part of left eye,D31.9,2016,2027
+D32,Benign neoplasm of meninges,,2016,2027
+D32.0,Benign neoplasm of cerebral meninges,D32,2016,2027
+D32.1,Benign neoplasm of spinal meninges,D32,2016,2027
+D32.9,"Benign neoplasm of meninges, unspecified",D32,2016,2027
+D33,Benign neoplasm of brain and other parts of central nervous system,,2016,2027
+D33.0,"Benign neoplasm of brain, supratentorial",D33,2016,2027
+D33.1,"Benign neoplasm of brain, infratentorial",D33,2016,2027
+D33.2,"Benign neoplasm of brain, unspecified",D33,2016,2027
+D33.3,Benign neoplasm of cranial nerves,D33,2016,2027
+D33.4,Benign neoplasm of spinal cord,D33,2016,2027
+D33.7,Benign neoplasm of other specified parts of central nervous system,D33,2016,2027
+D33.9,"Benign neoplasm of central nervous system, unspecified",D33,2016,2027
+D34,Benign neoplasm of thyroid gland,,2016,2027
+D35,Benign neoplasm of other and unspecified endocrine glands,,2016,2027
+D35.0,Benign neoplasm of adrenal gland,D35,2016,2027
+D35.00,Benign neoplasm of unspecified adrenal gland,D35.0,2016,2027
+D35.01,Benign neoplasm of right adrenal gland,D35.0,2016,2027
+D35.02,Benign neoplasm of left adrenal gland,D35.0,2016,2027
+D35.1,Benign neoplasm of parathyroid gland,D35,2016,2027
+D35.2,Benign neoplasm of pituitary gland,D35,2016,2027
+D35.3,Benign neoplasm of craniopharyngeal duct,D35,2016,2027
+D35.4,Benign neoplasm of pineal gland,D35,2016,2027
+D35.5,Benign neoplasm of carotid body,D35,2016,2027
+D35.6,Benign neoplasm of aortic body and other paraganglia,D35,2016,2027
+D35.7,Benign neoplasm of other specified endocrine glands,D35,2016,2027
+D35.9,"Benign neoplasm of endocrine gland, unspecified",D35,2016,2027
+D36,Benign neoplasm of other and unspecified sites,,2016,2027
+D36.0,Benign neoplasm of lymph nodes,D36,2016,2027
+D36.1,Benign neoplasm of peripheral nerves and autonomic nervous system,D36,2016,2027
+D36.10,"Benign neoplasm of peripheral nerves and autonomic nervous system, unspecified",D36.1,2016,2027
+D36.11,"Benign neoplasm of peripheral nerves and autonomic nervous system of face, head, and neck",D36.1,2016,2027
+D36.12,"Benign neoplasm of peripheral nerves and autonomic nervous system, upper limb, including shoulder",D36.1,2016,2027
+D36.13,"Benign neoplasm of peripheral nerves and autonomic nervous system of lower limb, including hip",D36.1,2016,2027
+D36.14,Benign neoplasm of peripheral nerves and autonomic nervous system of thorax,D36.1,2016,2027
+D36.15,Benign neoplasm of peripheral nerves and autonomic nervous system of abdomen,D36.1,2016,2027
+D36.16,Benign neoplasm of peripheral nerves and autonomic nervous system of pelvis,D36.1,2016,2027
+D36.17,"Benign neoplasm of peripheral nerves and autonomic nervous system of trunk, unspecified",D36.1,2016,2027
+D36.7,Benign neoplasm of other specified sites,D36,2016,2027
+D36.9,"Benign neoplasm, unspecified site",D36,2016,2027
+D37,Neoplasm of uncertain behavior of oral cavity and digestive organs,,2016,2027
+D37.0,"Neoplasm of uncertain behavior of lip, oral cavity and pharynx",D37,2016,2027
+D37.01,Neoplasm of uncertain behavior of lip,D37.0,2016,2027
+D37.02,Neoplasm of uncertain behavior of tongue,D37.0,2016,2027
+D37.03,Neoplasm of uncertain behavior of the major salivary glands,D37.0,2016,2027
+D37.030,Neoplasm of uncertain behavior of the parotid salivary glands,D37.03,2016,2027
+D37.031,Neoplasm of uncertain behavior of the sublingual salivary glands,D37.03,2016,2027
+D37.032,Neoplasm of uncertain behavior of the submandibular salivary glands,D37.03,2016,2027
+D37.039,"Neoplasm of uncertain behavior of the major salivary glands, unspecified",D37.03,2016,2027
+D37.04,Neoplasm of uncertain behavior of the minor salivary glands,D37.0,2016,2027
+D37.05,Neoplasm of uncertain behavior of pharynx,D37.0,2016,2027
+D37.09,Neoplasm of uncertain behavior of other specified sites of the oral cavity,D37.0,2016,2027
+D37.1,Neoplasm of uncertain behavior of stomach,D37,2016,2027
+D37.2,Neoplasm of uncertain behavior of small intestine,D37,2016,2027
+D37.3,Neoplasm of uncertain behavior of appendix,D37,2016,2027
+D37.4,Neoplasm of uncertain behavior of colon,D37,2016,2027
+D37.5,Neoplasm of uncertain behavior of rectum,D37,2016,2027
+D37.6,"Neoplasm of uncertain behavior of liver, gallbladder and bile ducts",D37,2016,2027
+D37.8,Neoplasm of uncertain behavior of other specified digestive organs,D37,2016,2027
+D37.9,"Neoplasm of uncertain behavior of digestive organ, unspecified",D37,2016,2027
+D38,Neoplasm of uncertain behavior of middle ear and respiratory and intrathoracic organs,,2016,2027
+D38.0,Neoplasm of uncertain behavior of larynx,D38,2016,2027
+D38.1,"Neoplasm of uncertain behavior of trachea, bronchus and lung",D38,2016,2027
+D38.2,Neoplasm of uncertain behavior of pleura,D38,2016,2027
+D38.3,Neoplasm of uncertain behavior of mediastinum,D38,2016,2027
+D38.4,Neoplasm of uncertain behavior of thymus,D38,2016,2027
+D38.5,Neoplasm of uncertain behavior of other respiratory organs,D38,2016,2027
+D38.6,"Neoplasm of uncertain behavior of respiratory organ, unspecified",D38,2016,2027
+D39,Neoplasm of uncertain behavior of female genital organs,,2016,2027
+D39.0,Neoplasm of uncertain behavior of uterus,D39,2016,2027
+D39.1,Neoplasm of uncertain behavior of ovary,D39,2016,2027
+D39.10,Neoplasm of uncertain behavior of unspecified ovary,D39.1,2016,2027
+D39.11,Neoplasm of uncertain behavior of right ovary,D39.1,2016,2027
+D39.12,Neoplasm of uncertain behavior of left ovary,D39.1,2016,2027
+D39.2,Neoplasm of uncertain behavior of placenta,D39,2016,2027
+D39.8,Neoplasm of uncertain behavior of other specified female genital organs,D39,2016,2027
+D39.9,"Neoplasm of uncertain behavior of female genital organ, unspecified",D39,2016,2027
+D3A,Benign neuroendocrine tumors,,2016,2027
+D3A.0,Benign carcinoid tumors,D3A,2016,2027
+D3A.00,Benign carcinoid tumor of unspecified site,D3A.0,2016,2027
+D3A.01,Benign carcinoid tumors of the small intestine,D3A.0,2016,2027
+D3A.010,Benign carcinoid tumor of the duodenum,D3A.01,2016,2027
+D3A.011,Benign carcinoid tumor of the jejunum,D3A.01,2016,2027
+D3A.012,Benign carcinoid tumor of the ileum,D3A.01,2016,2027
+D3A.019,"Benign carcinoid tumor of the small intestine, unspecified portion",D3A.01,2016,2027
+D3A.02,"Benign carcinoid tumors of the appendix, large intestine, and rectum",D3A.0,2016,2027
+D3A.020,Benign carcinoid tumor of the appendix,D3A.02,2016,2027
+D3A.021,Benign carcinoid tumor of the cecum,D3A.02,2016,2027
+D3A.022,Benign carcinoid tumor of the ascending colon,D3A.02,2016,2027
+D3A.023,Benign carcinoid tumor of the transverse colon,D3A.02,2016,2027
+D3A.024,Benign carcinoid tumor of the descending colon,D3A.02,2016,2027
+D3A.025,Benign carcinoid tumor of the sigmoid colon,D3A.02,2016,2027
+D3A.026,Benign carcinoid tumor of the rectum,D3A.02,2016,2027
+D3A.029,"Benign carcinoid tumor of the large intestine, unspecified portion",D3A.02,2016,2027
+D3A.09,Benign carcinoid tumors of other sites,D3A.0,2016,2027
+D3A.090,Benign carcinoid tumor of the bronchus and lung,D3A.09,2016,2027
+D3A.091,Benign carcinoid tumor of the thymus,D3A.09,2016,2027
+D3A.092,Benign carcinoid tumor of the stomach,D3A.09,2016,2027
+D3A.093,Benign carcinoid tumor of the kidney,D3A.09,2016,2027
+D3A.094,"Benign carcinoid tumor of the foregut, unspecified",D3A.09,2016,2027
+D3A.095,"Benign carcinoid tumor of the midgut, unspecified",D3A.09,2016,2027
+D3A.096,"Benign carcinoid tumor of the hindgut, unspecified",D3A.09,2016,2027
+D3A.098,Benign carcinoid tumors of other sites,D3A.09,2016,2027
+D3A.8,Other benign neuroendocrine tumors,D3A,2016,2027
+D40,Neoplasm of uncertain behavior of male genital organs,,2016,2027
+D40.0,Neoplasm of uncertain behavior of prostate,D40,2016,2027
+D40.1,Neoplasm of uncertain behavior of testis,D40,2016,2027
+D40.10,Neoplasm of uncertain behavior of unspecified testis,D40.1,2016,2027
+D40.11,Neoplasm of uncertain behavior of right testis,D40.1,2016,2027
+D40.12,Neoplasm of uncertain behavior of left testis,D40.1,2016,2027
+D40.8,Neoplasm of uncertain behavior of other specified male genital organs,D40,2016,2027
+D40.9,"Neoplasm of uncertain behavior of male genital organ, unspecified",D40,2016,2027
+D41,Neoplasm of uncertain behavior of urinary organs,,2016,2027
+D41.0,Neoplasm of uncertain behavior of kidney,D41,2016,2027
+D41.00,Neoplasm of uncertain behavior of unspecified kidney,D41.0,2016,2027
+D41.01,Neoplasm of uncertain behavior of right kidney,D41.0,2016,2027
+D41.02,Neoplasm of uncertain behavior of left kidney,D41.0,2016,2027
+D41.1,Neoplasm of uncertain behavior of renal pelvis,D41,2016,2027
+D41.10,Neoplasm of uncertain behavior of unspecified renal pelvis,D41.1,2016,2027
+D41.11,Neoplasm of uncertain behavior of right renal pelvis,D41.1,2016,2027
+D41.12,Neoplasm of uncertain behavior of left renal pelvis,D41.1,2016,2027
+D41.2,Neoplasm of uncertain behavior of ureter,D41,2016,2027
+D41.20,Neoplasm of uncertain behavior of unspecified ureter,D41.2,2016,2027
+D41.21,Neoplasm of uncertain behavior of right ureter,D41.2,2016,2027
+D41.22,Neoplasm of uncertain behavior of left ureter,D41.2,2016,2027
+D41.3,Neoplasm of uncertain behavior of urethra,D41,2016,2027
+D41.4,Neoplasm of uncertain behavior of bladder,D41,2016,2027
+D41.8,Neoplasm of uncertain behavior of other specified urinary organs,D41,2016,2027
+D41.9,Neoplasm of uncertain behavior of unspecified urinary organ,D41,2016,2027
+D42,Neoplasm of uncertain behavior of meninges,,2016,2027
+D42.0,Neoplasm of uncertain behavior of cerebral meninges,D42,2016,2027
+D42.1,Neoplasm of uncertain behavior of spinal meninges,D42,2016,2027
+D42.9,"Neoplasm of uncertain behavior of meninges, unspecified",D42,2016,2027
+D43,Neoplasm of uncertain behavior of brain and central nervous system,,2016,2027
+D43.0,"Neoplasm of uncertain behavior of brain, supratentorial",D43,2016,2027
+D43.1,"Neoplasm of uncertain behavior of brain, infratentorial",D43,2016,2027
+D43.2,"Neoplasm of uncertain behavior of brain, unspecified",D43,2016,2027
+D43.3,Neoplasm of uncertain behavior of cranial nerves,D43,2016,2027
+D43.4,Neoplasm of uncertain behavior of spinal cord,D43,2016,2027
+D43.8,Neoplasm of uncertain behavior of other specified parts of central nervous system,D43,2016,2027
+D43.9,"Neoplasm of uncertain behavior of central nervous system, unspecified",D43,2016,2027
+D44,Neoplasm of uncertain behavior of endocrine glands,,2016,2027
+D44.0,Neoplasm of uncertain behavior of thyroid gland,D44,2016,2027
+D44.1,Neoplasm of uncertain behavior of adrenal gland,D44,2016,2027
+D44.10,Neoplasm of uncertain behavior of unspecified adrenal gland,D44.1,2016,2027
+D44.11,Neoplasm of uncertain behavior of right adrenal gland,D44.1,2016,2027
+D44.12,Neoplasm of uncertain behavior of left adrenal gland,D44.1,2016,2027
+D44.2,Neoplasm of uncertain behavior of parathyroid gland,D44,2016,2027
+D44.3,Neoplasm of uncertain behavior of pituitary gland,D44,2016,2027
+D44.4,Neoplasm of uncertain behavior of craniopharyngeal duct,D44,2016,2027
+D44.5,Neoplasm of uncertain behavior of pineal gland,D44,2016,2027
+D44.6,Neoplasm of uncertain behavior of carotid body,D44,2016,2027
+D44.7,Neoplasm of uncertain behavior of aortic body and other paraganglia,D44,2016,2027
+D44.9,Neoplasm of uncertain behavior of unspecified endocrine gland,D44,2016,2027
+D45,Polycythemia vera,,2016,2027
+D46,Myelodysplastic syndromes,,2016,2027
+D46.0,"Refractory anemia without ring sideroblasts, so stated",D46,2016,2027
+D46.1,Refractory anemia with ring sideroblasts,D46,2016,2027
+D46.2,Refractory anemia with excess of blasts [RAEB],D46,2016,2027
+D46.20,"Refractory anemia with excess of blasts, unspecified",D46.2,2016,2027
+D46.21,Refractory anemia with excess of blasts 1,D46.2,2016,2027
+D46.22,Refractory anemia with excess of blasts 2,D46.2,2016,2027
+D46.4,"Refractory anemia, unspecified",D46,2016,2027
+D46.9,"Myelodysplastic syndrome, unspecified",D46,2016,2027
+D46.A,Refractory cytopenia with multilineage dysplasia,D46,2016,2027
+D46.B,Refractory cytopenia with multilineage dysplasia and ring sideroblasts,D46,2016,2027
+D46.C,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality,D46,2016,2027
+D46.Z,Other myelodysplastic syndromes,D46,2016,2027
+D47,"Other neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",,2016,2027
+D47.0,Mast cell neoplasms of uncertain behavior,D47,2016,2027
+D47.01,Cutaneous mastocytosis,D47.0,2018,2027
+D47.02,Systemic mastocytosis,D47.0,2018,2027
+D47.09,Other mast cell neoplasms of uncertain behavior,D47.0,2018,2027
+D47.1,Chronic myeloproliferative disease,D47,2016,2027
+D47.2,Monoclonal gammopathy,D47,2016,2027
+D47.3,Essential (hemorrhagic) thrombocythemia,D47,2016,2027
+D47.4,Osteomyelofibrosis,D47,2016,2027
+D47.9,"Neoplasm of uncertain behavior of lymphoid, hematopoietic and related tissue, unspecified",D47,2016,2027
+D47.Z,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",D47,2016,2027
+D47.Z1,Post-transplant lymphoproliferative disorder (PTLD),D47.Z,2016,2027
+D47.Z2,Castleman disease,D47.Z,2017,2027
+D47.Z9,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",D47.Z,2016,2027
+D48,Neoplasm of uncertain behavior of other and unspecified sites,,2016,2027
+D48.0,Neoplasm of uncertain behavior of bone and articular cartilage,D48,2016,2027
+D48.1,Neoplasm of uncertain behavior of connective and other soft tissue,D48,2016,2027
+D48.11,Desmoid tumor,D48.1,2024,2027
+D48.110,Desmoid tumor of head and neck,D48.11,2024,2027
+D48.111,Desmoid tumor of chest wall,D48.11,2024,2027
+D48.112,"Desmoid tumor, intrathoracic",D48.11,2024,2027
+D48.113,Desmoid tumor of abdominal wall,D48.11,2024,2027
+D48.114,"Desmoid tumor, intraabdominal",D48.11,2024,2027
+D48.115,Desmoid tumor of upper extremity and shoulder girdle,D48.11,2024,2027
+D48.116,Desmoid tumor of lower extremity and pelvic girdle,D48.11,2024,2027
+D48.117,Desmoid tumor of back,D48.11,2024,2027
+D48.118,Desmoid tumor of other site,D48.11,2024,2027
+D48.119,Desmoid tumor of unspecified site,D48.11,2024,2027
+D48.19,Other specified neoplasm of uncertain behavior of connective and other soft tissue,D48.1,2024,2027
+D48.2,Neoplasm of uncertain behavior of peripheral nerves and autonomic nervous system,D48,2016,2027
+D48.3,Neoplasm of uncertain behavior of retroperitoneum,D48,2016,2027
+D48.4,Neoplasm of uncertain behavior of peritoneum,D48,2016,2027
+D48.5,Neoplasm of uncertain behavior of skin,D48,2016,2027
+D48.6,Neoplasm of uncertain behavior of breast,D48,2016,2027
+D48.60,Neoplasm of uncertain behavior of unspecified breast,D48.6,2016,2027
+D48.61,Neoplasm of uncertain behavior of right breast,D48.6,2016,2027
+D48.62,Neoplasm of uncertain behavior of left breast,D48.6,2016,2027
+D48.7,Neoplasm of uncertain behavior of other specified sites,D48,2016,2027
+D48.9,"Neoplasm of uncertain behavior, unspecified",D48,2016,2027
+D49,Neoplasms of unspecified behavior,,2016,2027
+D49.0,Neoplasm of unspecified behavior of digestive system,D49,2016,2027
+D49.1,Neoplasm of unspecified behavior of respiratory system,D49,2016,2027
+D49.2,"Neoplasm of unspecified behavior of bone, soft tissue, and skin",D49,2016,2027
+D49.3,Neoplasm of unspecified behavior of breast,D49,2016,2027
+D49.4,Neoplasm of unspecified behavior of bladder,D49,2016,2027
+D49.5,Neoplasm of unspecified behavior of other genitourinary organs,D49,2016,2027
+D49.51,Neoplasm of unspecified behavior of kidney,D49.5,2017,2027
+D49.511,Neoplasm of unspecified behavior of right kidney,D49.51,2017,2027
+D49.512,Neoplasm of unspecified behavior of left kidney,D49.51,2017,2027
+D49.519,Neoplasm of unspecified behavior of unspecified kidney,D49.51,2017,2027
+D49.59,Neoplasm of unspecified behavior of other genitourinary organ,D49.5,2017,2027
+D49.6,Neoplasm of unspecified behavior of brain,D49,2016,2027
+D49.7,Neoplasm of unspecified behavior of endocrine glands and other parts of nervous system,D49,2016,2027
+D49.8,Neoplasm of unspecified behavior of other specified sites,D49,2016,2027
+D49.81,Neoplasm of unspecified behavior of retina and choroid,D49.8,2016,2027
+D49.89,Neoplasm of unspecified behavior of other specified sites,D49.8,2016,2027
+D49.9,Neoplasm of unspecified behavior of unspecified site,D49,2016,2027
+D50,Iron deficiency anemia,,2016,2027
+D50.0,Iron deficiency anemia secondary to blood loss (chronic),D50,2016,2027
+D50.1,Sideropenic dysphagia,D50,2016,2027
+D50.8,Other iron deficiency anemias,D50,2016,2027
+D50.9,"Iron deficiency anemia, unspecified",D50,2016,2027
+D51,Vitamin B12 deficiency anemia,,2016,2027
+D51.0,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,D51,2016,2027
+D51.1,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,D51,2016,2027
+D51.2,Transcobalamin II deficiency,D51,2016,2027
+D51.3,Other dietary vitamin B12 deficiency anemia,D51,2016,2027
+D51.8,Other vitamin B12 deficiency anemias,D51,2016,2027
+D51.9,"Vitamin B12 deficiency anemia, unspecified",D51,2016,2027
+D52,Folate deficiency anemia,,2016,2027
+D52.0,Dietary folate deficiency anemia,D52,2016,2027
+D52.1,Drug-induced folate deficiency anemia,D52,2016,2027
+D52.8,Other folate deficiency anemias,D52,2016,2027
+D52.9,"Folate deficiency anemia, unspecified",D52,2016,2027
+D53,Other nutritional anemias,,2016,2027
+D53.0,Protein deficiency anemia,D53,2016,2027
+D53.1,"Other megaloblastic anemias, not elsewhere classified",D53,2016,2027
+D53.2,Scorbutic anemia,D53,2016,2027
+D53.8,Other specified nutritional anemias,D53,2016,2027
+D53.9,"Nutritional anemia, unspecified",D53,2016,2027
+D55,Anemia due to enzyme disorders,,2016,2027
+D55.0,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,D55,2016,2027
+D55.1,Anemia due to other disorders of glutathione metabolism,D55,2016,2027
+D55.2,Anemia due to disorders of glycolytic enzymes,D55,2016,2027
+D55.21,Anemia due to pyruvate kinase deficiency,D55.2,2022,2027
+D55.29,Anemia due to other disorders of glycolytic enzymes,D55.2,2022,2027
+D55.3,Anemia due to disorders of nucleotide metabolism,D55,2016,2027
+D55.8,Other anemias due to enzyme disorders,D55,2016,2027
+D55.9,"Anemia due to enzyme disorder, unspecified",D55,2016,2027
+D56,Thalassemia,,2016,2027
+D56.0,Alpha thalassemia,D56,2016,2027
+D56.1,Beta thalassemia,D56,2016,2027
+D56.2,Delta-beta thalassemia,D56,2016,2027
+D56.3,Thalassemia minor,D56,2016,2027
+D56.4,Hereditary persistence of fetal hemoglobin [HPFH],D56,2016,2027
+D56.5,Hemoglobin E-beta thalassemia,D56,2016,2027
+D56.8,Other thalassemias,D56,2016,2027
+D56.9,"Thalassemia, unspecified",D56,2016,2027
+D57,Sickle-cell disorders,,2016,2027
+D57.0,Hb-SS disease with crisis,D57,2016,2027
+D57.00,"Hb-SS disease with crisis, unspecified",D57.0,2016,2027
+D57.01,Hb-SS disease with acute chest syndrome,D57.0,2016,2027
+D57.02,Hb-SS disease with splenic sequestration,D57.0,2016,2027
+D57.03,Hb-SS disease with cerebral vascular involvement,D57.0,2021,2027
+D57.04,Hb-SS disease with dactylitis,D57.0,2024,2027
+D57.09,Hb-SS disease with crisis with other specified complication,D57.0,2021,2027
+D57.1,Sickle-cell disease without crisis,D57,2016,2027
+D57.2,Sickle-cell/Hb-C disease,D57,2016,2027
+D57.20,Sickle-cell/Hb-C disease without crisis,D57.2,2016,2027
+D57.21,Sickle-cell/Hb-C disease with crisis,D57.2,2016,2027
+D57.211,Sickle-cell/Hb-C disease with acute chest syndrome,D57.21,2016,2027
+D57.212,Sickle-cell/Hb-C disease with splenic sequestration,D57.21,2016,2027
+D57.213,Sickle-cell/Hb-C disease with cerebral vascular involvement,D57.21,2021,2027
+D57.214,Sickle-cell/Hb-C disease with dactylitis,D57.21,2024,2027
+D57.218,Sickle-cell/Hb-C disease with crisis with other specified complication,D57.21,2021,2027
+D57.219,"Sickle-cell/Hb-C disease with crisis, unspecified",D57.21,2016,2027
+D57.3,Sickle-cell trait,D57,2016,2027
+D57.4,Sickle-cell thalassemia,D57,2016,2027
+D57.40,Sickle-cell thalassemia without crisis,D57.4,2016,2027
+D57.41,"Sickle-cell thalassemia, unspecified, with crisis",D57.4,2016,2027
+D57.411,"Sickle-cell thalassemia, unspecified, with acute chest syndrome",D57.41,2016,2027
+D57.412,"Sickle-cell thalassemia, unspecified, with splenic sequestration",D57.41,2016,2027
+D57.413,"Sickle-cell thalassemia, unspecified, with cerebral vascular involvement",D57.41,2021,2027
+D57.414,"Sickle-cell thalassemia, unspecified, with dactylitis",D57.41,2024,2027
+D57.418,"Sickle-cell thalassemia, unspecified, with crisis with other specified complication",D57.41,2021,2027
+D57.419,"Sickle-cell thalassemia, unspecified, with crisis",D57.41,2016,2027
+D57.42,Sickle-cell thalassemia beta zero without crisis,D57.4,2021,2027
+D57.43,Sickle-cell thalassemia beta zero with crisis,D57.4,2021,2027
+D57.431,Sickle-cell thalassemia beta zero with acute chest syndrome,D57.43,2021,2027
+D57.432,Sickle-cell thalassemia beta zero with splenic sequestration,D57.43,2021,2027
+D57.433,Sickle-cell thalassemia beta zero with cerebral vascular involvement,D57.43,2021,2027
+D57.434,Sickle-cell thalassemia beta zero with dactylitis,D57.43,2024,2027
+D57.438,Sickle-cell thalassemia beta zero with crisis with other specified complication,D57.43,2021,2027
+D57.439,"Sickle-cell thalassemia beta zero with crisis, unspecified",D57.43,2021,2027
+D57.44,Sickle-cell thalassemia beta plus without crisis,D57.4,2021,2027
+D57.45,Sickle-cell thalassemia beta plus with crisis,D57.4,2021,2027
+D57.451,Sickle-cell thalassemia beta plus with acute chest syndrome,D57.45,2021,2027
+D57.452,Sickle-cell thalassemia beta plus with splenic sequestration,D57.45,2021,2027
+D57.453,Sickle-cell thalassemia beta plus with cerebral vascular involvement,D57.45,2021,2027
+D57.454,Sickle-cell thalassemia beta plus with dactylitis,D57.45,2024,2027
+D57.458,Sickle-cell thalassemia beta plus with crisis with other specified complication,D57.45,2021,2027
+D57.459,"Sickle-cell thalassemia beta plus with crisis, unspecified",D57.45,2021,2027
+D57.8,Other sickle-cell disorders,D57,2016,2027
+D57.80,Other sickle-cell disorders without crisis,D57.8,2016,2027
+D57.81,Other sickle-cell disorders with crisis,D57.8,2016,2027
+D57.811,Other sickle-cell disorders with acute chest syndrome,D57.81,2016,2027
+D57.812,Other sickle-cell disorders with splenic sequestration,D57.81,2016,2027
+D57.813,Other sickle-cell disorders with cerebral vascular involvement,D57.81,2021,2027
+D57.814,Other sickle-cell disorders with dactylitis,D57.81,2024,2027
+D57.818,Other sickle-cell disorders with crisis with other specified complication,D57.81,2021,2027
+D57.819,"Other sickle-cell disorders with crisis, unspecified",D57.81,2016,2027
+D58,Other hereditary hemolytic anemias,,2016,2027
+D58.0,Hereditary spherocytosis,D58,2016,2027
+D58.1,Hereditary elliptocytosis,D58,2016,2027
+D58.2,Other hemoglobinopathies,D58,2016,2027
+D58.8,Other specified hereditary hemolytic anemias,D58,2016,2027
+D58.9,"Hereditary hemolytic anemia, unspecified",D58,2016,2027
+D59,Acquired hemolytic anemia,,2016,2027
+D59.0,Drug-induced autoimmune hemolytic anemia,D59,2016,2027
+D59.1,Other autoimmune hemolytic anemias,D59,2016,2027
+D59.10,"Autoimmune hemolytic anemia, unspecified",D59.1,2021,2027
+D59.11,Warm autoimmune hemolytic anemia,D59.1,2021,2027
+D59.12,Cold autoimmune hemolytic anemia,D59.1,2021,2027
+D59.13,Mixed type autoimmune hemolytic anemia,D59.1,2021,2027
+D59.19,Other autoimmune hemolytic anemia,D59.1,2021,2027
+D59.2,Drug-induced nonautoimmune hemolytic anemia,D59,2016,2027
+D59.3,Hemolytic-uremic syndrome,D59,2016,2027
+D59.30,"Hemolytic-uremic syndrome, unspecified",D59.3,2023,2027
+D59.31,Infection-associated hemolytic-uremic syndrome,D59.3,2023,2027
+D59.32,Hereditary hemolytic-uremic syndrome,D59.3,2023,2027
+D59.39,Other hemolytic-uremic syndrome,D59.3,2023,2027
+D59.4,Other nonautoimmune hemolytic anemias,D59,2016,2027
+D59.5,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],D59,2016,2027
+D59.6,Hemoglobinuria due to hemolysis from other external causes,D59,2016,2027
+D59.8,Other acquired hemolytic anemias,D59,2016,2027
+D59.9,"Acquired hemolytic anemia, unspecified",D59,2016,2027
+D60,Acquired pure red cell aplasia [erythroblastopenia],,2016,2027
+D60.0,Chronic acquired pure red cell aplasia,D60,2016,2027
+D60.1,Transient acquired pure red cell aplasia,D60,2016,2027
+D60.8,Other acquired pure red cell aplasias,D60,2016,2027
+D60.9,"Acquired pure red cell aplasia, unspecified",D60,2016,2027
+D61,Other aplastic anemias and other bone marrow failure syndromes,,2016,2027
+D61.0,Constitutional aplastic anemia,D61,2016,2027
+D61.01,Constitutional (pure) red blood cell aplasia,D61.0,2016,2027
+D61.02,Shwachman-Diamond syndrome,D61.0,2024,2027
+D61.03,Fanconi anemia,D61.0,2025,2027
+D61.09,Other constitutional aplastic anemia,D61.0,2016,2027
+D61.1,Drug-induced aplastic anemia,D61,2016,2027
+D61.2,Aplastic anemia due to other external agents,D61,2016,2027
+D61.3,Idiopathic aplastic anemia,D61,2016,2027
+D61.8,Other specified aplastic anemias and other bone marrow failure syndromes,D61,2016,2027
+D61.81,Pancytopenia,D61.8,2016,2027
+D61.810,Antineoplastic chemotherapy induced pancytopenia,D61.81,2016,2027
+D61.811,Other drug-induced pancytopenia,D61.81,2016,2027
+D61.818,Other pancytopenia,D61.81,2016,2027
+D61.82,Myelophthisis,D61.8,2016,2027
+D61.89,Other specified aplastic anemias and other bone marrow failure syndromes,D61.8,2016,2027
+D61.9,"Aplastic anemia, unspecified",D61,2016,2027
+D62,Acute posthemorrhagic anemia,,2016,2027
+D63,Anemia in chronic diseases classified elsewhere,,2016,2027
+D63.0,Anemia in neoplastic disease,D63,2016,2027
+D63.1,Anemia in chronic kidney disease,D63,2016,2027
+D63.8,Anemia in other chronic diseases classified elsewhere,D63,2016,2027
+D64,Other anemias,,2016,2027
+D64.0,Hereditary sideroblastic anemia,D64,2016,2027
+D64.1,Secondary sideroblastic anemia due to disease,D64,2016,2027
+D64.2,Secondary sideroblastic anemia due to drugs and toxins,D64,2016,2027
+D64.3,Other sideroblastic anemias,D64,2016,2027
+D64.4,Congenital dyserythropoietic anemia,D64,2016,2027
+D64.8,Other specified anemias,D64,2016,2027
+D64.81,Anemia due to antineoplastic chemotherapy,D64.8,2016,2027
+D64.89,Other specified anemias,D64.8,2016,2027
+D64.9,"Anemia, unspecified",D64,2016,2027
+D65,Disseminated intravascular coagulation [defibrination syndrome],,2016,2027
+D66,Hereditary factor VIII deficiency,,2016,2027
+D67,Hereditary factor IX deficiency,,2016,2027
+D68,Other coagulation defects,,2016,2027
+D68.0,Von Willebrand disease,D68,2016,2027
+D68.00,"Von Willebrand disease, unspecified",D68.0,2023,2027
+D68.01,"Von Willebrand disease, type 1",D68.0,2023,2027
+D68.02,"Von Willebrand disease, type 2",D68.0,2023,2027
+D68.020,"Von Willebrand disease, type 2A",D68.02,2023,2027
+D68.021,"Von Willebrand disease, type 2B",D68.02,2023,2027
+D68.022,"Von Willebrand disease, type 2M",D68.02,2023,2027
+D68.023,"Von Willebrand disease, type 2N",D68.02,2023,2027
+D68.029,"Von Willebrand disease, type 2, unspecified",D68.02,2023,2027
+D68.03,"Von Willebrand disease, type 3",D68.0,2023,2027
+D68.04,Acquired von Willebrand disease,D68.0,2023,2027
+D68.09,Other von Willebrand disease,D68.0,2023,2027
+D68.1,Hereditary factor XI deficiency,D68,2016,2027
+D68.2,Hereditary deficiency of other clotting factors,D68,2016,2027
+D68.3,Hemorrhagic disorder due to circulating anticoagulants,D68,2016,2027
+D68.31,"Hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",D68.3,2016,2027
+D68.311,Acquired hemophilia,D68.31,2016,2027
+D68.312,Antiphospholipid antibody with hemorrhagic disorder,D68.31,2016,2027
+D68.318,"Other hemorrhagic disorder due to intrinsic circulating anticoagulants, antibodies, or inhibitors",D68.31,2016,2027
+D68.32,Hemorrhagic disorder due to extrinsic circulating anticoagulants,D68.3,2016,2027
+D68.4,Acquired coagulation factor deficiency,D68,2016,2027
+D68.5,Primary thrombophilia,D68,2016,2027
+D68.51,Activated protein C resistance,D68.5,2016,2027
+D68.52,Prothrombin gene mutation,D68.5,2016,2027
+D68.59,Other primary thrombophilia,D68.5,2016,2027
+D68.6,Other thrombophilia,D68,2016,2027
+D68.61,Antiphospholipid syndrome,D68.6,2016,2027
+D68.62,Lupus anticoagulant syndrome,D68.6,2016,2027
+D68.69,Other thrombophilia,D68.6,2016,2027
+D68.8,Other specified coagulation defects,D68,2016,2027
+D68.9,"Coagulation defect, unspecified",D68,2016,2027
+D69,Purpura and other hemorrhagic conditions,,2016,2027
+D69.0,Allergic purpura,D69,2016,2027
+D69.1,Qualitative platelet defects,D69,2016,2027
+D69.11,Glanzmann thrombasthenia,D69.1,2027,2027
+D69.19,Other qualitative platelet defects,D69.1,2027,2027
+D69.2,Other nonthrombocytopenic purpura,D69,2016,2027
+D69.3,Immune thrombocytopenic purpura,D69,2016,2027
+D69.4,Other primary thrombocytopenia,D69,2016,2027
+D69.41,Evans syndrome,D69.4,2016,2027
+D69.42,Congenital and hereditary thrombocytopenia purpura,D69.4,2016,2027
+D69.49,Other primary thrombocytopenia,D69.4,2016,2027
+D69.5,Secondary thrombocytopenia,D69,2016,2027
+D69.51,Posttransfusion purpura,D69.5,2016,2027
+D69.59,Other secondary thrombocytopenia,D69.5,2016,2027
+D69.6,"Thrombocytopenia, unspecified",D69,2016,2027
+D69.8,Other specified hemorrhagic conditions,D69,2016,2027
+D69.9,"Hemorrhagic condition, unspecified",D69,2016,2027
+D70,Neutropenia,,2016,2027
+D70.0,Congenital agranulocytosis,D70,2016,2027
+D70.1,Agranulocytosis secondary to cancer chemotherapy,D70,2016,2027
+D70.2,Other drug-induced agranulocytosis,D70,2016,2027
+D70.3,Neutropenia due to infection,D70,2016,2027
+D70.4,Cyclic neutropenia,D70,2016,2027
+D70.8,Other neutropenia,D70,2016,2027
+D70.9,"Neutropenia, unspecified",D70,2016,2027
+D71,Functional disorders of polymorphonuclear neutrophils,,2016,2027
+D71.1,Leukocyte adhesion deficiency,D71,2026,2027
+D71.8,Other functional disorders of polymorphonuclear neutrophils,D71,2026,2027
+D71.9,"Functional disorders of polymorphonuclear neutrophils, unspecified",D71,2026,2027
+D72,Other disorders of white blood cells,,2016,2027
+D72.0,Genetic anomalies of leukocytes,D72,2016,2027
+D72.1,Eosinophilia,D72,2016,2027
+D72.10,"Eosinophilia, unspecified",D72.1,2021,2027
+D72.11,Hypereosinophilic syndrome [HES],D72.1,2021,2027
+D72.110,Idiopathic hypereosinophilic syndrome [IHES],D72.11,2021,2027
+D72.111,Lymphocytic Variant Hypereosinophilic Syndrome [LHES],D72.11,2021,2027
+D72.118,Other hypereosinophilic syndrome,D72.11,2021,2027
+D72.119,"Hypereosinophilic syndrome [HES], unspecified",D72.11,2021,2027
+D72.12,Drug rash with eosinophilia and systemic symptoms syndrome,D72.1,2021,2027
+D72.18,Eosinophilia in diseases classified elsewhere,D72.1,2021,2027
+D72.19,Other eosinophilia,D72.1,2021,2027
+D72.8,Other specified disorders of white blood cells,D72,2016,2027
+D72.81,Decreased white blood cell count,D72.8,2016,2027
+D72.810,Lymphocytopenia,D72.81,2016,2027
+D72.818,Other decreased white blood cell count,D72.81,2016,2027
+D72.819,"Decreased white blood cell count, unspecified",D72.81,2016,2027
+D72.82,Elevated white blood cell count,D72.8,2016,2027
+D72.820,Lymphocytosis (symptomatic),D72.82,2016,2027
+D72.821,Monocytosis (symptomatic),D72.82,2016,2027
+D72.822,Plasmacytosis,D72.82,2016,2027
+D72.823,Leukemoid reaction,D72.82,2016,2027
+D72.824,Basophilia,D72.82,2016,2027
+D72.825,Bandemia,D72.82,2016,2027
+D72.828,Other elevated white blood cell count,D72.82,2016,2027
+D72.829,"Elevated white blood cell count, unspecified",D72.82,2016,2027
+D72.89,Other specified disorders of white blood cells,D72.8,2016,2027
+D72.9,"Disorder of white blood cells, unspecified",D72,2016,2027
+D73,Diseases of spleen,,2016,2027
+D73.0,Hyposplenism,D73,2016,2027
+D73.1,Hypersplenism,D73,2016,2027
+D73.2,Chronic congestive splenomegaly,D73,2016,2027
+D73.3,Abscess of spleen,D73,2016,2027
+D73.4,Cyst of spleen,D73,2016,2027
+D73.5,Infarction of spleen,D73,2016,2027
+D73.8,Other diseases of spleen,D73,2016,2027
+D73.81,Neutropenic splenomegaly,D73.8,2016,2027
+D73.89,Other diseases of spleen,D73.8,2016,2027
+D73.9,"Disease of spleen, unspecified",D73,2016,2027
+D74,Methemoglobinemia,,2016,2027
+D74.0,Congenital methemoglobinemia,D74,2016,2027
+D74.8,Other methemoglobinemias,D74,2016,2027
+D74.9,"Methemoglobinemia, unspecified",D74,2016,2027
+D75,Other and unspecified diseases of blood and blood-forming organs,,2016,2027
+D75.0,Familial erythrocytosis,D75,2016,2027
+D75.1,Secondary polycythemia,D75,2016,2027
+D75.8,Other specified diseases of blood and blood-forming organs,D75,2016,2027
+D75.81,Myelofibrosis,D75.8,2016,2027
+D75.82,Heparin induced thrombocytopenia (HIT),D75.8,2016,2027
+D75.821,Non-immune heparin-induced thrombocytopenia,D75.82,2023,2027
+D75.822,Immune-mediated heparin-induced thrombocytopenia,D75.82,2023,2027
+D75.828,Other heparin-induced thrombocytopenia syndrome,D75.82,2023,2027
+D75.829,"Heparin-induced thrombocytopenia, unspecified",D75.82,2023,2027
+D75.83,Thrombocytosis,D75.8,2022,2027
+D75.838,Other thrombocytosis,D75.83,2022,2027
+D75.839,"Thrombocytosis, unspecified",D75.83,2022,2027
+D75.84,Other platelet-activating anti-PF4 disorders,D75.8,2023,2027
+D75.89,Other specified diseases of blood and blood-forming organs,D75.8,2016,2027
+D75.9,"Disease of blood and blood-forming organs, unspecified",D75,2016,2027
+D75.A,Glucose-6-phosphate dehydrogenase (G6PD) deficiency without anemia,D75,2020,2027
+D76,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,,2016,2027
+D76.1,Hemophagocytic lymphohistiocytosis,D76,2016,2027
+D76.2,"Hemophagocytic syndrome, infection-associated",D76,2016,2027
+D76.3,Other histiocytosis syndromes,D76,2016,2027
+D77,Other disorders of blood and blood-forming organs in diseases classified elsewhere,,2016,2027
+D78,Intraoperative and postprocedural complications of the spleen,,2016,2027
+D78.0,Intraoperative hemorrhage and hematoma of the spleen complicating a procedure,D78,2016,2027
+D78.01,Intraoperative hemorrhage and hematoma of the spleen complicating a procedure on the spleen,D78.0,2016,2027
+D78.02,Intraoperative hemorrhage and hematoma of the spleen complicating other procedure,D78.0,2016,2027
+D78.1,Accidental puncture and laceration of the spleen during a procedure,D78,2016,2027
+D78.11,Accidental puncture and laceration of the spleen during a procedure on the spleen,D78.1,2016,2027
+D78.12,Accidental puncture and laceration of the spleen during other procedure,D78.1,2016,2027
+D78.2,Postprocedural hemorrhage of the spleen following a procedure,D78,2016,2027
+D78.21,Postprocedural hemorrhage of the spleen following a procedure on the spleen,D78.2,2016,2027
+D78.22,Postprocedural hemorrhage of the spleen following other procedure,D78.2,2016,2027
+D78.3,Postprocedural hematoma and seroma of the spleen following a procedure,D78,2017,2027
+D78.31,Postprocedural hematoma of the spleen following a procedure on the spleen,D78.3,2017,2027
+D78.32,Postprocedural hematoma of the spleen following other procedure,D78.3,2017,2027
+D78.33,Postprocedural seroma of the spleen following a procedure on the spleen,D78.3,2017,2027
+D78.34,Postprocedural seroma of the spleen following other procedure,D78.3,2017,2027
+D78.8,Other intraoperative and postprocedural complications of the spleen,D78,2016,2027
+D78.81,Other intraoperative complications of the spleen,D78.8,2016,2027
+D78.89,Other postprocedural complications of the spleen,D78.8,2016,2027
+D80,Immunodeficiency with predominantly antibody defects,,2016,2027
+D80.0,Hereditary hypogammaglobulinemia,D80,2016,2027
+D80.1,Nonfamilial hypogammaglobulinemia,D80,2016,2027
+D80.2,Selective deficiency of immunoglobulin A [IgA],D80,2016,2027
+D80.3,Selective deficiency of immunoglobulin G [IgG] subclasses,D80,2016,2027
+D80.4,Selective deficiency of immunoglobulin M [IgM],D80,2016,2027
+D80.5,Immunodeficiency with increased immunoglobulin M [IgM],D80,2016,2027
+D80.6,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia,D80,2016,2027
+D80.7,Transient hypogammaglobulinemia of infancy,D80,2016,2027
+D80.8,Other immunodeficiencies with predominantly antibody defects,D80,2016,2027
+D80.9,"Immunodeficiency with predominantly antibody defects, unspecified",D80,2016,2027
+D81,Combined immunodeficiencies,,2016,2027
+D81.0,Severe combined immunodeficiency [SCID] with reticular dysgenesis,D81,2016,2027
+D81.1,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers,D81,2016,2027
+D81.2,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers,D81,2016,2027
+D81.3,Adenosine deaminase [ADA] deficiency,D81,2016,2027
+D81.30,"Adenosine deaminase deficiency, unspecified",D81.3,2020,2027
+D81.31,Severe combined immunodeficiency due to adenosine deaminase deficiency,D81.3,2020,2027
+D81.32,Adenosine deaminase 2 deficiency,D81.3,2020,2027
+D81.39,Other adenosine deaminase deficiency,D81.3,2020,2027
+D81.4,Nezelof's syndrome,D81,2016,2027
+D81.5,Purine nucleoside phosphorylase [PNP] deficiency,D81,2016,2027
+D81.6,Major histocompatibility complex class I deficiency,D81,2016,2027
+D81.7,Major histocompatibility complex class II deficiency,D81,2016,2027
+D81.8,Other combined immunodeficiencies,D81,2016,2027
+D81.81,Biotin-dependent carboxylase deficiency,D81.8,2016,2027
+D81.810,Biotinidase deficiency,D81.81,2016,2027
+D81.818,Other biotin-dependent carboxylase deficiency,D81.81,2016,2027
+D81.819,"Biotin-dependent carboxylase deficiency, unspecified",D81.81,2016,2027
+D81.82,Activated Phosphoinositide 3-kinase Delta Syndrome [APDS],D81.8,2023,2027
+D81.89,Other combined immunodeficiencies,D81.8,2016,2027
+D81.9,"Combined immunodeficiency, unspecified",D81,2016,2027
+D82,Immunodeficiency associated with other major defects,,2016,2027
+D82.0,Wiskott-Aldrich syndrome,D82,2016,2027
+D82.1,Di George's syndrome,D82,2016,2027
+D82.2,Immunodeficiency with short-limbed stature,D82,2016,2027
+D82.3,Immunodeficiency following hereditary defective response to Epstein-Barr virus,D82,2016,2027
+D82.4,Hyperimmunoglobulin E [IgE] syndrome,D82,2016,2027
+D82.8,Immunodeficiency associated with other specified major defects,D82,2016,2027
+D82.9,"Immunodeficiency associated with major defect, unspecified",D82,2016,2027
+D83,Common variable immunodeficiency,,2016,2027
+D83.0,Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function,D83,2016,2027
+D83.1,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders,D83,2016,2027
+D83.2,Common variable immunodeficiency with autoantibodies to B- or T-cells,D83,2016,2027
+D83.8,Other common variable immunodeficiencies,D83,2016,2027
+D83.9,"Common variable immunodeficiency, unspecified",D83,2016,2027
+D84,Other immunodeficiencies,,2016,2027
+D84.0,Lymphocyte function antigen-1 [LFA-1] defect,D84,2016,2027
+D84.1,Defects in the complement system,D84,2016,2027
+D84.8,Other specified immunodeficiencies,D84,2016,2027
+D84.81,Immunodeficiency due to conditions classified elsewhere,D84.8,2021,2027
+D84.82,Immunodeficiency due to drugs and external causes,D84.8,2021,2027
+D84.821,Immunodeficiency due to drugs,D84.82,2021,2027
+D84.822,Immunodeficiency due to external causes,D84.82,2021,2027
+D84.89,Other immunodeficiencies,D84.8,2021,2027
+D84.9,"Immunodeficiency, unspecified",D84,2016,2027
+D86,Sarcoidosis,,2016,2027
+D86.0,Sarcoidosis of lung,D86,2016,2027
+D86.1,Sarcoidosis of lymph nodes,D86,2016,2027
+D86.2,Sarcoidosis of lung with sarcoidosis of lymph nodes,D86,2016,2027
+D86.3,Sarcoidosis of skin,D86,2016,2027
+D86.8,Sarcoidosis of other sites,D86,2016,2027
+D86.81,Sarcoid meningitis,D86.8,2016,2027
+D86.82,Multiple cranial nerve palsies in sarcoidosis,D86.8,2016,2027
+D86.83,Sarcoid iridocyclitis,D86.8,2016,2027
+D86.84,Sarcoid pyelonephritis,D86.8,2016,2027
+D86.85,Sarcoid myocarditis,D86.8,2016,2027
+D86.86,Sarcoid arthropathy,D86.8,2016,2027
+D86.87,Sarcoid myositis,D86.8,2016,2027
+D86.89,Sarcoidosis of other sites,D86.8,2016,2027
+D86.9,"Sarcoidosis, unspecified",D86,2016,2027
+D89,"Other disorders involving the immune mechanism, not elsewhere classified",,2016,2027
+D89.0,Polyclonal hypergammaglobulinemia,D89,2016,2027
+D89.1,Cryoglobulinemia,D89,2016,2027
+D89.2,"Hypergammaglobulinemia, unspecified",D89,2016,2027
+D89.3,Immune reconstitution syndrome,D89,2016,2027
+D89.4,Mast cell activation syndrome and related disorders,D89,2017,2027
+D89.40,"Mast cell activation, unspecified",D89.4,2017,2027
+D89.41,Monoclonal mast cell activation syndrome,D89.4,2017,2027
+D89.42,Idiopathic mast cell activation syndrome,D89.4,2017,2027
+D89.43,Secondary mast cell activation,D89.4,2017,2027
+D89.44,Hereditary alpha tryptasemia,D89.4,2022,2027
+D89.49,Other mast cell activation disorder,D89.4,2017,2027
+D89.8,"Other specified disorders involving the immune mechanism, not elsewhere classified",D89,2016,2027
+D89.81,Graft-versus-host disease,D89.8,2016,2027
+D89.810,Acute graft-versus-host disease,D89.81,2016,2027
+D89.811,Chronic graft-versus-host disease,D89.81,2016,2027
+D89.812,Acute on chronic graft-versus-host disease,D89.81,2016,2027
+D89.813,"Graft-versus-host disease, unspecified",D89.81,2016,2027
+D89.82,Autoimmune lymphoproliferative syndrome [ALPS],D89.8,2016,2027
+D89.83,Cytokine release syndrome,D89.8,2021,2027
+D89.831,"Cytokine release syndrome, grade 1",D89.83,2021,2027
+D89.832,"Cytokine release syndrome, grade 2",D89.83,2021,2027
+D89.833,"Cytokine release syndrome, grade 3",D89.83,2021,2027
+D89.834,"Cytokine release syndrome, grade 4",D89.83,2021,2027
+D89.835,"Cytokine release syndrome, grade 5",D89.83,2021,2027
+D89.839,"Cytokine release syndrome, grade unspecified",D89.83,2021,2027
+D89.84,IgG4-related disease,D89.8,2024,2027
+D89.89,"Other specified disorders involving the immune mechanism, not elsewhere classified",D89.8,2016,2027
+D89.9,"Disorder involving the immune mechanism, unspecified",D89,2016,2027

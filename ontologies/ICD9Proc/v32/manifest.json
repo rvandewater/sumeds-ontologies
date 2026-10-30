@@ -1,0 +1,108 @@
+{
+ "schema": "sumeds-ontology-pack/0.1",
+ "vocabulary": "ICD9Proc",
+ "release": "v32",
+ "title": "ICD-9-CM procedures, CMS v32 (final) with NCHS FY2012 tabular headers",
+ "code_format": "OMOP concept_code: dotted, e.g. 39.61",
+ "columns": [
+  "code",
+  "description",
+  "parent",
+  "first_year",
+  "last_year"
+ ],
+ "fields": {
+  "code": "code",
+  "description": "description",
+  "parent": "parent"
+ },
+ "parent": "nearest shorter truncation in the pack; 2-digit categories are roots",
+ "years": "empty: single final release",
+ "shard_key_length": 1,
+ "rows": 4648,
+ "bytes": 251787,
+ "license": "Public domain. ICD-10-CM and ICD-9-CM are published by the National Center for Health Statistics (CDC/NCHS) and ICD-10-PCS and the ICD-9-CM v32 descriptions by the Centers for Medicare & Medicaid Services (CMS). As works of the U.S. Government they are not subject to copyright in the United States (17 U.S.C. 105).",
+ "sources": [
+  {
+   "id": "icd9proc-tabular-fy2012",
+   "publisher": "CDC/NCHS",
+   "release": "FY2012 tabular list (headers)",
+   "fiscal_year": null,
+   "url": "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD9-CM/2011/Ptab12.zip",
+   "sha256": "1963e218b3b36566e8f84bae3563f2a549bb4b92ae7fbf06a9bf91ca3554d3b3",
+   "file": "Ptab12.RTF"
+  },
+  {
+   "id": "icd9-v32",
+   "publisher": "CMS",
+   "release": "v32 (FY2015, final)",
+   "fiscal_year": null,
+   "url": "https://www.cms.gov/Medicare/Coding/ICD9ProviderDiagnosticCodes/Downloads/ICD-9-CM-v32-master-descriptions.zip",
+   "sha256": "45a7d05ddcadf124af88375b64cdf068bb1e3f999ce7fdacb91f65f4e6d55f08",
+   "file": "CMS32_DESC_LONG_SG.txt"
+  }
+ ],
+ "build": "python3 scripts/build_ontology_packs.py --output ontologies ICD9Proc",
+ "shards": {
+  "0": {
+   "file": "0.csv",
+   "rows": 447,
+   "bytes": 24027,
+   "sha256": "7662de74b796aac80e92302a13d44c154d550603ecb7093eff2449c18241abfc"
+  },
+  "1": {
+   "file": "1.csv",
+   "rows": 347,
+   "bytes": 18955,
+   "sha256": "42714102158b18216b1086c536236791a8b6c0cebf4e6afdf40b1d6ed8d3cfe1"
+  },
+  "2": {
+   "file": "2.csv",
+   "rows": 268,
+   "bytes": 12135,
+   "sha256": "63416385c4e6cb3726a3a17075fb1ec0b611249e5c2206b339d2da090cc26c88"
+  },
+  "3": {
+   "file": "3.csv",
+   "rows": 498,
+   "bytes": 28283,
+   "sha256": "8ad731d56134a9b05971f36a1a05dca08f2db7c89b43d68c2f0b1275c8a7b204"
+  },
+  "4": {
+   "file": "4.csv",
+   "rows": 422,
+   "bytes": 20829,
+   "sha256": "809553940a3a36968a89a29f898ed9abd7ab7690980daf0d98af12e64034ee43"
+  },
+  "5": {
+   "file": "5.csv",
+   "rows": 418,
+   "bytes": 21021,
+   "sha256": "458f8d19b4213f9574443149cedd3ddebded5328bc294effb03538a423598fdc"
+  },
+  "6": {
+   "file": "6.csv",
+   "rows": 308,
+   "bytes": 15359,
+   "sha256": "f3735fef5efb34ac289a8b2b1524fa6106f3be01a5d43c9854fefd661687507a"
+  },
+  "7": {
+   "file": "7.csv",
+   "rows": 521,
+   "bytes": 30286,
+   "sha256": "3ad0d1d570167c01ce68e85c518e5a00fb587d3d315d3b5689dd8d804c12fae7"
+  },
+  "8": {
+   "file": "8.csv",
+   "rows": 768,
+   "bytes": 39341,
+   "sha256": "cdcaca6155088f35186898f43328dbf3d1dabae8fac3c3df14a449441e7102db"
+  },
+  "9": {
+   "file": "9.csv",
+   "rows": 651,
+   "bytes": 41551,
+   "sha256": "84cf238659d20ea2e48634bc19d7e5c3ef3783a2ac61203d1c98f418573a5a48"
+  }
+ }
+}

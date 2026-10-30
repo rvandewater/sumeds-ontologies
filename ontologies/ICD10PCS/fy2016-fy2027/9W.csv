@@ -1,0 +1,203 @@
+code,description,parent,first_year,last_year
+9W,Anatomical Regions,9,2016,2027
+9WB,Manipulation,9W,2016,2027
+9WB0,Head,9WB,2016,2027
+9WB0X,External,9WB0,2016,2027
+9WB0XB,Non-Manual,9WB0X,2016,2027
+9WB0XBZ,"Chiropractic Manipulation of Head, Non-Manual",9WB0XB,2016,2027
+9WB0XC,Indirect Visceral,9WB0X,2016,2027
+9WB0XCZ,"Chiropractic Manipulation of Head, Indirect Visceral",9WB0XC,2016,2027
+9WB0XD,Extra-Articular,9WB0X,2016,2027
+9WB0XDZ,"Chiropractic Manipulation of Head, Extra-Articular",9WB0XD,2016,2027
+9WB0XF,Direct Visceral,9WB0X,2016,2027
+9WB0XFZ,"Chiropractic Manipulation of Head, Direct Visceral",9WB0XF,2016,2027
+9WB0XG,Long Lever Specific Contact,9WB0X,2016,2027
+9WB0XGZ,"Chiropractic Manipulation of Head, Long Lever Specific Contact",9WB0XG,2016,2027
+9WB0XH,Short Lever Specific Contact,9WB0X,2016,2027
+9WB0XHZ,"Chiropractic Manipulation of Head, Short Lever Specific Contact",9WB0XH,2016,2027
+9WB0XJ,Long and Short Lever Specific Contact,9WB0X,2016,2027
+9WB0XJZ,"Chiropractic Manipulation of Head, Long and Short Lever Specific Contact",9WB0XJ,2016,2027
+9WB0XK,Mechanically Assisted,9WB0X,2016,2027
+9WB0XKZ,"Chiropractic Manipulation of Head, Mechanically Assisted",9WB0XK,2016,2027
+9WB0XL,Other Method,9WB0X,2016,2027
+9WB0XLZ,"Chiropractic Manipulation of Head, Other Method",9WB0XL,2016,2027
+9WB1,Cervical,9WB,2016,2027
+9WB1X,External,9WB1,2016,2027
+9WB1XB,Non-Manual,9WB1X,2016,2027
+9WB1XBZ,"Chiropractic Manipulation of Cervical Region, Non-Manual",9WB1XB,2016,2027
+9WB1XC,Indirect Visceral,9WB1X,2016,2027
+9WB1XCZ,"Chiropractic Manipulation of Cervical Region, Indirect Visceral",9WB1XC,2016,2027
+9WB1XD,Extra-Articular,9WB1X,2016,2027
+9WB1XDZ,"Chiropractic Manipulation of Cervical Region, Extra-Articular",9WB1XD,2016,2027
+9WB1XF,Direct Visceral,9WB1X,2016,2027
+9WB1XFZ,"Chiropractic Manipulation of Cervical Region, Direct Visceral",9WB1XF,2016,2027
+9WB1XG,Long Lever Specific Contact,9WB1X,2016,2027
+9WB1XGZ,"Chiropractic Manipulation of Cervical Region, Long Lever Specific Contact",9WB1XG,2016,2027
+9WB1XH,Short Lever Specific Contact,9WB1X,2016,2027
+9WB1XHZ,"Chiropractic Manipulation of Cervical Region, Short Lever Specific Contact",9WB1XH,2016,2027
+9WB1XJ,Long and Short Lever Specific Contact,9WB1X,2016,2027
+9WB1XJZ,"Chiropractic Manipulation of Cervical Region, Long and Short Lever Specific Contact",9WB1XJ,2016,2027
+9WB1XK,Mechanically Assisted,9WB1X,2016,2027
+9WB1XKZ,"Chiropractic Manipulation of Cervical Region, Mechanically Assisted",9WB1XK,2016,2027
+9WB1XL,Other Method,9WB1X,2016,2027
+9WB1XLZ,"Chiropractic Manipulation of Cervical Region, Other Method",9WB1XL,2016,2027
+9WB2,Thoracic,9WB,2016,2027
+9WB2X,External,9WB2,2016,2027
+9WB2XB,Non-Manual,9WB2X,2016,2027
+9WB2XBZ,"Chiropractic Manipulation of Thoracic Region, Non-Manual",9WB2XB,2016,2027
+9WB2XC,Indirect Visceral,9WB2X,2016,2027
+9WB2XCZ,"Chiropractic Manipulation of Thoracic Region, Indirect Visceral",9WB2XC,2016,2027
+9WB2XD,Extra-Articular,9WB2X,2016,2027
+9WB2XDZ,"Chiropractic Manipulation of Thoracic Region, Extra-Articular",9WB2XD,2016,2027
+9WB2XF,Direct Visceral,9WB2X,2016,2027
+9WB2XFZ,"Chiropractic Manipulation of Thoracic Region, Direct Visceral",9WB2XF,2016,2027
+9WB2XG,Long Lever Specific Contact,9WB2X,2016,2027
+9WB2XGZ,"Chiropractic Manipulation of Thoracic Region, Long Lever Specific Contact",9WB2XG,2016,2027
+9WB2XH,Short Lever Specific Contact,9WB2X,2016,2027
+9WB2XHZ,"Chiropractic Manipulation of Thoracic Region, Short Lever Specific Contact",9WB2XH,2016,2027
+9WB2XJ,Long and Short Lever Specific Contact,9WB2X,2016,2027
+9WB2XJZ,"Chiropractic Manipulation of Thoracic Region, Long and Short Lever Specific Contact",9WB2XJ,2016,2027
+9WB2XK,Mechanically Assisted,9WB2X,2016,2027
+9WB2XKZ,"Chiropractic Manipulation of Thoracic Region, Mechanically Assisted",9WB2XK,2016,2027
+9WB2XL,Other Method,9WB2X,2016,2027
+9WB2XLZ,"Chiropractic Manipulation of Thoracic Region, Other Method",9WB2XL,2016,2027
+9WB3,Lumbar,9WB,2016,2027
+9WB3X,External,9WB3,2016,2027
+9WB3XB,Non-Manual,9WB3X,2016,2027
+9WB3XBZ,"Chiropractic Manipulation of Lumbar Region, Non-Manual",9WB3XB,2016,2027
+9WB3XC,Indirect Visceral,9WB3X,2016,2027
+9WB3XCZ,"Chiropractic Manipulation of Lumbar Region, Indirect Visceral",9WB3XC,2016,2027
+9WB3XD,Extra-Articular,9WB3X,2016,2027
+9WB3XDZ,"Chiropractic Manipulation of Lumbar Region, Extra-Articular",9WB3XD,2016,2027
+9WB3XF,Direct Visceral,9WB3X,2016,2027
+9WB3XFZ,"Chiropractic Manipulation of Lumbar Region, Direct Visceral",9WB3XF,2016,2027
+9WB3XG,Long Lever Specific Contact,9WB3X,2016,2027
+9WB3XGZ,"Chiropractic Manipulation of Lumbar Region, Long Lever Specific Contact",9WB3XG,2016,2027
+9WB3XH,Short Lever Specific Contact,9WB3X,2016,2027
+9WB3XHZ,"Chiropractic Manipulation of Lumbar Region, Short Lever Specific Contact",9WB3XH,2016,2027
+9WB3XJ,Long and Short Lever Specific Contact,9WB3X,2016,2027
+9WB3XJZ,"Chiropractic Manipulation of Lumbar Region, Long and Short Lever Specific Contact",9WB3XJ,2016,2027
+9WB3XK,Mechanically Assisted,9WB3X,2016,2027
+9WB3XKZ,"Chiropractic Manipulation of Lumbar Region, Mechanically Assisted",9WB3XK,2016,2027
+9WB3XL,Other Method,9WB3X,2016,2027
+9WB3XLZ,"Chiropractic Manipulation of Lumbar Region, Other Method",9WB3XL,2016,2027
+9WB4,Sacrum,9WB,2016,2027
+9WB4X,External,9WB4,2016,2027
+9WB4XB,Non-Manual,9WB4X,2016,2027
+9WB4XBZ,"Chiropractic Manipulation of Sacrum, Non-Manual",9WB4XB,2016,2027
+9WB4XC,Indirect Visceral,9WB4X,2016,2027
+9WB4XCZ,"Chiropractic Manipulation of Sacrum, Indirect Visceral",9WB4XC,2016,2027
+9WB4XD,Extra-Articular,9WB4X,2016,2027
+9WB4XDZ,"Chiropractic Manipulation of Sacrum, Extra-Articular",9WB4XD,2016,2027
+9WB4XF,Direct Visceral,9WB4X,2016,2027
+9WB4XFZ,"Chiropractic Manipulation of Sacrum, Direct Visceral",9WB4XF,2016,2027
+9WB4XG,Long Lever Specific Contact,9WB4X,2016,2027
+9WB4XGZ,"Chiropractic Manipulation of Sacrum, Long Lever Specific Contact",9WB4XG,2016,2027
+9WB4XH,Short Lever Specific Contact,9WB4X,2016,2027
+9WB4XHZ,"Chiropractic Manipulation of Sacrum, Short Lever Specific Contact",9WB4XH,2016,2027
+9WB4XJ,Long and Short Lever Specific Contact,9WB4X,2016,2027
+9WB4XJZ,"Chiropractic Manipulation of Sacrum, Long and Short Lever Specific Contact",9WB4XJ,2016,2027
+9WB4XK,Mechanically Assisted,9WB4X,2016,2027
+9WB4XKZ,"Chiropractic Manipulation of Sacrum, Mechanically Assisted",9WB4XK,2016,2027
+9WB4XL,Other Method,9WB4X,2016,2027
+9WB4XLZ,"Chiropractic Manipulation of Sacrum, Other Method",9WB4XL,2016,2027
+9WB5,Pelvis,9WB,2016,2027
+9WB5X,External,9WB5,2016,2027
+9WB5XB,Non-Manual,9WB5X,2016,2027
+9WB5XBZ,"Chiropractic Manipulation of Pelvis, Non-Manual",9WB5XB,2016,2027
+9WB5XC,Indirect Visceral,9WB5X,2016,2027
+9WB5XCZ,"Chiropractic Manipulation of Pelvis, Indirect Visceral",9WB5XC,2016,2027
+9WB5XD,Extra-Articular,9WB5X,2016,2027
+9WB5XDZ,"Chiropractic Manipulation of Pelvis, Extra-Articular",9WB5XD,2016,2027
+9WB5XF,Direct Visceral,9WB5X,2016,2027
+9WB5XFZ,"Chiropractic Manipulation of Pelvis, Direct Visceral",9WB5XF,2016,2027
+9WB5XG,Long Lever Specific Contact,9WB5X,2016,2027
+9WB5XGZ,"Chiropractic Manipulation of Pelvis, Long Lever Specific Contact",9WB5XG,2016,2027
+9WB5XH,Short Lever Specific Contact,9WB5X,2016,2027
+9WB5XHZ,"Chiropractic Manipulation of Pelvis, Short Lever Specific Contact",9WB5XH,2016,2027
+9WB5XJ,Long and Short Lever Specific Contact,9WB5X,2016,2027
+9WB5XJZ,"Chiropractic Manipulation of Pelvis, Long and Short Lever Specific Contact",9WB5XJ,2016,2027
+9WB5XK,Mechanically Assisted,9WB5X,2016,2027
+9WB5XKZ,"Chiropractic Manipulation of Pelvis, Mechanically Assisted",9WB5XK,2016,2027
+9WB5XL,Other Method,9WB5X,2016,2027
+9WB5XLZ,"Chiropractic Manipulation of Pelvis, Other Method",9WB5XL,2016,2027
+9WB6,Lower Extremities,9WB,2016,2027
+9WB6X,External,9WB6,2016,2027
+9WB6XB,Non-Manual,9WB6X,2016,2027
+9WB6XBZ,"Chiropractic Manipulation of Lower Extremities, Non-Manual",9WB6XB,2016,2027
+9WB6XC,Indirect Visceral,9WB6X,2016,2027
+9WB6XCZ,"Chiropractic Manipulation of Lower Extremities, Indirect Visceral",9WB6XC,2016,2027
+9WB6XD,Extra-Articular,9WB6X,2016,2027
+9WB6XDZ,"Chiropractic Manipulation of Lower Extremities, Extra-Articular",9WB6XD,2016,2027
+9WB6XF,Direct Visceral,9WB6X,2016,2027
+9WB6XFZ,"Chiropractic Manipulation of Lower Extremities, Direct Visceral",9WB6XF,2016,2027
+9WB6XG,Long Lever Specific Contact,9WB6X,2016,2027
+9WB6XGZ,"Chiropractic Manipulation of Lower Extremities, Long Lever Specific Contact",9WB6XG,2016,2027
+9WB6XH,Short Lever Specific Contact,9WB6X,2016,2027
+9WB6XHZ,"Chiropractic Manipulation of Lower Extremities, Short Lever Specific Contact",9WB6XH,2016,2027
+9WB6XJ,Long and Short Lever Specific Contact,9WB6X,2016,2027
+9WB6XJZ,"Chiropractic Manipulation of Lower Extremities, Long and Short Lever Specific Contact",9WB6XJ,2016,2027
+9WB6XK,Mechanically Assisted,9WB6X,2016,2027
+9WB6XKZ,"Chiropractic Manipulation of Lower Extremities, Mechanically Assisted",9WB6XK,2016,2027
+9WB6XL,Other Method,9WB6X,2016,2027
+9WB6XLZ,"Chiropractic Manipulation of Lower Extremities, Other Method",9WB6XL,2016,2027
+9WB7,Upper Extremities,9WB,2016,2027
+9WB7X,External,9WB7,2016,2027
+9WB7XB,Non-Manual,9WB7X,2016,2027
+9WB7XBZ,"Chiropractic Manipulation of Upper Extremities, Non-Manual",9WB7XB,2016,2027
+9WB7XC,Indirect Visceral,9WB7X,2016,2027
+9WB7XCZ,"Chiropractic Manipulation of Upper Extremities, Indirect Visceral",9WB7XC,2016,2027
+9WB7XD,Extra-Articular,9WB7X,2016,2027
+9WB7XDZ,"Chiropractic Manipulation of Upper Extremities, Extra-Articular",9WB7XD,2016,2027
+9WB7XF,Direct Visceral,9WB7X,2016,2027
+9WB7XFZ,"Chiropractic Manipulation of Upper Extremities, Direct Visceral",9WB7XF,2016,2027
+9WB7XG,Long Lever Specific Contact,9WB7X,2016,2027
+9WB7XGZ,"Chiropractic Manipulation of Upper Extremities, Long Lever Specific Contact",9WB7XG,2016,2027
+9WB7XH,Short Lever Specific Contact,9WB7X,2016,2027
+9WB7XHZ,"Chiropractic Manipulation of Upper Extremities, Short Lever Specific Contact",9WB7XH,2016,2027
+9WB7XJ,Long and Short Lever Specific Contact,9WB7X,2016,2027
+9WB7XJZ,"Chiropractic Manipulation of Upper Extremities, Long and Short Lever Specific Contact",9WB7XJ,2016,2027
+9WB7XK,Mechanically Assisted,9WB7X,2016,2027
+9WB7XKZ,"Chiropractic Manipulation of Upper Extremities, Mechanically Assisted",9WB7XK,2016,2027
+9WB7XL,Other Method,9WB7X,2016,2027
+9WB7XLZ,"Chiropractic Manipulation of Upper Extremities, Other Method",9WB7XL,2016,2027
+9WB8,Rib Cage,9WB,2016,2027
+9WB8X,External,9WB8,2016,2027
+9WB8XB,Non-Manual,9WB8X,2016,2027
+9WB8XBZ,"Chiropractic Manipulation of Rib Cage, Non-Manual",9WB8XB,2016,2027
+9WB8XC,Indirect Visceral,9WB8X,2016,2027
+9WB8XCZ,"Chiropractic Manipulation of Rib Cage, Indirect Visceral",9WB8XC,2016,2027
+9WB8XD,Extra-Articular,9WB8X,2016,2027
+9WB8XDZ,"Chiropractic Manipulation of Rib Cage, Extra-Articular",9WB8XD,2016,2027
+9WB8XF,Direct Visceral,9WB8X,2016,2027
+9WB8XFZ,"Chiropractic Manipulation of Rib Cage, Direct Visceral",9WB8XF,2016,2027
+9WB8XG,Long Lever Specific Contact,9WB8X,2016,2027
+9WB8XGZ,"Chiropractic Manipulation of Rib Cage, Long Lever Specific Contact",9WB8XG,2016,2027
+9WB8XH,Short Lever Specific Contact,9WB8X,2016,2027
+9WB8XHZ,"Chiropractic Manipulation of Rib Cage, Short Lever Specific Contact",9WB8XH,2016,2027
+9WB8XJ,Long and Short Lever Specific Contact,9WB8X,2016,2027
+9WB8XJZ,"Chiropractic Manipulation of Rib Cage, Long and Short Lever Specific Contact",9WB8XJ,2016,2027
+9WB8XK,Mechanically Assisted,9WB8X,2016,2027
+9WB8XKZ,"Chiropractic Manipulation of Rib Cage, Mechanically Assisted",9WB8XK,2016,2027
+9WB8XL,Other Method,9WB8X,2016,2027
+9WB8XLZ,"Chiropractic Manipulation of Rib Cage, Other Method",9WB8XL,2016,2027
+9WB9,Abdomen,9WB,2016,2027
+9WB9X,External,9WB9,2016,2027
+9WB9XB,Non-Manual,9WB9X,2016,2027
+9WB9XBZ,"Chiropractic Manipulation of Abdomen, Non-Manual",9WB9XB,2016,2027
+9WB9XC,Indirect Visceral,9WB9X,2016,2027
+9WB9XCZ,"Chiropractic Manipulation of Abdomen, Indirect Visceral",9WB9XC,2016,2027
+9WB9XD,Extra-Articular,9WB9X,2016,2027
+9WB9XDZ,"Chiropractic Manipulation of Abdomen, Extra-Articular",9WB9XD,2016,2027
+9WB9XF,Direct Visceral,9WB9X,2016,2027
+9WB9XFZ,"Chiropractic Manipulation of Abdomen, Direct Visceral",9WB9XF,2016,2027
+9WB9XG,Long Lever Specific Contact,9WB9X,2016,2027
+9WB9XGZ,"Chiropractic Manipulation of Abdomen, Long Lever Specific Contact",9WB9XG,2016,2027
+9WB9XH,Short Lever Specific Contact,9WB9X,2016,2027
+9WB9XHZ,"Chiropractic Manipulation of Abdomen, Short Lever Specific Contact",9WB9XH,2016,2027
+9WB9XJ,Long and Short Lever Specific Contact,9WB9X,2016,2027
+9WB9XJZ,"Chiropractic Manipulation of Abdomen, Long and Short Lever Specific Contact",9WB9XJ,2016,2027
+9WB9XK,Mechanically Assisted,9WB9X,2016,2027
+9WB9XKZ,"Chiropractic Manipulation of Abdomen, Mechanically Assisted",9WB9XK,2016,2027
+9WB9XL,Other Method,9WB9X,2016,2027
+9WB9XLZ,"Chiropractic Manipulation of Abdomen, Other Method",9WB9XL,2016,2027

@@ -1,0 +1,696 @@
+code,description,parent,first_year,last_year
+A00,Cholera,,2016,2027
+A00.0,"Cholera due to Vibrio cholerae 01, biovar cholerae",A00,2016,2027
+A00.1,"Cholera due to Vibrio cholerae 01, biovar eltor",A00,2016,2027
+A00.9,"Cholera, unspecified",A00,2016,2027
+A01,Typhoid and paratyphoid fevers,,2016,2027
+A01.0,Typhoid fever,A01,2016,2027
+A01.00,"Typhoid fever, unspecified",A01.0,2016,2027
+A01.01,Typhoid meningitis,A01.0,2016,2027
+A01.02,Typhoid fever with heart involvement,A01.0,2016,2027
+A01.03,Typhoid pneumonia,A01.0,2016,2027
+A01.04,Typhoid arthritis,A01.0,2016,2027
+A01.05,Typhoid osteomyelitis,A01.0,2016,2027
+A01.09,Typhoid fever with other complications,A01.0,2016,2027
+A01.1,Paratyphoid fever A,A01,2016,2027
+A01.2,Paratyphoid fever B,A01,2016,2027
+A01.3,Paratyphoid fever C,A01,2016,2027
+A01.4,"Paratyphoid fever, unspecified",A01,2016,2027
+A02,Other salmonella infections,,2016,2027
+A02.0,Salmonella enteritis,A02,2016,2027
+A02.1,Salmonella sepsis,A02,2016,2027
+A02.2,Localized salmonella infections,A02,2016,2027
+A02.20,"Localized salmonella infection, unspecified",A02.2,2016,2027
+A02.21,Salmonella meningitis,A02.2,2016,2027
+A02.22,Salmonella pneumonia,A02.2,2016,2027
+A02.23,Salmonella arthritis,A02.2,2016,2027
+A02.24,Salmonella osteomyelitis,A02.2,2016,2027
+A02.25,Salmonella pyelonephritis,A02.2,2016,2027
+A02.29,Salmonella with other localized infection,A02.2,2016,2027
+A02.8,Other specified salmonella infections,A02,2016,2027
+A02.9,"Salmonella infection, unspecified",A02,2016,2027
+A03,Shigellosis,,2016,2027
+A03.0,Shigellosis due to Shigella dysenteriae,A03,2016,2027
+A03.1,Shigellosis due to Shigella flexneri,A03,2016,2027
+A03.2,Shigellosis due to Shigella boydii,A03,2016,2027
+A03.3,Shigellosis due to Shigella sonnei,A03,2016,2027
+A03.8,Other shigellosis,A03,2016,2027
+A03.9,"Shigellosis, unspecified",A03,2016,2027
+A04,Other bacterial intestinal infections,,2016,2027
+A04.0,Enteropathogenic Escherichia coli infection,A04,2016,2027
+A04.1,Enterotoxigenic Escherichia coli infection,A04,2016,2027
+A04.2,Enteroinvasive Escherichia coli infection,A04,2016,2027
+A04.3,Enterohemorrhagic Escherichia coli infection,A04,2016,2027
+A04.4,Other intestinal Escherichia coli infections,A04,2016,2027
+A04.5,Campylobacter enteritis,A04,2016,2027
+A04.6,Enteritis due to Yersinia enterocolitica,A04,2016,2027
+A04.7,Enterocolitis due to Clostridium difficile,A04,2016,2027
+A04.71,"Enterocolitis due to Clostridium difficile, recurrent",A04.7,2018,2027
+A04.72,"Enterocolitis due to Clostridium difficile, not specified as recurrent",A04.7,2018,2027
+A04.8,Other specified bacterial intestinal infections,A04,2016,2027
+A04.9,"Bacterial intestinal infection, unspecified",A04,2016,2027
+A05,"Other bacterial foodborne intoxications, not elsewhere classified",,2016,2027
+A05.0,Foodborne staphylococcal intoxication,A05,2016,2027
+A05.1,Botulism food poisoning,A05,2016,2027
+A05.2,Foodborne Clostridium perfringens [Clostridium welchii] intoxication,A05,2016,2027
+A05.3,Foodborne Vibrio parahaemolyticus intoxication,A05,2016,2027
+A05.4,Foodborne Bacillus cereus intoxication,A05,2016,2027
+A05.5,Foodborne Vibrio vulnificus intoxication,A05,2016,2027
+A05.8,Other specified bacterial foodborne intoxications,A05,2016,2027
+A05.9,"Bacterial foodborne intoxication, unspecified",A05,2016,2027
+A06,Amebiasis,,2016,2027
+A06.0,Acute amebic dysentery,A06,2016,2027
+A06.1,Chronic intestinal amebiasis,A06,2016,2027
+A06.2,Amebic nondysenteric colitis,A06,2016,2027
+A06.3,Ameboma of intestine,A06,2016,2027
+A06.4,Amebic liver abscess,A06,2016,2027
+A06.5,Amebic lung abscess,A06,2016,2027
+A06.6,Amebic brain abscess,A06,2016,2027
+A06.7,Cutaneous amebiasis,A06,2016,2027
+A06.8,Amebic infection of other sites,A06,2016,2027
+A06.81,Amebic cystitis,A06.8,2016,2027
+A06.82,Other amebic genitourinary infections,A06.8,2016,2027
+A06.89,Other amebic infections,A06.8,2016,2027
+A06.9,"Amebiasis, unspecified",A06,2016,2027
+A07,Other protozoal intestinal diseases,,2016,2027
+A07.0,Balantidiasis,A07,2016,2027
+A07.1,Giardiasis [lambliasis],A07,2016,2027
+A07.2,Cryptosporidiosis,A07,2016,2027
+A07.3,Isosporiasis,A07,2016,2027
+A07.4,Cyclosporiasis,A07,2016,2027
+A07.8,Other specified protozoal intestinal diseases,A07,2016,2027
+A07.9,"Protozoal intestinal disease, unspecified",A07,2016,2027
+A08,Viral and other specified intestinal infections,,2016,2027
+A08.0,Rotaviral enteritis,A08,2016,2027
+A08.1,Acute gastroenteropathy due to Norwalk agent and other small round viruses,A08,2016,2027
+A08.11,Acute gastroenteropathy due to Norwalk agent,A08.1,2016,2027
+A08.19,Acute gastroenteropathy due to other small round viruses,A08.1,2016,2027
+A08.2,Adenoviral enteritis,A08,2016,2027
+A08.3,Other viral enteritis,A08,2016,2027
+A08.31,Calicivirus enteritis,A08.3,2016,2027
+A08.32,Astrovirus enteritis,A08.3,2016,2027
+A08.39,Other viral enteritis,A08.3,2016,2027
+A08.4,"Viral intestinal infection, unspecified",A08,2016,2027
+A08.8,Other specified intestinal infections,A08,2016,2027
+A09,"Infectious gastroenteritis and colitis, unspecified",,2016,2027
+A15,Respiratory tuberculosis,,2016,2027
+A15.0,Tuberculosis of lung,A15,2016,2027
+A15.4,Tuberculosis of intrathoracic lymph nodes,A15,2016,2027
+A15.5,"Tuberculosis of larynx, trachea and bronchus",A15,2016,2027
+A15.6,Tuberculous pleurisy,A15,2016,2027
+A15.7,Primary respiratory tuberculosis,A15,2016,2027
+A15.8,Other respiratory tuberculosis,A15,2016,2027
+A15.9,Respiratory tuberculosis unspecified,A15,2016,2027
+A17,Tuberculosis of nervous system,,2016,2027
+A17.0,Tuberculous meningitis,A17,2016,2027
+A17.1,Meningeal tuberculoma,A17,2016,2027
+A17.8,Other tuberculosis of nervous system,A17,2016,2027
+A17.81,Tuberculoma of brain and spinal cord,A17.8,2016,2027
+A17.82,Tuberculous meningoencephalitis,A17.8,2016,2027
+A17.83,Tuberculous neuritis,A17.8,2016,2027
+A17.89,Other tuberculosis of nervous system,A17.8,2016,2027
+A17.9,"Tuberculosis of nervous system, unspecified",A17,2016,2027
+A18,Tuberculosis of other organs,,2016,2027
+A18.0,Tuberculosis of bones and joints,A18,2016,2027
+A18.01,Tuberculosis of spine,A18.0,2016,2027
+A18.02,Tuberculous arthritis of other joints,A18.0,2016,2027
+A18.03,Tuberculosis of other bones,A18.0,2016,2027
+A18.09,Other musculoskeletal tuberculosis,A18.0,2016,2027
+A18.1,Tuberculosis of genitourinary system,A18,2016,2027
+A18.10,"Tuberculosis of genitourinary system, unspecified",A18.1,2016,2027
+A18.11,Tuberculosis of kidney and ureter,A18.1,2016,2027
+A18.12,Tuberculosis of bladder,A18.1,2016,2027
+A18.13,Tuberculosis of other urinary organs,A18.1,2016,2027
+A18.14,Tuberculosis of prostate,A18.1,2016,2027
+A18.15,Tuberculosis of other male genital organs,A18.1,2016,2027
+A18.16,Tuberculosis of cervix,A18.1,2016,2027
+A18.17,Tuberculous female pelvic inflammatory disease,A18.1,2016,2027
+A18.18,Tuberculosis of other female genital organs,A18.1,2016,2027
+A18.2,Tuberculous peripheral lymphadenopathy,A18,2016,2027
+A18.3,"Tuberculosis of intestines, peritoneum and mesenteric glands",A18,2016,2027
+A18.31,Tuberculous peritonitis,A18.3,2016,2027
+A18.32,Tuberculous enteritis,A18.3,2016,2027
+A18.39,Retroperitoneal tuberculosis,A18.3,2016,2027
+A18.4,Tuberculosis of skin and subcutaneous tissue,A18,2016,2027
+A18.5,Tuberculosis of eye,A18,2016,2027
+A18.50,"Tuberculosis of eye, unspecified",A18.5,2016,2027
+A18.51,Tuberculous episcleritis,A18.5,2016,2027
+A18.52,Tuberculous keratitis,A18.5,2016,2027
+A18.53,Tuberculous chorioretinitis,A18.5,2016,2027
+A18.54,Tuberculous iridocyclitis,A18.5,2016,2027
+A18.59,Other tuberculosis of eye,A18.5,2016,2027
+A18.6,Tuberculosis of (inner) (middle) ear,A18,2016,2027
+A18.7,Tuberculosis of adrenal glands,A18,2016,2027
+A18.8,Tuberculosis of other specified organs,A18,2016,2027
+A18.81,Tuberculosis of thyroid gland,A18.8,2016,2027
+A18.82,Tuberculosis of other endocrine glands,A18.8,2016,2027
+A18.83,"Tuberculosis of digestive tract organs, not elsewhere classified",A18.8,2016,2027
+A18.84,Tuberculosis of heart,A18.8,2016,2027
+A18.85,Tuberculosis of spleen,A18.8,2016,2027
+A18.89,Tuberculosis of other sites,A18.8,2016,2027
+A19,Miliary tuberculosis,,2016,2027
+A19.0,Acute miliary tuberculosis of a single specified site,A19,2016,2027
+A19.1,Acute miliary tuberculosis of multiple sites,A19,2016,2027
+A19.2,"Acute miliary tuberculosis, unspecified",A19,2016,2027
+A19.8,Other miliary tuberculosis,A19,2016,2027
+A19.9,"Miliary tuberculosis, unspecified",A19,2016,2027
+A20,Plague,,2016,2027
+A20.0,Bubonic plague,A20,2016,2027
+A20.1,Cellulocutaneous plague,A20,2016,2027
+A20.2,Pneumonic plague,A20,2016,2027
+A20.3,Plague meningitis,A20,2016,2027
+A20.7,Septicemic plague,A20,2016,2027
+A20.8,Other forms of plague,A20,2016,2027
+A20.9,"Plague, unspecified",A20,2016,2027
+A21,Tularemia,,2016,2027
+A21.0,Ulceroglandular tularemia,A21,2016,2027
+A21.1,Oculoglandular tularemia,A21,2016,2027
+A21.2,Pulmonary tularemia,A21,2016,2027
+A21.3,Gastrointestinal tularemia,A21,2016,2027
+A21.7,Generalized tularemia,A21,2016,2027
+A21.8,Other forms of tularemia,A21,2016,2027
+A21.9,"Tularemia, unspecified",A21,2016,2027
+A22,Anthrax,,2016,2027
+A22.0,Cutaneous anthrax,A22,2016,2027
+A22.1,Pulmonary anthrax,A22,2016,2027
+A22.2,Gastrointestinal anthrax,A22,2016,2027
+A22.7,Anthrax sepsis,A22,2016,2027
+A22.8,Other forms of anthrax,A22,2016,2027
+A22.9,"Anthrax, unspecified",A22,2016,2027
+A23,Brucellosis,,2016,2027
+A23.0,Brucellosis due to Brucella melitensis,A23,2016,2027
+A23.1,Brucellosis due to Brucella abortus,A23,2016,2027
+A23.2,Brucellosis due to Brucella suis,A23,2016,2027
+A23.3,Brucellosis due to Brucella canis,A23,2016,2027
+A23.8,Other brucellosis,A23,2016,2027
+A23.9,"Brucellosis, unspecified",A23,2016,2027
+A24,Glanders and melioidosis,,2016,2027
+A24.0,Glanders,A24,2016,2027
+A24.1,Acute and fulminating melioidosis,A24,2016,2027
+A24.2,Subacute and chronic melioidosis,A24,2016,2027
+A24.3,Other melioidosis,A24,2016,2027
+A24.9,"Melioidosis, unspecified",A24,2016,2027
+A25,Rat-bite fevers,,2016,2027
+A25.0,Spirillosis,A25,2016,2027
+A25.1,Streptobacillosis,A25,2016,2027
+A25.9,"Rat-bite fever, unspecified",A25,2016,2027
+A26,Erysipeloid,,2016,2027
+A26.0,Cutaneous erysipeloid,A26,2016,2027
+A26.7,Erysipelothrix sepsis,A26,2016,2027
+A26.8,Other forms of erysipeloid,A26,2016,2027
+A26.9,"Erysipeloid, unspecified",A26,2016,2027
+A27,Leptospirosis,,2016,2027
+A27.0,Leptospirosis icterohemorrhagica,A27,2016,2027
+A27.8,Other forms of leptospirosis,A27,2016,2027
+A27.81,Aseptic meningitis in leptospirosis,A27.8,2016,2027
+A27.89,Other forms of leptospirosis,A27.8,2016,2027
+A27.9,"Leptospirosis, unspecified",A27,2016,2027
+A28,"Other zoonotic bacterial diseases, not elsewhere classified",,2016,2027
+A28.0,Pasteurellosis,A28,2016,2027
+A28.1,Cat-scratch disease,A28,2016,2027
+A28.2,Extraintestinal yersiniosis,A28,2016,2027
+A28.8,"Other specified zoonotic bacterial diseases, not elsewhere classified",A28,2016,2027
+A28.9,"Zoonotic bacterial disease, unspecified",A28,2016,2027
+A30,Leprosy [Hansen's disease],,2016,2027
+A30.0,Indeterminate leprosy,A30,2016,2027
+A30.1,Tuberculoid leprosy,A30,2016,2027
+A30.2,Borderline tuberculoid leprosy,A30,2016,2027
+A30.3,Borderline leprosy,A30,2016,2027
+A30.4,Borderline lepromatous leprosy,A30,2016,2027
+A30.5,Lepromatous leprosy,A30,2016,2027
+A30.8,Other forms of leprosy,A30,2016,2027
+A30.9,"Leprosy, unspecified",A30,2016,2027
+A31,Infection due to other mycobacteria,,2016,2027
+A31.0,Pulmonary mycobacterial infection,A31,2016,2027
+A31.1,Cutaneous mycobacterial infection,A31,2016,2027
+A31.2,Disseminated mycobacterium avium-intracellulare complex (DMAC),A31,2016,2027
+A31.8,Other mycobacterial infections,A31,2016,2027
+A31.9,"Mycobacterial infection, unspecified",A31,2016,2027
+A32,Listeriosis,,2016,2027
+A32.0,Cutaneous listeriosis,A32,2016,2027
+A32.1,Listerial meningitis and meningoencephalitis,A32,2016,2027
+A32.11,Listerial meningitis,A32.1,2016,2027
+A32.12,Listerial meningoencephalitis,A32.1,2016,2027
+A32.7,Listerial sepsis,A32,2016,2027
+A32.8,Other forms of listeriosis,A32,2016,2027
+A32.81,Oculoglandular listeriosis,A32.8,2016,2027
+A32.82,Listerial endocarditis,A32.8,2016,2027
+A32.89,Other forms of listeriosis,A32.8,2016,2027
+A32.9,"Listeriosis, unspecified",A32,2016,2027
+A33,Tetanus neonatorum,,2016,2027
+A34,Obstetrical tetanus,,2016,2027
+A35,Other tetanus,,2016,2027
+A36,Diphtheria,,2016,2027
+A36.0,Pharyngeal diphtheria,A36,2016,2027
+A36.1,Nasopharyngeal diphtheria,A36,2016,2027
+A36.2,Laryngeal diphtheria,A36,2016,2027
+A36.3,Cutaneous diphtheria,A36,2016,2027
+A36.8,Other diphtheria,A36,2016,2027
+A36.81,Diphtheritic cardiomyopathy,A36.8,2016,2027
+A36.82,Diphtheritic radiculomyelitis,A36.8,2016,2027
+A36.83,Diphtheritic polyneuritis,A36.8,2016,2027
+A36.84,Diphtheritic tubulo-interstitial nephropathy,A36.8,2016,2027
+A36.85,Diphtheritic cystitis,A36.8,2016,2027
+A36.86,Diphtheritic conjunctivitis,A36.8,2016,2027
+A36.89,Other diphtheritic complications,A36.8,2016,2027
+A36.9,"Diphtheria, unspecified",A36,2016,2027
+A37,Whooping cough,,2016,2027
+A37.0,Whooping cough due to Bordetella pertussis,A37,2016,2027
+A37.00,Whooping cough due to Bordetella pertussis without pneumonia,A37.0,2016,2027
+A37.01,Whooping cough due to Bordetella pertussis with pneumonia,A37.0,2016,2027
+A37.1,Whooping cough due to Bordetella parapertussis,A37,2016,2027
+A37.10,Whooping cough due to Bordetella parapertussis without pneumonia,A37.1,2016,2027
+A37.11,Whooping cough due to Bordetella parapertussis with pneumonia,A37.1,2016,2027
+A37.8,Whooping cough due to other Bordetella species,A37,2016,2027
+A37.80,Whooping cough due to other Bordetella species without pneumonia,A37.8,2016,2027
+A37.81,Whooping cough due to other Bordetella species with pneumonia,A37.8,2016,2027
+A37.9,"Whooping cough, unspecified species",A37,2016,2027
+A37.90,"Whooping cough, unspecified species without pneumonia",A37.9,2016,2027
+A37.91,"Whooping cough, unspecified species with pneumonia",A37.9,2016,2027
+A38,Scarlet fever,,2016,2027
+A38.0,Scarlet fever with otitis media,A38,2016,2027
+A38.1,Scarlet fever with myocarditis,A38,2016,2027
+A38.8,Scarlet fever with other complications,A38,2016,2027
+A38.9,"Scarlet fever, uncomplicated",A38,2016,2027
+A39,Meningococcal infection,,2016,2027
+A39.0,Meningococcal meningitis,A39,2016,2027
+A39.1,Waterhouse-Friderichsen syndrome,A39,2016,2027
+A39.2,Acute meningococcemia,A39,2016,2027
+A39.3,Chronic meningococcemia,A39,2016,2027
+A39.4,"Meningococcemia, unspecified",A39,2016,2027
+A39.5,Meningococcal heart disease,A39,2016,2027
+A39.50,"Meningococcal carditis, unspecified",A39.5,2016,2027
+A39.51,Meningococcal endocarditis,A39.5,2016,2027
+A39.52,Meningococcal myocarditis,A39.5,2016,2027
+A39.53,Meningococcal pericarditis,A39.5,2016,2027
+A39.8,Other meningococcal infections,A39,2016,2027
+A39.81,Meningococcal encephalitis,A39.8,2016,2027
+A39.82,Meningococcal retrobulbar neuritis,A39.8,2016,2027
+A39.83,Meningococcal arthritis,A39.8,2016,2027
+A39.84,Postmeningococcal arthritis,A39.8,2016,2027
+A39.89,Other meningococcal infections,A39.8,2016,2027
+A39.9,"Meningococcal infection, unspecified",A39,2016,2027
+A40,Streptococcal sepsis,,2016,2027
+A40.0,"Sepsis due to streptococcus, group A",A40,2016,2027
+A40.1,"Sepsis due to streptococcus, group B",A40,2016,2027
+A40.3,Sepsis due to Streptococcus pneumoniae,A40,2016,2027
+A40.8,Other streptococcal sepsis,A40,2016,2027
+A40.9,"Streptococcal sepsis, unspecified",A40,2016,2027
+A41,Other sepsis,,2016,2027
+A41.0,Sepsis due to Staphylococcus aureus,A41,2016,2027
+A41.01,Sepsis due to Methicillin susceptible Staphylococcus aureus,A41.0,2016,2027
+A41.02,Sepsis due to Methicillin resistant Staphylococcus aureus,A41.0,2016,2027
+A41.1,Sepsis due to other specified staphylococcus,A41,2016,2027
+A41.2,Sepsis due to unspecified staphylococcus,A41,2016,2027
+A41.3,Sepsis due to Hemophilus influenzae,A41,2016,2027
+A41.4,Sepsis due to anaerobes,A41,2016,2027
+A41.5,Sepsis due to other Gram-negative organisms,A41,2016,2027
+A41.50,"Gram-negative sepsis, unspecified",A41.5,2016,2027
+A41.51,Sepsis due to Escherichia coli [E. coli],A41.5,2016,2027
+A41.52,Sepsis due to Pseudomonas,A41.5,2016,2027
+A41.53,Sepsis due to Serratia,A41.5,2016,2027
+A41.54,Sepsis due to Acinetobacter baumannii,A41.5,2024,2027
+A41.59,Other Gram-negative sepsis,A41.5,2016,2027
+A41.8,Other specified sepsis,A41,2016,2027
+A41.81,Sepsis due to Enterococcus,A41.8,2016,2027
+A41.89,Other specified sepsis,A41.8,2016,2027
+A41.9,"Sepsis, unspecified organism",A41,2016,2027
+A42,Actinomycosis,,2016,2027
+A42.0,Pulmonary actinomycosis,A42,2016,2027
+A42.1,Abdominal actinomycosis,A42,2016,2027
+A42.2,Cervicofacial actinomycosis,A42,2016,2027
+A42.7,Actinomycotic sepsis,A42,2016,2027
+A42.8,Other forms of actinomycosis,A42,2016,2027
+A42.81,Actinomycotic meningitis,A42.8,2016,2027
+A42.82,Actinomycotic encephalitis,A42.8,2016,2027
+A42.89,Other forms of actinomycosis,A42.8,2016,2027
+A42.9,"Actinomycosis, unspecified",A42,2016,2027
+A43,Nocardiosis,,2016,2027
+A43.0,Pulmonary nocardiosis,A43,2016,2027
+A43.1,Cutaneous nocardiosis,A43,2016,2027
+A43.8,Other forms of nocardiosis,A43,2016,2027
+A43.9,"Nocardiosis, unspecified",A43,2016,2027
+A44,Bartonellosis,,2016,2027
+A44.0,Systemic bartonellosis,A44,2016,2027
+A44.1,Cutaneous and mucocutaneous bartonellosis,A44,2016,2027
+A44.8,Other forms of bartonellosis,A44,2016,2027
+A44.9,"Bartonellosis, unspecified",A44,2016,2027
+A46,Erysipelas,,2016,2027
+A48,"Other bacterial diseases, not elsewhere classified",,2016,2027
+A48.0,Gas gangrene,A48,2016,2027
+A48.1,Legionnaires' disease,A48,2016,2027
+A48.2,Nonpneumonic Legionnaires' disease [Pontiac fever],A48,2016,2027
+A48.3,Toxic shock syndrome,A48,2016,2027
+A48.4,Brazilian purpuric fever,A48,2016,2027
+A48.5,Other specified botulism,A48,2016,2027
+A48.51,Infant botulism,A48.5,2016,2027
+A48.52,Wound botulism,A48.5,2016,2027
+A48.8,Other specified bacterial diseases,A48,2016,2027
+A49,Bacterial infection of unspecified site,,2016,2027
+A49.0,"Staphylococcal infection, unspecified site",A49,2016,2027
+A49.01,"Methicillin susceptible Staphylococcus aureus infection, unspecified site",A49.0,2016,2027
+A49.02,"Methicillin resistant Staphylococcus aureus infection, unspecified site",A49.0,2016,2027
+A49.1,"Streptococcal infection, unspecified site",A49,2016,2027
+A49.2,"Hemophilus influenzae infection, unspecified site",A49,2016,2027
+A49.3,"Mycoplasma infection, unspecified site",A49,2016,2027
+A49.8,Other bacterial infections of unspecified site,A49,2016,2027
+A49.9,"Bacterial infection, unspecified",A49,2016,2027
+A50,Congenital syphilis,,2016,2027
+A50.0,"Early congenital syphilis, symptomatic",A50,2016,2027
+A50.01,Early congenital syphilitic oculopathy,A50.0,2016,2027
+A50.02,Early congenital syphilitic osteochondropathy,A50.0,2016,2027
+A50.03,Early congenital syphilitic pharyngitis,A50.0,2016,2027
+A50.04,Early congenital syphilitic pneumonia,A50.0,2016,2027
+A50.05,Early congenital syphilitic rhinitis,A50.0,2016,2027
+A50.06,Early cutaneous congenital syphilis,A50.0,2016,2027
+A50.07,Early mucocutaneous congenital syphilis,A50.0,2016,2027
+A50.08,Early visceral congenital syphilis,A50.0,2016,2027
+A50.09,"Other early congenital syphilis, symptomatic",A50.0,2016,2027
+A50.1,"Early congenital syphilis, latent",A50,2016,2027
+A50.2,"Early congenital syphilis, unspecified",A50,2016,2027
+A50.3,Late congenital syphilitic oculopathy,A50,2016,2027
+A50.30,"Late congenital syphilitic oculopathy, unspecified",A50.3,2016,2027
+A50.31,Late congenital syphilitic interstitial keratitis,A50.3,2016,2027
+A50.32,Late congenital syphilitic chorioretinitis,A50.3,2016,2027
+A50.39,Other late congenital syphilitic oculopathy,A50.3,2016,2027
+A50.4,Late congenital neurosyphilis [juvenile neurosyphilis],A50,2016,2027
+A50.40,"Late congenital neurosyphilis, unspecified",A50.4,2016,2027
+A50.41,Late congenital syphilitic meningitis,A50.4,2016,2027
+A50.42,Late congenital syphilitic encephalitis,A50.4,2016,2027
+A50.43,Late congenital syphilitic polyneuropathy,A50.4,2016,2027
+A50.44,Late congenital syphilitic optic nerve atrophy,A50.4,2016,2027
+A50.45,Juvenile general paresis,A50.4,2016,2027
+A50.49,Other late congenital neurosyphilis,A50.4,2016,2027
+A50.5,"Other late congenital syphilis, symptomatic",A50,2016,2027
+A50.51,Clutton's joints,A50.5,2016,2027
+A50.52,Hutchinson's teeth,A50.5,2016,2027
+A50.53,Hutchinson's triad,A50.5,2016,2027
+A50.54,Late congenital cardiovascular syphilis,A50.5,2016,2027
+A50.55,Late congenital syphilitic arthropathy,A50.5,2016,2027
+A50.56,Late congenital syphilitic osteochondropathy,A50.5,2016,2027
+A50.57,Syphilitic saddle nose,A50.5,2016,2027
+A50.59,"Other late congenital syphilis, symptomatic",A50.5,2016,2027
+A50.6,"Late congenital syphilis, latent",A50,2016,2027
+A50.7,"Late congenital syphilis, unspecified",A50,2016,2027
+A50.9,"Congenital syphilis, unspecified",A50,2016,2027
+A51,Early syphilis,,2016,2027
+A51.0,Primary genital syphilis,A51,2016,2027
+A51.1,Primary anal syphilis,A51,2016,2027
+A51.2,Primary syphilis of other sites,A51,2016,2027
+A51.3,Secondary syphilis of skin and mucous membranes,A51,2016,2027
+A51.31,Condyloma latum,A51.3,2016,2027
+A51.32,Syphilitic alopecia,A51.3,2016,2027
+A51.39,Other secondary syphilis of skin,A51.3,2016,2027
+A51.4,Other secondary syphilis,A51,2016,2027
+A51.41,Secondary syphilitic meningitis,A51.4,2016,2027
+A51.42,Secondary syphilitic female pelvic disease,A51.4,2016,2027
+A51.43,Secondary syphilitic oculopathy,A51.4,2016,2027
+A51.44,Secondary syphilitic nephritis,A51.4,2016,2027
+A51.45,Secondary syphilitic hepatitis,A51.4,2016,2027
+A51.46,Secondary syphilitic osteopathy,A51.4,2016,2027
+A51.49,Other secondary syphilitic conditions,A51.4,2016,2027
+A51.5,"Early syphilis, latent",A51,2016,2027
+A51.9,"Early syphilis, unspecified",A51,2016,2027
+A52,Late syphilis,,2016,2027
+A52.0,Cardiovascular and cerebrovascular syphilis,A52,2016,2027
+A52.00,"Cardiovascular syphilis, unspecified",A52.0,2016,2027
+A52.01,Syphilitic aneurysm of aorta,A52.0,2016,2027
+A52.02,Syphilitic aortitis,A52.0,2016,2027
+A52.03,Syphilitic endocarditis,A52.0,2016,2027
+A52.04,Syphilitic cerebral arteritis,A52.0,2016,2027
+A52.05,Other cerebrovascular syphilis,A52.0,2016,2027
+A52.06,Other syphilitic heart involvement,A52.0,2016,2027
+A52.09,Other cardiovascular syphilis,A52.0,2016,2027
+A52.1,Symptomatic neurosyphilis,A52,2016,2027
+A52.10,"Symptomatic neurosyphilis, unspecified",A52.1,2016,2027
+A52.11,Tabes dorsalis,A52.1,2016,2027
+A52.12,Other cerebrospinal syphilis,A52.1,2016,2027
+A52.13,Late syphilitic meningitis,A52.1,2016,2027
+A52.14,Late syphilitic encephalitis,A52.1,2016,2027
+A52.15,Late syphilitic neuropathy,A52.1,2016,2027
+A52.16,Charcot's arthropathy (tabetic),A52.1,2016,2027
+A52.17,General paresis,A52.1,2016,2027
+A52.19,Other symptomatic neurosyphilis,A52.1,2016,2027
+A52.2,Asymptomatic neurosyphilis,A52,2016,2027
+A52.3,"Neurosyphilis, unspecified",A52,2016,2027
+A52.7,Other symptomatic late syphilis,A52,2016,2027
+A52.71,Late syphilitic oculopathy,A52.7,2016,2027
+A52.72,Syphilis of lung and bronchus,A52.7,2016,2027
+A52.73,Symptomatic late syphilis of other respiratory organs,A52.7,2016,2027
+A52.74,Syphilis of liver and other viscera,A52.7,2016,2027
+A52.75,Syphilis of kidney and ureter,A52.7,2016,2027
+A52.76,Other genitourinary symptomatic late syphilis,A52.7,2016,2027
+A52.77,Syphilis of bone and joint,A52.7,2016,2027
+A52.78,Syphilis of other musculoskeletal tissue,A52.7,2016,2027
+A52.79,Other symptomatic late syphilis,A52.7,2016,2027
+A52.8,"Late syphilis, latent",A52,2016,2027
+A52.9,"Late syphilis, unspecified",A52,2016,2027
+A53,Other and unspecified syphilis,,2016,2027
+A53.0,"Latent syphilis, unspecified as early or late",A53,2016,2027
+A53.9,"Syphilis, unspecified",A53,2016,2027
+A54,Gonococcal infection,,2016,2027
+A54.0,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,A54,2016,2027
+A54.00,"Gonococcal infection of lower genitourinary tract, unspecified",A54.0,2016,2027
+A54.01,"Gonococcal cystitis and urethritis, unspecified",A54.0,2016,2027
+A54.02,"Gonococcal vulvovaginitis, unspecified",A54.0,2016,2027
+A54.03,"Gonococcal cervicitis, unspecified",A54.0,2016,2027
+A54.09,Other gonococcal infection of lower genitourinary tract,A54.0,2016,2027
+A54.1,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,A54,2016,2027
+A54.2,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,A54,2016,2027
+A54.21,Gonococcal infection of kidney and ureter,A54.2,2016,2027
+A54.22,Gonococcal prostatitis,A54.2,2016,2027
+A54.23,Gonococcal infection of other male genital organs,A54.2,2016,2027
+A54.24,Gonococcal female pelvic inflammatory disease,A54.2,2016,2027
+A54.29,Other gonococcal genitourinary infections,A54.2,2016,2027
+A54.3,Gonococcal infection of eye,A54,2016,2027
+A54.30,"Gonococcal infection of eye, unspecified",A54.3,2016,2027
+A54.31,Gonococcal conjunctivitis,A54.3,2016,2027
+A54.32,Gonococcal iridocyclitis,A54.3,2016,2027
+A54.33,Gonococcal keratitis,A54.3,2016,2027
+A54.39,Other gonococcal eye infection,A54.3,2016,2027
+A54.4,Gonococcal infection of musculoskeletal system,A54,2016,2027
+A54.40,"Gonococcal infection of musculoskeletal system, unspecified",A54.4,2016,2027
+A54.41,Gonococcal spondylopathy,A54.4,2016,2027
+A54.42,Gonococcal arthritis,A54.4,2016,2027
+A54.43,Gonococcal osteomyelitis,A54.4,2016,2027
+A54.49,Gonococcal infection of other musculoskeletal tissue,A54.4,2016,2027
+A54.5,Gonococcal pharyngitis,A54,2016,2027
+A54.6,Gonococcal infection of anus and rectum,A54,2016,2027
+A54.8,Other gonococcal infections,A54,2016,2027
+A54.81,Gonococcal meningitis,A54.8,2016,2027
+A54.82,Gonococcal brain abscess,A54.8,2016,2027
+A54.83,Gonococcal heart infection,A54.8,2016,2027
+A54.84,Gonococcal pneumonia,A54.8,2016,2027
+A54.85,Gonococcal peritonitis,A54.8,2016,2027
+A54.86,Gonococcal sepsis,A54.8,2016,2027
+A54.89,Other gonococcal infections,A54.8,2016,2027
+A54.9,"Gonococcal infection, unspecified",A54,2016,2027
+A55,Chlamydial lymphogranuloma (venereum),,2016,2027
+A56,Other sexually transmitted chlamydial diseases,,2016,2027
+A56.0,Chlamydial infection of lower genitourinary tract,A56,2016,2027
+A56.00,"Chlamydial infection of lower genitourinary tract, unspecified",A56.0,2016,2027
+A56.01,Chlamydial cystitis and urethritis,A56.0,2016,2027
+A56.02,Chlamydial vulvovaginitis,A56.0,2016,2027
+A56.09,Other chlamydial infection of lower genitourinary tract,A56.0,2016,2027
+A56.1,Chlamydial infection of pelviperitoneum and other genitourinary organs,A56,2016,2027
+A56.11,Chlamydial female pelvic inflammatory disease,A56.1,2016,2027
+A56.19,Other chlamydial genitourinary infection,A56.1,2016,2027
+A56.2,"Chlamydial infection of genitourinary tract, unspecified",A56,2016,2027
+A56.3,Chlamydial infection of anus and rectum,A56,2016,2027
+A56.4,Chlamydial infection of pharynx,A56,2016,2027
+A56.8,Sexually transmitted chlamydial infection of other sites,A56,2016,2027
+A57,Chancroid,,2016,2027
+A58,Granuloma inguinale,,2016,2027
+A59,Trichomoniasis,,2016,2027
+A59.0,Urogenital trichomoniasis,A59,2016,2027
+A59.00,"Urogenital trichomoniasis, unspecified",A59.0,2016,2027
+A59.01,Trichomonal vulvovaginitis,A59.0,2016,2027
+A59.02,Trichomonal prostatitis,A59.0,2016,2027
+A59.03,Trichomonal cystitis and urethritis,A59.0,2016,2027
+A59.09,Other urogenital trichomoniasis,A59.0,2016,2027
+A59.8,Trichomoniasis of other sites,A59,2016,2027
+A59.9,"Trichomoniasis, unspecified",A59,2016,2027
+A60,Anogenital herpesviral [herpes simplex] infections,,2016,2027
+A60.0,Herpesviral infection of genitalia and urogenital tract,A60,2016,2027
+A60.00,"Herpesviral infection of urogenital system, unspecified",A60.0,2016,2027
+A60.01,Herpesviral infection of penis,A60.0,2016,2027
+A60.02,Herpesviral infection of other male genital organs,A60.0,2016,2027
+A60.03,Herpesviral cervicitis,A60.0,2016,2027
+A60.04,Herpesviral vulvovaginitis,A60.0,2016,2027
+A60.09,Herpesviral infection of other urogenital tract,A60.0,2016,2027
+A60.1,Herpesviral infection of perianal skin and rectum,A60,2016,2027
+A60.9,"Anogenital herpesviral infection, unspecified",A60,2016,2027
+A63,"Other predominantly sexually transmitted diseases, not elsewhere classified",,2016,2027
+A63.0,Anogenital (venereal) warts,A63,2016,2027
+A63.8,Other specified predominantly sexually transmitted diseases,A63,2016,2027
+A64,Unspecified sexually transmitted disease,,2016,2027
+A65,Nonvenereal syphilis,,2016,2027
+A66,Yaws,,2016,2027
+A66.0,Initial lesions of yaws,A66,2016,2027
+A66.1,Multiple papillomata and wet crab yaws,A66,2016,2027
+A66.2,Other early skin lesions of yaws,A66,2016,2027
+A66.3,Hyperkeratosis of yaws,A66,2016,2027
+A66.4,Gummata and ulcers of yaws,A66,2016,2027
+A66.5,Gangosa,A66,2016,2027
+A66.6,Bone and joint lesions of yaws,A66,2016,2027
+A66.7,Other manifestations of yaws,A66,2016,2027
+A66.8,Latent yaws,A66,2016,2027
+A66.9,"Yaws, unspecified",A66,2016,2027
+A67,Pinta [carate],,2016,2027
+A67.0,Primary lesions of pinta,A67,2016,2027
+A67.1,Intermediate lesions of pinta,A67,2016,2027
+A67.2,Late lesions of pinta,A67,2016,2027
+A67.3,Mixed lesions of pinta,A67,2016,2027
+A67.9,"Pinta, unspecified",A67,2016,2027
+A68,Relapsing fevers,,2016,2027
+A68.0,Louse-borne relapsing fever,A68,2016,2027
+A68.1,Tick-borne relapsing fever,A68,2016,2027
+A68.9,"Relapsing fever, unspecified",A68,2016,2027
+A69,Other spirochetal infections,,2016,2027
+A69.0,Necrotizing ulcerative stomatitis,A69,2016,2027
+A69.1,Other Vincent's infections,A69,2016,2027
+A69.2,Lyme disease,A69,2016,2027
+A69.20,"Lyme disease, unspecified",A69.2,2016,2027
+A69.21,Meningitis due to Lyme disease,A69.2,2016,2027
+A69.22,Other neurologic disorders in Lyme disease,A69.2,2016,2027
+A69.23,Arthritis due to Lyme disease,A69.2,2016,2027
+A69.29,Other conditions associated with Lyme disease,A69.2,2016,2027
+A69.8,Other specified spirochetal infections,A69,2016,2027
+A69.9,"Spirochetal infection, unspecified",A69,2016,2027
+A70,Chlamydia psittaci infections,,2016,2027
+A71,Trachoma,,2016,2027
+A71.0,Initial stage of trachoma,A71,2016,2027
+A71.1,Active stage of trachoma,A71,2016,2027
+A71.9,"Trachoma, unspecified",A71,2016,2027
+A74,Other diseases caused by chlamydiae,,2016,2027
+A74.0,Chlamydial conjunctivitis,A74,2016,2027
+A74.8,Other chlamydial diseases,A74,2016,2027
+A74.81,Chlamydial peritonitis,A74.8,2016,2027
+A74.89,Other chlamydial diseases,A74.8,2016,2027
+A74.9,"Chlamydial infection, unspecified",A74,2016,2027
+A75,Typhus fever,,2016,2027
+A75.0,Epidemic louse-borne typhus fever due to Rickettsia prowazekii,A75,2016,2027
+A75.1,Recrudescent typhus [Brill's disease],A75,2016,2027
+A75.2,Typhus fever due to Rickettsia typhi,A75,2016,2027
+A75.3,Typhus fever due to Rickettsia tsutsugamushi,A75,2016,2027
+A75.9,"Typhus fever, unspecified",A75,2016,2027
+A77,Spotted fever [tick-borne rickettsioses],,2016,2027
+A77.0,Spotted fever due to Rickettsia rickettsii,A77,2016,2027
+A77.1,Spotted fever due to Rickettsia conorii,A77,2016,2027
+A77.2,Spotted fever due to Rickettsia siberica,A77,2016,2027
+A77.3,Spotted fever due to Rickettsia australis,A77,2016,2027
+A77.4,Ehrlichiosis,A77,2016,2027
+A77.40,"Ehrlichiosis, unspecified",A77.4,2016,2027
+A77.41,Ehrlichiosis chaffeensis [E. chaffeensis],A77.4,2016,2027
+A77.49,Other ehrlichiosis,A77.4,2016,2027
+A77.8,Other spotted fevers,A77,2016,2027
+A77.9,"Spotted fever, unspecified",A77,2016,2027
+A78,Q fever,,2016,2027
+A79,Other rickettsioses,,2016,2027
+A79.0,Trench fever,A79,2016,2027
+A79.1,Rickettsialpox due to Rickettsia akari,A79,2016,2027
+A79.8,Other specified rickettsioses,A79,2016,2027
+A79.81,Rickettsiosis due to Ehrlichia sennetsu,A79.8,2016,2027
+A79.82,Anaplasmosis [A. phagocytophilum],A79.8,2022,2027
+A79.89,Other specified rickettsioses,A79.8,2016,2027
+A79.9,"Rickettsiosis, unspecified",A79,2016,2027
+A80,Acute poliomyelitis,,2016,2027
+A80.0,"Acute paralytic poliomyelitis, vaccine-associated",A80,2016,2027
+A80.1,"Acute paralytic poliomyelitis, wild virus, imported",A80,2016,2027
+A80.2,"Acute paralytic poliomyelitis, wild virus, indigenous",A80,2016,2027
+A80.3,"Acute paralytic poliomyelitis, other and unspecified",A80,2016,2027
+A80.30,"Acute paralytic poliomyelitis, unspecified",A80.3,2016,2027
+A80.39,Other acute paralytic poliomyelitis,A80.3,2016,2027
+A80.4,Acute nonparalytic poliomyelitis,A80,2016,2027
+A80.9,"Acute poliomyelitis, unspecified",A80,2016,2027
+A81,Atypical virus infections of central nervous system,,2016,2027
+A81.0,Creutzfeldt-Jakob disease,A81,2016,2027
+A81.00,"Creutzfeldt-Jakob disease, unspecified",A81.0,2016,2027
+A81.01,Variant Creutzfeldt-Jakob disease,A81.0,2016,2027
+A81.09,Other Creutzfeldt-Jakob disease,A81.0,2016,2027
+A81.1,Subacute sclerosing panencephalitis,A81,2016,2027
+A81.2,Progressive multifocal leukoencephalopathy,A81,2016,2027
+A81.8,Other atypical virus infections of central nervous system,A81,2016,2027
+A81.81,Kuru,A81.8,2016,2027
+A81.82,Gerstmann-Straussler-Scheinker syndrome,A81.8,2016,2027
+A81.83,Fatal familial insomnia,A81.8,2016,2027
+A81.89,Other atypical virus infections of central nervous system,A81.8,2016,2027
+A81.9,"Atypical virus infection of central nervous system, unspecified",A81,2016,2027
+A82,Rabies,,2016,2027
+A82.0,Sylvatic rabies,A82,2016,2027
+A82.1,Urban rabies,A82,2016,2027
+A82.9,"Rabies, unspecified",A82,2016,2027
+A83,Mosquito-borne viral encephalitis,,2016,2027
+A83.0,Japanese encephalitis,A83,2016,2027
+A83.1,Western equine encephalitis,A83,2016,2027
+A83.2,Eastern equine encephalitis,A83,2016,2027
+A83.3,St Louis encephalitis,A83,2016,2027
+A83.4,Australian encephalitis,A83,2016,2027
+A83.5,California encephalitis,A83,2016,2027
+A83.6,Rocio virus disease,A83,2016,2027
+A83.8,Other mosquito-borne viral encephalitis,A83,2016,2027
+A83.9,"Mosquito-borne viral encephalitis, unspecified",A83,2016,2027
+A84,Tick-borne viral encephalitis,,2016,2027
+A84.0,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis],A84,2016,2027
+A84.1,Central European tick-borne encephalitis,A84,2016,2027
+A84.8,Other tick-borne viral encephalitis,A84,2016,2027
+A84.81,Powassan virus disease,A84.8,2021,2027
+A84.89,Other tick-borne viral encephalitis,A84.8,2021,2027
+A84.9,"Tick-borne viral encephalitis, unspecified",A84,2016,2027
+A85,"Other viral encephalitis, not elsewhere classified",,2016,2027
+A85.0,Enteroviral encephalitis,A85,2016,2027
+A85.1,Adenoviral encephalitis,A85,2016,2027
+A85.2,"Arthropod-borne viral encephalitis, unspecified",A85,2016,2027
+A85.8,Other specified viral encephalitis,A85,2016,2027
+A86,Unspecified viral encephalitis,,2016,2027
+A87,Viral meningitis,,2016,2027
+A87.0,Enteroviral meningitis,A87,2016,2027
+A87.1,Adenoviral meningitis,A87,2016,2027
+A87.2,Lymphocytic choriomeningitis,A87,2016,2027
+A87.8,Other viral meningitis,A87,2016,2027
+A87.9,"Viral meningitis, unspecified",A87,2016,2027
+A88,"Other viral infections of central nervous system, not elsewhere classified",,2016,2027
+A88.0,Enteroviral exanthematous fever [Boston exanthem],A88,2016,2027
+A88.1,Epidemic vertigo,A88,2016,2027
+A88.8,Other specified viral infections of central nervous system,A88,2016,2027
+A89,Unspecified viral infection of central nervous system,,2016,2027
+A90,Dengue fever [classical dengue],,2016,2027
+A91,Dengue hemorrhagic fever,,2016,2027
+A92,Other mosquito-borne viral fevers,,2016,2027
+A92.0,Chikungunya virus disease,A92,2016,2027
+A92.1,O'nyong-nyong fever,A92,2016,2027
+A92.2,Venezuelan equine fever,A92,2016,2027
+A92.3,West Nile virus infection,A92,2016,2027
+A92.30,"West Nile virus infection, unspecified",A92.3,2016,2027
+A92.31,West Nile virus infection with encephalitis,A92.3,2016,2027
+A92.32,West Nile virus infection with other neurologic manifestation,A92.3,2016,2027
+A92.39,West Nile virus infection with other complications,A92.3,2016,2027
+A92.4,Rift Valley fever,A92,2016,2027
+A92.5,Zika virus disease,A92,2017,2027
+A92.8,Other specified mosquito-borne viral fevers,A92,2016,2027
+A92.9,"Mosquito-borne viral fever, unspecified",A92,2016,2027
+A93,"Other arthropod-borne viral fevers, not elsewhere classified",,2016,2027
+A93.0,Oropouche virus disease,A93,2016,2027
+A93.1,Sandfly fever,A93,2016,2027
+A93.2,Colorado tick fever,A93,2016,2027
+A93.8,Other specified arthropod-borne viral fevers,A93,2016,2027
+A94,Unspecified arthropod-borne viral fever,,2016,2027
+A95,Yellow fever,,2016,2027
+A95.0,Sylvatic yellow fever,A95,2016,2027
+A95.1,Urban yellow fever,A95,2016,2027
+A95.9,"Yellow fever, unspecified",A95,2016,2027
+A96,Arenaviral hemorrhagic fever,,2016,2027
+A96.0,Junin hemorrhagic fever,A96,2016,2027
+A96.1,Machupo hemorrhagic fever,A96,2016,2027
+A96.2,Lassa fever,A96,2016,2027
+A96.8,Other arenaviral hemorrhagic fevers,A96,2016,2027
+A96.9,"Arenaviral hemorrhagic fever, unspecified",A96,2016,2027
+A98,"Other viral hemorrhagic fevers, not elsewhere classified",,2016,2027
+A98.0,Crimean-Congo hemorrhagic fever,A98,2016,2027
+A98.1,Omsk hemorrhagic fever,A98,2016,2027
+A98.2,Kyasanur Forest disease,A98,2016,2027
+A98.3,Marburg virus disease,A98,2016,2027
+A98.4,Ebola virus disease,A98,2016,2027
+A98.5,Hemorrhagic fever with renal syndrome,A98,2016,2027
+A98.8,Other specified viral hemorrhagic fevers,A98,2016,2027
+A99,Unspecified viral hemorrhagic fever,,2016,2027

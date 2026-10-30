@@ -1,0 +1,2322 @@
+code,description,parent,first_year,last_year
+0G,Endocrine System,0,2016,2027
+0G2,Change,0G,2016,2027
+0G20,Pituitary Gland,0G2,2016,2027
+0G20X,External,0G20,2016,2027
+0G20X0,Drainage Device,0G20X,2016,2027
+0G20X0Z,"Change Drainage Device in Pituitary Gland, External Approach",0G20X0,2016,2027
+0G20XY,Other Device,0G20X,2016,2027
+0G20XYZ,"Change Other Device in Pituitary Gland, External Approach",0G20XY,2016,2027
+0G21,Pineal Body,0G2,2016,2027
+0G21X,External,0G21,2016,2027
+0G21X0,Drainage Device,0G21X,2016,2027
+0G21X0Z,"Change Drainage Device in Pineal Body, External Approach",0G21X0,2016,2027
+0G21XY,Other Device,0G21X,2016,2027
+0G21XYZ,"Change Other Device in Pineal Body, External Approach",0G21XY,2016,2027
+0G25,Adrenal Gland,0G2,2016,2027
+0G25X,External,0G25,2016,2027
+0G25X0,Drainage Device,0G25X,2016,2027
+0G25X0Z,"Change Drainage Device in Adrenal Gland, External Approach",0G25X0,2016,2027
+0G25XY,Other Device,0G25X,2016,2027
+0G25XYZ,"Change Other Device in Adrenal Gland, External Approach",0G25XY,2016,2027
+0G2K,Thyroid Gland,0G2,2016,2027
+0G2KX,External,0G2K,2016,2027
+0G2KX0,Drainage Device,0G2KX,2016,2027
+0G2KX0Z,"Change Drainage Device in Thyroid Gland, External Approach",0G2KX0,2016,2027
+0G2KXY,Other Device,0G2KX,2016,2027
+0G2KXYZ,"Change Other Device in Thyroid Gland, External Approach",0G2KXY,2016,2027
+0G2R,Parathyroid Gland,0G2,2016,2027
+0G2RX,External,0G2R,2016,2027
+0G2RX0,Drainage Device,0G2RX,2016,2027
+0G2RX0Z,"Change Drainage Device in Parathyroid Gland, External Approach",0G2RX0,2016,2027
+0G2RXY,Other Device,0G2RX,2016,2027
+0G2RXYZ,"Change Other Device in Parathyroid Gland, External Approach",0G2RXY,2016,2027
+0G2S,Endocrine Gland,0G2,2016,2027
+0G2SX,External,0G2S,2016,2027
+0G2SX0,Drainage Device,0G2SX,2016,2027
+0G2SX0Z,"Change Drainage Device in Endocrine Gland, External Approach",0G2SX0,2016,2027
+0G2SXY,Other Device,0G2SX,2016,2027
+0G2SXYZ,"Change Other Device in Endocrine Gland, External Approach",0G2SXY,2016,2027
+0G5,Destruction,0G,2016,2027
+0G50,Pituitary Gland,0G5,2016,2027
+0G500,Open,0G50,2016,2027
+0G500Z,No Device,0G500,2016,2027
+0G500Z3,"Destruction of Pituitary Gland using Laser Interstitial Thermal Therapy, Open Approach",0G500Z,2023,2027
+0G500ZZ,"Destruction of Pituitary Gland, Open Approach",0G500Z,2016,2027
+0G503,Percutaneous,0G50,2016,2027
+0G503Z,No Device,0G503,2016,2027
+0G503Z3,"Destruction of Pituitary Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G503Z,2023,2027
+0G503ZZ,"Destruction of Pituitary Gland, Percutaneous Approach",0G503Z,2016,2027
+0G504,Percutaneous Endoscopic,0G50,2016,2027
+0G504Z,No Device,0G504,2016,2027
+0G504Z3,"Destruction of Pituitary Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G504Z,2023,2027
+0G504ZZ,"Destruction of Pituitary Gland, Percutaneous Endoscopic Approach",0G504Z,2016,2027
+0G51,Pineal Body,0G5,2016,2027
+0G510,Open,0G51,2016,2027
+0G510Z,No Device,0G510,2016,2027
+0G510Z3,"Destruction of Pineal Body using Laser Interstitial Thermal Therapy, Open Approach",0G510Z,2023,2027
+0G510ZZ,"Destruction of Pineal Body, Open Approach",0G510Z,2016,2027
+0G513,Percutaneous,0G51,2016,2027
+0G513Z,No Device,0G513,2016,2027
+0G513Z3,"Destruction of Pineal Body using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G513Z,2023,2027
+0G513ZZ,"Destruction of Pineal Body, Percutaneous Approach",0G513Z,2016,2027
+0G514,Percutaneous Endoscopic,0G51,2016,2027
+0G514Z,No Device,0G514,2016,2027
+0G514Z3,"Destruction of Pineal Body using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G514Z,2023,2027
+0G514ZZ,"Destruction of Pineal Body, Percutaneous Endoscopic Approach",0G514Z,2016,2027
+0G52,"Adrenal Gland, Left",0G5,2016,2027
+0G520,Open,0G52,2016,2027
+0G520Z,No Device,0G520,2016,2027
+0G520Z3,"Destruction of Left Adrenal Gland using Laser Interstitial Thermal Therapy, Open Approach",0G520Z,2023,2027
+0G520ZZ,"Destruction of Left Adrenal Gland, Open Approach",0G520Z,2016,2027
+0G523,Percutaneous,0G52,2016,2027
+0G523Z,No Device,0G523,2016,2027
+0G523Z3,"Destruction of Left Adrenal Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G523Z,2023,2027
+0G523ZZ,"Destruction of Left Adrenal Gland, Percutaneous Approach",0G523Z,2016,2027
+0G524,Percutaneous Endoscopic,0G52,2016,2027
+0G524Z,No Device,0G524,2016,2027
+0G524Z3,"Destruction of Left Adrenal Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G524Z,2023,2027
+0G524ZZ,"Destruction of Left Adrenal Gland, Percutaneous Endoscopic Approach",0G524Z,2016,2027
+0G53,"Adrenal Gland, Right",0G5,2016,2027
+0G530,Open,0G53,2016,2027
+0G530Z,No Device,0G530,2016,2027
+0G530Z3,"Destruction of Right Adrenal Gland using Laser Interstitial Thermal Therapy, Open Approach",0G530Z,2023,2027
+0G530ZZ,"Destruction of Right Adrenal Gland, Open Approach",0G530Z,2016,2027
+0G533,Percutaneous,0G53,2016,2027
+0G533Z,No Device,0G533,2016,2027
+0G533Z3,"Destruction of Right Adrenal Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G533Z,2023,2027
+0G533ZZ,"Destruction of Right Adrenal Gland, Percutaneous Approach",0G533Z,2016,2027
+0G534,Percutaneous Endoscopic,0G53,2016,2027
+0G534Z,No Device,0G534,2016,2027
+0G534Z3,"Destruction of Right Adrenal Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G534Z,2023,2027
+0G534ZZ,"Destruction of Right Adrenal Gland, Percutaneous Endoscopic Approach",0G534Z,2016,2027
+0G54,"Adrenal Glands, Bilateral",0G5,2016,2027
+0G540,Open,0G54,2016,2027
+0G540Z,No Device,0G540,2016,2027
+0G540Z3,"Destruction of Bilateral Adrenal Glands using Laser Interstitial Thermal Therapy, Open Approach",0G540Z,2023,2027
+0G540ZZ,"Destruction of Bilateral Adrenal Glands, Open Approach",0G540Z,2016,2027
+0G543,Percutaneous,0G54,2016,2027
+0G543Z,No Device,0G543,2016,2027
+0G543Z3,"Destruction of Bilateral Adrenal Glands using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G543Z,2023,2027
+0G543ZZ,"Destruction of Bilateral Adrenal Glands, Percutaneous Approach",0G543Z,2016,2027
+0G544,Percutaneous Endoscopic,0G54,2016,2027
+0G544Z,No Device,0G544,2016,2027
+0G544Z3,"Destruction of Bilateral Adrenal Glands using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G544Z,2023,2027
+0G544ZZ,"Destruction of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0G544Z,2016,2027
+0G56,"Carotid Body, Left",0G5,2016,2027
+0G560,Open,0G56,2016,2027
+0G560Z,No Device,0G560,2016,2027
+0G560Z3,"Destruction of Left Carotid Body using Laser Interstitial Thermal Therapy, Open Approach",0G560Z,2023,2027
+0G560ZZ,"Destruction of Left Carotid Body, Open Approach",0G560Z,2016,2027
+0G563,Percutaneous,0G56,2016,2027
+0G563Z,No Device,0G563,2016,2027
+0G563Z3,"Destruction of Left Carotid Body using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G563Z,2023,2027
+0G563ZZ,"Destruction of Left Carotid Body, Percutaneous Approach",0G563Z,2016,2027
+0G564,Percutaneous Endoscopic,0G56,2016,2027
+0G564Z,No Device,0G564,2016,2027
+0G564Z3,"Destruction of Left Carotid Body using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G564Z,2023,2027
+0G564ZZ,"Destruction of Left Carotid Body, Percutaneous Endoscopic Approach",0G564Z,2016,2027
+0G57,"Carotid Body, Right",0G5,2016,2027
+0G570,Open,0G57,2016,2027
+0G570Z,No Device,0G570,2016,2027
+0G570Z3,"Destruction of Right Carotid Body using Laser Interstitial Thermal Therapy, Open Approach",0G570Z,2023,2027
+0G570ZZ,"Destruction of Right Carotid Body, Open Approach",0G570Z,2016,2027
+0G573,Percutaneous,0G57,2016,2027
+0G573Z,No Device,0G573,2016,2027
+0G573Z3,"Destruction of Right Carotid Body using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G573Z,2023,2027
+0G573ZZ,"Destruction of Right Carotid Body, Percutaneous Approach",0G573Z,2016,2027
+0G574,Percutaneous Endoscopic,0G57,2016,2027
+0G574Z,No Device,0G574,2016,2027
+0G574Z3,"Destruction of Right Carotid Body using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G574Z,2023,2027
+0G574ZZ,"Destruction of Right Carotid Body, Percutaneous Endoscopic Approach",0G574Z,2016,2027
+0G58,"Carotid Bodies, Bilateral",0G5,2016,2027
+0G580,Open,0G58,2016,2027
+0G580Z,No Device,0G580,2016,2027
+0G580Z3,"Destruction of Bilateral Carotid Bodies using Laser Interstitial Thermal Therapy, Open Approach",0G580Z,2023,2027
+0G580ZZ,"Destruction of Bilateral Carotid Bodies, Open Approach",0G580Z,2016,2027
+0G583,Percutaneous,0G58,2016,2027
+0G583Z,No Device,0G583,2016,2027
+0G583Z3,"Destruction of Bilateral Carotid Bodies using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G583Z,2023,2027
+0G583ZZ,"Destruction of Bilateral Carotid Bodies, Percutaneous Approach",0G583Z,2016,2027
+0G584,Percutaneous Endoscopic,0G58,2016,2027
+0G584Z,No Device,0G584,2016,2027
+0G584Z3,"Destruction of Bilateral Carotid Bodies using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G584Z,2023,2027
+0G584ZZ,"Destruction of Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0G584Z,2016,2027
+0G59,Para-aortic Body,0G5,2016,2027
+0G590,Open,0G59,2016,2027
+0G590Z,No Device,0G590,2016,2027
+0G590Z3,"Destruction of Para-aortic Body using Laser Interstitial Thermal Therapy, Open Approach",0G590Z,2023,2027
+0G590ZZ,"Destruction of Para-aortic Body, Open Approach",0G590Z,2016,2027
+0G593,Percutaneous,0G59,2016,2027
+0G593Z,No Device,0G593,2016,2027
+0G593Z3,"Destruction of Para-aortic Body using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G593Z,2023,2027
+0G593ZZ,"Destruction of Para-aortic Body, Percutaneous Approach",0G593Z,2016,2027
+0G594,Percutaneous Endoscopic,0G59,2016,2027
+0G594Z,No Device,0G594,2016,2027
+0G594Z3,"Destruction of Para-aortic Body using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G594Z,2023,2027
+0G594ZZ,"Destruction of Para-aortic Body, Percutaneous Endoscopic Approach",0G594Z,2016,2027
+0G5B,Coccygeal Glomus,0G5,2016,2027
+0G5B0,Open,0G5B,2016,2027
+0G5B0Z,No Device,0G5B0,2016,2027
+0G5B0Z3,"Destruction of Coccygeal Glomus using Laser Interstitial Thermal Therapy, Open Approach",0G5B0Z,2023,2027
+0G5B0ZZ,"Destruction of Coccygeal Glomus, Open Approach",0G5B0Z,2016,2027
+0G5B3,Percutaneous,0G5B,2016,2027
+0G5B3Z,No Device,0G5B3,2016,2027
+0G5B3Z3,"Destruction of Coccygeal Glomus using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5B3Z,2023,2027
+0G5B3ZZ,"Destruction of Coccygeal Glomus, Percutaneous Approach",0G5B3Z,2016,2027
+0G5B4,Percutaneous Endoscopic,0G5B,2016,2027
+0G5B4Z,No Device,0G5B4,2016,2027
+0G5B4Z3,"Destruction of Coccygeal Glomus using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5B4Z,2023,2027
+0G5B4ZZ,"Destruction of Coccygeal Glomus, Percutaneous Endoscopic Approach",0G5B4Z,2016,2027
+0G5C,Glomus Jugulare,0G5,2016,2027
+0G5C0,Open,0G5C,2016,2027
+0G5C0Z,No Device,0G5C0,2016,2027
+0G5C0Z3,"Destruction of Glomus Jugulare using Laser Interstitial Thermal Therapy, Open Approach",0G5C0Z,2023,2027
+0G5C0ZZ,"Destruction of Glomus Jugulare, Open Approach",0G5C0Z,2016,2027
+0G5C3,Percutaneous,0G5C,2016,2027
+0G5C3Z,No Device,0G5C3,2016,2027
+0G5C3Z3,"Destruction of Glomus Jugulare using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5C3Z,2023,2027
+0G5C3ZZ,"Destruction of Glomus Jugulare, Percutaneous Approach",0G5C3Z,2016,2027
+0G5C4,Percutaneous Endoscopic,0G5C,2016,2027
+0G5C4Z,No Device,0G5C4,2016,2027
+0G5C4Z3,"Destruction of Glomus Jugulare using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5C4Z,2023,2027
+0G5C4ZZ,"Destruction of Glomus Jugulare, Percutaneous Endoscopic Approach",0G5C4Z,2016,2027
+0G5D,Aortic Body,0G5,2016,2027
+0G5D0,Open,0G5D,2016,2027
+0G5D0Z,No Device,0G5D0,2016,2027
+0G5D0Z3,"Destruction of Aortic Body using Laser Interstitial Thermal Therapy, Open Approach",0G5D0Z,2023,2027
+0G5D0ZZ,"Destruction of Aortic Body, Open Approach",0G5D0Z,2016,2027
+0G5D3,Percutaneous,0G5D,2016,2027
+0G5D3Z,No Device,0G5D3,2016,2027
+0G5D3Z3,"Destruction of Aortic Body using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5D3Z,2023,2027
+0G5D3ZZ,"Destruction of Aortic Body, Percutaneous Approach",0G5D3Z,2016,2027
+0G5D4,Percutaneous Endoscopic,0G5D,2016,2027
+0G5D4Z,No Device,0G5D4,2016,2027
+0G5D4Z3,"Destruction of Aortic Body using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5D4Z,2023,2027
+0G5D4ZZ,"Destruction of Aortic Body, Percutaneous Endoscopic Approach",0G5D4Z,2016,2027
+0G5F,Paraganglion Extremity,0G5,2016,2027
+0G5F0,Open,0G5F,2016,2027
+0G5F0Z,No Device,0G5F0,2016,2027
+0G5F0Z3,"Destruction of Paraganglion Extremity using Laser Interstitial Thermal Therapy, Open Approach",0G5F0Z,2023,2027
+0G5F0ZZ,"Destruction of Paraganglion Extremity, Open Approach",0G5F0Z,2016,2027
+0G5F3,Percutaneous,0G5F,2016,2027
+0G5F3Z,No Device,0G5F3,2016,2027
+0G5F3Z3,"Destruction of Paraganglion Extremity using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5F3Z,2023,2027
+0G5F3ZZ,"Destruction of Paraganglion Extremity, Percutaneous Approach",0G5F3Z,2016,2027
+0G5F4,Percutaneous Endoscopic,0G5F,2016,2027
+0G5F4Z,No Device,0G5F4,2016,2027
+0G5F4Z3,"Destruction of Paraganglion Extremity using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5F4Z,2023,2027
+0G5F4ZZ,"Destruction of Paraganglion Extremity, Percutaneous Endoscopic Approach",0G5F4Z,2016,2027
+0G5G,"Thyroid Gland Lobe, Left",0G5,2016,2027
+0G5G0,Open,0G5G,2016,2027
+0G5G0Z,No Device,0G5G0,2016,2027
+0G5G0Z3,"Destruction of Left Thyroid Gland Lobe using Laser Interstitial Thermal Therapy, Open Approach",0G5G0Z,2023,2027
+0G5G0ZZ,"Destruction of Left Thyroid Gland Lobe, Open Approach",0G5G0Z,2016,2027
+0G5G3,Percutaneous,0G5G,2016,2027
+0G5G3Z,No Device,0G5G3,2016,2027
+0G5G3Z3,"Destruction of Left Thyroid Gland Lobe using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5G3Z,2023,2027
+0G5G3ZZ,"Destruction of Left Thyroid Gland Lobe, Percutaneous Approach",0G5G3Z,2016,2027
+0G5G4,Percutaneous Endoscopic,0G5G,2016,2027
+0G5G4Z,No Device,0G5G4,2016,2027
+0G5G4Z3,"Destruction of Left Thyroid Gland Lobe using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5G4Z,2023,2027
+0G5G4ZZ,"Destruction of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0G5G4Z,2016,2027
+0G5H,"Thyroid Gland Lobe, Right",0G5,2016,2027
+0G5H0,Open,0G5H,2016,2027
+0G5H0Z,No Device,0G5H0,2016,2027
+0G5H0Z3,"Destruction of Right Thyroid Gland Lobe using Laser Interstitial Thermal Therapy, Open Approach",0G5H0Z,2023,2027
+0G5H0ZZ,"Destruction of Right Thyroid Gland Lobe, Open Approach",0G5H0Z,2016,2027
+0G5H3,Percutaneous,0G5H,2016,2027
+0G5H3Z,No Device,0G5H3,2016,2027
+0G5H3Z3,"Destruction of Right Thyroid Gland Lobe using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5H3Z,2023,2027
+0G5H3ZZ,"Destruction of Right Thyroid Gland Lobe, Percutaneous Approach",0G5H3Z,2016,2027
+0G5H4,Percutaneous Endoscopic,0G5H,2016,2027
+0G5H4Z,No Device,0G5H4,2016,2027
+0G5H4Z3,"Destruction of Right Thyroid Gland Lobe using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5H4Z,2023,2027
+0G5H4ZZ,"Destruction of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0G5H4Z,2016,2027
+0G5K,Thyroid Gland,0G5,2016,2027
+0G5K0,Open,0G5K,2016,2027
+0G5K0Z,No Device,0G5K0,2016,2027
+0G5K0Z3,"Destruction of Thyroid Gland using Laser Interstitial Thermal Therapy, Open Approach",0G5K0Z,2023,2027
+0G5K0ZZ,"Destruction of Thyroid Gland, Open Approach",0G5K0Z,2016,2027
+0G5K3,Percutaneous,0G5K,2016,2027
+0G5K3Z,No Device,0G5K3,2016,2027
+0G5K3Z3,"Destruction of Thyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5K3Z,2023,2027
+0G5K3ZZ,"Destruction of Thyroid Gland, Percutaneous Approach",0G5K3Z,2016,2027
+0G5K4,Percutaneous Endoscopic,0G5K,2016,2027
+0G5K4Z,No Device,0G5K4,2016,2027
+0G5K4Z3,"Destruction of Thyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5K4Z,2023,2027
+0G5K4ZZ,"Destruction of Thyroid Gland, Percutaneous Endoscopic Approach",0G5K4Z,2016,2027
+0G5L,"Superior Parathyroid Gland, Right",0G5,2016,2027
+0G5L0,Open,0G5L,2016,2027
+0G5L0Z,No Device,0G5L0,2016,2027
+0G5L0Z3,"Destruction of Right Superior Parathyroid Gland using Laser Interstitial Thermal Therapy, Open Approach",0G5L0Z,2023,2027
+0G5L0ZZ,"Destruction of Right Superior Parathyroid Gland, Open Approach",0G5L0Z,2016,2027
+0G5L3,Percutaneous,0G5L,2016,2027
+0G5L3Z,No Device,0G5L3,2016,2027
+0G5L3Z3,"Destruction of Right Superior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5L3Z,2023,2027
+0G5L3ZZ,"Destruction of Right Superior Parathyroid Gland, Percutaneous Approach",0G5L3Z,2016,2027
+0G5L4,Percutaneous Endoscopic,0G5L,2016,2027
+0G5L4Z,No Device,0G5L4,2016,2027
+0G5L4Z3,"Destruction of Right Superior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5L4Z,2023,2027
+0G5L4ZZ,"Destruction of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0G5L4Z,2016,2027
+0G5M,"Superior Parathyroid Gland, Left",0G5,2016,2027
+0G5M0,Open,0G5M,2016,2027
+0G5M0Z,No Device,0G5M0,2016,2027
+0G5M0Z3,"Destruction of Left Superior Parathyroid Gland using Laser Interstitial Thermal Therapy, Open Approach",0G5M0Z,2023,2027
+0G5M0ZZ,"Destruction of Left Superior Parathyroid Gland, Open Approach",0G5M0Z,2016,2027
+0G5M3,Percutaneous,0G5M,2016,2027
+0G5M3Z,No Device,0G5M3,2016,2027
+0G5M3Z3,"Destruction of Left Superior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5M3Z,2023,2027
+0G5M3ZZ,"Destruction of Left Superior Parathyroid Gland, Percutaneous Approach",0G5M3Z,2016,2027
+0G5M4,Percutaneous Endoscopic,0G5M,2016,2027
+0G5M4Z,No Device,0G5M4,2016,2027
+0G5M4Z3,"Destruction of Left Superior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5M4Z,2023,2027
+0G5M4ZZ,"Destruction of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0G5M4Z,2016,2027
+0G5N,"Inferior Parathyroid Gland, Right",0G5,2016,2027
+0G5N0,Open,0G5N,2016,2027
+0G5N0Z,No Device,0G5N0,2016,2027
+0G5N0Z3,"Destruction of Right Inferior Parathyroid Gland using Laser Interstitial Thermal Therapy, Open Approach",0G5N0Z,2023,2027
+0G5N0ZZ,"Destruction of Right Inferior Parathyroid Gland, Open Approach",0G5N0Z,2016,2027
+0G5N3,Percutaneous,0G5N,2016,2027
+0G5N3Z,No Device,0G5N3,2016,2027
+0G5N3Z3,"Destruction of Right Inferior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5N3Z,2023,2027
+0G5N3ZZ,"Destruction of Right Inferior Parathyroid Gland, Percutaneous Approach",0G5N3Z,2016,2027
+0G5N4,Percutaneous Endoscopic,0G5N,2016,2027
+0G5N4Z,No Device,0G5N4,2016,2027
+0G5N4Z3,"Destruction of Right Inferior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5N4Z,2023,2027
+0G5N4ZZ,"Destruction of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0G5N4Z,2016,2027
+0G5P,"Inferior Parathyroid Gland, Left",0G5,2016,2027
+0G5P0,Open,0G5P,2016,2027
+0G5P0Z,No Device,0G5P0,2016,2027
+0G5P0Z3,"Destruction of Left Inferior Parathyroid Gland using Laser Interstitial Thermal Therapy, Open Approach",0G5P0Z,2023,2027
+0G5P0ZZ,"Destruction of Left Inferior Parathyroid Gland, Open Approach",0G5P0Z,2016,2027
+0G5P3,Percutaneous,0G5P,2016,2027
+0G5P3Z,No Device,0G5P3,2016,2027
+0G5P3Z3,"Destruction of Left Inferior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5P3Z,2023,2027
+0G5P3ZZ,"Destruction of Left Inferior Parathyroid Gland, Percutaneous Approach",0G5P3Z,2016,2027
+0G5P4,Percutaneous Endoscopic,0G5P,2016,2027
+0G5P4Z,No Device,0G5P4,2016,2027
+0G5P4Z3,"Destruction of Left Inferior Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5P4Z,2023,2027
+0G5P4ZZ,"Destruction of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0G5P4Z,2016,2027
+0G5Q,"Parathyroid Glands, Multiple",0G5,2016,2027
+0G5Q0,Open,0G5Q,2016,2027
+0G5Q0Z,No Device,0G5Q0,2016,2027
+0G5Q0Z3,"Destruction of Multiple Parathyroid Glands using Laser Interstitial Thermal Therapy, Open Approach",0G5Q0Z,2023,2027
+0G5Q0ZZ,"Destruction of Multiple Parathyroid Glands, Open Approach",0G5Q0Z,2016,2027
+0G5Q3,Percutaneous,0G5Q,2016,2027
+0G5Q3Z,No Device,0G5Q3,2016,2027
+0G5Q3Z3,"Destruction of Multiple Parathyroid Glands using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5Q3Z,2023,2027
+0G5Q3ZZ,"Destruction of Multiple Parathyroid Glands, Percutaneous Approach",0G5Q3Z,2016,2027
+0G5Q4,Percutaneous Endoscopic,0G5Q,2016,2027
+0G5Q4Z,No Device,0G5Q4,2016,2027
+0G5Q4Z3,"Destruction of Multiple Parathyroid Glands using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5Q4Z,2023,2027
+0G5Q4ZZ,"Destruction of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0G5Q4Z,2016,2027
+0G5R,Parathyroid Gland,0G5,2016,2027
+0G5R0,Open,0G5R,2016,2027
+0G5R0Z,No Device,0G5R0,2016,2027
+0G5R0Z3,"Destruction of Parathyroid Gland using Laser Interstitial Thermal Therapy, Open Approach",0G5R0Z,2023,2027
+0G5R0ZZ,"Destruction of Parathyroid Gland, Open Approach",0G5R0Z,2016,2027
+0G5R3,Percutaneous,0G5R,2016,2027
+0G5R3Z,No Device,0G5R3,2016,2027
+0G5R3Z3,"Destruction of Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Approach",0G5R3Z,2023,2027
+0G5R3ZZ,"Destruction of Parathyroid Gland, Percutaneous Approach",0G5R3Z,2016,2027
+0G5R4,Percutaneous Endoscopic,0G5R,2016,2027
+0G5R4Z,No Device,0G5R4,2016,2027
+0G5R4Z3,"Destruction of Parathyroid Gland using Laser Interstitial Thermal Therapy, Percutaneous Endoscopic Approach",0G5R4Z,2023,2027
+0G5R4ZZ,"Destruction of Parathyroid Gland, Percutaneous Endoscopic Approach",0G5R4Z,2016,2027
+0G8,Division,0G,2016,2027
+0G80,Pituitary Gland,0G8,2016,2027
+0G800,Open,0G80,2016,2027
+0G800Z,No Device,0G800,2016,2027
+0G800ZZ,"Division of Pituitary Gland, Open Approach",0G800Z,2016,2027
+0G803,Percutaneous,0G80,2016,2027
+0G803Z,No Device,0G803,2016,2027
+0G803ZZ,"Division of Pituitary Gland, Percutaneous Approach",0G803Z,2016,2027
+0G804,Percutaneous Endoscopic,0G80,2016,2027
+0G804Z,No Device,0G804,2016,2027
+0G804ZZ,"Division of Pituitary Gland, Percutaneous Endoscopic Approach",0G804Z,2016,2027
+0G8J,Thyroid Gland Isthmus,0G8,2016,2027
+0G8J0,Open,0G8J,2016,2027
+0G8J0Z,No Device,0G8J0,2016,2027
+0G8J0ZZ,"Division of Thyroid Gland Isthmus, Open Approach",0G8J0Z,2016,2027
+0G8J3,Percutaneous,0G8J,2016,2027
+0G8J3Z,No Device,0G8J3,2016,2027
+0G8J3ZZ,"Division of Thyroid Gland Isthmus, Percutaneous Approach",0G8J3Z,2016,2027
+0G8J4,Percutaneous Endoscopic,0G8J,2016,2027
+0G8J4Z,No Device,0G8J4,2016,2027
+0G8J4ZZ,"Division of Thyroid Gland Isthmus, Percutaneous Endoscopic Approach",0G8J4Z,2016,2027
+0G9,Drainage,0G,2016,2027
+0G90,Pituitary Gland,0G9,2016,2027
+0G900,Open,0G90,2016,2027
+0G9000,Drainage Device,0G900,2016,2027
+0G9000Z,"Drainage of Pituitary Gland with Drainage Device, Open Approach",0G9000,2016,2027
+0G900Z,No Device,0G900,2016,2027
+0G900ZX,"Drainage of Pituitary Gland, Open Approach, Diagnostic",0G900Z,2016,2027
+0G900ZZ,"Drainage of Pituitary Gland, Open Approach",0G900Z,2016,2027
+0G903,Percutaneous,0G90,2016,2027
+0G9030,Drainage Device,0G903,2016,2027
+0G9030Z,"Drainage of Pituitary Gland with Drainage Device, Percutaneous Approach",0G9030,2016,2027
+0G903Z,No Device,0G903,2016,2027
+0G903ZX,"Drainage of Pituitary Gland, Percutaneous Approach, Diagnostic",0G903Z,2016,2027
+0G903ZZ,"Drainage of Pituitary Gland, Percutaneous Approach",0G903Z,2016,2027
+0G904,Percutaneous Endoscopic,0G90,2016,2027
+0G9040,Drainage Device,0G904,2016,2027
+0G9040Z,"Drainage of Pituitary Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9040,2016,2027
+0G904Z,No Device,0G904,2016,2027
+0G904ZX,"Drainage of Pituitary Gland, Percutaneous Endoscopic Approach, Diagnostic",0G904Z,2016,2027
+0G904ZZ,"Drainage of Pituitary Gland, Percutaneous Endoscopic Approach",0G904Z,2016,2027
+0G91,Pineal Body,0G9,2016,2027
+0G910,Open,0G91,2016,2027
+0G9100,Drainage Device,0G910,2016,2027
+0G9100Z,"Drainage of Pineal Body with Drainage Device, Open Approach",0G9100,2016,2027
+0G910Z,No Device,0G910,2016,2027
+0G910ZX,"Drainage of Pineal Body, Open Approach, Diagnostic",0G910Z,2016,2027
+0G910ZZ,"Drainage of Pineal Body, Open Approach",0G910Z,2016,2027
+0G913,Percutaneous,0G91,2016,2027
+0G9130,Drainage Device,0G913,2016,2027
+0G9130Z,"Drainage of Pineal Body with Drainage Device, Percutaneous Approach",0G9130,2016,2027
+0G913Z,No Device,0G913,2016,2027
+0G913ZX,"Drainage of Pineal Body, Percutaneous Approach, Diagnostic",0G913Z,2016,2027
+0G913ZZ,"Drainage of Pineal Body, Percutaneous Approach",0G913Z,2016,2027
+0G914,Percutaneous Endoscopic,0G91,2016,2027
+0G9140,Drainage Device,0G914,2016,2027
+0G9140Z,"Drainage of Pineal Body with Drainage Device, Percutaneous Endoscopic Approach",0G9140,2016,2027
+0G914Z,No Device,0G914,2016,2027
+0G914ZX,"Drainage of Pineal Body, Percutaneous Endoscopic Approach, Diagnostic",0G914Z,2016,2027
+0G914ZZ,"Drainage of Pineal Body, Percutaneous Endoscopic Approach",0G914Z,2016,2027
+0G92,"Adrenal Gland, Left",0G9,2016,2027
+0G920,Open,0G92,2016,2027
+0G9200,Drainage Device,0G920,2016,2027
+0G9200Z,"Drainage of Left Adrenal Gland with Drainage Device, Open Approach",0G9200,2016,2027
+0G920Z,No Device,0G920,2016,2027
+0G920ZX,"Drainage of Left Adrenal Gland, Open Approach, Diagnostic",0G920Z,2016,2027
+0G920ZZ,"Drainage of Left Adrenal Gland, Open Approach",0G920Z,2016,2027
+0G923,Percutaneous,0G92,2016,2027
+0G9230,Drainage Device,0G923,2016,2027
+0G9230Z,"Drainage of Left Adrenal Gland with Drainage Device, Percutaneous Approach",0G9230,2016,2027
+0G923Z,No Device,0G923,2016,2027
+0G923ZX,"Drainage of Left Adrenal Gland, Percutaneous Approach, Diagnostic",0G923Z,2016,2027
+0G923ZZ,"Drainage of Left Adrenal Gland, Percutaneous Approach",0G923Z,2016,2027
+0G924,Percutaneous Endoscopic,0G92,2016,2027
+0G9240,Drainage Device,0G924,2016,2027
+0G9240Z,"Drainage of Left Adrenal Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9240,2016,2027
+0G924Z,No Device,0G924,2016,2027
+0G924ZX,"Drainage of Left Adrenal Gland, Percutaneous Endoscopic Approach, Diagnostic",0G924Z,2016,2027
+0G924ZZ,"Drainage of Left Adrenal Gland, Percutaneous Endoscopic Approach",0G924Z,2016,2027
+0G93,"Adrenal Gland, Right",0G9,2016,2027
+0G930,Open,0G93,2016,2027
+0G9300,Drainage Device,0G930,2016,2027
+0G9300Z,"Drainage of Right Adrenal Gland with Drainage Device, Open Approach",0G9300,2016,2027
+0G930Z,No Device,0G930,2016,2027
+0G930ZX,"Drainage of Right Adrenal Gland, Open Approach, Diagnostic",0G930Z,2016,2027
+0G930ZZ,"Drainage of Right Adrenal Gland, Open Approach",0G930Z,2016,2027
+0G933,Percutaneous,0G93,2016,2027
+0G9330,Drainage Device,0G933,2016,2027
+0G9330Z,"Drainage of Right Adrenal Gland with Drainage Device, Percutaneous Approach",0G9330,2016,2027
+0G933Z,No Device,0G933,2016,2027
+0G933ZX,"Drainage of Right Adrenal Gland, Percutaneous Approach, Diagnostic",0G933Z,2016,2027
+0G933ZZ,"Drainage of Right Adrenal Gland, Percutaneous Approach",0G933Z,2016,2027
+0G934,Percutaneous Endoscopic,0G93,2016,2027
+0G9340,Drainage Device,0G934,2016,2027
+0G9340Z,"Drainage of Right Adrenal Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9340,2016,2027
+0G934Z,No Device,0G934,2016,2027
+0G934ZX,"Drainage of Right Adrenal Gland, Percutaneous Endoscopic Approach, Diagnostic",0G934Z,2016,2027
+0G934ZZ,"Drainage of Right Adrenal Gland, Percutaneous Endoscopic Approach",0G934Z,2016,2027
+0G94,"Adrenal Glands, Bilateral",0G9,2016,2027
+0G940,Open,0G94,2016,2027
+0G9400,Drainage Device,0G940,2016,2027
+0G9400Z,"Drainage of Bilateral Adrenal Glands with Drainage Device, Open Approach",0G9400,2016,2027
+0G940Z,No Device,0G940,2016,2027
+0G940ZX,"Drainage of Bilateral Adrenal Glands, Open Approach, Diagnostic",0G940Z,2016,2027
+0G940ZZ,"Drainage of Bilateral Adrenal Glands, Open Approach",0G940Z,2016,2027
+0G943,Percutaneous,0G94,2016,2027
+0G9430,Drainage Device,0G943,2016,2027
+0G9430Z,"Drainage of Bilateral Adrenal Glands with Drainage Device, Percutaneous Approach",0G9430,2016,2027
+0G943Z,No Device,0G943,2016,2027
+0G943ZX,"Drainage of Bilateral Adrenal Glands, Percutaneous Approach, Diagnostic",0G943Z,2016,2027
+0G943ZZ,"Drainage of Bilateral Adrenal Glands, Percutaneous Approach",0G943Z,2016,2027
+0G944,Percutaneous Endoscopic,0G94,2016,2027
+0G9440,Drainage Device,0G944,2016,2027
+0G9440Z,"Drainage of Bilateral Adrenal Glands with Drainage Device, Percutaneous Endoscopic Approach",0G9440,2016,2027
+0G944Z,No Device,0G944,2016,2027
+0G944ZX,"Drainage of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach, Diagnostic",0G944Z,2016,2027
+0G944ZZ,"Drainage of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0G944Z,2016,2027
+0G96,"Carotid Body, Left",0G9,2016,2027
+0G960,Open,0G96,2016,2027
+0G9600,Drainage Device,0G960,2016,2027
+0G9600Z,"Drainage of Left Carotid Body with Drainage Device, Open Approach",0G9600,2016,2027
+0G960Z,No Device,0G960,2016,2027
+0G960ZX,"Drainage of Left Carotid Body, Open Approach, Diagnostic",0G960Z,2016,2027
+0G960ZZ,"Drainage of Left Carotid Body, Open Approach",0G960Z,2016,2027
+0G963,Percutaneous,0G96,2016,2027
+0G9630,Drainage Device,0G963,2016,2027
+0G9630Z,"Drainage of Left Carotid Body with Drainage Device, Percutaneous Approach",0G9630,2016,2027
+0G963Z,No Device,0G963,2016,2027
+0G963ZX,"Drainage of Left Carotid Body, Percutaneous Approach, Diagnostic",0G963Z,2016,2027
+0G963ZZ,"Drainage of Left Carotid Body, Percutaneous Approach",0G963Z,2016,2027
+0G964,Percutaneous Endoscopic,0G96,2016,2027
+0G9640,Drainage Device,0G964,2016,2027
+0G9640Z,"Drainage of Left Carotid Body with Drainage Device, Percutaneous Endoscopic Approach",0G9640,2016,2027
+0G964Z,No Device,0G964,2016,2027
+0G964ZX,"Drainage of Left Carotid Body, Percutaneous Endoscopic Approach, Diagnostic",0G964Z,2016,2027
+0G964ZZ,"Drainage of Left Carotid Body, Percutaneous Endoscopic Approach",0G964Z,2016,2027
+0G97,"Carotid Body, Right",0G9,2016,2027
+0G970,Open,0G97,2016,2027
+0G9700,Drainage Device,0G970,2016,2027
+0G9700Z,"Drainage of Right Carotid Body with Drainage Device, Open Approach",0G9700,2016,2027
+0G970Z,No Device,0G970,2016,2027
+0G970ZX,"Drainage of Right Carotid Body, Open Approach, Diagnostic",0G970Z,2016,2027
+0G970ZZ,"Drainage of Right Carotid Body, Open Approach",0G970Z,2016,2027
+0G973,Percutaneous,0G97,2016,2027
+0G9730,Drainage Device,0G973,2016,2027
+0G9730Z,"Drainage of Right Carotid Body with Drainage Device, Percutaneous Approach",0G9730,2016,2027
+0G973Z,No Device,0G973,2016,2027
+0G973ZX,"Drainage of Right Carotid Body, Percutaneous Approach, Diagnostic",0G973Z,2016,2027
+0G973ZZ,"Drainage of Right Carotid Body, Percutaneous Approach",0G973Z,2016,2027
+0G974,Percutaneous Endoscopic,0G97,2016,2027
+0G9740,Drainage Device,0G974,2016,2027
+0G9740Z,"Drainage of Right Carotid Body with Drainage Device, Percutaneous Endoscopic Approach",0G9740,2016,2027
+0G974Z,No Device,0G974,2016,2027
+0G974ZX,"Drainage of Right Carotid Body, Percutaneous Endoscopic Approach, Diagnostic",0G974Z,2016,2027
+0G974ZZ,"Drainage of Right Carotid Body, Percutaneous Endoscopic Approach",0G974Z,2016,2027
+0G98,"Carotid Bodies, Bilateral",0G9,2016,2027
+0G980,Open,0G98,2016,2027
+0G9800,Drainage Device,0G980,2016,2027
+0G9800Z,"Drainage of Bilateral Carotid Bodies with Drainage Device, Open Approach",0G9800,2016,2027
+0G980Z,No Device,0G980,2016,2027
+0G980ZX,"Drainage of Bilateral Carotid Bodies, Open Approach, Diagnostic",0G980Z,2016,2027
+0G980ZZ,"Drainage of Bilateral Carotid Bodies, Open Approach",0G980Z,2016,2027
+0G983,Percutaneous,0G98,2016,2027
+0G9830,Drainage Device,0G983,2016,2027
+0G9830Z,"Drainage of Bilateral Carotid Bodies with Drainage Device, Percutaneous Approach",0G9830,2016,2027
+0G983Z,No Device,0G983,2016,2027
+0G983ZX,"Drainage of Bilateral Carotid Bodies, Percutaneous Approach, Diagnostic",0G983Z,2016,2027
+0G983ZZ,"Drainage of Bilateral Carotid Bodies, Percutaneous Approach",0G983Z,2016,2027
+0G984,Percutaneous Endoscopic,0G98,2016,2027
+0G9840,Drainage Device,0G984,2016,2027
+0G9840Z,"Drainage of Bilateral Carotid Bodies with Drainage Device, Percutaneous Endoscopic Approach",0G9840,2016,2027
+0G984Z,No Device,0G984,2016,2027
+0G984ZX,"Drainage of Bilateral Carotid Bodies, Percutaneous Endoscopic Approach, Diagnostic",0G984Z,2016,2027
+0G984ZZ,"Drainage of Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0G984Z,2016,2027
+0G99,Para-aortic Body,0G9,2016,2027
+0G990,Open,0G99,2016,2027
+0G9900,Drainage Device,0G990,2016,2027
+0G9900Z,"Drainage of Para-aortic Body with Drainage Device, Open Approach",0G9900,2016,2027
+0G990Z,No Device,0G990,2016,2027
+0G990ZX,"Drainage of Para-aortic Body, Open Approach, Diagnostic",0G990Z,2016,2027
+0G990ZZ,"Drainage of Para-aortic Body, Open Approach",0G990Z,2016,2027
+0G993,Percutaneous,0G99,2016,2027
+0G9930,Drainage Device,0G993,2016,2027
+0G9930Z,"Drainage of Para-aortic Body with Drainage Device, Percutaneous Approach",0G9930,2016,2027
+0G993Z,No Device,0G993,2016,2027
+0G993ZX,"Drainage of Para-aortic Body, Percutaneous Approach, Diagnostic",0G993Z,2016,2027
+0G993ZZ,"Drainage of Para-aortic Body, Percutaneous Approach",0G993Z,2016,2027
+0G994,Percutaneous Endoscopic,0G99,2016,2027
+0G9940,Drainage Device,0G994,2016,2027
+0G9940Z,"Drainage of Para-aortic Body with Drainage Device, Percutaneous Endoscopic Approach",0G9940,2016,2027
+0G994Z,No Device,0G994,2016,2027
+0G994ZX,"Drainage of Para-aortic Body, Percutaneous Endoscopic Approach, Diagnostic",0G994Z,2016,2027
+0G994ZZ,"Drainage of Para-aortic Body, Percutaneous Endoscopic Approach",0G994Z,2016,2027
+0G9B,Coccygeal Glomus,0G9,2016,2027
+0G9B0,Open,0G9B,2016,2027
+0G9B00,Drainage Device,0G9B0,2016,2027
+0G9B00Z,"Drainage of Coccygeal Glomus with Drainage Device, Open Approach",0G9B00,2016,2027
+0G9B0Z,No Device,0G9B0,2016,2027
+0G9B0ZX,"Drainage of Coccygeal Glomus, Open Approach, Diagnostic",0G9B0Z,2016,2027
+0G9B0ZZ,"Drainage of Coccygeal Glomus, Open Approach",0G9B0Z,2016,2027
+0G9B3,Percutaneous,0G9B,2016,2027
+0G9B30,Drainage Device,0G9B3,2016,2027
+0G9B30Z,"Drainage of Coccygeal Glomus with Drainage Device, Percutaneous Approach",0G9B30,2016,2027
+0G9B3Z,No Device,0G9B3,2016,2027
+0G9B3ZX,"Drainage of Coccygeal Glomus, Percutaneous Approach, Diagnostic",0G9B3Z,2016,2027
+0G9B3ZZ,"Drainage of Coccygeal Glomus, Percutaneous Approach",0G9B3Z,2016,2027
+0G9B4,Percutaneous Endoscopic,0G9B,2016,2027
+0G9B40,Drainage Device,0G9B4,2016,2027
+0G9B40Z,"Drainage of Coccygeal Glomus with Drainage Device, Percutaneous Endoscopic Approach",0G9B40,2016,2027
+0G9B4Z,No Device,0G9B4,2016,2027
+0G9B4ZX,"Drainage of Coccygeal Glomus, Percutaneous Endoscopic Approach, Diagnostic",0G9B4Z,2016,2027
+0G9B4ZZ,"Drainage of Coccygeal Glomus, Percutaneous Endoscopic Approach",0G9B4Z,2016,2027
+0G9C,Glomus Jugulare,0G9,2016,2027
+0G9C0,Open,0G9C,2016,2027
+0G9C00,Drainage Device,0G9C0,2016,2027
+0G9C00Z,"Drainage of Glomus Jugulare with Drainage Device, Open Approach",0G9C00,2016,2027
+0G9C0Z,No Device,0G9C0,2016,2027
+0G9C0ZX,"Drainage of Glomus Jugulare, Open Approach, Diagnostic",0G9C0Z,2016,2027
+0G9C0ZZ,"Drainage of Glomus Jugulare, Open Approach",0G9C0Z,2016,2027
+0G9C3,Percutaneous,0G9C,2016,2027
+0G9C30,Drainage Device,0G9C3,2016,2027
+0G9C30Z,"Drainage of Glomus Jugulare with Drainage Device, Percutaneous Approach",0G9C30,2016,2027
+0G9C3Z,No Device,0G9C3,2016,2027
+0G9C3ZX,"Drainage of Glomus Jugulare, Percutaneous Approach, Diagnostic",0G9C3Z,2016,2027
+0G9C3ZZ,"Drainage of Glomus Jugulare, Percutaneous Approach",0G9C3Z,2016,2027
+0G9C4,Percutaneous Endoscopic,0G9C,2016,2027
+0G9C40,Drainage Device,0G9C4,2016,2027
+0G9C40Z,"Drainage of Glomus Jugulare with Drainage Device, Percutaneous Endoscopic Approach",0G9C40,2016,2027
+0G9C4Z,No Device,0G9C4,2016,2027
+0G9C4ZX,"Drainage of Glomus Jugulare, Percutaneous Endoscopic Approach, Diagnostic",0G9C4Z,2016,2027
+0G9C4ZZ,"Drainage of Glomus Jugulare, Percutaneous Endoscopic Approach",0G9C4Z,2016,2027
+0G9D,Aortic Body,0G9,2016,2027
+0G9D0,Open,0G9D,2016,2027
+0G9D00,Drainage Device,0G9D0,2016,2027
+0G9D00Z,"Drainage of Aortic Body with Drainage Device, Open Approach",0G9D00,2016,2027
+0G9D0Z,No Device,0G9D0,2016,2027
+0G9D0ZX,"Drainage of Aortic Body, Open Approach, Diagnostic",0G9D0Z,2016,2027
+0G9D0ZZ,"Drainage of Aortic Body, Open Approach",0G9D0Z,2016,2027
+0G9D3,Percutaneous,0G9D,2016,2027
+0G9D30,Drainage Device,0G9D3,2016,2027
+0G9D30Z,"Drainage of Aortic Body with Drainage Device, Percutaneous Approach",0G9D30,2016,2027
+0G9D3Z,No Device,0G9D3,2016,2027
+0G9D3ZX,"Drainage of Aortic Body, Percutaneous Approach, Diagnostic",0G9D3Z,2016,2027
+0G9D3ZZ,"Drainage of Aortic Body, Percutaneous Approach",0G9D3Z,2016,2027
+0G9D4,Percutaneous Endoscopic,0G9D,2016,2027
+0G9D40,Drainage Device,0G9D4,2016,2027
+0G9D40Z,"Drainage of Aortic Body with Drainage Device, Percutaneous Endoscopic Approach",0G9D40,2016,2027
+0G9D4Z,No Device,0G9D4,2016,2027
+0G9D4ZX,"Drainage of Aortic Body, Percutaneous Endoscopic Approach, Diagnostic",0G9D4Z,2016,2027
+0G9D4ZZ,"Drainage of Aortic Body, Percutaneous Endoscopic Approach",0G9D4Z,2016,2027
+0G9F,Paraganglion Extremity,0G9,2016,2027
+0G9F0,Open,0G9F,2016,2027
+0G9F00,Drainage Device,0G9F0,2016,2027
+0G9F00Z,"Drainage of Paraganglion Extremity with Drainage Device, Open Approach",0G9F00,2016,2027
+0G9F0Z,No Device,0G9F0,2016,2027
+0G9F0ZX,"Drainage of Paraganglion Extremity, Open Approach, Diagnostic",0G9F0Z,2016,2027
+0G9F0ZZ,"Drainage of Paraganglion Extremity, Open Approach",0G9F0Z,2016,2027
+0G9F3,Percutaneous,0G9F,2016,2027
+0G9F30,Drainage Device,0G9F3,2016,2027
+0G9F30Z,"Drainage of Paraganglion Extremity with Drainage Device, Percutaneous Approach",0G9F30,2016,2027
+0G9F3Z,No Device,0G9F3,2016,2027
+0G9F3ZX,"Drainage of Paraganglion Extremity, Percutaneous Approach, Diagnostic",0G9F3Z,2016,2027
+0G9F3ZZ,"Drainage of Paraganglion Extremity, Percutaneous Approach",0G9F3Z,2016,2027
+0G9F4,Percutaneous Endoscopic,0G9F,2016,2027
+0G9F40,Drainage Device,0G9F4,2016,2027
+0G9F40Z,"Drainage of Paraganglion Extremity with Drainage Device, Percutaneous Endoscopic Approach",0G9F40,2016,2027
+0G9F4Z,No Device,0G9F4,2016,2027
+0G9F4ZX,"Drainage of Paraganglion Extremity, Percutaneous Endoscopic Approach, Diagnostic",0G9F4Z,2016,2027
+0G9F4ZZ,"Drainage of Paraganglion Extremity, Percutaneous Endoscopic Approach",0G9F4Z,2016,2027
+0G9G,"Thyroid Gland Lobe, Left",0G9,2016,2027
+0G9G0,Open,0G9G,2016,2027
+0G9G00,Drainage Device,0G9G0,2016,2027
+0G9G00Z,"Drainage of Left Thyroid Gland Lobe with Drainage Device, Open Approach",0G9G00,2016,2027
+0G9G0Z,No Device,0G9G0,2016,2027
+0G9G0ZX,"Drainage of Left Thyroid Gland Lobe, Open Approach, Diagnostic",0G9G0Z,2016,2027
+0G9G0ZZ,"Drainage of Left Thyroid Gland Lobe, Open Approach",0G9G0Z,2016,2027
+0G9G3,Percutaneous,0G9G,2016,2027
+0G9G30,Drainage Device,0G9G3,2016,2027
+0G9G30Z,"Drainage of Left Thyroid Gland Lobe with Drainage Device, Percutaneous Approach",0G9G30,2016,2027
+0G9G3Z,No Device,0G9G3,2016,2027
+0G9G3ZX,"Drainage of Left Thyroid Gland Lobe, Percutaneous Approach, Diagnostic",0G9G3Z,2016,2027
+0G9G3ZZ,"Drainage of Left Thyroid Gland Lobe, Percutaneous Approach",0G9G3Z,2016,2027
+0G9G4,Percutaneous Endoscopic,0G9G,2016,2027
+0G9G40,Drainage Device,0G9G4,2016,2027
+0G9G40Z,"Drainage of Left Thyroid Gland Lobe with Drainage Device, Percutaneous Endoscopic Approach",0G9G40,2016,2027
+0G9G4Z,No Device,0G9G4,2016,2027
+0G9G4ZX,"Drainage of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach, Diagnostic",0G9G4Z,2016,2027
+0G9G4ZZ,"Drainage of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0G9G4Z,2016,2027
+0G9H,"Thyroid Gland Lobe, Right",0G9,2016,2027
+0G9H0,Open,0G9H,2016,2027
+0G9H00,Drainage Device,0G9H0,2016,2027
+0G9H00Z,"Drainage of Right Thyroid Gland Lobe with Drainage Device, Open Approach",0G9H00,2016,2027
+0G9H0Z,No Device,0G9H0,2016,2027
+0G9H0ZX,"Drainage of Right Thyroid Gland Lobe, Open Approach, Diagnostic",0G9H0Z,2016,2027
+0G9H0ZZ,"Drainage of Right Thyroid Gland Lobe, Open Approach",0G9H0Z,2016,2027
+0G9H3,Percutaneous,0G9H,2016,2027
+0G9H30,Drainage Device,0G9H3,2016,2027
+0G9H30Z,"Drainage of Right Thyroid Gland Lobe with Drainage Device, Percutaneous Approach",0G9H30,2016,2027
+0G9H3Z,No Device,0G9H3,2016,2027
+0G9H3ZX,"Drainage of Right Thyroid Gland Lobe, Percutaneous Approach, Diagnostic",0G9H3Z,2016,2027
+0G9H3ZZ,"Drainage of Right Thyroid Gland Lobe, Percutaneous Approach",0G9H3Z,2016,2027
+0G9H4,Percutaneous Endoscopic,0G9H,2016,2027
+0G9H40,Drainage Device,0G9H4,2016,2027
+0G9H40Z,"Drainage of Right Thyroid Gland Lobe with Drainage Device, Percutaneous Endoscopic Approach",0G9H40,2016,2027
+0G9H4Z,No Device,0G9H4,2016,2027
+0G9H4ZX,"Drainage of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach, Diagnostic",0G9H4Z,2016,2027
+0G9H4ZZ,"Drainage of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0G9H4Z,2016,2027
+0G9K,Thyroid Gland,0G9,2016,2027
+0G9K0,Open,0G9K,2016,2027
+0G9K00,Drainage Device,0G9K0,2016,2027
+0G9K00Z,"Drainage of Thyroid Gland with Drainage Device, Open Approach",0G9K00,2016,2027
+0G9K0Z,No Device,0G9K0,2016,2027
+0G9K0ZX,"Drainage of Thyroid Gland, Open Approach, Diagnostic",0G9K0Z,2016,2027
+0G9K0ZZ,"Drainage of Thyroid Gland, Open Approach",0G9K0Z,2016,2027
+0G9K3,Percutaneous,0G9K,2016,2027
+0G9K30,Drainage Device,0G9K3,2016,2027
+0G9K30Z,"Drainage of Thyroid Gland with Drainage Device, Percutaneous Approach",0G9K30,2016,2027
+0G9K3Z,No Device,0G9K3,2016,2027
+0G9K3ZX,"Drainage of Thyroid Gland, Percutaneous Approach, Diagnostic",0G9K3Z,2016,2027
+0G9K3ZZ,"Drainage of Thyroid Gland, Percutaneous Approach",0G9K3Z,2016,2027
+0G9K4,Percutaneous Endoscopic,0G9K,2016,2027
+0G9K40,Drainage Device,0G9K4,2016,2027
+0G9K40Z,"Drainage of Thyroid Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9K40,2016,2027
+0G9K4Z,No Device,0G9K4,2016,2027
+0G9K4ZX,"Drainage of Thyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0G9K4Z,2016,2027
+0G9K4ZZ,"Drainage of Thyroid Gland, Percutaneous Endoscopic Approach",0G9K4Z,2016,2027
+0G9L,"Superior Parathyroid Gland, Right",0G9,2016,2027
+0G9L0,Open,0G9L,2016,2027
+0G9L00,Drainage Device,0G9L0,2016,2027
+0G9L00Z,"Drainage of Right Superior Parathyroid Gland with Drainage Device, Open Approach",0G9L00,2016,2027
+0G9L0Z,No Device,0G9L0,2016,2027
+0G9L0ZX,"Drainage of Right Superior Parathyroid Gland, Open Approach, Diagnostic",0G9L0Z,2016,2027
+0G9L0ZZ,"Drainage of Right Superior Parathyroid Gland, Open Approach",0G9L0Z,2016,2027
+0G9L3,Percutaneous,0G9L,2016,2027
+0G9L30,Drainage Device,0G9L3,2016,2027
+0G9L30Z,"Drainage of Right Superior Parathyroid Gland with Drainage Device, Percutaneous Approach",0G9L30,2016,2027
+0G9L3Z,No Device,0G9L3,2016,2027
+0G9L3ZX,"Drainage of Right Superior Parathyroid Gland, Percutaneous Approach, Diagnostic",0G9L3Z,2016,2027
+0G9L3ZZ,"Drainage of Right Superior Parathyroid Gland, Percutaneous Approach",0G9L3Z,2016,2027
+0G9L4,Percutaneous Endoscopic,0G9L,2016,2027
+0G9L40,Drainage Device,0G9L4,2016,2027
+0G9L40Z,"Drainage of Right Superior Parathyroid Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9L40,2016,2027
+0G9L4Z,No Device,0G9L4,2016,2027
+0G9L4ZX,"Drainage of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0G9L4Z,2016,2027
+0G9L4ZZ,"Drainage of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0G9L4Z,2016,2027
+0G9M,"Superior Parathyroid Gland, Left",0G9,2016,2027
+0G9M0,Open,0G9M,2016,2027
+0G9M00,Drainage Device,0G9M0,2016,2027
+0G9M00Z,"Drainage of Left Superior Parathyroid Gland with Drainage Device, Open Approach",0G9M00,2016,2027
+0G9M0Z,No Device,0G9M0,2016,2027
+0G9M0ZX,"Drainage of Left Superior Parathyroid Gland, Open Approach, Diagnostic",0G9M0Z,2016,2027
+0G9M0ZZ,"Drainage of Left Superior Parathyroid Gland, Open Approach",0G9M0Z,2016,2027
+0G9M3,Percutaneous,0G9M,2016,2027
+0G9M30,Drainage Device,0G9M3,2016,2027
+0G9M30Z,"Drainage of Left Superior Parathyroid Gland with Drainage Device, Percutaneous Approach",0G9M30,2016,2027
+0G9M3Z,No Device,0G9M3,2016,2027
+0G9M3ZX,"Drainage of Left Superior Parathyroid Gland, Percutaneous Approach, Diagnostic",0G9M3Z,2016,2027
+0G9M3ZZ,"Drainage of Left Superior Parathyroid Gland, Percutaneous Approach",0G9M3Z,2016,2027
+0G9M4,Percutaneous Endoscopic,0G9M,2016,2027
+0G9M40,Drainage Device,0G9M4,2016,2027
+0G9M40Z,"Drainage of Left Superior Parathyroid Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9M40,2016,2027
+0G9M4Z,No Device,0G9M4,2016,2027
+0G9M4ZX,"Drainage of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0G9M4Z,2016,2027
+0G9M4ZZ,"Drainage of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0G9M4Z,2016,2027
+0G9N,"Inferior Parathyroid Gland, Right",0G9,2016,2027
+0G9N0,Open,0G9N,2016,2027
+0G9N00,Drainage Device,0G9N0,2016,2027
+0G9N00Z,"Drainage of Right Inferior Parathyroid Gland with Drainage Device, Open Approach",0G9N00,2016,2027
+0G9N0Z,No Device,0G9N0,2016,2027
+0G9N0ZX,"Drainage of Right Inferior Parathyroid Gland, Open Approach, Diagnostic",0G9N0Z,2016,2027
+0G9N0ZZ,"Drainage of Right Inferior Parathyroid Gland, Open Approach",0G9N0Z,2016,2027
+0G9N3,Percutaneous,0G9N,2016,2027
+0G9N30,Drainage Device,0G9N3,2016,2027
+0G9N30Z,"Drainage of Right Inferior Parathyroid Gland with Drainage Device, Percutaneous Approach",0G9N30,2016,2027
+0G9N3Z,No Device,0G9N3,2016,2027
+0G9N3ZX,"Drainage of Right Inferior Parathyroid Gland, Percutaneous Approach, Diagnostic",0G9N3Z,2016,2027
+0G9N3ZZ,"Drainage of Right Inferior Parathyroid Gland, Percutaneous Approach",0G9N3Z,2016,2027
+0G9N4,Percutaneous Endoscopic,0G9N,2016,2027
+0G9N40,Drainage Device,0G9N4,2016,2027
+0G9N40Z,"Drainage of Right Inferior Parathyroid Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9N40,2016,2027
+0G9N4Z,No Device,0G9N4,2016,2027
+0G9N4ZX,"Drainage of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0G9N4Z,2016,2027
+0G9N4ZZ,"Drainage of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0G9N4Z,2016,2027
+0G9P,"Inferior Parathyroid Gland, Left",0G9,2016,2027
+0G9P0,Open,0G9P,2016,2027
+0G9P00,Drainage Device,0G9P0,2016,2027
+0G9P00Z,"Drainage of Left Inferior Parathyroid Gland with Drainage Device, Open Approach",0G9P00,2016,2027
+0G9P0Z,No Device,0G9P0,2016,2027
+0G9P0ZX,"Drainage of Left Inferior Parathyroid Gland, Open Approach, Diagnostic",0G9P0Z,2016,2027
+0G9P0ZZ,"Drainage of Left Inferior Parathyroid Gland, Open Approach",0G9P0Z,2016,2027
+0G9P3,Percutaneous,0G9P,2016,2027
+0G9P30,Drainage Device,0G9P3,2016,2027
+0G9P30Z,"Drainage of Left Inferior Parathyroid Gland with Drainage Device, Percutaneous Approach",0G9P30,2016,2027
+0G9P3Z,No Device,0G9P3,2016,2027
+0G9P3ZX,"Drainage of Left Inferior Parathyroid Gland, Percutaneous Approach, Diagnostic",0G9P3Z,2016,2027
+0G9P3ZZ,"Drainage of Left Inferior Parathyroid Gland, Percutaneous Approach",0G9P3Z,2016,2027
+0G9P4,Percutaneous Endoscopic,0G9P,2016,2027
+0G9P40,Drainage Device,0G9P4,2016,2027
+0G9P40Z,"Drainage of Left Inferior Parathyroid Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9P40,2016,2027
+0G9P4Z,No Device,0G9P4,2016,2027
+0G9P4ZX,"Drainage of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0G9P4Z,2016,2027
+0G9P4ZZ,"Drainage of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0G9P4Z,2016,2027
+0G9Q,"Parathyroid Glands, Multiple",0G9,2016,2027
+0G9Q0,Open,0G9Q,2016,2027
+0G9Q00,Drainage Device,0G9Q0,2016,2027
+0G9Q00Z,"Drainage of Multiple Parathyroid Glands with Drainage Device, Open Approach",0G9Q00,2016,2027
+0G9Q0Z,No Device,0G9Q0,2016,2027
+0G9Q0ZX,"Drainage of Multiple Parathyroid Glands, Open Approach, Diagnostic",0G9Q0Z,2016,2027
+0G9Q0ZZ,"Drainage of Multiple Parathyroid Glands, Open Approach",0G9Q0Z,2016,2027
+0G9Q3,Percutaneous,0G9Q,2016,2027
+0G9Q30,Drainage Device,0G9Q3,2016,2027
+0G9Q30Z,"Drainage of Multiple Parathyroid Glands with Drainage Device, Percutaneous Approach",0G9Q30,2016,2027
+0G9Q3Z,No Device,0G9Q3,2016,2027
+0G9Q3ZX,"Drainage of Multiple Parathyroid Glands, Percutaneous Approach, Diagnostic",0G9Q3Z,2016,2027
+0G9Q3ZZ,"Drainage of Multiple Parathyroid Glands, Percutaneous Approach",0G9Q3Z,2016,2027
+0G9Q4,Percutaneous Endoscopic,0G9Q,2016,2027
+0G9Q40,Drainage Device,0G9Q4,2016,2027
+0G9Q40Z,"Drainage of Multiple Parathyroid Glands with Drainage Device, Percutaneous Endoscopic Approach",0G9Q40,2016,2027
+0G9Q4Z,No Device,0G9Q4,2016,2027
+0G9Q4ZX,"Drainage of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach, Diagnostic",0G9Q4Z,2016,2027
+0G9Q4ZZ,"Drainage of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0G9Q4Z,2016,2027
+0G9R,Parathyroid Gland,0G9,2016,2027
+0G9R0,Open,0G9R,2016,2027
+0G9R00,Drainage Device,0G9R0,2016,2027
+0G9R00Z,"Drainage of Parathyroid Gland with Drainage Device, Open Approach",0G9R00,2016,2027
+0G9R0Z,No Device,0G9R0,2016,2027
+0G9R0ZX,"Drainage of Parathyroid Gland, Open Approach, Diagnostic",0G9R0Z,2016,2027
+0G9R0ZZ,"Drainage of Parathyroid Gland, Open Approach",0G9R0Z,2016,2027
+0G9R3,Percutaneous,0G9R,2016,2027
+0G9R30,Drainage Device,0G9R3,2016,2027
+0G9R30Z,"Drainage of Parathyroid Gland with Drainage Device, Percutaneous Approach",0G9R30,2016,2027
+0G9R3Z,No Device,0G9R3,2016,2027
+0G9R3ZX,"Drainage of Parathyroid Gland, Percutaneous Approach, Diagnostic",0G9R3Z,2016,2027
+0G9R3ZZ,"Drainage of Parathyroid Gland, Percutaneous Approach",0G9R3Z,2016,2027
+0G9R4,Percutaneous Endoscopic,0G9R,2016,2027
+0G9R40,Drainage Device,0G9R4,2016,2027
+0G9R40Z,"Drainage of Parathyroid Gland with Drainage Device, Percutaneous Endoscopic Approach",0G9R40,2016,2027
+0G9R4Z,No Device,0G9R4,2016,2027
+0G9R4ZX,"Drainage of Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0G9R4Z,2016,2027
+0G9R4ZZ,"Drainage of Parathyroid Gland, Percutaneous Endoscopic Approach",0G9R4Z,2016,2027
+0GB,Excision,0G,2016,2027
+0GB0,Pituitary Gland,0GB,2016,2027
+0GB00,Open,0GB0,2016,2027
+0GB00Z,No Device,0GB00,2016,2027
+0GB00ZX,"Excision of Pituitary Gland, Open Approach, Diagnostic",0GB00Z,2016,2027
+0GB00ZZ,"Excision of Pituitary Gland, Open Approach",0GB00Z,2016,2027
+0GB03,Percutaneous,0GB0,2016,2027
+0GB03Z,No Device,0GB03,2016,2027
+0GB03ZX,"Excision of Pituitary Gland, Percutaneous Approach, Diagnostic",0GB03Z,2016,2027
+0GB03ZZ,"Excision of Pituitary Gland, Percutaneous Approach",0GB03Z,2016,2027
+0GB04,Percutaneous Endoscopic,0GB0,2016,2027
+0GB04Z,No Device,0GB04,2016,2027
+0GB04ZX,"Excision of Pituitary Gland, Percutaneous Endoscopic Approach, Diagnostic",0GB04Z,2016,2027
+0GB04ZZ,"Excision of Pituitary Gland, Percutaneous Endoscopic Approach",0GB04Z,2016,2027
+0GB1,Pineal Body,0GB,2016,2027
+0GB10,Open,0GB1,2016,2027
+0GB10Z,No Device,0GB10,2016,2027
+0GB10ZX,"Excision of Pineal Body, Open Approach, Diagnostic",0GB10Z,2016,2027
+0GB10ZZ,"Excision of Pineal Body, Open Approach",0GB10Z,2016,2027
+0GB13,Percutaneous,0GB1,2016,2027
+0GB13Z,No Device,0GB13,2016,2027
+0GB13ZX,"Excision of Pineal Body, Percutaneous Approach, Diagnostic",0GB13Z,2016,2027
+0GB13ZZ,"Excision of Pineal Body, Percutaneous Approach",0GB13Z,2016,2027
+0GB14,Percutaneous Endoscopic,0GB1,2016,2027
+0GB14Z,No Device,0GB14,2016,2027
+0GB14ZX,"Excision of Pineal Body, Percutaneous Endoscopic Approach, Diagnostic",0GB14Z,2016,2027
+0GB14ZZ,"Excision of Pineal Body, Percutaneous Endoscopic Approach",0GB14Z,2016,2027
+0GB2,"Adrenal Gland, Left",0GB,2016,2027
+0GB20,Open,0GB2,2016,2027
+0GB20Z,No Device,0GB20,2016,2027
+0GB20ZX,"Excision of Left Adrenal Gland, Open Approach, Diagnostic",0GB20Z,2016,2027
+0GB20ZZ,"Excision of Left Adrenal Gland, Open Approach",0GB20Z,2016,2027
+0GB23,Percutaneous,0GB2,2016,2027
+0GB23Z,No Device,0GB23,2016,2027
+0GB23ZX,"Excision of Left Adrenal Gland, Percutaneous Approach, Diagnostic",0GB23Z,2016,2027
+0GB23ZZ,"Excision of Left Adrenal Gland, Percutaneous Approach",0GB23Z,2016,2027
+0GB24,Percutaneous Endoscopic,0GB2,2016,2027
+0GB24Z,No Device,0GB24,2016,2027
+0GB24ZX,"Excision of Left Adrenal Gland, Percutaneous Endoscopic Approach, Diagnostic",0GB24Z,2016,2027
+0GB24ZZ,"Excision of Left Adrenal Gland, Percutaneous Endoscopic Approach",0GB24Z,2016,2027
+0GB3,"Adrenal Gland, Right",0GB,2016,2027
+0GB30,Open,0GB3,2016,2027
+0GB30Z,No Device,0GB30,2016,2027
+0GB30ZX,"Excision of Right Adrenal Gland, Open Approach, Diagnostic",0GB30Z,2016,2027
+0GB30ZZ,"Excision of Right Adrenal Gland, Open Approach",0GB30Z,2016,2027
+0GB33,Percutaneous,0GB3,2016,2027
+0GB33Z,No Device,0GB33,2016,2027
+0GB33ZX,"Excision of Right Adrenal Gland, Percutaneous Approach, Diagnostic",0GB33Z,2016,2027
+0GB33ZZ,"Excision of Right Adrenal Gland, Percutaneous Approach",0GB33Z,2016,2027
+0GB34,Percutaneous Endoscopic,0GB3,2016,2027
+0GB34Z,No Device,0GB34,2016,2027
+0GB34ZX,"Excision of Right Adrenal Gland, Percutaneous Endoscopic Approach, Diagnostic",0GB34Z,2016,2027
+0GB34ZZ,"Excision of Right Adrenal Gland, Percutaneous Endoscopic Approach",0GB34Z,2016,2027
+0GB4,"Adrenal Glands, Bilateral",0GB,2016,2027
+0GB40,Open,0GB4,2016,2027
+0GB40Z,No Device,0GB40,2016,2027
+0GB40ZX,"Excision of Bilateral Adrenal Glands, Open Approach, Diagnostic",0GB40Z,2016,2027
+0GB40ZZ,"Excision of Bilateral Adrenal Glands, Open Approach",0GB40Z,2016,2027
+0GB43,Percutaneous,0GB4,2016,2027
+0GB43Z,No Device,0GB43,2016,2027
+0GB43ZX,"Excision of Bilateral Adrenal Glands, Percutaneous Approach, Diagnostic",0GB43Z,2016,2027
+0GB43ZZ,"Excision of Bilateral Adrenal Glands, Percutaneous Approach",0GB43Z,2016,2027
+0GB44,Percutaneous Endoscopic,0GB4,2016,2027
+0GB44Z,No Device,0GB44,2016,2027
+0GB44ZX,"Excision of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach, Diagnostic",0GB44Z,2016,2027
+0GB44ZZ,"Excision of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0GB44Z,2016,2027
+0GB6,"Carotid Body, Left",0GB,2016,2027
+0GB60,Open,0GB6,2016,2027
+0GB60Z,No Device,0GB60,2016,2027
+0GB60ZX,"Excision of Left Carotid Body, Open Approach, Diagnostic",0GB60Z,2016,2027
+0GB60ZZ,"Excision of Left Carotid Body, Open Approach",0GB60Z,2016,2027
+0GB63,Percutaneous,0GB6,2016,2027
+0GB63Z,No Device,0GB63,2016,2027
+0GB63ZX,"Excision of Left Carotid Body, Percutaneous Approach, Diagnostic",0GB63Z,2016,2027
+0GB63ZZ,"Excision of Left Carotid Body, Percutaneous Approach",0GB63Z,2016,2027
+0GB64,Percutaneous Endoscopic,0GB6,2016,2027
+0GB64Z,No Device,0GB64,2016,2027
+0GB64ZX,"Excision of Left Carotid Body, Percutaneous Endoscopic Approach, Diagnostic",0GB64Z,2016,2027
+0GB64ZZ,"Excision of Left Carotid Body, Percutaneous Endoscopic Approach",0GB64Z,2016,2027
+0GB7,"Carotid Body, Right",0GB,2016,2027
+0GB70,Open,0GB7,2016,2027
+0GB70Z,No Device,0GB70,2016,2027
+0GB70ZX,"Excision of Right Carotid Body, Open Approach, Diagnostic",0GB70Z,2016,2027
+0GB70ZZ,"Excision of Right Carotid Body, Open Approach",0GB70Z,2016,2027
+0GB73,Percutaneous,0GB7,2016,2027
+0GB73Z,No Device,0GB73,2016,2027
+0GB73ZX,"Excision of Right Carotid Body, Percutaneous Approach, Diagnostic",0GB73Z,2016,2027
+0GB73ZZ,"Excision of Right Carotid Body, Percutaneous Approach",0GB73Z,2016,2027
+0GB74,Percutaneous Endoscopic,0GB7,2016,2027
+0GB74Z,No Device,0GB74,2016,2027
+0GB74ZX,"Excision of Right Carotid Body, Percutaneous Endoscopic Approach, Diagnostic",0GB74Z,2016,2027
+0GB74ZZ,"Excision of Right Carotid Body, Percutaneous Endoscopic Approach",0GB74Z,2016,2027
+0GB8,"Carotid Bodies, Bilateral",0GB,2016,2027
+0GB80,Open,0GB8,2016,2027
+0GB80Z,No Device,0GB80,2016,2027
+0GB80ZX,"Excision of Bilateral Carotid Bodies, Open Approach, Diagnostic",0GB80Z,2016,2027
+0GB80ZZ,"Excision of Bilateral Carotid Bodies, Open Approach",0GB80Z,2016,2027
+0GB83,Percutaneous,0GB8,2016,2027
+0GB83Z,No Device,0GB83,2016,2027
+0GB83ZX,"Excision of Bilateral Carotid Bodies, Percutaneous Approach, Diagnostic",0GB83Z,2016,2027
+0GB83ZZ,"Excision of Bilateral Carotid Bodies, Percutaneous Approach",0GB83Z,2016,2027
+0GB84,Percutaneous Endoscopic,0GB8,2016,2027
+0GB84Z,No Device,0GB84,2016,2027
+0GB84ZX,"Excision of Bilateral Carotid Bodies, Percutaneous Endoscopic Approach, Diagnostic",0GB84Z,2016,2027
+0GB84ZZ,"Excision of Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0GB84Z,2016,2027
+0GB9,Para-aortic Body,0GB,2016,2027
+0GB90,Open,0GB9,2016,2027
+0GB90Z,No Device,0GB90,2016,2027
+0GB90ZX,"Excision of Para-aortic Body, Open Approach, Diagnostic",0GB90Z,2016,2027
+0GB90ZZ,"Excision of Para-aortic Body, Open Approach",0GB90Z,2016,2027
+0GB93,Percutaneous,0GB9,2016,2027
+0GB93Z,No Device,0GB93,2016,2027
+0GB93ZX,"Excision of Para-aortic Body, Percutaneous Approach, Diagnostic",0GB93Z,2016,2027
+0GB93ZZ,"Excision of Para-aortic Body, Percutaneous Approach",0GB93Z,2016,2027
+0GB94,Percutaneous Endoscopic,0GB9,2016,2027
+0GB94Z,No Device,0GB94,2016,2027
+0GB94ZX,"Excision of Para-aortic Body, Percutaneous Endoscopic Approach, Diagnostic",0GB94Z,2016,2027
+0GB94ZZ,"Excision of Para-aortic Body, Percutaneous Endoscopic Approach",0GB94Z,2016,2027
+0GBB,Coccygeal Glomus,0GB,2016,2027
+0GBB0,Open,0GBB,2016,2027
+0GBB0Z,No Device,0GBB0,2016,2027
+0GBB0ZX,"Excision of Coccygeal Glomus, Open Approach, Diagnostic",0GBB0Z,2016,2027
+0GBB0ZZ,"Excision of Coccygeal Glomus, Open Approach",0GBB0Z,2016,2027
+0GBB3,Percutaneous,0GBB,2016,2027
+0GBB3Z,No Device,0GBB3,2016,2027
+0GBB3ZX,"Excision of Coccygeal Glomus, Percutaneous Approach, Diagnostic",0GBB3Z,2016,2027
+0GBB3ZZ,"Excision of Coccygeal Glomus, Percutaneous Approach",0GBB3Z,2016,2027
+0GBB4,Percutaneous Endoscopic,0GBB,2016,2027
+0GBB4Z,No Device,0GBB4,2016,2027
+0GBB4ZX,"Excision of Coccygeal Glomus, Percutaneous Endoscopic Approach, Diagnostic",0GBB4Z,2016,2027
+0GBB4ZZ,"Excision of Coccygeal Glomus, Percutaneous Endoscopic Approach",0GBB4Z,2016,2027
+0GBC,Glomus Jugulare,0GB,2016,2027
+0GBC0,Open,0GBC,2016,2027
+0GBC0Z,No Device,0GBC0,2016,2027
+0GBC0ZX,"Excision of Glomus Jugulare, Open Approach, Diagnostic",0GBC0Z,2016,2027
+0GBC0ZZ,"Excision of Glomus Jugulare, Open Approach",0GBC0Z,2016,2027
+0GBC3,Percutaneous,0GBC,2016,2027
+0GBC3Z,No Device,0GBC3,2016,2027
+0GBC3ZX,"Excision of Glomus Jugulare, Percutaneous Approach, Diagnostic",0GBC3Z,2016,2027
+0GBC3ZZ,"Excision of Glomus Jugulare, Percutaneous Approach",0GBC3Z,2016,2027
+0GBC4,Percutaneous Endoscopic,0GBC,2016,2027
+0GBC4Z,No Device,0GBC4,2016,2027
+0GBC4ZX,"Excision of Glomus Jugulare, Percutaneous Endoscopic Approach, Diagnostic",0GBC4Z,2016,2027
+0GBC4ZZ,"Excision of Glomus Jugulare, Percutaneous Endoscopic Approach",0GBC4Z,2016,2027
+0GBD,Aortic Body,0GB,2016,2027
+0GBD0,Open,0GBD,2016,2027
+0GBD0Z,No Device,0GBD0,2016,2027
+0GBD0ZX,"Excision of Aortic Body, Open Approach, Diagnostic",0GBD0Z,2016,2027
+0GBD0ZZ,"Excision of Aortic Body, Open Approach",0GBD0Z,2016,2027
+0GBD3,Percutaneous,0GBD,2016,2027
+0GBD3Z,No Device,0GBD3,2016,2027
+0GBD3ZX,"Excision of Aortic Body, Percutaneous Approach, Diagnostic",0GBD3Z,2016,2027
+0GBD3ZZ,"Excision of Aortic Body, Percutaneous Approach",0GBD3Z,2016,2027
+0GBD4,Percutaneous Endoscopic,0GBD,2016,2027
+0GBD4Z,No Device,0GBD4,2016,2027
+0GBD4ZX,"Excision of Aortic Body, Percutaneous Endoscopic Approach, Diagnostic",0GBD4Z,2016,2027
+0GBD4ZZ,"Excision of Aortic Body, Percutaneous Endoscopic Approach",0GBD4Z,2016,2027
+0GBF,Paraganglion Extremity,0GB,2016,2027
+0GBF0,Open,0GBF,2016,2027
+0GBF0Z,No Device,0GBF0,2016,2027
+0GBF0ZX,"Excision of Paraganglion Extremity, Open Approach, Diagnostic",0GBF0Z,2016,2027
+0GBF0ZZ,"Excision of Paraganglion Extremity, Open Approach",0GBF0Z,2016,2027
+0GBF3,Percutaneous,0GBF,2016,2027
+0GBF3Z,No Device,0GBF3,2016,2027
+0GBF3ZX,"Excision of Paraganglion Extremity, Percutaneous Approach, Diagnostic",0GBF3Z,2016,2027
+0GBF3ZZ,"Excision of Paraganglion Extremity, Percutaneous Approach",0GBF3Z,2016,2027
+0GBF4,Percutaneous Endoscopic,0GBF,2016,2027
+0GBF4Z,No Device,0GBF4,2016,2027
+0GBF4ZX,"Excision of Paraganglion Extremity, Percutaneous Endoscopic Approach, Diagnostic",0GBF4Z,2016,2027
+0GBF4ZZ,"Excision of Paraganglion Extremity, Percutaneous Endoscopic Approach",0GBF4Z,2016,2027
+0GBG,"Thyroid Gland Lobe, Left",0GB,2016,2027
+0GBG0,Open,0GBG,2016,2027
+0GBG0Z,No Device,0GBG0,2016,2027
+0GBG0ZX,"Excision of Left Thyroid Gland Lobe, Open Approach, Diagnostic",0GBG0Z,2016,2027
+0GBG0ZZ,"Excision of Left Thyroid Gland Lobe, Open Approach",0GBG0Z,2016,2027
+0GBG3,Percutaneous,0GBG,2016,2027
+0GBG3Z,No Device,0GBG3,2016,2027
+0GBG3ZX,"Excision of Left Thyroid Gland Lobe, Percutaneous Approach, Diagnostic",0GBG3Z,2016,2027
+0GBG3ZZ,"Excision of Left Thyroid Gland Lobe, Percutaneous Approach",0GBG3Z,2016,2027
+0GBG4,Percutaneous Endoscopic,0GBG,2016,2027
+0GBG4Z,No Device,0GBG4,2016,2027
+0GBG4ZX,"Excision of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach, Diagnostic",0GBG4Z,2016,2027
+0GBG4ZZ,"Excision of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GBG4Z,2016,2027
+0GBH,"Thyroid Gland Lobe, Right",0GB,2016,2027
+0GBH0,Open,0GBH,2016,2027
+0GBH0Z,No Device,0GBH0,2016,2027
+0GBH0ZX,"Excision of Right Thyroid Gland Lobe, Open Approach, Diagnostic",0GBH0Z,2016,2027
+0GBH0ZZ,"Excision of Right Thyroid Gland Lobe, Open Approach",0GBH0Z,2016,2027
+0GBH3,Percutaneous,0GBH,2016,2027
+0GBH3Z,No Device,0GBH3,2016,2027
+0GBH3ZX,"Excision of Right Thyroid Gland Lobe, Percutaneous Approach, Diagnostic",0GBH3Z,2016,2027
+0GBH3ZZ,"Excision of Right Thyroid Gland Lobe, Percutaneous Approach",0GBH3Z,2016,2027
+0GBH4,Percutaneous Endoscopic,0GBH,2016,2027
+0GBH4Z,No Device,0GBH4,2016,2027
+0GBH4ZX,"Excision of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach, Diagnostic",0GBH4Z,2016,2027
+0GBH4ZZ,"Excision of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GBH4Z,2016,2027
+0GBJ,Thyroid Gland Isthmus,0GB,2018,2027
+0GBJ0,Open,0GBJ,2018,2027
+0GBJ0Z,No Device,0GBJ0,2018,2027
+0GBJ0ZX,"Excision of Thyroid Gland Isthmus, Open Approach, Diagnostic",0GBJ0Z,2018,2027
+0GBJ0ZZ,"Excision of Thyroid Gland Isthmus, Open Approach",0GBJ0Z,2018,2027
+0GBJ3,Percutaneous,0GBJ,2018,2027
+0GBJ3Z,No Device,0GBJ3,2018,2027
+0GBJ3ZX,"Excision of Thyroid Gland Isthmus, Percutaneous Approach, Diagnostic",0GBJ3Z,2018,2027
+0GBJ3ZZ,"Excision of Thyroid Gland Isthmus, Percutaneous Approach",0GBJ3Z,2018,2027
+0GBJ4,Percutaneous Endoscopic,0GBJ,2018,2027
+0GBJ4Z,No Device,0GBJ4,2018,2027
+0GBJ4ZX,"Excision of Thyroid Gland Isthmus, Percutaneous Endoscopic Approach, Diagnostic",0GBJ4Z,2018,2027
+0GBJ4ZZ,"Excision of Thyroid Gland Isthmus, Percutaneous Endoscopic Approach",0GBJ4Z,2018,2027
+0GBL,"Superior Parathyroid Gland, Right",0GB,2016,2027
+0GBL0,Open,0GBL,2016,2027
+0GBL0Z,No Device,0GBL0,2016,2027
+0GBL0ZX,"Excision of Right Superior Parathyroid Gland, Open Approach, Diagnostic",0GBL0Z,2016,2027
+0GBL0ZZ,"Excision of Right Superior Parathyroid Gland, Open Approach",0GBL0Z,2016,2027
+0GBL3,Percutaneous,0GBL,2016,2027
+0GBL3Z,No Device,0GBL3,2016,2027
+0GBL3ZX,"Excision of Right Superior Parathyroid Gland, Percutaneous Approach, Diagnostic",0GBL3Z,2016,2027
+0GBL3ZZ,"Excision of Right Superior Parathyroid Gland, Percutaneous Approach",0GBL3Z,2016,2027
+0GBL4,Percutaneous Endoscopic,0GBL,2016,2027
+0GBL4Z,No Device,0GBL4,2016,2027
+0GBL4ZX,"Excision of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0GBL4Z,2016,2027
+0GBL4ZZ,"Excision of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GBL4Z,2016,2027
+0GBM,"Superior Parathyroid Gland, Left",0GB,2016,2027
+0GBM0,Open,0GBM,2016,2027
+0GBM0Z,No Device,0GBM0,2016,2027
+0GBM0ZX,"Excision of Left Superior Parathyroid Gland, Open Approach, Diagnostic",0GBM0Z,2016,2027
+0GBM0ZZ,"Excision of Left Superior Parathyroid Gland, Open Approach",0GBM0Z,2016,2027
+0GBM3,Percutaneous,0GBM,2016,2027
+0GBM3Z,No Device,0GBM3,2016,2027
+0GBM3ZX,"Excision of Left Superior Parathyroid Gland, Percutaneous Approach, Diagnostic",0GBM3Z,2016,2027
+0GBM3ZZ,"Excision of Left Superior Parathyroid Gland, Percutaneous Approach",0GBM3Z,2016,2027
+0GBM4,Percutaneous Endoscopic,0GBM,2016,2027
+0GBM4Z,No Device,0GBM4,2016,2027
+0GBM4ZX,"Excision of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0GBM4Z,2016,2027
+0GBM4ZZ,"Excision of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GBM4Z,2016,2027
+0GBN,"Inferior Parathyroid Gland, Right",0GB,2016,2027
+0GBN0,Open,0GBN,2016,2027
+0GBN0Z,No Device,0GBN0,2016,2027
+0GBN0ZX,"Excision of Right Inferior Parathyroid Gland, Open Approach, Diagnostic",0GBN0Z,2016,2027
+0GBN0ZZ,"Excision of Right Inferior Parathyroid Gland, Open Approach",0GBN0Z,2016,2027
+0GBN3,Percutaneous,0GBN,2016,2027
+0GBN3Z,No Device,0GBN3,2016,2027
+0GBN3ZX,"Excision of Right Inferior Parathyroid Gland, Percutaneous Approach, Diagnostic",0GBN3Z,2016,2027
+0GBN3ZZ,"Excision of Right Inferior Parathyroid Gland, Percutaneous Approach",0GBN3Z,2016,2027
+0GBN4,Percutaneous Endoscopic,0GBN,2016,2027
+0GBN4Z,No Device,0GBN4,2016,2027
+0GBN4ZX,"Excision of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0GBN4Z,2016,2027
+0GBN4ZZ,"Excision of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GBN4Z,2016,2027
+0GBP,"Inferior Parathyroid Gland, Left",0GB,2016,2027
+0GBP0,Open,0GBP,2016,2027
+0GBP0Z,No Device,0GBP0,2016,2027
+0GBP0ZX,"Excision of Left Inferior Parathyroid Gland, Open Approach, Diagnostic",0GBP0Z,2016,2027
+0GBP0ZZ,"Excision of Left Inferior Parathyroid Gland, Open Approach",0GBP0Z,2016,2027
+0GBP3,Percutaneous,0GBP,2016,2027
+0GBP3Z,No Device,0GBP3,2016,2027
+0GBP3ZX,"Excision of Left Inferior Parathyroid Gland, Percutaneous Approach, Diagnostic",0GBP3Z,2016,2027
+0GBP3ZZ,"Excision of Left Inferior Parathyroid Gland, Percutaneous Approach",0GBP3Z,2016,2027
+0GBP4,Percutaneous Endoscopic,0GBP,2016,2027
+0GBP4Z,No Device,0GBP4,2016,2027
+0GBP4ZX,"Excision of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0GBP4Z,2016,2027
+0GBP4ZZ,"Excision of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GBP4Z,2016,2027
+0GBQ,"Parathyroid Glands, Multiple",0GB,2016,2027
+0GBQ0,Open,0GBQ,2016,2027
+0GBQ0Z,No Device,0GBQ0,2016,2027
+0GBQ0ZX,"Excision of Multiple Parathyroid Glands, Open Approach, Diagnostic",0GBQ0Z,2016,2027
+0GBQ0ZZ,"Excision of Multiple Parathyroid Glands, Open Approach",0GBQ0Z,2016,2027
+0GBQ3,Percutaneous,0GBQ,2016,2027
+0GBQ3Z,No Device,0GBQ3,2016,2027
+0GBQ3ZX,"Excision of Multiple Parathyroid Glands, Percutaneous Approach, Diagnostic",0GBQ3Z,2016,2027
+0GBQ3ZZ,"Excision of Multiple Parathyroid Glands, Percutaneous Approach",0GBQ3Z,2016,2027
+0GBQ4,Percutaneous Endoscopic,0GBQ,2016,2027
+0GBQ4Z,No Device,0GBQ4,2016,2027
+0GBQ4ZX,"Excision of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach, Diagnostic",0GBQ4Z,2016,2027
+0GBQ4ZZ,"Excision of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GBQ4Z,2016,2027
+0GBR,Parathyroid Gland,0GB,2016,2027
+0GBR0,Open,0GBR,2016,2027
+0GBR0Z,No Device,0GBR0,2016,2027
+0GBR0ZX,"Excision of Parathyroid Gland, Open Approach, Diagnostic",0GBR0Z,2016,2027
+0GBR0ZZ,"Excision of Parathyroid Gland, Open Approach",0GBR0Z,2016,2027
+0GBR3,Percutaneous,0GBR,2016,2027
+0GBR3Z,No Device,0GBR3,2016,2027
+0GBR3ZX,"Excision of Parathyroid Gland, Percutaneous Approach, Diagnostic",0GBR3Z,2016,2027
+0GBR3ZZ,"Excision of Parathyroid Gland, Percutaneous Approach",0GBR3Z,2016,2027
+0GBR4,Percutaneous Endoscopic,0GBR,2016,2027
+0GBR4Z,No Device,0GBR4,2016,2027
+0GBR4ZX,"Excision of Parathyroid Gland, Percutaneous Endoscopic Approach, Diagnostic",0GBR4Z,2016,2027
+0GBR4ZZ,"Excision of Parathyroid Gland, Percutaneous Endoscopic Approach",0GBR4Z,2016,2027
+0GC,Extirpation,0G,2016,2027
+0GC0,Pituitary Gland,0GC,2016,2027
+0GC00,Open,0GC0,2016,2027
+0GC00Z,No Device,0GC00,2016,2027
+0GC00ZZ,"Extirpation of Matter from Pituitary Gland, Open Approach",0GC00Z,2016,2027
+0GC03,Percutaneous,0GC0,2016,2027
+0GC03Z,No Device,0GC03,2016,2027
+0GC03ZZ,"Extirpation of Matter from Pituitary Gland, Percutaneous Approach",0GC03Z,2016,2027
+0GC04,Percutaneous Endoscopic,0GC0,2016,2027
+0GC04Z,No Device,0GC04,2016,2027
+0GC04ZZ,"Extirpation of Matter from Pituitary Gland, Percutaneous Endoscopic Approach",0GC04Z,2016,2027
+0GC1,Pineal Body,0GC,2016,2027
+0GC10,Open,0GC1,2016,2027
+0GC10Z,No Device,0GC10,2016,2027
+0GC10ZZ,"Extirpation of Matter from Pineal Body, Open Approach",0GC10Z,2016,2027
+0GC13,Percutaneous,0GC1,2016,2027
+0GC13Z,No Device,0GC13,2016,2027
+0GC13ZZ,"Extirpation of Matter from Pineal Body, Percutaneous Approach",0GC13Z,2016,2027
+0GC14,Percutaneous Endoscopic,0GC1,2016,2027
+0GC14Z,No Device,0GC14,2016,2027
+0GC14ZZ,"Extirpation of Matter from Pineal Body, Percutaneous Endoscopic Approach",0GC14Z,2016,2027
+0GC2,"Adrenal Gland, Left",0GC,2016,2027
+0GC20,Open,0GC2,2016,2027
+0GC20Z,No Device,0GC20,2016,2027
+0GC20ZZ,"Extirpation of Matter from Left Adrenal Gland, Open Approach",0GC20Z,2016,2027
+0GC23,Percutaneous,0GC2,2016,2027
+0GC23Z,No Device,0GC23,2016,2027
+0GC23ZZ,"Extirpation of Matter from Left Adrenal Gland, Percutaneous Approach",0GC23Z,2016,2027
+0GC24,Percutaneous Endoscopic,0GC2,2016,2027
+0GC24Z,No Device,0GC24,2016,2027
+0GC24ZZ,"Extirpation of Matter from Left Adrenal Gland, Percutaneous Endoscopic Approach",0GC24Z,2016,2027
+0GC3,"Adrenal Gland, Right",0GC,2016,2027
+0GC30,Open,0GC3,2016,2027
+0GC30Z,No Device,0GC30,2016,2027
+0GC30ZZ,"Extirpation of Matter from Right Adrenal Gland, Open Approach",0GC30Z,2016,2027
+0GC33,Percutaneous,0GC3,2016,2027
+0GC33Z,No Device,0GC33,2016,2027
+0GC33ZZ,"Extirpation of Matter from Right Adrenal Gland, Percutaneous Approach",0GC33Z,2016,2027
+0GC34,Percutaneous Endoscopic,0GC3,2016,2027
+0GC34Z,No Device,0GC34,2016,2027
+0GC34ZZ,"Extirpation of Matter from Right Adrenal Gland, Percutaneous Endoscopic Approach",0GC34Z,2016,2027
+0GC4,"Adrenal Glands, Bilateral",0GC,2016,2027
+0GC40,Open,0GC4,2016,2027
+0GC40Z,No Device,0GC40,2016,2027
+0GC40ZZ,"Extirpation of Matter from Bilateral Adrenal Glands, Open Approach",0GC40Z,2016,2027
+0GC43,Percutaneous,0GC4,2016,2027
+0GC43Z,No Device,0GC43,2016,2027
+0GC43ZZ,"Extirpation of Matter from Bilateral Adrenal Glands, Percutaneous Approach",0GC43Z,2016,2027
+0GC44,Percutaneous Endoscopic,0GC4,2016,2027
+0GC44Z,No Device,0GC44,2016,2027
+0GC44ZZ,"Extirpation of Matter from Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0GC44Z,2016,2027
+0GC6,"Carotid Body, Left",0GC,2016,2027
+0GC60,Open,0GC6,2016,2027
+0GC60Z,No Device,0GC60,2016,2027
+0GC60ZZ,"Extirpation of Matter from Left Carotid Body, Open Approach",0GC60Z,2016,2027
+0GC63,Percutaneous,0GC6,2016,2027
+0GC63Z,No Device,0GC63,2016,2027
+0GC63ZZ,"Extirpation of Matter from Left Carotid Body, Percutaneous Approach",0GC63Z,2016,2027
+0GC64,Percutaneous Endoscopic,0GC6,2016,2027
+0GC64Z,No Device,0GC64,2016,2027
+0GC64ZZ,"Extirpation of Matter from Left Carotid Body, Percutaneous Endoscopic Approach",0GC64Z,2016,2027
+0GC7,"Carotid Body, Right",0GC,2016,2027
+0GC70,Open,0GC7,2016,2027
+0GC70Z,No Device,0GC70,2016,2027
+0GC70ZZ,"Extirpation of Matter from Right Carotid Body, Open Approach",0GC70Z,2016,2027
+0GC73,Percutaneous,0GC7,2016,2027
+0GC73Z,No Device,0GC73,2016,2027
+0GC73ZZ,"Extirpation of Matter from Right Carotid Body, Percutaneous Approach",0GC73Z,2016,2027
+0GC74,Percutaneous Endoscopic,0GC7,2016,2027
+0GC74Z,No Device,0GC74,2016,2027
+0GC74ZZ,"Extirpation of Matter from Right Carotid Body, Percutaneous Endoscopic Approach",0GC74Z,2016,2027
+0GC8,"Carotid Bodies, Bilateral",0GC,2016,2027
+0GC80,Open,0GC8,2016,2027
+0GC80Z,No Device,0GC80,2016,2027
+0GC80ZZ,"Extirpation of Matter from Bilateral Carotid Bodies, Open Approach",0GC80Z,2016,2027
+0GC83,Percutaneous,0GC8,2016,2027
+0GC83Z,No Device,0GC83,2016,2027
+0GC83ZZ,"Extirpation of Matter from Bilateral Carotid Bodies, Percutaneous Approach",0GC83Z,2016,2027
+0GC84,Percutaneous Endoscopic,0GC8,2016,2027
+0GC84Z,No Device,0GC84,2016,2027
+0GC84ZZ,"Extirpation of Matter from Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0GC84Z,2016,2027
+0GC9,Para-aortic Body,0GC,2016,2027
+0GC90,Open,0GC9,2016,2027
+0GC90Z,No Device,0GC90,2016,2027
+0GC90ZZ,"Extirpation of Matter from Para-aortic Body, Open Approach",0GC90Z,2016,2027
+0GC93,Percutaneous,0GC9,2016,2027
+0GC93Z,No Device,0GC93,2016,2027
+0GC93ZZ,"Extirpation of Matter from Para-aortic Body, Percutaneous Approach",0GC93Z,2016,2027
+0GC94,Percutaneous Endoscopic,0GC9,2016,2027
+0GC94Z,No Device,0GC94,2016,2027
+0GC94ZZ,"Extirpation of Matter from Para-aortic Body, Percutaneous Endoscopic Approach",0GC94Z,2016,2027
+0GCB,Coccygeal Glomus,0GC,2016,2027
+0GCB0,Open,0GCB,2016,2027
+0GCB0Z,No Device,0GCB0,2016,2027
+0GCB0ZZ,"Extirpation of Matter from Coccygeal Glomus, Open Approach",0GCB0Z,2016,2027
+0GCB3,Percutaneous,0GCB,2016,2027
+0GCB3Z,No Device,0GCB3,2016,2027
+0GCB3ZZ,"Extirpation of Matter from Coccygeal Glomus, Percutaneous Approach",0GCB3Z,2016,2027
+0GCB4,Percutaneous Endoscopic,0GCB,2016,2027
+0GCB4Z,No Device,0GCB4,2016,2027
+0GCB4ZZ,"Extirpation of Matter from Coccygeal Glomus, Percutaneous Endoscopic Approach",0GCB4Z,2016,2027
+0GCC,Glomus Jugulare,0GC,2016,2027
+0GCC0,Open,0GCC,2016,2027
+0GCC0Z,No Device,0GCC0,2016,2027
+0GCC0ZZ,"Extirpation of Matter from Glomus Jugulare, Open Approach",0GCC0Z,2016,2027
+0GCC3,Percutaneous,0GCC,2016,2027
+0GCC3Z,No Device,0GCC3,2016,2027
+0GCC3ZZ,"Extirpation of Matter from Glomus Jugulare, Percutaneous Approach",0GCC3Z,2016,2027
+0GCC4,Percutaneous Endoscopic,0GCC,2016,2027
+0GCC4Z,No Device,0GCC4,2016,2027
+0GCC4ZZ,"Extirpation of Matter from Glomus Jugulare, Percutaneous Endoscopic Approach",0GCC4Z,2016,2027
+0GCD,Aortic Body,0GC,2016,2027
+0GCD0,Open,0GCD,2016,2027
+0GCD0Z,No Device,0GCD0,2016,2027
+0GCD0ZZ,"Extirpation of Matter from Aortic Body, Open Approach",0GCD0Z,2016,2027
+0GCD3,Percutaneous,0GCD,2016,2027
+0GCD3Z,No Device,0GCD3,2016,2027
+0GCD3ZZ,"Extirpation of Matter from Aortic Body, Percutaneous Approach",0GCD3Z,2016,2027
+0GCD4,Percutaneous Endoscopic,0GCD,2016,2027
+0GCD4Z,No Device,0GCD4,2016,2027
+0GCD4ZZ,"Extirpation of Matter from Aortic Body, Percutaneous Endoscopic Approach",0GCD4Z,2016,2027
+0GCF,Paraganglion Extremity,0GC,2016,2027
+0GCF0,Open,0GCF,2016,2027
+0GCF0Z,No Device,0GCF0,2016,2027
+0GCF0ZZ,"Extirpation of Matter from Paraganglion Extremity, Open Approach",0GCF0Z,2016,2027
+0GCF3,Percutaneous,0GCF,2016,2027
+0GCF3Z,No Device,0GCF3,2016,2027
+0GCF3ZZ,"Extirpation of Matter from Paraganglion Extremity, Percutaneous Approach",0GCF3Z,2016,2027
+0GCF4,Percutaneous Endoscopic,0GCF,2016,2027
+0GCF4Z,No Device,0GCF4,2016,2027
+0GCF4ZZ,"Extirpation of Matter from Paraganglion Extremity, Percutaneous Endoscopic Approach",0GCF4Z,2016,2027
+0GCG,"Thyroid Gland Lobe, Left",0GC,2016,2027
+0GCG0,Open,0GCG,2016,2027
+0GCG0Z,No Device,0GCG0,2016,2027
+0GCG0ZZ,"Extirpation of Matter from Left Thyroid Gland Lobe, Open Approach",0GCG0Z,2016,2027
+0GCG3,Percutaneous,0GCG,2016,2027
+0GCG3Z,No Device,0GCG3,2016,2027
+0GCG3ZZ,"Extirpation of Matter from Left Thyroid Gland Lobe, Percutaneous Approach",0GCG3Z,2016,2027
+0GCG4,Percutaneous Endoscopic,0GCG,2016,2027
+0GCG4Z,No Device,0GCG4,2016,2027
+0GCG4ZZ,"Extirpation of Matter from Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GCG4Z,2016,2027
+0GCH,"Thyroid Gland Lobe, Right",0GC,2016,2027
+0GCH0,Open,0GCH,2016,2027
+0GCH0Z,No Device,0GCH0,2016,2027
+0GCH0ZZ,"Extirpation of Matter from Right Thyroid Gland Lobe, Open Approach",0GCH0Z,2016,2027
+0GCH3,Percutaneous,0GCH,2016,2027
+0GCH3Z,No Device,0GCH3,2016,2027
+0GCH3ZZ,"Extirpation of Matter from Right Thyroid Gland Lobe, Percutaneous Approach",0GCH3Z,2016,2027
+0GCH4,Percutaneous Endoscopic,0GCH,2016,2027
+0GCH4Z,No Device,0GCH4,2016,2027
+0GCH4ZZ,"Extirpation of Matter from Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GCH4Z,2016,2027
+0GCK,Thyroid Gland,0GC,2016,2027
+0GCK0,Open,0GCK,2016,2027
+0GCK0Z,No Device,0GCK0,2016,2027
+0GCK0ZZ,"Extirpation of Matter from Thyroid Gland, Open Approach",0GCK0Z,2016,2027
+0GCK3,Percutaneous,0GCK,2016,2027
+0GCK3Z,No Device,0GCK3,2016,2027
+0GCK3ZZ,"Extirpation of Matter from Thyroid Gland, Percutaneous Approach",0GCK3Z,2016,2027
+0GCK4,Percutaneous Endoscopic,0GCK,2016,2027
+0GCK4Z,No Device,0GCK4,2016,2027
+0GCK4ZZ,"Extirpation of Matter from Thyroid Gland, Percutaneous Endoscopic Approach",0GCK4Z,2016,2027
+0GCL,"Superior Parathyroid Gland, Right",0GC,2016,2027
+0GCL0,Open,0GCL,2016,2027
+0GCL0Z,No Device,0GCL0,2016,2027
+0GCL0ZZ,"Extirpation of Matter from Right Superior Parathyroid Gland, Open Approach",0GCL0Z,2016,2027
+0GCL3,Percutaneous,0GCL,2016,2027
+0GCL3Z,No Device,0GCL3,2016,2027
+0GCL3ZZ,"Extirpation of Matter from Right Superior Parathyroid Gland, Percutaneous Approach",0GCL3Z,2016,2027
+0GCL4,Percutaneous Endoscopic,0GCL,2016,2027
+0GCL4Z,No Device,0GCL4,2016,2027
+0GCL4ZZ,"Extirpation of Matter from Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GCL4Z,2016,2027
+0GCM,"Superior Parathyroid Gland, Left",0GC,2016,2027
+0GCM0,Open,0GCM,2016,2027
+0GCM0Z,No Device,0GCM0,2016,2027
+0GCM0ZZ,"Extirpation of Matter from Left Superior Parathyroid Gland, Open Approach",0GCM0Z,2016,2027
+0GCM3,Percutaneous,0GCM,2016,2027
+0GCM3Z,No Device,0GCM3,2016,2027
+0GCM3ZZ,"Extirpation of Matter from Left Superior Parathyroid Gland, Percutaneous Approach",0GCM3Z,2016,2027
+0GCM4,Percutaneous Endoscopic,0GCM,2016,2027
+0GCM4Z,No Device,0GCM4,2016,2027
+0GCM4ZZ,"Extirpation of Matter from Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GCM4Z,2016,2027
+0GCN,"Inferior Parathyroid Gland, Right",0GC,2016,2027
+0GCN0,Open,0GCN,2016,2027
+0GCN0Z,No Device,0GCN0,2016,2027
+0GCN0ZZ,"Extirpation of Matter from Right Inferior Parathyroid Gland, Open Approach",0GCN0Z,2016,2027
+0GCN3,Percutaneous,0GCN,2016,2027
+0GCN3Z,No Device,0GCN3,2016,2027
+0GCN3ZZ,"Extirpation of Matter from Right Inferior Parathyroid Gland, Percutaneous Approach",0GCN3Z,2016,2027
+0GCN4,Percutaneous Endoscopic,0GCN,2016,2027
+0GCN4Z,No Device,0GCN4,2016,2027
+0GCN4ZZ,"Extirpation of Matter from Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GCN4Z,2016,2027
+0GCP,"Inferior Parathyroid Gland, Left",0GC,2016,2027
+0GCP0,Open,0GCP,2016,2027
+0GCP0Z,No Device,0GCP0,2016,2027
+0GCP0ZZ,"Extirpation of Matter from Left Inferior Parathyroid Gland, Open Approach",0GCP0Z,2016,2027
+0GCP3,Percutaneous,0GCP,2016,2027
+0GCP3Z,No Device,0GCP3,2016,2027
+0GCP3ZZ,"Extirpation of Matter from Left Inferior Parathyroid Gland, Percutaneous Approach",0GCP3Z,2016,2027
+0GCP4,Percutaneous Endoscopic,0GCP,2016,2027
+0GCP4Z,No Device,0GCP4,2016,2027
+0GCP4ZZ,"Extirpation of Matter from Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GCP4Z,2016,2027
+0GCQ,"Parathyroid Glands, Multiple",0GC,2016,2027
+0GCQ0,Open,0GCQ,2016,2027
+0GCQ0Z,No Device,0GCQ0,2016,2027
+0GCQ0ZZ,"Extirpation of Matter from Multiple Parathyroid Glands, Open Approach",0GCQ0Z,2016,2027
+0GCQ3,Percutaneous,0GCQ,2016,2027
+0GCQ3Z,No Device,0GCQ3,2016,2027
+0GCQ3ZZ,"Extirpation of Matter from Multiple Parathyroid Glands, Percutaneous Approach",0GCQ3Z,2016,2027
+0GCQ4,Percutaneous Endoscopic,0GCQ,2016,2027
+0GCQ4Z,No Device,0GCQ4,2016,2027
+0GCQ4ZZ,"Extirpation of Matter from Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GCQ4Z,2016,2027
+0GCR,Parathyroid Gland,0GC,2016,2027
+0GCR0,Open,0GCR,2016,2027
+0GCR0Z,No Device,0GCR0,2016,2027
+0GCR0ZZ,"Extirpation of Matter from Parathyroid Gland, Open Approach",0GCR0Z,2016,2027
+0GCR3,Percutaneous,0GCR,2016,2027
+0GCR3Z,No Device,0GCR3,2016,2027
+0GCR3ZZ,"Extirpation of Matter from Parathyroid Gland, Percutaneous Approach",0GCR3Z,2016,2027
+0GCR4,Percutaneous Endoscopic,0GCR,2016,2027
+0GCR4Z,No Device,0GCR4,2016,2027
+0GCR4ZZ,"Extirpation of Matter from Parathyroid Gland, Percutaneous Endoscopic Approach",0GCR4Z,2016,2027
+0GH,Insertion,0G,2016,2027
+0GHS,Endocrine Gland,0GH,2016,2027
+0GHS0,Open,0GHS,2016,2027
+0GHS01,Radioactive Element,0GHS0,2021,2027
+0GHS01Z,"Insertion of Radioactive Element into Endocrine Gland, Open Approach",0GHS01,2021,2027
+0GHS02,Monitoring Device,0GHS0,2016,2027
+0GHS02Z,"Insertion of Monitoring Device into Endocrine Gland, Open Approach",0GHS02,2016,2027
+0GHS03,Infusion Device,0GHS0,2016,2027
+0GHS03Z,"Insertion of Infusion Device into Endocrine Gland, Open Approach",0GHS03,2016,2027
+0GHS0Y,Other Device,0GHS0,2018,2027
+0GHS0YZ,"Insertion of Other Device into Endocrine Gland, Open Approach",0GHS0Y,2018,2027
+0GHS3,Percutaneous,0GHS,2016,2027
+0GHS31,Radioactive Element,0GHS3,2021,2027
+0GHS31Z,"Insertion of Radioactive Element into Endocrine Gland, Percutaneous Approach",0GHS31,2021,2027
+0GHS32,Monitoring Device,0GHS3,2016,2027
+0GHS32Z,"Insertion of Monitoring Device into Endocrine Gland, Percutaneous Approach",0GHS32,2016,2027
+0GHS33,Infusion Device,0GHS3,2016,2027
+0GHS33Z,"Insertion of Infusion Device into Endocrine Gland, Percutaneous Approach",0GHS33,2016,2027
+0GHS3Y,Other Device,0GHS3,2018,2027
+0GHS3YZ,"Insertion of Other Device into Endocrine Gland, Percutaneous Approach",0GHS3Y,2018,2027
+0GHS4,Percutaneous Endoscopic,0GHS,2016,2027
+0GHS41,Radioactive Element,0GHS4,2021,2027
+0GHS41Z,"Insertion of Radioactive Element into Endocrine Gland, Percutaneous Endoscopic Approach",0GHS41,2021,2027
+0GHS42,Monitoring Device,0GHS4,2016,2027
+0GHS42Z,"Insertion of Monitoring Device into Endocrine Gland, Percutaneous Endoscopic Approach",0GHS42,2016,2027
+0GHS43,Infusion Device,0GHS4,2016,2027
+0GHS43Z,"Insertion of Infusion Device into Endocrine Gland, Percutaneous Endoscopic Approach",0GHS43,2016,2027
+0GHS4Y,Other Device,0GHS4,2018,2027
+0GHS4YZ,"Insertion of Other Device into Endocrine Gland, Percutaneous Endoscopic Approach",0GHS4Y,2018,2027
+0GJ,Inspection,0G,2016,2027
+0GJ0,Pituitary Gland,0GJ,2016,2027
+0GJ00,Open,0GJ0,2016,2027
+0GJ00Z,No Device,0GJ00,2016,2027
+0GJ00ZZ,"Inspection of Pituitary Gland, Open Approach",0GJ00Z,2016,2027
+0GJ03,Percutaneous,0GJ0,2016,2027
+0GJ03Z,No Device,0GJ03,2016,2027
+0GJ03ZZ,"Inspection of Pituitary Gland, Percutaneous Approach",0GJ03Z,2016,2027
+0GJ04,Percutaneous Endoscopic,0GJ0,2016,2027
+0GJ04Z,No Device,0GJ04,2016,2027
+0GJ04ZZ,"Inspection of Pituitary Gland, Percutaneous Endoscopic Approach",0GJ04Z,2016,2027
+0GJ1,Pineal Body,0GJ,2016,2027
+0GJ10,Open,0GJ1,2016,2027
+0GJ10Z,No Device,0GJ10,2016,2027
+0GJ10ZZ,"Inspection of Pineal Body, Open Approach",0GJ10Z,2016,2027
+0GJ13,Percutaneous,0GJ1,2016,2027
+0GJ13Z,No Device,0GJ13,2016,2027
+0GJ13ZZ,"Inspection of Pineal Body, Percutaneous Approach",0GJ13Z,2016,2027
+0GJ14,Percutaneous Endoscopic,0GJ1,2016,2027
+0GJ14Z,No Device,0GJ14,2016,2027
+0GJ14ZZ,"Inspection of Pineal Body, Percutaneous Endoscopic Approach",0GJ14Z,2016,2027
+0GJ5,Adrenal Gland,0GJ,2016,2027
+0GJ50,Open,0GJ5,2016,2027
+0GJ50Z,No Device,0GJ50,2016,2027
+0GJ50ZZ,"Inspection of Adrenal Gland, Open Approach",0GJ50Z,2016,2027
+0GJ53,Percutaneous,0GJ5,2016,2027
+0GJ53Z,No Device,0GJ53,2016,2027
+0GJ53ZZ,"Inspection of Adrenal Gland, Percutaneous Approach",0GJ53Z,2016,2027
+0GJ54,Percutaneous Endoscopic,0GJ5,2016,2027
+0GJ54Z,No Device,0GJ54,2016,2027
+0GJ54ZZ,"Inspection of Adrenal Gland, Percutaneous Endoscopic Approach",0GJ54Z,2016,2027
+0GJK,Thyroid Gland,0GJ,2016,2027
+0GJK0,Open,0GJK,2016,2027
+0GJK0Z,No Device,0GJK0,2016,2027
+0GJK0ZZ,"Inspection of Thyroid Gland, Open Approach",0GJK0Z,2016,2027
+0GJK3,Percutaneous,0GJK,2016,2027
+0GJK3Z,No Device,0GJK3,2016,2027
+0GJK3ZZ,"Inspection of Thyroid Gland, Percutaneous Approach",0GJK3Z,2016,2027
+0GJK4,Percutaneous Endoscopic,0GJK,2016,2027
+0GJK4Z,No Device,0GJK4,2016,2027
+0GJK4ZZ,"Inspection of Thyroid Gland, Percutaneous Endoscopic Approach",0GJK4Z,2016,2027
+0GJR,Parathyroid Gland,0GJ,2016,2027
+0GJR0,Open,0GJR,2016,2027
+0GJR0Z,No Device,0GJR0,2016,2027
+0GJR0ZZ,"Inspection of Parathyroid Gland, Open Approach",0GJR0Z,2016,2027
+0GJR3,Percutaneous,0GJR,2016,2027
+0GJR3Z,No Device,0GJR3,2016,2027
+0GJR3ZZ,"Inspection of Parathyroid Gland, Percutaneous Approach",0GJR3Z,2016,2027
+0GJR4,Percutaneous Endoscopic,0GJR,2016,2027
+0GJR4Z,No Device,0GJR4,2016,2027
+0GJR4ZZ,"Inspection of Parathyroid Gland, Percutaneous Endoscopic Approach",0GJR4Z,2016,2027
+0GJS,Endocrine Gland,0GJ,2016,2027
+0GJS0,Open,0GJS,2016,2027
+0GJS0Z,No Device,0GJS0,2016,2027
+0GJS0ZZ,"Inspection of Endocrine Gland, Open Approach",0GJS0Z,2016,2027
+0GJS3,Percutaneous,0GJS,2016,2027
+0GJS3Z,No Device,0GJS3,2016,2027
+0GJS3ZZ,"Inspection of Endocrine Gland, Percutaneous Approach",0GJS3Z,2016,2027
+0GJS4,Percutaneous Endoscopic,0GJS,2016,2027
+0GJS4Z,No Device,0GJS4,2016,2027
+0GJS4ZZ,"Inspection of Endocrine Gland, Percutaneous Endoscopic Approach",0GJS4Z,2016,2027
+0GM,Reattachment,0G,2016,2027
+0GM2,"Adrenal Gland, Left",0GM,2016,2027
+0GM20,Open,0GM2,2016,2027
+0GM20Z,No Device,0GM20,2016,2027
+0GM20ZZ,"Reattachment of Left Adrenal Gland, Open Approach",0GM20Z,2016,2027
+0GM24,Percutaneous Endoscopic,0GM2,2016,2027
+0GM24Z,No Device,0GM24,2016,2027
+0GM24ZZ,"Reattachment of Left Adrenal Gland, Percutaneous Endoscopic Approach",0GM24Z,2016,2027
+0GM3,"Adrenal Gland, Right",0GM,2016,2027
+0GM30,Open,0GM3,2016,2027
+0GM30Z,No Device,0GM30,2016,2027
+0GM30ZZ,"Reattachment of Right Adrenal Gland, Open Approach",0GM30Z,2016,2027
+0GM34,Percutaneous Endoscopic,0GM3,2016,2027
+0GM34Z,No Device,0GM34,2016,2027
+0GM34ZZ,"Reattachment of Right Adrenal Gland, Percutaneous Endoscopic Approach",0GM34Z,2016,2027
+0GMG,"Thyroid Gland Lobe, Left",0GM,2016,2027
+0GMG0,Open,0GMG,2016,2027
+0GMG0Z,No Device,0GMG0,2016,2027
+0GMG0ZZ,"Reattachment of Left Thyroid Gland Lobe, Open Approach",0GMG0Z,2016,2027
+0GMG4,Percutaneous Endoscopic,0GMG,2016,2027
+0GMG4Z,No Device,0GMG4,2016,2027
+0GMG4ZZ,"Reattachment of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GMG4Z,2016,2027
+0GMH,"Thyroid Gland Lobe, Right",0GM,2016,2027
+0GMH0,Open,0GMH,2016,2027
+0GMH0Z,No Device,0GMH0,2016,2027
+0GMH0ZZ,"Reattachment of Right Thyroid Gland Lobe, Open Approach",0GMH0Z,2016,2027
+0GMH4,Percutaneous Endoscopic,0GMH,2016,2027
+0GMH4Z,No Device,0GMH4,2016,2027
+0GMH4ZZ,"Reattachment of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GMH4Z,2016,2027
+0GML,"Superior Parathyroid Gland, Right",0GM,2016,2027
+0GML0,Open,0GML,2016,2027
+0GML0Z,No Device,0GML0,2016,2027
+0GML0ZZ,"Reattachment of Right Superior Parathyroid Gland, Open Approach",0GML0Z,2016,2027
+0GML4,Percutaneous Endoscopic,0GML,2016,2027
+0GML4Z,No Device,0GML4,2016,2027
+0GML4ZZ,"Reattachment of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GML4Z,2016,2027
+0GMM,"Superior Parathyroid Gland, Left",0GM,2016,2027
+0GMM0,Open,0GMM,2016,2027
+0GMM0Z,No Device,0GMM0,2016,2027
+0GMM0ZZ,"Reattachment of Left Superior Parathyroid Gland, Open Approach",0GMM0Z,2016,2027
+0GMM4,Percutaneous Endoscopic,0GMM,2016,2027
+0GMM4Z,No Device,0GMM4,2016,2027
+0GMM4ZZ,"Reattachment of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GMM4Z,2016,2027
+0GMN,"Inferior Parathyroid Gland, Right",0GM,2016,2027
+0GMN0,Open,0GMN,2016,2027
+0GMN0Z,No Device,0GMN0,2016,2027
+0GMN0ZZ,"Reattachment of Right Inferior Parathyroid Gland, Open Approach",0GMN0Z,2016,2027
+0GMN4,Percutaneous Endoscopic,0GMN,2016,2027
+0GMN4Z,No Device,0GMN4,2016,2027
+0GMN4ZZ,"Reattachment of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GMN4Z,2016,2027
+0GMP,"Inferior Parathyroid Gland, Left",0GM,2016,2027
+0GMP0,Open,0GMP,2016,2027
+0GMP0Z,No Device,0GMP0,2016,2027
+0GMP0ZZ,"Reattachment of Left Inferior Parathyroid Gland, Open Approach",0GMP0Z,2016,2027
+0GMP4,Percutaneous Endoscopic,0GMP,2016,2027
+0GMP4Z,No Device,0GMP4,2016,2027
+0GMP4ZZ,"Reattachment of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GMP4Z,2016,2027
+0GMQ,"Parathyroid Glands, Multiple",0GM,2016,2027
+0GMQ0,Open,0GMQ,2016,2027
+0GMQ0Z,No Device,0GMQ0,2016,2027
+0GMQ0ZZ,"Reattachment of Multiple Parathyroid Glands, Open Approach",0GMQ0Z,2016,2027
+0GMQ4,Percutaneous Endoscopic,0GMQ,2016,2027
+0GMQ4Z,No Device,0GMQ4,2016,2027
+0GMQ4ZZ,"Reattachment of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GMQ4Z,2016,2027
+0GMR,Parathyroid Gland,0GM,2016,2027
+0GMR0,Open,0GMR,2016,2027
+0GMR0Z,No Device,0GMR0,2016,2027
+0GMR0ZZ,"Reattachment of Parathyroid Gland, Open Approach",0GMR0Z,2016,2027
+0GMR4,Percutaneous Endoscopic,0GMR,2016,2027
+0GMR4Z,No Device,0GMR4,2016,2027
+0GMR4ZZ,"Reattachment of Parathyroid Gland, Percutaneous Endoscopic Approach",0GMR4Z,2016,2027
+0GN,Release,0G,2016,2027
+0GN0,Pituitary Gland,0GN,2016,2027
+0GN00,Open,0GN0,2016,2027
+0GN00Z,No Device,0GN00,2016,2027
+0GN00ZZ,"Release Pituitary Gland, Open Approach",0GN00Z,2016,2027
+0GN03,Percutaneous,0GN0,2016,2027
+0GN03Z,No Device,0GN03,2016,2027
+0GN03ZZ,"Release Pituitary Gland, Percutaneous Approach",0GN03Z,2016,2027
+0GN04,Percutaneous Endoscopic,0GN0,2016,2027
+0GN04Z,No Device,0GN04,2016,2027
+0GN04ZZ,"Release Pituitary Gland, Percutaneous Endoscopic Approach",0GN04Z,2016,2027
+0GN1,Pineal Body,0GN,2016,2027
+0GN10,Open,0GN1,2016,2027
+0GN10Z,No Device,0GN10,2016,2027
+0GN10ZZ,"Release Pineal Body, Open Approach",0GN10Z,2016,2027
+0GN13,Percutaneous,0GN1,2016,2027
+0GN13Z,No Device,0GN13,2016,2027
+0GN13ZZ,"Release Pineal Body, Percutaneous Approach",0GN13Z,2016,2027
+0GN14,Percutaneous Endoscopic,0GN1,2016,2027
+0GN14Z,No Device,0GN14,2016,2027
+0GN14ZZ,"Release Pineal Body, Percutaneous Endoscopic Approach",0GN14Z,2016,2027
+0GN2,"Adrenal Gland, Left",0GN,2016,2027
+0GN20,Open,0GN2,2016,2027
+0GN20Z,No Device,0GN20,2016,2027
+0GN20ZZ,"Release Left Adrenal Gland, Open Approach",0GN20Z,2016,2027
+0GN23,Percutaneous,0GN2,2016,2027
+0GN23Z,No Device,0GN23,2016,2027
+0GN23ZZ,"Release Left Adrenal Gland, Percutaneous Approach",0GN23Z,2016,2027
+0GN24,Percutaneous Endoscopic,0GN2,2016,2027
+0GN24Z,No Device,0GN24,2016,2027
+0GN24ZZ,"Release Left Adrenal Gland, Percutaneous Endoscopic Approach",0GN24Z,2016,2027
+0GN3,"Adrenal Gland, Right",0GN,2016,2027
+0GN30,Open,0GN3,2016,2027
+0GN30Z,No Device,0GN30,2016,2027
+0GN30ZZ,"Release Right Adrenal Gland, Open Approach",0GN30Z,2016,2027
+0GN33,Percutaneous,0GN3,2016,2027
+0GN33Z,No Device,0GN33,2016,2027
+0GN33ZZ,"Release Right Adrenal Gland, Percutaneous Approach",0GN33Z,2016,2027
+0GN34,Percutaneous Endoscopic,0GN3,2016,2027
+0GN34Z,No Device,0GN34,2016,2027
+0GN34ZZ,"Release Right Adrenal Gland, Percutaneous Endoscopic Approach",0GN34Z,2016,2027
+0GN4,"Adrenal Glands, Bilateral",0GN,2016,2027
+0GN40,Open,0GN4,2016,2027
+0GN40Z,No Device,0GN40,2016,2027
+0GN40ZZ,"Release Bilateral Adrenal Glands, Open Approach",0GN40Z,2016,2027
+0GN43,Percutaneous,0GN4,2016,2027
+0GN43Z,No Device,0GN43,2016,2027
+0GN43ZZ,"Release Bilateral Adrenal Glands, Percutaneous Approach",0GN43Z,2016,2027
+0GN44,Percutaneous Endoscopic,0GN4,2016,2027
+0GN44Z,No Device,0GN44,2016,2027
+0GN44ZZ,"Release Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0GN44Z,2016,2027
+0GN6,"Carotid Body, Left",0GN,2016,2027
+0GN60,Open,0GN6,2016,2027
+0GN60Z,No Device,0GN60,2016,2027
+0GN60ZZ,"Release Left Carotid Body, Open Approach",0GN60Z,2016,2027
+0GN63,Percutaneous,0GN6,2016,2027
+0GN63Z,No Device,0GN63,2016,2027
+0GN63ZZ,"Release Left Carotid Body, Percutaneous Approach",0GN63Z,2016,2027
+0GN64,Percutaneous Endoscopic,0GN6,2016,2027
+0GN64Z,No Device,0GN64,2016,2027
+0GN64ZZ,"Release Left Carotid Body, Percutaneous Endoscopic Approach",0GN64Z,2016,2027
+0GN7,"Carotid Body, Right",0GN,2016,2027
+0GN70,Open,0GN7,2016,2027
+0GN70Z,No Device,0GN70,2016,2027
+0GN70ZZ,"Release Right Carotid Body, Open Approach",0GN70Z,2016,2027
+0GN73,Percutaneous,0GN7,2016,2027
+0GN73Z,No Device,0GN73,2016,2027
+0GN73ZZ,"Release Right Carotid Body, Percutaneous Approach",0GN73Z,2016,2027
+0GN74,Percutaneous Endoscopic,0GN7,2016,2027
+0GN74Z,No Device,0GN74,2016,2027
+0GN74ZZ,"Release Right Carotid Body, Percutaneous Endoscopic Approach",0GN74Z,2016,2027
+0GN8,"Carotid Bodies, Bilateral",0GN,2016,2027
+0GN80,Open,0GN8,2016,2027
+0GN80Z,No Device,0GN80,2016,2027
+0GN80ZZ,"Release Bilateral Carotid Bodies, Open Approach",0GN80Z,2016,2027
+0GN83,Percutaneous,0GN8,2016,2027
+0GN83Z,No Device,0GN83,2016,2027
+0GN83ZZ,"Release Bilateral Carotid Bodies, Percutaneous Approach",0GN83Z,2016,2027
+0GN84,Percutaneous Endoscopic,0GN8,2016,2027
+0GN84Z,No Device,0GN84,2016,2027
+0GN84ZZ,"Release Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0GN84Z,2016,2027
+0GN9,Para-aortic Body,0GN,2016,2027
+0GN90,Open,0GN9,2016,2027
+0GN90Z,No Device,0GN90,2016,2027
+0GN90ZZ,"Release Para-aortic Body, Open Approach",0GN90Z,2016,2027
+0GN93,Percutaneous,0GN9,2016,2027
+0GN93Z,No Device,0GN93,2016,2027
+0GN93ZZ,"Release Para-aortic Body, Percutaneous Approach",0GN93Z,2016,2027
+0GN94,Percutaneous Endoscopic,0GN9,2016,2027
+0GN94Z,No Device,0GN94,2016,2027
+0GN94ZZ,"Release Para-aortic Body, Percutaneous Endoscopic Approach",0GN94Z,2016,2027
+0GNB,Coccygeal Glomus,0GN,2016,2027
+0GNB0,Open,0GNB,2016,2027
+0GNB0Z,No Device,0GNB0,2016,2027
+0GNB0ZZ,"Release Coccygeal Glomus, Open Approach",0GNB0Z,2016,2027
+0GNB3,Percutaneous,0GNB,2016,2027
+0GNB3Z,No Device,0GNB3,2016,2027
+0GNB3ZZ,"Release Coccygeal Glomus, Percutaneous Approach",0GNB3Z,2016,2027
+0GNB4,Percutaneous Endoscopic,0GNB,2016,2027
+0GNB4Z,No Device,0GNB4,2016,2027
+0GNB4ZZ,"Release Coccygeal Glomus, Percutaneous Endoscopic Approach",0GNB4Z,2016,2027
+0GNC,Glomus Jugulare,0GN,2016,2027
+0GNC0,Open,0GNC,2016,2027
+0GNC0Z,No Device,0GNC0,2016,2027
+0GNC0ZZ,"Release Glomus Jugulare, Open Approach",0GNC0Z,2016,2027
+0GNC3,Percutaneous,0GNC,2016,2027
+0GNC3Z,No Device,0GNC3,2016,2027
+0GNC3ZZ,"Release Glomus Jugulare, Percutaneous Approach",0GNC3Z,2016,2027
+0GNC4,Percutaneous Endoscopic,0GNC,2016,2027
+0GNC4Z,No Device,0GNC4,2016,2027
+0GNC4ZZ,"Release Glomus Jugulare, Percutaneous Endoscopic Approach",0GNC4Z,2016,2027
+0GND,Aortic Body,0GN,2016,2027
+0GND0,Open,0GND,2016,2027
+0GND0Z,No Device,0GND0,2016,2027
+0GND0ZZ,"Release Aortic Body, Open Approach",0GND0Z,2016,2027
+0GND3,Percutaneous,0GND,2016,2027
+0GND3Z,No Device,0GND3,2016,2027
+0GND3ZZ,"Release Aortic Body, Percutaneous Approach",0GND3Z,2016,2027
+0GND4,Percutaneous Endoscopic,0GND,2016,2027
+0GND4Z,No Device,0GND4,2016,2027
+0GND4ZZ,"Release Aortic Body, Percutaneous Endoscopic Approach",0GND4Z,2016,2027
+0GNF,Paraganglion Extremity,0GN,2016,2027
+0GNF0,Open,0GNF,2016,2027
+0GNF0Z,No Device,0GNF0,2016,2027
+0GNF0ZZ,"Release Paraganglion Extremity, Open Approach",0GNF0Z,2016,2027
+0GNF3,Percutaneous,0GNF,2016,2027
+0GNF3Z,No Device,0GNF3,2016,2027
+0GNF3ZZ,"Release Paraganglion Extremity, Percutaneous Approach",0GNF3Z,2016,2027
+0GNF4,Percutaneous Endoscopic,0GNF,2016,2027
+0GNF4Z,No Device,0GNF4,2016,2027
+0GNF4ZZ,"Release Paraganglion Extremity, Percutaneous Endoscopic Approach",0GNF4Z,2016,2027
+0GNG,"Thyroid Gland Lobe, Left",0GN,2016,2027
+0GNG0,Open,0GNG,2016,2027
+0GNG0Z,No Device,0GNG0,2016,2027
+0GNG0ZZ,"Release Left Thyroid Gland Lobe, Open Approach",0GNG0Z,2016,2027
+0GNG3,Percutaneous,0GNG,2016,2027
+0GNG3Z,No Device,0GNG3,2016,2027
+0GNG3ZZ,"Release Left Thyroid Gland Lobe, Percutaneous Approach",0GNG3Z,2016,2027
+0GNG4,Percutaneous Endoscopic,0GNG,2016,2027
+0GNG4Z,No Device,0GNG4,2016,2027
+0GNG4ZZ,"Release Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GNG4Z,2016,2027
+0GNH,"Thyroid Gland Lobe, Right",0GN,2016,2027
+0GNH0,Open,0GNH,2016,2027
+0GNH0Z,No Device,0GNH0,2016,2027
+0GNH0ZZ,"Release Right Thyroid Gland Lobe, Open Approach",0GNH0Z,2016,2027
+0GNH3,Percutaneous,0GNH,2016,2027
+0GNH3Z,No Device,0GNH3,2016,2027
+0GNH3ZZ,"Release Right Thyroid Gland Lobe, Percutaneous Approach",0GNH3Z,2016,2027
+0GNH4,Percutaneous Endoscopic,0GNH,2016,2027
+0GNH4Z,No Device,0GNH4,2016,2027
+0GNH4ZZ,"Release Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GNH4Z,2016,2027
+0GNK,Thyroid Gland,0GN,2016,2027
+0GNK0,Open,0GNK,2016,2027
+0GNK0Z,No Device,0GNK0,2016,2027
+0GNK0ZZ,"Release Thyroid Gland, Open Approach",0GNK0Z,2016,2027
+0GNK3,Percutaneous,0GNK,2016,2027
+0GNK3Z,No Device,0GNK3,2016,2027
+0GNK3ZZ,"Release Thyroid Gland, Percutaneous Approach",0GNK3Z,2016,2027
+0GNK4,Percutaneous Endoscopic,0GNK,2016,2027
+0GNK4Z,No Device,0GNK4,2016,2027
+0GNK4ZZ,"Release Thyroid Gland, Percutaneous Endoscopic Approach",0GNK4Z,2016,2027
+0GNL,"Superior Parathyroid Gland, Right",0GN,2016,2027
+0GNL0,Open,0GNL,2016,2027
+0GNL0Z,No Device,0GNL0,2016,2027
+0GNL0ZZ,"Release Right Superior Parathyroid Gland, Open Approach",0GNL0Z,2016,2027
+0GNL3,Percutaneous,0GNL,2016,2027
+0GNL3Z,No Device,0GNL3,2016,2027
+0GNL3ZZ,"Release Right Superior Parathyroid Gland, Percutaneous Approach",0GNL3Z,2016,2027
+0GNL4,Percutaneous Endoscopic,0GNL,2016,2027
+0GNL4Z,No Device,0GNL4,2016,2027
+0GNL4ZZ,"Release Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GNL4Z,2016,2027
+0GNM,"Superior Parathyroid Gland, Left",0GN,2016,2027
+0GNM0,Open,0GNM,2016,2027
+0GNM0Z,No Device,0GNM0,2016,2027
+0GNM0ZZ,"Release Left Superior Parathyroid Gland, Open Approach",0GNM0Z,2016,2027
+0GNM3,Percutaneous,0GNM,2016,2027
+0GNM3Z,No Device,0GNM3,2016,2027
+0GNM3ZZ,"Release Left Superior Parathyroid Gland, Percutaneous Approach",0GNM3Z,2016,2027
+0GNM4,Percutaneous Endoscopic,0GNM,2016,2027
+0GNM4Z,No Device,0GNM4,2016,2027
+0GNM4ZZ,"Release Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GNM4Z,2016,2027
+0GNN,"Inferior Parathyroid Gland, Right",0GN,2016,2027
+0GNN0,Open,0GNN,2016,2027
+0GNN0Z,No Device,0GNN0,2016,2027
+0GNN0ZZ,"Release Right Inferior Parathyroid Gland, Open Approach",0GNN0Z,2016,2027
+0GNN3,Percutaneous,0GNN,2016,2027
+0GNN3Z,No Device,0GNN3,2016,2027
+0GNN3ZZ,"Release Right Inferior Parathyroid Gland, Percutaneous Approach",0GNN3Z,2016,2027
+0GNN4,Percutaneous Endoscopic,0GNN,2016,2027
+0GNN4Z,No Device,0GNN4,2016,2027
+0GNN4ZZ,"Release Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GNN4Z,2016,2027
+0GNP,"Inferior Parathyroid Gland, Left",0GN,2016,2027
+0GNP0,Open,0GNP,2016,2027
+0GNP0Z,No Device,0GNP0,2016,2027
+0GNP0ZZ,"Release Left Inferior Parathyroid Gland, Open Approach",0GNP0Z,2016,2027
+0GNP3,Percutaneous,0GNP,2016,2027
+0GNP3Z,No Device,0GNP3,2016,2027
+0GNP3ZZ,"Release Left Inferior Parathyroid Gland, Percutaneous Approach",0GNP3Z,2016,2027
+0GNP4,Percutaneous Endoscopic,0GNP,2016,2027
+0GNP4Z,No Device,0GNP4,2016,2027
+0GNP4ZZ,"Release Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GNP4Z,2016,2027
+0GNQ,"Parathyroid Glands, Multiple",0GN,2016,2027
+0GNQ0,Open,0GNQ,2016,2027
+0GNQ0Z,No Device,0GNQ0,2016,2027
+0GNQ0ZZ,"Release Multiple Parathyroid Glands, Open Approach",0GNQ0Z,2016,2027
+0GNQ3,Percutaneous,0GNQ,2016,2027
+0GNQ3Z,No Device,0GNQ3,2016,2027
+0GNQ3ZZ,"Release Multiple Parathyroid Glands, Percutaneous Approach",0GNQ3Z,2016,2027
+0GNQ4,Percutaneous Endoscopic,0GNQ,2016,2027
+0GNQ4Z,No Device,0GNQ4,2016,2027
+0GNQ4ZZ,"Release Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GNQ4Z,2016,2027
+0GNR,Parathyroid Gland,0GN,2016,2027
+0GNR0,Open,0GNR,2016,2027
+0GNR0Z,No Device,0GNR0,2016,2027
+0GNR0ZZ,"Release Parathyroid Gland, Open Approach",0GNR0Z,2016,2027
+0GNR3,Percutaneous,0GNR,2016,2027
+0GNR3Z,No Device,0GNR3,2016,2027
+0GNR3ZZ,"Release Parathyroid Gland, Percutaneous Approach",0GNR3Z,2016,2027
+0GNR4,Percutaneous Endoscopic,0GNR,2016,2027
+0GNR4Z,No Device,0GNR4,2016,2027
+0GNR4ZZ,"Release Parathyroid Gland, Percutaneous Endoscopic Approach",0GNR4Z,2016,2027
+0GP,Removal,0G,2016,2027
+0GP0,Pituitary Gland,0GP,2016,2027
+0GP00,Open,0GP0,2016,2027
+0GP000,Drainage Device,0GP00,2016,2027
+0GP000Z,"Removal of Drainage Device from Pituitary Gland, Open Approach",0GP000,2016,2027
+0GP03,Percutaneous,0GP0,2016,2027
+0GP030,Drainage Device,0GP03,2016,2027
+0GP030Z,"Removal of Drainage Device from Pituitary Gland, Percutaneous Approach",0GP030,2016,2027
+0GP04,Percutaneous Endoscopic,0GP0,2016,2027
+0GP040,Drainage Device,0GP04,2016,2027
+0GP040Z,"Removal of Drainage Device from Pituitary Gland, Percutaneous Endoscopic Approach",0GP040,2016,2027
+0GP0X,External,0GP0,2016,2027
+0GP0X0,Drainage Device,0GP0X,2016,2027
+0GP0X0Z,"Removal of Drainage Device from Pituitary Gland, External Approach",0GP0X0,2016,2027
+0GP1,Pineal Body,0GP,2016,2027
+0GP10,Open,0GP1,2016,2027
+0GP100,Drainage Device,0GP10,2016,2027
+0GP100Z,"Removal of Drainage Device from Pineal Body, Open Approach",0GP100,2016,2027
+0GP13,Percutaneous,0GP1,2016,2027
+0GP130,Drainage Device,0GP13,2016,2027
+0GP130Z,"Removal of Drainage Device from Pineal Body, Percutaneous Approach",0GP130,2016,2027
+0GP14,Percutaneous Endoscopic,0GP1,2016,2027
+0GP140,Drainage Device,0GP14,2016,2027
+0GP140Z,"Removal of Drainage Device from Pineal Body, Percutaneous Endoscopic Approach",0GP140,2016,2027
+0GP1X,External,0GP1,2016,2027
+0GP1X0,Drainage Device,0GP1X,2016,2027
+0GP1X0Z,"Removal of Drainage Device from Pineal Body, External Approach",0GP1X0,2016,2027
+0GP5,Adrenal Gland,0GP,2016,2027
+0GP50,Open,0GP5,2016,2027
+0GP500,Drainage Device,0GP50,2016,2027
+0GP500Z,"Removal of Drainage Device from Adrenal Gland, Open Approach",0GP500,2016,2027
+0GP53,Percutaneous,0GP5,2016,2027
+0GP530,Drainage Device,0GP53,2016,2027
+0GP530Z,"Removal of Drainage Device from Adrenal Gland, Percutaneous Approach",0GP530,2016,2027
+0GP54,Percutaneous Endoscopic,0GP5,2016,2027
+0GP540,Drainage Device,0GP54,2016,2027
+0GP540Z,"Removal of Drainage Device from Adrenal Gland, Percutaneous Endoscopic Approach",0GP540,2016,2027
+0GP5X,External,0GP5,2016,2027
+0GP5X0,Drainage Device,0GP5X,2016,2027
+0GP5X0Z,"Removal of Drainage Device from Adrenal Gland, External Approach",0GP5X0,2016,2027
+0GPK,Thyroid Gland,0GP,2016,2027
+0GPK0,Open,0GPK,2016,2027
+0GPK00,Drainage Device,0GPK0,2016,2027
+0GPK00Z,"Removal of Drainage Device from Thyroid Gland, Open Approach",0GPK00,2016,2027
+0GPK3,Percutaneous,0GPK,2016,2027
+0GPK30,Drainage Device,0GPK3,2016,2027
+0GPK30Z,"Removal of Drainage Device from Thyroid Gland, Percutaneous Approach",0GPK30,2016,2027
+0GPK4,Percutaneous Endoscopic,0GPK,2016,2027
+0GPK40,Drainage Device,0GPK4,2016,2027
+0GPK40Z,"Removal of Drainage Device from Thyroid Gland, Percutaneous Endoscopic Approach",0GPK40,2016,2027
+0GPKX,External,0GPK,2016,2027
+0GPKX0,Drainage Device,0GPKX,2016,2027
+0GPKX0Z,"Removal of Drainage Device from Thyroid Gland, External Approach",0GPKX0,2016,2027
+0GPR,Parathyroid Gland,0GP,2016,2027
+0GPR0,Open,0GPR,2016,2027
+0GPR00,Drainage Device,0GPR0,2016,2027
+0GPR00Z,"Removal of Drainage Device from Parathyroid Gland, Open Approach",0GPR00,2016,2027
+0GPR3,Percutaneous,0GPR,2016,2027
+0GPR30,Drainage Device,0GPR3,2016,2027
+0GPR30Z,"Removal of Drainage Device from Parathyroid Gland, Percutaneous Approach",0GPR30,2016,2027
+0GPR4,Percutaneous Endoscopic,0GPR,2016,2027
+0GPR40,Drainage Device,0GPR4,2016,2027
+0GPR40Z,"Removal of Drainage Device from Parathyroid Gland, Percutaneous Endoscopic Approach",0GPR40,2016,2027
+0GPRX,External,0GPR,2016,2027
+0GPRX0,Drainage Device,0GPRX,2016,2027
+0GPRX0Z,"Removal of Drainage Device from Parathyroid Gland, External Approach",0GPRX0,2016,2027
+0GPS,Endocrine Gland,0GP,2016,2027
+0GPS0,Open,0GPS,2016,2027
+0GPS00,Drainage Device,0GPS0,2016,2027
+0GPS00Z,"Removal of Drainage Device from Endocrine Gland, Open Approach",0GPS00,2016,2027
+0GPS02,Monitoring Device,0GPS0,2016,2027
+0GPS02Z,"Removal of Monitoring Device from Endocrine Gland, Open Approach",0GPS02,2016,2027
+0GPS03,Infusion Device,0GPS0,2016,2027
+0GPS03Z,"Removal of Infusion Device from Endocrine Gland, Open Approach",0GPS03,2016,2027
+0GPS0Y,Other Device,0GPS0,2018,2027
+0GPS0YZ,"Removal of Other Device from Endocrine Gland, Open Approach",0GPS0Y,2018,2027
+0GPS3,Percutaneous,0GPS,2016,2027
+0GPS30,Drainage Device,0GPS3,2016,2027
+0GPS30Z,"Removal of Drainage Device from Endocrine Gland, Percutaneous Approach",0GPS30,2016,2027
+0GPS32,Monitoring Device,0GPS3,2016,2027
+0GPS32Z,"Removal of Monitoring Device from Endocrine Gland, Percutaneous Approach",0GPS32,2016,2027
+0GPS33,Infusion Device,0GPS3,2016,2027
+0GPS33Z,"Removal of Infusion Device from Endocrine Gland, Percutaneous Approach",0GPS33,2016,2027
+0GPS3Y,Other Device,0GPS3,2018,2027
+0GPS3YZ,"Removal of Other Device from Endocrine Gland, Percutaneous Approach",0GPS3Y,2018,2027
+0GPS4,Percutaneous Endoscopic,0GPS,2016,2027
+0GPS40,Drainage Device,0GPS4,2016,2027
+0GPS40Z,"Removal of Drainage Device from Endocrine Gland, Percutaneous Endoscopic Approach",0GPS40,2016,2027
+0GPS42,Monitoring Device,0GPS4,2016,2027
+0GPS42Z,"Removal of Monitoring Device from Endocrine Gland, Percutaneous Endoscopic Approach",0GPS42,2016,2027
+0GPS43,Infusion Device,0GPS4,2016,2027
+0GPS43Z,"Removal of Infusion Device from Endocrine Gland, Percutaneous Endoscopic Approach",0GPS43,2016,2027
+0GPS4Y,Other Device,0GPS4,2018,2027
+0GPS4YZ,"Removal of Other Device from Endocrine Gland, Percutaneous Endoscopic Approach",0GPS4Y,2018,2027
+0GPSX,External,0GPS,2016,2027
+0GPSX0,Drainage Device,0GPSX,2016,2027
+0GPSX0Z,"Removal of Drainage Device from Endocrine Gland, External Approach",0GPSX0,2016,2027
+0GPSX2,Monitoring Device,0GPSX,2016,2027
+0GPSX2Z,"Removal of Monitoring Device from Endocrine Gland, External Approach",0GPSX2,2016,2027
+0GPSX3,Infusion Device,0GPSX,2016,2027
+0GPSX3Z,"Removal of Infusion Device from Endocrine Gland, External Approach",0GPSX3,2016,2027
+0GQ,Repair,0G,2016,2027
+0GQ0,Pituitary Gland,0GQ,2016,2027
+0GQ00,Open,0GQ0,2016,2027
+0GQ00Z,No Device,0GQ00,2016,2027
+0GQ00ZZ,"Repair Pituitary Gland, Open Approach",0GQ00Z,2016,2027
+0GQ03,Percutaneous,0GQ0,2016,2027
+0GQ03Z,No Device,0GQ03,2016,2027
+0GQ03ZZ,"Repair Pituitary Gland, Percutaneous Approach",0GQ03Z,2016,2027
+0GQ04,Percutaneous Endoscopic,0GQ0,2016,2027
+0GQ04Z,No Device,0GQ04,2016,2027
+0GQ04ZZ,"Repair Pituitary Gland, Percutaneous Endoscopic Approach",0GQ04Z,2016,2027
+0GQ1,Pineal Body,0GQ,2016,2027
+0GQ10,Open,0GQ1,2016,2027
+0GQ10Z,No Device,0GQ10,2016,2027
+0GQ10ZZ,"Repair Pineal Body, Open Approach",0GQ10Z,2016,2027
+0GQ13,Percutaneous,0GQ1,2016,2027
+0GQ13Z,No Device,0GQ13,2016,2027
+0GQ13ZZ,"Repair Pineal Body, Percutaneous Approach",0GQ13Z,2016,2027
+0GQ14,Percutaneous Endoscopic,0GQ1,2016,2027
+0GQ14Z,No Device,0GQ14,2016,2027
+0GQ14ZZ,"Repair Pineal Body, Percutaneous Endoscopic Approach",0GQ14Z,2016,2027
+0GQ2,"Adrenal Gland, Left",0GQ,2016,2027
+0GQ20,Open,0GQ2,2016,2027
+0GQ20Z,No Device,0GQ20,2016,2027
+0GQ20ZZ,"Repair Left Adrenal Gland, Open Approach",0GQ20Z,2016,2027
+0GQ23,Percutaneous,0GQ2,2016,2027
+0GQ23Z,No Device,0GQ23,2016,2027
+0GQ23ZZ,"Repair Left Adrenal Gland, Percutaneous Approach",0GQ23Z,2016,2027
+0GQ24,Percutaneous Endoscopic,0GQ2,2016,2027
+0GQ24Z,No Device,0GQ24,2016,2027
+0GQ24ZZ,"Repair Left Adrenal Gland, Percutaneous Endoscopic Approach",0GQ24Z,2016,2027
+0GQ3,"Adrenal Gland, Right",0GQ,2016,2027
+0GQ30,Open,0GQ3,2016,2027
+0GQ30Z,No Device,0GQ30,2016,2027
+0GQ30ZZ,"Repair Right Adrenal Gland, Open Approach",0GQ30Z,2016,2027
+0GQ33,Percutaneous,0GQ3,2016,2027
+0GQ33Z,No Device,0GQ33,2016,2027
+0GQ33ZZ,"Repair Right Adrenal Gland, Percutaneous Approach",0GQ33Z,2016,2027
+0GQ34,Percutaneous Endoscopic,0GQ3,2016,2027
+0GQ34Z,No Device,0GQ34,2016,2027
+0GQ34ZZ,"Repair Right Adrenal Gland, Percutaneous Endoscopic Approach",0GQ34Z,2016,2027
+0GQ4,"Adrenal Glands, Bilateral",0GQ,2016,2027
+0GQ40,Open,0GQ4,2016,2027
+0GQ40Z,No Device,0GQ40,2016,2027
+0GQ40ZZ,"Repair Bilateral Adrenal Glands, Open Approach",0GQ40Z,2016,2027
+0GQ43,Percutaneous,0GQ4,2016,2027
+0GQ43Z,No Device,0GQ43,2016,2027
+0GQ43ZZ,"Repair Bilateral Adrenal Glands, Percutaneous Approach",0GQ43Z,2016,2027
+0GQ44,Percutaneous Endoscopic,0GQ4,2016,2027
+0GQ44Z,No Device,0GQ44,2016,2027
+0GQ44ZZ,"Repair Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0GQ44Z,2016,2027
+0GQ6,"Carotid Body, Left",0GQ,2016,2027
+0GQ60,Open,0GQ6,2016,2027
+0GQ60Z,No Device,0GQ60,2016,2027
+0GQ60ZZ,"Repair Left Carotid Body, Open Approach",0GQ60Z,2016,2027
+0GQ63,Percutaneous,0GQ6,2016,2027
+0GQ63Z,No Device,0GQ63,2016,2027
+0GQ63ZZ,"Repair Left Carotid Body, Percutaneous Approach",0GQ63Z,2016,2027
+0GQ64,Percutaneous Endoscopic,0GQ6,2016,2027
+0GQ64Z,No Device,0GQ64,2016,2027
+0GQ64ZZ,"Repair Left Carotid Body, Percutaneous Endoscopic Approach",0GQ64Z,2016,2027
+0GQ7,"Carotid Body, Right",0GQ,2016,2027
+0GQ70,Open,0GQ7,2016,2027
+0GQ70Z,No Device,0GQ70,2016,2027
+0GQ70ZZ,"Repair Right Carotid Body, Open Approach",0GQ70Z,2016,2027
+0GQ73,Percutaneous,0GQ7,2016,2027
+0GQ73Z,No Device,0GQ73,2016,2027
+0GQ73ZZ,"Repair Right Carotid Body, Percutaneous Approach",0GQ73Z,2016,2027
+0GQ74,Percutaneous Endoscopic,0GQ7,2016,2027
+0GQ74Z,No Device,0GQ74,2016,2027
+0GQ74ZZ,"Repair Right Carotid Body, Percutaneous Endoscopic Approach",0GQ74Z,2016,2027
+0GQ8,"Carotid Bodies, Bilateral",0GQ,2016,2027
+0GQ80,Open,0GQ8,2016,2027
+0GQ80Z,No Device,0GQ80,2016,2027
+0GQ80ZZ,"Repair Bilateral Carotid Bodies, Open Approach",0GQ80Z,2016,2027
+0GQ83,Percutaneous,0GQ8,2016,2027
+0GQ83Z,No Device,0GQ83,2016,2027
+0GQ83ZZ,"Repair Bilateral Carotid Bodies, Percutaneous Approach",0GQ83Z,2016,2027
+0GQ84,Percutaneous Endoscopic,0GQ8,2016,2027
+0GQ84Z,No Device,0GQ84,2016,2027
+0GQ84ZZ,"Repair Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0GQ84Z,2016,2027
+0GQ9,Para-aortic Body,0GQ,2016,2027
+0GQ90,Open,0GQ9,2016,2027
+0GQ90Z,No Device,0GQ90,2016,2027
+0GQ90ZZ,"Repair Para-aortic Body, Open Approach",0GQ90Z,2016,2027
+0GQ93,Percutaneous,0GQ9,2016,2027
+0GQ93Z,No Device,0GQ93,2016,2027
+0GQ93ZZ,"Repair Para-aortic Body, Percutaneous Approach",0GQ93Z,2016,2027
+0GQ94,Percutaneous Endoscopic,0GQ9,2016,2027
+0GQ94Z,No Device,0GQ94,2016,2027
+0GQ94ZZ,"Repair Para-aortic Body, Percutaneous Endoscopic Approach",0GQ94Z,2016,2027
+0GQB,Coccygeal Glomus,0GQ,2016,2027
+0GQB0,Open,0GQB,2016,2027
+0GQB0Z,No Device,0GQB0,2016,2027
+0GQB0ZZ,"Repair Coccygeal Glomus, Open Approach",0GQB0Z,2016,2027
+0GQB3,Percutaneous,0GQB,2016,2027
+0GQB3Z,No Device,0GQB3,2016,2027
+0GQB3ZZ,"Repair Coccygeal Glomus, Percutaneous Approach",0GQB3Z,2016,2027
+0GQB4,Percutaneous Endoscopic,0GQB,2016,2027
+0GQB4Z,No Device,0GQB4,2016,2027
+0GQB4ZZ,"Repair Coccygeal Glomus, Percutaneous Endoscopic Approach",0GQB4Z,2016,2027
+0GQC,Glomus Jugulare,0GQ,2016,2027
+0GQC0,Open,0GQC,2016,2027
+0GQC0Z,No Device,0GQC0,2016,2027
+0GQC0ZZ,"Repair Glomus Jugulare, Open Approach",0GQC0Z,2016,2027
+0GQC3,Percutaneous,0GQC,2016,2027
+0GQC3Z,No Device,0GQC3,2016,2027
+0GQC3ZZ,"Repair Glomus Jugulare, Percutaneous Approach",0GQC3Z,2016,2027
+0GQC4,Percutaneous Endoscopic,0GQC,2016,2027
+0GQC4Z,No Device,0GQC4,2016,2027
+0GQC4ZZ,"Repair Glomus Jugulare, Percutaneous Endoscopic Approach",0GQC4Z,2016,2027
+0GQD,Aortic Body,0GQ,2016,2027
+0GQD0,Open,0GQD,2016,2027
+0GQD0Z,No Device,0GQD0,2016,2027
+0GQD0ZZ,"Repair Aortic Body, Open Approach",0GQD0Z,2016,2027
+0GQD3,Percutaneous,0GQD,2016,2027
+0GQD3Z,No Device,0GQD3,2016,2027
+0GQD3ZZ,"Repair Aortic Body, Percutaneous Approach",0GQD3Z,2016,2027
+0GQD4,Percutaneous Endoscopic,0GQD,2016,2027
+0GQD4Z,No Device,0GQD4,2016,2027
+0GQD4ZZ,"Repair Aortic Body, Percutaneous Endoscopic Approach",0GQD4Z,2016,2027
+0GQF,Paraganglion Extremity,0GQ,2016,2027
+0GQF0,Open,0GQF,2016,2027
+0GQF0Z,No Device,0GQF0,2016,2027
+0GQF0ZZ,"Repair Paraganglion Extremity, Open Approach",0GQF0Z,2016,2027
+0GQF3,Percutaneous,0GQF,2016,2027
+0GQF3Z,No Device,0GQF3,2016,2027
+0GQF3ZZ,"Repair Paraganglion Extremity, Percutaneous Approach",0GQF3Z,2016,2027
+0GQF4,Percutaneous Endoscopic,0GQF,2016,2027
+0GQF4Z,No Device,0GQF4,2016,2027
+0GQF4ZZ,"Repair Paraganglion Extremity, Percutaneous Endoscopic Approach",0GQF4Z,2016,2027
+0GQG,"Thyroid Gland Lobe, Left",0GQ,2016,2027
+0GQG0,Open,0GQG,2016,2027
+0GQG0Z,No Device,0GQG0,2016,2027
+0GQG0ZZ,"Repair Left Thyroid Gland Lobe, Open Approach",0GQG0Z,2016,2027
+0GQG3,Percutaneous,0GQG,2016,2027
+0GQG3Z,No Device,0GQG3,2016,2027
+0GQG3ZZ,"Repair Left Thyroid Gland Lobe, Percutaneous Approach",0GQG3Z,2016,2027
+0GQG4,Percutaneous Endoscopic,0GQG,2016,2027
+0GQG4Z,No Device,0GQG4,2016,2027
+0GQG4ZZ,"Repair Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GQG4Z,2016,2027
+0GQH,"Thyroid Gland Lobe, Right",0GQ,2016,2027
+0GQH0,Open,0GQH,2016,2027
+0GQH0Z,No Device,0GQH0,2016,2027
+0GQH0ZZ,"Repair Right Thyroid Gland Lobe, Open Approach",0GQH0Z,2016,2027
+0GQH3,Percutaneous,0GQH,2016,2027
+0GQH3Z,No Device,0GQH3,2016,2027
+0GQH3ZZ,"Repair Right Thyroid Gland Lobe, Percutaneous Approach",0GQH3Z,2016,2027
+0GQH4,Percutaneous Endoscopic,0GQH,2016,2027
+0GQH4Z,No Device,0GQH4,2016,2027
+0GQH4ZZ,"Repair Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GQH4Z,2016,2027
+0GQJ,Thyroid Gland Isthmus,0GQ,2016,2027
+0GQJ0,Open,0GQJ,2016,2027
+0GQJ0Z,No Device,0GQJ0,2016,2027
+0GQJ0ZZ,"Repair Thyroid Gland Isthmus, Open Approach",0GQJ0Z,2016,2027
+0GQJ3,Percutaneous,0GQJ,2016,2027
+0GQJ3Z,No Device,0GQJ3,2016,2027
+0GQJ3ZZ,"Repair Thyroid Gland Isthmus, Percutaneous Approach",0GQJ3Z,2016,2027
+0GQJ4,Percutaneous Endoscopic,0GQJ,2016,2027
+0GQJ4Z,No Device,0GQJ4,2016,2027
+0GQJ4ZZ,"Repair Thyroid Gland Isthmus, Percutaneous Endoscopic Approach",0GQJ4Z,2016,2027
+0GQK,Thyroid Gland,0GQ,2016,2027
+0GQK0,Open,0GQK,2016,2027
+0GQK0Z,No Device,0GQK0,2016,2027
+0GQK0ZZ,"Repair Thyroid Gland, Open Approach",0GQK0Z,2016,2027
+0GQK3,Percutaneous,0GQK,2016,2027
+0GQK3Z,No Device,0GQK3,2016,2027
+0GQK3ZZ,"Repair Thyroid Gland, Percutaneous Approach",0GQK3Z,2016,2027
+0GQK4,Percutaneous Endoscopic,0GQK,2016,2027
+0GQK4Z,No Device,0GQK4,2016,2027
+0GQK4ZZ,"Repair Thyroid Gland, Percutaneous Endoscopic Approach",0GQK4Z,2016,2027
+0GQL,"Superior Parathyroid Gland, Right",0GQ,2016,2027
+0GQL0,Open,0GQL,2016,2027
+0GQL0Z,No Device,0GQL0,2016,2027
+0GQL0ZZ,"Repair Right Superior Parathyroid Gland, Open Approach",0GQL0Z,2016,2027
+0GQL3,Percutaneous,0GQL,2016,2027
+0GQL3Z,No Device,0GQL3,2016,2027
+0GQL3ZZ,"Repair Right Superior Parathyroid Gland, Percutaneous Approach",0GQL3Z,2016,2027
+0GQL4,Percutaneous Endoscopic,0GQL,2016,2027
+0GQL4Z,No Device,0GQL4,2016,2027
+0GQL4ZZ,"Repair Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GQL4Z,2016,2027
+0GQM,"Superior Parathyroid Gland, Left",0GQ,2016,2027
+0GQM0,Open,0GQM,2016,2027
+0GQM0Z,No Device,0GQM0,2016,2027
+0GQM0ZZ,"Repair Left Superior Parathyroid Gland, Open Approach",0GQM0Z,2016,2027
+0GQM3,Percutaneous,0GQM,2016,2027
+0GQM3Z,No Device,0GQM3,2016,2027
+0GQM3ZZ,"Repair Left Superior Parathyroid Gland, Percutaneous Approach",0GQM3Z,2016,2027
+0GQM4,Percutaneous Endoscopic,0GQM,2016,2027
+0GQM4Z,No Device,0GQM4,2016,2027
+0GQM4ZZ,"Repair Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GQM4Z,2016,2027
+0GQN,"Inferior Parathyroid Gland, Right",0GQ,2016,2027
+0GQN0,Open,0GQN,2016,2027
+0GQN0Z,No Device,0GQN0,2016,2027
+0GQN0ZZ,"Repair Right Inferior Parathyroid Gland, Open Approach",0GQN0Z,2016,2027
+0GQN3,Percutaneous,0GQN,2016,2027
+0GQN3Z,No Device,0GQN3,2016,2027
+0GQN3ZZ,"Repair Right Inferior Parathyroid Gland, Percutaneous Approach",0GQN3Z,2016,2027
+0GQN4,Percutaneous Endoscopic,0GQN,2016,2027
+0GQN4Z,No Device,0GQN4,2016,2027
+0GQN4ZZ,"Repair Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GQN4Z,2016,2027
+0GQP,"Inferior Parathyroid Gland, Left",0GQ,2016,2027
+0GQP0,Open,0GQP,2016,2027
+0GQP0Z,No Device,0GQP0,2016,2027
+0GQP0ZZ,"Repair Left Inferior Parathyroid Gland, Open Approach",0GQP0Z,2016,2027
+0GQP3,Percutaneous,0GQP,2016,2027
+0GQP3Z,No Device,0GQP3,2016,2027
+0GQP3ZZ,"Repair Left Inferior Parathyroid Gland, Percutaneous Approach",0GQP3Z,2016,2027
+0GQP4,Percutaneous Endoscopic,0GQP,2016,2027
+0GQP4Z,No Device,0GQP4,2016,2027
+0GQP4ZZ,"Repair Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GQP4Z,2016,2027
+0GQQ,"Parathyroid Glands, Multiple",0GQ,2016,2027
+0GQQ0,Open,0GQQ,2016,2027
+0GQQ0Z,No Device,0GQQ0,2016,2027
+0GQQ0ZZ,"Repair Multiple Parathyroid Glands, Open Approach",0GQQ0Z,2016,2027
+0GQQ3,Percutaneous,0GQQ,2016,2027
+0GQQ3Z,No Device,0GQQ3,2016,2027
+0GQQ3ZZ,"Repair Multiple Parathyroid Glands, Percutaneous Approach",0GQQ3Z,2016,2027
+0GQQ4,Percutaneous Endoscopic,0GQQ,2016,2027
+0GQQ4Z,No Device,0GQQ4,2016,2027
+0GQQ4ZZ,"Repair Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GQQ4Z,2016,2027
+0GQR,Parathyroid Gland,0GQ,2016,2027
+0GQR0,Open,0GQR,2016,2027
+0GQR0Z,No Device,0GQR0,2016,2027
+0GQR0ZZ,"Repair Parathyroid Gland, Open Approach",0GQR0Z,2016,2027
+0GQR3,Percutaneous,0GQR,2016,2027
+0GQR3Z,No Device,0GQR3,2016,2027
+0GQR3ZZ,"Repair Parathyroid Gland, Percutaneous Approach",0GQR3Z,2016,2027
+0GQR4,Percutaneous Endoscopic,0GQR,2016,2027
+0GQR4Z,No Device,0GQR4,2016,2027
+0GQR4ZZ,"Repair Parathyroid Gland, Percutaneous Endoscopic Approach",0GQR4Z,2016,2027
+0GS,Reposition,0G,2016,2027
+0GS2,"Adrenal Gland, Left",0GS,2016,2027
+0GS20,Open,0GS2,2016,2027
+0GS20Z,No Device,0GS20,2016,2027
+0GS20ZZ,"Reposition Left Adrenal Gland, Open Approach",0GS20Z,2016,2027
+0GS24,Percutaneous Endoscopic,0GS2,2016,2027
+0GS24Z,No Device,0GS24,2016,2027
+0GS24ZZ,"Reposition Left Adrenal Gland, Percutaneous Endoscopic Approach",0GS24Z,2016,2027
+0GS3,"Adrenal Gland, Right",0GS,2016,2027
+0GS30,Open,0GS3,2016,2027
+0GS30Z,No Device,0GS30,2016,2027
+0GS30ZZ,"Reposition Right Adrenal Gland, Open Approach",0GS30Z,2016,2027
+0GS34,Percutaneous Endoscopic,0GS3,2016,2027
+0GS34Z,No Device,0GS34,2016,2027
+0GS34ZZ,"Reposition Right Adrenal Gland, Percutaneous Endoscopic Approach",0GS34Z,2016,2027
+0GSG,"Thyroid Gland Lobe, Left",0GS,2016,2027
+0GSG0,Open,0GSG,2016,2027
+0GSG0Z,No Device,0GSG0,2016,2027
+0GSG0ZZ,"Reposition Left Thyroid Gland Lobe, Open Approach",0GSG0Z,2016,2027
+0GSG4,Percutaneous Endoscopic,0GSG,2016,2027
+0GSG4Z,No Device,0GSG4,2016,2027
+0GSG4ZZ,"Reposition Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GSG4Z,2016,2027
+0GSH,"Thyroid Gland Lobe, Right",0GS,2016,2027
+0GSH0,Open,0GSH,2016,2027
+0GSH0Z,No Device,0GSH0,2016,2027
+0GSH0ZZ,"Reposition Right Thyroid Gland Lobe, Open Approach",0GSH0Z,2016,2027
+0GSH4,Percutaneous Endoscopic,0GSH,2016,2027
+0GSH4Z,No Device,0GSH4,2016,2027
+0GSH4ZZ,"Reposition Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GSH4Z,2016,2027
+0GSL,"Superior Parathyroid Gland, Right",0GS,2016,2027
+0GSL0,Open,0GSL,2016,2027
+0GSL0Z,No Device,0GSL0,2016,2027
+0GSL0ZZ,"Reposition Right Superior Parathyroid Gland, Open Approach",0GSL0Z,2016,2027
+0GSL4,Percutaneous Endoscopic,0GSL,2016,2027
+0GSL4Z,No Device,0GSL4,2016,2027
+0GSL4ZZ,"Reposition Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GSL4Z,2016,2027
+0GSM,"Superior Parathyroid Gland, Left",0GS,2016,2027
+0GSM0,Open,0GSM,2016,2027
+0GSM0Z,No Device,0GSM0,2016,2027
+0GSM0ZZ,"Reposition Left Superior Parathyroid Gland, Open Approach",0GSM0Z,2016,2027
+0GSM4,Percutaneous Endoscopic,0GSM,2016,2027
+0GSM4Z,No Device,0GSM4,2016,2027
+0GSM4ZZ,"Reposition Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GSM4Z,2016,2027
+0GSN,"Inferior Parathyroid Gland, Right",0GS,2016,2027
+0GSN0,Open,0GSN,2016,2027
+0GSN0Z,No Device,0GSN0,2016,2027
+0GSN0ZZ,"Reposition Right Inferior Parathyroid Gland, Open Approach",0GSN0Z,2016,2027
+0GSN4,Percutaneous Endoscopic,0GSN,2016,2027
+0GSN4Z,No Device,0GSN4,2016,2027
+0GSN4ZZ,"Reposition Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GSN4Z,2016,2027
+0GSP,"Inferior Parathyroid Gland, Left",0GS,2016,2027
+0GSP0,Open,0GSP,2016,2027
+0GSP0Z,No Device,0GSP0,2016,2027
+0GSP0ZZ,"Reposition Left Inferior Parathyroid Gland, Open Approach",0GSP0Z,2016,2027
+0GSP4,Percutaneous Endoscopic,0GSP,2016,2027
+0GSP4Z,No Device,0GSP4,2016,2027
+0GSP4ZZ,"Reposition Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GSP4Z,2016,2027
+0GSQ,"Parathyroid Glands, Multiple",0GS,2016,2027
+0GSQ0,Open,0GSQ,2016,2027
+0GSQ0Z,No Device,0GSQ0,2016,2027
+0GSQ0ZZ,"Reposition Multiple Parathyroid Glands, Open Approach",0GSQ0Z,2016,2027
+0GSQ4,Percutaneous Endoscopic,0GSQ,2016,2027
+0GSQ4Z,No Device,0GSQ4,2016,2027
+0GSQ4ZZ,"Reposition Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GSQ4Z,2016,2027
+0GSR,Parathyroid Gland,0GS,2016,2027
+0GSR0,Open,0GSR,2016,2027
+0GSR0Z,No Device,0GSR0,2016,2027
+0GSR0ZZ,"Reposition Parathyroid Gland, Open Approach",0GSR0Z,2016,2027
+0GSR4,Percutaneous Endoscopic,0GSR,2016,2027
+0GSR4Z,No Device,0GSR4,2016,2027
+0GSR4ZZ,"Reposition Parathyroid Gland, Percutaneous Endoscopic Approach",0GSR4Z,2016,2027
+0GT,Resection,0G,2016,2027
+0GT0,Pituitary Gland,0GT,2016,2027
+0GT00,Open,0GT0,2016,2027
+0GT00Z,No Device,0GT00,2016,2027
+0GT00ZZ,"Resection of Pituitary Gland, Open Approach",0GT00Z,2016,2027
+0GT04,Percutaneous Endoscopic,0GT0,2016,2027
+0GT04Z,No Device,0GT04,2016,2027
+0GT04ZZ,"Resection of Pituitary Gland, Percutaneous Endoscopic Approach",0GT04Z,2016,2027
+0GT1,Pineal Body,0GT,2016,2027
+0GT10,Open,0GT1,2016,2027
+0GT10Z,No Device,0GT10,2016,2027
+0GT10ZZ,"Resection of Pineal Body, Open Approach",0GT10Z,2016,2027
+0GT14,Percutaneous Endoscopic,0GT1,2016,2027
+0GT14Z,No Device,0GT14,2016,2027
+0GT14ZZ,"Resection of Pineal Body, Percutaneous Endoscopic Approach",0GT14Z,2016,2027
+0GT2,"Adrenal Gland, Left",0GT,2016,2027
+0GT20,Open,0GT2,2016,2027
+0GT20Z,No Device,0GT20,2016,2027
+0GT20ZZ,"Resection of Left Adrenal Gland, Open Approach",0GT20Z,2016,2027
+0GT24,Percutaneous Endoscopic,0GT2,2016,2027
+0GT24Z,No Device,0GT24,2016,2027
+0GT24ZZ,"Resection of Left Adrenal Gland, Percutaneous Endoscopic Approach",0GT24Z,2016,2027
+0GT3,"Adrenal Gland, Right",0GT,2016,2027
+0GT30,Open,0GT3,2016,2027
+0GT30Z,No Device,0GT30,2016,2027
+0GT30ZZ,"Resection of Right Adrenal Gland, Open Approach",0GT30Z,2016,2027
+0GT34,Percutaneous Endoscopic,0GT3,2016,2027
+0GT34Z,No Device,0GT34,2016,2027
+0GT34ZZ,"Resection of Right Adrenal Gland, Percutaneous Endoscopic Approach",0GT34Z,2016,2027
+0GT4,"Adrenal Glands, Bilateral",0GT,2016,2027
+0GT40,Open,0GT4,2016,2027
+0GT40Z,No Device,0GT40,2016,2027
+0GT40ZZ,"Resection of Bilateral Adrenal Glands, Open Approach",0GT40Z,2016,2027
+0GT44,Percutaneous Endoscopic,0GT4,2016,2027
+0GT44Z,No Device,0GT44,2016,2027
+0GT44ZZ,"Resection of Bilateral Adrenal Glands, Percutaneous Endoscopic Approach",0GT44Z,2016,2027
+0GT6,"Carotid Body, Left",0GT,2016,2027
+0GT60,Open,0GT6,2016,2027
+0GT60Z,No Device,0GT60,2016,2027
+0GT60ZZ,"Resection of Left Carotid Body, Open Approach",0GT60Z,2016,2027
+0GT64,Percutaneous Endoscopic,0GT6,2016,2027
+0GT64Z,No Device,0GT64,2016,2027
+0GT64ZZ,"Resection of Left Carotid Body, Percutaneous Endoscopic Approach",0GT64Z,2016,2027
+0GT7,"Carotid Body, Right",0GT,2016,2027
+0GT70,Open,0GT7,2016,2027
+0GT70Z,No Device,0GT70,2016,2027
+0GT70ZZ,"Resection of Right Carotid Body, Open Approach",0GT70Z,2016,2027
+0GT74,Percutaneous Endoscopic,0GT7,2016,2027
+0GT74Z,No Device,0GT74,2016,2027
+0GT74ZZ,"Resection of Right Carotid Body, Percutaneous Endoscopic Approach",0GT74Z,2016,2027
+0GT8,"Carotid Bodies, Bilateral",0GT,2016,2027
+0GT80,Open,0GT8,2016,2027
+0GT80Z,No Device,0GT80,2016,2027
+0GT80ZZ,"Resection of Bilateral Carotid Bodies, Open Approach",0GT80Z,2016,2027
+0GT84,Percutaneous Endoscopic,0GT8,2016,2027
+0GT84Z,No Device,0GT84,2016,2027
+0GT84ZZ,"Resection of Bilateral Carotid Bodies, Percutaneous Endoscopic Approach",0GT84Z,2016,2027
+0GT9,Para-aortic Body,0GT,2016,2027
+0GT90,Open,0GT9,2016,2027
+0GT90Z,No Device,0GT90,2016,2027
+0GT90ZZ,"Resection of Para-aortic Body, Open Approach",0GT90Z,2016,2027
+0GT94,Percutaneous Endoscopic,0GT9,2016,2027
+0GT94Z,No Device,0GT94,2016,2027
+0GT94ZZ,"Resection of Para-aortic Body, Percutaneous Endoscopic Approach",0GT94Z,2016,2027
+0GTB,Coccygeal Glomus,0GT,2016,2027
+0GTB0,Open,0GTB,2016,2027
+0GTB0Z,No Device,0GTB0,2016,2027
+0GTB0ZZ,"Resection of Coccygeal Glomus, Open Approach",0GTB0Z,2016,2027
+0GTB4,Percutaneous Endoscopic,0GTB,2016,2027
+0GTB4Z,No Device,0GTB4,2016,2027
+0GTB4ZZ,"Resection of Coccygeal Glomus, Percutaneous Endoscopic Approach",0GTB4Z,2016,2027
+0GTC,Glomus Jugulare,0GT,2016,2027
+0GTC0,Open,0GTC,2016,2027
+0GTC0Z,No Device,0GTC0,2016,2027
+0GTC0ZZ,"Resection of Glomus Jugulare, Open Approach",0GTC0Z,2016,2027
+0GTC4,Percutaneous Endoscopic,0GTC,2016,2027
+0GTC4Z,No Device,0GTC4,2016,2027
+0GTC4ZZ,"Resection of Glomus Jugulare, Percutaneous Endoscopic Approach",0GTC4Z,2016,2027
+0GTD,Aortic Body,0GT,2016,2027
+0GTD0,Open,0GTD,2016,2027
+0GTD0Z,No Device,0GTD0,2016,2027
+0GTD0ZZ,"Resection of Aortic Body, Open Approach",0GTD0Z,2016,2027
+0GTD4,Percutaneous Endoscopic,0GTD,2016,2027
+0GTD4Z,No Device,0GTD4,2016,2027
+0GTD4ZZ,"Resection of Aortic Body, Percutaneous Endoscopic Approach",0GTD4Z,2016,2027
+0GTF,Paraganglion Extremity,0GT,2016,2027
+0GTF0,Open,0GTF,2016,2027
+0GTF0Z,No Device,0GTF0,2016,2027
+0GTF0ZZ,"Resection of Paraganglion Extremity, Open Approach",0GTF0Z,2016,2027
+0GTF4,Percutaneous Endoscopic,0GTF,2016,2027
+0GTF4Z,No Device,0GTF4,2016,2027
+0GTF4ZZ,"Resection of Paraganglion Extremity, Percutaneous Endoscopic Approach",0GTF4Z,2016,2027
+0GTG,"Thyroid Gland Lobe, Left",0GT,2016,2027
+0GTG0,Open,0GTG,2016,2027
+0GTG0Z,No Device,0GTG0,2016,2027
+0GTG0ZZ,"Resection of Left Thyroid Gland Lobe, Open Approach",0GTG0Z,2016,2027
+0GTG4,Percutaneous Endoscopic,0GTG,2016,2027
+0GTG4Z,No Device,0GTG4,2016,2027
+0GTG4ZZ,"Resection of Left Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GTG4Z,2016,2027
+0GTH,"Thyroid Gland Lobe, Right",0GT,2016,2027
+0GTH0,Open,0GTH,2016,2027
+0GTH0Z,No Device,0GTH0,2016,2027
+0GTH0ZZ,"Resection of Right Thyroid Gland Lobe, Open Approach",0GTH0Z,2016,2027
+0GTH4,Percutaneous Endoscopic,0GTH,2016,2027
+0GTH4Z,No Device,0GTH4,2016,2027
+0GTH4ZZ,"Resection of Right Thyroid Gland Lobe, Percutaneous Endoscopic Approach",0GTH4Z,2016,2027
+0GTJ,Thyroid Gland Isthmus,0GT,2018,2027
+0GTJ0,Open,0GTJ,2018,2027
+0GTJ0Z,No Device,0GTJ0,2018,2027
+0GTJ0ZZ,"Resection of Thyroid Gland Isthmus, Open Approach",0GTJ0Z,2018,2027
+0GTJ4,Percutaneous Endoscopic,0GTJ,2018,2027
+0GTJ4Z,No Device,0GTJ4,2018,2027
+0GTJ4ZZ,"Resection of Thyroid Gland Isthmus, Percutaneous Endoscopic Approach",0GTJ4Z,2018,2027
+0GTK,Thyroid Gland,0GT,2016,2027
+0GTK0,Open,0GTK,2016,2027
+0GTK0Z,No Device,0GTK0,2016,2027
+0GTK0ZZ,"Resection of Thyroid Gland, Open Approach",0GTK0Z,2016,2027
+0GTK4,Percutaneous Endoscopic,0GTK,2016,2027
+0GTK4Z,No Device,0GTK4,2016,2027
+0GTK4ZZ,"Resection of Thyroid Gland, Percutaneous Endoscopic Approach",0GTK4Z,2016,2027
+0GTL,"Superior Parathyroid Gland, Right",0GT,2016,2027
+0GTL0,Open,0GTL,2016,2027
+0GTL0Z,No Device,0GTL0,2016,2027
+0GTL0ZZ,"Resection of Right Superior Parathyroid Gland, Open Approach",0GTL0Z,2016,2027
+0GTL4,Percutaneous Endoscopic,0GTL,2016,2027
+0GTL4Z,No Device,0GTL4,2016,2027
+0GTL4ZZ,"Resection of Right Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GTL4Z,2016,2027
+0GTM,"Superior Parathyroid Gland, Left",0GT,2016,2027
+0GTM0,Open,0GTM,2016,2027
+0GTM0Z,No Device,0GTM0,2016,2027
+0GTM0ZZ,"Resection of Left Superior Parathyroid Gland, Open Approach",0GTM0Z,2016,2027
+0GTM4,Percutaneous Endoscopic,0GTM,2016,2027
+0GTM4Z,No Device,0GTM4,2016,2027
+0GTM4ZZ,"Resection of Left Superior Parathyroid Gland, Percutaneous Endoscopic Approach",0GTM4Z,2016,2027
+0GTN,"Inferior Parathyroid Gland, Right",0GT,2016,2027
+0GTN0,Open,0GTN,2016,2027
+0GTN0Z,No Device,0GTN0,2016,2027
+0GTN0ZZ,"Resection of Right Inferior Parathyroid Gland, Open Approach",0GTN0Z,2016,2027
+0GTN4,Percutaneous Endoscopic,0GTN,2016,2027
+0GTN4Z,No Device,0GTN4,2016,2027
+0GTN4ZZ,"Resection of Right Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GTN4Z,2016,2027
+0GTP,"Inferior Parathyroid Gland, Left",0GT,2016,2027
+0GTP0,Open,0GTP,2016,2027
+0GTP0Z,No Device,0GTP0,2016,2027
+0GTP0ZZ,"Resection of Left Inferior Parathyroid Gland, Open Approach",0GTP0Z,2016,2027
+0GTP4,Percutaneous Endoscopic,0GTP,2016,2027
+0GTP4Z,No Device,0GTP4,2016,2027
+0GTP4ZZ,"Resection of Left Inferior Parathyroid Gland, Percutaneous Endoscopic Approach",0GTP4Z,2016,2027
+0GTQ,"Parathyroid Glands, Multiple",0GT,2016,2027
+0GTQ0,Open,0GTQ,2016,2027
+0GTQ0Z,No Device,0GTQ0,2016,2027
+0GTQ0ZZ,"Resection of Multiple Parathyroid Glands, Open Approach",0GTQ0Z,2016,2027
+0GTQ4,Percutaneous Endoscopic,0GTQ,2016,2027
+0GTQ4Z,No Device,0GTQ4,2016,2027
+0GTQ4ZZ,"Resection of Multiple Parathyroid Glands, Percutaneous Endoscopic Approach",0GTQ4Z,2016,2027
+0GTR,Parathyroid Gland,0GT,2016,2027
+0GTR0,Open,0GTR,2016,2027
+0GTR0Z,No Device,0GTR0,2016,2027
+0GTR0ZZ,"Resection of Parathyroid Gland, Open Approach",0GTR0Z,2016,2027
+0GTR4,Percutaneous Endoscopic,0GTR,2016,2027
+0GTR4Z,No Device,0GTR4,2016,2027
+0GTR4ZZ,"Resection of Parathyroid Gland, Percutaneous Endoscopic Approach",0GTR4Z,2016,2027
+0GW,Revision,0G,2016,2027
+0GW0,Pituitary Gland,0GW,2016,2027
+0GW00,Open,0GW0,2016,2027
+0GW000,Drainage Device,0GW00,2016,2027
+0GW000Z,"Revision of Drainage Device in Pituitary Gland, Open Approach",0GW000,2016,2027
+0GW03,Percutaneous,0GW0,2016,2027
+0GW030,Drainage Device,0GW03,2016,2027
+0GW030Z,"Revision of Drainage Device in Pituitary Gland, Percutaneous Approach",0GW030,2016,2027
+0GW04,Percutaneous Endoscopic,0GW0,2016,2027
+0GW040,Drainage Device,0GW04,2016,2027
+0GW040Z,"Revision of Drainage Device in Pituitary Gland, Percutaneous Endoscopic Approach",0GW040,2016,2027
+0GW0X,External,0GW0,2016,2027
+0GW0X0,Drainage Device,0GW0X,2016,2027
+0GW0X0Z,"Revision of Drainage Device in Pituitary Gland, External Approach",0GW0X0,2016,2027
+0GW1,Pineal Body,0GW,2016,2027
+0GW10,Open,0GW1,2016,2027
+0GW100,Drainage Device,0GW10,2016,2027
+0GW100Z,"Revision of Drainage Device in Pineal Body, Open Approach",0GW100,2016,2027
+0GW13,Percutaneous,0GW1,2016,2027
+0GW130,Drainage Device,0GW13,2016,2027
+0GW130Z,"Revision of Drainage Device in Pineal Body, Percutaneous Approach",0GW130,2016,2027
+0GW14,Percutaneous Endoscopic,0GW1,2016,2027
+0GW140,Drainage Device,0GW14,2016,2027
+0GW140Z,"Revision of Drainage Device in Pineal Body, Percutaneous Endoscopic Approach",0GW140,2016,2027
+0GW1X,External,0GW1,2016,2027
+0GW1X0,Drainage Device,0GW1X,2016,2027
+0GW1X0Z,"Revision of Drainage Device in Pineal Body, External Approach",0GW1X0,2016,2027
+0GW5,Adrenal Gland,0GW,2016,2027
+0GW50,Open,0GW5,2016,2027
+0GW500,Drainage Device,0GW50,2016,2027
+0GW500Z,"Revision of Drainage Device in Adrenal Gland, Open Approach",0GW500,2016,2027
+0GW53,Percutaneous,0GW5,2016,2027
+0GW530,Drainage Device,0GW53,2016,2027
+0GW530Z,"Revision of Drainage Device in Adrenal Gland, Percutaneous Approach",0GW530,2016,2027
+0GW54,Percutaneous Endoscopic,0GW5,2016,2027
+0GW540,Drainage Device,0GW54,2016,2027
+0GW540Z,"Revision of Drainage Device in Adrenal Gland, Percutaneous Endoscopic Approach",0GW540,2016,2027
+0GW5X,External,0GW5,2016,2027
+0GW5X0,Drainage Device,0GW5X,2016,2027
+0GW5X0Z,"Revision of Drainage Device in Adrenal Gland, External Approach",0GW5X0,2016,2027
+0GWK,Thyroid Gland,0GW,2016,2027
+0GWK0,Open,0GWK,2016,2027
+0GWK00,Drainage Device,0GWK0,2016,2027
+0GWK00Z,"Revision of Drainage Device in Thyroid Gland, Open Approach",0GWK00,2016,2027
+0GWK3,Percutaneous,0GWK,2016,2027
+0GWK30,Drainage Device,0GWK3,2016,2027
+0GWK30Z,"Revision of Drainage Device in Thyroid Gland, Percutaneous Approach",0GWK30,2016,2027
+0GWK4,Percutaneous Endoscopic,0GWK,2016,2027
+0GWK40,Drainage Device,0GWK4,2016,2027
+0GWK40Z,"Revision of Drainage Device in Thyroid Gland, Percutaneous Endoscopic Approach",0GWK40,2016,2027
+0GWKX,External,0GWK,2016,2027
+0GWKX0,Drainage Device,0GWKX,2016,2027
+0GWKX0Z,"Revision of Drainage Device in Thyroid Gland, External Approach",0GWKX0,2016,2027
+0GWR,Parathyroid Gland,0GW,2016,2027
+0GWR0,Open,0GWR,2016,2027
+0GWR00,Drainage Device,0GWR0,2016,2027
+0GWR00Z,"Revision of Drainage Device in Parathyroid Gland, Open Approach",0GWR00,2016,2027
+0GWR3,Percutaneous,0GWR,2016,2027
+0GWR30,Drainage Device,0GWR3,2016,2027
+0GWR30Z,"Revision of Drainage Device in Parathyroid Gland, Percutaneous Approach",0GWR30,2016,2027
+0GWR4,Percutaneous Endoscopic,0GWR,2016,2027
+0GWR40,Drainage Device,0GWR4,2016,2027
+0GWR40Z,"Revision of Drainage Device in Parathyroid Gland, Percutaneous Endoscopic Approach",0GWR40,2016,2027
+0GWRX,External,0GWR,2016,2027
+0GWRX0,Drainage Device,0GWRX,2016,2027
+0GWRX0Z,"Revision of Drainage Device in Parathyroid Gland, External Approach",0GWRX0,2016,2027
+0GWS,Endocrine Gland,0GW,2016,2027
+0GWS0,Open,0GWS,2016,2027
+0GWS00,Drainage Device,0GWS0,2016,2027
+0GWS00Z,"Revision of Drainage Device in Endocrine Gland, Open Approach",0GWS00,2016,2027
+0GWS02,Monitoring Device,0GWS0,2016,2027
+0GWS02Z,"Revision of Monitoring Device in Endocrine Gland, Open Approach",0GWS02,2016,2027
+0GWS03,Infusion Device,0GWS0,2016,2027
+0GWS03Z,"Revision of Infusion Device in Endocrine Gland, Open Approach",0GWS03,2016,2027
+0GWS0Y,Other Device,0GWS0,2018,2027
+0GWS0YZ,"Revision of Other Device in Endocrine Gland, Open Approach",0GWS0Y,2018,2027
+0GWS3,Percutaneous,0GWS,2016,2027
+0GWS30,Drainage Device,0GWS3,2016,2027
+0GWS30Z,"Revision of Drainage Device in Endocrine Gland, Percutaneous Approach",0GWS30,2016,2027
+0GWS32,Monitoring Device,0GWS3,2016,2027
+0GWS32Z,"Revision of Monitoring Device in Endocrine Gland, Percutaneous Approach",0GWS32,2016,2027
+0GWS33,Infusion Device,0GWS3,2016,2027
+0GWS33Z,"Revision of Infusion Device in Endocrine Gland, Percutaneous Approach",0GWS33,2016,2027
+0GWS3Y,Other Device,0GWS3,2018,2027
+0GWS3YZ,"Revision of Other Device in Endocrine Gland, Percutaneous Approach",0GWS3Y,2018,2027
+0GWS4,Percutaneous Endoscopic,0GWS,2016,2027
+0GWS40,Drainage Device,0GWS4,2016,2027
+0GWS40Z,"Revision of Drainage Device in Endocrine Gland, Percutaneous Endoscopic Approach",0GWS40,2016,2027
+0GWS42,Monitoring Device,0GWS4,2016,2027
+0GWS42Z,"Revision of Monitoring Device in Endocrine Gland, Percutaneous Endoscopic Approach",0GWS42,2016,2027
+0GWS43,Infusion Device,0GWS4,2016,2027
+0GWS43Z,"Revision of Infusion Device in Endocrine Gland, Percutaneous Endoscopic Approach",0GWS43,2016,2027
+0GWS4Y,Other Device,0GWS4,2018,2027
+0GWS4YZ,"Revision of Other Device in Endocrine Gland, Percutaneous Endoscopic Approach",0GWS4Y,2018,2027
+0GWSX,External,0GWS,2016,2027
+0GWSX0,Drainage Device,0GWSX,2016,2027
+0GWSX0Z,"Revision of Drainage Device in Endocrine Gland, External Approach",0GWSX0,2016,2027
+0GWSX2,Monitoring Device,0GWSX,2016,2027
+0GWSX2Z,"Revision of Monitoring Device in Endocrine Gland, External Approach",0GWSX2,2016,2027
+0GWSX3,Infusion Device,0GWSX,2016,2027
+0GWSX3Z,"Revision of Infusion Device in Endocrine Gland, External Approach",0GWSX3,2016,2027

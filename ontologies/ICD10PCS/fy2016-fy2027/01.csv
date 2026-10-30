@@ -1,0 +1,3052 @@
+code,description,parent,first_year,last_year
+01,Peripheral Nervous System,0,2016,2027
+012,Change,01,2016,2027
+012Y,Peripheral Nerve,012,2016,2027
+012YX,External,012Y,2016,2027
+012YX0,Drainage Device,012YX,2016,2027
+012YX0Z,"Change Drainage Device in Peripheral Nerve, External Approach",012YX0,2016,2027
+012YXY,Other Device,012YX,2016,2027
+012YXYZ,"Change Other Device in Peripheral Nerve, External Approach",012YXY,2016,2027
+015,Destruction,01,2016,2027
+0150,Cervical Plexus,015,2016,2027
+01500,Open,0150,2016,2027
+01500Z,No Device,01500,2016,2027
+01500ZZ,"Destruction of Cervical Plexus, Open Approach",01500Z,2016,2027
+01503,Percutaneous,0150,2016,2027
+01503Z,No Device,01503,2016,2027
+01503ZZ,"Destruction of Cervical Plexus, Percutaneous Approach",01503Z,2016,2027
+01504,Percutaneous Endoscopic,0150,2016,2027
+01504Z,No Device,01504,2016,2027
+01504ZZ,"Destruction of Cervical Plexus, Percutaneous Endoscopic Approach",01504Z,2016,2027
+0151,Cervical Nerve,015,2016,2027
+01510,Open,0151,2016,2027
+01510Z,No Device,01510,2016,2027
+01510ZZ,"Destruction of Cervical Nerve, Open Approach",01510Z,2016,2027
+01513,Percutaneous,0151,2016,2027
+01513Z,No Device,01513,2016,2027
+01513ZZ,"Destruction of Cervical Nerve, Percutaneous Approach",01513Z,2016,2027
+01514,Percutaneous Endoscopic,0151,2016,2027
+01514Z,No Device,01514,2016,2027
+01514ZZ,"Destruction of Cervical Nerve, Percutaneous Endoscopic Approach",01514Z,2016,2027
+0152,Phrenic Nerve,015,2016,2027
+01520,Open,0152,2016,2027
+01520Z,No Device,01520,2016,2027
+01520ZZ,"Destruction of Phrenic Nerve, Open Approach",01520Z,2016,2027
+01523,Percutaneous,0152,2016,2027
+01523Z,No Device,01523,2016,2027
+01523ZZ,"Destruction of Phrenic Nerve, Percutaneous Approach",01523Z,2016,2027
+01524,Percutaneous Endoscopic,0152,2016,2027
+01524Z,No Device,01524,2016,2027
+01524ZZ,"Destruction of Phrenic Nerve, Percutaneous Endoscopic Approach",01524Z,2016,2027
+0153,Brachial Plexus,015,2016,2027
+01530,Open,0153,2016,2027
+01530Z,No Device,01530,2016,2027
+01530ZZ,"Destruction of Brachial Plexus, Open Approach",01530Z,2016,2027
+01533,Percutaneous,0153,2016,2027
+01533Z,No Device,01533,2016,2027
+01533ZZ,"Destruction of Brachial Plexus, Percutaneous Approach",01533Z,2016,2027
+01534,Percutaneous Endoscopic,0153,2016,2027
+01534Z,No Device,01534,2016,2027
+01534ZZ,"Destruction of Brachial Plexus, Percutaneous Endoscopic Approach",01534Z,2016,2027
+0154,Ulnar Nerve,015,2016,2027
+01540,Open,0154,2016,2027
+01540Z,No Device,01540,2016,2027
+01540ZZ,"Destruction of Ulnar Nerve, Open Approach",01540Z,2016,2027
+01543,Percutaneous,0154,2016,2027
+01543Z,No Device,01543,2016,2027
+01543ZZ,"Destruction of Ulnar Nerve, Percutaneous Approach",01543Z,2016,2027
+01544,Percutaneous Endoscopic,0154,2016,2027
+01544Z,No Device,01544,2016,2027
+01544ZZ,"Destruction of Ulnar Nerve, Percutaneous Endoscopic Approach",01544Z,2016,2027
+0155,Median Nerve,015,2016,2027
+01550,Open,0155,2016,2027
+01550Z,No Device,01550,2016,2027
+01550ZZ,"Destruction of Median Nerve, Open Approach",01550Z,2016,2027
+01553,Percutaneous,0155,2016,2027
+01553Z,No Device,01553,2016,2027
+01553ZZ,"Destruction of Median Nerve, Percutaneous Approach",01553Z,2016,2027
+01554,Percutaneous Endoscopic,0155,2016,2027
+01554Z,No Device,01554,2016,2027
+01554ZZ,"Destruction of Median Nerve, Percutaneous Endoscopic Approach",01554Z,2016,2027
+0156,Radial Nerve,015,2016,2027
+01560,Open,0156,2016,2027
+01560Z,No Device,01560,2016,2027
+01560ZZ,"Destruction of Radial Nerve, Open Approach",01560Z,2016,2027
+01563,Percutaneous,0156,2016,2027
+01563Z,No Device,01563,2016,2027
+01563ZZ,"Destruction of Radial Nerve, Percutaneous Approach",01563Z,2016,2027
+01564,Percutaneous Endoscopic,0156,2016,2027
+01564Z,No Device,01564,2016,2027
+01564ZZ,"Destruction of Radial Nerve, Percutaneous Endoscopic Approach",01564Z,2016,2027
+0158,Thoracic Nerve,015,2016,2027
+01580,Open,0158,2016,2027
+01580Z,No Device,01580,2016,2027
+01580ZZ,"Destruction of Thoracic Nerve, Open Approach",01580Z,2016,2027
+01583,Percutaneous,0158,2016,2027
+01583Z,No Device,01583,2016,2027
+01583ZZ,"Destruction of Thoracic Nerve, Percutaneous Approach",01583Z,2016,2027
+01584,Percutaneous Endoscopic,0158,2016,2027
+01584Z,No Device,01584,2016,2027
+01584ZZ,"Destruction of Thoracic Nerve, Percutaneous Endoscopic Approach",01584Z,2016,2027
+0159,Lumbar Plexus,015,2016,2027
+01590,Open,0159,2016,2027
+01590Z,No Device,01590,2016,2027
+01590ZZ,"Destruction of Lumbar Plexus, Open Approach",01590Z,2016,2027
+01593,Percutaneous,0159,2016,2027
+01593Z,No Device,01593,2016,2027
+01593ZZ,"Destruction of Lumbar Plexus, Percutaneous Approach",01593Z,2016,2027
+01594,Percutaneous Endoscopic,0159,2016,2027
+01594Z,No Device,01594,2016,2027
+01594ZZ,"Destruction of Lumbar Plexus, Percutaneous Endoscopic Approach",01594Z,2016,2027
+015A,Lumbosacral Plexus,015,2016,2027
+015A0,Open,015A,2016,2027
+015A0Z,No Device,015A0,2016,2027
+015A0ZZ,"Destruction of Lumbosacral Plexus, Open Approach",015A0Z,2016,2027
+015A3,Percutaneous,015A,2016,2027
+015A3Z,No Device,015A3,2016,2027
+015A3ZZ,"Destruction of Lumbosacral Plexus, Percutaneous Approach",015A3Z,2016,2027
+015A4,Percutaneous Endoscopic,015A,2016,2027
+015A4Z,No Device,015A4,2016,2027
+015A4ZZ,"Destruction of Lumbosacral Plexus, Percutaneous Endoscopic Approach",015A4Z,2016,2027
+015B,Lumbar Nerve,015,2016,2027
+015B0,Open,015B,2016,2027
+015B0Z,No Device,015B0,2016,2027
+015B0ZZ,"Destruction of Lumbar Nerve, Open Approach",015B0Z,2016,2027
+015B3,Percutaneous,015B,2016,2027
+015B3Z,No Device,015B3,2016,2027
+015B3ZZ,"Destruction of Lumbar Nerve, Percutaneous Approach",015B3Z,2016,2027
+015B4,Percutaneous Endoscopic,015B,2016,2027
+015B4Z,No Device,015B4,2016,2027
+015B4ZZ,"Destruction of Lumbar Nerve, Percutaneous Endoscopic Approach",015B4Z,2016,2027
+015C,Pudendal Nerve,015,2016,2027
+015C0,Open,015C,2016,2027
+015C0Z,No Device,015C0,2016,2027
+015C0ZZ,"Destruction of Pudendal Nerve, Open Approach",015C0Z,2016,2027
+015C3,Percutaneous,015C,2016,2027
+015C3Z,No Device,015C3,2016,2027
+015C3ZZ,"Destruction of Pudendal Nerve, Percutaneous Approach",015C3Z,2016,2027
+015C4,Percutaneous Endoscopic,015C,2016,2027
+015C4Z,No Device,015C4,2016,2027
+015C4ZZ,"Destruction of Pudendal Nerve, Percutaneous Endoscopic Approach",015C4Z,2016,2027
+015D,Femoral Nerve,015,2016,2027
+015D0,Open,015D,2016,2027
+015D0Z,No Device,015D0,2016,2027
+015D0ZZ,"Destruction of Femoral Nerve, Open Approach",015D0Z,2016,2027
+015D3,Percutaneous,015D,2016,2027
+015D3Z,No Device,015D3,2016,2027
+015D3ZZ,"Destruction of Femoral Nerve, Percutaneous Approach",015D3Z,2016,2027
+015D4,Percutaneous Endoscopic,015D,2016,2027
+015D4Z,No Device,015D4,2016,2027
+015D4ZZ,"Destruction of Femoral Nerve, Percutaneous Endoscopic Approach",015D4Z,2016,2027
+015F,Sciatic Nerve,015,2016,2027
+015F0,Open,015F,2016,2027
+015F0Z,No Device,015F0,2016,2027
+015F0ZZ,"Destruction of Sciatic Nerve, Open Approach",015F0Z,2016,2027
+015F3,Percutaneous,015F,2016,2027
+015F3Z,No Device,015F3,2016,2027
+015F3ZZ,"Destruction of Sciatic Nerve, Percutaneous Approach",015F3Z,2016,2027
+015F4,Percutaneous Endoscopic,015F,2016,2027
+015F4Z,No Device,015F4,2016,2027
+015F4ZZ,"Destruction of Sciatic Nerve, Percutaneous Endoscopic Approach",015F4Z,2016,2027
+015G,Tibial Nerve,015,2016,2027
+015G0,Open,015G,2016,2027
+015G0Z,No Device,015G0,2016,2027
+015G0ZZ,"Destruction of Tibial Nerve, Open Approach",015G0Z,2016,2027
+015G3,Percutaneous,015G,2016,2027
+015G3Z,No Device,015G3,2016,2027
+015G3ZZ,"Destruction of Tibial Nerve, Percutaneous Approach",015G3Z,2016,2027
+015G4,Percutaneous Endoscopic,015G,2016,2027
+015G4Z,No Device,015G4,2016,2027
+015G4ZZ,"Destruction of Tibial Nerve, Percutaneous Endoscopic Approach",015G4Z,2016,2027
+015H,Peroneal Nerve,015,2016,2027
+015H0,Open,015H,2016,2027
+015H0Z,No Device,015H0,2016,2027
+015H0ZZ,"Destruction of Peroneal Nerve, Open Approach",015H0Z,2016,2027
+015H3,Percutaneous,015H,2016,2027
+015H3Z,No Device,015H3,2016,2027
+015H3ZZ,"Destruction of Peroneal Nerve, Percutaneous Approach",015H3Z,2016,2027
+015H4,Percutaneous Endoscopic,015H,2016,2027
+015H4Z,No Device,015H4,2016,2027
+015H4ZZ,"Destruction of Peroneal Nerve, Percutaneous Endoscopic Approach",015H4Z,2016,2027
+015K,Head and Neck Sympathetic Nerve,015,2016,2027
+015K0,Open,015K,2016,2027
+015K0Z,No Device,015K0,2016,2027
+015K0ZZ,"Destruction of Head and Neck Sympathetic Nerve, Open Approach",015K0Z,2016,2027
+015K3,Percutaneous,015K,2016,2027
+015K3Z,No Device,015K3,2016,2027
+015K3ZZ,"Destruction of Head and Neck Sympathetic Nerve, Percutaneous Approach",015K3Z,2016,2027
+015K4,Percutaneous Endoscopic,015K,2016,2027
+015K4Z,No Device,015K4,2016,2027
+015K4ZZ,"Destruction of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",015K4Z,2016,2027
+015L,Thoracic Sympathetic Nerve,015,2016,2027
+015L0,Open,015L,2016,2027
+015L0Z,No Device,015L0,2016,2027
+015L0ZZ,"Destruction of Thoracic Sympathetic Nerve, Open Approach",015L0Z,2016,2027
+015L3,Percutaneous,015L,2016,2027
+015L3Z,No Device,015L3,2016,2027
+015L3ZZ,"Destruction of Thoracic Sympathetic Nerve, Percutaneous Approach",015L3Z,2016,2027
+015L4,Percutaneous Endoscopic,015L,2016,2027
+015L4Z,No Device,015L4,2016,2027
+015L4ZZ,"Destruction of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",015L4Z,2016,2027
+015M,Abdominal Sympathetic Nerve,015,2016,2027
+015M0,Open,015M,2016,2027
+015M0Z,No Device,015M0,2016,2027
+015M0ZZ,"Destruction of Abdominal Sympathetic Nerve, Open Approach",015M0Z,2016,2027
+015M3,Percutaneous,015M,2016,2027
+015M3Z,No Device,015M3,2016,2027
+015M3ZZ,"Destruction of Abdominal Sympathetic Nerve, Percutaneous Approach",015M3Z,2016,2027
+015M4,Percutaneous Endoscopic,015M,2016,2027
+015M4Z,No Device,015M4,2016,2027
+015M4ZZ,"Destruction of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",015M4Z,2016,2027
+015N,Lumbar Sympathetic Nerve,015,2016,2027
+015N0,Open,015N,2016,2027
+015N0Z,No Device,015N0,2016,2027
+015N0ZZ,"Destruction of Lumbar Sympathetic Nerve, Open Approach",015N0Z,2016,2027
+015N3,Percutaneous,015N,2016,2027
+015N3Z,No Device,015N3,2016,2027
+015N3ZZ,"Destruction of Lumbar Sympathetic Nerve, Percutaneous Approach",015N3Z,2016,2027
+015N4,Percutaneous Endoscopic,015N,2016,2027
+015N4Z,No Device,015N4,2016,2027
+015N4ZZ,"Destruction of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",015N4Z,2016,2027
+015P,Sacral Sympathetic Nerve,015,2016,2027
+015P0,Open,015P,2016,2027
+015P0Z,No Device,015P0,2016,2027
+015P0ZZ,"Destruction of Sacral Sympathetic Nerve, Open Approach",015P0Z,2016,2027
+015P3,Percutaneous,015P,2016,2027
+015P3Z,No Device,015P3,2016,2027
+015P3ZZ,"Destruction of Sacral Sympathetic Nerve, Percutaneous Approach",015P3Z,2016,2027
+015P4,Percutaneous Endoscopic,015P,2016,2027
+015P4Z,No Device,015P4,2016,2027
+015P4ZZ,"Destruction of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",015P4Z,2016,2027
+015Q,Sacral Plexus,015,2016,2027
+015Q0,Open,015Q,2016,2027
+015Q0Z,No Device,015Q0,2016,2027
+015Q0ZZ,"Destruction of Sacral Plexus, Open Approach",015Q0Z,2016,2027
+015Q3,Percutaneous,015Q,2016,2027
+015Q3Z,No Device,015Q3,2016,2027
+015Q3ZZ,"Destruction of Sacral Plexus, Percutaneous Approach",015Q3Z,2016,2027
+015Q4,Percutaneous Endoscopic,015Q,2016,2027
+015Q4Z,No Device,015Q4,2016,2027
+015Q4ZZ,"Destruction of Sacral Plexus, Percutaneous Endoscopic Approach",015Q4Z,2016,2027
+015R,Sacral Nerve,015,2016,2027
+015R0,Open,015R,2016,2027
+015R0Z,No Device,015R0,2016,2027
+015R0ZZ,"Destruction of Sacral Nerve, Open Approach",015R0Z,2016,2027
+015R3,Percutaneous,015R,2016,2027
+015R3Z,No Device,015R3,2016,2027
+015R3ZZ,"Destruction of Sacral Nerve, Percutaneous Approach",015R3Z,2016,2027
+015R4,Percutaneous Endoscopic,015R,2016,2027
+015R4Z,No Device,015R4,2016,2027
+015R4ZZ,"Destruction of Sacral Nerve, Percutaneous Endoscopic Approach",015R4Z,2016,2027
+018,Division,01,2016,2027
+0180,Cervical Plexus,018,2016,2027
+01800,Open,0180,2016,2027
+01800Z,No Device,01800,2016,2027
+01800ZZ,"Division of Cervical Plexus, Open Approach",01800Z,2016,2027
+01803,Percutaneous,0180,2016,2027
+01803Z,No Device,01803,2016,2027
+01803ZZ,"Division of Cervical Plexus, Percutaneous Approach",01803Z,2016,2027
+01804,Percutaneous Endoscopic,0180,2016,2027
+01804Z,No Device,01804,2016,2027
+01804ZZ,"Division of Cervical Plexus, Percutaneous Endoscopic Approach",01804Z,2016,2027
+0181,Cervical Nerve,018,2016,2027
+01810,Open,0181,2016,2027
+01810Z,No Device,01810,2016,2027
+01810ZZ,"Division of Cervical Nerve, Open Approach",01810Z,2016,2027
+01813,Percutaneous,0181,2016,2027
+01813Z,No Device,01813,2016,2027
+01813ZZ,"Division of Cervical Nerve, Percutaneous Approach",01813Z,2016,2027
+01814,Percutaneous Endoscopic,0181,2016,2027
+01814Z,No Device,01814,2016,2027
+01814ZZ,"Division of Cervical Nerve, Percutaneous Endoscopic Approach",01814Z,2016,2027
+0182,Phrenic Nerve,018,2016,2027
+01820,Open,0182,2016,2027
+01820Z,No Device,01820,2016,2027
+01820ZZ,"Division of Phrenic Nerve, Open Approach",01820Z,2016,2027
+01823,Percutaneous,0182,2016,2027
+01823Z,No Device,01823,2016,2027
+01823ZZ,"Division of Phrenic Nerve, Percutaneous Approach",01823Z,2016,2027
+01824,Percutaneous Endoscopic,0182,2016,2027
+01824Z,No Device,01824,2016,2027
+01824ZZ,"Division of Phrenic Nerve, Percutaneous Endoscopic Approach",01824Z,2016,2027
+0183,Brachial Plexus,018,2016,2027
+01830,Open,0183,2016,2027
+01830Z,No Device,01830,2016,2027
+01830ZZ,"Division of Brachial Plexus, Open Approach",01830Z,2016,2027
+01833,Percutaneous,0183,2016,2027
+01833Z,No Device,01833,2016,2027
+01833ZZ,"Division of Brachial Plexus, Percutaneous Approach",01833Z,2016,2027
+01834,Percutaneous Endoscopic,0183,2016,2027
+01834Z,No Device,01834,2016,2027
+01834ZZ,"Division of Brachial Plexus, Percutaneous Endoscopic Approach",01834Z,2016,2027
+0184,Ulnar Nerve,018,2016,2027
+01840,Open,0184,2016,2027
+01840Z,No Device,01840,2016,2027
+01840ZZ,"Division of Ulnar Nerve, Open Approach",01840Z,2016,2027
+01843,Percutaneous,0184,2016,2027
+01843Z,No Device,01843,2016,2027
+01843ZZ,"Division of Ulnar Nerve, Percutaneous Approach",01843Z,2016,2027
+01844,Percutaneous Endoscopic,0184,2016,2027
+01844Z,No Device,01844,2016,2027
+01844ZZ,"Division of Ulnar Nerve, Percutaneous Endoscopic Approach",01844Z,2016,2027
+0185,Median Nerve,018,2016,2027
+01850,Open,0185,2016,2027
+01850Z,No Device,01850,2016,2027
+01850ZZ,"Division of Median Nerve, Open Approach",01850Z,2016,2027
+01853,Percutaneous,0185,2016,2027
+01853Z,No Device,01853,2016,2027
+01853ZZ,"Division of Median Nerve, Percutaneous Approach",01853Z,2016,2027
+01854,Percutaneous Endoscopic,0185,2016,2027
+01854Z,No Device,01854,2016,2027
+01854ZZ,"Division of Median Nerve, Percutaneous Endoscopic Approach",01854Z,2016,2027
+0186,Radial Nerve,018,2016,2027
+01860,Open,0186,2016,2027
+01860Z,No Device,01860,2016,2027
+01860ZZ,"Division of Radial Nerve, Open Approach",01860Z,2016,2027
+01863,Percutaneous,0186,2016,2027
+01863Z,No Device,01863,2016,2027
+01863ZZ,"Division of Radial Nerve, Percutaneous Approach",01863Z,2016,2027
+01864,Percutaneous Endoscopic,0186,2016,2027
+01864Z,No Device,01864,2016,2027
+01864ZZ,"Division of Radial Nerve, Percutaneous Endoscopic Approach",01864Z,2016,2027
+0188,Thoracic Nerve,018,2016,2027
+01880,Open,0188,2016,2027
+01880Z,No Device,01880,2016,2027
+01880ZZ,"Division of Thoracic Nerve, Open Approach",01880Z,2016,2027
+01883,Percutaneous,0188,2016,2027
+01883Z,No Device,01883,2016,2027
+01883ZZ,"Division of Thoracic Nerve, Percutaneous Approach",01883Z,2016,2027
+01884,Percutaneous Endoscopic,0188,2016,2027
+01884Z,No Device,01884,2016,2027
+01884ZZ,"Division of Thoracic Nerve, Percutaneous Endoscopic Approach",01884Z,2016,2027
+0189,Lumbar Plexus,018,2016,2027
+01890,Open,0189,2016,2027
+01890Z,No Device,01890,2016,2027
+01890ZZ,"Division of Lumbar Plexus, Open Approach",01890Z,2016,2027
+01893,Percutaneous,0189,2016,2027
+01893Z,No Device,01893,2016,2027
+01893ZZ,"Division of Lumbar Plexus, Percutaneous Approach",01893Z,2016,2027
+01894,Percutaneous Endoscopic,0189,2016,2027
+01894Z,No Device,01894,2016,2027
+01894ZZ,"Division of Lumbar Plexus, Percutaneous Endoscopic Approach",01894Z,2016,2027
+018A,Lumbosacral Plexus,018,2016,2027
+018A0,Open,018A,2016,2027
+018A0Z,No Device,018A0,2016,2027
+018A0ZZ,"Division of Lumbosacral Plexus, Open Approach",018A0Z,2016,2027
+018A3,Percutaneous,018A,2016,2027
+018A3Z,No Device,018A3,2016,2027
+018A3ZZ,"Division of Lumbosacral Plexus, Percutaneous Approach",018A3Z,2016,2027
+018A4,Percutaneous Endoscopic,018A,2016,2027
+018A4Z,No Device,018A4,2016,2027
+018A4ZZ,"Division of Lumbosacral Plexus, Percutaneous Endoscopic Approach",018A4Z,2016,2027
+018B,Lumbar Nerve,018,2016,2027
+018B0,Open,018B,2016,2027
+018B0Z,No Device,018B0,2016,2027
+018B0ZZ,"Division of Lumbar Nerve, Open Approach",018B0Z,2016,2027
+018B3,Percutaneous,018B,2016,2027
+018B3Z,No Device,018B3,2016,2027
+018B3ZZ,"Division of Lumbar Nerve, Percutaneous Approach",018B3Z,2016,2027
+018B4,Percutaneous Endoscopic,018B,2016,2027
+018B4Z,No Device,018B4,2016,2027
+018B4ZZ,"Division of Lumbar Nerve, Percutaneous Endoscopic Approach",018B4Z,2016,2027
+018C,Pudendal Nerve,018,2016,2027
+018C0,Open,018C,2016,2027
+018C0Z,No Device,018C0,2016,2027
+018C0ZZ,"Division of Pudendal Nerve, Open Approach",018C0Z,2016,2027
+018C3,Percutaneous,018C,2016,2027
+018C3Z,No Device,018C3,2016,2027
+018C3ZZ,"Division of Pudendal Nerve, Percutaneous Approach",018C3Z,2016,2027
+018C4,Percutaneous Endoscopic,018C,2016,2027
+018C4Z,No Device,018C4,2016,2027
+018C4ZZ,"Division of Pudendal Nerve, Percutaneous Endoscopic Approach",018C4Z,2016,2027
+018D,Femoral Nerve,018,2016,2027
+018D0,Open,018D,2016,2027
+018D0Z,No Device,018D0,2016,2027
+018D0ZZ,"Division of Femoral Nerve, Open Approach",018D0Z,2016,2027
+018D3,Percutaneous,018D,2016,2027
+018D3Z,No Device,018D3,2016,2027
+018D3ZZ,"Division of Femoral Nerve, Percutaneous Approach",018D3Z,2016,2027
+018D4,Percutaneous Endoscopic,018D,2016,2027
+018D4Z,No Device,018D4,2016,2027
+018D4ZZ,"Division of Femoral Nerve, Percutaneous Endoscopic Approach",018D4Z,2016,2027
+018F,Sciatic Nerve,018,2016,2027
+018F0,Open,018F,2016,2027
+018F0Z,No Device,018F0,2016,2027
+018F0ZZ,"Division of Sciatic Nerve, Open Approach",018F0Z,2016,2027
+018F3,Percutaneous,018F,2016,2027
+018F3Z,No Device,018F3,2016,2027
+018F3ZZ,"Division of Sciatic Nerve, Percutaneous Approach",018F3Z,2016,2027
+018F4,Percutaneous Endoscopic,018F,2016,2027
+018F4Z,No Device,018F4,2016,2027
+018F4ZZ,"Division of Sciatic Nerve, Percutaneous Endoscopic Approach",018F4Z,2016,2027
+018G,Tibial Nerve,018,2016,2027
+018G0,Open,018G,2016,2027
+018G0Z,No Device,018G0,2016,2027
+018G0ZZ,"Division of Tibial Nerve, Open Approach",018G0Z,2016,2027
+018G3,Percutaneous,018G,2016,2027
+018G3Z,No Device,018G3,2016,2027
+018G3ZZ,"Division of Tibial Nerve, Percutaneous Approach",018G3Z,2016,2027
+018G4,Percutaneous Endoscopic,018G,2016,2027
+018G4Z,No Device,018G4,2016,2027
+018G4ZZ,"Division of Tibial Nerve, Percutaneous Endoscopic Approach",018G4Z,2016,2027
+018H,Peroneal Nerve,018,2016,2027
+018H0,Open,018H,2016,2027
+018H0Z,No Device,018H0,2016,2027
+018H0ZZ,"Division of Peroneal Nerve, Open Approach",018H0Z,2016,2027
+018H3,Percutaneous,018H,2016,2027
+018H3Z,No Device,018H3,2016,2027
+018H3ZZ,"Division of Peroneal Nerve, Percutaneous Approach",018H3Z,2016,2027
+018H4,Percutaneous Endoscopic,018H,2016,2027
+018H4Z,No Device,018H4,2016,2027
+018H4ZZ,"Division of Peroneal Nerve, Percutaneous Endoscopic Approach",018H4Z,2016,2027
+018K,Head and Neck Sympathetic Nerve,018,2016,2027
+018K0,Open,018K,2016,2027
+018K0Z,No Device,018K0,2016,2027
+018K0ZZ,"Division of Head and Neck Sympathetic Nerve, Open Approach",018K0Z,2016,2027
+018K3,Percutaneous,018K,2016,2027
+018K3Z,No Device,018K3,2016,2027
+018K3ZZ,"Division of Head and Neck Sympathetic Nerve, Percutaneous Approach",018K3Z,2016,2027
+018K4,Percutaneous Endoscopic,018K,2016,2027
+018K4Z,No Device,018K4,2016,2027
+018K4ZZ,"Division of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",018K4Z,2016,2027
+018L,Thoracic Sympathetic Nerve,018,2016,2027
+018L0,Open,018L,2016,2027
+018L0Z,No Device,018L0,2016,2027
+018L0ZZ,"Division of Thoracic Sympathetic Nerve, Open Approach",018L0Z,2016,2027
+018L3,Percutaneous,018L,2016,2027
+018L3Z,No Device,018L3,2016,2027
+018L3ZZ,"Division of Thoracic Sympathetic Nerve, Percutaneous Approach",018L3Z,2016,2027
+018L4,Percutaneous Endoscopic,018L,2016,2027
+018L4Z,No Device,018L4,2016,2027
+018L4ZZ,"Division of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",018L4Z,2016,2027
+018M,Abdominal Sympathetic Nerve,018,2016,2027
+018M0,Open,018M,2016,2027
+018M0Z,No Device,018M0,2016,2027
+018M0ZZ,"Division of Abdominal Sympathetic Nerve, Open Approach",018M0Z,2016,2027
+018M3,Percutaneous,018M,2016,2027
+018M3Z,No Device,018M3,2016,2027
+018M3ZZ,"Division of Abdominal Sympathetic Nerve, Percutaneous Approach",018M3Z,2016,2027
+018M4,Percutaneous Endoscopic,018M,2016,2027
+018M4Z,No Device,018M4,2016,2027
+018M4ZZ,"Division of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",018M4Z,2016,2027
+018N,Lumbar Sympathetic Nerve,018,2016,2027
+018N0,Open,018N,2016,2027
+018N0Z,No Device,018N0,2016,2027
+018N0ZZ,"Division of Lumbar Sympathetic Nerve, Open Approach",018N0Z,2016,2027
+018N3,Percutaneous,018N,2016,2027
+018N3Z,No Device,018N3,2016,2027
+018N3ZZ,"Division of Lumbar Sympathetic Nerve, Percutaneous Approach",018N3Z,2016,2027
+018N4,Percutaneous Endoscopic,018N,2016,2027
+018N4Z,No Device,018N4,2016,2027
+018N4ZZ,"Division of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",018N4Z,2016,2027
+018P,Sacral Sympathetic Nerve,018,2016,2027
+018P0,Open,018P,2016,2027
+018P0Z,No Device,018P0,2016,2027
+018P0ZZ,"Division of Sacral Sympathetic Nerve, Open Approach",018P0Z,2016,2027
+018P3,Percutaneous,018P,2016,2027
+018P3Z,No Device,018P3,2016,2027
+018P3ZZ,"Division of Sacral Sympathetic Nerve, Percutaneous Approach",018P3Z,2016,2027
+018P4,Percutaneous Endoscopic,018P,2016,2027
+018P4Z,No Device,018P4,2016,2027
+018P4ZZ,"Division of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",018P4Z,2016,2027
+018Q,Sacral Plexus,018,2016,2027
+018Q0,Open,018Q,2016,2027
+018Q0Z,No Device,018Q0,2016,2027
+018Q0ZZ,"Division of Sacral Plexus, Open Approach",018Q0Z,2016,2027
+018Q3,Percutaneous,018Q,2016,2027
+018Q3Z,No Device,018Q3,2016,2027
+018Q3ZZ,"Division of Sacral Plexus, Percutaneous Approach",018Q3Z,2016,2027
+018Q4,Percutaneous Endoscopic,018Q,2016,2027
+018Q4Z,No Device,018Q4,2016,2027
+018Q4ZZ,"Division of Sacral Plexus, Percutaneous Endoscopic Approach",018Q4Z,2016,2027
+018R,Sacral Nerve,018,2016,2027
+018R0,Open,018R,2016,2027
+018R0Z,No Device,018R0,2016,2027
+018R0ZZ,"Division of Sacral Nerve, Open Approach",018R0Z,2016,2027
+018R3,Percutaneous,018R,2016,2027
+018R3Z,No Device,018R3,2016,2027
+018R3ZZ,"Division of Sacral Nerve, Percutaneous Approach",018R3Z,2016,2027
+018R4,Percutaneous Endoscopic,018R,2016,2027
+018R4Z,No Device,018R4,2016,2027
+018R4ZZ,"Division of Sacral Nerve, Percutaneous Endoscopic Approach",018R4Z,2016,2027
+019,Drainage,01,2016,2027
+0190,Cervical Plexus,019,2016,2027
+01900,Open,0190,2016,2027
+019000,Drainage Device,01900,2016,2027
+019000Z,"Drainage of Cervical Plexus with Drainage Device, Open Approach",019000,2016,2027
+01900Z,No Device,01900,2016,2027
+01900ZX,"Drainage of Cervical Plexus, Open Approach, Diagnostic",01900Z,2016,2027
+01900ZZ,"Drainage of Cervical Plexus, Open Approach",01900Z,2016,2027
+01903,Percutaneous,0190,2016,2027
+019030,Drainage Device,01903,2016,2027
+019030Z,"Drainage of Cervical Plexus with Drainage Device, Percutaneous Approach",019030,2016,2027
+01903Z,No Device,01903,2016,2027
+01903ZX,"Drainage of Cervical Plexus, Percutaneous Approach, Diagnostic",01903Z,2016,2027
+01903ZZ,"Drainage of Cervical Plexus, Percutaneous Approach",01903Z,2016,2027
+01904,Percutaneous Endoscopic,0190,2016,2027
+019040,Drainage Device,01904,2016,2027
+019040Z,"Drainage of Cervical Plexus with Drainage Device, Percutaneous Endoscopic Approach",019040,2016,2027
+01904Z,No Device,01904,2016,2027
+01904ZX,"Drainage of Cervical Plexus, Percutaneous Endoscopic Approach, Diagnostic",01904Z,2016,2027
+01904ZZ,"Drainage of Cervical Plexus, Percutaneous Endoscopic Approach",01904Z,2016,2027
+0191,Cervical Nerve,019,2016,2027
+01910,Open,0191,2016,2027
+019100,Drainage Device,01910,2016,2027
+019100Z,"Drainage of Cervical Nerve with Drainage Device, Open Approach",019100,2016,2027
+01910Z,No Device,01910,2016,2027
+01910ZX,"Drainage of Cervical Nerve, Open Approach, Diagnostic",01910Z,2016,2027
+01910ZZ,"Drainage of Cervical Nerve, Open Approach",01910Z,2016,2027
+01913,Percutaneous,0191,2016,2027
+019130,Drainage Device,01913,2016,2027
+019130Z,"Drainage of Cervical Nerve with Drainage Device, Percutaneous Approach",019130,2016,2027
+01913Z,No Device,01913,2016,2027
+01913ZX,"Drainage of Cervical Nerve, Percutaneous Approach, Diagnostic",01913Z,2016,2027
+01913ZZ,"Drainage of Cervical Nerve, Percutaneous Approach",01913Z,2016,2027
+01914,Percutaneous Endoscopic,0191,2016,2027
+019140,Drainage Device,01914,2016,2027
+019140Z,"Drainage of Cervical Nerve with Drainage Device, Percutaneous Endoscopic Approach",019140,2016,2027
+01914Z,No Device,01914,2016,2027
+01914ZX,"Drainage of Cervical Nerve, Percutaneous Endoscopic Approach, Diagnostic",01914Z,2016,2027
+01914ZZ,"Drainage of Cervical Nerve, Percutaneous Endoscopic Approach",01914Z,2016,2027
+0192,Phrenic Nerve,019,2016,2027
+01920,Open,0192,2016,2027
+019200,Drainage Device,01920,2016,2027
+019200Z,"Drainage of Phrenic Nerve with Drainage Device, Open Approach",019200,2016,2027
+01920Z,No Device,01920,2016,2027
+01920ZX,"Drainage of Phrenic Nerve, Open Approach, Diagnostic",01920Z,2016,2027
+01920ZZ,"Drainage of Phrenic Nerve, Open Approach",01920Z,2016,2027
+01923,Percutaneous,0192,2016,2027
+019230,Drainage Device,01923,2016,2027
+019230Z,"Drainage of Phrenic Nerve with Drainage Device, Percutaneous Approach",019230,2016,2027
+01923Z,No Device,01923,2016,2027
+01923ZX,"Drainage of Phrenic Nerve, Percutaneous Approach, Diagnostic",01923Z,2016,2027
+01923ZZ,"Drainage of Phrenic Nerve, Percutaneous Approach",01923Z,2016,2027
+01924,Percutaneous Endoscopic,0192,2016,2027
+019240,Drainage Device,01924,2016,2027
+019240Z,"Drainage of Phrenic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019240,2016,2027
+01924Z,No Device,01924,2016,2027
+01924ZX,"Drainage of Phrenic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01924Z,2016,2027
+01924ZZ,"Drainage of Phrenic Nerve, Percutaneous Endoscopic Approach",01924Z,2016,2027
+0193,Brachial Plexus,019,2016,2027
+01930,Open,0193,2016,2027
+019300,Drainage Device,01930,2016,2027
+019300Z,"Drainage of Brachial Plexus with Drainage Device, Open Approach",019300,2016,2027
+01930Z,No Device,01930,2016,2027
+01930ZX,"Drainage of Brachial Plexus, Open Approach, Diagnostic",01930Z,2016,2027
+01930ZZ,"Drainage of Brachial Plexus, Open Approach",01930Z,2016,2027
+01933,Percutaneous,0193,2016,2027
+019330,Drainage Device,01933,2016,2027
+019330Z,"Drainage of Brachial Plexus with Drainage Device, Percutaneous Approach",019330,2016,2027
+01933Z,No Device,01933,2016,2027
+01933ZX,"Drainage of Brachial Plexus, Percutaneous Approach, Diagnostic",01933Z,2016,2027
+01933ZZ,"Drainage of Brachial Plexus, Percutaneous Approach",01933Z,2016,2027
+01934,Percutaneous Endoscopic,0193,2016,2027
+019340,Drainage Device,01934,2016,2027
+019340Z,"Drainage of Brachial Plexus with Drainage Device, Percutaneous Endoscopic Approach",019340,2016,2027
+01934Z,No Device,01934,2016,2027
+01934ZX,"Drainage of Brachial Plexus, Percutaneous Endoscopic Approach, Diagnostic",01934Z,2016,2027
+01934ZZ,"Drainage of Brachial Plexus, Percutaneous Endoscopic Approach",01934Z,2016,2027
+0194,Ulnar Nerve,019,2016,2027
+01940,Open,0194,2016,2027
+019400,Drainage Device,01940,2016,2027
+019400Z,"Drainage of Ulnar Nerve with Drainage Device, Open Approach",019400,2016,2027
+01940Z,No Device,01940,2016,2027
+01940ZX,"Drainage of Ulnar Nerve, Open Approach, Diagnostic",01940Z,2016,2027
+01940ZZ,"Drainage of Ulnar Nerve, Open Approach",01940Z,2016,2027
+01943,Percutaneous,0194,2016,2027
+019430,Drainage Device,01943,2016,2027
+019430Z,"Drainage of Ulnar Nerve with Drainage Device, Percutaneous Approach",019430,2016,2027
+01943Z,No Device,01943,2016,2027
+01943ZX,"Drainage of Ulnar Nerve, Percutaneous Approach, Diagnostic",01943Z,2016,2027
+01943ZZ,"Drainage of Ulnar Nerve, Percutaneous Approach",01943Z,2016,2027
+01944,Percutaneous Endoscopic,0194,2016,2027
+019440,Drainage Device,01944,2016,2027
+019440Z,"Drainage of Ulnar Nerve with Drainage Device, Percutaneous Endoscopic Approach",019440,2016,2027
+01944Z,No Device,01944,2016,2027
+01944ZX,"Drainage of Ulnar Nerve, Percutaneous Endoscopic Approach, Diagnostic",01944Z,2016,2027
+01944ZZ,"Drainage of Ulnar Nerve, Percutaneous Endoscopic Approach",01944Z,2016,2027
+0195,Median Nerve,019,2016,2027
+01950,Open,0195,2016,2027
+019500,Drainage Device,01950,2016,2027
+019500Z,"Drainage of Median Nerve with Drainage Device, Open Approach",019500,2016,2027
+01950Z,No Device,01950,2016,2027
+01950ZX,"Drainage of Median Nerve, Open Approach, Diagnostic",01950Z,2016,2027
+01950ZZ,"Drainage of Median Nerve, Open Approach",01950Z,2016,2027
+01953,Percutaneous,0195,2016,2027
+019530,Drainage Device,01953,2016,2027
+019530Z,"Drainage of Median Nerve with Drainage Device, Percutaneous Approach",019530,2016,2027
+01953Z,No Device,01953,2016,2027
+01953ZX,"Drainage of Median Nerve, Percutaneous Approach, Diagnostic",01953Z,2016,2027
+01953ZZ,"Drainage of Median Nerve, Percutaneous Approach",01953Z,2016,2027
+01954,Percutaneous Endoscopic,0195,2016,2027
+019540,Drainage Device,01954,2016,2027
+019540Z,"Drainage of Median Nerve with Drainage Device, Percutaneous Endoscopic Approach",019540,2016,2027
+01954Z,No Device,01954,2016,2027
+01954ZX,"Drainage of Median Nerve, Percutaneous Endoscopic Approach, Diagnostic",01954Z,2016,2027
+01954ZZ,"Drainage of Median Nerve, Percutaneous Endoscopic Approach",01954Z,2016,2027
+0196,Radial Nerve,019,2016,2027
+01960,Open,0196,2016,2027
+019600,Drainage Device,01960,2016,2027
+019600Z,"Drainage of Radial Nerve with Drainage Device, Open Approach",019600,2016,2027
+01960Z,No Device,01960,2016,2027
+01960ZX,"Drainage of Radial Nerve, Open Approach, Diagnostic",01960Z,2016,2027
+01960ZZ,"Drainage of Radial Nerve, Open Approach",01960Z,2016,2027
+01963,Percutaneous,0196,2016,2027
+019630,Drainage Device,01963,2016,2027
+019630Z,"Drainage of Radial Nerve with Drainage Device, Percutaneous Approach",019630,2016,2027
+01963Z,No Device,01963,2016,2027
+01963ZX,"Drainage of Radial Nerve, Percutaneous Approach, Diagnostic",01963Z,2016,2027
+01963ZZ,"Drainage of Radial Nerve, Percutaneous Approach",01963Z,2016,2027
+01964,Percutaneous Endoscopic,0196,2016,2027
+019640,Drainage Device,01964,2016,2027
+019640Z,"Drainage of Radial Nerve with Drainage Device, Percutaneous Endoscopic Approach",019640,2016,2027
+01964Z,No Device,01964,2016,2027
+01964ZX,"Drainage of Radial Nerve, Percutaneous Endoscopic Approach, Diagnostic",01964Z,2016,2027
+01964ZZ,"Drainage of Radial Nerve, Percutaneous Endoscopic Approach",01964Z,2016,2027
+0198,Thoracic Nerve,019,2016,2027
+01980,Open,0198,2016,2027
+019800,Drainage Device,01980,2016,2027
+019800Z,"Drainage of Thoracic Nerve with Drainage Device, Open Approach",019800,2016,2027
+01980Z,No Device,01980,2016,2027
+01980ZX,"Drainage of Thoracic Nerve, Open Approach, Diagnostic",01980Z,2016,2027
+01980ZZ,"Drainage of Thoracic Nerve, Open Approach",01980Z,2016,2027
+01983,Percutaneous,0198,2016,2027
+019830,Drainage Device,01983,2016,2027
+019830Z,"Drainage of Thoracic Nerve with Drainage Device, Percutaneous Approach",019830,2016,2027
+01983Z,No Device,01983,2016,2027
+01983ZX,"Drainage of Thoracic Nerve, Percutaneous Approach, Diagnostic",01983Z,2016,2027
+01983ZZ,"Drainage of Thoracic Nerve, Percutaneous Approach",01983Z,2016,2027
+01984,Percutaneous Endoscopic,0198,2016,2027
+019840,Drainage Device,01984,2016,2027
+019840Z,"Drainage of Thoracic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019840,2016,2027
+01984Z,No Device,01984,2016,2027
+01984ZX,"Drainage of Thoracic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01984Z,2016,2027
+01984ZZ,"Drainage of Thoracic Nerve, Percutaneous Endoscopic Approach",01984Z,2016,2027
+0199,Lumbar Plexus,019,2016,2027
+01990,Open,0199,2016,2027
+019900,Drainage Device,01990,2016,2027
+019900Z,"Drainage of Lumbar Plexus with Drainage Device, Open Approach",019900,2016,2027
+01990Z,No Device,01990,2016,2027
+01990ZX,"Drainage of Lumbar Plexus, Open Approach, Diagnostic",01990Z,2016,2027
+01990ZZ,"Drainage of Lumbar Plexus, Open Approach",01990Z,2016,2027
+01993,Percutaneous,0199,2016,2027
+019930,Drainage Device,01993,2016,2027
+019930Z,"Drainage of Lumbar Plexus with Drainage Device, Percutaneous Approach",019930,2016,2027
+01993Z,No Device,01993,2016,2027
+01993ZX,"Drainage of Lumbar Plexus, Percutaneous Approach, Diagnostic",01993Z,2016,2027
+01993ZZ,"Drainage of Lumbar Plexus, Percutaneous Approach",01993Z,2016,2027
+01994,Percutaneous Endoscopic,0199,2016,2027
+019940,Drainage Device,01994,2016,2027
+019940Z,"Drainage of Lumbar Plexus with Drainage Device, Percutaneous Endoscopic Approach",019940,2016,2027
+01994Z,No Device,01994,2016,2027
+01994ZX,"Drainage of Lumbar Plexus, Percutaneous Endoscopic Approach, Diagnostic",01994Z,2016,2027
+01994ZZ,"Drainage of Lumbar Plexus, Percutaneous Endoscopic Approach",01994Z,2016,2027
+019A,Lumbosacral Plexus,019,2016,2027
+019A0,Open,019A,2016,2027
+019A00,Drainage Device,019A0,2016,2027
+019A00Z,"Drainage of Lumbosacral Plexus with Drainage Device, Open Approach",019A00,2016,2027
+019A0Z,No Device,019A0,2016,2027
+019A0ZX,"Drainage of Lumbosacral Plexus, Open Approach, Diagnostic",019A0Z,2016,2027
+019A0ZZ,"Drainage of Lumbosacral Plexus, Open Approach",019A0Z,2016,2027
+019A3,Percutaneous,019A,2016,2027
+019A30,Drainage Device,019A3,2016,2027
+019A30Z,"Drainage of Lumbosacral Plexus with Drainage Device, Percutaneous Approach",019A30,2016,2027
+019A3Z,No Device,019A3,2016,2027
+019A3ZX,"Drainage of Lumbosacral Plexus, Percutaneous Approach, Diagnostic",019A3Z,2016,2027
+019A3ZZ,"Drainage of Lumbosacral Plexus, Percutaneous Approach",019A3Z,2016,2027
+019A4,Percutaneous Endoscopic,019A,2016,2027
+019A40,Drainage Device,019A4,2016,2027
+019A40Z,"Drainage of Lumbosacral Plexus with Drainage Device, Percutaneous Endoscopic Approach",019A40,2016,2027
+019A4Z,No Device,019A4,2016,2027
+019A4ZX,"Drainage of Lumbosacral Plexus, Percutaneous Endoscopic Approach, Diagnostic",019A4Z,2016,2027
+019A4ZZ,"Drainage of Lumbosacral Plexus, Percutaneous Endoscopic Approach",019A4Z,2016,2027
+019B,Lumbar Nerve,019,2016,2027
+019B0,Open,019B,2016,2027
+019B00,Drainage Device,019B0,2016,2027
+019B00Z,"Drainage of Lumbar Nerve with Drainage Device, Open Approach",019B00,2016,2027
+019B0Z,No Device,019B0,2016,2027
+019B0ZX,"Drainage of Lumbar Nerve, Open Approach, Diagnostic",019B0Z,2016,2027
+019B0ZZ,"Drainage of Lumbar Nerve, Open Approach",019B0Z,2016,2027
+019B3,Percutaneous,019B,2016,2027
+019B30,Drainage Device,019B3,2016,2027
+019B30Z,"Drainage of Lumbar Nerve with Drainage Device, Percutaneous Approach",019B30,2016,2027
+019B3Z,No Device,019B3,2016,2027
+019B3ZX,"Drainage of Lumbar Nerve, Percutaneous Approach, Diagnostic",019B3Z,2016,2027
+019B3ZZ,"Drainage of Lumbar Nerve, Percutaneous Approach",019B3Z,2016,2027
+019B4,Percutaneous Endoscopic,019B,2016,2027
+019B40,Drainage Device,019B4,2016,2027
+019B40Z,"Drainage of Lumbar Nerve with Drainage Device, Percutaneous Endoscopic Approach",019B40,2016,2027
+019B4Z,No Device,019B4,2016,2027
+019B4ZX,"Drainage of Lumbar Nerve, Percutaneous Endoscopic Approach, Diagnostic",019B4Z,2016,2027
+019B4ZZ,"Drainage of Lumbar Nerve, Percutaneous Endoscopic Approach",019B4Z,2016,2027
+019C,Pudendal Nerve,019,2016,2027
+019C0,Open,019C,2016,2027
+019C00,Drainage Device,019C0,2016,2027
+019C00Z,"Drainage of Pudendal Nerve with Drainage Device, Open Approach",019C00,2016,2027
+019C0Z,No Device,019C0,2016,2027
+019C0ZX,"Drainage of Pudendal Nerve, Open Approach, Diagnostic",019C0Z,2016,2027
+019C0ZZ,"Drainage of Pudendal Nerve, Open Approach",019C0Z,2016,2027
+019C3,Percutaneous,019C,2016,2027
+019C30,Drainage Device,019C3,2016,2027
+019C30Z,"Drainage of Pudendal Nerve with Drainage Device, Percutaneous Approach",019C30,2016,2027
+019C3Z,No Device,019C3,2016,2027
+019C3ZX,"Drainage of Pudendal Nerve, Percutaneous Approach, Diagnostic",019C3Z,2016,2027
+019C3ZZ,"Drainage of Pudendal Nerve, Percutaneous Approach",019C3Z,2016,2027
+019C4,Percutaneous Endoscopic,019C,2016,2027
+019C40,Drainage Device,019C4,2016,2027
+019C40Z,"Drainage of Pudendal Nerve with Drainage Device, Percutaneous Endoscopic Approach",019C40,2016,2027
+019C4Z,No Device,019C4,2016,2027
+019C4ZX,"Drainage of Pudendal Nerve, Percutaneous Endoscopic Approach, Diagnostic",019C4Z,2016,2027
+019C4ZZ,"Drainage of Pudendal Nerve, Percutaneous Endoscopic Approach",019C4Z,2016,2027
+019D,Femoral Nerve,019,2016,2027
+019D0,Open,019D,2016,2027
+019D00,Drainage Device,019D0,2016,2027
+019D00Z,"Drainage of Femoral Nerve with Drainage Device, Open Approach",019D00,2016,2027
+019D0Z,No Device,019D0,2016,2027
+019D0ZX,"Drainage of Femoral Nerve, Open Approach, Diagnostic",019D0Z,2016,2027
+019D0ZZ,"Drainage of Femoral Nerve, Open Approach",019D0Z,2016,2027
+019D3,Percutaneous,019D,2016,2027
+019D30,Drainage Device,019D3,2016,2027
+019D30Z,"Drainage of Femoral Nerve with Drainage Device, Percutaneous Approach",019D30,2016,2027
+019D3Z,No Device,019D3,2016,2027
+019D3ZX,"Drainage of Femoral Nerve, Percutaneous Approach, Diagnostic",019D3Z,2016,2027
+019D3ZZ,"Drainage of Femoral Nerve, Percutaneous Approach",019D3Z,2016,2027
+019D4,Percutaneous Endoscopic,019D,2016,2027
+019D40,Drainage Device,019D4,2016,2027
+019D40Z,"Drainage of Femoral Nerve with Drainage Device, Percutaneous Endoscopic Approach",019D40,2016,2027
+019D4Z,No Device,019D4,2016,2027
+019D4ZX,"Drainage of Femoral Nerve, Percutaneous Endoscopic Approach, Diagnostic",019D4Z,2016,2027
+019D4ZZ,"Drainage of Femoral Nerve, Percutaneous Endoscopic Approach",019D4Z,2016,2027
+019F,Sciatic Nerve,019,2016,2027
+019F0,Open,019F,2016,2027
+019F00,Drainage Device,019F0,2016,2027
+019F00Z,"Drainage of Sciatic Nerve with Drainage Device, Open Approach",019F00,2016,2027
+019F0Z,No Device,019F0,2016,2027
+019F0ZX,"Drainage of Sciatic Nerve, Open Approach, Diagnostic",019F0Z,2016,2027
+019F0ZZ,"Drainage of Sciatic Nerve, Open Approach",019F0Z,2016,2027
+019F3,Percutaneous,019F,2016,2027
+019F30,Drainage Device,019F3,2016,2027
+019F30Z,"Drainage of Sciatic Nerve with Drainage Device, Percutaneous Approach",019F30,2016,2027
+019F3Z,No Device,019F3,2016,2027
+019F3ZX,"Drainage of Sciatic Nerve, Percutaneous Approach, Diagnostic",019F3Z,2016,2027
+019F3ZZ,"Drainage of Sciatic Nerve, Percutaneous Approach",019F3Z,2016,2027
+019F4,Percutaneous Endoscopic,019F,2016,2027
+019F40,Drainage Device,019F4,2016,2027
+019F40Z,"Drainage of Sciatic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019F40,2016,2027
+019F4Z,No Device,019F4,2016,2027
+019F4ZX,"Drainage of Sciatic Nerve, Percutaneous Endoscopic Approach, Diagnostic",019F4Z,2016,2027
+019F4ZZ,"Drainage of Sciatic Nerve, Percutaneous Endoscopic Approach",019F4Z,2016,2027
+019G,Tibial Nerve,019,2016,2027
+019G0,Open,019G,2016,2027
+019G00,Drainage Device,019G0,2016,2027
+019G00Z,"Drainage of Tibial Nerve with Drainage Device, Open Approach",019G00,2016,2027
+019G0Z,No Device,019G0,2016,2027
+019G0ZX,"Drainage of Tibial Nerve, Open Approach, Diagnostic",019G0Z,2016,2027
+019G0ZZ,"Drainage of Tibial Nerve, Open Approach",019G0Z,2016,2027
+019G3,Percutaneous,019G,2016,2027
+019G30,Drainage Device,019G3,2016,2027
+019G30Z,"Drainage of Tibial Nerve with Drainage Device, Percutaneous Approach",019G30,2016,2027
+019G3Z,No Device,019G3,2016,2027
+019G3ZX,"Drainage of Tibial Nerve, Percutaneous Approach, Diagnostic",019G3Z,2016,2027
+019G3ZZ,"Drainage of Tibial Nerve, Percutaneous Approach",019G3Z,2016,2027
+019G4,Percutaneous Endoscopic,019G,2016,2027
+019G40,Drainage Device,019G4,2016,2027
+019G40Z,"Drainage of Tibial Nerve with Drainage Device, Percutaneous Endoscopic Approach",019G40,2016,2027
+019G4Z,No Device,019G4,2016,2027
+019G4ZX,"Drainage of Tibial Nerve, Percutaneous Endoscopic Approach, Diagnostic",019G4Z,2016,2027
+019G4ZZ,"Drainage of Tibial Nerve, Percutaneous Endoscopic Approach",019G4Z,2016,2027
+019H,Peroneal Nerve,019,2016,2027
+019H0,Open,019H,2016,2027
+019H00,Drainage Device,019H0,2016,2027
+019H00Z,"Drainage of Peroneal Nerve with Drainage Device, Open Approach",019H00,2016,2027
+019H0Z,No Device,019H0,2016,2027
+019H0ZX,"Drainage of Peroneal Nerve, Open Approach, Diagnostic",019H0Z,2016,2027
+019H0ZZ,"Drainage of Peroneal Nerve, Open Approach",019H0Z,2016,2027
+019H3,Percutaneous,019H,2016,2027
+019H30,Drainage Device,019H3,2016,2027
+019H30Z,"Drainage of Peroneal Nerve with Drainage Device, Percutaneous Approach",019H30,2016,2027
+019H3Z,No Device,019H3,2016,2027
+019H3ZX,"Drainage of Peroneal Nerve, Percutaneous Approach, Diagnostic",019H3Z,2016,2027
+019H3ZZ,"Drainage of Peroneal Nerve, Percutaneous Approach",019H3Z,2016,2027
+019H4,Percutaneous Endoscopic,019H,2016,2027
+019H40,Drainage Device,019H4,2016,2027
+019H40Z,"Drainage of Peroneal Nerve with Drainage Device, Percutaneous Endoscopic Approach",019H40,2016,2027
+019H4Z,No Device,019H4,2016,2027
+019H4ZX,"Drainage of Peroneal Nerve, Percutaneous Endoscopic Approach, Diagnostic",019H4Z,2016,2027
+019H4ZZ,"Drainage of Peroneal Nerve, Percutaneous Endoscopic Approach",019H4Z,2016,2027
+019K,Head and Neck Sympathetic Nerve,019,2016,2027
+019K0,Open,019K,2016,2027
+019K00,Drainage Device,019K0,2016,2027
+019K00Z,"Drainage of Head and Neck Sympathetic Nerve with Drainage Device, Open Approach",019K00,2016,2027
+019K0Z,No Device,019K0,2016,2027
+019K0ZX,"Drainage of Head and Neck Sympathetic Nerve, Open Approach, Diagnostic",019K0Z,2016,2027
+019K0ZZ,"Drainage of Head and Neck Sympathetic Nerve, Open Approach",019K0Z,2016,2027
+019K3,Percutaneous,019K,2016,2027
+019K30,Drainage Device,019K3,2016,2027
+019K30Z,"Drainage of Head and Neck Sympathetic Nerve with Drainage Device, Percutaneous Approach",019K30,2016,2027
+019K3Z,No Device,019K3,2016,2027
+019K3ZX,"Drainage of Head and Neck Sympathetic Nerve, Percutaneous Approach, Diagnostic",019K3Z,2016,2027
+019K3ZZ,"Drainage of Head and Neck Sympathetic Nerve, Percutaneous Approach",019K3Z,2016,2027
+019K4,Percutaneous Endoscopic,019K,2016,2027
+019K40,Drainage Device,019K4,2016,2027
+019K40Z,"Drainage of Head and Neck Sympathetic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019K40,2016,2027
+019K4Z,No Device,019K4,2016,2027
+019K4ZX,"Drainage of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",019K4Z,2016,2027
+019K4ZZ,"Drainage of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",019K4Z,2016,2027
+019L,Thoracic Sympathetic Nerve,019,2016,2027
+019L0,Open,019L,2016,2027
+019L00,Drainage Device,019L0,2016,2027
+019L00Z,"Drainage of Thoracic Sympathetic Nerve with Drainage Device, Open Approach",019L00,2016,2027
+019L0Z,No Device,019L0,2016,2027
+019L0ZX,"Drainage of Thoracic Sympathetic Nerve, Open Approach, Diagnostic",019L0Z,2016,2027
+019L0ZZ,"Drainage of Thoracic Sympathetic Nerve, Open Approach",019L0Z,2016,2027
+019L3,Percutaneous,019L,2016,2027
+019L30,Drainage Device,019L3,2016,2027
+019L30Z,"Drainage of Thoracic Sympathetic Nerve with Drainage Device, Percutaneous Approach",019L30,2016,2027
+019L3Z,No Device,019L3,2016,2027
+019L3ZX,"Drainage of Thoracic Sympathetic Nerve, Percutaneous Approach, Diagnostic",019L3Z,2016,2027
+019L3ZZ,"Drainage of Thoracic Sympathetic Nerve, Percutaneous Approach",019L3Z,2016,2027
+019L4,Percutaneous Endoscopic,019L,2016,2027
+019L40,Drainage Device,019L4,2016,2027
+019L40Z,"Drainage of Thoracic Sympathetic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019L40,2016,2027
+019L4Z,No Device,019L4,2016,2027
+019L4ZX,"Drainage of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",019L4Z,2016,2027
+019L4ZZ,"Drainage of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",019L4Z,2016,2027
+019M,Abdominal Sympathetic Nerve,019,2016,2027
+019M0,Open,019M,2016,2027
+019M00,Drainage Device,019M0,2016,2027
+019M00Z,"Drainage of Abdominal Sympathetic Nerve with Drainage Device, Open Approach",019M00,2016,2027
+019M0Z,No Device,019M0,2016,2027
+019M0ZX,"Drainage of Abdominal Sympathetic Nerve, Open Approach, Diagnostic",019M0Z,2016,2027
+019M0ZZ,"Drainage of Abdominal Sympathetic Nerve, Open Approach",019M0Z,2016,2027
+019M3,Percutaneous,019M,2016,2027
+019M30,Drainage Device,019M3,2016,2027
+019M30Z,"Drainage of Abdominal Sympathetic Nerve with Drainage Device, Percutaneous Approach",019M30,2016,2027
+019M3Z,No Device,019M3,2016,2027
+019M3ZX,"Drainage of Abdominal Sympathetic Nerve, Percutaneous Approach, Diagnostic",019M3Z,2016,2027
+019M3ZZ,"Drainage of Abdominal Sympathetic Nerve, Percutaneous Approach",019M3Z,2016,2027
+019M4,Percutaneous Endoscopic,019M,2016,2027
+019M40,Drainage Device,019M4,2016,2027
+019M40Z,"Drainage of Abdominal Sympathetic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019M40,2016,2027
+019M4Z,No Device,019M4,2016,2027
+019M4ZX,"Drainage of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",019M4Z,2016,2027
+019M4ZZ,"Drainage of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",019M4Z,2016,2027
+019N,Lumbar Sympathetic Nerve,019,2016,2027
+019N0,Open,019N,2016,2027
+019N00,Drainage Device,019N0,2016,2027
+019N00Z,"Drainage of Lumbar Sympathetic Nerve with Drainage Device, Open Approach",019N00,2016,2027
+019N0Z,No Device,019N0,2016,2027
+019N0ZX,"Drainage of Lumbar Sympathetic Nerve, Open Approach, Diagnostic",019N0Z,2016,2027
+019N0ZZ,"Drainage of Lumbar Sympathetic Nerve, Open Approach",019N0Z,2016,2027
+019N3,Percutaneous,019N,2016,2027
+019N30,Drainage Device,019N3,2016,2027
+019N30Z,"Drainage of Lumbar Sympathetic Nerve with Drainage Device, Percutaneous Approach",019N30,2016,2027
+019N3Z,No Device,019N3,2016,2027
+019N3ZX,"Drainage of Lumbar Sympathetic Nerve, Percutaneous Approach, Diagnostic",019N3Z,2016,2027
+019N3ZZ,"Drainage of Lumbar Sympathetic Nerve, Percutaneous Approach",019N3Z,2016,2027
+019N4,Percutaneous Endoscopic,019N,2016,2027
+019N40,Drainage Device,019N4,2016,2027
+019N40Z,"Drainage of Lumbar Sympathetic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019N40,2016,2027
+019N4Z,No Device,019N4,2016,2027
+019N4ZX,"Drainage of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",019N4Z,2016,2027
+019N4ZZ,"Drainage of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",019N4Z,2016,2027
+019P,Sacral Sympathetic Nerve,019,2016,2027
+019P0,Open,019P,2016,2027
+019P00,Drainage Device,019P0,2016,2027
+019P00Z,"Drainage of Sacral Sympathetic Nerve with Drainage Device, Open Approach",019P00,2016,2027
+019P0Z,No Device,019P0,2016,2027
+019P0ZX,"Drainage of Sacral Sympathetic Nerve, Open Approach, Diagnostic",019P0Z,2016,2027
+019P0ZZ,"Drainage of Sacral Sympathetic Nerve, Open Approach",019P0Z,2016,2027
+019P3,Percutaneous,019P,2016,2027
+019P30,Drainage Device,019P3,2016,2027
+019P30Z,"Drainage of Sacral Sympathetic Nerve with Drainage Device, Percutaneous Approach",019P30,2016,2027
+019P3Z,No Device,019P3,2016,2027
+019P3ZX,"Drainage of Sacral Sympathetic Nerve, Percutaneous Approach, Diagnostic",019P3Z,2016,2027
+019P3ZZ,"Drainage of Sacral Sympathetic Nerve, Percutaneous Approach",019P3Z,2016,2027
+019P4,Percutaneous Endoscopic,019P,2016,2027
+019P40,Drainage Device,019P4,2016,2027
+019P40Z,"Drainage of Sacral Sympathetic Nerve with Drainage Device, Percutaneous Endoscopic Approach",019P40,2016,2027
+019P4Z,No Device,019P4,2016,2027
+019P4ZX,"Drainage of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",019P4Z,2016,2027
+019P4ZZ,"Drainage of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",019P4Z,2016,2027
+019Q,Sacral Plexus,019,2016,2027
+019Q0,Open,019Q,2016,2027
+019Q00,Drainage Device,019Q0,2016,2027
+019Q00Z,"Drainage of Sacral Plexus with Drainage Device, Open Approach",019Q00,2016,2027
+019Q0Z,No Device,019Q0,2016,2027
+019Q0ZX,"Drainage of Sacral Plexus, Open Approach, Diagnostic",019Q0Z,2016,2027
+019Q0ZZ,"Drainage of Sacral Plexus, Open Approach",019Q0Z,2016,2027
+019Q3,Percutaneous,019Q,2016,2027
+019Q30,Drainage Device,019Q3,2016,2027
+019Q30Z,"Drainage of Sacral Plexus with Drainage Device, Percutaneous Approach",019Q30,2016,2027
+019Q3Z,No Device,019Q3,2016,2027
+019Q3ZX,"Drainage of Sacral Plexus, Percutaneous Approach, Diagnostic",019Q3Z,2016,2027
+019Q3ZZ,"Drainage of Sacral Plexus, Percutaneous Approach",019Q3Z,2016,2027
+019Q4,Percutaneous Endoscopic,019Q,2016,2027
+019Q40,Drainage Device,019Q4,2016,2027
+019Q40Z,"Drainage of Sacral Plexus with Drainage Device, Percutaneous Endoscopic Approach",019Q40,2016,2027
+019Q4Z,No Device,019Q4,2016,2027
+019Q4ZX,"Drainage of Sacral Plexus, Percutaneous Endoscopic Approach, Diagnostic",019Q4Z,2016,2027
+019Q4ZZ,"Drainage of Sacral Plexus, Percutaneous Endoscopic Approach",019Q4Z,2016,2027
+019R,Sacral Nerve,019,2016,2027
+019R0,Open,019R,2016,2027
+019R00,Drainage Device,019R0,2016,2027
+019R00Z,"Drainage of Sacral Nerve with Drainage Device, Open Approach",019R00,2016,2027
+019R0Z,No Device,019R0,2016,2027
+019R0ZX,"Drainage of Sacral Nerve, Open Approach, Diagnostic",019R0Z,2016,2027
+019R0ZZ,"Drainage of Sacral Nerve, Open Approach",019R0Z,2016,2027
+019R3,Percutaneous,019R,2016,2027
+019R30,Drainage Device,019R3,2016,2027
+019R30Z,"Drainage of Sacral Nerve with Drainage Device, Percutaneous Approach",019R30,2016,2027
+019R3Z,No Device,019R3,2016,2027
+019R3ZX,"Drainage of Sacral Nerve, Percutaneous Approach, Diagnostic",019R3Z,2016,2027
+019R3ZZ,"Drainage of Sacral Nerve, Percutaneous Approach",019R3Z,2016,2027
+019R4,Percutaneous Endoscopic,019R,2016,2027
+019R40,Drainage Device,019R4,2016,2027
+019R40Z,"Drainage of Sacral Nerve with Drainage Device, Percutaneous Endoscopic Approach",019R40,2016,2027
+019R4Z,No Device,019R4,2016,2027
+019R4ZX,"Drainage of Sacral Nerve, Percutaneous Endoscopic Approach, Diagnostic",019R4Z,2016,2027
+019R4ZZ,"Drainage of Sacral Nerve, Percutaneous Endoscopic Approach",019R4Z,2016,2027
+01B,Excision,01,2016,2027
+01B0,Cervical Plexus,01B,2016,2027
+01B00,Open,01B0,2016,2027
+01B00Z,No Device,01B00,2016,2027
+01B00ZX,"Excision of Cervical Plexus, Open Approach, Diagnostic",01B00Z,2016,2027
+01B00ZZ,"Excision of Cervical Plexus, Open Approach",01B00Z,2016,2027
+01B03,Percutaneous,01B0,2016,2027
+01B03Z,No Device,01B03,2016,2027
+01B03ZX,"Excision of Cervical Plexus, Percutaneous Approach, Diagnostic",01B03Z,2016,2027
+01B03ZZ,"Excision of Cervical Plexus, Percutaneous Approach",01B03Z,2016,2027
+01B04,Percutaneous Endoscopic,01B0,2016,2027
+01B04Z,No Device,01B04,2016,2027
+01B04ZX,"Excision of Cervical Plexus, Percutaneous Endoscopic Approach, Diagnostic",01B04Z,2016,2027
+01B04ZZ,"Excision of Cervical Plexus, Percutaneous Endoscopic Approach",01B04Z,2016,2027
+01B1,Cervical Nerve,01B,2016,2027
+01B10,Open,01B1,2016,2027
+01B10Z,No Device,01B10,2016,2027
+01B10ZX,"Excision of Cervical Nerve, Open Approach, Diagnostic",01B10Z,2016,2027
+01B10ZZ,"Excision of Cervical Nerve, Open Approach",01B10Z,2016,2027
+01B13,Percutaneous,01B1,2016,2027
+01B13Z,No Device,01B13,2016,2027
+01B13ZX,"Excision of Cervical Nerve, Percutaneous Approach, Diagnostic",01B13Z,2016,2027
+01B13ZZ,"Excision of Cervical Nerve, Percutaneous Approach",01B13Z,2016,2027
+01B14,Percutaneous Endoscopic,01B1,2016,2027
+01B14Z,No Device,01B14,2016,2027
+01B14ZX,"Excision of Cervical Nerve, Percutaneous Endoscopic Approach, Diagnostic",01B14Z,2016,2027
+01B14ZZ,"Excision of Cervical Nerve, Percutaneous Endoscopic Approach",01B14Z,2016,2027
+01B2,Phrenic Nerve,01B,2016,2027
+01B20,Open,01B2,2016,2027
+01B20Z,No Device,01B20,2016,2027
+01B20ZX,"Excision of Phrenic Nerve, Open Approach, Diagnostic",01B20Z,2016,2027
+01B20ZZ,"Excision of Phrenic Nerve, Open Approach",01B20Z,2016,2027
+01B23,Percutaneous,01B2,2016,2027
+01B23Z,No Device,01B23,2016,2027
+01B23ZX,"Excision of Phrenic Nerve, Percutaneous Approach, Diagnostic",01B23Z,2016,2027
+01B23ZZ,"Excision of Phrenic Nerve, Percutaneous Approach",01B23Z,2016,2027
+01B24,Percutaneous Endoscopic,01B2,2016,2027
+01B24Z,No Device,01B24,2016,2027
+01B24ZX,"Excision of Phrenic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01B24Z,2016,2027
+01B24ZZ,"Excision of Phrenic Nerve, Percutaneous Endoscopic Approach",01B24Z,2016,2027
+01B3,Brachial Plexus,01B,2016,2027
+01B30,Open,01B3,2016,2027
+01B30Z,No Device,01B30,2016,2027
+01B30ZX,"Excision of Brachial Plexus, Open Approach, Diagnostic",01B30Z,2016,2027
+01B30ZZ,"Excision of Brachial Plexus, Open Approach",01B30Z,2016,2027
+01B33,Percutaneous,01B3,2016,2027
+01B33Z,No Device,01B33,2016,2027
+01B33ZX,"Excision of Brachial Plexus, Percutaneous Approach, Diagnostic",01B33Z,2016,2027
+01B33ZZ,"Excision of Brachial Plexus, Percutaneous Approach",01B33Z,2016,2027
+01B34,Percutaneous Endoscopic,01B3,2016,2027
+01B34Z,No Device,01B34,2016,2027
+01B34ZX,"Excision of Brachial Plexus, Percutaneous Endoscopic Approach, Diagnostic",01B34Z,2016,2027
+01B34ZZ,"Excision of Brachial Plexus, Percutaneous Endoscopic Approach",01B34Z,2016,2027
+01B4,Ulnar Nerve,01B,2016,2027
+01B40,Open,01B4,2016,2027
+01B40Z,No Device,01B40,2016,2027
+01B40ZX,"Excision of Ulnar Nerve, Open Approach, Diagnostic",01B40Z,2016,2027
+01B40ZZ,"Excision of Ulnar Nerve, Open Approach",01B40Z,2016,2027
+01B43,Percutaneous,01B4,2016,2027
+01B43Z,No Device,01B43,2016,2027
+01B43ZX,"Excision of Ulnar Nerve, Percutaneous Approach, Diagnostic",01B43Z,2016,2027
+01B43ZZ,"Excision of Ulnar Nerve, Percutaneous Approach",01B43Z,2016,2027
+01B44,Percutaneous Endoscopic,01B4,2016,2027
+01B44Z,No Device,01B44,2016,2027
+01B44ZX,"Excision of Ulnar Nerve, Percutaneous Endoscopic Approach, Diagnostic",01B44Z,2016,2027
+01B44ZZ,"Excision of Ulnar Nerve, Percutaneous Endoscopic Approach",01B44Z,2016,2027
+01B5,Median Nerve,01B,2016,2027
+01B50,Open,01B5,2016,2027
+01B50Z,No Device,01B50,2016,2027
+01B50ZX,"Excision of Median Nerve, Open Approach, Diagnostic",01B50Z,2016,2027
+01B50ZZ,"Excision of Median Nerve, Open Approach",01B50Z,2016,2027
+01B53,Percutaneous,01B5,2016,2027
+01B53Z,No Device,01B53,2016,2027
+01B53ZX,"Excision of Median Nerve, Percutaneous Approach, Diagnostic",01B53Z,2016,2027
+01B53ZZ,"Excision of Median Nerve, Percutaneous Approach",01B53Z,2016,2027
+01B54,Percutaneous Endoscopic,01B5,2016,2027
+01B54Z,No Device,01B54,2016,2027
+01B54ZX,"Excision of Median Nerve, Percutaneous Endoscopic Approach, Diagnostic",01B54Z,2016,2027
+01B54ZZ,"Excision of Median Nerve, Percutaneous Endoscopic Approach",01B54Z,2016,2027
+01B6,Radial Nerve,01B,2016,2027
+01B60,Open,01B6,2016,2027
+01B60Z,No Device,01B60,2016,2027
+01B60ZX,"Excision of Radial Nerve, Open Approach, Diagnostic",01B60Z,2016,2027
+01B60ZZ,"Excision of Radial Nerve, Open Approach",01B60Z,2016,2027
+01B63,Percutaneous,01B6,2016,2027
+01B63Z,No Device,01B63,2016,2027
+01B63ZX,"Excision of Radial Nerve, Percutaneous Approach, Diagnostic",01B63Z,2016,2027
+01B63ZZ,"Excision of Radial Nerve, Percutaneous Approach",01B63Z,2016,2027
+01B64,Percutaneous Endoscopic,01B6,2016,2027
+01B64Z,No Device,01B64,2016,2027
+01B64ZX,"Excision of Radial Nerve, Percutaneous Endoscopic Approach, Diagnostic",01B64Z,2016,2027
+01B64ZZ,"Excision of Radial Nerve, Percutaneous Endoscopic Approach",01B64Z,2016,2027
+01B8,Thoracic Nerve,01B,2016,2027
+01B80,Open,01B8,2016,2027
+01B80Z,No Device,01B80,2016,2027
+01B80ZX,"Excision of Thoracic Nerve, Open Approach, Diagnostic",01B80Z,2016,2027
+01B80ZZ,"Excision of Thoracic Nerve, Open Approach",01B80Z,2016,2027
+01B83,Percutaneous,01B8,2016,2027
+01B83Z,No Device,01B83,2016,2027
+01B83ZX,"Excision of Thoracic Nerve, Percutaneous Approach, Diagnostic",01B83Z,2016,2027
+01B83ZZ,"Excision of Thoracic Nerve, Percutaneous Approach",01B83Z,2016,2027
+01B84,Percutaneous Endoscopic,01B8,2016,2027
+01B84Z,No Device,01B84,2016,2027
+01B84ZX,"Excision of Thoracic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01B84Z,2016,2027
+01B84ZZ,"Excision of Thoracic Nerve, Percutaneous Endoscopic Approach",01B84Z,2016,2027
+01B9,Lumbar Plexus,01B,2016,2027
+01B90,Open,01B9,2016,2027
+01B90Z,No Device,01B90,2016,2027
+01B90ZX,"Excision of Lumbar Plexus, Open Approach, Diagnostic",01B90Z,2016,2027
+01B90ZZ,"Excision of Lumbar Plexus, Open Approach",01B90Z,2016,2027
+01B93,Percutaneous,01B9,2016,2027
+01B93Z,No Device,01B93,2016,2027
+01B93ZX,"Excision of Lumbar Plexus, Percutaneous Approach, Diagnostic",01B93Z,2016,2027
+01B93ZZ,"Excision of Lumbar Plexus, Percutaneous Approach",01B93Z,2016,2027
+01B94,Percutaneous Endoscopic,01B9,2016,2027
+01B94Z,No Device,01B94,2016,2027
+01B94ZX,"Excision of Lumbar Plexus, Percutaneous Endoscopic Approach, Diagnostic",01B94Z,2016,2027
+01B94ZZ,"Excision of Lumbar Plexus, Percutaneous Endoscopic Approach",01B94Z,2016,2027
+01BA,Lumbosacral Plexus,01B,2016,2027
+01BA0,Open,01BA,2016,2027
+01BA0Z,No Device,01BA0,2016,2027
+01BA0ZX,"Excision of Lumbosacral Plexus, Open Approach, Diagnostic",01BA0Z,2016,2027
+01BA0ZZ,"Excision of Lumbosacral Plexus, Open Approach",01BA0Z,2016,2027
+01BA3,Percutaneous,01BA,2016,2027
+01BA3Z,No Device,01BA3,2016,2027
+01BA3ZX,"Excision of Lumbosacral Plexus, Percutaneous Approach, Diagnostic",01BA3Z,2016,2027
+01BA3ZZ,"Excision of Lumbosacral Plexus, Percutaneous Approach",01BA3Z,2016,2027
+01BA4,Percutaneous Endoscopic,01BA,2016,2027
+01BA4Z,No Device,01BA4,2016,2027
+01BA4ZX,"Excision of Lumbosacral Plexus, Percutaneous Endoscopic Approach, Diagnostic",01BA4Z,2016,2027
+01BA4ZZ,"Excision of Lumbosacral Plexus, Percutaneous Endoscopic Approach",01BA4Z,2016,2027
+01BB,Lumbar Nerve,01B,2016,2027
+01BB0,Open,01BB,2016,2027
+01BB0Z,No Device,01BB0,2016,2027
+01BB0ZX,"Excision of Lumbar Nerve, Open Approach, Diagnostic",01BB0Z,2016,2027
+01BB0ZZ,"Excision of Lumbar Nerve, Open Approach",01BB0Z,2016,2027
+01BB3,Percutaneous,01BB,2016,2027
+01BB3Z,No Device,01BB3,2016,2027
+01BB3ZX,"Excision of Lumbar Nerve, Percutaneous Approach, Diagnostic",01BB3Z,2016,2027
+01BB3ZZ,"Excision of Lumbar Nerve, Percutaneous Approach",01BB3Z,2016,2027
+01BB4,Percutaneous Endoscopic,01BB,2016,2027
+01BB4Z,No Device,01BB4,2016,2027
+01BB4ZX,"Excision of Lumbar Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BB4Z,2016,2027
+01BB4ZZ,"Excision of Lumbar Nerve, Percutaneous Endoscopic Approach",01BB4Z,2016,2027
+01BC,Pudendal Nerve,01B,2016,2027
+01BC0,Open,01BC,2016,2027
+01BC0Z,No Device,01BC0,2016,2027
+01BC0ZX,"Excision of Pudendal Nerve, Open Approach, Diagnostic",01BC0Z,2016,2027
+01BC0ZZ,"Excision of Pudendal Nerve, Open Approach",01BC0Z,2016,2027
+01BC3,Percutaneous,01BC,2016,2027
+01BC3Z,No Device,01BC3,2016,2027
+01BC3ZX,"Excision of Pudendal Nerve, Percutaneous Approach, Diagnostic",01BC3Z,2016,2027
+01BC3ZZ,"Excision of Pudendal Nerve, Percutaneous Approach",01BC3Z,2016,2027
+01BC4,Percutaneous Endoscopic,01BC,2016,2027
+01BC4Z,No Device,01BC4,2016,2027
+01BC4ZX,"Excision of Pudendal Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BC4Z,2016,2027
+01BC4ZZ,"Excision of Pudendal Nerve, Percutaneous Endoscopic Approach",01BC4Z,2016,2027
+01BD,Femoral Nerve,01B,2016,2027
+01BD0,Open,01BD,2016,2027
+01BD0Z,No Device,01BD0,2016,2027
+01BD0ZX,"Excision of Femoral Nerve, Open Approach, Diagnostic",01BD0Z,2016,2027
+01BD0ZZ,"Excision of Femoral Nerve, Open Approach",01BD0Z,2016,2027
+01BD3,Percutaneous,01BD,2016,2027
+01BD3Z,No Device,01BD3,2016,2027
+01BD3ZX,"Excision of Femoral Nerve, Percutaneous Approach, Diagnostic",01BD3Z,2016,2027
+01BD3ZZ,"Excision of Femoral Nerve, Percutaneous Approach",01BD3Z,2016,2027
+01BD4,Percutaneous Endoscopic,01BD,2016,2027
+01BD4Z,No Device,01BD4,2016,2027
+01BD4ZX,"Excision of Femoral Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BD4Z,2016,2027
+01BD4ZZ,"Excision of Femoral Nerve, Percutaneous Endoscopic Approach",01BD4Z,2016,2027
+01BF,Sciatic Nerve,01B,2016,2027
+01BF0,Open,01BF,2016,2027
+01BF0Z,No Device,01BF0,2016,2027
+01BF0ZX,"Excision of Sciatic Nerve, Open Approach, Diagnostic",01BF0Z,2016,2027
+01BF0ZZ,"Excision of Sciatic Nerve, Open Approach",01BF0Z,2016,2027
+01BF3,Percutaneous,01BF,2016,2027
+01BF3Z,No Device,01BF3,2016,2027
+01BF3ZX,"Excision of Sciatic Nerve, Percutaneous Approach, Diagnostic",01BF3Z,2016,2027
+01BF3ZZ,"Excision of Sciatic Nerve, Percutaneous Approach",01BF3Z,2016,2027
+01BF4,Percutaneous Endoscopic,01BF,2016,2027
+01BF4Z,No Device,01BF4,2016,2027
+01BF4ZX,"Excision of Sciatic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BF4Z,2016,2027
+01BF4ZZ,"Excision of Sciatic Nerve, Percutaneous Endoscopic Approach",01BF4Z,2016,2027
+01BG,Tibial Nerve,01B,2016,2027
+01BG0,Open,01BG,2016,2027
+01BG0Z,No Device,01BG0,2016,2027
+01BG0ZX,"Excision of Tibial Nerve, Open Approach, Diagnostic",01BG0Z,2016,2027
+01BG0ZZ,"Excision of Tibial Nerve, Open Approach",01BG0Z,2016,2027
+01BG3,Percutaneous,01BG,2016,2027
+01BG3Z,No Device,01BG3,2016,2027
+01BG3ZX,"Excision of Tibial Nerve, Percutaneous Approach, Diagnostic",01BG3Z,2016,2027
+01BG3ZZ,"Excision of Tibial Nerve, Percutaneous Approach",01BG3Z,2016,2027
+01BG4,Percutaneous Endoscopic,01BG,2016,2027
+01BG4Z,No Device,01BG4,2016,2027
+01BG4ZX,"Excision of Tibial Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BG4Z,2016,2027
+01BG4ZZ,"Excision of Tibial Nerve, Percutaneous Endoscopic Approach",01BG4Z,2016,2027
+01BH,Peroneal Nerve,01B,2016,2027
+01BH0,Open,01BH,2016,2027
+01BH0Z,No Device,01BH0,2016,2027
+01BH0ZX,"Excision of Peroneal Nerve, Open Approach, Diagnostic",01BH0Z,2016,2027
+01BH0ZZ,"Excision of Peroneal Nerve, Open Approach",01BH0Z,2016,2027
+01BH3,Percutaneous,01BH,2016,2027
+01BH3Z,No Device,01BH3,2016,2027
+01BH3ZX,"Excision of Peroneal Nerve, Percutaneous Approach, Diagnostic",01BH3Z,2016,2027
+01BH3ZZ,"Excision of Peroneal Nerve, Percutaneous Approach",01BH3Z,2016,2027
+01BH4,Percutaneous Endoscopic,01BH,2016,2027
+01BH4Z,No Device,01BH4,2016,2027
+01BH4ZX,"Excision of Peroneal Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BH4Z,2016,2027
+01BH4ZZ,"Excision of Peroneal Nerve, Percutaneous Endoscopic Approach",01BH4Z,2016,2027
+01BK,Head and Neck Sympathetic Nerve,01B,2016,2027
+01BK0,Open,01BK,2016,2027
+01BK0Z,No Device,01BK0,2016,2027
+01BK0ZX,"Excision of Head and Neck Sympathetic Nerve, Open Approach, Diagnostic",01BK0Z,2016,2027
+01BK0ZZ,"Excision of Head and Neck Sympathetic Nerve, Open Approach",01BK0Z,2016,2027
+01BK3,Percutaneous,01BK,2016,2027
+01BK3Z,No Device,01BK3,2016,2027
+01BK3ZX,"Excision of Head and Neck Sympathetic Nerve, Percutaneous Approach, Diagnostic",01BK3Z,2016,2027
+01BK3ZZ,"Excision of Head and Neck Sympathetic Nerve, Percutaneous Approach",01BK3Z,2016,2027
+01BK4,Percutaneous Endoscopic,01BK,2016,2027
+01BK4Z,No Device,01BK4,2016,2027
+01BK4ZX,"Excision of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BK4Z,2016,2027
+01BK4ZZ,"Excision of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",01BK4Z,2016,2027
+01BL,Thoracic Sympathetic Nerve,01B,2016,2027
+01BL0,Open,01BL,2016,2027
+01BL0Z,No Device,01BL0,2016,2027
+01BL0ZX,"Excision of Thoracic Sympathetic Nerve, Open Approach, Diagnostic",01BL0Z,2016,2027
+01BL0ZZ,"Excision of Thoracic Sympathetic Nerve, Open Approach",01BL0Z,2016,2027
+01BL3,Percutaneous,01BL,2016,2027
+01BL3Z,No Device,01BL3,2016,2027
+01BL3ZX,"Excision of Thoracic Sympathetic Nerve, Percutaneous Approach, Diagnostic",01BL3Z,2016,2027
+01BL3ZZ,"Excision of Thoracic Sympathetic Nerve, Percutaneous Approach",01BL3Z,2016,2027
+01BL4,Percutaneous Endoscopic,01BL,2016,2027
+01BL4Z,No Device,01BL4,2016,2027
+01BL4ZX,"Excision of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BL4Z,2016,2027
+01BL4ZZ,"Excision of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",01BL4Z,2016,2027
+01BM,Abdominal Sympathetic Nerve,01B,2016,2027
+01BM0,Open,01BM,2016,2027
+01BM0Z,No Device,01BM0,2016,2027
+01BM0ZX,"Excision of Abdominal Sympathetic Nerve, Open Approach, Diagnostic",01BM0Z,2016,2027
+01BM0ZZ,"Excision of Abdominal Sympathetic Nerve, Open Approach",01BM0Z,2016,2027
+01BM3,Percutaneous,01BM,2016,2027
+01BM3Z,No Device,01BM3,2016,2027
+01BM3ZX,"Excision of Abdominal Sympathetic Nerve, Percutaneous Approach, Diagnostic",01BM3Z,2016,2027
+01BM3ZZ,"Excision of Abdominal Sympathetic Nerve, Percutaneous Approach",01BM3Z,2016,2027
+01BM4,Percutaneous Endoscopic,01BM,2016,2027
+01BM4Z,No Device,01BM4,2016,2027
+01BM4ZX,"Excision of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BM4Z,2016,2027
+01BM4ZZ,"Excision of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",01BM4Z,2016,2027
+01BN,Lumbar Sympathetic Nerve,01B,2016,2027
+01BN0,Open,01BN,2016,2027
+01BN0Z,No Device,01BN0,2016,2027
+01BN0ZX,"Excision of Lumbar Sympathetic Nerve, Open Approach, Diagnostic",01BN0Z,2016,2027
+01BN0ZZ,"Excision of Lumbar Sympathetic Nerve, Open Approach",01BN0Z,2016,2027
+01BN3,Percutaneous,01BN,2016,2027
+01BN3Z,No Device,01BN3,2016,2027
+01BN3ZX,"Excision of Lumbar Sympathetic Nerve, Percutaneous Approach, Diagnostic",01BN3Z,2016,2027
+01BN3ZZ,"Excision of Lumbar Sympathetic Nerve, Percutaneous Approach",01BN3Z,2016,2027
+01BN4,Percutaneous Endoscopic,01BN,2016,2027
+01BN4Z,No Device,01BN4,2016,2027
+01BN4ZX,"Excision of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BN4Z,2016,2027
+01BN4ZZ,"Excision of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",01BN4Z,2016,2027
+01BP,Sacral Sympathetic Nerve,01B,2016,2027
+01BP0,Open,01BP,2016,2027
+01BP0Z,No Device,01BP0,2016,2027
+01BP0ZX,"Excision of Sacral Sympathetic Nerve, Open Approach, Diagnostic",01BP0Z,2016,2027
+01BP0ZZ,"Excision of Sacral Sympathetic Nerve, Open Approach",01BP0Z,2016,2027
+01BP3,Percutaneous,01BP,2016,2027
+01BP3Z,No Device,01BP3,2016,2027
+01BP3ZX,"Excision of Sacral Sympathetic Nerve, Percutaneous Approach, Diagnostic",01BP3Z,2016,2027
+01BP3ZZ,"Excision of Sacral Sympathetic Nerve, Percutaneous Approach",01BP3Z,2016,2027
+01BP4,Percutaneous Endoscopic,01BP,2016,2027
+01BP4Z,No Device,01BP4,2016,2027
+01BP4ZX,"Excision of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BP4Z,2016,2027
+01BP4ZZ,"Excision of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",01BP4Z,2016,2027
+01BQ,Sacral Plexus,01B,2016,2027
+01BQ0,Open,01BQ,2016,2027
+01BQ0Z,No Device,01BQ0,2016,2027
+01BQ0ZX,"Excision of Sacral Plexus, Open Approach, Diagnostic",01BQ0Z,2016,2027
+01BQ0ZZ,"Excision of Sacral Plexus, Open Approach",01BQ0Z,2016,2027
+01BQ3,Percutaneous,01BQ,2016,2027
+01BQ3Z,No Device,01BQ3,2016,2027
+01BQ3ZX,"Excision of Sacral Plexus, Percutaneous Approach, Diagnostic",01BQ3Z,2016,2027
+01BQ3ZZ,"Excision of Sacral Plexus, Percutaneous Approach",01BQ3Z,2016,2027
+01BQ4,Percutaneous Endoscopic,01BQ,2016,2027
+01BQ4Z,No Device,01BQ4,2016,2027
+01BQ4ZX,"Excision of Sacral Plexus, Percutaneous Endoscopic Approach, Diagnostic",01BQ4Z,2016,2027
+01BQ4ZZ,"Excision of Sacral Plexus, Percutaneous Endoscopic Approach",01BQ4Z,2016,2027
+01BR,Sacral Nerve,01B,2016,2027
+01BR0,Open,01BR,2016,2027
+01BR0Z,No Device,01BR0,2016,2027
+01BR0ZX,"Excision of Sacral Nerve, Open Approach, Diagnostic",01BR0Z,2016,2027
+01BR0ZZ,"Excision of Sacral Nerve, Open Approach",01BR0Z,2016,2027
+01BR3,Percutaneous,01BR,2016,2027
+01BR3Z,No Device,01BR3,2016,2027
+01BR3ZX,"Excision of Sacral Nerve, Percutaneous Approach, Diagnostic",01BR3Z,2016,2027
+01BR3ZZ,"Excision of Sacral Nerve, Percutaneous Approach",01BR3Z,2016,2027
+01BR4,Percutaneous Endoscopic,01BR,2016,2027
+01BR4Z,No Device,01BR4,2016,2027
+01BR4ZX,"Excision of Sacral Nerve, Percutaneous Endoscopic Approach, Diagnostic",01BR4Z,2016,2027
+01BR4ZZ,"Excision of Sacral Nerve, Percutaneous Endoscopic Approach",01BR4Z,2016,2027
+01C,Extirpation,01,2016,2027
+01C0,Cervical Plexus,01C,2016,2027
+01C00,Open,01C0,2016,2027
+01C00Z,No Device,01C00,2016,2027
+01C00ZZ,"Extirpation of Matter from Cervical Plexus, Open Approach",01C00Z,2016,2027
+01C03,Percutaneous,01C0,2016,2027
+01C03Z,No Device,01C03,2016,2027
+01C03ZZ,"Extirpation of Matter from Cervical Plexus, Percutaneous Approach",01C03Z,2016,2027
+01C04,Percutaneous Endoscopic,01C0,2016,2027
+01C04Z,No Device,01C04,2016,2027
+01C04ZZ,"Extirpation of Matter from Cervical Plexus, Percutaneous Endoscopic Approach",01C04Z,2016,2027
+01C1,Cervical Nerve,01C,2016,2027
+01C10,Open,01C1,2016,2027
+01C10Z,No Device,01C10,2016,2027
+01C10ZZ,"Extirpation of Matter from Cervical Nerve, Open Approach",01C10Z,2016,2027
+01C13,Percutaneous,01C1,2016,2027
+01C13Z,No Device,01C13,2016,2027
+01C13ZZ,"Extirpation of Matter from Cervical Nerve, Percutaneous Approach",01C13Z,2016,2027
+01C14,Percutaneous Endoscopic,01C1,2016,2027
+01C14Z,No Device,01C14,2016,2027
+01C14ZZ,"Extirpation of Matter from Cervical Nerve, Percutaneous Endoscopic Approach",01C14Z,2016,2027
+01C2,Phrenic Nerve,01C,2016,2027
+01C20,Open,01C2,2016,2027
+01C20Z,No Device,01C20,2016,2027
+01C20ZZ,"Extirpation of Matter from Phrenic Nerve, Open Approach",01C20Z,2016,2027
+01C23,Percutaneous,01C2,2016,2027
+01C23Z,No Device,01C23,2016,2027
+01C23ZZ,"Extirpation of Matter from Phrenic Nerve, Percutaneous Approach",01C23Z,2016,2027
+01C24,Percutaneous Endoscopic,01C2,2016,2027
+01C24Z,No Device,01C24,2016,2027
+01C24ZZ,"Extirpation of Matter from Phrenic Nerve, Percutaneous Endoscopic Approach",01C24Z,2016,2027
+01C3,Brachial Plexus,01C,2016,2027
+01C30,Open,01C3,2016,2027
+01C30Z,No Device,01C30,2016,2027
+01C30ZZ,"Extirpation of Matter from Brachial Plexus, Open Approach",01C30Z,2016,2027
+01C33,Percutaneous,01C3,2016,2027
+01C33Z,No Device,01C33,2016,2027
+01C33ZZ,"Extirpation of Matter from Brachial Plexus, Percutaneous Approach",01C33Z,2016,2027
+01C34,Percutaneous Endoscopic,01C3,2016,2027
+01C34Z,No Device,01C34,2016,2027
+01C34ZZ,"Extirpation of Matter from Brachial Plexus, Percutaneous Endoscopic Approach",01C34Z,2016,2027
+01C4,Ulnar Nerve,01C,2016,2027
+01C40,Open,01C4,2016,2027
+01C40Z,No Device,01C40,2016,2027
+01C40ZZ,"Extirpation of Matter from Ulnar Nerve, Open Approach",01C40Z,2016,2027
+01C43,Percutaneous,01C4,2016,2027
+01C43Z,No Device,01C43,2016,2027
+01C43ZZ,"Extirpation of Matter from Ulnar Nerve, Percutaneous Approach",01C43Z,2016,2027
+01C44,Percutaneous Endoscopic,01C4,2016,2027
+01C44Z,No Device,01C44,2016,2027
+01C44ZZ,"Extirpation of Matter from Ulnar Nerve, Percutaneous Endoscopic Approach",01C44Z,2016,2027
+01C5,Median Nerve,01C,2016,2027
+01C50,Open,01C5,2016,2027
+01C50Z,No Device,01C50,2016,2027
+01C50ZZ,"Extirpation of Matter from Median Nerve, Open Approach",01C50Z,2016,2027
+01C53,Percutaneous,01C5,2016,2027
+01C53Z,No Device,01C53,2016,2027
+01C53ZZ,"Extirpation of Matter from Median Nerve, Percutaneous Approach",01C53Z,2016,2027
+01C54,Percutaneous Endoscopic,01C5,2016,2027
+01C54Z,No Device,01C54,2016,2027
+01C54ZZ,"Extirpation of Matter from Median Nerve, Percutaneous Endoscopic Approach",01C54Z,2016,2027
+01C6,Radial Nerve,01C,2016,2027
+01C60,Open,01C6,2016,2027
+01C60Z,No Device,01C60,2016,2027
+01C60ZZ,"Extirpation of Matter from Radial Nerve, Open Approach",01C60Z,2016,2027
+01C63,Percutaneous,01C6,2016,2027
+01C63Z,No Device,01C63,2016,2027
+01C63ZZ,"Extirpation of Matter from Radial Nerve, Percutaneous Approach",01C63Z,2016,2027
+01C64,Percutaneous Endoscopic,01C6,2016,2027
+01C64Z,No Device,01C64,2016,2027
+01C64ZZ,"Extirpation of Matter from Radial Nerve, Percutaneous Endoscopic Approach",01C64Z,2016,2027
+01C8,Thoracic Nerve,01C,2016,2027
+01C80,Open,01C8,2016,2027
+01C80Z,No Device,01C80,2016,2027
+01C80ZZ,"Extirpation of Matter from Thoracic Nerve, Open Approach",01C80Z,2016,2027
+01C83,Percutaneous,01C8,2016,2027
+01C83Z,No Device,01C83,2016,2027
+01C83ZZ,"Extirpation of Matter from Thoracic Nerve, Percutaneous Approach",01C83Z,2016,2027
+01C84,Percutaneous Endoscopic,01C8,2016,2027
+01C84Z,No Device,01C84,2016,2027
+01C84ZZ,"Extirpation of Matter from Thoracic Nerve, Percutaneous Endoscopic Approach",01C84Z,2016,2027
+01C9,Lumbar Plexus,01C,2016,2027
+01C90,Open,01C9,2016,2027
+01C90Z,No Device,01C90,2016,2027
+01C90ZZ,"Extirpation of Matter from Lumbar Plexus, Open Approach",01C90Z,2016,2027
+01C93,Percutaneous,01C9,2016,2027
+01C93Z,No Device,01C93,2016,2027
+01C93ZZ,"Extirpation of Matter from Lumbar Plexus, Percutaneous Approach",01C93Z,2016,2027
+01C94,Percutaneous Endoscopic,01C9,2016,2027
+01C94Z,No Device,01C94,2016,2027
+01C94ZZ,"Extirpation of Matter from Lumbar Plexus, Percutaneous Endoscopic Approach",01C94Z,2016,2027
+01CA,Lumbosacral Plexus,01C,2016,2027
+01CA0,Open,01CA,2016,2027
+01CA0Z,No Device,01CA0,2016,2027
+01CA0ZZ,"Extirpation of Matter from Lumbosacral Plexus, Open Approach",01CA0Z,2016,2027
+01CA3,Percutaneous,01CA,2016,2027
+01CA3Z,No Device,01CA3,2016,2027
+01CA3ZZ,"Extirpation of Matter from Lumbosacral Plexus, Percutaneous Approach",01CA3Z,2016,2027
+01CA4,Percutaneous Endoscopic,01CA,2016,2027
+01CA4Z,No Device,01CA4,2016,2027
+01CA4ZZ,"Extirpation of Matter from Lumbosacral Plexus, Percutaneous Endoscopic Approach",01CA4Z,2016,2027
+01CB,Lumbar Nerve,01C,2016,2027
+01CB0,Open,01CB,2016,2027
+01CB0Z,No Device,01CB0,2016,2027
+01CB0ZZ,"Extirpation of Matter from Lumbar Nerve, Open Approach",01CB0Z,2016,2027
+01CB3,Percutaneous,01CB,2016,2027
+01CB3Z,No Device,01CB3,2016,2027
+01CB3ZZ,"Extirpation of Matter from Lumbar Nerve, Percutaneous Approach",01CB3Z,2016,2027
+01CB4,Percutaneous Endoscopic,01CB,2016,2027
+01CB4Z,No Device,01CB4,2016,2027
+01CB4ZZ,"Extirpation of Matter from Lumbar Nerve, Percutaneous Endoscopic Approach",01CB4Z,2016,2027
+01CC,Pudendal Nerve,01C,2016,2027
+01CC0,Open,01CC,2016,2027
+01CC0Z,No Device,01CC0,2016,2027
+01CC0ZZ,"Extirpation of Matter from Pudendal Nerve, Open Approach",01CC0Z,2016,2027
+01CC3,Percutaneous,01CC,2016,2027
+01CC3Z,No Device,01CC3,2016,2027
+01CC3ZZ,"Extirpation of Matter from Pudendal Nerve, Percutaneous Approach",01CC3Z,2016,2027
+01CC4,Percutaneous Endoscopic,01CC,2016,2027
+01CC4Z,No Device,01CC4,2016,2027
+01CC4ZZ,"Extirpation of Matter from Pudendal Nerve, Percutaneous Endoscopic Approach",01CC4Z,2016,2027
+01CD,Femoral Nerve,01C,2016,2027
+01CD0,Open,01CD,2016,2027
+01CD0Z,No Device,01CD0,2016,2027
+01CD0ZZ,"Extirpation of Matter from Femoral Nerve, Open Approach",01CD0Z,2016,2027
+01CD3,Percutaneous,01CD,2016,2027
+01CD3Z,No Device,01CD3,2016,2027
+01CD3ZZ,"Extirpation of Matter from Femoral Nerve, Percutaneous Approach",01CD3Z,2016,2027
+01CD4,Percutaneous Endoscopic,01CD,2016,2027
+01CD4Z,No Device,01CD4,2016,2027
+01CD4ZZ,"Extirpation of Matter from Femoral Nerve, Percutaneous Endoscopic Approach",01CD4Z,2016,2027
+01CF,Sciatic Nerve,01C,2016,2027
+01CF0,Open,01CF,2016,2027
+01CF0Z,No Device,01CF0,2016,2027
+01CF0ZZ,"Extirpation of Matter from Sciatic Nerve, Open Approach",01CF0Z,2016,2027
+01CF3,Percutaneous,01CF,2016,2027
+01CF3Z,No Device,01CF3,2016,2027
+01CF3ZZ,"Extirpation of Matter from Sciatic Nerve, Percutaneous Approach",01CF3Z,2016,2027
+01CF4,Percutaneous Endoscopic,01CF,2016,2027
+01CF4Z,No Device,01CF4,2016,2027
+01CF4ZZ,"Extirpation of Matter from Sciatic Nerve, Percutaneous Endoscopic Approach",01CF4Z,2016,2027
+01CG,Tibial Nerve,01C,2016,2027
+01CG0,Open,01CG,2016,2027
+01CG0Z,No Device,01CG0,2016,2027
+01CG0ZZ,"Extirpation of Matter from Tibial Nerve, Open Approach",01CG0Z,2016,2027
+01CG3,Percutaneous,01CG,2016,2027
+01CG3Z,No Device,01CG3,2016,2027
+01CG3ZZ,"Extirpation of Matter from Tibial Nerve, Percutaneous Approach",01CG3Z,2016,2027
+01CG4,Percutaneous Endoscopic,01CG,2016,2027
+01CG4Z,No Device,01CG4,2016,2027
+01CG4ZZ,"Extirpation of Matter from Tibial Nerve, Percutaneous Endoscopic Approach",01CG4Z,2016,2027
+01CH,Peroneal Nerve,01C,2016,2027
+01CH0,Open,01CH,2016,2027
+01CH0Z,No Device,01CH0,2016,2027
+01CH0ZZ,"Extirpation of Matter from Peroneal Nerve, Open Approach",01CH0Z,2016,2027
+01CH3,Percutaneous,01CH,2016,2027
+01CH3Z,No Device,01CH3,2016,2027
+01CH3ZZ,"Extirpation of Matter from Peroneal Nerve, Percutaneous Approach",01CH3Z,2016,2027
+01CH4,Percutaneous Endoscopic,01CH,2016,2027
+01CH4Z,No Device,01CH4,2016,2027
+01CH4ZZ,"Extirpation of Matter from Peroneal Nerve, Percutaneous Endoscopic Approach",01CH4Z,2016,2027
+01CK,Head and Neck Sympathetic Nerve,01C,2016,2027
+01CK0,Open,01CK,2016,2027
+01CK0Z,No Device,01CK0,2016,2027
+01CK0ZZ,"Extirpation of Matter from Head and Neck Sympathetic Nerve, Open Approach",01CK0Z,2016,2027
+01CK3,Percutaneous,01CK,2016,2027
+01CK3Z,No Device,01CK3,2016,2027
+01CK3ZZ,"Extirpation of Matter from Head and Neck Sympathetic Nerve, Percutaneous Approach",01CK3Z,2016,2027
+01CK4,Percutaneous Endoscopic,01CK,2016,2027
+01CK4Z,No Device,01CK4,2016,2027
+01CK4ZZ,"Extirpation of Matter from Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",01CK4Z,2016,2027
+01CL,Thoracic Sympathetic Nerve,01C,2016,2027
+01CL0,Open,01CL,2016,2027
+01CL0Z,No Device,01CL0,2016,2027
+01CL0ZZ,"Extirpation of Matter from Thoracic Sympathetic Nerve, Open Approach",01CL0Z,2016,2027
+01CL3,Percutaneous,01CL,2016,2027
+01CL3Z,No Device,01CL3,2016,2027
+01CL3ZZ,"Extirpation of Matter from Thoracic Sympathetic Nerve, Percutaneous Approach",01CL3Z,2016,2027
+01CL4,Percutaneous Endoscopic,01CL,2016,2027
+01CL4Z,No Device,01CL4,2016,2027
+01CL4ZZ,"Extirpation of Matter from Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",01CL4Z,2016,2027
+01CM,Abdominal Sympathetic Nerve,01C,2016,2027
+01CM0,Open,01CM,2016,2027
+01CM0Z,No Device,01CM0,2016,2027
+01CM0ZZ,"Extirpation of Matter from Abdominal Sympathetic Nerve, Open Approach",01CM0Z,2016,2027
+01CM3,Percutaneous,01CM,2016,2027
+01CM3Z,No Device,01CM3,2016,2027
+01CM3ZZ,"Extirpation of Matter from Abdominal Sympathetic Nerve, Percutaneous Approach",01CM3Z,2016,2027
+01CM4,Percutaneous Endoscopic,01CM,2016,2027
+01CM4Z,No Device,01CM4,2016,2027
+01CM4ZZ,"Extirpation of Matter from Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",01CM4Z,2016,2027
+01CN,Lumbar Sympathetic Nerve,01C,2016,2027
+01CN0,Open,01CN,2016,2027
+01CN0Z,No Device,01CN0,2016,2027
+01CN0ZZ,"Extirpation of Matter from Lumbar Sympathetic Nerve, Open Approach",01CN0Z,2016,2027
+01CN3,Percutaneous,01CN,2016,2027
+01CN3Z,No Device,01CN3,2016,2027
+01CN3ZZ,"Extirpation of Matter from Lumbar Sympathetic Nerve, Percutaneous Approach",01CN3Z,2016,2027
+01CN4,Percutaneous Endoscopic,01CN,2016,2027
+01CN4Z,No Device,01CN4,2016,2027
+01CN4ZZ,"Extirpation of Matter from Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",01CN4Z,2016,2027
+01CP,Sacral Sympathetic Nerve,01C,2016,2027
+01CP0,Open,01CP,2016,2027
+01CP0Z,No Device,01CP0,2016,2027
+01CP0ZZ,"Extirpation of Matter from Sacral Sympathetic Nerve, Open Approach",01CP0Z,2016,2027
+01CP3,Percutaneous,01CP,2016,2027
+01CP3Z,No Device,01CP3,2016,2027
+01CP3ZZ,"Extirpation of Matter from Sacral Sympathetic Nerve, Percutaneous Approach",01CP3Z,2016,2027
+01CP4,Percutaneous Endoscopic,01CP,2016,2027
+01CP4Z,No Device,01CP4,2016,2027
+01CP4ZZ,"Extirpation of Matter from Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",01CP4Z,2016,2027
+01CQ,Sacral Plexus,01C,2016,2027
+01CQ0,Open,01CQ,2016,2027
+01CQ0Z,No Device,01CQ0,2016,2027
+01CQ0ZZ,"Extirpation of Matter from Sacral Plexus, Open Approach",01CQ0Z,2016,2027
+01CQ3,Percutaneous,01CQ,2016,2027
+01CQ3Z,No Device,01CQ3,2016,2027
+01CQ3ZZ,"Extirpation of Matter from Sacral Plexus, Percutaneous Approach",01CQ3Z,2016,2027
+01CQ4,Percutaneous Endoscopic,01CQ,2016,2027
+01CQ4Z,No Device,01CQ4,2016,2027
+01CQ4ZZ,"Extirpation of Matter from Sacral Plexus, Percutaneous Endoscopic Approach",01CQ4Z,2016,2027
+01CR,Sacral Nerve,01C,2016,2027
+01CR0,Open,01CR,2016,2027
+01CR0Z,No Device,01CR0,2016,2027
+01CR0ZZ,"Extirpation of Matter from Sacral Nerve, Open Approach",01CR0Z,2016,2027
+01CR3,Percutaneous,01CR,2016,2027
+01CR3Z,No Device,01CR3,2016,2027
+01CR3ZZ,"Extirpation of Matter from Sacral Nerve, Percutaneous Approach",01CR3Z,2016,2027
+01CR4,Percutaneous Endoscopic,01CR,2016,2027
+01CR4Z,No Device,01CR4,2016,2027
+01CR4ZZ,"Extirpation of Matter from Sacral Nerve, Percutaneous Endoscopic Approach",01CR4Z,2016,2027
+01D,Extraction,01,2016,2027
+01D0,Cervical Plexus,01D,2016,2027
+01D00,Open,01D0,2016,2027
+01D00Z,No Device,01D00,2016,2027
+01D00ZZ,"Extraction of Cervical Plexus, Open Approach",01D00Z,2016,2027
+01D03,Percutaneous,01D0,2016,2027
+01D03Z,No Device,01D03,2016,2027
+01D03ZZ,"Extraction of Cervical Plexus, Percutaneous Approach",01D03Z,2016,2027
+01D04,Percutaneous Endoscopic,01D0,2016,2027
+01D04Z,No Device,01D04,2016,2027
+01D04ZZ,"Extraction of Cervical Plexus, Percutaneous Endoscopic Approach",01D04Z,2016,2027
+01D1,Cervical Nerve,01D,2016,2027
+01D10,Open,01D1,2016,2027
+01D10Z,No Device,01D10,2016,2027
+01D10ZZ,"Extraction of Cervical Nerve, Open Approach",01D10Z,2016,2027
+01D13,Percutaneous,01D1,2016,2027
+01D13Z,No Device,01D13,2016,2027
+01D13ZZ,"Extraction of Cervical Nerve, Percutaneous Approach",01D13Z,2016,2027
+01D14,Percutaneous Endoscopic,01D1,2016,2027
+01D14Z,No Device,01D14,2016,2027
+01D14ZZ,"Extraction of Cervical Nerve, Percutaneous Endoscopic Approach",01D14Z,2016,2027
+01D2,Phrenic Nerve,01D,2016,2027
+01D20,Open,01D2,2016,2027
+01D20Z,No Device,01D20,2016,2027
+01D20ZZ,"Extraction of Phrenic Nerve, Open Approach",01D20Z,2016,2027
+01D23,Percutaneous,01D2,2016,2027
+01D23Z,No Device,01D23,2016,2027
+01D23ZZ,"Extraction of Phrenic Nerve, Percutaneous Approach",01D23Z,2016,2027
+01D24,Percutaneous Endoscopic,01D2,2016,2027
+01D24Z,No Device,01D24,2016,2027
+01D24ZZ,"Extraction of Phrenic Nerve, Percutaneous Endoscopic Approach",01D24Z,2016,2027
+01D3,Brachial Plexus,01D,2016,2027
+01D30,Open,01D3,2016,2027
+01D30Z,No Device,01D30,2016,2027
+01D30ZZ,"Extraction of Brachial Plexus, Open Approach",01D30Z,2016,2027
+01D33,Percutaneous,01D3,2016,2027
+01D33Z,No Device,01D33,2016,2027
+01D33ZZ,"Extraction of Brachial Plexus, Percutaneous Approach",01D33Z,2016,2027
+01D34,Percutaneous Endoscopic,01D3,2016,2027
+01D34Z,No Device,01D34,2016,2027
+01D34ZZ,"Extraction of Brachial Plexus, Percutaneous Endoscopic Approach",01D34Z,2016,2027
+01D4,Ulnar Nerve,01D,2016,2027
+01D40,Open,01D4,2016,2027
+01D40Z,No Device,01D40,2016,2027
+01D40ZZ,"Extraction of Ulnar Nerve, Open Approach",01D40Z,2016,2027
+01D43,Percutaneous,01D4,2016,2027
+01D43Z,No Device,01D43,2016,2027
+01D43ZZ,"Extraction of Ulnar Nerve, Percutaneous Approach",01D43Z,2016,2027
+01D44,Percutaneous Endoscopic,01D4,2016,2027
+01D44Z,No Device,01D44,2016,2027
+01D44ZZ,"Extraction of Ulnar Nerve, Percutaneous Endoscopic Approach",01D44Z,2016,2027
+01D5,Median Nerve,01D,2016,2027
+01D50,Open,01D5,2016,2027
+01D50Z,No Device,01D50,2016,2027
+01D50ZZ,"Extraction of Median Nerve, Open Approach",01D50Z,2016,2027
+01D53,Percutaneous,01D5,2016,2027
+01D53Z,No Device,01D53,2016,2027
+01D53ZZ,"Extraction of Median Nerve, Percutaneous Approach",01D53Z,2016,2027
+01D54,Percutaneous Endoscopic,01D5,2016,2027
+01D54Z,No Device,01D54,2016,2027
+01D54ZZ,"Extraction of Median Nerve, Percutaneous Endoscopic Approach",01D54Z,2016,2027
+01D6,Radial Nerve,01D,2016,2027
+01D60,Open,01D6,2016,2027
+01D60Z,No Device,01D60,2016,2027
+01D60ZZ,"Extraction of Radial Nerve, Open Approach",01D60Z,2016,2027
+01D63,Percutaneous,01D6,2016,2027
+01D63Z,No Device,01D63,2016,2027
+01D63ZZ,"Extraction of Radial Nerve, Percutaneous Approach",01D63Z,2016,2027
+01D64,Percutaneous Endoscopic,01D6,2016,2027
+01D64Z,No Device,01D64,2016,2027
+01D64ZZ,"Extraction of Radial Nerve, Percutaneous Endoscopic Approach",01D64Z,2016,2027
+01D8,Thoracic Nerve,01D,2016,2027
+01D80,Open,01D8,2016,2027
+01D80Z,No Device,01D80,2016,2027
+01D80ZZ,"Extraction of Thoracic Nerve, Open Approach",01D80Z,2016,2027
+01D83,Percutaneous,01D8,2016,2027
+01D83Z,No Device,01D83,2016,2027
+01D83ZZ,"Extraction of Thoracic Nerve, Percutaneous Approach",01D83Z,2016,2027
+01D84,Percutaneous Endoscopic,01D8,2016,2027
+01D84Z,No Device,01D84,2016,2027
+01D84ZZ,"Extraction of Thoracic Nerve, Percutaneous Endoscopic Approach",01D84Z,2016,2027
+01D9,Lumbar Plexus,01D,2016,2027
+01D90,Open,01D9,2016,2027
+01D90Z,No Device,01D90,2016,2027
+01D90ZZ,"Extraction of Lumbar Plexus, Open Approach",01D90Z,2016,2027
+01D93,Percutaneous,01D9,2016,2027
+01D93Z,No Device,01D93,2016,2027
+01D93ZZ,"Extraction of Lumbar Plexus, Percutaneous Approach",01D93Z,2016,2027
+01D94,Percutaneous Endoscopic,01D9,2016,2027
+01D94Z,No Device,01D94,2016,2027
+01D94ZZ,"Extraction of Lumbar Plexus, Percutaneous Endoscopic Approach",01D94Z,2016,2027
+01DA,Lumbosacral Plexus,01D,2016,2027
+01DA0,Open,01DA,2016,2027
+01DA0Z,No Device,01DA0,2016,2027
+01DA0ZZ,"Extraction of Lumbosacral Plexus, Open Approach",01DA0Z,2016,2027
+01DA3,Percutaneous,01DA,2016,2027
+01DA3Z,No Device,01DA3,2016,2027
+01DA3ZZ,"Extraction of Lumbosacral Plexus, Percutaneous Approach",01DA3Z,2016,2027
+01DA4,Percutaneous Endoscopic,01DA,2016,2027
+01DA4Z,No Device,01DA4,2016,2027
+01DA4ZZ,"Extraction of Lumbosacral Plexus, Percutaneous Endoscopic Approach",01DA4Z,2016,2027
+01DB,Lumbar Nerve,01D,2016,2027
+01DB0,Open,01DB,2016,2027
+01DB0Z,No Device,01DB0,2016,2027
+01DB0ZZ,"Extraction of Lumbar Nerve, Open Approach",01DB0Z,2016,2027
+01DB3,Percutaneous,01DB,2016,2027
+01DB3Z,No Device,01DB3,2016,2027
+01DB3ZZ,"Extraction of Lumbar Nerve, Percutaneous Approach",01DB3Z,2016,2027
+01DB4,Percutaneous Endoscopic,01DB,2016,2027
+01DB4Z,No Device,01DB4,2016,2027
+01DB4ZZ,"Extraction of Lumbar Nerve, Percutaneous Endoscopic Approach",01DB4Z,2016,2027
+01DC,Pudendal Nerve,01D,2016,2027
+01DC0,Open,01DC,2016,2027
+01DC0Z,No Device,01DC0,2016,2027
+01DC0ZZ,"Extraction of Pudendal Nerve, Open Approach",01DC0Z,2016,2027
+01DC3,Percutaneous,01DC,2016,2027
+01DC3Z,No Device,01DC3,2016,2027
+01DC3ZZ,"Extraction of Pudendal Nerve, Percutaneous Approach",01DC3Z,2016,2027
+01DC4,Percutaneous Endoscopic,01DC,2016,2027
+01DC4Z,No Device,01DC4,2016,2027
+01DC4ZZ,"Extraction of Pudendal Nerve, Percutaneous Endoscopic Approach",01DC4Z,2016,2027
+01DD,Femoral Nerve,01D,2016,2027
+01DD0,Open,01DD,2016,2027
+01DD0Z,No Device,01DD0,2016,2027
+01DD0ZZ,"Extraction of Femoral Nerve, Open Approach",01DD0Z,2016,2027
+01DD3,Percutaneous,01DD,2016,2027
+01DD3Z,No Device,01DD3,2016,2027
+01DD3ZZ,"Extraction of Femoral Nerve, Percutaneous Approach",01DD3Z,2016,2027
+01DD4,Percutaneous Endoscopic,01DD,2016,2027
+01DD4Z,No Device,01DD4,2016,2027
+01DD4ZZ,"Extraction of Femoral Nerve, Percutaneous Endoscopic Approach",01DD4Z,2016,2027
+01DF,Sciatic Nerve,01D,2016,2027
+01DF0,Open,01DF,2016,2027
+01DF0Z,No Device,01DF0,2016,2027
+01DF0ZZ,"Extraction of Sciatic Nerve, Open Approach",01DF0Z,2016,2027
+01DF3,Percutaneous,01DF,2016,2027
+01DF3Z,No Device,01DF3,2016,2027
+01DF3ZZ,"Extraction of Sciatic Nerve, Percutaneous Approach",01DF3Z,2016,2027
+01DF4,Percutaneous Endoscopic,01DF,2016,2027
+01DF4Z,No Device,01DF4,2016,2027
+01DF4ZZ,"Extraction of Sciatic Nerve, Percutaneous Endoscopic Approach",01DF4Z,2016,2027
+01DG,Tibial Nerve,01D,2016,2027
+01DG0,Open,01DG,2016,2027
+01DG0Z,No Device,01DG0,2016,2027
+01DG0ZZ,"Extraction of Tibial Nerve, Open Approach",01DG0Z,2016,2027
+01DG3,Percutaneous,01DG,2016,2027
+01DG3Z,No Device,01DG3,2016,2027
+01DG3ZZ,"Extraction of Tibial Nerve, Percutaneous Approach",01DG3Z,2016,2027
+01DG4,Percutaneous Endoscopic,01DG,2016,2027
+01DG4Z,No Device,01DG4,2016,2027
+01DG4ZZ,"Extraction of Tibial Nerve, Percutaneous Endoscopic Approach",01DG4Z,2016,2027
+01DH,Peroneal Nerve,01D,2016,2027
+01DH0,Open,01DH,2016,2027
+01DH0Z,No Device,01DH0,2016,2027
+01DH0ZZ,"Extraction of Peroneal Nerve, Open Approach",01DH0Z,2016,2027
+01DH3,Percutaneous,01DH,2016,2027
+01DH3Z,No Device,01DH3,2016,2027
+01DH3ZZ,"Extraction of Peroneal Nerve, Percutaneous Approach",01DH3Z,2016,2027
+01DH4,Percutaneous Endoscopic,01DH,2016,2027
+01DH4Z,No Device,01DH4,2016,2027
+01DH4ZZ,"Extraction of Peroneal Nerve, Percutaneous Endoscopic Approach",01DH4Z,2016,2027
+01DK,Head and Neck Sympathetic Nerve,01D,2016,2027
+01DK0,Open,01DK,2016,2027
+01DK0Z,No Device,01DK0,2016,2027
+01DK0ZZ,"Extraction of Head and Neck Sympathetic Nerve, Open Approach",01DK0Z,2016,2027
+01DK3,Percutaneous,01DK,2016,2027
+01DK3Z,No Device,01DK3,2016,2027
+01DK3ZZ,"Extraction of Head and Neck Sympathetic Nerve, Percutaneous Approach",01DK3Z,2016,2027
+01DK4,Percutaneous Endoscopic,01DK,2016,2027
+01DK4Z,No Device,01DK4,2016,2027
+01DK4ZZ,"Extraction of Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",01DK4Z,2016,2027
+01DL,Thoracic Sympathetic Nerve,01D,2016,2027
+01DL0,Open,01DL,2016,2027
+01DL0Z,No Device,01DL0,2016,2027
+01DL0ZZ,"Extraction of Thoracic Sympathetic Nerve, Open Approach",01DL0Z,2016,2027
+01DL3,Percutaneous,01DL,2016,2027
+01DL3Z,No Device,01DL3,2016,2027
+01DL3ZZ,"Extraction of Thoracic Sympathetic Nerve, Percutaneous Approach",01DL3Z,2016,2027
+01DL4,Percutaneous Endoscopic,01DL,2016,2027
+01DL4Z,No Device,01DL4,2016,2027
+01DL4ZZ,"Extraction of Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",01DL4Z,2016,2027
+01DM,Abdominal Sympathetic Nerve,01D,2016,2027
+01DM0,Open,01DM,2016,2027
+01DM0Z,No Device,01DM0,2016,2027
+01DM0ZZ,"Extraction of Abdominal Sympathetic Nerve, Open Approach",01DM0Z,2016,2027
+01DM3,Percutaneous,01DM,2016,2027
+01DM3Z,No Device,01DM3,2016,2027
+01DM3ZZ,"Extraction of Abdominal Sympathetic Nerve, Percutaneous Approach",01DM3Z,2016,2027
+01DM4,Percutaneous Endoscopic,01DM,2016,2027
+01DM4Z,No Device,01DM4,2016,2027
+01DM4ZZ,"Extraction of Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",01DM4Z,2016,2027
+01DN,Lumbar Sympathetic Nerve,01D,2016,2027
+01DN0,Open,01DN,2016,2027
+01DN0Z,No Device,01DN0,2016,2027
+01DN0ZZ,"Extraction of Lumbar Sympathetic Nerve, Open Approach",01DN0Z,2016,2027
+01DN3,Percutaneous,01DN,2016,2027
+01DN3Z,No Device,01DN3,2016,2027
+01DN3ZZ,"Extraction of Lumbar Sympathetic Nerve, Percutaneous Approach",01DN3Z,2016,2027
+01DN4,Percutaneous Endoscopic,01DN,2016,2027
+01DN4Z,No Device,01DN4,2016,2027
+01DN4ZZ,"Extraction of Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",01DN4Z,2016,2027
+01DP,Sacral Sympathetic Nerve,01D,2016,2027
+01DP0,Open,01DP,2016,2027
+01DP0Z,No Device,01DP0,2016,2027
+01DP0ZZ,"Extraction of Sacral Sympathetic Nerve, Open Approach",01DP0Z,2016,2027
+01DP3,Percutaneous,01DP,2016,2027
+01DP3Z,No Device,01DP3,2016,2027
+01DP3ZZ,"Extraction of Sacral Sympathetic Nerve, Percutaneous Approach",01DP3Z,2016,2027
+01DP4,Percutaneous Endoscopic,01DP,2016,2027
+01DP4Z,No Device,01DP4,2016,2027
+01DP4ZZ,"Extraction of Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",01DP4Z,2016,2027
+01DQ,Sacral Plexus,01D,2016,2027
+01DQ0,Open,01DQ,2016,2027
+01DQ0Z,No Device,01DQ0,2016,2027
+01DQ0ZZ,"Extraction of Sacral Plexus, Open Approach",01DQ0Z,2016,2027
+01DQ3,Percutaneous,01DQ,2016,2027
+01DQ3Z,No Device,01DQ3,2016,2027
+01DQ3ZZ,"Extraction of Sacral Plexus, Percutaneous Approach",01DQ3Z,2016,2027
+01DQ4,Percutaneous Endoscopic,01DQ,2016,2027
+01DQ4Z,No Device,01DQ4,2016,2027
+01DQ4ZZ,"Extraction of Sacral Plexus, Percutaneous Endoscopic Approach",01DQ4Z,2016,2027
+01DR,Sacral Nerve,01D,2016,2027
+01DR0,Open,01DR,2016,2027
+01DR0Z,No Device,01DR0,2016,2027
+01DR0ZZ,"Extraction of Sacral Nerve, Open Approach",01DR0Z,2016,2027
+01DR3,Percutaneous,01DR,2016,2027
+01DR3Z,No Device,01DR3,2016,2027
+01DR3ZZ,"Extraction of Sacral Nerve, Percutaneous Approach",01DR3Z,2016,2027
+01DR4,Percutaneous Endoscopic,01DR,2016,2027
+01DR4Z,No Device,01DR4,2016,2027
+01DR4ZZ,"Extraction of Sacral Nerve, Percutaneous Endoscopic Approach",01DR4Z,2016,2027
+01H,Insertion,01,2016,2027
+01HY,Peripheral Nerve,01H,2016,2027
+01HY0,Open,01HY,2016,2027
+01HY01,Radioactive Element,01HY0,2021,2027
+01HY01Z,"Insertion of Radioactive Element into Peripheral Nerve, Open Approach",01HY01,2021,2027
+01HY02,Monitoring Device,01HY0,2016,2027
+01HY02Z,"Insertion of Monitoring Device into Peripheral Nerve, Open Approach",01HY02,2016,2027
+01HY0M,Neurostimulator Lead,01HY0,2016,2027
+01HY0MZ,"Insertion of Neurostimulator Lead into Peripheral Nerve, Open Approach",01HY0M,2016,2027
+01HY0Y,Other Device,01HY0,2018,2027
+01HY0YZ,"Insertion of Other Device into Peripheral Nerve, Open Approach",01HY0Y,2018,2027
+01HY3,Percutaneous,01HY,2016,2027
+01HY31,Radioactive Element,01HY3,2021,2027
+01HY31Z,"Insertion of Radioactive Element into Peripheral Nerve, Percutaneous Approach",01HY31,2021,2027
+01HY32,Monitoring Device,01HY3,2016,2027
+01HY32Z,"Insertion of Monitoring Device into Peripheral Nerve, Percutaneous Approach",01HY32,2016,2027
+01HY3M,Neurostimulator Lead,01HY3,2016,2027
+01HY3MZ,"Insertion of Neurostimulator Lead into Peripheral Nerve, Percutaneous Approach",01HY3M,2016,2027
+01HY3Y,Other Device,01HY3,2018,2027
+01HY3YZ,"Insertion of Other Device into Peripheral Nerve, Percutaneous Approach",01HY3Y,2018,2027
+01HY4,Percutaneous Endoscopic,01HY,2016,2027
+01HY41,Radioactive Element,01HY4,2021,2027
+01HY41Z,"Insertion of Radioactive Element into Peripheral Nerve, Percutaneous Endoscopic Approach",01HY41,2021,2027
+01HY42,Monitoring Device,01HY4,2016,2027
+01HY42Z,"Insertion of Monitoring Device into Peripheral Nerve, Percutaneous Endoscopic Approach",01HY42,2016,2027
+01HY4M,Neurostimulator Lead,01HY4,2016,2027
+01HY4MZ,"Insertion of Neurostimulator Lead into Peripheral Nerve, Percutaneous Endoscopic Approach",01HY4M,2016,2027
+01HY4Y,Other Device,01HY4,2018,2027
+01HY4YZ,"Insertion of Other Device into Peripheral Nerve, Percutaneous Endoscopic Approach",01HY4Y,2018,2027
+01J,Inspection,01,2016,2027
+01JY,Peripheral Nerve,01J,2016,2027
+01JY0,Open,01JY,2016,2027
+01JY0Z,No Device,01JY0,2016,2027
+01JY0ZZ,"Inspection of Peripheral Nerve, Open Approach",01JY0Z,2016,2027
+01JY3,Percutaneous,01JY,2016,2027
+01JY3Z,No Device,01JY3,2016,2027
+01JY3ZZ,"Inspection of Peripheral Nerve, Percutaneous Approach",01JY3Z,2016,2027
+01JY4,Percutaneous Endoscopic,01JY,2016,2027
+01JY4Z,No Device,01JY4,2016,2027
+01JY4ZZ,"Inspection of Peripheral Nerve, Percutaneous Endoscopic Approach",01JY4Z,2016,2027
+01N,Release,01,2016,2027
+01N0,Cervical Plexus,01N,2016,2027
+01N00,Open,01N0,2016,2027
+01N00Z,No Device,01N00,2016,2027
+01N00ZZ,"Release Cervical Plexus, Open Approach",01N00Z,2016,2027
+01N03,Percutaneous,01N0,2016,2027
+01N03Z,No Device,01N03,2016,2027
+01N03ZZ,"Release Cervical Plexus, Percutaneous Approach",01N03Z,2016,2027
+01N04,Percutaneous Endoscopic,01N0,2016,2027
+01N04Z,No Device,01N04,2016,2027
+01N04ZZ,"Release Cervical Plexus, Percutaneous Endoscopic Approach",01N04Z,2016,2027
+01N1,Cervical Nerve,01N,2016,2027
+01N10,Open,01N1,2016,2027
+01N10Z,No Device,01N10,2016,2027
+01N10ZZ,"Release Cervical Nerve, Open Approach",01N10Z,2016,2027
+01N13,Percutaneous,01N1,2016,2027
+01N13Z,No Device,01N13,2016,2027
+01N13ZZ,"Release Cervical Nerve, Percutaneous Approach",01N13Z,2016,2027
+01N14,Percutaneous Endoscopic,01N1,2016,2027
+01N14Z,No Device,01N14,2016,2027
+01N14ZZ,"Release Cervical Nerve, Percutaneous Endoscopic Approach",01N14Z,2016,2027
+01N2,Phrenic Nerve,01N,2016,2027
+01N20,Open,01N2,2016,2027
+01N20Z,No Device,01N20,2016,2027
+01N20ZZ,"Release Phrenic Nerve, Open Approach",01N20Z,2016,2027
+01N23,Percutaneous,01N2,2016,2027
+01N23Z,No Device,01N23,2016,2027
+01N23ZZ,"Release Phrenic Nerve, Percutaneous Approach",01N23Z,2016,2027
+01N24,Percutaneous Endoscopic,01N2,2016,2027
+01N24Z,No Device,01N24,2016,2027
+01N24ZZ,"Release Phrenic Nerve, Percutaneous Endoscopic Approach",01N24Z,2016,2027
+01N3,Brachial Plexus,01N,2016,2027
+01N30,Open,01N3,2016,2027
+01N30Z,No Device,01N30,2016,2027
+01N30ZZ,"Release Brachial Plexus, Open Approach",01N30Z,2016,2027
+01N33,Percutaneous,01N3,2016,2027
+01N33Z,No Device,01N33,2016,2027
+01N33ZZ,"Release Brachial Plexus, Percutaneous Approach",01N33Z,2016,2027
+01N34,Percutaneous Endoscopic,01N3,2016,2027
+01N34Z,No Device,01N34,2016,2027
+01N34ZZ,"Release Brachial Plexus, Percutaneous Endoscopic Approach",01N34Z,2016,2027
+01N4,Ulnar Nerve,01N,2016,2027
+01N40,Open,01N4,2016,2027
+01N40Z,No Device,01N40,2016,2027
+01N40ZZ,"Release Ulnar Nerve, Open Approach",01N40Z,2016,2027
+01N43,Percutaneous,01N4,2016,2027
+01N43Z,No Device,01N43,2016,2027
+01N43ZZ,"Release Ulnar Nerve, Percutaneous Approach",01N43Z,2016,2027
+01N44,Percutaneous Endoscopic,01N4,2016,2027
+01N44Z,No Device,01N44,2016,2027
+01N44ZZ,"Release Ulnar Nerve, Percutaneous Endoscopic Approach",01N44Z,2016,2027
+01N5,Median Nerve,01N,2016,2027
+01N50,Open,01N5,2016,2027
+01N50Z,No Device,01N50,2016,2027
+01N50ZZ,"Release Median Nerve, Open Approach",01N50Z,2016,2027
+01N53,Percutaneous,01N5,2016,2027
+01N53Z,No Device,01N53,2016,2027
+01N53ZZ,"Release Median Nerve, Percutaneous Approach",01N53Z,2016,2027
+01N54,Percutaneous Endoscopic,01N5,2016,2027
+01N54Z,No Device,01N54,2016,2027
+01N54ZZ,"Release Median Nerve, Percutaneous Endoscopic Approach",01N54Z,2016,2027
+01N6,Radial Nerve,01N,2016,2027
+01N60,Open,01N6,2016,2027
+01N60Z,No Device,01N60,2016,2027
+01N60ZZ,"Release Radial Nerve, Open Approach",01N60Z,2016,2027
+01N63,Percutaneous,01N6,2016,2027
+01N63Z,No Device,01N63,2016,2027
+01N63ZZ,"Release Radial Nerve, Percutaneous Approach",01N63Z,2016,2027
+01N64,Percutaneous Endoscopic,01N6,2016,2027
+01N64Z,No Device,01N64,2016,2027
+01N64ZZ,"Release Radial Nerve, Percutaneous Endoscopic Approach",01N64Z,2016,2027
+01N8,Thoracic Nerve,01N,2016,2027
+01N80,Open,01N8,2016,2027
+01N80Z,No Device,01N80,2016,2027
+01N80ZZ,"Release Thoracic Nerve, Open Approach",01N80Z,2016,2027
+01N83,Percutaneous,01N8,2016,2027
+01N83Z,No Device,01N83,2016,2027
+01N83ZZ,"Release Thoracic Nerve, Percutaneous Approach",01N83Z,2016,2027
+01N84,Percutaneous Endoscopic,01N8,2016,2027
+01N84Z,No Device,01N84,2016,2027
+01N84ZZ,"Release Thoracic Nerve, Percutaneous Endoscopic Approach",01N84Z,2016,2027
+01N9,Lumbar Plexus,01N,2016,2027
+01N90,Open,01N9,2016,2027
+01N90Z,No Device,01N90,2016,2027
+01N90ZZ,"Release Lumbar Plexus, Open Approach",01N90Z,2016,2027
+01N93,Percutaneous,01N9,2016,2027
+01N93Z,No Device,01N93,2016,2027
+01N93ZZ,"Release Lumbar Plexus, Percutaneous Approach",01N93Z,2016,2027
+01N94,Percutaneous Endoscopic,01N9,2016,2027
+01N94Z,No Device,01N94,2016,2027
+01N94ZZ,"Release Lumbar Plexus, Percutaneous Endoscopic Approach",01N94Z,2016,2027
+01NA,Lumbosacral Plexus,01N,2016,2027
+01NA0,Open,01NA,2016,2027
+01NA0Z,No Device,01NA0,2016,2027
+01NA0ZZ,"Release Lumbosacral Plexus, Open Approach",01NA0Z,2016,2027
+01NA3,Percutaneous,01NA,2016,2027
+01NA3Z,No Device,01NA3,2016,2027
+01NA3ZZ,"Release Lumbosacral Plexus, Percutaneous Approach",01NA3Z,2016,2027
+01NA4,Percutaneous Endoscopic,01NA,2016,2027
+01NA4Z,No Device,01NA4,2016,2027
+01NA4ZZ,"Release Lumbosacral Plexus, Percutaneous Endoscopic Approach",01NA4Z,2016,2027
+01NB,Lumbar Nerve,01N,2016,2027
+01NB0,Open,01NB,2016,2027
+01NB0Z,No Device,01NB0,2016,2027
+01NB0ZZ,"Release Lumbar Nerve, Open Approach",01NB0Z,2016,2027
+01NB3,Percutaneous,01NB,2016,2027
+01NB3Z,No Device,01NB3,2016,2027
+01NB3ZZ,"Release Lumbar Nerve, Percutaneous Approach",01NB3Z,2016,2027
+01NB4,Percutaneous Endoscopic,01NB,2016,2027
+01NB4Z,No Device,01NB4,2016,2027
+01NB4ZZ,"Release Lumbar Nerve, Percutaneous Endoscopic Approach",01NB4Z,2016,2027
+01NC,Pudendal Nerve,01N,2016,2027
+01NC0,Open,01NC,2016,2027
+01NC0Z,No Device,01NC0,2016,2027
+01NC0ZZ,"Release Pudendal Nerve, Open Approach",01NC0Z,2016,2027
+01NC3,Percutaneous,01NC,2016,2027
+01NC3Z,No Device,01NC3,2016,2027
+01NC3ZZ,"Release Pudendal Nerve, Percutaneous Approach",01NC3Z,2016,2027
+01NC4,Percutaneous Endoscopic,01NC,2016,2027
+01NC4Z,No Device,01NC4,2016,2027
+01NC4ZZ,"Release Pudendal Nerve, Percutaneous Endoscopic Approach",01NC4Z,2016,2027
+01ND,Femoral Nerve,01N,2016,2027
+01ND0,Open,01ND,2016,2027
+01ND0Z,No Device,01ND0,2016,2027
+01ND0ZZ,"Release Femoral Nerve, Open Approach",01ND0Z,2016,2027
+01ND3,Percutaneous,01ND,2016,2027
+01ND3Z,No Device,01ND3,2016,2027
+01ND3ZZ,"Release Femoral Nerve, Percutaneous Approach",01ND3Z,2016,2027
+01ND4,Percutaneous Endoscopic,01ND,2016,2027
+01ND4Z,No Device,01ND4,2016,2027
+01ND4ZZ,"Release Femoral Nerve, Percutaneous Endoscopic Approach",01ND4Z,2016,2027
+01NF,Sciatic Nerve,01N,2016,2027
+01NF0,Open,01NF,2016,2027
+01NF0Z,No Device,01NF0,2016,2027
+01NF0ZZ,"Release Sciatic Nerve, Open Approach",01NF0Z,2016,2027
+01NF3,Percutaneous,01NF,2016,2027
+01NF3Z,No Device,01NF3,2016,2027
+01NF3ZZ,"Release Sciatic Nerve, Percutaneous Approach",01NF3Z,2016,2027
+01NF4,Percutaneous Endoscopic,01NF,2016,2027
+01NF4Z,No Device,01NF4,2016,2027
+01NF4ZZ,"Release Sciatic Nerve, Percutaneous Endoscopic Approach",01NF4Z,2016,2027
+01NG,Tibial Nerve,01N,2016,2027
+01NG0,Open,01NG,2016,2027
+01NG0Z,No Device,01NG0,2016,2027
+01NG0ZZ,"Release Tibial Nerve, Open Approach",01NG0Z,2016,2027
+01NG3,Percutaneous,01NG,2016,2027
+01NG3Z,No Device,01NG3,2016,2027
+01NG3ZZ,"Release Tibial Nerve, Percutaneous Approach",01NG3Z,2016,2027
+01NG4,Percutaneous Endoscopic,01NG,2016,2027
+01NG4Z,No Device,01NG4,2016,2027
+01NG4ZZ,"Release Tibial Nerve, Percutaneous Endoscopic Approach",01NG4Z,2016,2027
+01NH,Peroneal Nerve,01N,2016,2027
+01NH0,Open,01NH,2016,2027
+01NH0Z,No Device,01NH0,2016,2027
+01NH0ZZ,"Release Peroneal Nerve, Open Approach",01NH0Z,2016,2027
+01NH3,Percutaneous,01NH,2016,2027
+01NH3Z,No Device,01NH3,2016,2027
+01NH3ZZ,"Release Peroneal Nerve, Percutaneous Approach",01NH3Z,2016,2027
+01NH4,Percutaneous Endoscopic,01NH,2016,2027
+01NH4Z,No Device,01NH4,2016,2027
+01NH4ZZ,"Release Peroneal Nerve, Percutaneous Endoscopic Approach",01NH4Z,2016,2027
+01NK,Head and Neck Sympathetic Nerve,01N,2016,2027
+01NK0,Open,01NK,2016,2027
+01NK0Z,No Device,01NK0,2016,2027
+01NK0ZZ,"Release Head and Neck Sympathetic Nerve, Open Approach",01NK0Z,2016,2027
+01NK3,Percutaneous,01NK,2016,2027
+01NK3Z,No Device,01NK3,2016,2027
+01NK3ZZ,"Release Head and Neck Sympathetic Nerve, Percutaneous Approach",01NK3Z,2016,2027
+01NK4,Percutaneous Endoscopic,01NK,2016,2027
+01NK4Z,No Device,01NK4,2016,2027
+01NK4ZZ,"Release Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",01NK4Z,2016,2027
+01NL,Thoracic Sympathetic Nerve,01N,2016,2027
+01NL0,Open,01NL,2016,2027
+01NL0Z,No Device,01NL0,2016,2027
+01NL0ZZ,"Release Thoracic Sympathetic Nerve, Open Approach",01NL0Z,2016,2027
+01NL3,Percutaneous,01NL,2016,2027
+01NL3Z,No Device,01NL3,2016,2027
+01NL3ZZ,"Release Thoracic Sympathetic Nerve, Percutaneous Approach",01NL3Z,2016,2027
+01NL4,Percutaneous Endoscopic,01NL,2016,2027
+01NL4Z,No Device,01NL4,2016,2027
+01NL4ZZ,"Release Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",01NL4Z,2016,2027
+01NM,Abdominal Sympathetic Nerve,01N,2016,2027
+01NM0,Open,01NM,2016,2027
+01NM0Z,No Device,01NM0,2016,2027
+01NM0ZZ,"Release Abdominal Sympathetic Nerve, Open Approach",01NM0Z,2016,2027
+01NM3,Percutaneous,01NM,2016,2027
+01NM3Z,No Device,01NM3,2016,2027
+01NM3ZZ,"Release Abdominal Sympathetic Nerve, Percutaneous Approach",01NM3Z,2016,2027
+01NM4,Percutaneous Endoscopic,01NM,2016,2027
+01NM4Z,No Device,01NM4,2016,2027
+01NM4ZZ,"Release Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",01NM4Z,2016,2027
+01NN,Lumbar Sympathetic Nerve,01N,2016,2027
+01NN0,Open,01NN,2016,2027
+01NN0Z,No Device,01NN0,2016,2027
+01NN0ZZ,"Release Lumbar Sympathetic Nerve, Open Approach",01NN0Z,2016,2027
+01NN3,Percutaneous,01NN,2016,2027
+01NN3Z,No Device,01NN3,2016,2027
+01NN3ZZ,"Release Lumbar Sympathetic Nerve, Percutaneous Approach",01NN3Z,2016,2027
+01NN4,Percutaneous Endoscopic,01NN,2016,2027
+01NN4Z,No Device,01NN4,2016,2027
+01NN4ZZ,"Release Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",01NN4Z,2016,2027
+01NP,Sacral Sympathetic Nerve,01N,2016,2027
+01NP0,Open,01NP,2016,2027
+01NP0Z,No Device,01NP0,2016,2027
+01NP0ZZ,"Release Sacral Sympathetic Nerve, Open Approach",01NP0Z,2016,2027
+01NP3,Percutaneous,01NP,2016,2027
+01NP3Z,No Device,01NP3,2016,2027
+01NP3ZZ,"Release Sacral Sympathetic Nerve, Percutaneous Approach",01NP3Z,2016,2027
+01NP4,Percutaneous Endoscopic,01NP,2016,2027
+01NP4Z,No Device,01NP4,2016,2027
+01NP4ZZ,"Release Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",01NP4Z,2016,2027
+01NQ,Sacral Plexus,01N,2016,2027
+01NQ0,Open,01NQ,2016,2027
+01NQ0Z,No Device,01NQ0,2016,2027
+01NQ0ZZ,"Release Sacral Plexus, Open Approach",01NQ0Z,2016,2027
+01NQ3,Percutaneous,01NQ,2016,2027
+01NQ3Z,No Device,01NQ3,2016,2027
+01NQ3ZZ,"Release Sacral Plexus, Percutaneous Approach",01NQ3Z,2016,2027
+01NQ4,Percutaneous Endoscopic,01NQ,2016,2027
+01NQ4Z,No Device,01NQ4,2016,2027
+01NQ4ZZ,"Release Sacral Plexus, Percutaneous Endoscopic Approach",01NQ4Z,2016,2027
+01NR,Sacral Nerve,01N,2016,2027
+01NR0,Open,01NR,2016,2027
+01NR0Z,No Device,01NR0,2016,2027
+01NR0ZZ,"Release Sacral Nerve, Open Approach",01NR0Z,2016,2027
+01NR3,Percutaneous,01NR,2016,2027
+01NR3Z,No Device,01NR3,2016,2027
+01NR3ZZ,"Release Sacral Nerve, Percutaneous Approach",01NR3Z,2016,2027
+01NR4,Percutaneous Endoscopic,01NR,2016,2027
+01NR4Z,No Device,01NR4,2016,2027
+01NR4ZZ,"Release Sacral Nerve, Percutaneous Endoscopic Approach",01NR4Z,2016,2027
+01P,Removal,01,2016,2027
+01PY,Peripheral Nerve,01P,2016,2027
+01PY0,Open,01PY,2016,2027
+01PY00,Drainage Device,01PY0,2016,2027
+01PY00Z,"Removal of Drainage Device from Peripheral Nerve, Open Approach",01PY00,2016,2027
+01PY02,Monitoring Device,01PY0,2016,2027
+01PY02Z,"Removal of Monitoring Device from Peripheral Nerve, Open Approach",01PY02,2016,2027
+01PY07,Autologous Tissue Substitute,01PY0,2016,2027
+01PY07Z,"Removal of Autologous Tissue Substitute from Peripheral Nerve, Open Approach",01PY07,2016,2027
+01PY0M,Neurostimulator Lead,01PY0,2016,2027
+01PY0MZ,"Removal of Neurostimulator Lead from Peripheral Nerve, Open Approach",01PY0M,2016,2027
+01PY0Y,Other Device,01PY0,2018,2027
+01PY0YZ,"Removal of Other Device from Peripheral Nerve, Open Approach",01PY0Y,2018,2027
+01PY3,Percutaneous,01PY,2016,2027
+01PY30,Drainage Device,01PY3,2016,2027
+01PY30Z,"Removal of Drainage Device from Peripheral Nerve, Percutaneous Approach",01PY30,2016,2027
+01PY32,Monitoring Device,01PY3,2016,2027
+01PY32Z,"Removal of Monitoring Device from Peripheral Nerve, Percutaneous Approach",01PY32,2016,2027
+01PY37,Autologous Tissue Substitute,01PY3,2016,2027
+01PY37Z,"Removal of Autologous Tissue Substitute from Peripheral Nerve, Percutaneous Approach",01PY37,2016,2027
+01PY3M,Neurostimulator Lead,01PY3,2016,2027
+01PY3MZ,"Removal of Neurostimulator Lead from Peripheral Nerve, Percutaneous Approach",01PY3M,2016,2027
+01PY3Y,Other Device,01PY3,2018,2027
+01PY3YZ,"Removal of Other Device from Peripheral Nerve, Percutaneous Approach",01PY3Y,2018,2027
+01PY4,Percutaneous Endoscopic,01PY,2016,2027
+01PY40,Drainage Device,01PY4,2016,2027
+01PY40Z,"Removal of Drainage Device from Peripheral Nerve, Percutaneous Endoscopic Approach",01PY40,2016,2027
+01PY42,Monitoring Device,01PY4,2016,2027
+01PY42Z,"Removal of Monitoring Device from Peripheral Nerve, Percutaneous Endoscopic Approach",01PY42,2016,2027
+01PY47,Autologous Tissue Substitute,01PY4,2016,2027
+01PY47Z,"Removal of Autologous Tissue Substitute from Peripheral Nerve, Percutaneous Endoscopic Approach",01PY47,2016,2027
+01PY4M,Neurostimulator Lead,01PY4,2016,2027
+01PY4MZ,"Removal of Neurostimulator Lead from Peripheral Nerve, Percutaneous Endoscopic Approach",01PY4M,2016,2027
+01PY4Y,Other Device,01PY4,2018,2027
+01PY4YZ,"Removal of Other Device from Peripheral Nerve, Percutaneous Endoscopic Approach",01PY4Y,2018,2027
+01PYX,External,01PY,2016,2027
+01PYX0,Drainage Device,01PYX,2016,2027
+01PYX0Z,"Removal of Drainage Device from Peripheral Nerve, External Approach",01PYX0,2016,2027
+01PYX2,Monitoring Device,01PYX,2016,2027
+01PYX2Z,"Removal of Monitoring Device from Peripheral Nerve, External Approach",01PYX2,2016,2027
+01PYXM,Neurostimulator Lead,01PYX,2016,2027
+01PYXMZ,"Removal of Neurostimulator Lead from Peripheral Nerve, External Approach",01PYXM,2016,2027
+01Q,Repair,01,2016,2027
+01Q0,Cervical Plexus,01Q,2016,2027
+01Q00,Open,01Q0,2016,2027
+01Q00Z,No Device,01Q00,2016,2027
+01Q00ZZ,"Repair Cervical Plexus, Open Approach",01Q00Z,2016,2027
+01Q03,Percutaneous,01Q0,2016,2027
+01Q03Z,No Device,01Q03,2016,2027
+01Q03ZZ,"Repair Cervical Plexus, Percutaneous Approach",01Q03Z,2016,2027
+01Q04,Percutaneous Endoscopic,01Q0,2016,2027
+01Q04Z,No Device,01Q04,2016,2027
+01Q04ZZ,"Repair Cervical Plexus, Percutaneous Endoscopic Approach",01Q04Z,2016,2027
+01Q1,Cervical Nerve,01Q,2016,2027
+01Q10,Open,01Q1,2016,2027
+01Q10Z,No Device,01Q10,2016,2027
+01Q10ZZ,"Repair Cervical Nerve, Open Approach",01Q10Z,2016,2027
+01Q13,Percutaneous,01Q1,2016,2027
+01Q13Z,No Device,01Q13,2016,2027
+01Q13ZZ,"Repair Cervical Nerve, Percutaneous Approach",01Q13Z,2016,2027
+01Q14,Percutaneous Endoscopic,01Q1,2016,2027
+01Q14Z,No Device,01Q14,2016,2027
+01Q14ZZ,"Repair Cervical Nerve, Percutaneous Endoscopic Approach",01Q14Z,2016,2027
+01Q2,Phrenic Nerve,01Q,2016,2027
+01Q20,Open,01Q2,2016,2027
+01Q20Z,No Device,01Q20,2016,2027
+01Q20ZZ,"Repair Phrenic Nerve, Open Approach",01Q20Z,2016,2027
+01Q23,Percutaneous,01Q2,2016,2027
+01Q23Z,No Device,01Q23,2016,2027
+01Q23ZZ,"Repair Phrenic Nerve, Percutaneous Approach",01Q23Z,2016,2027
+01Q24,Percutaneous Endoscopic,01Q2,2016,2027
+01Q24Z,No Device,01Q24,2016,2027
+01Q24ZZ,"Repair Phrenic Nerve, Percutaneous Endoscopic Approach",01Q24Z,2016,2027
+01Q3,Brachial Plexus,01Q,2016,2027
+01Q30,Open,01Q3,2016,2027
+01Q30Z,No Device,01Q30,2016,2027
+01Q30ZZ,"Repair Brachial Plexus, Open Approach",01Q30Z,2016,2027
+01Q33,Percutaneous,01Q3,2016,2027
+01Q33Z,No Device,01Q33,2016,2027
+01Q33ZZ,"Repair Brachial Plexus, Percutaneous Approach",01Q33Z,2016,2027
+01Q34,Percutaneous Endoscopic,01Q3,2016,2027
+01Q34Z,No Device,01Q34,2016,2027
+01Q34ZZ,"Repair Brachial Plexus, Percutaneous Endoscopic Approach",01Q34Z,2016,2027
+01Q4,Ulnar Nerve,01Q,2016,2027
+01Q40,Open,01Q4,2016,2027
+01Q40Z,No Device,01Q40,2016,2027
+01Q40ZZ,"Repair Ulnar Nerve, Open Approach",01Q40Z,2016,2027
+01Q43,Percutaneous,01Q4,2016,2027
+01Q43Z,No Device,01Q43,2016,2027
+01Q43ZZ,"Repair Ulnar Nerve, Percutaneous Approach",01Q43Z,2016,2027
+01Q44,Percutaneous Endoscopic,01Q4,2016,2027
+01Q44Z,No Device,01Q44,2016,2027
+01Q44ZZ,"Repair Ulnar Nerve, Percutaneous Endoscopic Approach",01Q44Z,2016,2027
+01Q5,Median Nerve,01Q,2016,2027
+01Q50,Open,01Q5,2016,2027
+01Q50Z,No Device,01Q50,2016,2027
+01Q50ZZ,"Repair Median Nerve, Open Approach",01Q50Z,2016,2027
+01Q53,Percutaneous,01Q5,2016,2027
+01Q53Z,No Device,01Q53,2016,2027
+01Q53ZZ,"Repair Median Nerve, Percutaneous Approach",01Q53Z,2016,2027
+01Q54,Percutaneous Endoscopic,01Q5,2016,2027
+01Q54Z,No Device,01Q54,2016,2027
+01Q54ZZ,"Repair Median Nerve, Percutaneous Endoscopic Approach",01Q54Z,2016,2027
+01Q6,Radial Nerve,01Q,2016,2027
+01Q60,Open,01Q6,2016,2027
+01Q60Z,No Device,01Q60,2016,2027
+01Q60ZZ,"Repair Radial Nerve, Open Approach",01Q60Z,2016,2027
+01Q63,Percutaneous,01Q6,2016,2027
+01Q63Z,No Device,01Q63,2016,2027
+01Q63ZZ,"Repair Radial Nerve, Percutaneous Approach",01Q63Z,2016,2027
+01Q64,Percutaneous Endoscopic,01Q6,2016,2027
+01Q64Z,No Device,01Q64,2016,2027
+01Q64ZZ,"Repair Radial Nerve, Percutaneous Endoscopic Approach",01Q64Z,2016,2027
+01Q8,Thoracic Nerve,01Q,2016,2027
+01Q80,Open,01Q8,2016,2027
+01Q80Z,No Device,01Q80,2016,2027
+01Q80ZZ,"Repair Thoracic Nerve, Open Approach",01Q80Z,2016,2027
+01Q83,Percutaneous,01Q8,2016,2027
+01Q83Z,No Device,01Q83,2016,2027
+01Q83ZZ,"Repair Thoracic Nerve, Percutaneous Approach",01Q83Z,2016,2027
+01Q84,Percutaneous Endoscopic,01Q8,2016,2027
+01Q84Z,No Device,01Q84,2016,2027
+01Q84ZZ,"Repair Thoracic Nerve, Percutaneous Endoscopic Approach",01Q84Z,2016,2027
+01Q9,Lumbar Plexus,01Q,2016,2027
+01Q90,Open,01Q9,2016,2027
+01Q90Z,No Device,01Q90,2016,2027
+01Q90ZZ,"Repair Lumbar Plexus, Open Approach",01Q90Z,2016,2027
+01Q93,Percutaneous,01Q9,2016,2027
+01Q93Z,No Device,01Q93,2016,2027
+01Q93ZZ,"Repair Lumbar Plexus, Percutaneous Approach",01Q93Z,2016,2027
+01Q94,Percutaneous Endoscopic,01Q9,2016,2027
+01Q94Z,No Device,01Q94,2016,2027
+01Q94ZZ,"Repair Lumbar Plexus, Percutaneous Endoscopic Approach",01Q94Z,2016,2027
+01QA,Lumbosacral Plexus,01Q,2016,2027
+01QA0,Open,01QA,2016,2027
+01QA0Z,No Device,01QA0,2016,2027
+01QA0ZZ,"Repair Lumbosacral Plexus, Open Approach",01QA0Z,2016,2027
+01QA3,Percutaneous,01QA,2016,2027
+01QA3Z,No Device,01QA3,2016,2027
+01QA3ZZ,"Repair Lumbosacral Plexus, Percutaneous Approach",01QA3Z,2016,2027
+01QA4,Percutaneous Endoscopic,01QA,2016,2027
+01QA4Z,No Device,01QA4,2016,2027
+01QA4ZZ,"Repair Lumbosacral Plexus, Percutaneous Endoscopic Approach",01QA4Z,2016,2027
+01QB,Lumbar Nerve,01Q,2016,2027
+01QB0,Open,01QB,2016,2027
+01QB0Z,No Device,01QB0,2016,2027
+01QB0ZZ,"Repair Lumbar Nerve, Open Approach",01QB0Z,2016,2027
+01QB3,Percutaneous,01QB,2016,2027
+01QB3Z,No Device,01QB3,2016,2027
+01QB3ZZ,"Repair Lumbar Nerve, Percutaneous Approach",01QB3Z,2016,2027
+01QB4,Percutaneous Endoscopic,01QB,2016,2027
+01QB4Z,No Device,01QB4,2016,2027
+01QB4ZZ,"Repair Lumbar Nerve, Percutaneous Endoscopic Approach",01QB4Z,2016,2027
+01QC,Pudendal Nerve,01Q,2016,2027
+01QC0,Open,01QC,2016,2027
+01QC0Z,No Device,01QC0,2016,2027
+01QC0ZZ,"Repair Pudendal Nerve, Open Approach",01QC0Z,2016,2027
+01QC3,Percutaneous,01QC,2016,2027
+01QC3Z,No Device,01QC3,2016,2027
+01QC3ZZ,"Repair Pudendal Nerve, Percutaneous Approach",01QC3Z,2016,2027
+01QC4,Percutaneous Endoscopic,01QC,2016,2027
+01QC4Z,No Device,01QC4,2016,2027
+01QC4ZZ,"Repair Pudendal Nerve, Percutaneous Endoscopic Approach",01QC4Z,2016,2027
+01QD,Femoral Nerve,01Q,2016,2027
+01QD0,Open,01QD,2016,2027
+01QD0Z,No Device,01QD0,2016,2027
+01QD0ZZ,"Repair Femoral Nerve, Open Approach",01QD0Z,2016,2027
+01QD3,Percutaneous,01QD,2016,2027
+01QD3Z,No Device,01QD3,2016,2027
+01QD3ZZ,"Repair Femoral Nerve, Percutaneous Approach",01QD3Z,2016,2027
+01QD4,Percutaneous Endoscopic,01QD,2016,2027
+01QD4Z,No Device,01QD4,2016,2027
+01QD4ZZ,"Repair Femoral Nerve, Percutaneous Endoscopic Approach",01QD4Z,2016,2027
+01QF,Sciatic Nerve,01Q,2016,2027
+01QF0,Open,01QF,2016,2027
+01QF0Z,No Device,01QF0,2016,2027
+01QF0ZZ,"Repair Sciatic Nerve, Open Approach",01QF0Z,2016,2027
+01QF3,Percutaneous,01QF,2016,2027
+01QF3Z,No Device,01QF3,2016,2027
+01QF3ZZ,"Repair Sciatic Nerve, Percutaneous Approach",01QF3Z,2016,2027
+01QF4,Percutaneous Endoscopic,01QF,2016,2027
+01QF4Z,No Device,01QF4,2016,2027
+01QF4ZZ,"Repair Sciatic Nerve, Percutaneous Endoscopic Approach",01QF4Z,2016,2027
+01QG,Tibial Nerve,01Q,2016,2027
+01QG0,Open,01QG,2016,2027
+01QG0Z,No Device,01QG0,2016,2027
+01QG0ZZ,"Repair Tibial Nerve, Open Approach",01QG0Z,2016,2027
+01QG3,Percutaneous,01QG,2016,2027
+01QG3Z,No Device,01QG3,2016,2027
+01QG3ZZ,"Repair Tibial Nerve, Percutaneous Approach",01QG3Z,2016,2027
+01QG4,Percutaneous Endoscopic,01QG,2016,2027
+01QG4Z,No Device,01QG4,2016,2027
+01QG4ZZ,"Repair Tibial Nerve, Percutaneous Endoscopic Approach",01QG4Z,2016,2027
+01QH,Peroneal Nerve,01Q,2016,2027
+01QH0,Open,01QH,2016,2027
+01QH0Z,No Device,01QH0,2016,2027
+01QH0ZZ,"Repair Peroneal Nerve, Open Approach",01QH0Z,2016,2027
+01QH3,Percutaneous,01QH,2016,2027
+01QH3Z,No Device,01QH3,2016,2027
+01QH3ZZ,"Repair Peroneal Nerve, Percutaneous Approach",01QH3Z,2016,2027
+01QH4,Percutaneous Endoscopic,01QH,2016,2027
+01QH4Z,No Device,01QH4,2016,2027
+01QH4ZZ,"Repair Peroneal Nerve, Percutaneous Endoscopic Approach",01QH4Z,2016,2027
+01QK,Head and Neck Sympathetic Nerve,01Q,2016,2027
+01QK0,Open,01QK,2016,2027
+01QK0Z,No Device,01QK0,2016,2027
+01QK0ZZ,"Repair Head and Neck Sympathetic Nerve, Open Approach",01QK0Z,2016,2027
+01QK3,Percutaneous,01QK,2016,2027
+01QK3Z,No Device,01QK3,2016,2027
+01QK3ZZ,"Repair Head and Neck Sympathetic Nerve, Percutaneous Approach",01QK3Z,2016,2027
+01QK4,Percutaneous Endoscopic,01QK,2016,2027
+01QK4Z,No Device,01QK4,2016,2027
+01QK4ZZ,"Repair Head and Neck Sympathetic Nerve, Percutaneous Endoscopic Approach",01QK4Z,2016,2027
+01QL,Thoracic Sympathetic Nerve,01Q,2016,2027
+01QL0,Open,01QL,2016,2027
+01QL0Z,No Device,01QL0,2016,2027
+01QL0ZZ,"Repair Thoracic Sympathetic Nerve, Open Approach",01QL0Z,2016,2027
+01QL3,Percutaneous,01QL,2016,2027
+01QL3Z,No Device,01QL3,2016,2027
+01QL3ZZ,"Repair Thoracic Sympathetic Nerve, Percutaneous Approach",01QL3Z,2016,2027
+01QL4,Percutaneous Endoscopic,01QL,2016,2027
+01QL4Z,No Device,01QL4,2016,2027
+01QL4ZZ,"Repair Thoracic Sympathetic Nerve, Percutaneous Endoscopic Approach",01QL4Z,2016,2027
+01QM,Abdominal Sympathetic Nerve,01Q,2016,2027
+01QM0,Open,01QM,2016,2027
+01QM0Z,No Device,01QM0,2016,2027
+01QM0ZZ,"Repair Abdominal Sympathetic Nerve, Open Approach",01QM0Z,2016,2027
+01QM3,Percutaneous,01QM,2016,2027
+01QM3Z,No Device,01QM3,2016,2027
+01QM3ZZ,"Repair Abdominal Sympathetic Nerve, Percutaneous Approach",01QM3Z,2016,2027
+01QM4,Percutaneous Endoscopic,01QM,2016,2027
+01QM4Z,No Device,01QM4,2016,2027
+01QM4ZZ,"Repair Abdominal Sympathetic Nerve, Percutaneous Endoscopic Approach",01QM4Z,2016,2027
+01QN,Lumbar Sympathetic Nerve,01Q,2016,2027
+01QN0,Open,01QN,2016,2027
+01QN0Z,No Device,01QN0,2016,2027
+01QN0ZZ,"Repair Lumbar Sympathetic Nerve, Open Approach",01QN0Z,2016,2027
+01QN3,Percutaneous,01QN,2016,2027
+01QN3Z,No Device,01QN3,2016,2027
+01QN3ZZ,"Repair Lumbar Sympathetic Nerve, Percutaneous Approach",01QN3Z,2016,2027
+01QN4,Percutaneous Endoscopic,01QN,2016,2027
+01QN4Z,No Device,01QN4,2016,2027
+01QN4ZZ,"Repair Lumbar Sympathetic Nerve, Percutaneous Endoscopic Approach",01QN4Z,2016,2027
+01QP,Sacral Sympathetic Nerve,01Q,2016,2027
+01QP0,Open,01QP,2016,2027
+01QP0Z,No Device,01QP0,2016,2027
+01QP0ZZ,"Repair Sacral Sympathetic Nerve, Open Approach",01QP0Z,2016,2027
+01QP3,Percutaneous,01QP,2016,2027
+01QP3Z,No Device,01QP3,2016,2027
+01QP3ZZ,"Repair Sacral Sympathetic Nerve, Percutaneous Approach",01QP3Z,2016,2027
+01QP4,Percutaneous Endoscopic,01QP,2016,2027
+01QP4Z,No Device,01QP4,2016,2027
+01QP4ZZ,"Repair Sacral Sympathetic Nerve, Percutaneous Endoscopic Approach",01QP4Z,2016,2027
+01QQ,Sacral Plexus,01Q,2016,2027
+01QQ0,Open,01QQ,2016,2027
+01QQ0Z,No Device,01QQ0,2016,2027
+01QQ0ZZ,"Repair Sacral Plexus, Open Approach",01QQ0Z,2016,2027
+01QQ3,Percutaneous,01QQ,2016,2027
+01QQ3Z,No Device,01QQ3,2016,2027
+01QQ3ZZ,"Repair Sacral Plexus, Percutaneous Approach",01QQ3Z,2016,2027
+01QQ4,Percutaneous Endoscopic,01QQ,2016,2027
+01QQ4Z,No Device,01QQ4,2016,2027
+01QQ4ZZ,"Repair Sacral Plexus, Percutaneous Endoscopic Approach",01QQ4Z,2016,2027
+01QR,Sacral Nerve,01Q,2016,2027
+01QR0,Open,01QR,2016,2027
+01QR0Z,No Device,01QR0,2016,2027
+01QR0ZZ,"Repair Sacral Nerve, Open Approach",01QR0Z,2016,2027
+01QR3,Percutaneous,01QR,2016,2027
+01QR3Z,No Device,01QR3,2016,2027
+01QR3ZZ,"Repair Sacral Nerve, Percutaneous Approach",01QR3Z,2016,2027
+01QR4,Percutaneous Endoscopic,01QR,2016,2027
+01QR4Z,No Device,01QR4,2016,2027
+01QR4ZZ,"Repair Sacral Nerve, Percutaneous Endoscopic Approach",01QR4Z,2016,2027
+01R,Replacement,01,2018,2027
+01R1,Cervical Nerve,01R,2018,2027
+01R10,Open,01R1,2018,2027
+01R107,Autologous Tissue Substitute,01R10,2018,2027
+01R107Z,"Replacement of Cervical Nerve with Autologous Tissue Substitute, Open Approach",01R107,2018,2027
+01R10J,Synthetic Substitute,01R10,2018,2027
+01R10JZ,"Replacement of Cervical Nerve with Synthetic Substitute, Open Approach",01R10J,2018,2027
+01R10K,Nonautologous Tissue Substitute,01R10,2018,2027
+01R10KZ,"Replacement of Cervical Nerve with Nonautologous Tissue Substitute, Open Approach",01R10K,2018,2027
+01R14,Percutaneous Endoscopic,01R1,2018,2027
+01R147,Autologous Tissue Substitute,01R14,2018,2027
+01R147Z,"Replacement of Cervical Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01R147,2018,2027
+01R14J,Synthetic Substitute,01R14,2018,2027
+01R14JZ,"Replacement of Cervical Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01R14J,2018,2027
+01R14K,Nonautologous Tissue Substitute,01R14,2018,2027
+01R14KZ,"Replacement of Cervical Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01R14K,2018,2027
+01R2,Phrenic Nerve,01R,2018,2027
+01R20,Open,01R2,2018,2027
+01R207,Autologous Tissue Substitute,01R20,2018,2027
+01R207Z,"Replacement of Phrenic Nerve with Autologous Tissue Substitute, Open Approach",01R207,2018,2027
+01R20J,Synthetic Substitute,01R20,2018,2027
+01R20JZ,"Replacement of Phrenic Nerve with Synthetic Substitute, Open Approach",01R20J,2018,2027
+01R20K,Nonautologous Tissue Substitute,01R20,2018,2027
+01R20KZ,"Replacement of Phrenic Nerve with Nonautologous Tissue Substitute, Open Approach",01R20K,2018,2027
+01R24,Percutaneous Endoscopic,01R2,2018,2027
+01R247,Autologous Tissue Substitute,01R24,2018,2027
+01R247Z,"Replacement of Phrenic Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01R247,2018,2027
+01R24J,Synthetic Substitute,01R24,2018,2027
+01R24JZ,"Replacement of Phrenic Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01R24J,2018,2027
+01R24K,Nonautologous Tissue Substitute,01R24,2018,2027
+01R24KZ,"Replacement of Phrenic Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01R24K,2018,2027
+01R4,Ulnar Nerve,01R,2018,2027
+01R40,Open,01R4,2018,2027
+01R407,Autologous Tissue Substitute,01R40,2018,2027
+01R407Z,"Replacement of Ulnar Nerve with Autologous Tissue Substitute, Open Approach",01R407,2018,2027
+01R40J,Synthetic Substitute,01R40,2018,2027
+01R40JZ,"Replacement of Ulnar Nerve with Synthetic Substitute, Open Approach",01R40J,2018,2027
+01R40K,Nonautologous Tissue Substitute,01R40,2018,2027
+01R40KZ,"Replacement of Ulnar Nerve with Nonautologous Tissue Substitute, Open Approach",01R40K,2018,2027
+01R44,Percutaneous Endoscopic,01R4,2018,2027
+01R447,Autologous Tissue Substitute,01R44,2018,2027
+01R447Z,"Replacement of Ulnar Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01R447,2018,2027
+01R44J,Synthetic Substitute,01R44,2018,2027
+01R44JZ,"Replacement of Ulnar Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01R44J,2018,2027
+01R44K,Nonautologous Tissue Substitute,01R44,2018,2027
+01R44KZ,"Replacement of Ulnar Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01R44K,2018,2027
+01R5,Median Nerve,01R,2018,2027
+01R50,Open,01R5,2018,2027
+01R507,Autologous Tissue Substitute,01R50,2018,2027
+01R507Z,"Replacement of Median Nerve with Autologous Tissue Substitute, Open Approach",01R507,2018,2027
+01R50J,Synthetic Substitute,01R50,2018,2027
+01R50JZ,"Replacement of Median Nerve with Synthetic Substitute, Open Approach",01R50J,2018,2027
+01R50K,Nonautologous Tissue Substitute,01R50,2018,2027
+01R50KZ,"Replacement of Median Nerve with Nonautologous Tissue Substitute, Open Approach",01R50K,2018,2027
+01R54,Percutaneous Endoscopic,01R5,2018,2027
+01R547,Autologous Tissue Substitute,01R54,2018,2027
+01R547Z,"Replacement of Median Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01R547,2018,2027
+01R54J,Synthetic Substitute,01R54,2018,2027
+01R54JZ,"Replacement of Median Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01R54J,2018,2027
+01R54K,Nonautologous Tissue Substitute,01R54,2018,2027
+01R54KZ,"Replacement of Median Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01R54K,2018,2027
+01R6,Radial Nerve,01R,2018,2027
+01R60,Open,01R6,2018,2027
+01R607,Autologous Tissue Substitute,01R60,2018,2027
+01R607Z,"Replacement of Radial Nerve with Autologous Tissue Substitute, Open Approach",01R607,2018,2027
+01R60J,Synthetic Substitute,01R60,2018,2027
+01R60JZ,"Replacement of Radial Nerve with Synthetic Substitute, Open Approach",01R60J,2018,2027
+01R60K,Nonautologous Tissue Substitute,01R60,2018,2027
+01R60KZ,"Replacement of Radial Nerve with Nonautologous Tissue Substitute, Open Approach",01R60K,2018,2027
+01R64,Percutaneous Endoscopic,01R6,2018,2027
+01R647,Autologous Tissue Substitute,01R64,2018,2027
+01R647Z,"Replacement of Radial Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01R647,2018,2027
+01R64J,Synthetic Substitute,01R64,2018,2027
+01R64JZ,"Replacement of Radial Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01R64J,2018,2027
+01R64K,Nonautologous Tissue Substitute,01R64,2018,2027
+01R64KZ,"Replacement of Radial Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01R64K,2018,2027
+01R8,Thoracic Nerve,01R,2018,2027
+01R80,Open,01R8,2018,2027
+01R807,Autologous Tissue Substitute,01R80,2018,2027
+01R807Z,"Replacement of Thoracic Nerve with Autologous Tissue Substitute, Open Approach",01R807,2018,2027
+01R80J,Synthetic Substitute,01R80,2018,2027
+01R80JZ,"Replacement of Thoracic Nerve with Synthetic Substitute, Open Approach",01R80J,2018,2027
+01R80K,Nonautologous Tissue Substitute,01R80,2018,2027
+01R80KZ,"Replacement of Thoracic Nerve with Nonautologous Tissue Substitute, Open Approach",01R80K,2018,2027
+01R84,Percutaneous Endoscopic,01R8,2018,2027
+01R847,Autologous Tissue Substitute,01R84,2018,2027
+01R847Z,"Replacement of Thoracic Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01R847,2018,2027
+01R84J,Synthetic Substitute,01R84,2018,2027
+01R84JZ,"Replacement of Thoracic Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01R84J,2018,2027
+01R84K,Nonautologous Tissue Substitute,01R84,2018,2027
+01R84KZ,"Replacement of Thoracic Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01R84K,2018,2027
+01RB,Lumbar Nerve,01R,2018,2027
+01RB0,Open,01RB,2018,2027
+01RB07,Autologous Tissue Substitute,01RB0,2018,2027
+01RB07Z,"Replacement of Lumbar Nerve with Autologous Tissue Substitute, Open Approach",01RB07,2018,2027
+01RB0J,Synthetic Substitute,01RB0,2018,2027
+01RB0JZ,"Replacement of Lumbar Nerve with Synthetic Substitute, Open Approach",01RB0J,2018,2027
+01RB0K,Nonautologous Tissue Substitute,01RB0,2018,2027
+01RB0KZ,"Replacement of Lumbar Nerve with Nonautologous Tissue Substitute, Open Approach",01RB0K,2018,2027
+01RB4,Percutaneous Endoscopic,01RB,2018,2027
+01RB47,Autologous Tissue Substitute,01RB4,2018,2027
+01RB47Z,"Replacement of Lumbar Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RB47,2018,2027
+01RB4J,Synthetic Substitute,01RB4,2018,2027
+01RB4JZ,"Replacement of Lumbar Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RB4J,2018,2027
+01RB4K,Nonautologous Tissue Substitute,01RB4,2018,2027
+01RB4KZ,"Replacement of Lumbar Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RB4K,2018,2027
+01RC,Pudendal Nerve,01R,2018,2027
+01RC0,Open,01RC,2018,2027
+01RC07,Autologous Tissue Substitute,01RC0,2018,2027
+01RC07Z,"Replacement of Pudendal Nerve with Autologous Tissue Substitute, Open Approach",01RC07,2018,2027
+01RC0J,Synthetic Substitute,01RC0,2018,2027
+01RC0JZ,"Replacement of Pudendal Nerve with Synthetic Substitute, Open Approach",01RC0J,2018,2027
+01RC0K,Nonautologous Tissue Substitute,01RC0,2018,2027
+01RC0KZ,"Replacement of Pudendal Nerve with Nonautologous Tissue Substitute, Open Approach",01RC0K,2018,2027
+01RC4,Percutaneous Endoscopic,01RC,2018,2027
+01RC47,Autologous Tissue Substitute,01RC4,2018,2027
+01RC47Z,"Replacement of Pudendal Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RC47,2018,2027
+01RC4J,Synthetic Substitute,01RC4,2018,2027
+01RC4JZ,"Replacement of Pudendal Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RC4J,2018,2027
+01RC4K,Nonautologous Tissue Substitute,01RC4,2018,2027
+01RC4KZ,"Replacement of Pudendal Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RC4K,2018,2027
+01RD,Femoral Nerve,01R,2018,2027
+01RD0,Open,01RD,2018,2027
+01RD07,Autologous Tissue Substitute,01RD0,2018,2027
+01RD07Z,"Replacement of Femoral Nerve with Autologous Tissue Substitute, Open Approach",01RD07,2018,2027
+01RD0J,Synthetic Substitute,01RD0,2018,2027
+01RD0JZ,"Replacement of Femoral Nerve with Synthetic Substitute, Open Approach",01RD0J,2018,2027
+01RD0K,Nonautologous Tissue Substitute,01RD0,2018,2027
+01RD0KZ,"Replacement of Femoral Nerve with Nonautologous Tissue Substitute, Open Approach",01RD0K,2018,2027
+01RD4,Percutaneous Endoscopic,01RD,2018,2027
+01RD47,Autologous Tissue Substitute,01RD4,2018,2027
+01RD47Z,"Replacement of Femoral Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RD47,2018,2027
+01RD4J,Synthetic Substitute,01RD4,2018,2027
+01RD4JZ,"Replacement of Femoral Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RD4J,2018,2027
+01RD4K,Nonautologous Tissue Substitute,01RD4,2018,2027
+01RD4KZ,"Replacement of Femoral Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RD4K,2018,2027
+01RF,Sciatic Nerve,01R,2018,2027
+01RF0,Open,01RF,2018,2027
+01RF07,Autologous Tissue Substitute,01RF0,2018,2027
+01RF07Z,"Replacement of Sciatic Nerve with Autologous Tissue Substitute, Open Approach",01RF07,2018,2027
+01RF0J,Synthetic Substitute,01RF0,2018,2027
+01RF0JZ,"Replacement of Sciatic Nerve with Synthetic Substitute, Open Approach",01RF0J,2018,2027
+01RF0K,Nonautologous Tissue Substitute,01RF0,2018,2027
+01RF0KZ,"Replacement of Sciatic Nerve with Nonautologous Tissue Substitute, Open Approach",01RF0K,2018,2027
+01RF4,Percutaneous Endoscopic,01RF,2018,2027
+01RF47,Autologous Tissue Substitute,01RF4,2018,2027
+01RF47Z,"Replacement of Sciatic Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RF47,2018,2027
+01RF4J,Synthetic Substitute,01RF4,2018,2027
+01RF4JZ,"Replacement of Sciatic Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RF4J,2018,2027
+01RF4K,Nonautologous Tissue Substitute,01RF4,2018,2027
+01RF4KZ,"Replacement of Sciatic Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RF4K,2018,2027
+01RG,Tibial Nerve,01R,2018,2027
+01RG0,Open,01RG,2018,2027
+01RG07,Autologous Tissue Substitute,01RG0,2018,2027
+01RG07Z,"Replacement of Tibial Nerve with Autologous Tissue Substitute, Open Approach",01RG07,2018,2027
+01RG0J,Synthetic Substitute,01RG0,2018,2027
+01RG0JZ,"Replacement of Tibial Nerve with Synthetic Substitute, Open Approach",01RG0J,2018,2027
+01RG0K,Nonautologous Tissue Substitute,01RG0,2018,2027
+01RG0KZ,"Replacement of Tibial Nerve with Nonautologous Tissue Substitute, Open Approach",01RG0K,2018,2027
+01RG4,Percutaneous Endoscopic,01RG,2018,2027
+01RG47,Autologous Tissue Substitute,01RG4,2018,2027
+01RG47Z,"Replacement of Tibial Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RG47,2018,2027
+01RG4J,Synthetic Substitute,01RG4,2018,2027
+01RG4JZ,"Replacement of Tibial Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RG4J,2018,2027
+01RG4K,Nonautologous Tissue Substitute,01RG4,2018,2027
+01RG4KZ,"Replacement of Tibial Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RG4K,2018,2027
+01RH,Peroneal Nerve,01R,2018,2027
+01RH0,Open,01RH,2018,2027
+01RH07,Autologous Tissue Substitute,01RH0,2018,2027
+01RH07Z,"Replacement of Peroneal Nerve with Autologous Tissue Substitute, Open Approach",01RH07,2018,2027
+01RH0J,Synthetic Substitute,01RH0,2018,2027
+01RH0JZ,"Replacement of Peroneal Nerve with Synthetic Substitute, Open Approach",01RH0J,2018,2027
+01RH0K,Nonautologous Tissue Substitute,01RH0,2018,2027
+01RH0KZ,"Replacement of Peroneal Nerve with Nonautologous Tissue Substitute, Open Approach",01RH0K,2018,2027
+01RH4,Percutaneous Endoscopic,01RH,2018,2027
+01RH47,Autologous Tissue Substitute,01RH4,2018,2027
+01RH47Z,"Replacement of Peroneal Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RH47,2018,2027
+01RH4J,Synthetic Substitute,01RH4,2018,2027
+01RH4JZ,"Replacement of Peroneal Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RH4J,2018,2027
+01RH4K,Nonautologous Tissue Substitute,01RH4,2018,2027
+01RH4KZ,"Replacement of Peroneal Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RH4K,2018,2027
+01RR,Sacral Nerve,01R,2018,2027
+01RR0,Open,01RR,2018,2027
+01RR07,Autologous Tissue Substitute,01RR0,2018,2027
+01RR07Z,"Replacement of Sacral Nerve with Autologous Tissue Substitute, Open Approach",01RR07,2018,2027
+01RR0J,Synthetic Substitute,01RR0,2018,2027
+01RR0JZ,"Replacement of Sacral Nerve with Synthetic Substitute, Open Approach",01RR0J,2018,2027
+01RR0K,Nonautologous Tissue Substitute,01RR0,2018,2027
+01RR0KZ,"Replacement of Sacral Nerve with Nonautologous Tissue Substitute, Open Approach",01RR0K,2018,2027
+01RR4,Percutaneous Endoscopic,01RR,2018,2027
+01RR47,Autologous Tissue Substitute,01RR4,2018,2027
+01RR47Z,"Replacement of Sacral Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01RR47,2018,2027
+01RR4J,Synthetic Substitute,01RR4,2018,2027
+01RR4JZ,"Replacement of Sacral Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01RR4J,2018,2027
+01RR4K,Nonautologous Tissue Substitute,01RR4,2018,2027
+01RR4KZ,"Replacement of Sacral Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01RR4K,2018,2027
+01S,Reposition,01,2016,2027
+01S0,Cervical Plexus,01S,2016,2027
+01S00,Open,01S0,2016,2027
+01S00Z,No Device,01S00,2016,2027
+01S00ZZ,"Reposition Cervical Plexus, Open Approach",01S00Z,2016,2027
+01S03,Percutaneous,01S0,2016,2027
+01S03Z,No Device,01S03,2016,2027
+01S03ZZ,"Reposition Cervical Plexus, Percutaneous Approach",01S03Z,2016,2027
+01S04,Percutaneous Endoscopic,01S0,2016,2027
+01S04Z,No Device,01S04,2016,2027
+01S04ZZ,"Reposition Cervical Plexus, Percutaneous Endoscopic Approach",01S04Z,2016,2027
+01S1,Cervical Nerve,01S,2016,2027
+01S10,Open,01S1,2016,2027
+01S10Z,No Device,01S10,2016,2027
+01S10ZZ,"Reposition Cervical Nerve, Open Approach",01S10Z,2016,2027
+01S13,Percutaneous,01S1,2016,2027
+01S13Z,No Device,01S13,2016,2027
+01S13ZZ,"Reposition Cervical Nerve, Percutaneous Approach",01S13Z,2016,2027
+01S14,Percutaneous Endoscopic,01S1,2016,2027
+01S14Z,No Device,01S14,2016,2027
+01S14ZZ,"Reposition Cervical Nerve, Percutaneous Endoscopic Approach",01S14Z,2016,2027
+01S2,Phrenic Nerve,01S,2016,2027
+01S20,Open,01S2,2016,2027
+01S20Z,No Device,01S20,2016,2027
+01S20ZZ,"Reposition Phrenic Nerve, Open Approach",01S20Z,2016,2027
+01S23,Percutaneous,01S2,2016,2027
+01S23Z,No Device,01S23,2016,2027
+01S23ZZ,"Reposition Phrenic Nerve, Percutaneous Approach",01S23Z,2016,2027
+01S24,Percutaneous Endoscopic,01S2,2016,2027
+01S24Z,No Device,01S24,2016,2027
+01S24ZZ,"Reposition Phrenic Nerve, Percutaneous Endoscopic Approach",01S24Z,2016,2027
+01S3,Brachial Plexus,01S,2016,2027
+01S30,Open,01S3,2016,2027
+01S30Z,No Device,01S30,2016,2027
+01S30ZZ,"Reposition Brachial Plexus, Open Approach",01S30Z,2016,2027
+01S33,Percutaneous,01S3,2016,2027
+01S33Z,No Device,01S33,2016,2027
+01S33ZZ,"Reposition Brachial Plexus, Percutaneous Approach",01S33Z,2016,2027
+01S34,Percutaneous Endoscopic,01S3,2016,2027
+01S34Z,No Device,01S34,2016,2027
+01S34ZZ,"Reposition Brachial Plexus, Percutaneous Endoscopic Approach",01S34Z,2016,2027
+01S4,Ulnar Nerve,01S,2016,2027
+01S40,Open,01S4,2016,2027
+01S40Z,No Device,01S40,2016,2027
+01S40ZZ,"Reposition Ulnar Nerve, Open Approach",01S40Z,2016,2027
+01S43,Percutaneous,01S4,2016,2027
+01S43Z,No Device,01S43,2016,2027
+01S43ZZ,"Reposition Ulnar Nerve, Percutaneous Approach",01S43Z,2016,2027
+01S44,Percutaneous Endoscopic,01S4,2016,2027
+01S44Z,No Device,01S44,2016,2027
+01S44ZZ,"Reposition Ulnar Nerve, Percutaneous Endoscopic Approach",01S44Z,2016,2027
+01S5,Median Nerve,01S,2016,2027
+01S50,Open,01S5,2016,2027
+01S50Z,No Device,01S50,2016,2027
+01S50ZZ,"Reposition Median Nerve, Open Approach",01S50Z,2016,2027
+01S53,Percutaneous,01S5,2016,2027
+01S53Z,No Device,01S53,2016,2027
+01S53ZZ,"Reposition Median Nerve, Percutaneous Approach",01S53Z,2016,2027
+01S54,Percutaneous Endoscopic,01S5,2016,2027
+01S54Z,No Device,01S54,2016,2027
+01S54ZZ,"Reposition Median Nerve, Percutaneous Endoscopic Approach",01S54Z,2016,2027
+01S6,Radial Nerve,01S,2016,2027
+01S60,Open,01S6,2016,2027
+01S60Z,No Device,01S60,2016,2027
+01S60ZZ,"Reposition Radial Nerve, Open Approach",01S60Z,2016,2027
+01S63,Percutaneous,01S6,2016,2027
+01S63Z,No Device,01S63,2016,2027
+01S63ZZ,"Reposition Radial Nerve, Percutaneous Approach",01S63Z,2016,2027
+01S64,Percutaneous Endoscopic,01S6,2016,2027
+01S64Z,No Device,01S64,2016,2027
+01S64ZZ,"Reposition Radial Nerve, Percutaneous Endoscopic Approach",01S64Z,2016,2027
+01S8,Thoracic Nerve,01S,2016,2027
+01S80,Open,01S8,2016,2027
+01S80Z,No Device,01S80,2016,2027
+01S80ZZ,"Reposition Thoracic Nerve, Open Approach",01S80Z,2016,2027
+01S83,Percutaneous,01S8,2016,2027
+01S83Z,No Device,01S83,2016,2027
+01S83ZZ,"Reposition Thoracic Nerve, Percutaneous Approach",01S83Z,2016,2027
+01S84,Percutaneous Endoscopic,01S8,2016,2027
+01S84Z,No Device,01S84,2016,2027
+01S84ZZ,"Reposition Thoracic Nerve, Percutaneous Endoscopic Approach",01S84Z,2016,2027
+01S9,Lumbar Plexus,01S,2016,2027
+01S90,Open,01S9,2016,2027
+01S90Z,No Device,01S90,2016,2027
+01S90ZZ,"Reposition Lumbar Plexus, Open Approach",01S90Z,2016,2027
+01S93,Percutaneous,01S9,2016,2027
+01S93Z,No Device,01S93,2016,2027
+01S93ZZ,"Reposition Lumbar Plexus, Percutaneous Approach",01S93Z,2016,2027
+01S94,Percutaneous Endoscopic,01S9,2016,2027
+01S94Z,No Device,01S94,2016,2027
+01S94ZZ,"Reposition Lumbar Plexus, Percutaneous Endoscopic Approach",01S94Z,2016,2027
+01SA,Lumbosacral Plexus,01S,2016,2027
+01SA0,Open,01SA,2016,2027
+01SA0Z,No Device,01SA0,2016,2027
+01SA0ZZ,"Reposition Lumbosacral Plexus, Open Approach",01SA0Z,2016,2027
+01SA3,Percutaneous,01SA,2016,2027
+01SA3Z,No Device,01SA3,2016,2027
+01SA3ZZ,"Reposition Lumbosacral Plexus, Percutaneous Approach",01SA3Z,2016,2027
+01SA4,Percutaneous Endoscopic,01SA,2016,2027
+01SA4Z,No Device,01SA4,2016,2027
+01SA4ZZ,"Reposition Lumbosacral Plexus, Percutaneous Endoscopic Approach",01SA4Z,2016,2027
+01SB,Lumbar Nerve,01S,2016,2027
+01SB0,Open,01SB,2016,2027
+01SB0Z,No Device,01SB0,2016,2027
+01SB0ZZ,"Reposition Lumbar Nerve, Open Approach",01SB0Z,2016,2027
+01SB3,Percutaneous,01SB,2016,2027
+01SB3Z,No Device,01SB3,2016,2027
+01SB3ZZ,"Reposition Lumbar Nerve, Percutaneous Approach",01SB3Z,2016,2027
+01SB4,Percutaneous Endoscopic,01SB,2016,2027
+01SB4Z,No Device,01SB4,2016,2027
+01SB4ZZ,"Reposition Lumbar Nerve, Percutaneous Endoscopic Approach",01SB4Z,2016,2027
+01SC,Pudendal Nerve,01S,2016,2027
+01SC0,Open,01SC,2016,2027
+01SC0Z,No Device,01SC0,2016,2027
+01SC0ZZ,"Reposition Pudendal Nerve, Open Approach",01SC0Z,2016,2027
+01SC3,Percutaneous,01SC,2016,2027
+01SC3Z,No Device,01SC3,2016,2027
+01SC3ZZ,"Reposition Pudendal Nerve, Percutaneous Approach",01SC3Z,2016,2027
+01SC4,Percutaneous Endoscopic,01SC,2016,2027
+01SC4Z,No Device,01SC4,2016,2027
+01SC4ZZ,"Reposition Pudendal Nerve, Percutaneous Endoscopic Approach",01SC4Z,2016,2027
+01SD,Femoral Nerve,01S,2016,2027
+01SD0,Open,01SD,2016,2027
+01SD0Z,No Device,01SD0,2016,2027
+01SD0ZZ,"Reposition Femoral Nerve, Open Approach",01SD0Z,2016,2027
+01SD3,Percutaneous,01SD,2016,2027
+01SD3Z,No Device,01SD3,2016,2027
+01SD3ZZ,"Reposition Femoral Nerve, Percutaneous Approach",01SD3Z,2016,2027
+01SD4,Percutaneous Endoscopic,01SD,2016,2027
+01SD4Z,No Device,01SD4,2016,2027
+01SD4ZZ,"Reposition Femoral Nerve, Percutaneous Endoscopic Approach",01SD4Z,2016,2027
+01SF,Sciatic Nerve,01S,2016,2027
+01SF0,Open,01SF,2016,2027
+01SF0Z,No Device,01SF0,2016,2027
+01SF0ZZ,"Reposition Sciatic Nerve, Open Approach",01SF0Z,2016,2027
+01SF3,Percutaneous,01SF,2016,2027
+01SF3Z,No Device,01SF3,2016,2027
+01SF3ZZ,"Reposition Sciatic Nerve, Percutaneous Approach",01SF3Z,2016,2027
+01SF4,Percutaneous Endoscopic,01SF,2016,2027
+01SF4Z,No Device,01SF4,2016,2027
+01SF4ZZ,"Reposition Sciatic Nerve, Percutaneous Endoscopic Approach",01SF4Z,2016,2027
+01SG,Tibial Nerve,01S,2016,2027
+01SG0,Open,01SG,2016,2027
+01SG0Z,No Device,01SG0,2016,2027
+01SG0ZZ,"Reposition Tibial Nerve, Open Approach",01SG0Z,2016,2027
+01SG3,Percutaneous,01SG,2016,2027
+01SG3Z,No Device,01SG3,2016,2027
+01SG3ZZ,"Reposition Tibial Nerve, Percutaneous Approach",01SG3Z,2016,2027
+01SG4,Percutaneous Endoscopic,01SG,2016,2027
+01SG4Z,No Device,01SG4,2016,2027
+01SG4ZZ,"Reposition Tibial Nerve, Percutaneous Endoscopic Approach",01SG4Z,2016,2027
+01SH,Peroneal Nerve,01S,2016,2027
+01SH0,Open,01SH,2016,2027
+01SH0Z,No Device,01SH0,2016,2027
+01SH0ZZ,"Reposition Peroneal Nerve, Open Approach",01SH0Z,2016,2027
+01SH3,Percutaneous,01SH,2016,2027
+01SH3Z,No Device,01SH3,2016,2027
+01SH3ZZ,"Reposition Peroneal Nerve, Percutaneous Approach",01SH3Z,2016,2027
+01SH4,Percutaneous Endoscopic,01SH,2016,2027
+01SH4Z,No Device,01SH4,2016,2027
+01SH4ZZ,"Reposition Peroneal Nerve, Percutaneous Endoscopic Approach",01SH4Z,2016,2027
+01SQ,Sacral Plexus,01S,2016,2027
+01SQ0,Open,01SQ,2016,2027
+01SQ0Z,No Device,01SQ0,2016,2027
+01SQ0ZZ,"Reposition Sacral Plexus, Open Approach",01SQ0Z,2016,2027
+01SQ3,Percutaneous,01SQ,2016,2027
+01SQ3Z,No Device,01SQ3,2016,2027
+01SQ3ZZ,"Reposition Sacral Plexus, Percutaneous Approach",01SQ3Z,2016,2027
+01SQ4,Percutaneous Endoscopic,01SQ,2016,2027
+01SQ4Z,No Device,01SQ4,2016,2027
+01SQ4ZZ,"Reposition Sacral Plexus, Percutaneous Endoscopic Approach",01SQ4Z,2016,2027
+01SR,Sacral Nerve,01S,2016,2027
+01SR0,Open,01SR,2016,2027
+01SR0Z,No Device,01SR0,2016,2027
+01SR0ZZ,"Reposition Sacral Nerve, Open Approach",01SR0Z,2016,2027
+01SR3,Percutaneous,01SR,2016,2027
+01SR3Z,No Device,01SR3,2016,2027
+01SR3ZZ,"Reposition Sacral Nerve, Percutaneous Approach",01SR3Z,2016,2027
+01SR4,Percutaneous Endoscopic,01SR,2016,2027
+01SR4Z,No Device,01SR4,2016,2027
+01SR4ZZ,"Reposition Sacral Nerve, Percutaneous Endoscopic Approach",01SR4Z,2016,2027
+01U,Supplement,01,2016,2027
+01U1,Cervical Nerve,01U,2016,2027
+01U10,Open,01U1,2016,2027
+01U107,Autologous Tissue Substitute,01U10,2016,2027
+01U107Z,"Supplement Cervical Nerve with Autologous Tissue Substitute, Open Approach",01U107,2016,2027
+01U10J,Synthetic Substitute,01U10,2018,2027
+01U10JZ,"Supplement Cervical Nerve with Synthetic Substitute, Open Approach",01U10J,2018,2027
+01U10K,Nonautologous Tissue Substitute,01U10,2018,2027
+01U10KZ,"Supplement Cervical Nerve with Nonautologous Tissue Substitute, Open Approach",01U10K,2018,2027
+01U13,Percutaneous,01U1,2016,2027
+01U137,Autologous Tissue Substitute,01U13,2016,2027
+01U137Z,"Supplement Cervical Nerve with Autologous Tissue Substitute, Percutaneous Approach",01U137,2016,2027
+01U13J,Synthetic Substitute,01U13,2018,2027
+01U13JZ,"Supplement Cervical Nerve with Synthetic Substitute, Percutaneous Approach",01U13J,2018,2027
+01U13K,Nonautologous Tissue Substitute,01U13,2018,2027
+01U13KZ,"Supplement Cervical Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01U13K,2018,2027
+01U14,Percutaneous Endoscopic,01U1,2016,2027
+01U147,Autologous Tissue Substitute,01U14,2016,2027
+01U147Z,"Supplement Cervical Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01U147,2016,2027
+01U14J,Synthetic Substitute,01U14,2018,2027
+01U14JZ,"Supplement Cervical Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01U14J,2018,2027
+01U14K,Nonautologous Tissue Substitute,01U14,2018,2027
+01U14KZ,"Supplement Cervical Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01U14K,2018,2027
+01U2,Phrenic Nerve,01U,2016,2027
+01U20,Open,01U2,2016,2027
+01U207,Autologous Tissue Substitute,01U20,2016,2027
+01U207Z,"Supplement Phrenic Nerve with Autologous Tissue Substitute, Open Approach",01U207,2016,2027
+01U20J,Synthetic Substitute,01U20,2018,2027
+01U20JZ,"Supplement Phrenic Nerve with Synthetic Substitute, Open Approach",01U20J,2018,2027
+01U20K,Nonautologous Tissue Substitute,01U20,2018,2027
+01U20KZ,"Supplement Phrenic Nerve with Nonautologous Tissue Substitute, Open Approach",01U20K,2018,2027
+01U23,Percutaneous,01U2,2016,2027
+01U237,Autologous Tissue Substitute,01U23,2016,2027
+01U237Z,"Supplement Phrenic Nerve with Autologous Tissue Substitute, Percutaneous Approach",01U237,2016,2027
+01U23J,Synthetic Substitute,01U23,2018,2027
+01U23JZ,"Supplement Phrenic Nerve with Synthetic Substitute, Percutaneous Approach",01U23J,2018,2027
+01U23K,Nonautologous Tissue Substitute,01U23,2018,2027
+01U23KZ,"Supplement Phrenic Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01U23K,2018,2027
+01U24,Percutaneous Endoscopic,01U2,2016,2027
+01U247,Autologous Tissue Substitute,01U24,2016,2027
+01U247Z,"Supplement Phrenic Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01U247,2016,2027
+01U24J,Synthetic Substitute,01U24,2018,2027
+01U24JZ,"Supplement Phrenic Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01U24J,2018,2027
+01U24K,Nonautologous Tissue Substitute,01U24,2018,2027
+01U24KZ,"Supplement Phrenic Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01U24K,2018,2027
+01U4,Ulnar Nerve,01U,2016,2027
+01U40,Open,01U4,2016,2027
+01U407,Autologous Tissue Substitute,01U40,2016,2027
+01U407Z,"Supplement Ulnar Nerve with Autologous Tissue Substitute, Open Approach",01U407,2016,2027
+01U40J,Synthetic Substitute,01U40,2018,2027
+01U40JZ,"Supplement Ulnar Nerve with Synthetic Substitute, Open Approach",01U40J,2018,2027
+01U40K,Nonautologous Tissue Substitute,01U40,2018,2027
+01U40KZ,"Supplement Ulnar Nerve with Nonautologous Tissue Substitute, Open Approach",01U40K,2018,2027
+01U43,Percutaneous,01U4,2016,2027
+01U437,Autologous Tissue Substitute,01U43,2016,2027
+01U437Z,"Supplement Ulnar Nerve with Autologous Tissue Substitute, Percutaneous Approach",01U437,2016,2027
+01U43J,Synthetic Substitute,01U43,2018,2027
+01U43JZ,"Supplement Ulnar Nerve with Synthetic Substitute, Percutaneous Approach",01U43J,2018,2027
+01U43K,Nonautologous Tissue Substitute,01U43,2018,2027
+01U43KZ,"Supplement Ulnar Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01U43K,2018,2027
+01U44,Percutaneous Endoscopic,01U4,2016,2027
+01U447,Autologous Tissue Substitute,01U44,2016,2027
+01U447Z,"Supplement Ulnar Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01U447,2016,2027
+01U44J,Synthetic Substitute,01U44,2018,2027
+01U44JZ,"Supplement Ulnar Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01U44J,2018,2027
+01U44K,Nonautologous Tissue Substitute,01U44,2018,2027
+01U44KZ,"Supplement Ulnar Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01U44K,2018,2027
+01U5,Median Nerve,01U,2016,2027
+01U50,Open,01U5,2016,2027
+01U507,Autologous Tissue Substitute,01U50,2016,2027
+01U507Z,"Supplement Median Nerve with Autologous Tissue Substitute, Open Approach",01U507,2016,2027
+01U50J,Synthetic Substitute,01U50,2018,2027
+01U50JZ,"Supplement Median Nerve with Synthetic Substitute, Open Approach",01U50J,2018,2027
+01U50K,Nonautologous Tissue Substitute,01U50,2018,2027
+01U50KZ,"Supplement Median Nerve with Nonautologous Tissue Substitute, Open Approach",01U50K,2018,2027
+01U53,Percutaneous,01U5,2016,2027
+01U537,Autologous Tissue Substitute,01U53,2016,2027
+01U537Z,"Supplement Median Nerve with Autologous Tissue Substitute, Percutaneous Approach",01U537,2016,2027
+01U53J,Synthetic Substitute,01U53,2018,2027
+01U53JZ,"Supplement Median Nerve with Synthetic Substitute, Percutaneous Approach",01U53J,2018,2027
+01U53K,Nonautologous Tissue Substitute,01U53,2018,2027
+01U53KZ,"Supplement Median Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01U53K,2018,2027
+01U54,Percutaneous Endoscopic,01U5,2016,2027
+01U547,Autologous Tissue Substitute,01U54,2016,2027
+01U547Z,"Supplement Median Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01U547,2016,2027
+01U54J,Synthetic Substitute,01U54,2018,2027
+01U54JZ,"Supplement Median Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01U54J,2018,2027
+01U54K,Nonautologous Tissue Substitute,01U54,2018,2027
+01U54KZ,"Supplement Median Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01U54K,2018,2027
+01U6,Radial Nerve,01U,2016,2027
+01U60,Open,01U6,2016,2027
+01U607,Autologous Tissue Substitute,01U60,2016,2027
+01U607Z,"Supplement Radial Nerve with Autologous Tissue Substitute, Open Approach",01U607,2016,2027
+01U60J,Synthetic Substitute,01U60,2018,2027
+01U60JZ,"Supplement Radial Nerve with Synthetic Substitute, Open Approach",01U60J,2018,2027
+01U60K,Nonautologous Tissue Substitute,01U60,2018,2027
+01U60KZ,"Supplement Radial Nerve with Nonautologous Tissue Substitute, Open Approach",01U60K,2018,2027
+01U63,Percutaneous,01U6,2016,2027
+01U637,Autologous Tissue Substitute,01U63,2016,2027
+01U637Z,"Supplement Radial Nerve with Autologous Tissue Substitute, Percutaneous Approach",01U637,2016,2027
+01U63J,Synthetic Substitute,01U63,2018,2027
+01U63JZ,"Supplement Radial Nerve with Synthetic Substitute, Percutaneous Approach",01U63J,2018,2027
+01U63K,Nonautologous Tissue Substitute,01U63,2018,2027
+01U63KZ,"Supplement Radial Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01U63K,2018,2027
+01U64,Percutaneous Endoscopic,01U6,2016,2027
+01U647,Autologous Tissue Substitute,01U64,2016,2027
+01U647Z,"Supplement Radial Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01U647,2016,2027
+01U64J,Synthetic Substitute,01U64,2018,2027
+01U64JZ,"Supplement Radial Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01U64J,2018,2027
+01U64K,Nonautologous Tissue Substitute,01U64,2018,2027
+01U64KZ,"Supplement Radial Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01U64K,2018,2027
+01U8,Thoracic Nerve,01U,2016,2027
+01U80,Open,01U8,2016,2027
+01U807,Autologous Tissue Substitute,01U80,2016,2027
+01U807Z,"Supplement Thoracic Nerve with Autologous Tissue Substitute, Open Approach",01U807,2016,2027
+01U80J,Synthetic Substitute,01U80,2018,2027
+01U80JZ,"Supplement Thoracic Nerve with Synthetic Substitute, Open Approach",01U80J,2018,2027
+01U80K,Nonautologous Tissue Substitute,01U80,2018,2027
+01U80KZ,"Supplement Thoracic Nerve with Nonautologous Tissue Substitute, Open Approach",01U80K,2018,2027
+01U83,Percutaneous,01U8,2016,2027
+01U837,Autologous Tissue Substitute,01U83,2016,2027
+01U837Z,"Supplement Thoracic Nerve with Autologous Tissue Substitute, Percutaneous Approach",01U837,2016,2027
+01U83J,Synthetic Substitute,01U83,2018,2027
+01U83JZ,"Supplement Thoracic Nerve with Synthetic Substitute, Percutaneous Approach",01U83J,2018,2027
+01U83K,Nonautologous Tissue Substitute,01U83,2018,2027
+01U83KZ,"Supplement Thoracic Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01U83K,2018,2027
+01U84,Percutaneous Endoscopic,01U8,2016,2027
+01U847,Autologous Tissue Substitute,01U84,2016,2027
+01U847Z,"Supplement Thoracic Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01U847,2016,2027
+01U84J,Synthetic Substitute,01U84,2018,2027
+01U84JZ,"Supplement Thoracic Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01U84J,2018,2027
+01U84K,Nonautologous Tissue Substitute,01U84,2018,2027
+01U84KZ,"Supplement Thoracic Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01U84K,2018,2027
+01UB,Lumbar Nerve,01U,2016,2027
+01UB0,Open,01UB,2016,2027
+01UB07,Autologous Tissue Substitute,01UB0,2016,2027
+01UB07Z,"Supplement Lumbar Nerve with Autologous Tissue Substitute, Open Approach",01UB07,2016,2027
+01UB0J,Synthetic Substitute,01UB0,2018,2027
+01UB0JZ,"Supplement Lumbar Nerve with Synthetic Substitute, Open Approach",01UB0J,2018,2027
+01UB0K,Nonautologous Tissue Substitute,01UB0,2018,2027
+01UB0KZ,"Supplement Lumbar Nerve with Nonautologous Tissue Substitute, Open Approach",01UB0K,2018,2027
+01UB3,Percutaneous,01UB,2016,2027
+01UB37,Autologous Tissue Substitute,01UB3,2016,2027
+01UB37Z,"Supplement Lumbar Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UB37,2016,2027
+01UB3J,Synthetic Substitute,01UB3,2018,2027
+01UB3JZ,"Supplement Lumbar Nerve with Synthetic Substitute, Percutaneous Approach",01UB3J,2018,2027
+01UB3K,Nonautologous Tissue Substitute,01UB3,2018,2027
+01UB3KZ,"Supplement Lumbar Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UB3K,2018,2027
+01UB4,Percutaneous Endoscopic,01UB,2016,2027
+01UB47,Autologous Tissue Substitute,01UB4,2016,2027
+01UB47Z,"Supplement Lumbar Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UB47,2016,2027
+01UB4J,Synthetic Substitute,01UB4,2018,2027
+01UB4JZ,"Supplement Lumbar Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UB4J,2018,2027
+01UB4K,Nonautologous Tissue Substitute,01UB4,2018,2027
+01UB4KZ,"Supplement Lumbar Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UB4K,2018,2027
+01UC,Pudendal Nerve,01U,2016,2027
+01UC0,Open,01UC,2016,2027
+01UC07,Autologous Tissue Substitute,01UC0,2016,2027
+01UC07Z,"Supplement Pudendal Nerve with Autologous Tissue Substitute, Open Approach",01UC07,2016,2027
+01UC0J,Synthetic Substitute,01UC0,2018,2027
+01UC0JZ,"Supplement Pudendal Nerve with Synthetic Substitute, Open Approach",01UC0J,2018,2027
+01UC0K,Nonautologous Tissue Substitute,01UC0,2018,2027
+01UC0KZ,"Supplement Pudendal Nerve with Nonautologous Tissue Substitute, Open Approach",01UC0K,2018,2027
+01UC3,Percutaneous,01UC,2016,2027
+01UC37,Autologous Tissue Substitute,01UC3,2016,2027
+01UC37Z,"Supplement Pudendal Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UC37,2016,2027
+01UC3J,Synthetic Substitute,01UC3,2018,2027
+01UC3JZ,"Supplement Pudendal Nerve with Synthetic Substitute, Percutaneous Approach",01UC3J,2018,2027
+01UC3K,Nonautologous Tissue Substitute,01UC3,2018,2027
+01UC3KZ,"Supplement Pudendal Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UC3K,2018,2027
+01UC4,Percutaneous Endoscopic,01UC,2016,2027
+01UC47,Autologous Tissue Substitute,01UC4,2016,2027
+01UC47Z,"Supplement Pudendal Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UC47,2016,2027
+01UC4J,Synthetic Substitute,01UC4,2018,2027
+01UC4JZ,"Supplement Pudendal Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UC4J,2018,2027
+01UC4K,Nonautologous Tissue Substitute,01UC4,2018,2027
+01UC4KZ,"Supplement Pudendal Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UC4K,2018,2027
+01UD,Femoral Nerve,01U,2016,2027
+01UD0,Open,01UD,2016,2027
+01UD07,Autologous Tissue Substitute,01UD0,2016,2027
+01UD07Z,"Supplement Femoral Nerve with Autologous Tissue Substitute, Open Approach",01UD07,2016,2027
+01UD0J,Synthetic Substitute,01UD0,2018,2027
+01UD0JZ,"Supplement Femoral Nerve with Synthetic Substitute, Open Approach",01UD0J,2018,2027
+01UD0K,Nonautologous Tissue Substitute,01UD0,2018,2027
+01UD0KZ,"Supplement Femoral Nerve with Nonautologous Tissue Substitute, Open Approach",01UD0K,2018,2027
+01UD3,Percutaneous,01UD,2016,2027
+01UD37,Autologous Tissue Substitute,01UD3,2016,2027
+01UD37Z,"Supplement Femoral Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UD37,2016,2027
+01UD3J,Synthetic Substitute,01UD3,2018,2027
+01UD3JZ,"Supplement Femoral Nerve with Synthetic Substitute, Percutaneous Approach",01UD3J,2018,2027
+01UD3K,Nonautologous Tissue Substitute,01UD3,2018,2027
+01UD3KZ,"Supplement Femoral Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UD3K,2018,2027
+01UD4,Percutaneous Endoscopic,01UD,2016,2027
+01UD47,Autologous Tissue Substitute,01UD4,2016,2027
+01UD47Z,"Supplement Femoral Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UD47,2016,2027
+01UD4J,Synthetic Substitute,01UD4,2018,2027
+01UD4JZ,"Supplement Femoral Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UD4J,2018,2027
+01UD4K,Nonautologous Tissue Substitute,01UD4,2018,2027
+01UD4KZ,"Supplement Femoral Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UD4K,2018,2027
+01UF,Sciatic Nerve,01U,2016,2027
+01UF0,Open,01UF,2016,2027
+01UF07,Autologous Tissue Substitute,01UF0,2016,2027
+01UF07Z,"Supplement Sciatic Nerve with Autologous Tissue Substitute, Open Approach",01UF07,2016,2027
+01UF0J,Synthetic Substitute,01UF0,2018,2027
+01UF0JZ,"Supplement Sciatic Nerve with Synthetic Substitute, Open Approach",01UF0J,2018,2027
+01UF0K,Nonautologous Tissue Substitute,01UF0,2018,2027
+01UF0KZ,"Supplement Sciatic Nerve with Nonautologous Tissue Substitute, Open Approach",01UF0K,2018,2027
+01UF3,Percutaneous,01UF,2016,2027
+01UF37,Autologous Tissue Substitute,01UF3,2016,2027
+01UF37Z,"Supplement Sciatic Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UF37,2016,2027
+01UF3J,Synthetic Substitute,01UF3,2018,2027
+01UF3JZ,"Supplement Sciatic Nerve with Synthetic Substitute, Percutaneous Approach",01UF3J,2018,2027
+01UF3K,Nonautologous Tissue Substitute,01UF3,2018,2027
+01UF3KZ,"Supplement Sciatic Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UF3K,2018,2027
+01UF4,Percutaneous Endoscopic,01UF,2016,2027
+01UF47,Autologous Tissue Substitute,01UF4,2016,2027
+01UF47Z,"Supplement Sciatic Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UF47,2016,2027
+01UF4J,Synthetic Substitute,01UF4,2018,2027
+01UF4JZ,"Supplement Sciatic Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UF4J,2018,2027
+01UF4K,Nonautologous Tissue Substitute,01UF4,2018,2027
+01UF4KZ,"Supplement Sciatic Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UF4K,2018,2027
+01UG,Tibial Nerve,01U,2016,2027
+01UG0,Open,01UG,2016,2027
+01UG07,Autologous Tissue Substitute,01UG0,2016,2027
+01UG07Z,"Supplement Tibial Nerve with Autologous Tissue Substitute, Open Approach",01UG07,2016,2027
+01UG0J,Synthetic Substitute,01UG0,2018,2027
+01UG0JZ,"Supplement Tibial Nerve with Synthetic Substitute, Open Approach",01UG0J,2018,2027
+01UG0K,Nonautologous Tissue Substitute,01UG0,2018,2027
+01UG0KZ,"Supplement Tibial Nerve with Nonautologous Tissue Substitute, Open Approach",01UG0K,2018,2027
+01UG3,Percutaneous,01UG,2016,2027
+01UG37,Autologous Tissue Substitute,01UG3,2016,2027
+01UG37Z,"Supplement Tibial Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UG37,2016,2027
+01UG3J,Synthetic Substitute,01UG3,2018,2027
+01UG3JZ,"Supplement Tibial Nerve with Synthetic Substitute, Percutaneous Approach",01UG3J,2018,2027
+01UG3K,Nonautologous Tissue Substitute,01UG3,2018,2027
+01UG3KZ,"Supplement Tibial Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UG3K,2018,2027
+01UG4,Percutaneous Endoscopic,01UG,2016,2027
+01UG47,Autologous Tissue Substitute,01UG4,2016,2027
+01UG47Z,"Supplement Tibial Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UG47,2016,2027
+01UG4J,Synthetic Substitute,01UG4,2018,2027
+01UG4JZ,"Supplement Tibial Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UG4J,2018,2027
+01UG4K,Nonautologous Tissue Substitute,01UG4,2018,2027
+01UG4KZ,"Supplement Tibial Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UG4K,2018,2027
+01UH,Peroneal Nerve,01U,2016,2027
+01UH0,Open,01UH,2016,2027
+01UH07,Autologous Tissue Substitute,01UH0,2016,2027
+01UH07Z,"Supplement Peroneal Nerve with Autologous Tissue Substitute, Open Approach",01UH07,2016,2027
+01UH0J,Synthetic Substitute,01UH0,2018,2027
+01UH0JZ,"Supplement Peroneal Nerve with Synthetic Substitute, Open Approach",01UH0J,2018,2027
+01UH0K,Nonautologous Tissue Substitute,01UH0,2018,2027
+01UH0KZ,"Supplement Peroneal Nerve with Nonautologous Tissue Substitute, Open Approach",01UH0K,2018,2027
+01UH3,Percutaneous,01UH,2016,2027
+01UH37,Autologous Tissue Substitute,01UH3,2016,2027
+01UH37Z,"Supplement Peroneal Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UH37,2016,2027
+01UH3J,Synthetic Substitute,01UH3,2018,2027
+01UH3JZ,"Supplement Peroneal Nerve with Synthetic Substitute, Percutaneous Approach",01UH3J,2018,2027
+01UH3K,Nonautologous Tissue Substitute,01UH3,2018,2027
+01UH3KZ,"Supplement Peroneal Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UH3K,2018,2027
+01UH4,Percutaneous Endoscopic,01UH,2016,2027
+01UH47,Autologous Tissue Substitute,01UH4,2016,2027
+01UH47Z,"Supplement Peroneal Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UH47,2016,2027
+01UH4J,Synthetic Substitute,01UH4,2018,2027
+01UH4JZ,"Supplement Peroneal Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UH4J,2018,2027
+01UH4K,Nonautologous Tissue Substitute,01UH4,2018,2027
+01UH4KZ,"Supplement Peroneal Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UH4K,2018,2027
+01UR,Sacral Nerve,01U,2016,2027
+01UR0,Open,01UR,2016,2027
+01UR07,Autologous Tissue Substitute,01UR0,2016,2027
+01UR07Z,"Supplement Sacral Nerve with Autologous Tissue Substitute, Open Approach",01UR07,2016,2027
+01UR0J,Synthetic Substitute,01UR0,2018,2027
+01UR0JZ,"Supplement Sacral Nerve with Synthetic Substitute, Open Approach",01UR0J,2018,2027
+01UR0K,Nonautologous Tissue Substitute,01UR0,2018,2027
+01UR0KZ,"Supplement Sacral Nerve with Nonautologous Tissue Substitute, Open Approach",01UR0K,2018,2027
+01UR3,Percutaneous,01UR,2016,2027
+01UR37,Autologous Tissue Substitute,01UR3,2016,2027
+01UR37Z,"Supplement Sacral Nerve with Autologous Tissue Substitute, Percutaneous Approach",01UR37,2016,2027
+01UR3J,Synthetic Substitute,01UR3,2018,2027
+01UR3JZ,"Supplement Sacral Nerve with Synthetic Substitute, Percutaneous Approach",01UR3J,2018,2027
+01UR3K,Nonautologous Tissue Substitute,01UR3,2018,2027
+01UR3KZ,"Supplement Sacral Nerve with Nonautologous Tissue Substitute, Percutaneous Approach",01UR3K,2018,2027
+01UR4,Percutaneous Endoscopic,01UR,2016,2027
+01UR47,Autologous Tissue Substitute,01UR4,2016,2027
+01UR47Z,"Supplement Sacral Nerve with Autologous Tissue Substitute, Percutaneous Endoscopic Approach",01UR47,2016,2027
+01UR4J,Synthetic Substitute,01UR4,2018,2027
+01UR4JZ,"Supplement Sacral Nerve with Synthetic Substitute, Percutaneous Endoscopic Approach",01UR4J,2018,2027
+01UR4K,Nonautologous Tissue Substitute,01UR4,2018,2027
+01UR4KZ,"Supplement Sacral Nerve with Nonautologous Tissue Substitute, Percutaneous Endoscopic Approach",01UR4K,2018,2027
+01W,Revision,01,2016,2027
+01WY,Peripheral Nerve,01W,2016,2027
+01WY0,Open,01WY,2016,2027
+01WY00,Drainage Device,01WY0,2016,2027
+01WY00Z,"Revision of Drainage Device in Peripheral Nerve, Open Approach",01WY00,2016,2027
+01WY02,Monitoring Device,01WY0,2016,2027
+01WY02Z,"Revision of Monitoring Device in Peripheral Nerve, Open Approach",01WY02,2016,2027
+01WY07,Autologous Tissue Substitute,01WY0,2016,2027
+01WY07Z,"Revision of Autologous Tissue Substitute in Peripheral Nerve, Open Approach",01WY07,2016,2027
+01WY0M,Neurostimulator Lead,01WY0,2016,2027
+01WY0MZ,"Revision of Neurostimulator Lead in Peripheral Nerve, Open Approach",01WY0M,2016,2027
+01WY0Y,Other Device,01WY0,2018,2027
+01WY0YZ,"Revision of Other Device in Peripheral Nerve, Open Approach",01WY0Y,2018,2027
+01WY3,Percutaneous,01WY,2016,2027
+01WY30,Drainage Device,01WY3,2016,2027
+01WY30Z,"Revision of Drainage Device in Peripheral Nerve, Percutaneous Approach",01WY30,2016,2027
+01WY32,Monitoring Device,01WY3,2016,2027
+01WY32Z,"Revision of Monitoring Device in Peripheral Nerve, Percutaneous Approach",01WY32,2016,2027
+01WY37,Autologous Tissue Substitute,01WY3,2016,2027
+01WY37Z,"Revision of Autologous Tissue Substitute in Peripheral Nerve, Percutaneous Approach",01WY37,2016,2027
+01WY3M,Neurostimulator Lead,01WY3,2016,2027
+01WY3MZ,"Revision of Neurostimulator Lead in Peripheral Nerve, Percutaneous Approach",01WY3M,2016,2027
+01WY3Y,Other Device,01WY3,2018,2027
+01WY3YZ,"Revision of Other Device in Peripheral Nerve, Percutaneous Approach",01WY3Y,2018,2027
+01WY4,Percutaneous Endoscopic,01WY,2016,2027
+01WY40,Drainage Device,01WY4,2016,2027
+01WY40Z,"Revision of Drainage Device in Peripheral Nerve, Percutaneous Endoscopic Approach",01WY40,2016,2027
+01WY42,Monitoring Device,01WY4,2016,2027
+01WY42Z,"Revision of Monitoring Device in Peripheral Nerve, Percutaneous Endoscopic Approach",01WY42,2016,2027
+01WY47,Autologous Tissue Substitute,01WY4,2016,2027
+01WY47Z,"Revision of Autologous Tissue Substitute in Peripheral Nerve, Percutaneous Endoscopic Approach",01WY47,2016,2027
+01WY4M,Neurostimulator Lead,01WY4,2016,2027
+01WY4MZ,"Revision of Neurostimulator Lead in Peripheral Nerve, Percutaneous Endoscopic Approach",01WY4M,2016,2027
+01WY4Y,Other Device,01WY4,2018,2027
+01WY4YZ,"Revision of Other Device in Peripheral Nerve, Percutaneous Endoscopic Approach",01WY4Y,2018,2027
+01WYX,External,01WY,2016,2027
+01WYX0,Drainage Device,01WYX,2016,2027
+01WYX0Z,"Revision of Drainage Device in Peripheral Nerve, External Approach",01WYX0,2016,2027
+01WYX2,Monitoring Device,01WYX,2016,2027
+01WYX2Z,"Revision of Monitoring Device in Peripheral Nerve, External Approach",01WYX2,2016,2027
+01WYX7,Autologous Tissue Substitute,01WYX,2016,2027
+01WYX7Z,"Revision of Autologous Tissue Substitute in Peripheral Nerve, External Approach",01WYX7,2016,2027
+01WYXM,Neurostimulator Lead,01WYX,2016,2027
+01WYXMZ,"Revision of Neurostimulator Lead in Peripheral Nerve, External Approach",01WYXM,2016,2027
+01X,Transfer,01,2016,2027
+01X1,Cervical Nerve,01X,2016,2027
+01X10,Open,01X1,2016,2027
+01X10Z,No Device,01X10,2016,2027
+01X10Z1,"Transfer Cervical Nerve to Cervical Nerve, Open Approach",01X10Z,2016,2027
+01X10Z2,"Transfer Cervical Nerve to Phrenic Nerve, Open Approach",01X10Z,2016,2027
+01X14,Percutaneous Endoscopic,01X1,2016,2027
+01X14Z,No Device,01X14,2016,2027
+01X14Z1,"Transfer Cervical Nerve to Cervical Nerve, Percutaneous Endoscopic Approach",01X14Z,2016,2027
+01X14Z2,"Transfer Cervical Nerve to Phrenic Nerve, Percutaneous Endoscopic Approach",01X14Z,2016,2027
+01X2,Phrenic Nerve,01X,2016,2027
+01X20,Open,01X2,2016,2027
+01X20Z,No Device,01X20,2016,2027
+01X20Z1,"Transfer Phrenic Nerve to Cervical Nerve, Open Approach",01X20Z,2016,2027
+01X20Z2,"Transfer Phrenic Nerve to Phrenic Nerve, Open Approach",01X20Z,2016,2027
+01X24,Percutaneous Endoscopic,01X2,2016,2027
+01X24Z,No Device,01X24,2016,2027
+01X24Z1,"Transfer Phrenic Nerve to Cervical Nerve, Percutaneous Endoscopic Approach",01X24Z,2016,2027
+01X24Z2,"Transfer Phrenic Nerve to Phrenic Nerve, Percutaneous Endoscopic Approach",01X24Z,2016,2027
+01X4,Ulnar Nerve,01X,2016,2027
+01X40,Open,01X4,2016,2027
+01X40Z,No Device,01X40,2016,2027
+01X40Z4,"Transfer Ulnar Nerve to Ulnar Nerve, Open Approach",01X40Z,2016,2027
+01X40Z5,"Transfer Ulnar Nerve to Median Nerve, Open Approach",01X40Z,2016,2027
+01X40Z6,"Transfer Ulnar Nerve to Radial Nerve, Open Approach",01X40Z,2016,2027
+01X44,Percutaneous Endoscopic,01X4,2016,2027
+01X44Z,No Device,01X44,2016,2027
+01X44Z4,"Transfer Ulnar Nerve to Ulnar Nerve, Percutaneous Endoscopic Approach",01X44Z,2016,2027
+01X44Z5,"Transfer Ulnar Nerve to Median Nerve, Percutaneous Endoscopic Approach",01X44Z,2016,2027
+01X44Z6,"Transfer Ulnar Nerve to Radial Nerve, Percutaneous Endoscopic Approach",01X44Z,2016,2027
+01X5,Median Nerve,01X,2016,2027
+01X50,Open,01X5,2016,2027
+01X50Z,No Device,01X50,2016,2027
+01X50Z4,"Transfer Median Nerve to Ulnar Nerve, Open Approach",01X50Z,2016,2027
+01X50Z5,"Transfer Median Nerve to Median Nerve, Open Approach",01X50Z,2016,2027
+01X50Z6,"Transfer Median Nerve to Radial Nerve, Open Approach",01X50Z,2016,2027
+01X54,Percutaneous Endoscopic,01X5,2016,2027
+01X54Z,No Device,01X54,2016,2027
+01X54Z4,"Transfer Median Nerve to Ulnar Nerve, Percutaneous Endoscopic Approach",01X54Z,2016,2027
+01X54Z5,"Transfer Median Nerve to Median Nerve, Percutaneous Endoscopic Approach",01X54Z,2016,2027
+01X54Z6,"Transfer Median Nerve to Radial Nerve, Percutaneous Endoscopic Approach",01X54Z,2016,2027
+01X6,Radial Nerve,01X,2016,2027
+01X60,Open,01X6,2016,2027
+01X60Z,No Device,01X60,2016,2027
+01X60Z4,"Transfer Radial Nerve to Ulnar Nerve, Open Approach",01X60Z,2016,2027
+01X60Z5,"Transfer Radial Nerve to Median Nerve, Open Approach",01X60Z,2016,2027
+01X60Z6,"Transfer Radial Nerve to Radial Nerve, Open Approach",01X60Z,2016,2027
+01X64,Percutaneous Endoscopic,01X6,2016,2027
+01X64Z,No Device,01X64,2016,2027
+01X64Z4,"Transfer Radial Nerve to Ulnar Nerve, Percutaneous Endoscopic Approach",01X64Z,2016,2027
+01X64Z5,"Transfer Radial Nerve to Median Nerve, Percutaneous Endoscopic Approach",01X64Z,2016,2027
+01X64Z6,"Transfer Radial Nerve to Radial Nerve, Percutaneous Endoscopic Approach",01X64Z,2016,2027
+01X8,Thoracic Nerve,01X,2016,2027
+01X80,Open,01X8,2016,2027
+01X80Z,No Device,01X80,2016,2027
+01X80Z8,"Transfer Thoracic Nerve to Thoracic Nerve, Open Approach",01X80Z,2016,2027
+01X84,Percutaneous Endoscopic,01X8,2016,2027
+01X84Z,No Device,01X84,2016,2027
+01X84Z8,"Transfer Thoracic Nerve to Thoracic Nerve, Percutaneous Endoscopic Approach",01X84Z,2016,2027
+01XB,Lumbar Nerve,01X,2016,2027
+01XB0,Open,01XB,2016,2027
+01XB0Z,No Device,01XB0,2016,2027
+01XB0ZB,"Transfer Lumbar Nerve to Lumbar Nerve, Open Approach",01XB0Z,2016,2027
+01XB0ZC,"Transfer Lumbar Nerve to Perineal Nerve, Open Approach",01XB0Z,2016,2027
+01XB4,Percutaneous Endoscopic,01XB,2016,2027
+01XB4Z,No Device,01XB4,2016,2027
+01XB4ZB,"Transfer Lumbar Nerve to Lumbar Nerve, Percutaneous Endoscopic Approach",01XB4Z,2016,2027
+01XB4ZC,"Transfer Lumbar Nerve to Perineal Nerve, Percutaneous Endoscopic Approach",01XB4Z,2016,2027
+01XC,Pudendal Nerve,01X,2016,2027
+01XC0,Open,01XC,2016,2027
+01XC0Z,No Device,01XC0,2016,2027
+01XC0ZB,"Transfer Pudendal Nerve to Lumbar Nerve, Open Approach",01XC0Z,2016,2027
+01XC0ZC,"Transfer Pudendal Nerve to Perineal Nerve, Open Approach",01XC0Z,2016,2027
+01XC4,Percutaneous Endoscopic,01XC,2016,2027
+01XC4Z,No Device,01XC4,2016,2027
+01XC4ZB,"Transfer Pudendal Nerve to Lumbar Nerve, Percutaneous Endoscopic Approach",01XC4Z,2016,2027
+01XC4ZC,"Transfer Pudendal Nerve to Perineal Nerve, Percutaneous Endoscopic Approach",01XC4Z,2016,2027
+01XD,Femoral Nerve,01X,2016,2027
+01XD0,Open,01XD,2016,2027
+01XD0Z,No Device,01XD0,2016,2027
+01XD0ZD,"Transfer Femoral Nerve to Femoral Nerve, Open Approach",01XD0Z,2016,2027
+01XD0ZF,"Transfer Femoral Nerve to Sciatic Nerve, Open Approach",01XD0Z,2016,2027
+01XD0ZG,"Transfer Femoral Nerve to Tibial Nerve, Open Approach",01XD0Z,2016,2027
+01XD0ZH,"Transfer Femoral Nerve to Peroneal Nerve, Open Approach",01XD0Z,2016,2027
+01XD4,Percutaneous Endoscopic,01XD,2016,2027
+01XD4Z,No Device,01XD4,2016,2027
+01XD4ZD,"Transfer Femoral Nerve to Femoral Nerve, Percutaneous Endoscopic Approach",01XD4Z,2016,2027
+01XD4ZF,"Transfer Femoral Nerve to Sciatic Nerve, Percutaneous Endoscopic Approach",01XD4Z,2016,2027
+01XD4ZG,"Transfer Femoral Nerve to Tibial Nerve, Percutaneous Endoscopic Approach",01XD4Z,2016,2027
+01XD4ZH,"Transfer Femoral Nerve to Peroneal Nerve, Percutaneous Endoscopic Approach",01XD4Z,2016,2027
+01XF,Sciatic Nerve,01X,2016,2027
+01XF0,Open,01XF,2016,2027
+01XF0Z,No Device,01XF0,2016,2027
+01XF0ZD,"Transfer Sciatic Nerve to Femoral Nerve, Open Approach",01XF0Z,2016,2027
+01XF0ZF,"Transfer Sciatic Nerve to Sciatic Nerve, Open Approach",01XF0Z,2016,2027
+01XF0ZG,"Transfer Sciatic Nerve to Tibial Nerve, Open Approach",01XF0Z,2016,2027
+01XF0ZH,"Transfer Sciatic Nerve to Peroneal Nerve, Open Approach",01XF0Z,2016,2027
+01XF4,Percutaneous Endoscopic,01XF,2016,2027
+01XF4Z,No Device,01XF4,2016,2027
+01XF4ZD,"Transfer Sciatic Nerve to Femoral Nerve, Percutaneous Endoscopic Approach",01XF4Z,2016,2027
+01XF4ZF,"Transfer Sciatic Nerve to Sciatic Nerve, Percutaneous Endoscopic Approach",01XF4Z,2016,2027
+01XF4ZG,"Transfer Sciatic Nerve to Tibial Nerve, Percutaneous Endoscopic Approach",01XF4Z,2016,2027
+01XF4ZH,"Transfer Sciatic Nerve to Peroneal Nerve, Percutaneous Endoscopic Approach",01XF4Z,2016,2027
+01XG,Tibial Nerve,01X,2016,2027
+01XG0,Open,01XG,2016,2027
+01XG0Z,No Device,01XG0,2016,2027
+01XG0ZD,"Transfer Tibial Nerve to Femoral Nerve, Open Approach",01XG0Z,2016,2027
+01XG0ZF,"Transfer Tibial Nerve to Sciatic Nerve, Open Approach",01XG0Z,2016,2027
+01XG0ZG,"Transfer Tibial Nerve to Tibial Nerve, Open Approach",01XG0Z,2016,2027
+01XG0ZH,"Transfer Tibial Nerve to Peroneal Nerve, Open Approach",01XG0Z,2016,2027
+01XG4,Percutaneous Endoscopic,01XG,2016,2027
+01XG4Z,No Device,01XG4,2016,2027
+01XG4ZD,"Transfer Tibial Nerve to Femoral Nerve, Percutaneous Endoscopic Approach",01XG4Z,2016,2027
+01XG4ZF,"Transfer Tibial Nerve to Sciatic Nerve, Percutaneous Endoscopic Approach",01XG4Z,2016,2027
+01XG4ZG,"Transfer Tibial Nerve to Tibial Nerve, Percutaneous Endoscopic Approach",01XG4Z,2016,2027
+01XG4ZH,"Transfer Tibial Nerve to Peroneal Nerve, Percutaneous Endoscopic Approach",01XG4Z,2016,2027
+01XH,Peroneal Nerve,01X,2016,2027
+01XH0,Open,01XH,2016,2027
+01XH0Z,No Device,01XH0,2016,2027
+01XH0ZD,"Transfer Peroneal Nerve to Femoral Nerve, Open Approach",01XH0Z,2016,2027
+01XH0ZF,"Transfer Peroneal Nerve to Sciatic Nerve, Open Approach",01XH0Z,2016,2027
+01XH0ZG,"Transfer Peroneal Nerve to Tibial Nerve, Open Approach",01XH0Z,2016,2027
+01XH0ZH,"Transfer Peroneal Nerve to Peroneal Nerve, Open Approach",01XH0Z,2016,2027
+01XH4,Percutaneous Endoscopic,01XH,2016,2027
+01XH4Z,No Device,01XH4,2016,2027
+01XH4ZD,"Transfer Peroneal Nerve to Femoral Nerve, Percutaneous Endoscopic Approach",01XH4Z,2016,2027
+01XH4ZF,"Transfer Peroneal Nerve to Sciatic Nerve, Percutaneous Endoscopic Approach",01XH4Z,2016,2027
+01XH4ZG,"Transfer Peroneal Nerve to Tibial Nerve, Percutaneous Endoscopic Approach",01XH4Z,2016,2027
+01XH4ZH,"Transfer Peroneal Nerve to Peroneal Nerve, Percutaneous Endoscopic Approach",01XH4Z,2016,2027

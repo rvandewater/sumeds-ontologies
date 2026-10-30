@@ -1,0 +1,103 @@
+code,description,parent,first_year,last_year
+B7,Lymphatic System,B,2016,2027
+B70,Plain Radiography,B7,2016,2027
+B700,"Abdominal/Retroperitoneal Lymphatics, Unilateral",B70,2016,2027
+B7000,High Osmolar,B700,2016,2027
+B7000Z,None,B7000,2016,2027
+B7000ZZ,Plain Radiography of Unilateral Abdominal/Retroperitoneal Lymphatics using High Osmolar Contrast,B7000Z,2016,2027
+B7001,Low Osmolar,B700,2016,2027
+B7001Z,None,B7001,2016,2027
+B7001ZZ,Plain Radiography of Unilateral Abdominal/Retroperitoneal Lymphatics using Low Osmolar Contrast,B7001Z,2016,2027
+B700Y,Other Contrast,B700,2016,2027
+B700YZ,None,B700Y,2016,2027
+B700YZZ,Plain Radiography of Unilateral Abdominal/Retroperitoneal Lymphatics using Other Contrast,B700YZ,2016,2027
+B701,"Abdominal/Retroperitoneal Lymphatics, Bilateral",B70,2016,2027
+B7010,High Osmolar,B701,2016,2027
+B7010Z,None,B7010,2016,2027
+B7010ZZ,Plain Radiography of Bilateral Abdominal/Retroperitoneal Lymphatics using High Osmolar Contrast,B7010Z,2016,2027
+B7011,Low Osmolar,B701,2016,2027
+B7011Z,None,B7011,2016,2027
+B7011ZZ,Plain Radiography of Bilateral Abdominal/Retroperitoneal Lymphatics using Low Osmolar Contrast,B7011Z,2016,2027
+B701Y,Other Contrast,B701,2016,2027
+B701YZ,None,B701Y,2016,2027
+B701YZZ,Plain Radiography of Bilateral Abdominal/Retroperitoneal Lymphatics using Other Contrast,B701YZ,2016,2027
+B704,"Lymphatics, Head and Neck",B70,2016,2027
+B7040,High Osmolar,B704,2016,2027
+B7040Z,None,B7040,2016,2027
+B7040ZZ,Plain Radiography of Head and Neck Lymphatics using High Osmolar Contrast,B7040Z,2016,2027
+B7041,Low Osmolar,B704,2016,2027
+B7041Z,None,B7041,2016,2027
+B7041ZZ,Plain Radiography of Head and Neck Lymphatics using Low Osmolar Contrast,B7041Z,2016,2027
+B704Y,Other Contrast,B704,2016,2027
+B704YZ,None,B704Y,2016,2027
+B704YZZ,Plain Radiography of Head and Neck Lymphatics using Other Contrast,B704YZ,2016,2027
+B705,"Upper Extremity Lymphatics, Right",B70,2016,2027
+B7050,High Osmolar,B705,2016,2027
+B7050Z,None,B7050,2016,2027
+B7050ZZ,Plain Radiography of Right Upper Extremity Lymphatics using High Osmolar Contrast,B7050Z,2016,2027
+B7051,Low Osmolar,B705,2016,2027
+B7051Z,None,B7051,2016,2027
+B7051ZZ,Plain Radiography of Right Upper Extremity Lymphatics using Low Osmolar Contrast,B7051Z,2016,2027
+B705Y,Other Contrast,B705,2016,2027
+B705YZ,None,B705Y,2016,2027
+B705YZZ,Plain Radiography of Right Upper Extremity Lymphatics using Other Contrast,B705YZ,2016,2027
+B706,"Upper Extremity Lymphatics, Left",B70,2016,2027
+B7060,High Osmolar,B706,2016,2027
+B7060Z,None,B7060,2016,2027
+B7060ZZ,Plain Radiography of Left Upper Extremity Lymphatics using High Osmolar Contrast,B7060Z,2016,2027
+B7061,Low Osmolar,B706,2016,2027
+B7061Z,None,B7061,2016,2027
+B7061ZZ,Plain Radiography of Left Upper Extremity Lymphatics using Low Osmolar Contrast,B7061Z,2016,2027
+B706Y,Other Contrast,B706,2016,2027
+B706YZ,None,B706Y,2016,2027
+B706YZZ,Plain Radiography of Left Upper Extremity Lymphatics using Other Contrast,B706YZ,2016,2027
+B707,"Upper Extremity Lymphatics, Bilateral",B70,2016,2027
+B7070,High Osmolar,B707,2016,2027
+B7070Z,None,B7070,2016,2027
+B7070ZZ,Plain Radiography of Bilateral Upper Extremity Lymphatics using High Osmolar Contrast,B7070Z,2016,2027
+B7071,Low Osmolar,B707,2016,2027
+B7071Z,None,B7071,2016,2027
+B7071ZZ,Plain Radiography of Bilateral Upper Extremity Lymphatics using Low Osmolar Contrast,B7071Z,2016,2027
+B707Y,Other Contrast,B707,2016,2027
+B707YZ,None,B707Y,2016,2027
+B707YZZ,Plain Radiography of Bilateral Upper Extremity Lymphatics using Other Contrast,B707YZ,2016,2027
+B708,"Lower Extremity Lymphatics, Right",B70,2016,2027
+B7080,High Osmolar,B708,2016,2027
+B7080Z,None,B7080,2016,2027
+B7080ZZ,Plain Radiography of Right Lower Extremity Lymphatics using High Osmolar Contrast,B7080Z,2016,2027
+B7081,Low Osmolar,B708,2016,2027
+B7081Z,None,B7081,2016,2027
+B7081ZZ,Plain Radiography of Right Lower Extremity Lymphatics using Low Osmolar Contrast,B7081Z,2016,2027
+B708Y,Other Contrast,B708,2016,2027
+B708YZ,None,B708Y,2016,2027
+B708YZZ,Plain Radiography of Right Lower Extremity Lymphatics using Other Contrast,B708YZ,2016,2027
+B709,"Lower Extremity Lymphatics, Left",B70,2016,2027
+B7090,High Osmolar,B709,2016,2027
+B7090Z,None,B7090,2016,2027
+B7090ZZ,Plain Radiography of Left Lower Extremity Lymphatics using High Osmolar Contrast,B7090Z,2016,2027
+B7091,Low Osmolar,B709,2016,2027
+B7091Z,None,B7091,2016,2027
+B7091ZZ,Plain Radiography of Left Lower Extremity Lymphatics using Low Osmolar Contrast,B7091Z,2016,2027
+B709Y,Other Contrast,B709,2016,2027
+B709YZ,None,B709Y,2016,2027
+B709YZZ,Plain Radiography of Left Lower Extremity Lymphatics using Other Contrast,B709YZ,2016,2027
+B70B,"Lower Extremity Lymphatics, Bilateral",B70,2016,2027
+B70B0,High Osmolar,B70B,2016,2027
+B70B0Z,None,B70B0,2016,2027
+B70B0ZZ,Plain Radiography of Bilateral Lower Extremity Lymphatics using High Osmolar Contrast,B70B0Z,2016,2027
+B70B1,Low Osmolar,B70B,2016,2027
+B70B1Z,None,B70B1,2016,2027
+B70B1ZZ,Plain Radiography of Bilateral Lower Extremity Lymphatics using Low Osmolar Contrast,B70B1Z,2016,2027
+B70BY,Other Contrast,B70B,2016,2027
+B70BYZ,None,B70BY,2016,2027
+B70BYZZ,Plain Radiography of Bilateral Lower Extremity Lymphatics using Other Contrast,B70BYZ,2016,2027
+B70C,"Lymphatics, Pelvic",B70,2016,2027
+B70C0,High Osmolar,B70C,2016,2027
+B70C0Z,None,B70C0,2016,2027
+B70C0ZZ,Plain Radiography of Pelvic Lymphatics using High Osmolar Contrast,B70C0Z,2016,2027
+B70C1,Low Osmolar,B70C,2016,2027
+B70C1Z,None,B70C1,2016,2027
+B70C1ZZ,Plain Radiography of Pelvic Lymphatics using Low Osmolar Contrast,B70C1Z,2016,2027
+B70CY,Other Contrast,B70C,2016,2027
+B70CYZ,None,B70CY,2016,2027
+B70CYZZ,Plain Radiography of Pelvic Lymphatics using Other Contrast,B70CYZ,2016,2027

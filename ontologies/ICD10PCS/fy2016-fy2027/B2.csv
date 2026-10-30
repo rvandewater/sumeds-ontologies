@@ -1,0 +1,393 @@
+code,description,parent,first_year,last_year
+B2,Heart,B,2016,2027
+B20,Plain Radiography,B2,2016,2027
+B200,"Coronary Artery, Single",B20,2016,2027
+B2000,High Osmolar,B200,2016,2027
+B2000Z,None,B2000,2016,2027
+B2000ZZ,Plain Radiography of Single Coronary Artery using High Osmolar Contrast,B2000Z,2016,2027
+B2001,Low Osmolar,B200,2016,2027
+B2001Z,None,B2001,2016,2027
+B2001ZZ,Plain Radiography of Single Coronary Artery using Low Osmolar Contrast,B2001Z,2016,2027
+B200Y,Other Contrast,B200,2016,2027
+B200YZ,None,B200Y,2016,2027
+B200YZZ,Plain Radiography of Single Coronary Artery using Other Contrast,B200YZ,2016,2027
+B201,"Coronary Arteries, Multiple",B20,2016,2027
+B2010,High Osmolar,B201,2016,2027
+B2010Z,None,B2010,2016,2027
+B2010ZZ,Plain Radiography of Multiple Coronary Arteries using High Osmolar Contrast,B2010Z,2016,2027
+B2011,Low Osmolar,B201,2016,2027
+B2011Z,None,B2011,2016,2027
+B2011ZZ,Plain Radiography of Multiple Coronary Arteries using Low Osmolar Contrast,B2011Z,2016,2027
+B201Y,Other Contrast,B201,2016,2027
+B201YZ,None,B201Y,2016,2027
+B201YZZ,Plain Radiography of Multiple Coronary Arteries using Other Contrast,B201YZ,2016,2027
+B202,"Coronary Artery Bypass Graft, Single",B20,2016,2027
+B2020,High Osmolar,B202,2016,2027
+B2020Z,None,B2020,2016,2027
+B2020ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using High Osmolar Contrast,B2020Z,2016,2027
+B2021,Low Osmolar,B202,2016,2027
+B2021Z,None,B2021,2016,2027
+B2021ZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Low Osmolar Contrast,B2021Z,2016,2027
+B202Y,Other Contrast,B202,2016,2027
+B202YZ,None,B202Y,2016,2027
+B202YZZ,Plain Radiography of Single Coronary Artery Bypass Graft using Other Contrast,B202YZ,2016,2027
+B203,"Coronary Artery Bypass Grafts, Multiple",B20,2016,2027
+B2030,High Osmolar,B203,2016,2027
+B2030Z,None,B2030,2016,2027
+B2030ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast,B2030Z,2016,2027
+B2031,Low Osmolar,B203,2016,2027
+B2031Z,None,B2031,2016,2027
+B2031ZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast,B2031Z,2016,2027
+B203Y,Other Contrast,B203,2016,2027
+B203YZ,None,B203Y,2016,2027
+B203YZZ,Plain Radiography of Multiple Coronary Artery Bypass Grafts using Other Contrast,B203YZ,2016,2027
+B204,"Heart, Right",B20,2016,2027
+B2040,High Osmolar,B204,2016,2027
+B2040Z,None,B2040,2016,2027
+B2040ZZ,Plain Radiography of Right Heart using High Osmolar Contrast,B2040Z,2016,2027
+B2041,Low Osmolar,B204,2016,2027
+B2041Z,None,B2041,2016,2027
+B2041ZZ,Plain Radiography of Right Heart using Low Osmolar Contrast,B2041Z,2016,2027
+B204Y,Other Contrast,B204,2016,2027
+B204YZ,None,B204Y,2016,2027
+B204YZZ,Plain Radiography of Right Heart using Other Contrast,B204YZ,2016,2027
+B205,"Heart, Left",B20,2016,2027
+B2050,High Osmolar,B205,2016,2027
+B2050Z,None,B2050,2016,2027
+B2050ZZ,Plain Radiography of Left Heart using High Osmolar Contrast,B2050Z,2016,2027
+B2051,Low Osmolar,B205,2016,2027
+B2051Z,None,B2051,2016,2027
+B2051ZZ,Plain Radiography of Left Heart using Low Osmolar Contrast,B2051Z,2016,2027
+B205Y,Other Contrast,B205,2016,2027
+B205YZ,None,B205Y,2016,2027
+B205YZZ,Plain Radiography of Left Heart using Other Contrast,B205YZ,2016,2027
+B206,"Heart, Right and Left",B20,2016,2027
+B2060,High Osmolar,B206,2016,2027
+B2060Z,None,B2060,2016,2027
+B2060ZZ,Plain Radiography of Right and Left Heart using High Osmolar Contrast,B2060Z,2016,2027
+B2061,Low Osmolar,B206,2016,2027
+B2061Z,None,B2061,2016,2027
+B2061ZZ,Plain Radiography of Right and Left Heart using Low Osmolar Contrast,B2061Z,2016,2027
+B206Y,Other Contrast,B206,2016,2027
+B206YZ,None,B206Y,2016,2027
+B206YZZ,Plain Radiography of Right and Left Heart using Other Contrast,B206YZ,2016,2027
+B207,"Internal Mammary Bypass Graft, Right",B20,2016,2027
+B2070,High Osmolar,B207,2016,2027
+B2070Z,None,B2070,2016,2027
+B2070ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using High Osmolar Contrast,B2070Z,2016,2027
+B2071,Low Osmolar,B207,2016,2027
+B2071Z,None,B2071,2016,2027
+B2071ZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Low Osmolar Contrast,B2071Z,2016,2027
+B207Y,Other Contrast,B207,2016,2027
+B207YZ,None,B207Y,2016,2027
+B207YZZ,Plain Radiography of Right Internal Mammary Bypass Graft using Other Contrast,B207YZ,2016,2027
+B208,"Internal Mammary Bypass Graft, Left",B20,2016,2027
+B2080,High Osmolar,B208,2016,2027
+B2080Z,None,B2080,2016,2027
+B2080ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using High Osmolar Contrast,B2080Z,2016,2027
+B2081,Low Osmolar,B208,2016,2027
+B2081Z,None,B2081,2016,2027
+B2081ZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Low Osmolar Contrast,B2081Z,2016,2027
+B208Y,Other Contrast,B208,2016,2027
+B208YZ,None,B208Y,2016,2027
+B208YZZ,Plain Radiography of Left Internal Mammary Bypass Graft using Other Contrast,B208YZ,2016,2027
+B20F,"Bypass Graft, Other",B20,2016,2027
+B20F0,High Osmolar,B20F,2016,2027
+B20F0Z,None,B20F0,2016,2027
+B20F0ZZ,Plain Radiography of Other Bypass Graft using High Osmolar Contrast,B20F0Z,2016,2027
+B20F1,Low Osmolar,B20F,2016,2027
+B20F1Z,None,B20F1,2016,2027
+B20F1ZZ,Plain Radiography of Other Bypass Graft using Low Osmolar Contrast,B20F1Z,2016,2027
+B20FY,Other Contrast,B20F,2016,2027
+B20FYZ,None,B20FY,2016,2027
+B20FYZZ,Plain Radiography of Other Bypass Graft using Other Contrast,B20FYZ,2016,2027
+B21,Fluoroscopy,B2,2016,2027
+B210,"Coronary Artery, Single",B21,2016,2027
+B2100,High Osmolar,B210,2016,2027
+B21001,Laser,B2100,2016,2027
+B210010,"Fluoroscopy of Single Coronary Artery using High Osmolar Contrast, Laser Intraoperative",B21001,2016,2027
+B2100Z,None,B2100,2016,2027
+B2100ZZ,Fluoroscopy of Single Coronary Artery using High Osmolar Contrast,B2100Z,2016,2027
+B2101,Low Osmolar,B210,2016,2027
+B21011,Laser,B2101,2016,2027
+B210110,"Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast, Laser Intraoperative",B21011,2016,2027
+B2101Z,None,B2101,2016,2027
+B2101ZZ,Fluoroscopy of Single Coronary Artery using Low Osmolar Contrast,B2101Z,2016,2027
+B210Y,Other Contrast,B210,2016,2027
+B210Y1,Laser,B210Y,2016,2027
+B210Y10,"Fluoroscopy of Single Coronary Artery using Other Contrast, Laser Intraoperative",B210Y1,2016,2027
+B210YZ,None,B210Y,2016,2027
+B210YZZ,Fluoroscopy of Single Coronary Artery using Other Contrast,B210YZ,2016,2027
+B211,"Coronary Arteries, Multiple",B21,2016,2027
+B2110,High Osmolar,B211,2016,2027
+B21101,Laser,B2110,2016,2027
+B211010,"Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast, Laser Intraoperative",B21101,2016,2027
+B2110Z,None,B2110,2016,2027
+B2110ZZ,Fluoroscopy of Multiple Coronary Arteries using High Osmolar Contrast,B2110Z,2016,2027
+B2111,Low Osmolar,B211,2016,2027
+B21111,Laser,B2111,2016,2027
+B211110,"Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast, Laser Intraoperative",B21111,2016,2027
+B2111Z,None,B2111,2016,2027
+B2111ZZ,Fluoroscopy of Multiple Coronary Arteries using Low Osmolar Contrast,B2111Z,2016,2027
+B211Y,Other Contrast,B211,2016,2027
+B211Y1,Laser,B211Y,2016,2027
+B211Y10,"Fluoroscopy of Multiple Coronary Arteries using Other Contrast, Laser Intraoperative",B211Y1,2016,2027
+B211YZ,None,B211Y,2016,2027
+B211YZZ,Fluoroscopy of Multiple Coronary Arteries using Other Contrast,B211YZ,2016,2027
+B212,"Coronary Artery Bypass Graft, Single",B21,2016,2027
+B2120,High Osmolar,B212,2016,2027
+B21201,Laser,B2120,2016,2027
+B212010,"Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast, Laser Intraoperative",B21201,2016,2027
+B2120Z,None,B2120,2016,2027
+B2120ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using High Osmolar Contrast,B2120Z,2016,2027
+B2121,Low Osmolar,B212,2016,2027
+B21211,Laser,B2121,2016,2027
+B212110,"Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast, Laser Intraoperative",B21211,2016,2027
+B2121Z,None,B2121,2016,2027
+B2121ZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Low Osmolar Contrast,B2121Z,2016,2027
+B212Y,Other Contrast,B212,2016,2027
+B212Y1,Laser,B212Y,2016,2027
+B212Y10,"Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast, Laser Intraoperative",B212Y1,2016,2027
+B212YZ,None,B212Y,2016,2027
+B212YZZ,Fluoroscopy of Single Coronary Artery Bypass Graft using Other Contrast,B212YZ,2016,2027
+B213,"Coronary Artery Bypass Grafts, Multiple",B21,2016,2027
+B2130,High Osmolar,B213,2016,2027
+B21301,Laser,B2130,2016,2027
+B213010,"Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast, Laser Intraoperative",B21301,2016,2027
+B2130Z,None,B2130,2016,2027
+B2130ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast,B2130Z,2016,2027
+B2131,Low Osmolar,B213,2016,2027
+B21311,Laser,B2131,2016,2027
+B213110,"Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast, Laser Intraoperative",B21311,2016,2027
+B2131Z,None,B2131,2016,2027
+B2131ZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast,B2131Z,2016,2027
+B213Y,Other Contrast,B213,2016,2027
+B213Y1,Laser,B213Y,2016,2027
+B213Y10,"Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast, Laser Intraoperative",B213Y1,2016,2027
+B213YZ,None,B213Y,2016,2027
+B213YZZ,Fluoroscopy of Multiple Coronary Artery Bypass Grafts using Other Contrast,B213YZ,2016,2027
+B214,"Heart, Right",B21,2016,2027
+B2140,High Osmolar,B214,2016,2027
+B2140Z,None,B2140,2016,2027
+B2140ZZ,Fluoroscopy of Right Heart using High Osmolar Contrast,B2140Z,2016,2027
+B2141,Low Osmolar,B214,2016,2027
+B2141Z,None,B2141,2016,2027
+B2141ZZ,Fluoroscopy of Right Heart using Low Osmolar Contrast,B2141Z,2016,2027
+B214Y,Other Contrast,B214,2016,2027
+B214YZ,None,B214Y,2016,2027
+B214YZZ,Fluoroscopy of Right Heart using Other Contrast,B214YZ,2016,2027
+B215,"Heart, Left",B21,2016,2027
+B2150,High Osmolar,B215,2016,2027
+B2150Z,None,B2150,2016,2027
+B2150ZZ,Fluoroscopy of Left Heart using High Osmolar Contrast,B2150Z,2016,2027
+B2151,Low Osmolar,B215,2016,2027
+B2151Z,None,B2151,2016,2027
+B2151ZZ,Fluoroscopy of Left Heart using Low Osmolar Contrast,B2151Z,2016,2027
+B215Y,Other Contrast,B215,2016,2027
+B215YZ,None,B215Y,2016,2027
+B215YZZ,Fluoroscopy of Left Heart using Other Contrast,B215YZ,2016,2027
+B216,"Heart, Right and Left",B21,2016,2027
+B2160,High Osmolar,B216,2016,2027
+B2160Z,None,B2160,2016,2027
+B2160ZZ,Fluoroscopy of Right and Left Heart using High Osmolar Contrast,B2160Z,2016,2027
+B2161,Low Osmolar,B216,2016,2027
+B2161Z,None,B2161,2016,2027
+B2161ZZ,Fluoroscopy of Right and Left Heart using Low Osmolar Contrast,B2161Z,2016,2027
+B216Y,Other Contrast,B216,2016,2027
+B216YZ,None,B216Y,2016,2027
+B216YZZ,Fluoroscopy of Right and Left Heart using Other Contrast,B216YZ,2016,2027
+B217,"Internal Mammary Bypass Graft, Right",B21,2016,2027
+B2170,High Osmolar,B217,2016,2027
+B2170Z,None,B2170,2016,2027
+B2170ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using High Osmolar Contrast,B2170Z,2016,2027
+B2171,Low Osmolar,B217,2016,2027
+B2171Z,None,B2171,2016,2027
+B2171ZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Low Osmolar Contrast,B2171Z,2016,2027
+B217Y,Other Contrast,B217,2016,2027
+B217YZ,None,B217Y,2016,2027
+B217YZZ,Fluoroscopy of Right Internal Mammary Bypass Graft using Other Contrast,B217YZ,2016,2027
+B218,"Internal Mammary Bypass Graft, Left",B21,2016,2027
+B2180,High Osmolar,B218,2016,2027
+B2180Z,None,B2180,2016,2027
+B2180ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using High Osmolar Contrast,B2180Z,2016,2027
+B2181,Low Osmolar,B218,2016,2027
+B2181Z,None,B2181,2016,2027
+B2181ZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Low Osmolar Contrast,B2181Z,2016,2027
+B218Y,Other Contrast,B218,2016,2027
+B218YZ,None,B218Y,2016,2027
+B218YZZ,Fluoroscopy of Left Internal Mammary Bypass Graft using Other Contrast,B218YZ,2016,2027
+B21F,"Bypass Graft, Other",B21,2016,2027
+B21F0,High Osmolar,B21F,2016,2027
+B21F0Z,None,B21F0,2016,2027
+B21F0ZZ,Fluoroscopy of Other Bypass Graft using High Osmolar Contrast,B21F0Z,2016,2027
+B21F1,Low Osmolar,B21F,2016,2027
+B21F1Z,None,B21F1,2016,2027
+B21F1ZZ,Fluoroscopy of Other Bypass Graft using Low Osmolar Contrast,B21F1Z,2016,2027
+B21FY,Other Contrast,B21F,2016,2027
+B21FYZ,None,B21FY,2016,2027
+B21FYZZ,Fluoroscopy of Other Bypass Graft using Other Contrast,B21FYZ,2016,2027
+B22,Computerized Tomography (CT Scan),B2,2016,2027
+B221,"Coronary Arteries, Multiple",B22,2016,2027
+B2210,High Osmolar,B221,2016,2027
+B22100,Unenhanced and Enhanced,B2210,2016,2027
+B22100Z,"Computerized Tomography (CT Scan) of Multiple Coronary Arteries using High Osmolar Contrast, Unenhanced and Enhanced",B22100,2016,2027
+B2210Z,None,B2210,2016,2027
+B2210ZZ,Computerized Tomography (CT Scan) of Multiple Coronary Arteries using High Osmolar Contrast,B2210Z,2016,2027
+B2211,Low Osmolar,B221,2016,2027
+B22110,Unenhanced and Enhanced,B2211,2016,2027
+B22110Z,"Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Low Osmolar Contrast, Unenhanced and Enhanced",B22110,2016,2027
+B2211Z,None,B2211,2016,2027
+B2211ZZ,Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Low Osmolar Contrast,B2211Z,2016,2027
+B221Y,Other Contrast,B221,2016,2027
+B221Y0,Unenhanced and Enhanced,B221Y,2016,2027
+B221Y0Z,"Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Other Contrast, Unenhanced and Enhanced",B221Y0,2016,2027
+B221YZ,None,B221Y,2016,2027
+B221YZZ,Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Other Contrast,B221YZ,2016,2027
+B221Z,None,B221,2016,2027
+B221Z2,Intravascular Optical Coherence,B221Z,2016,2027
+B221Z2Z,Computerized Tomography (CT Scan) of Multiple Coronary Arteries using Intravascular Optical Coherence,B221Z2,2016,2027
+B221ZZ,None,B221Z,2016,2027
+B221ZZZ,Computerized Tomography (CT Scan) of Multiple Coronary Arteries,B221ZZ,2016,2027
+B223,"Coronary Artery Bypass Grafts, Multiple",B22,2016,2027
+B2230,High Osmolar,B223,2016,2027
+B22300,Unenhanced and Enhanced,B2230,2016,2027
+B22300Z,"Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast, Unenhanced and Enhanced",B22300,2016,2027
+B2230Z,None,B2230,2016,2027
+B2230ZZ,Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using High Osmolar Contrast,B2230Z,2016,2027
+B2231,Low Osmolar,B223,2016,2027
+B22310,Unenhanced and Enhanced,B2231,2016,2027
+B22310Z,"Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast, Unenhanced and Enhanced",B22310,2016,2027
+B2231Z,None,B2231,2016,2027
+B2231ZZ,Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Low Osmolar Contrast,B2231Z,2016,2027
+B223Y,Other Contrast,B223,2016,2027
+B223Y0,Unenhanced and Enhanced,B223Y,2016,2027
+B223Y0Z,"Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Other Contrast, Unenhanced and Enhanced",B223Y0,2016,2027
+B223YZ,None,B223Y,2016,2027
+B223YZZ,Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Other Contrast,B223YZ,2016,2027
+B223Z,None,B223,2016,2027
+B223Z2,Intravascular Optical Coherence,B223Z,2016,2027
+B223Z2Z,Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts using Intravascular Optical Coherence,B223Z2,2016,2027
+B223ZZ,None,B223Z,2016,2027
+B223ZZZ,Computerized Tomography (CT Scan) of Multiple Coronary Artery Bypass Grafts,B223ZZ,2016,2027
+B226,"Heart, Right and Left",B22,2016,2027
+B2260,High Osmolar,B226,2016,2027
+B22600,Unenhanced and Enhanced,B2260,2016,2027
+B22600Z,"Computerized Tomography (CT Scan) of Right and Left Heart using High Osmolar Contrast, Unenhanced and Enhanced",B22600,2016,2027
+B2260Z,None,B2260,2016,2027
+B2260ZZ,Computerized Tomography (CT Scan) of Right and Left Heart using High Osmolar Contrast,B2260Z,2016,2027
+B2261,Low Osmolar,B226,2016,2027
+B22610,Unenhanced and Enhanced,B2261,2016,2027
+B22610Z,"Computerized Tomography (CT Scan) of Right and Left Heart using Low Osmolar Contrast, Unenhanced and Enhanced",B22610,2016,2027
+B2261Z,None,B2261,2016,2027
+B2261ZZ,Computerized Tomography (CT Scan) of Right and Left Heart using Low Osmolar Contrast,B2261Z,2016,2027
+B226Y,Other Contrast,B226,2016,2027
+B226Y0,Unenhanced and Enhanced,B226Y,2016,2027
+B226Y0Z,"Computerized Tomography (CT Scan) of Right and Left Heart using Other Contrast, Unenhanced and Enhanced",B226Y0,2016,2027
+B226YZ,None,B226Y,2016,2027
+B226YZZ,Computerized Tomography (CT Scan) of Right and Left Heart using Other Contrast,B226YZ,2016,2027
+B226Z,None,B226,2016,2027
+B226Z2,Intravascular Optical Coherence,B226Z,2016,2027
+B226Z2Z,Computerized Tomography (CT Scan) of Right and Left Heart using Intravascular Optical Coherence,B226Z2,2016,2027
+B226ZZ,None,B226Z,2016,2027
+B226ZZZ,Computerized Tomography (CT Scan) of Right and Left Heart,B226ZZ,2016,2027
+B23,Magnetic Resonance Imaging (MRI),B2,2016,2027
+B231,"Coronary Arteries, Multiple",B23,2016,2027
+B231Y,Other Contrast,B231,2016,2027
+B231Y0,Unenhanced and Enhanced,B231Y,2016,2027
+B231Y0Z,"Magnetic Resonance Imaging (MRI) of Multiple Coronary Arteries using Other Contrast, Unenhanced and Enhanced",B231Y0,2016,2027
+B231YZ,None,B231Y,2016,2027
+B231YZZ,Magnetic Resonance Imaging (MRI) of Multiple Coronary Arteries using Other Contrast,B231YZ,2016,2027
+B231Z,None,B231,2016,2027
+B231ZZ,None,B231Z,2016,2027
+B231ZZZ,Magnetic Resonance Imaging (MRI) of Multiple Coronary Arteries,B231ZZ,2016,2027
+B233,"Coronary Artery Bypass Grafts, Multiple",B23,2016,2027
+B233Y,Other Contrast,B233,2016,2027
+B233Y0,Unenhanced and Enhanced,B233Y,2016,2027
+B233Y0Z,"Magnetic Resonance Imaging (MRI) of Multiple Coronary Artery Bypass Grafts using Other Contrast, Unenhanced and Enhanced",B233Y0,2016,2027
+B233YZ,None,B233Y,2016,2027
+B233YZZ,Magnetic Resonance Imaging (MRI) of Multiple Coronary Artery Bypass Grafts using Other Contrast,B233YZ,2016,2027
+B233Z,None,B233,2016,2027
+B233ZZ,None,B233Z,2016,2027
+B233ZZZ,Magnetic Resonance Imaging (MRI) of Multiple Coronary Artery Bypass Grafts,B233ZZ,2016,2027
+B236,"Heart, Right and Left",B23,2016,2027
+B236Y,Other Contrast,B236,2016,2027
+B236Y0,Unenhanced and Enhanced,B236Y,2016,2027
+B236Y0Z,"Magnetic Resonance Imaging (MRI) of Right and Left Heart using Other Contrast, Unenhanced and Enhanced",B236Y0,2016,2027
+B236YZ,None,B236Y,2016,2027
+B236YZZ,Magnetic Resonance Imaging (MRI) of Right and Left Heart using Other Contrast,B236YZ,2016,2027
+B236Z,None,B236,2016,2027
+B236ZZ,None,B236Z,2016,2027
+B236ZZZ,Magnetic Resonance Imaging (MRI) of Right and Left Heart,B236ZZ,2016,2027
+B24,Ultrasonography,B2,2016,2027
+B240,"Coronary Artery, Single",B24,2016,2027
+B240Y,Other Contrast,B240,2016,2027
+B240YZ,None,B240Y,2016,2027
+B240YZZ,Ultrasonography of Single Coronary Artery using Other Contrast,B240YZ,2016,2027
+B240Z,None,B240,2016,2027
+B240ZZ,None,B240Z,2016,2027
+B240ZZ3,"Ultrasonography of Single Coronary Artery, Intravascular",B240ZZ,2016,2027
+B240ZZ4,"Ultrasonography of Single Coronary Artery, Transesophageal",B240ZZ,2016,2027
+B240ZZZ,Ultrasonography of Single Coronary Artery,B240ZZ,2016,2027
+B241,"Coronary Arteries, Multiple",B24,2016,2027
+B241Y,Other Contrast,B241,2016,2027
+B241YZ,None,B241Y,2016,2027
+B241YZZ,Ultrasonography of Multiple Coronary Arteries using Other Contrast,B241YZ,2016,2027
+B241Z,None,B241,2016,2027
+B241ZZ,None,B241Z,2016,2027
+B241ZZ3,"Ultrasonography of Multiple Coronary Arteries, Intravascular",B241ZZ,2016,2027
+B241ZZ4,"Ultrasonography of Multiple Coronary Arteries, Transesophageal",B241ZZ,2016,2027
+B241ZZZ,Ultrasonography of Multiple Coronary Arteries,B241ZZ,2016,2027
+B244,"Heart, Right",B24,2016,2027
+B244Y,Other Contrast,B244,2016,2027
+B244YZ,None,B244Y,2016,2027
+B244YZZ,Ultrasonography of Right Heart using Other Contrast,B244YZ,2016,2027
+B244Z,None,B244,2016,2027
+B244ZZ,None,B244Z,2016,2027
+B244ZZ3,"Ultrasonography of Right Heart, Intravascular",B244ZZ,2016,2027
+B244ZZ4,"Ultrasonography of Right Heart, Transesophageal",B244ZZ,2016,2027
+B244ZZZ,Ultrasonography of Right Heart,B244ZZ,2016,2027
+B245,"Heart, Left",B24,2016,2027
+B245Y,Other Contrast,B245,2016,2027
+B245YZ,None,B245Y,2016,2027
+B245YZZ,Ultrasonography of Left Heart using Other Contrast,B245YZ,2016,2027
+B245Z,None,B245,2016,2027
+B245ZZ,None,B245Z,2016,2027
+B245ZZ3,"Ultrasonography of Left Heart, Intravascular",B245ZZ,2016,2027
+B245ZZ4,"Ultrasonography of Left Heart, Transesophageal",B245ZZ,2016,2027
+B245ZZZ,Ultrasonography of Left Heart,B245ZZ,2016,2027
+B246,"Heart, Right and Left",B24,2016,2027
+B246Y,Other Contrast,B246,2016,2027
+B246YZ,None,B246Y,2016,2027
+B246YZZ,Ultrasonography of Right and Left Heart using Other Contrast,B246YZ,2016,2027
+B246Z,None,B246,2016,2027
+B246ZZ,None,B246Z,2016,2027
+B246ZZ3,"Ultrasonography of Right and Left Heart, Intravascular",B246ZZ,2016,2027
+B246ZZ4,"Ultrasonography of Right and Left Heart, Transesophageal",B246ZZ,2016,2027
+B246ZZZ,Ultrasonography of Right and Left Heart,B246ZZ,2016,2027
+B24B,Heart with Aorta,B24,2016,2027
+B24BY,Other Contrast,B24B,2016,2027
+B24BYZ,None,B24BY,2016,2027
+B24BYZZ,Ultrasonography of Heart with Aorta using Other Contrast,B24BYZ,2016,2027
+B24BZ,None,B24B,2016,2027
+B24BZZ,None,B24BZ,2016,2027
+B24BZZ3,"Ultrasonography of Heart with Aorta, Intravascular",B24BZZ,2016,2027
+B24BZZ4,"Ultrasonography of Heart with Aorta, Transesophageal",B24BZZ,2016,2027
+B24BZZZ,Ultrasonography of Heart with Aorta,B24BZZ,2016,2027
+B24C,Pericardium,B24,2016,2027
+B24CY,Other Contrast,B24C,2016,2027
+B24CYZ,None,B24CY,2016,2027
+B24CYZZ,Ultrasonography of Pericardium using Other Contrast,B24CYZ,2016,2027
+B24CZ,None,B24C,2016,2027
+B24CZZ,None,B24CZ,2016,2027
+B24CZZ3,"Ultrasonography of Pericardium, Intravascular",B24CZZ,2016,2027
+B24CZZ4,"Ultrasonography of Pericardium, Transesophageal",B24CZZ,2016,2027
+B24CZZZ,Ultrasonography of Pericardium,B24CZZ,2016,2027
+B24D,Pediatric Heart,B24,2016,2027
+B24DY,Other Contrast,B24D,2016,2027
+B24DYZ,None,B24DY,2016,2027
+B24DYZZ,Ultrasonography of Pediatric Heart using Other Contrast,B24DYZ,2016,2027
+B24DZ,None,B24D,2016,2027
+B24DZZ,None,B24DZ,2016,2027
+B24DZZ3,"Ultrasonography of Pediatric Heart, Intravascular",B24DZZ,2016,2027
+B24DZZ4,"Ultrasonography of Pediatric Heart, Transesophageal",B24DZZ,2016,2027
+B24DZZZ,Ultrasonography of Pediatric Heart,B24DZZ,2016,2027

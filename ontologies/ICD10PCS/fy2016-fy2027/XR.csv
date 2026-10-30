@@ -1,0 +1,336 @@
+code,description,parent,first_year,last_year
+XR,Joints,X,2016,2027
+XR2,Monitoring,XR,2016,2021
+XR2G,"Knee Joint, Right",XR2,2016,2021
+XR2G0,Open,XR2G,2016,2021
+XR2G02,Intraoperative Knee Replacement Sensor,XR2G0,2016,2021
+XR2G021,"Monitoring of Right Knee Joint using Intraoperative Knee Replacement Sensor, Open Approach, New Technology Group 1",XR2G02,2016,2021
+XR2H,"Knee Joint, Left",XR2,2016,2021
+XR2H0,Open,XR2H,2016,2021
+XR2H02,Intraoperative Knee Replacement Sensor,XR2H0,2016,2021
+XR2H021,"Monitoring of Left Knee Joint using Intraoperative Knee Replacement Sensor, Open Approach, New Technology Group 1",XR2H02,2016,2021
+XRG,Fusion,XR,2017,2027
+XRG0,Occipital-cervical Joint,XRG,2017,2022
+XRG00,Open,XRG0,2017,2022
+XRG009,"Interbody Fusion Device, Nanotextured Surface",XRG00,2017,2022
+XRG0092,"Fusion of Occipital-cervical Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG009,2017,2022
+XRG00F,"Interbody Fusion Device, Radiolucent Porous",XRG00,2018,2022
+XRG00F3,"Fusion of Occipital-cervical Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG00F,2018,2022
+XRG1,Cervical Vertebral Joint,XRG,2017,2027
+XRG10,Open,XRG1,2017,2027
+XRG109,"Interbody Fusion Device, Nanotextured Surface",XRG10,2017,2022
+XRG1092,"Fusion of Cervical Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG109,2017,2022
+XRG10F,"Interbody Fusion Device, Radiolucent Porous",XRG10,2018,2022
+XRG10F3,"Fusion of Cervical Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG10F,2018,2022
+XRG10R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG10,2026,2027
+XRG10RB,"Fusion of Cervical Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 11",XRG10R,2026,2027
+XRG13,Percutaneous,XRG1,2026,2027
+XRG13R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG13,2026,2027
+XRG13RB,"Fusion of Cervical Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 11",XRG13R,2026,2027
+XRG14,Percutaneous Endoscopic,XRG1,2026,2027
+XRG14R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG14,2026,2027
+XRG14RB,"Fusion of Cervical Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 11",XRG14R,2026,2027
+XRG2,"Cervical Vertebral Joints, 2 or more",XRG,2017,2027
+XRG20,Open,XRG2,2017,2027
+XRG209,"Interbody Fusion Device, Nanotextured Surface",XRG20,2017,2022
+XRG2092,"Fusion of 2 or more Cervical Vertebral Joints using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG209,2017,2022
+XRG20F,"Interbody Fusion Device, Radiolucent Porous",XRG20,2018,2022
+XRG20F3,"Fusion of 2 or more Cervical Vertebral Joints using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG20F,2018,2022
+XRG20R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG20,2026,2027
+XRG20RB,"Fusion of 2 or more Cervical Vertebral Joints using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 11",XRG20R,2026,2027
+XRG23,Percutaneous,XRG2,2026,2027
+XRG23R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG23,2026,2027
+XRG23RB,"Fusion of 2 or more Cervical Vertebral Joints using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 11",XRG23R,2026,2027
+XRG24,Percutaneous Endoscopic,XRG2,2026,2027
+XRG24R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG24,2026,2027
+XRG24RB,"Fusion of 2 or more Cervical Vertebral Joints using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 11",XRG24R,2026,2027
+XRG4,Cervicothoracic Vertebral Joint,XRG,2017,2027
+XRG40,Open,XRG4,2017,2027
+XRG409,"Interbody Fusion Device, Nanotextured Surface",XRG40,2017,2022
+XRG4092,"Fusion of Cervicothoracic Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG409,2017,2022
+XRG40F,"Interbody Fusion Device, Radiolucent Porous",XRG40,2018,2022
+XRG40F3,"Fusion of Cervicothoracic Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG40F,2018,2022
+XRG40R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG40,2026,2027
+XRG40RB,"Fusion of Cervicothoracic Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 11",XRG40R,2026,2027
+XRG43,Percutaneous,XRG4,2026,2027
+XRG43R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG43,2026,2027
+XRG43RB,"Fusion of Cervicothoracic Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 11",XRG43R,2026,2027
+XRG44,Percutaneous Endoscopic,XRG4,2026,2027
+XRG44R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRG44,2026,2027
+XRG44RB,"Fusion of Cervicothoracic Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 11",XRG44R,2026,2027
+XRG6,Thoracic Vertebral Joint,XRG,2017,2022
+XRG60,Open,XRG6,2017,2022
+XRG609,"Interbody Fusion Device, Nanotextured Surface",XRG60,2017,2022
+XRG6092,"Fusion of Thoracic Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG609,2017,2022
+XRG60F,"Interbody Fusion Device, Radiolucent Porous",XRG60,2018,2022
+XRG60F3,"Fusion of Thoracic Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG60F,2018,2022
+XRG7,"Thoracic Vertebral Joints, 2 to 7",XRG,2017,2022
+XRG70,Open,XRG7,2017,2022
+XRG709,"Interbody Fusion Device, Nanotextured Surface",XRG70,2017,2022
+XRG7092,"Fusion of 2 to 7 Thoracic Vertebral Joints using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG709,2017,2022
+XRG70F,"Interbody Fusion Device, Radiolucent Porous",XRG70,2018,2022
+XRG70F3,"Fusion of 2 to 7 Thoracic Vertebral Joints using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG70F,2018,2022
+XRG8,"Thoracic Vertebral Joints, 8 or more",XRG,2017,2022
+XRG80,Open,XRG8,2017,2022
+XRG809,"Interbody Fusion Device, Nanotextured Surface",XRG80,2017,2022
+XRG8092,"Fusion of 8 or more Thoracic Vertebral Joints using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRG809,2017,2022
+XRG80F,"Interbody Fusion Device, Radiolucent Porous",XRG80,2018,2022
+XRG80F3,"Fusion of 8 or more Thoracic Vertebral Joints using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRG80F,2018,2022
+XRGA,Thoracolumbar Vertebral Joint,XRG,2017,2027
+XRGA0,Open,XRGA,2017,2027
+XRGA09,"Interbody Fusion Device, Nanotextured Surface",XRGA0,2017,2022
+XRGA092,"Fusion of Thoracolumbar Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRGA09,2017,2022
+XRGA0E,"Facet Joint Fusion Device, Paired Titanium Cages",XRGA0,2025,2027
+XRGA0EA,"Fusion of Thoracolumbar Vertebral Joint using Facet Joint Fusion Device, Paired Titanium Cages, Open Approach, New Technology Group 10",XRGA0E,2025,2027
+XRGA0F,"Interbody Fusion Device, Radiolucent Porous",XRGA0,2018,2022
+XRGA0F3,"Fusion of Thoracolumbar Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRGA0F,2018,2022
+XRGA0R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGA0,2022,2026
+XRGA0R7,"Fusion of Thoracolumbar Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 7",XRGA0R,2022,2026
+XRGA3,Percutaneous,XRGA,2022,2026
+XRGA3R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGA3,2022,2026
+XRGA3R7,"Fusion of Thoracolumbar Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 7",XRGA3R,2022,2026
+XRGA4,Percutaneous Endoscopic,XRGA,2022,2026
+XRGA4R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGA4,2022,2026
+XRGA4R7,"Fusion of Thoracolumbar Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7",XRGA4R,2022,2026
+XRGB,Lumbar Vertebral Joint,XRG,2017,2027
+XRGB0,Open,XRGB,2017,2027
+XRGB09,"Interbody Fusion Device, Nanotextured Surface",XRGB0,2017,2022
+XRGB092,"Fusion of Lumbar Vertebral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRGB09,2017,2022
+XRGB0E,"Facet Joint Fusion Device, Paired Titanium Cages",XRGB0,2025,2027
+XRGB0EA,"Fusion of Lumbar Vertebral Joint using Facet Joint Fusion Device, Paired Titanium Cages, Open Approach, New Technology Group 10",XRGB0E,2025,2027
+XRGB0F,"Interbody Fusion Device, Radiolucent Porous",XRGB0,2018,2022
+XRGB0F3,"Fusion of Lumbar Vertebral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRGB0F,2018,2022
+XRGB0R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGB0,2022,2026
+XRGB0R7,"Fusion of Lumbar Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 7",XRGB0R,2022,2026
+XRGB3,Percutaneous,XRGB,2022,2026
+XRGB3R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGB3,2022,2026
+XRGB3R7,"Fusion of Lumbar Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 7",XRGB3R,2022,2026
+XRGB4,Percutaneous Endoscopic,XRGB,2022,2026
+XRGB4R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGB4,2022,2026
+XRGB4R7,"Fusion of Lumbar Vertebral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7",XRGB4R,2022,2026
+XRGC,"Lumbar Vertebral Joints, 2 or more",XRG,2017,2027
+XRGC0,Open,XRGC,2017,2027
+XRGC09,"Interbody Fusion Device, Nanotextured Surface",XRGC0,2017,2022
+XRGC092,"Fusion of 2 or more Lumbar Vertebral Joints using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRGC09,2017,2022
+XRGC0E,"Facet Joint Fusion Device, Paired Titanium Cages",XRGC0,2025,2027
+XRGC0EA,"Fusion of 2 or more Lumbar Vertebral Joints using Facet Joint Fusion Device, Paired Titanium Cages, Open Approach, New Technology Group 10",XRGC0E,2025,2027
+XRGC0F,"Interbody Fusion Device, Radiolucent Porous",XRGC0,2018,2022
+XRGC0F3,"Fusion of 2 or more Lumbar Vertebral Joints using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRGC0F,2018,2022
+XRGC0R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGC0,2022,2026
+XRGC0R7,"Fusion of 2 or more Lumbar Vertebral Joints using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 7",XRGC0R,2022,2026
+XRGC3,Percutaneous,XRGC,2022,2026
+XRGC3R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGC3,2022,2026
+XRGC3R7,"Fusion of 2 or more Lumbar Vertebral Joints using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 7",XRGC3R,2022,2026
+XRGC4,Percutaneous Endoscopic,XRGC,2022,2026
+XRGC4R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGC4,2022,2026
+XRGC4R7,"Fusion of 2 or more Lumbar Vertebral Joints using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7",XRGC4R,2022,2026
+XRGD,Lumbosacral Joint,XRG,2017,2027
+XRGD0,Open,XRGD,2017,2027
+XRGD09,"Interbody Fusion Device, Nanotextured Surface",XRGD0,2017,2022
+XRGD092,"Fusion of Lumbosacral Joint using Nanotextured Surface Interbody Fusion Device, Open Approach, New Technology Group 2",XRGD09,2017,2022
+XRGD0E,"Facet Joint Fusion Device, Paired Titanium Cages",XRGD0,2025,2027
+XRGD0EA,"Fusion of Lumbosacral Joint using Facet Joint Fusion Device, Paired Titanium Cages, Open Approach, New Technology Group 10",XRGD0E,2025,2027
+XRGD0F,"Interbody Fusion Device, Radiolucent Porous",XRGD0,2018,2022
+XRGD0F3,"Fusion of Lumbosacral Joint using Radiolucent Porous Interbody Fusion Device, Open Approach, New Technology Group 3",XRGD0F,2018,2022
+XRGD0R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGD0,2022,2026
+XRGD0R7,"Fusion of Lumbosacral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Open Approach, New Technology Group 7",XRGD0R,2022,2026
+XRGD3,Percutaneous,XRGD,2022,2026
+XRGD3R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGD3,2022,2026
+XRGD3R7,"Fusion of Lumbosacral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Approach, New Technology Group 7",XRGD3R,2022,2026
+XRGD4,Percutaneous Endoscopic,XRGD,2022,2026
+XRGD4R,"Interbody Fusion Device, Custom-Made Anatomically Designed",XRGD4,2022,2026
+XRGD4R7,"Fusion of Lumbosacral Joint using Custom-Made Anatomically Designed Interbody Fusion Device, Percutaneous Endoscopic Approach, New Technology Group 7",XRGD4R,2022,2026
+XRGE,"Sacroiliac Joint, Right",XRG,2023,2027
+XRGE0,Open,XRGE,2023,2027
+XRGE05,Internal Fixation Device with Tulip Connector,XRGE0,2023,2027
+XRGE058,"Fusion of Right Sacroiliac Joint using Internal Fixation Device with Tulip Connector, Open Approach, New Technology Group 8",XRGE05,2023,2027
+XRGE0H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XRGE0,2026,2027
+XRGE0HB,"Fusion of Right Sacroiliac Joint using Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Open Approach, New Technology Group 11",XRGE0H,2026,2027
+XRGE3,Percutaneous,XRGE,2023,2027
+XRGE35,Internal Fixation Device with Tulip Connector,XRGE3,2023,2027
+XRGE358,"Fusion of Right Sacroiliac Joint using Internal Fixation Device with Tulip Connector, Percutaneous Approach, New Technology Group 8",XRGE35,2023,2027
+XRGE3H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XRGE3,2026,2027
+XRGE3HB,"Fusion of Right Sacroiliac Joint using Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Percutaneous Approach, New Technology Group 11",XRGE3H,2026,2027
+XRGF,"Sacroiliac Joint, Left",XRG,2023,2027
+XRGF0,Open,XRGF,2023,2027
+XRGF05,Internal Fixation Device with Tulip Connector,XRGF0,2023,2027
+XRGF058,"Fusion of Left Sacroiliac Joint using Internal Fixation Device with Tulip Connector, Open Approach, New Technology Group 8",XRGF05,2023,2027
+XRGF0H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XRGF0,2026,2027
+XRGF0HB,"Fusion of Left Sacroiliac Joint using Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Open Approach, New Technology Group 11",XRGF0H,2026,2027
+XRGF3,Percutaneous,XRGF,2023,2027
+XRGF35,Internal Fixation Device with Tulip Connector,XRGF3,2023,2027
+XRGF358,"Fusion of Left Sacroiliac Joint using Internal Fixation Device with Tulip Connector, Percutaneous Approach, New Technology Group 8",XRGF35,2023,2027
+XRGF3H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XRGF3,2026,2027
+XRGF3HB,"Fusion of Left Sacroiliac Joint using Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Percutaneous Approach, New Technology Group 11",XRGF3H,2026,2027
+XRGJ,"Ankle Joint, Right",XRG,2024,2027
+XRGJ0,Open,XRGJ,2024,2027
+XRGJ0B,"Internal Fixation Device, Open-truss Design",XRGJ0,2024,2027
+XRGJ0B9,"Fusion of Right Ankle Joint using Open-truss Design Internal Fixation Device, Open Approach, New Technology Group 9",XRGJ0B,2024,2027
+XRGJ0C,"Internal Fixation Device, Gyroid-Sheet Lattice Design",XRGJ0,2025,2027
+XRGJ0CA,"Fusion of Right Ankle Joint using Gyroid-Sheet Lattice Design Internal Fixation Device, Open Approach, New Technology Group 10",XRGJ0C,2025,2027
+XRGK,"Ankle Joint, Left",XRG,2024,2027
+XRGK0,Open,XRGK,2024,2027
+XRGK0B,"Internal Fixation Device, Open-truss Design",XRGK0,2024,2027
+XRGK0B9,"Fusion of Left Ankle Joint using Open-truss Design Internal Fixation Device, Open Approach, New Technology Group 9",XRGK0B,2024,2027
+XRGK0C,"Internal Fixation Device, Gyroid-Sheet Lattice Design",XRGK0,2025,2027
+XRGK0CA,"Fusion of Left Ankle Joint using Gyroid-Sheet Lattice Design Internal Fixation Device, Open Approach, New Technology Group 10",XRGK0C,2025,2027
+XRGL,"Tarsal Joint, Right",XRG,2024,2027
+XRGL0,Open,XRGL,2024,2027
+XRGL0B,"Internal Fixation Device, Open-truss Design",XRGL0,2024,2027
+XRGL0B9,"Fusion of Right Tarsal Joint using Open-truss Design Internal Fixation Device, Open Approach, New Technology Group 9",XRGL0B,2024,2027
+XRGL0C,"Internal Fixation Device, Gyroid-Sheet Lattice Design",XRGL0,2025,2027
+XRGL0CA,"Fusion of Right Tarsal Joint using Gyroid-Sheet Lattice Design Internal Fixation Device, Open Approach, New Technology Group 10",XRGL0C,2025,2027
+XRGM,"Tarsal Joint, Left",XRG,2024,2027
+XRGM0,Open,XRGM,2024,2027
+XRGM0B,"Internal Fixation Device, Open-truss Design",XRGM0,2024,2027
+XRGM0B9,"Fusion of Left Tarsal Joint using Open-truss Design Internal Fixation Device, Open Approach, New Technology Group 9",XRGM0B,2024,2027
+XRGM0C,"Internal Fixation Device, Gyroid-Sheet Lattice Design",XRGM0,2025,2027
+XRGM0CA,"Fusion of Left Tarsal Joint using Gyroid-Sheet Lattice Design Internal Fixation Device, Open Approach, New Technology Group 10",XRGM0C,2025,2027
+XRH,Insertion,XR,2023,2027
+XRH1,Cervical Vertebral Joint,XRH,2026,2027
+XRH10,Open,XRH1,2026,2027
+XRH10G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH10,2026,2027
+XRH10GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Cervical Vertebral Joint, Open Approach, New Technology Group 11",XRH10G,2026,2027
+XRH10N,Carbon/PEEK Spinal Stabilization Device,XRH10,2027,2027
+XRH10NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Cervical Vertebral Joint, Open Approach, New Technology Group 12",XRH10N,2027,2027
+XRH13,Percutaneous,XRH1,2026,2027
+XRH13G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH13,2026,2027
+XRH13GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Cervical Vertebral Joint, Percutaneous Approach, New Technology Group 11",XRH13G,2026,2027
+XRH13N,Carbon/PEEK Spinal Stabilization Device,XRH13,2027,2027
+XRH13NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Cervical Vertebral Joint, Percutaneous Approach, New Technology Group 12",XRH13N,2027,2027
+XRH14,Percutaneous Endoscopic,XRH1,2026,2027
+XRH14G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH14,2026,2027
+XRH14GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Cervical Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 11",XRH14G,2026,2027
+XRH14N,Carbon/PEEK Spinal Stabilization Device,XRH14,2027,2027
+XRH14NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Cervical Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 12",XRH14N,2027,2027
+XRH2,"Cervical Vertebral Joints, 2 or more",XRH,2026,2027
+XRH20,Open,XRH2,2026,2027
+XRH20G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH20,2026,2027
+XRH20GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into 2 or more Cervical Vertebral Joints, Open Approach, New Technology Group 11",XRH20G,2026,2027
+XRH20N,Carbon/PEEK Spinal Stabilization Device,XRH20,2027,2027
+XRH20NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into 2 or more Cervical Vertebral Joints, Open Approach, New Technology Group 12",XRH20N,2027,2027
+XRH23,Percutaneous,XRH2,2026,2027
+XRH23G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH23,2026,2027
+XRH23GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into 2 or more Cervical Vertebral Joints, Percutaneous Approach, New Technology Group 11",XRH23G,2026,2027
+XRH23N,Carbon/PEEK Spinal Stabilization Device,XRH23,2027,2027
+XRH23NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into 2 or more Cervical Vertebral Joints, Percutaneous Approach, New Technology Group 12",XRH23N,2027,2027
+XRH24,Percutaneous Endoscopic,XRH2,2026,2027
+XRH24G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH24,2026,2027
+XRH24GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into 2 or more Cervical Vertebral Joints, Percutaneous Endoscopic Approach, New Technology Group 11",XRH24G,2026,2027
+XRH24N,Carbon/PEEK Spinal Stabilization Device,XRH24,2027,2027
+XRH24NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into 2 or more Cervical Vertebral Joints, Percutaneous Endoscopic Approach, New Technology Group 12",XRH24N,2027,2027
+XRH4,Cervicothoracic Vertebral Joint,XRH,2026,2027
+XRH40,Open,XRH4,2026,2027
+XRH40G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH40,2026,2027
+XRH40GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Cervicothoracic Vertebral Joint, Open Approach, New Technology Group 11",XRH40G,2026,2027
+XRH40N,Carbon/PEEK Spinal Stabilization Device,XRH40,2027,2027
+XRH40NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Cervicothoracic Vertebral Joint, Open Approach, New Technology Group 12",XRH40N,2027,2027
+XRH43,Percutaneous,XRH4,2026,2027
+XRH43G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH43,2026,2027
+XRH43GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Cervicothoracic Vertebral Joint, Percutaneous Approach, New Technology Group 11",XRH43G,2026,2027
+XRH43N,Carbon/PEEK Spinal Stabilization Device,XRH43,2027,2027
+XRH43NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Cervicothoracic Vertebral Joint, Percutaneous Approach, New Technology Group 12",XRH43N,2027,2027
+XRH44,Percutaneous Endoscopic,XRH4,2026,2027
+XRH44G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH44,2026,2027
+XRH44GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Cervicothoracic Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 11",XRH44G,2026,2027
+XRH44N,Carbon/PEEK Spinal Stabilization Device,XRH44,2027,2027
+XRH44NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Cervicothoracic Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 12",XRH44N,2027,2027
+XRH6,Thoracic Vertebral Joint,XRH,2025,2027
+XRH60,Open,XRH6,2025,2027
+XRH60F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH60,2025,2027
+XRH60FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Thoracic Vertebral Joint, Open Approach, New Technology Group 10",XRH60F,2025,2027
+XRH60G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH60,2026,2027
+XRH60GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Thoracic Vertebral Joint, Open Approach, New Technology Group 11",XRH60G,2026,2027
+XRH60N,Carbon/PEEK Spinal Stabilization Device,XRH60,2027,2027
+XRH60NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Thoracic Vertebral Joint, Open Approach, New Technology Group 12",XRH60N,2027,2027
+XRH63,Percutaneous,XRH6,2025,2027
+XRH63F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH63,2025,2027
+XRH63FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Thoracic Vertebral Joint, Percutaneous Approach, New Technology Group 10",XRH63F,2025,2027
+XRH63G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH63,2026,2027
+XRH63GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Thoracic Vertebral Joint, Percutaneous Approach, New Technology Group 11",XRH63G,2026,2027
+XRH63N,Carbon/PEEK Spinal Stabilization Device,XRH63,2027,2027
+XRH63NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Thoracic Vertebral Joint, Percutaneous Approach, New Technology Group 12",XRH63N,2027,2027
+XRH64,Percutaneous Endoscopic,XRH6,2025,2027
+XRH64F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH64,2025,2027
+XRH64FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Thoracic Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 10",XRH64F,2025,2027
+XRH64G,Molybdenum Rhenium Alloy Spinal Stabilization Device,XRH64,2026,2027
+XRH64GB,"Insertion of Molybdenum Rhenium Alloy Spinal Stabilization Device into Thoracic Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 11",XRH64G,2026,2027
+XRH64N,Carbon/PEEK Spinal Stabilization Device,XRH64,2027,2027
+XRH64NC,"Insertion of Carbon/PEEK Spinal Stabilization Device into Thoracic Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 12",XRH64N,2027,2027
+XRH7,"Thoracic Vertebral Joints, 2 to 7",XRH,2025,2027
+XRH70,Open,XRH7,2025,2027
+XRH70F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH70,2025,2027
+XRH70FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 2 to 7 Thoracic Vertebral Joints, Open Approach, New Technology Group 10",XRH70F,2025,2027
+XRH73,Percutaneous,XRH7,2025,2027
+XRH73F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH73,2025,2027
+XRH73FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 2 to 7 Thoracic Vertebral Joints, Percutaneous Approach, New Technology Group 10",XRH73F,2025,2027
+XRH74,Percutaneous Endoscopic,XRH7,2025,2027
+XRH74F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH74,2025,2027
+XRH74FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 2 to 7 Thoracic Vertebral Joints, Percutaneous Endoscopic Approach, New Technology Group 10",XRH74F,2025,2027
+XRH8,"Thoracic Vertebral Joints, 8 or more",XRH,2025,2027
+XRH80,Open,XRH8,2025,2027
+XRH80F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH80,2025,2027
+XRH80FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 8 or more Thoracic Vertebral Joints, Open Approach, New Technology Group 10",XRH80F,2025,2027
+XRH83,Percutaneous,XRH8,2025,2027
+XRH83F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH83,2025,2027
+XRH83FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 8 or more Thoracic Vertebral Joints, Percutaneous Approach, New Technology Group 10",XRH83F,2025,2027
+XRH84,Percutaneous Endoscopic,XRH8,2025,2027
+XRH84F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRH84,2025,2027
+XRH84FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 8 or more Thoracic Vertebral Joints, Percutaneous Endoscopic Approach, New Technology Group 10",XRH84F,2025,2027
+XRHA,Thoracolumbar Vertebral Joint,XRH,2025,2027
+XRHA0,Open,XRHA,2025,2027
+XRHA0F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHA0,2025,2027
+XRHA0FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Thoracolumbar Vertebral Joint, Open Approach, New Technology Group 10",XRHA0F,2025,2027
+XRHA3,Percutaneous,XRHA,2025,2027
+XRHA3F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHA3,2025,2027
+XRHA3FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Thoracolumbar Vertebral Joint, Percutaneous Approach, New Technology Group 10",XRHA3F,2025,2027
+XRHA4,Percutaneous Endoscopic,XRHA,2025,2027
+XRHA4F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHA4,2025,2027
+XRHA4FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Thoracolumbar Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 10",XRHA4F,2025,2027
+XRHB,Lumbar Vertebral Joint,XRH,2023,2027
+XRHB0,Open,XRHB,2023,2027
+XRHB01,Posterior Spinal Motion Preservation Device,XRHB0,2023,2027
+XRHB018,"Insertion of Posterior Spinal Motion Preservation Device into Lumbar Vertebral Joint, Open Approach, New Technology Group 8",XRHB01,2023,2027
+XRHB0F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHB0,2025,2027
+XRHB0FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Lumbar Vertebral Joint, Open Approach, New Technology Group 10",XRHB0F,2025,2027
+XRHB3,Percutaneous,XRHB,2025,2027
+XRHB3F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHB3,2025,2027
+XRHB3FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Lumbar Vertebral Joint, Percutaneous Approach, New Technology Group 10",XRHB3F,2025,2027
+XRHB4,Percutaneous Endoscopic,XRHB,2025,2027
+XRHB4F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHB4,2025,2027
+XRHB4FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Lumbar Vertebral Joint, Percutaneous Endoscopic Approach, New Technology Group 10",XRHB4F,2025,2027
+XRHC,"Lumbar Vertebral Joints, 2 or more",XRH,2025,2027
+XRHC0,Open,XRHC,2025,2027
+XRHC0F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHC0,2025,2027
+XRHC0FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 2 or more Lumbar Vertebral Joints, Open Approach, New Technology Group 10",XRHC0F,2025,2027
+XRHC3,Percutaneous,XRHC,2025,2027
+XRHC3F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHC3,2025,2027
+XRHC3FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 2 or more Lumbar Vertebral Joints, Percutaneous Approach, New Technology Group 10",XRHC3F,2025,2027
+XRHC4,Percutaneous Endoscopic,XRHC,2025,2027
+XRHC4F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHC4,2025,2027
+XRHC4FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into 2 or more Lumbar Vertebral Joints, Percutaneous Endoscopic Approach, New Technology Group 10",XRHC4F,2025,2027
+XRHD,Lumbosacral Joint,XRH,2023,2027
+XRHD0,Open,XRHD,2023,2027
+XRHD01,Posterior Spinal Motion Preservation Device,XRHD0,2023,2027
+XRHD018,"Insertion of Posterior Spinal Motion Preservation Device into Lumbosacral Joint, Open Approach, New Technology Group 8",XRHD01,2023,2027
+XRHD0F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHD0,2025,2027
+XRHD0FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Lumbosacral Joint, Open Approach, New Technology Group 10",XRHD0F,2025,2027
+XRHD3,Percutaneous,XRHD,2025,2027
+XRHD3F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHD3,2025,2027
+XRHD3FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Lumbosacral Joint, Percutaneous Approach, New Technology Group 10",XRHD3F,2025,2027
+XRHD4,Percutaneous Endoscopic,XRHD,2025,2027
+XRHD4F,"Carbon/PEEK Spinal Stabilization Device, Pedicle Based",XRHD4,2025,2027
+XRHD4FA,"Insertion of Pedicle Based Carbon/PEEK Spinal Stabilization Device into Lumbosacral Joint, Percutaneous Endoscopic Approach, New Technology Group 10",XRHD4F,2025,2027
+XRR,Replacement,XR,2023,2027
+XRRG,"Knee Joint, Right",XRR,2023,2027
+XRRG0,Open,XRRG,2023,2027
+XRRG0L,"Synthetic Substitute, Lateral Meniscus",XRRG0,2023,2027
+XRRG0L8,"Replacement of Right Knee Joint with Synthetic Substitute, Lateral Meniscus, Open Approach, New Technology Group 8",XRRG0L,2023,2027
+XRRG0M,"Synthetic Substitute, Medial Meniscus",XRRG0,2023,2027
+XRRG0M8,"Replacement of Right Knee Joint with Synthetic Substitute, Medial Meniscus, Open Approach, New Technology Group 8",XRRG0M,2023,2027
+XRRH,"Knee Joint, Left",XRR,2023,2027
+XRRH0,Open,XRRH,2023,2027
+XRRH0L,"Synthetic Substitute, Lateral Meniscus",XRRH0,2023,2027
+XRRH0L8,"Replacement of Left Knee Joint with Synthetic Substitute, Lateral Meniscus, Open Approach, New Technology Group 8",XRRH0L,2023,2027
+XRRH0M,"Synthetic Substitute, Medial Meniscus",XRRH0,2023,2027
+XRRH0M8,"Replacement of Left Knee Joint with Synthetic Substitute, Medial Meniscus, Open Approach, New Technology Group 8",XRRH0M,2023,2027

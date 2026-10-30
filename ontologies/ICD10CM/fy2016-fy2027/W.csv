@@ -1,0 +1,1877 @@
+code,description,parent,first_year,last_year
+W00,Fall due to ice and snow,,2016,2027
+W00.0,Fall on same level due to ice and snow,W00,2016,2027
+W00.0XXA,"Fall on same level due to ice and snow, initial encounter",W00.0,2016,2027
+W00.0XXD,"Fall on same level due to ice and snow, subsequent encounter",W00.0,2016,2027
+W00.0XXS,"Fall on same level due to ice and snow, sequela",W00.0,2016,2027
+W00.1,Fall from stairs and steps due to ice and snow,W00,2016,2027
+W00.1XXA,"Fall from stairs and steps due to ice and snow, initial encounter",W00.1,2016,2027
+W00.1XXD,"Fall from stairs and steps due to ice and snow, subsequent encounter",W00.1,2016,2027
+W00.1XXS,"Fall from stairs and steps due to ice and snow, sequela",W00.1,2016,2027
+W00.2,Other fall from one level to another due to ice and snow,W00,2016,2027
+W00.2XXA,"Other fall from one level to another due to ice and snow, initial encounter",W00.2,2016,2027
+W00.2XXD,"Other fall from one level to another due to ice and snow, subsequent encounter",W00.2,2016,2027
+W00.2XXS,"Other fall from one level to another due to ice and snow, sequela",W00.2,2016,2027
+W00.9,Unspecified fall due to ice and snow,W00,2016,2027
+W00.9XXA,"Unspecified fall due to ice and snow, initial encounter",W00.9,2016,2027
+W00.9XXD,"Unspecified fall due to ice and snow, subsequent encounter",W00.9,2016,2027
+W00.9XXS,"Unspecified fall due to ice and snow, sequela",W00.9,2016,2027
+W01,"Fall on same level from slipping, tripping and stumbling",,2016,2027
+W01.0,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object",W01,2016,2027
+W01.0XXA,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, initial encounter",W01.0,2016,2027
+W01.0XXD,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, subsequent encounter",W01.0,2016,2027
+W01.0XXS,"Fall on same level from slipping, tripping and stumbling without subsequent striking against object, sequela",W01.0,2016,2027
+W01.1,"Fall on same level from slipping, tripping and stumbling with subsequent striking against object",W01,2016,2027
+W01.10,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object",W01.1,2016,2027
+W01.10XA,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, initial encounter",W01.10,2016,2027
+W01.10XD,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, subsequent encounter",W01.10,2016,2027
+W01.10XS,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified object, sequela",W01.10,2016,2027
+W01.11,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp object",W01.1,2016,2027
+W01.110,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass",W01.11,2016,2027
+W01.110A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, initial encounter",W01.110,2016,2027
+W01.110D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, subsequent encounter",W01.110,2016,2027
+W01.110S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against sharp glass, sequela",W01.110,2016,2027
+W01.111,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine",W01.11,2016,2027
+W01.111A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, initial encounter",W01.111,2016,2027
+W01.111D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, subsequent encounter",W01.111,2016,2027
+W01.111S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against power tool or machine, sequela",W01.111,2016,2027
+W01.118,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object",W01.11,2016,2027
+W01.118A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, initial encounter",W01.118,2016,2027
+W01.118D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, subsequent encounter",W01.118,2016,2027
+W01.118S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other sharp object, sequela",W01.118,2016,2027
+W01.119,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object",W01.11,2016,2027
+W01.119A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, initial encounter",W01.119,2016,2027
+W01.119D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, subsequent encounter",W01.119,2016,2027
+W01.119S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against unspecified sharp object, sequela",W01.119,2016,2027
+W01.19,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object",W01.1,2016,2027
+W01.190,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture",W01.19,2016,2027
+W01.190A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, initial encounter",W01.190,2016,2027
+W01.190D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, subsequent encounter",W01.190,2016,2027
+W01.190S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against furniture, sequela",W01.190,2016,2027
+W01.198,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object",W01.19,2016,2027
+W01.198A,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, initial encounter",W01.198,2016,2027
+W01.198D,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, subsequent encounter",W01.198,2016,2027
+W01.198S,"Fall on same level from slipping, tripping and stumbling with subsequent striking against other object, sequela",W01.198,2016,2027
+W03,Other fall on same level due to collision with another person,,2016,2027
+W03.XXXA,"Other fall on same level due to collision with another person, initial encounter",W03,2016,2027
+W03.XXXD,"Other fall on same level due to collision with another person, subsequent encounter",W03,2016,2027
+W03.XXXS,"Other fall on same level due to collision with another person, sequela",W03,2016,2027
+W04,Fall while being carried or supported by other persons,,2016,2027
+W04.XXXA,"Fall while being carried or supported by other persons, initial encounter",W04,2016,2027
+W04.XXXD,"Fall while being carried or supported by other persons, subsequent encounter",W04,2016,2027
+W04.XXXS,"Fall while being carried or supported by other persons, sequela",W04,2016,2027
+W05,"Fall from non-moving wheelchair, nonmotorized scooter and motorized mobility scooter",,2016,2027
+W05.0,Fall from non-moving wheelchair,W05,2016,2027
+W05.0XXA,"Fall from non-moving wheelchair, initial encounter",W05.0,2016,2027
+W05.0XXD,"Fall from non-moving wheelchair, subsequent encounter",W05.0,2016,2027
+W05.0XXS,"Fall from non-moving wheelchair, sequela",W05.0,2016,2027
+W05.1,Fall from non-moving nonmotorized scooter,W05,2016,2027
+W05.1XXA,"Fall from non-moving nonmotorized scooter, initial encounter",W05.1,2016,2027
+W05.1XXD,"Fall from non-moving nonmotorized scooter, subsequent encounter",W05.1,2016,2027
+W05.1XXS,"Fall from non-moving nonmotorized scooter, sequela",W05.1,2016,2027
+W05.2,Fall from non-moving motorized mobility scooter,W05,2016,2027
+W05.2XXA,"Fall from non-moving motorized mobility scooter, initial encounter",W05.2,2016,2027
+W05.2XXD,"Fall from non-moving motorized mobility scooter, subsequent encounter",W05.2,2016,2027
+W05.2XXS,"Fall from non-moving motorized mobility scooter, sequela",W05.2,2016,2027
+W06,Fall from bed,,2016,2027
+W06.XXXA,"Fall from bed, initial encounter",W06,2016,2027
+W06.XXXD,"Fall from bed, subsequent encounter",W06,2016,2027
+W06.XXXS,"Fall from bed, sequela",W06,2016,2027
+W07,Fall from chair,,2016,2027
+W07.XXXA,"Fall from chair, initial encounter",W07,2016,2027
+W07.XXXD,"Fall from chair, subsequent encounter",W07,2016,2027
+W07.XXXS,"Fall from chair, sequela",W07,2016,2027
+W08,Fall from other furniture,,2016,2027
+W08.XXXA,"Fall from other furniture, initial encounter",W08,2016,2027
+W08.XXXD,"Fall from other furniture, subsequent encounter",W08,2016,2027
+W08.XXXS,"Fall from other furniture, sequela",W08,2016,2027
+W09,Fall on and from playground equipment,,2016,2027
+W09.0,Fall on or from playground slide,W09,2016,2027
+W09.0XXA,"Fall on or from playground slide, initial encounter",W09.0,2016,2027
+W09.0XXD,"Fall on or from playground slide, subsequent encounter",W09.0,2016,2027
+W09.0XXS,"Fall on or from playground slide, sequela",W09.0,2016,2027
+W09.1,Fall from playground swing,W09,2016,2027
+W09.1XXA,"Fall from playground swing, initial encounter",W09.1,2016,2027
+W09.1XXD,"Fall from playground swing, subsequent encounter",W09.1,2016,2027
+W09.1XXS,"Fall from playground swing, sequela",W09.1,2016,2027
+W09.2,Fall on or from jungle gym,W09,2016,2027
+W09.2XXA,"Fall on or from jungle gym, initial encounter",W09.2,2016,2027
+W09.2XXD,"Fall on or from jungle gym, subsequent encounter",W09.2,2016,2027
+W09.2XXS,"Fall on or from jungle gym, sequela",W09.2,2016,2027
+W09.8,Fall on or from other playground equipment,W09,2016,2027
+W09.8XXA,"Fall on or from other playground equipment, initial encounter",W09.8,2016,2027
+W09.8XXD,"Fall on or from other playground equipment, subsequent encounter",W09.8,2016,2027
+W09.8XXS,"Fall on or from other playground equipment, sequela",W09.8,2016,2027
+W10,Fall on and from stairs and steps,,2016,2027
+W10.0,Fall (on)(from) escalator,W10,2016,2027
+W10.0XXA,"Fall (on)(from) escalator, initial encounter",W10.0,2016,2027
+W10.0XXD,"Fall (on)(from) escalator, subsequent encounter",W10.0,2016,2027
+W10.0XXS,"Fall (on)(from) escalator, sequela",W10.0,2016,2027
+W10.1,Fall (on)(from) sidewalk curb,W10,2016,2027
+W10.1XXA,"Fall (on)(from) sidewalk curb, initial encounter",W10.1,2016,2027
+W10.1XXD,"Fall (on)(from) sidewalk curb, subsequent encounter",W10.1,2016,2027
+W10.1XXS,"Fall (on)(from) sidewalk curb, sequela",W10.1,2016,2027
+W10.2,Fall (on)(from) incline,W10,2016,2027
+W10.2XXA,"Fall (on)(from) incline, initial encounter",W10.2,2016,2027
+W10.2XXD,"Fall (on)(from) incline, subsequent encounter",W10.2,2016,2027
+W10.2XXS,"Fall (on)(from) incline, sequela",W10.2,2016,2027
+W10.8,Fall (on) (from) other stairs and steps,W10,2016,2027
+W10.8XXA,"Fall (on) (from) other stairs and steps, initial encounter",W10.8,2016,2027
+W10.8XXD,"Fall (on) (from) other stairs and steps, subsequent encounter",W10.8,2016,2027
+W10.8XXS,"Fall (on) (from) other stairs and steps, sequela",W10.8,2016,2027
+W10.9,Fall (on) (from) unspecified stairs and steps,W10,2016,2027
+W10.9XXA,"Fall (on) (from) unspecified stairs and steps, initial encounter",W10.9,2016,2027
+W10.9XXD,"Fall (on) (from) unspecified stairs and steps, subsequent encounter",W10.9,2016,2027
+W10.9XXS,"Fall (on) (from) unspecified stairs and steps, sequela",W10.9,2016,2027
+W11,Fall on and from ladder,,2016,2027
+W11.XXXA,"Fall on and from ladder, initial encounter",W11,2016,2027
+W11.XXXD,"Fall on and from ladder, subsequent encounter",W11,2016,2027
+W11.XXXS,"Fall on and from ladder, sequela",W11,2016,2027
+W12,Fall on and from scaffolding,,2016,2027
+W12.XXXA,"Fall on and from scaffolding, initial encounter",W12,2016,2027
+W12.XXXD,"Fall on and from scaffolding, subsequent encounter",W12,2016,2027
+W12.XXXS,"Fall on and from scaffolding, sequela",W12,2016,2027
+W13,"Fall from, out of or through building or structure",,2016,2027
+W13.0,"Fall from, out of or through balcony",W13,2016,2027
+W13.0XXA,"Fall from, out of or through balcony, initial encounter",W13.0,2016,2027
+W13.0XXD,"Fall from, out of or through balcony, subsequent encounter",W13.0,2016,2027
+W13.0XXS,"Fall from, out of or through balcony, sequela",W13.0,2016,2027
+W13.1,"Fall from, out of or through bridge",W13,2016,2027
+W13.1XXA,"Fall from, out of or through bridge, initial encounter",W13.1,2016,2027
+W13.1XXD,"Fall from, out of or through bridge, subsequent encounter",W13.1,2016,2027
+W13.1XXS,"Fall from, out of or through bridge, sequela",W13.1,2016,2027
+W13.2,"Fall from, out of or through roof",W13,2016,2027
+W13.2XXA,"Fall from, out of or through roof, initial encounter",W13.2,2016,2027
+W13.2XXD,"Fall from, out of or through roof, subsequent encounter",W13.2,2016,2027
+W13.2XXS,"Fall from, out of or through roof, sequela",W13.2,2016,2027
+W13.3,Fall through floor,W13,2016,2027
+W13.3XXA,"Fall through floor, initial encounter",W13.3,2016,2027
+W13.3XXD,"Fall through floor, subsequent encounter",W13.3,2016,2027
+W13.3XXS,"Fall through floor, sequela",W13.3,2016,2027
+W13.4,"Fall from, out of or through window",W13,2016,2027
+W13.4XXA,"Fall from, out of or through window, initial encounter",W13.4,2016,2027
+W13.4XXD,"Fall from, out of or through window, subsequent encounter",W13.4,2016,2027
+W13.4XXS,"Fall from, out of or through window, sequela",W13.4,2016,2027
+W13.8,"Fall from, out of or through other building or structure",W13,2016,2027
+W13.8XXA,"Fall from, out of or through other building or structure, initial encounter",W13.8,2016,2027
+W13.8XXD,"Fall from, out of or through other building or structure, subsequent encounter",W13.8,2016,2027
+W13.8XXS,"Fall from, out of or through other building or structure, sequela",W13.8,2016,2027
+W13.9,"Fall from, out of or through building, not otherwise specified",W13,2016,2027
+W13.9XXA,"Fall from, out of or through building, not otherwise specified, initial encounter",W13.9,2016,2027
+W13.9XXD,"Fall from, out of or through building, not otherwise specified, subsequent encounter",W13.9,2016,2027
+W13.9XXS,"Fall from, out of or through building, not otherwise specified, sequela",W13.9,2016,2027
+W14,Fall from tree,,2016,2027
+W14.XXXA,"Fall from tree, initial encounter",W14,2016,2027
+W14.XXXD,"Fall from tree, subsequent encounter",W14,2016,2027
+W14.XXXS,"Fall from tree, sequela",W14,2016,2027
+W15,Fall from cliff,,2016,2027
+W15.XXXA,"Fall from cliff, initial encounter",W15,2016,2027
+W15.XXXD,"Fall from cliff, subsequent encounter",W15,2016,2027
+W15.XXXS,"Fall from cliff, sequela",W15,2016,2027
+W16,"Fall, jump or diving into water",,2016,2027
+W16.0,Fall into swimming pool,W16,2016,2027
+W16.01,Fall into swimming pool striking water surface,W16.0,2016,2027
+W16.011,Fall into swimming pool striking water surface causing drowning and submersion,W16.01,2016,2027
+W16.011A,"Fall into swimming pool striking water surface causing drowning and submersion, initial encounter",W16.011,2016,2027
+W16.011D,"Fall into swimming pool striking water surface causing drowning and submersion, subsequent encounter",W16.011,2016,2027
+W16.011S,"Fall into swimming pool striking water surface causing drowning and submersion, sequela",W16.011,2016,2027
+W16.012,Fall into swimming pool striking water surface causing other injury,W16.01,2016,2027
+W16.012A,"Fall into swimming pool striking water surface causing other injury, initial encounter",W16.012,2016,2027
+W16.012D,"Fall into swimming pool striking water surface causing other injury, subsequent encounter",W16.012,2016,2027
+W16.012S,"Fall into swimming pool striking water surface causing other injury, sequela",W16.012,2016,2027
+W16.02,Fall into swimming pool striking bottom,W16.0,2016,2027
+W16.021,Fall into swimming pool striking bottom causing drowning and submersion,W16.02,2016,2027
+W16.021A,"Fall into swimming pool striking bottom causing drowning and submersion, initial encounter",W16.021,2016,2027
+W16.021D,"Fall into swimming pool striking bottom causing drowning and submersion, subsequent encounter",W16.021,2016,2027
+W16.021S,"Fall into swimming pool striking bottom causing drowning and submersion, sequela",W16.021,2016,2027
+W16.022,Fall into swimming pool striking bottom causing other injury,W16.02,2016,2027
+W16.022A,"Fall into swimming pool striking bottom causing other injury, initial encounter",W16.022,2016,2027
+W16.022D,"Fall into swimming pool striking bottom causing other injury, subsequent encounter",W16.022,2016,2027
+W16.022S,"Fall into swimming pool striking bottom causing other injury, sequela",W16.022,2016,2027
+W16.03,Fall into swimming pool striking wall,W16.0,2016,2027
+W16.031,Fall into swimming pool striking wall causing drowning and submersion,W16.03,2016,2027
+W16.031A,"Fall into swimming pool striking wall causing drowning and submersion, initial encounter",W16.031,2016,2027
+W16.031D,"Fall into swimming pool striking wall causing drowning and submersion, subsequent encounter",W16.031,2016,2027
+W16.031S,"Fall into swimming pool striking wall causing drowning and submersion, sequela",W16.031,2016,2027
+W16.032,Fall into swimming pool striking wall causing other injury,W16.03,2016,2027
+W16.032A,"Fall into swimming pool striking wall causing other injury, initial encounter",W16.032,2016,2027
+W16.032D,"Fall into swimming pool striking wall causing other injury, subsequent encounter",W16.032,2016,2027
+W16.032S,"Fall into swimming pool striking wall causing other injury, sequela",W16.032,2016,2027
+W16.1,Fall into natural body of water,W16,2016,2027
+W16.11,Fall into natural body of water striking water surface,W16.1,2016,2027
+W16.111,Fall into natural body of water striking water surface causing drowning and submersion,W16.11,2016,2027
+W16.111A,"Fall into natural body of water striking water surface causing drowning and submersion, initial encounter",W16.111,2016,2027
+W16.111D,"Fall into natural body of water striking water surface causing drowning and submersion, subsequent encounter",W16.111,2016,2027
+W16.111S,"Fall into natural body of water striking water surface causing drowning and submersion, sequela",W16.111,2016,2027
+W16.112,Fall into natural body of water striking water surface causing other injury,W16.11,2016,2027
+W16.112A,"Fall into natural body of water striking water surface causing other injury, initial encounter",W16.112,2016,2027
+W16.112D,"Fall into natural body of water striking water surface causing other injury, subsequent encounter",W16.112,2016,2027
+W16.112S,"Fall into natural body of water striking water surface causing other injury, sequela",W16.112,2016,2027
+W16.12,Fall into natural body of water striking bottom,W16.1,2016,2027
+W16.121,Fall into natural body of water striking bottom causing drowning and submersion,W16.12,2016,2027
+W16.121A,"Fall into natural body of water striking bottom causing drowning and submersion, initial encounter",W16.121,2016,2027
+W16.121D,"Fall into natural body of water striking bottom causing drowning and submersion, subsequent encounter",W16.121,2016,2027
+W16.121S,"Fall into natural body of water striking bottom causing drowning and submersion, sequela",W16.121,2016,2027
+W16.122,Fall into natural body of water striking bottom causing other injury,W16.12,2016,2027
+W16.122A,"Fall into natural body of water striking bottom causing other injury, initial encounter",W16.122,2016,2027
+W16.122D,"Fall into natural body of water striking bottom causing other injury, subsequent encounter",W16.122,2016,2027
+W16.122S,"Fall into natural body of water striking bottom causing other injury, sequela",W16.122,2016,2027
+W16.13,Fall into natural body of water striking side,W16.1,2016,2027
+W16.131,Fall into natural body of water striking side causing drowning and submersion,W16.13,2016,2027
+W16.131A,"Fall into natural body of water striking side causing drowning and submersion, initial encounter",W16.131,2016,2027
+W16.131D,"Fall into natural body of water striking side causing drowning and submersion, subsequent encounter",W16.131,2016,2027
+W16.131S,"Fall into natural body of water striking side causing drowning and submersion, sequela",W16.131,2016,2027
+W16.132,Fall into natural body of water striking side causing other injury,W16.13,2016,2027
+W16.132A,"Fall into natural body of water striking side causing other injury, initial encounter",W16.132,2016,2027
+W16.132D,"Fall into natural body of water striking side causing other injury, subsequent encounter",W16.132,2016,2027
+W16.132S,"Fall into natural body of water striking side causing other injury, sequela",W16.132,2016,2027
+W16.2,Fall in (into) filled bathtub or bucket of water,W16,2016,2027
+W16.21,Fall in (into) filled bathtub,W16.2,2016,2027
+W16.211,Fall in (into) filled bathtub causing drowning and submersion,W16.21,2016,2027
+W16.211A,"Fall in (into) filled bathtub causing drowning and submersion, initial encounter",W16.211,2016,2027
+W16.211D,"Fall in (into) filled bathtub causing drowning and submersion, subsequent encounter",W16.211,2016,2027
+W16.211S,"Fall in (into) filled bathtub causing drowning and submersion, sequela",W16.211,2016,2027
+W16.212,Fall in (into) filled bathtub causing other injury,W16.21,2016,2027
+W16.212A,"Fall in (into) filled bathtub causing other injury, initial encounter",W16.212,2016,2027
+W16.212D,"Fall in (into) filled bathtub causing other injury, subsequent encounter",W16.212,2016,2027
+W16.212S,"Fall in (into) filled bathtub causing other injury, sequela",W16.212,2016,2027
+W16.22,Fall in (into) bucket of water,W16.2,2016,2027
+W16.221,Fall in (into) bucket of water causing drowning and submersion,W16.22,2016,2027
+W16.221A,"Fall in (into) bucket of water causing drowning and submersion, initial encounter",W16.221,2016,2027
+W16.221D,"Fall in (into) bucket of water causing drowning and submersion, subsequent encounter",W16.221,2016,2027
+W16.221S,"Fall in (into) bucket of water causing drowning and submersion, sequela",W16.221,2016,2027
+W16.222,Fall in (into) bucket of water causing other injury,W16.22,2016,2027
+W16.222A,"Fall in (into) bucket of water causing other injury, initial encounter",W16.222,2016,2027
+W16.222D,"Fall in (into) bucket of water causing other injury, subsequent encounter",W16.222,2016,2027
+W16.222S,"Fall in (into) bucket of water causing other injury, sequela",W16.222,2016,2027
+W16.3,Fall into other water,W16,2016,2027
+W16.31,Fall into other water striking water surface,W16.3,2016,2027
+W16.311,Fall into other water striking water surface causing drowning and submersion,W16.31,2016,2027
+W16.311A,"Fall into other water striking water surface causing drowning and submersion, initial encounter",W16.311,2016,2027
+W16.311D,"Fall into other water striking water surface causing drowning and submersion, subsequent encounter",W16.311,2016,2027
+W16.311S,"Fall into other water striking water surface causing drowning and submersion, sequela",W16.311,2016,2027
+W16.312,Fall into other water striking water surface causing other injury,W16.31,2016,2027
+W16.312A,"Fall into other water striking water surface causing other injury, initial encounter",W16.312,2016,2027
+W16.312D,"Fall into other water striking water surface causing other injury, subsequent encounter",W16.312,2016,2027
+W16.312S,"Fall into other water striking water surface causing other injury, sequela",W16.312,2016,2027
+W16.32,Fall into other water striking bottom,W16.3,2016,2027
+W16.321,Fall into other water striking bottom causing drowning and submersion,W16.32,2016,2027
+W16.321A,"Fall into other water striking bottom causing drowning and submersion, initial encounter",W16.321,2016,2027
+W16.321D,"Fall into other water striking bottom causing drowning and submersion, subsequent encounter",W16.321,2016,2027
+W16.321S,"Fall into other water striking bottom causing drowning and submersion, sequela",W16.321,2016,2027
+W16.322,Fall into other water striking bottom causing other injury,W16.32,2016,2027
+W16.322A,"Fall into other water striking bottom causing other injury, initial encounter",W16.322,2016,2027
+W16.322D,"Fall into other water striking bottom causing other injury, subsequent encounter",W16.322,2016,2027
+W16.322S,"Fall into other water striking bottom causing other injury, sequela",W16.322,2016,2027
+W16.33,Fall into other water striking wall,W16.3,2016,2027
+W16.331,Fall into other water striking wall causing drowning and submersion,W16.33,2016,2027
+W16.331A,"Fall into other water striking wall causing drowning and submersion, initial encounter",W16.331,2016,2027
+W16.331D,"Fall into other water striking wall causing drowning and submersion, subsequent encounter",W16.331,2016,2027
+W16.331S,"Fall into other water striking wall causing drowning and submersion, sequela",W16.331,2016,2027
+W16.332,Fall into other water striking wall causing other injury,W16.33,2016,2027
+W16.332A,"Fall into other water striking wall causing other injury, initial encounter",W16.332,2016,2027
+W16.332D,"Fall into other water striking wall causing other injury, subsequent encounter",W16.332,2016,2027
+W16.332S,"Fall into other water striking wall causing other injury, sequela",W16.332,2016,2027
+W16.4,Fall into unspecified water,W16,2016,2027
+W16.41,Fall into unspecified water causing drowning and submersion,W16.4,2016,2027
+W16.41XA,"Fall into unspecified water causing drowning and submersion, initial encounter",W16.41,2016,2027
+W16.41XD,"Fall into unspecified water causing drowning and submersion, subsequent encounter",W16.41,2016,2027
+W16.41XS,"Fall into unspecified water causing drowning and submersion, sequela",W16.41,2016,2027
+W16.42,Fall into unspecified water causing other injury,W16.4,2016,2027
+W16.42XA,"Fall into unspecified water causing other injury, initial encounter",W16.42,2016,2027
+W16.42XD,"Fall into unspecified water causing other injury, subsequent encounter",W16.42,2016,2027
+W16.42XS,"Fall into unspecified water causing other injury, sequela",W16.42,2016,2027
+W16.5,Jumping or diving into swimming pool,W16,2016,2027
+W16.51,Jumping or diving into swimming pool striking water surface,W16.5,2016,2027
+W16.511,Jumping or diving into swimming pool striking water surface causing drowning and submersion,W16.51,2016,2027
+W16.511A,"Jumping or diving into swimming pool striking water surface causing drowning and submersion, initial encounter",W16.511,2016,2027
+W16.511D,"Jumping or diving into swimming pool striking water surface causing drowning and submersion, subsequent encounter",W16.511,2016,2027
+W16.511S,"Jumping or diving into swimming pool striking water surface causing drowning and submersion, sequela",W16.511,2016,2027
+W16.512,Jumping or diving into swimming pool striking water surface causing other injury,W16.51,2016,2027
+W16.512A,"Jumping or diving into swimming pool striking water surface causing other injury, initial encounter",W16.512,2016,2027
+W16.512D,"Jumping or diving into swimming pool striking water surface causing other injury, subsequent encounter",W16.512,2016,2027
+W16.512S,"Jumping or diving into swimming pool striking water surface causing other injury, sequela",W16.512,2016,2027
+W16.52,Jumping or diving into swimming pool striking bottom,W16.5,2016,2027
+W16.521,Jumping or diving into swimming pool striking bottom causing drowning and submersion,W16.52,2016,2027
+W16.521A,"Jumping or diving into swimming pool striking bottom causing drowning and submersion, initial encounter",W16.521,2016,2027
+W16.521D,"Jumping or diving into swimming pool striking bottom causing drowning and submersion, subsequent encounter",W16.521,2016,2027
+W16.521S,"Jumping or diving into swimming pool striking bottom causing drowning and submersion, sequela",W16.521,2016,2027
+W16.522,Jumping or diving into swimming pool striking bottom causing other injury,W16.52,2016,2027
+W16.522A,"Jumping or diving into swimming pool striking bottom causing other injury, initial encounter",W16.522,2016,2027
+W16.522D,"Jumping or diving into swimming pool striking bottom causing other injury, subsequent encounter",W16.522,2016,2027
+W16.522S,"Jumping or diving into swimming pool striking bottom causing other injury, sequela",W16.522,2016,2027
+W16.53,Jumping or diving into swimming pool striking wall,W16.5,2016,2027
+W16.531,Jumping or diving into swimming pool striking wall causing drowning and submersion,W16.53,2016,2027
+W16.531A,"Jumping or diving into swimming pool striking wall causing drowning and submersion, initial encounter",W16.531,2016,2027
+W16.531D,"Jumping or diving into swimming pool striking wall causing drowning and submersion, subsequent encounter",W16.531,2016,2027
+W16.531S,"Jumping or diving into swimming pool striking wall causing drowning and submersion, sequela",W16.531,2016,2027
+W16.532,Jumping or diving into swimming pool striking wall causing other injury,W16.53,2016,2027
+W16.532A,"Jumping or diving into swimming pool striking wall causing other injury, initial encounter",W16.532,2016,2027
+W16.532D,"Jumping or diving into swimming pool striking wall causing other injury, subsequent encounter",W16.532,2016,2027
+W16.532S,"Jumping or diving into swimming pool striking wall causing other injury, sequela",W16.532,2016,2027
+W16.6,Jumping or diving into natural body of water,W16,2016,2027
+W16.61,Jumping or diving into natural body of water striking water surface,W16.6,2016,2027
+W16.611,Jumping or diving into natural body of water striking water surface causing drowning and submersion,W16.61,2016,2027
+W16.611A,"Jumping or diving into natural body of water striking water surface causing drowning and submersion, initial encounter",W16.611,2016,2027
+W16.611D,"Jumping or diving into natural body of water striking water surface causing drowning and submersion, subsequent encounter",W16.611,2016,2027
+W16.611S,"Jumping or diving into natural body of water striking water surface causing drowning and submersion, sequela",W16.611,2016,2027
+W16.612,Jumping or diving into natural body of water striking water surface causing other injury,W16.61,2016,2027
+W16.612A,"Jumping or diving into natural body of water striking water surface causing other injury, initial encounter",W16.612,2016,2027
+W16.612D,"Jumping or diving into natural body of water striking water surface causing other injury, subsequent encounter",W16.612,2016,2027
+W16.612S,"Jumping or diving into natural body of water striking water surface causing other injury, sequela",W16.612,2016,2027
+W16.62,Jumping or diving into natural body of water striking bottom,W16.6,2016,2027
+W16.621,Jumping or diving into natural body of water striking bottom causing drowning and submersion,W16.62,2016,2027
+W16.621A,"Jumping or diving into natural body of water striking bottom causing drowning and submersion, initial encounter",W16.621,2016,2027
+W16.621D,"Jumping or diving into natural body of water striking bottom causing drowning and submersion, subsequent encounter",W16.621,2016,2027
+W16.621S,"Jumping or diving into natural body of water striking bottom causing drowning and submersion, sequela",W16.621,2016,2027
+W16.622,Jumping or diving into natural body of water striking bottom causing other injury,W16.62,2016,2027
+W16.622A,"Jumping or diving into natural body of water striking bottom causing other injury, initial encounter",W16.622,2016,2027
+W16.622D,"Jumping or diving into natural body of water striking bottom causing other injury, subsequent encounter",W16.622,2016,2027
+W16.622S,"Jumping or diving into natural body of water striking bottom causing other injury, sequela",W16.622,2016,2027
+W16.7,Jumping or diving from boat,W16,2016,2027
+W16.71,Jumping or diving from boat striking water surface,W16.7,2016,2027
+W16.711,Jumping or diving from boat striking water surface causing drowning and submersion,W16.71,2016,2027
+W16.711A,"Jumping or diving from boat striking water surface causing drowning and submersion, initial encounter",W16.711,2016,2027
+W16.711D,"Jumping or diving from boat striking water surface causing drowning and submersion, subsequent encounter",W16.711,2016,2027
+W16.711S,"Jumping or diving from boat striking water surface causing drowning and submersion, sequela",W16.711,2016,2027
+W16.712,Jumping or diving from boat striking water surface causing other injury,W16.71,2016,2027
+W16.712A,"Jumping or diving from boat striking water surface causing other injury, initial encounter",W16.712,2016,2027
+W16.712D,"Jumping or diving from boat striking water surface causing other injury, subsequent encounter",W16.712,2016,2027
+W16.712S,"Jumping or diving from boat striking water surface causing other injury, sequela",W16.712,2016,2027
+W16.72,Jumping or diving from boat striking bottom,W16.7,2016,2027
+W16.721,Jumping or diving from boat striking bottom causing drowning and submersion,W16.72,2016,2027
+W16.721A,"Jumping or diving from boat striking bottom causing drowning and submersion, initial encounter",W16.721,2016,2027
+W16.721D,"Jumping or diving from boat striking bottom causing drowning and submersion, subsequent encounter",W16.721,2016,2027
+W16.721S,"Jumping or diving from boat striking bottom causing drowning and submersion, sequela",W16.721,2016,2027
+W16.722,Jumping or diving from boat striking bottom causing other injury,W16.72,2016,2027
+W16.722A,"Jumping or diving from boat striking bottom causing other injury, initial encounter",W16.722,2016,2027
+W16.722D,"Jumping or diving from boat striking bottom causing other injury, subsequent encounter",W16.722,2016,2027
+W16.722S,"Jumping or diving from boat striking bottom causing other injury, sequela",W16.722,2016,2027
+W16.8,Jumping or diving into other water,W16,2016,2027
+W16.81,Jumping or diving into other water striking water surface,W16.8,2016,2027
+W16.811,Jumping or diving into other water striking water surface causing drowning and submersion,W16.81,2016,2027
+W16.811A,"Jumping or diving into other water striking water surface causing drowning and submersion, initial encounter",W16.811,2016,2027
+W16.811D,"Jumping or diving into other water striking water surface causing drowning and submersion, subsequent encounter",W16.811,2016,2027
+W16.811S,"Jumping or diving into other water striking water surface causing drowning and submersion, sequela",W16.811,2016,2027
+W16.812,Jumping or diving into other water striking water surface causing other injury,W16.81,2016,2027
+W16.812A,"Jumping or diving into other water striking water surface causing other injury, initial encounter",W16.812,2016,2027
+W16.812D,"Jumping or diving into other water striking water surface causing other injury, subsequent encounter",W16.812,2016,2027
+W16.812S,"Jumping or diving into other water striking water surface causing other injury, sequela",W16.812,2016,2027
+W16.82,Jumping or diving into other water striking bottom,W16.8,2016,2027
+W16.821,Jumping or diving into other water striking bottom causing drowning and submersion,W16.82,2016,2027
+W16.821A,"Jumping or diving into other water striking bottom causing drowning and submersion, initial encounter",W16.821,2016,2027
+W16.821D,"Jumping or diving into other water striking bottom causing drowning and submersion, subsequent encounter",W16.821,2016,2027
+W16.821S,"Jumping or diving into other water striking bottom causing drowning and submersion, sequela",W16.821,2016,2027
+W16.822,Jumping or diving into other water striking bottom causing other injury,W16.82,2016,2027
+W16.822A,"Jumping or diving into other water striking bottom causing other injury, initial encounter",W16.822,2016,2027
+W16.822D,"Jumping or diving into other water striking bottom causing other injury, subsequent encounter",W16.822,2016,2027
+W16.822S,"Jumping or diving into other water striking bottom causing other injury, sequela",W16.822,2016,2027
+W16.83,Jumping or diving into other water striking wall,W16.8,2016,2027
+W16.831,Jumping or diving into other water striking wall causing drowning and submersion,W16.83,2016,2027
+W16.831A,"Jumping or diving into other water striking wall causing drowning and submersion, initial encounter",W16.831,2016,2027
+W16.831D,"Jumping or diving into other water striking wall causing drowning and submersion, subsequent encounter",W16.831,2016,2027
+W16.831S,"Jumping or diving into other water striking wall causing drowning and submersion, sequela",W16.831,2016,2027
+W16.832,Jumping or diving into other water striking wall causing other injury,W16.83,2016,2027
+W16.832A,"Jumping or diving into other water striking wall causing other injury, initial encounter",W16.832,2016,2027
+W16.832D,"Jumping or diving into other water striking wall causing other injury, subsequent encounter",W16.832,2016,2027
+W16.832S,"Jumping or diving into other water striking wall causing other injury, sequela",W16.832,2016,2027
+W16.9,Jumping or diving into unspecified water,W16,2016,2027
+W16.91,Jumping or diving into unspecified water causing drowning and submersion,W16.9,2016,2027
+W16.91XA,"Jumping or diving into unspecified water causing drowning and submersion, initial encounter",W16.91,2016,2027
+W16.91XD,"Jumping or diving into unspecified water causing drowning and submersion, subsequent encounter",W16.91,2016,2027
+W16.91XS,"Jumping or diving into unspecified water causing drowning and submersion, sequela",W16.91,2016,2027
+W16.92,Jumping or diving into unspecified water causing other injury,W16.9,2016,2027
+W16.92XA,"Jumping or diving into unspecified water causing other injury, initial encounter",W16.92,2016,2027
+W16.92XD,"Jumping or diving into unspecified water causing other injury, subsequent encounter",W16.92,2016,2027
+W16.92XS,"Jumping or diving into unspecified water causing other injury, sequela",W16.92,2016,2027
+W17,Other fall from one level to another,,2016,2027
+W17.0,Fall into well,W17,2016,2027
+W17.0XXA,"Fall into well, initial encounter",W17.0,2016,2027
+W17.0XXD,"Fall into well, subsequent encounter",W17.0,2016,2027
+W17.0XXS,"Fall into well, sequela",W17.0,2016,2027
+W17.1,Fall into storm drain or manhole,W17,2016,2027
+W17.1XXA,"Fall into storm drain or manhole, initial encounter",W17.1,2016,2027
+W17.1XXD,"Fall into storm drain or manhole, subsequent encounter",W17.1,2016,2027
+W17.1XXS,"Fall into storm drain or manhole, sequela",W17.1,2016,2027
+W17.2,Fall into hole,W17,2016,2027
+W17.2XXA,"Fall into hole, initial encounter",W17.2,2016,2027
+W17.2XXD,"Fall into hole, subsequent encounter",W17.2,2016,2027
+W17.2XXS,"Fall into hole, sequela",W17.2,2016,2027
+W17.3,Fall into empty swimming pool,W17,2016,2027
+W17.3XXA,"Fall into empty swimming pool, initial encounter",W17.3,2016,2027
+W17.3XXD,"Fall into empty swimming pool, subsequent encounter",W17.3,2016,2027
+W17.3XXS,"Fall into empty swimming pool, sequela",W17.3,2016,2027
+W17.4,Fall from dock,W17,2016,2027
+W17.4XXA,"Fall from dock, initial encounter",W17.4,2016,2027
+W17.4XXD,"Fall from dock, subsequent encounter",W17.4,2016,2027
+W17.4XXS,"Fall from dock, sequela",W17.4,2016,2027
+W17.8,Other fall from one level to another,W17,2016,2027
+W17.81,Fall down embankment (hill),W17.8,2016,2027
+W17.81XA,"Fall down embankment (hill), initial encounter",W17.81,2016,2027
+W17.81XD,"Fall down embankment (hill), subsequent encounter",W17.81,2016,2027
+W17.81XS,"Fall down embankment (hill), sequela",W17.81,2016,2027
+W17.82,Fall from (out of) grocery cart,W17.8,2016,2027
+W17.82XA,"Fall from (out of) grocery cart, initial encounter",W17.82,2016,2027
+W17.82XD,"Fall from (out of) grocery cart, subsequent encounter",W17.82,2016,2027
+W17.82XS,"Fall from (out of) grocery cart, sequela",W17.82,2016,2027
+W17.89,Other fall from one level to another,W17.8,2016,2027
+W17.89XA,"Other fall from one level to another, initial encounter",W17.89,2016,2027
+W17.89XD,"Other fall from one level to another, subsequent encounter",W17.89,2016,2027
+W17.89XS,"Other fall from one level to another, sequela",W17.89,2016,2027
+W18,"Other slipping, tripping and stumbling and falls",,2016,2027
+W18.0,Fall due to bumping against object,W18,2016,2027
+W18.00,Striking against unspecified object with subsequent fall,W18.0,2016,2027
+W18.00XA,"Striking against unspecified object with subsequent fall, initial encounter",W18.00,2016,2027
+W18.00XD,"Striking against unspecified object with subsequent fall, subsequent encounter",W18.00,2016,2027
+W18.00XS,"Striking against unspecified object with subsequent fall, sequela",W18.00,2016,2027
+W18.01,Striking against sports equipment with subsequent fall,W18.0,2016,2027
+W18.01XA,"Striking against sports equipment with subsequent fall, initial encounter",W18.01,2016,2027
+W18.01XD,"Striking against sports equipment with subsequent fall, subsequent encounter",W18.01,2016,2027
+W18.01XS,"Striking against sports equipment with subsequent fall, sequela",W18.01,2016,2027
+W18.02,Striking against glass with subsequent fall,W18.0,2016,2027
+W18.02XA,"Striking against glass with subsequent fall, initial encounter",W18.02,2016,2027
+W18.02XD,"Striking against glass with subsequent fall, subsequent encounter",W18.02,2016,2027
+W18.02XS,"Striking against glass with subsequent fall, sequela",W18.02,2016,2027
+W18.09,Striking against other object with subsequent fall,W18.0,2016,2027
+W18.09XA,"Striking against other object with subsequent fall, initial encounter",W18.09,2016,2027
+W18.09XD,"Striking against other object with subsequent fall, subsequent encounter",W18.09,2016,2027
+W18.09XS,"Striking against other object with subsequent fall, sequela",W18.09,2016,2027
+W18.1,Fall from or off toilet,W18,2016,2027
+W18.11,Fall from or off toilet without subsequent striking against object,W18.1,2016,2027
+W18.11XA,"Fall from or off toilet without subsequent striking against object, initial encounter",W18.11,2016,2027
+W18.11XD,"Fall from or off toilet without subsequent striking against object, subsequent encounter",W18.11,2016,2027
+W18.11XS,"Fall from or off toilet without subsequent striking against object, sequela",W18.11,2016,2027
+W18.12,Fall from or off toilet with subsequent striking against object,W18.1,2016,2027
+W18.12XA,"Fall from or off toilet with subsequent striking against object, initial encounter",W18.12,2016,2027
+W18.12XD,"Fall from or off toilet with subsequent striking against object, subsequent encounter",W18.12,2016,2027
+W18.12XS,"Fall from or off toilet with subsequent striking against object, sequela",W18.12,2016,2027
+W18.2,Fall in (into) shower or empty bathtub,W18,2016,2027
+W18.2XXA,"Fall in (into) shower or empty bathtub, initial encounter",W18.2,2016,2027
+W18.2XXD,"Fall in (into) shower or empty bathtub, subsequent encounter",W18.2,2016,2027
+W18.2XXS,"Fall in (into) shower or empty bathtub, sequela",W18.2,2016,2027
+W18.3,Other and unspecified fall on same level,W18,2016,2027
+W18.30,"Fall on same level, unspecified",W18.3,2016,2027
+W18.30XA,"Fall on same level, unspecified, initial encounter",W18.30,2016,2027
+W18.30XD,"Fall on same level, unspecified, subsequent encounter",W18.30,2016,2027
+W18.30XS,"Fall on same level, unspecified, sequela",W18.30,2016,2027
+W18.31,Fall on same level due to stepping on an object,W18.3,2016,2027
+W18.31XA,"Fall on same level due to stepping on an object, initial encounter",W18.31,2016,2027
+W18.31XD,"Fall on same level due to stepping on an object, subsequent encounter",W18.31,2016,2027
+W18.31XS,"Fall on same level due to stepping on an object, sequela",W18.31,2016,2027
+W18.39,Other fall on same level,W18.3,2016,2027
+W18.39XA,"Other fall on same level, initial encounter",W18.39,2016,2027
+W18.39XD,"Other fall on same level, subsequent encounter",W18.39,2016,2027
+W18.39XS,"Other fall on same level, sequela",W18.39,2016,2027
+W18.4,"Slipping, tripping and stumbling without falling",W18,2016,2027
+W18.40,"Slipping, tripping and stumbling without falling, unspecified",W18.4,2016,2027
+W18.40XA,"Slipping, tripping and stumbling without falling, unspecified, initial encounter",W18.40,2016,2027
+W18.40XD,"Slipping, tripping and stumbling without falling, unspecified, subsequent encounter",W18.40,2016,2027
+W18.40XS,"Slipping, tripping and stumbling without falling, unspecified, sequela",W18.40,2016,2027
+W18.41,"Slipping, tripping and stumbling without falling due to stepping on object",W18.4,2016,2027
+W18.41XA,"Slipping, tripping and stumbling without falling due to stepping on object, initial encounter",W18.41,2016,2027
+W18.41XD,"Slipping, tripping and stumbling without falling due to stepping on object, subsequent encounter",W18.41,2016,2027
+W18.41XS,"Slipping, tripping and stumbling without falling due to stepping on object, sequela",W18.41,2016,2027
+W18.42,"Slipping, tripping and stumbling without falling due to stepping into hole or opening",W18.4,2016,2027
+W18.42XA,"Slipping, tripping and stumbling without falling due to stepping into hole or opening, initial encounter",W18.42,2016,2027
+W18.42XD,"Slipping, tripping and stumbling without falling due to stepping into hole or opening, subsequent encounter",W18.42,2016,2027
+W18.42XS,"Slipping, tripping and stumbling without falling due to stepping into hole or opening, sequela",W18.42,2016,2027
+W18.43,"Slipping, tripping and stumbling without falling due to stepping from one level to another",W18.4,2016,2027
+W18.43XA,"Slipping, tripping and stumbling without falling due to stepping from one level to another, initial encounter",W18.43,2016,2027
+W18.43XD,"Slipping, tripping and stumbling without falling due to stepping from one level to another, subsequent encounter",W18.43,2016,2027
+W18.43XS,"Slipping, tripping and stumbling without falling due to stepping from one level to another, sequela",W18.43,2016,2027
+W18.49,"Other slipping, tripping and stumbling without falling",W18.4,2016,2027
+W18.49XA,"Other slipping, tripping and stumbling without falling, initial encounter",W18.49,2016,2027
+W18.49XD,"Other slipping, tripping and stumbling without falling, subsequent encounter",W18.49,2016,2027
+W18.49XS,"Other slipping, tripping and stumbling without falling, sequela",W18.49,2016,2027
+W19,Unspecified fall,,2016,2027
+W19.XXXA,"Unspecified fall, initial encounter",W19,2016,2027
+W19.XXXD,"Unspecified fall, subsequent encounter",W19,2016,2027
+W19.XXXS,"Unspecified fall, sequela",W19,2016,2027
+W20,"Struck by thrown, projected or falling object",,2016,2027
+W20.0,Struck by falling object in cave-in,W20,2016,2027
+W20.0XXA,"Struck by falling object in cave-in, initial encounter",W20.0,2016,2027
+W20.0XXD,"Struck by falling object in cave-in, subsequent encounter",W20.0,2016,2027
+W20.0XXS,"Struck by falling object in cave-in, sequela",W20.0,2016,2027
+W20.1,Struck by object due to collapse of building,W20,2016,2027
+W20.1XXA,"Struck by object due to collapse of building, initial encounter",W20.1,2016,2027
+W20.1XXD,"Struck by object due to collapse of building, subsequent encounter",W20.1,2016,2027
+W20.1XXS,"Struck by object due to collapse of building, sequela",W20.1,2016,2027
+W20.8,"Other cause of strike by thrown, projected or falling object",W20,2016,2027
+W20.8XXA,"Other cause of strike by thrown, projected or falling object, initial encounter",W20.8,2016,2027
+W20.8XXD,"Other cause of strike by thrown, projected or falling object, subsequent encounter",W20.8,2016,2027
+W20.8XXS,"Other cause of strike by thrown, projected or falling object, sequela",W20.8,2016,2027
+W21,Striking against or struck by sports equipment,,2016,2027
+W21.0,Struck by hit or thrown ball,W21,2016,2027
+W21.00,"Struck by hit or thrown ball, unspecified type",W21.0,2016,2027
+W21.00XA,"Struck by hit or thrown ball, unspecified type, initial encounter",W21.00,2016,2027
+W21.00XD,"Struck by hit or thrown ball, unspecified type, subsequent encounter",W21.00,2016,2027
+W21.00XS,"Struck by hit or thrown ball, unspecified type, sequela",W21.00,2016,2027
+W21.01,Struck by football,W21.0,2016,2027
+W21.01XA,"Struck by football, initial encounter",W21.01,2016,2027
+W21.01XD,"Struck by football, subsequent encounter",W21.01,2016,2027
+W21.01XS,"Struck by football, sequela",W21.01,2016,2027
+W21.02,Struck by soccer ball,W21.0,2016,2027
+W21.02XA,"Struck by soccer ball, initial encounter",W21.02,2016,2027
+W21.02XD,"Struck by soccer ball, subsequent encounter",W21.02,2016,2027
+W21.02XS,"Struck by soccer ball, sequela",W21.02,2016,2027
+W21.03,Struck by baseball,W21.0,2016,2027
+W21.03XA,"Struck by baseball, initial encounter",W21.03,2016,2027
+W21.03XD,"Struck by baseball, subsequent encounter",W21.03,2016,2027
+W21.03XS,"Struck by baseball, sequela",W21.03,2016,2027
+W21.04,Struck by golf ball,W21.0,2016,2027
+W21.04XA,"Struck by golf ball, initial encounter",W21.04,2016,2027
+W21.04XD,"Struck by golf ball, subsequent encounter",W21.04,2016,2027
+W21.04XS,"Struck by golf ball, sequela",W21.04,2016,2027
+W21.05,Struck by basketball,W21.0,2016,2027
+W21.05XA,"Struck by basketball, initial encounter",W21.05,2016,2027
+W21.05XD,"Struck by basketball, subsequent encounter",W21.05,2016,2027
+W21.05XS,"Struck by basketball, sequela",W21.05,2016,2027
+W21.06,Struck by volleyball,W21.0,2016,2027
+W21.06XA,"Struck by volleyball, initial encounter",W21.06,2016,2027
+W21.06XD,"Struck by volleyball, subsequent encounter",W21.06,2016,2027
+W21.06XS,"Struck by volleyball, sequela",W21.06,2016,2027
+W21.07,Struck by softball,W21.0,2016,2027
+W21.07XA,"Struck by softball, initial encounter",W21.07,2016,2027
+W21.07XD,"Struck by softball, subsequent encounter",W21.07,2016,2027
+W21.07XS,"Struck by softball, sequela",W21.07,2016,2027
+W21.09,Struck by other hit or thrown ball,W21.0,2016,2027
+W21.09XA,"Struck by other hit or thrown ball, initial encounter",W21.09,2016,2027
+W21.09XD,"Struck by other hit or thrown ball, subsequent encounter",W21.09,2016,2027
+W21.09XS,"Struck by other hit or thrown ball, sequela",W21.09,2016,2027
+W21.1,"Struck by bat, racquet or club",W21,2016,2027
+W21.11,Struck by baseball bat,W21.1,2016,2027
+W21.11XA,"Struck by baseball bat, initial encounter",W21.11,2016,2027
+W21.11XD,"Struck by baseball bat, subsequent encounter",W21.11,2016,2027
+W21.11XS,"Struck by baseball bat, sequela",W21.11,2016,2027
+W21.12,Struck by tennis racquet,W21.1,2016,2027
+W21.12XA,"Struck by tennis racquet, initial encounter",W21.12,2016,2027
+W21.12XD,"Struck by tennis racquet, subsequent encounter",W21.12,2016,2027
+W21.12XS,"Struck by tennis racquet, sequela",W21.12,2016,2027
+W21.13,Struck by golf club,W21.1,2016,2027
+W21.13XA,"Struck by golf club, initial encounter",W21.13,2016,2027
+W21.13XD,"Struck by golf club, subsequent encounter",W21.13,2016,2027
+W21.13XS,"Struck by golf club, sequela",W21.13,2016,2027
+W21.19,"Struck by other bat, racquet or club",W21.1,2016,2027
+W21.19XA,"Struck by other bat, racquet or club, initial encounter",W21.19,2016,2027
+W21.19XD,"Struck by other bat, racquet or club, subsequent encounter",W21.19,2016,2027
+W21.19XS,"Struck by other bat, racquet or club, sequela",W21.19,2016,2027
+W21.2,Struck by hockey stick or puck,W21,2016,2027
+W21.21,Struck by hockey stick,W21.2,2016,2027
+W21.210,Struck by ice hockey stick,W21.21,2016,2027
+W21.210A,"Struck by ice hockey stick, initial encounter",W21.210,2016,2027
+W21.210D,"Struck by ice hockey stick, subsequent encounter",W21.210,2016,2027
+W21.210S,"Struck by ice hockey stick, sequela",W21.210,2016,2027
+W21.211,Struck by field hockey stick,W21.21,2016,2027
+W21.211A,"Struck by field hockey stick, initial encounter",W21.211,2016,2027
+W21.211D,"Struck by field hockey stick, subsequent encounter",W21.211,2016,2027
+W21.211S,"Struck by field hockey stick, sequela",W21.211,2016,2027
+W21.22,Struck by hockey puck,W21.2,2016,2027
+W21.220,Struck by ice hockey puck,W21.22,2016,2027
+W21.220A,"Struck by ice hockey puck, initial encounter",W21.220,2016,2027
+W21.220D,"Struck by ice hockey puck, subsequent encounter",W21.220,2016,2027
+W21.220S,"Struck by ice hockey puck, sequela",W21.220,2016,2027
+W21.221,Struck by field hockey puck,W21.22,2016,2027
+W21.221A,"Struck by field hockey puck, initial encounter",W21.221,2016,2027
+W21.221D,"Struck by field hockey puck, subsequent encounter",W21.221,2016,2027
+W21.221S,"Struck by field hockey puck, sequela",W21.221,2016,2027
+W21.3,Struck by sports foot wear,W21,2016,2027
+W21.31,Struck by shoe cleats,W21.3,2016,2027
+W21.31XA,"Struck by shoe cleats, initial encounter",W21.31,2016,2027
+W21.31XD,"Struck by shoe cleats, subsequent encounter",W21.31,2016,2027
+W21.31XS,"Struck by shoe cleats, sequela",W21.31,2016,2027
+W21.32,Struck by skate blades,W21.3,2016,2027
+W21.32XA,"Struck by skate blades, initial encounter",W21.32,2016,2027
+W21.32XD,"Struck by skate blades, subsequent encounter",W21.32,2016,2027
+W21.32XS,"Struck by skate blades, sequela",W21.32,2016,2027
+W21.39,Struck by other sports foot wear,W21.3,2016,2027
+W21.39XA,"Struck by other sports foot wear, initial encounter",W21.39,2016,2027
+W21.39XD,"Struck by other sports foot wear, subsequent encounter",W21.39,2016,2027
+W21.39XS,"Struck by other sports foot wear, sequela",W21.39,2016,2027
+W21.4,Striking against diving board,W21,2016,2027
+W21.4XXA,"Striking against diving board, initial encounter",W21.4,2016,2027
+W21.4XXD,"Striking against diving board, subsequent encounter",W21.4,2016,2027
+W21.4XXS,"Striking against diving board, sequela",W21.4,2016,2027
+W21.8,Striking against or struck by other sports equipment,W21,2016,2027
+W21.81,Striking against or struck by football helmet,W21.8,2016,2027
+W21.81XA,"Striking against or struck by football helmet, initial encounter",W21.81,2016,2027
+W21.81XD,"Striking against or struck by football helmet, subsequent encounter",W21.81,2016,2027
+W21.81XS,"Striking against or struck by football helmet, sequela",W21.81,2016,2027
+W21.89,Striking against or struck by other sports equipment,W21.8,2016,2027
+W21.89XA,"Striking against or struck by other sports equipment, initial encounter",W21.89,2016,2027
+W21.89XD,"Striking against or struck by other sports equipment, subsequent encounter",W21.89,2016,2027
+W21.89XS,"Striking against or struck by other sports equipment, sequela",W21.89,2016,2027
+W21.9,Striking against or struck by unspecified sports equipment,W21,2016,2027
+W21.9XXA,"Striking against or struck by unspecified sports equipment, initial encounter",W21.9,2016,2027
+W21.9XXD,"Striking against or struck by unspecified sports equipment, subsequent encounter",W21.9,2016,2027
+W21.9XXS,"Striking against or struck by unspecified sports equipment, sequela",W21.9,2016,2027
+W22,Striking against or struck by other objects,,2016,2027
+W22.0,Striking against stationary object,W22,2016,2027
+W22.01,Walked into wall,W22.0,2016,2027
+W22.01XA,"Walked into wall, initial encounter",W22.01,2016,2027
+W22.01XD,"Walked into wall, subsequent encounter",W22.01,2016,2027
+W22.01XS,"Walked into wall, sequela",W22.01,2016,2027
+W22.02,Walked into lamppost,W22.0,2016,2027
+W22.02XA,"Walked into lamppost, initial encounter",W22.02,2016,2027
+W22.02XD,"Walked into lamppost, subsequent encounter",W22.02,2016,2027
+W22.02XS,"Walked into lamppost, sequela",W22.02,2016,2027
+W22.03,Walked into furniture,W22.0,2016,2027
+W22.03XA,"Walked into furniture, initial encounter",W22.03,2016,2027
+W22.03XD,"Walked into furniture, subsequent encounter",W22.03,2016,2027
+W22.03XS,"Walked into furniture, sequela",W22.03,2016,2027
+W22.04,Striking against wall of swimming pool,W22.0,2016,2027
+W22.041,Striking against wall of swimming pool causing drowning and submersion,W22.04,2016,2027
+W22.041A,"Striking against wall of swimming pool causing drowning and submersion, initial encounter",W22.041,2016,2027
+W22.041D,"Striking against wall of swimming pool causing drowning and submersion, subsequent encounter",W22.041,2016,2027
+W22.041S,"Striking against wall of swimming pool causing drowning and submersion, sequela",W22.041,2016,2027
+W22.042,Striking against wall of swimming pool causing other injury,W22.04,2016,2027
+W22.042A,"Striking against wall of swimming pool causing other injury, initial encounter",W22.042,2016,2027
+W22.042D,"Striking against wall of swimming pool causing other injury, subsequent encounter",W22.042,2016,2027
+W22.042S,"Striking against wall of swimming pool causing other injury, sequela",W22.042,2016,2027
+W22.09,Striking against other stationary object,W22.0,2016,2027
+W22.09XA,"Striking against other stationary object, initial encounter",W22.09,2016,2027
+W22.09XD,"Striking against other stationary object, subsequent encounter",W22.09,2016,2027
+W22.09XS,"Striking against other stationary object, sequela",W22.09,2016,2027
+W22.1,Striking against or struck by automobile airbag,W22,2016,2027
+W22.10,Striking against or struck by unspecified automobile airbag,W22.1,2016,2027
+W22.10XA,"Striking against or struck by unspecified automobile airbag, initial encounter",W22.10,2016,2027
+W22.10XD,"Striking against or struck by unspecified automobile airbag, subsequent encounter",W22.10,2016,2027
+W22.10XS,"Striking against or struck by unspecified automobile airbag, sequela",W22.10,2016,2027
+W22.11,Striking against or struck by driver side automobile airbag,W22.1,2016,2027
+W22.11XA,"Striking against or struck by driver side automobile airbag, initial encounter",W22.11,2016,2027
+W22.11XD,"Striking against or struck by driver side automobile airbag, subsequent encounter",W22.11,2016,2027
+W22.11XS,"Striking against or struck by driver side automobile airbag, sequela",W22.11,2016,2027
+W22.12,Striking against or struck by front passenger side automobile airbag,W22.1,2016,2027
+W22.12XA,"Striking against or struck by front passenger side automobile airbag, initial encounter",W22.12,2016,2027
+W22.12XD,"Striking against or struck by front passenger side automobile airbag, subsequent encounter",W22.12,2016,2027
+W22.12XS,"Striking against or struck by front passenger side automobile airbag, sequela",W22.12,2016,2027
+W22.19,Striking against or struck by other automobile airbag,W22.1,2016,2027
+W22.19XA,"Striking against or struck by other automobile airbag, initial encounter",W22.19,2016,2027
+W22.19XD,"Striking against or struck by other automobile airbag, subsequent encounter",W22.19,2016,2027
+W22.19XS,"Striking against or struck by other automobile airbag, sequela",W22.19,2016,2027
+W22.8,Striking against or struck by other objects,W22,2016,2027
+W22.8XXA,"Striking against or struck by other objects, initial encounter",W22.8,2016,2027
+W22.8XXD,"Striking against or struck by other objects, subsequent encounter",W22.8,2016,2027
+W22.8XXS,"Striking against or struck by other objects, sequela",W22.8,2016,2027
+W23,"Caught, crushed, jammed or pinched in or between objects",,2016,2027
+W23.0,"Caught, crushed, jammed, or pinched between moving objects",W23,2016,2027
+W23.0XXA,"Caught, crushed, jammed, or pinched between moving objects, initial encounter",W23.0,2016,2027
+W23.0XXD,"Caught, crushed, jammed, or pinched between moving objects, subsequent encounter",W23.0,2016,2027
+W23.0XXS,"Caught, crushed, jammed, or pinched between moving objects, sequela",W23.0,2016,2027
+W23.1,"Caught, crushed, jammed, or pinched between stationary objects",W23,2016,2027
+W23.1XXA,"Caught, crushed, jammed, or pinched between stationary objects, initial encounter",W23.1,2016,2027
+W23.1XXD,"Caught, crushed, jammed, or pinched between stationary objects, subsequent encounter",W23.1,2016,2027
+W23.1XXS,"Caught, crushed, jammed, or pinched between stationary objects, sequela",W23.1,2016,2027
+W23.2,"Caught, crushed, jammed or pinched between a moving and stationary object",W23,2023,2027
+W23.2XXA,"Caught, crushed, jammed or pinched between a moving and stationary object, initial encounter",W23.2,2023,2027
+W23.2XXD,"Caught, crushed, jammed or pinched between a moving and stationary object, subsequent encounter",W23.2,2023,2027
+W23.2XXS,"Caught, crushed, jammed or pinched between a moving and stationary object, sequela",W23.2,2023,2027
+W24,"Contact with lifting and transmission devices, not elsewhere classified",,2016,2027
+W24.0,"Contact with lifting devices, not elsewhere classified",W24,2016,2027
+W24.0XXA,"Contact with lifting devices, not elsewhere classified, initial encounter",W24.0,2016,2027
+W24.0XXD,"Contact with lifting devices, not elsewhere classified, subsequent encounter",W24.0,2016,2027
+W24.0XXS,"Contact with lifting devices, not elsewhere classified, sequela",W24.0,2016,2027
+W24.1,"Contact with transmission devices, not elsewhere classified",W24,2016,2027
+W24.1XXA,"Contact with transmission devices, not elsewhere classified, initial encounter",W24.1,2016,2027
+W24.1XXD,"Contact with transmission devices, not elsewhere classified, subsequent encounter",W24.1,2016,2027
+W24.1XXS,"Contact with transmission devices, not elsewhere classified, sequela",W24.1,2016,2027
+W25,Contact with sharp glass,,2016,2027
+W25.XXXA,"Contact with sharp glass, initial encounter",W25,2016,2027
+W25.XXXD,"Contact with sharp glass, subsequent encounter",W25,2016,2027
+W25.XXXS,"Contact with sharp glass, sequela",W25,2016,2027
+W26,Contact with other sharp objects,,2016,2027
+W26.0,Contact with knife,W26,2016,2027
+W26.0XXA,"Contact with knife, initial encounter",W26.0,2016,2027
+W26.0XXD,"Contact with knife, subsequent encounter",W26.0,2016,2027
+W26.0XXS,"Contact with knife, sequela",W26.0,2016,2027
+W26.1,Contact with sword or dagger,W26,2016,2027
+W26.1XXA,"Contact with sword or dagger, initial encounter",W26.1,2016,2027
+W26.1XXD,"Contact with sword or dagger, subsequent encounter",W26.1,2016,2027
+W26.1XXS,"Contact with sword or dagger, sequela",W26.1,2016,2027
+W26.2,Contact with edge of stiff paper,W26,2017,2027
+W26.2XXA,"Contact with edge of stiff paper, initial encounter",W26.2,2017,2027
+W26.2XXD,"Contact with edge of stiff paper, subsequent encounter",W26.2,2017,2027
+W26.2XXS,"Contact with edge of stiff paper, sequela",W26.2,2017,2027
+W26.8,"Contact with other sharp object(s), not elsewhere classified",W26,2017,2027
+W26.8XXA,"Contact with other sharp object(s), not elsewhere classified, initial encounter",W26.8,2017,2027
+W26.8XXD,"Contact with other sharp object(s), not elsewhere classified, subsequent encounter",W26.8,2017,2027
+W26.8XXS,"Contact with other sharp object(s), not elsewhere classified, sequela",W26.8,2017,2027
+W26.9,Contact with unspecified sharp object(s),W26,2017,2027
+W26.9XXA,"Contact with unspecified sharp object(s), initial encounter",W26.9,2017,2027
+W26.9XXD,"Contact with unspecified sharp object(s), subsequent encounter",W26.9,2017,2027
+W26.9XXS,"Contact with unspecified sharp object(s), sequela",W26.9,2017,2027
+W27,Contact with nonpowered hand tool,,2016,2027
+W27.0,Contact with workbench tool,W27,2016,2027
+W27.0XXA,"Contact with workbench tool, initial encounter",W27.0,2016,2027
+W27.0XXD,"Contact with workbench tool, subsequent encounter",W27.0,2016,2027
+W27.0XXS,"Contact with workbench tool, sequela",W27.0,2016,2027
+W27.1,Contact with garden tool,W27,2016,2027
+W27.1XXA,"Contact with garden tool, initial encounter",W27.1,2016,2027
+W27.1XXD,"Contact with garden tool, subsequent encounter",W27.1,2016,2027
+W27.1XXS,"Contact with garden tool, sequela",W27.1,2016,2027
+W27.2,Contact with scissors,W27,2016,2027
+W27.2XXA,"Contact with scissors, initial encounter",W27.2,2016,2027
+W27.2XXD,"Contact with scissors, subsequent encounter",W27.2,2016,2027
+W27.2XXS,"Contact with scissors, sequela",W27.2,2016,2027
+W27.3,Contact with needle (sewing),W27,2016,2027
+W27.3XXA,"Contact with needle (sewing), initial encounter",W27.3,2016,2027
+W27.3XXD,"Contact with needle (sewing), subsequent encounter",W27.3,2016,2027
+W27.3XXS,"Contact with needle (sewing), sequela",W27.3,2016,2027
+W27.4,Contact with kitchen utensil,W27,2016,2027
+W27.4XXA,"Contact with kitchen utensil, initial encounter",W27.4,2016,2027
+W27.4XXD,"Contact with kitchen utensil, subsequent encounter",W27.4,2016,2027
+W27.4XXS,"Contact with kitchen utensil, sequela",W27.4,2016,2027
+W27.5,Contact with paper-cutter,W27,2016,2027
+W27.5XXA,"Contact with paper-cutter, initial encounter",W27.5,2016,2027
+W27.5XXD,"Contact with paper-cutter, subsequent encounter",W27.5,2016,2027
+W27.5XXS,"Contact with paper-cutter, sequela",W27.5,2016,2027
+W27.8,Contact with other nonpowered hand tool,W27,2016,2027
+W27.8XXA,"Contact with other nonpowered hand tool, initial encounter",W27.8,2016,2027
+W27.8XXD,"Contact with other nonpowered hand tool, subsequent encounter",W27.8,2016,2027
+W27.8XXS,"Contact with other nonpowered hand tool, sequela",W27.8,2016,2027
+W28,Contact with powered lawn mower,,2016,2027
+W28.XXXA,"Contact with powered lawn mower, initial encounter",W28,2016,2027
+W28.XXXD,"Contact with powered lawn mower, subsequent encounter",W28,2016,2027
+W28.XXXS,"Contact with powered lawn mower, sequela",W28,2016,2027
+W29,Contact with other powered hand tools and household machinery,,2016,2027
+W29.0,Contact with powered kitchen appliance,W29,2016,2027
+W29.0XXA,"Contact with powered kitchen appliance, initial encounter",W29.0,2016,2027
+W29.0XXD,"Contact with powered kitchen appliance, subsequent encounter",W29.0,2016,2027
+W29.0XXS,"Contact with powered kitchen appliance, sequela",W29.0,2016,2027
+W29.1,Contact with electric knife,W29,2016,2027
+W29.1XXA,"Contact with electric knife, initial encounter",W29.1,2016,2027
+W29.1XXD,"Contact with electric knife, subsequent encounter",W29.1,2016,2027
+W29.1XXS,"Contact with electric knife, sequela",W29.1,2016,2027
+W29.2,Contact with other powered household machinery,W29,2016,2027
+W29.2XXA,"Contact with other powered household machinery, initial encounter",W29.2,2016,2027
+W29.2XXD,"Contact with other powered household machinery, subsequent encounter",W29.2,2016,2027
+W29.2XXS,"Contact with other powered household machinery, sequela",W29.2,2016,2027
+W29.3,Contact with powered garden and outdoor hand tools and machinery,W29,2016,2027
+W29.3XXA,"Contact with powered garden and outdoor hand tools and machinery, initial encounter",W29.3,2016,2027
+W29.3XXD,"Contact with powered garden and outdoor hand tools and machinery, subsequent encounter",W29.3,2016,2027
+W29.3XXS,"Contact with powered garden and outdoor hand tools and machinery, sequela",W29.3,2016,2027
+W29.4,Contact with nail gun,W29,2016,2027
+W29.4XXA,"Contact with nail gun, initial encounter",W29.4,2016,2027
+W29.4XXD,"Contact with nail gun, subsequent encounter",W29.4,2016,2027
+W29.4XXS,"Contact with nail gun, sequela",W29.4,2016,2027
+W29.8,Contact with other powered hand tools and household machinery,W29,2016,2027
+W29.8XXA,"Contact with other powered hand tools and household machinery, initial encounter",W29.8,2016,2027
+W29.8XXD,"Contact with other powered hand tools and household machinery, subsequent encounter",W29.8,2016,2027
+W29.8XXS,"Contact with other powered hand tools and household machinery, sequela",W29.8,2016,2027
+W30,Contact with agricultural machinery,,2016,2027
+W30.0,Contact with combine harvester,W30,2016,2027
+W30.0XXA,"Contact with combine harvester, initial encounter",W30.0,2016,2027
+W30.0XXD,"Contact with combine harvester, subsequent encounter",W30.0,2016,2027
+W30.0XXS,"Contact with combine harvester, sequela",W30.0,2016,2027
+W30.1,Contact with power take-off devices (PTO),W30,2016,2027
+W30.1XXA,"Contact with power take-off devices (PTO), initial encounter",W30.1,2016,2027
+W30.1XXD,"Contact with power take-off devices (PTO), subsequent encounter",W30.1,2016,2027
+W30.1XXS,"Contact with power take-off devices (PTO), sequela",W30.1,2016,2027
+W30.2,Contact with hay derrick,W30,2016,2027
+W30.2XXA,"Contact with hay derrick, initial encounter",W30.2,2016,2027
+W30.2XXD,"Contact with hay derrick, subsequent encounter",W30.2,2016,2027
+W30.2XXS,"Contact with hay derrick, sequela",W30.2,2016,2027
+W30.3,Contact with grain storage elevator,W30,2016,2027
+W30.3XXA,"Contact with grain storage elevator, initial encounter",W30.3,2016,2027
+W30.3XXD,"Contact with grain storage elevator, subsequent encounter",W30.3,2016,2027
+W30.3XXS,"Contact with grain storage elevator, sequela",W30.3,2016,2027
+W30.8,Contact with other specified agricultural machinery,W30,2016,2027
+W30.81,Contact with agricultural transport vehicle in stationary use,W30.8,2016,2027
+W30.81XA,"Contact with agricultural transport vehicle in stationary use, initial encounter",W30.81,2016,2027
+W30.81XD,"Contact with agricultural transport vehicle in stationary use, subsequent encounter",W30.81,2016,2027
+W30.81XS,"Contact with agricultural transport vehicle in stationary use, sequela",W30.81,2016,2027
+W30.89,Contact with other specified agricultural machinery,W30.8,2016,2027
+W30.89XA,"Contact with other specified agricultural machinery, initial encounter",W30.89,2016,2027
+W30.89XD,"Contact with other specified agricultural machinery, subsequent encounter",W30.89,2016,2027
+W30.89XS,"Contact with other specified agricultural machinery, sequela",W30.89,2016,2027
+W30.9,Contact with unspecified agricultural machinery,W30,2016,2027
+W30.9XXA,"Contact with unspecified agricultural machinery, initial encounter",W30.9,2016,2027
+W30.9XXD,"Contact with unspecified agricultural machinery, subsequent encounter",W30.9,2016,2027
+W30.9XXS,"Contact with unspecified agricultural machinery, sequela",W30.9,2016,2027
+W31,Contact with other and unspecified machinery,,2016,2027
+W31.0,Contact with mining and earth-drilling machinery,W31,2016,2027
+W31.0XXA,"Contact with mining and earth-drilling machinery, initial encounter",W31.0,2016,2027
+W31.0XXD,"Contact with mining and earth-drilling machinery, subsequent encounter",W31.0,2016,2027
+W31.0XXS,"Contact with mining and earth-drilling machinery, sequela",W31.0,2016,2027
+W31.1,Contact with metalworking machines,W31,2016,2027
+W31.1XXA,"Contact with metalworking machines, initial encounter",W31.1,2016,2027
+W31.1XXD,"Contact with metalworking machines, subsequent encounter",W31.1,2016,2027
+W31.1XXS,"Contact with metalworking machines, sequela",W31.1,2016,2027
+W31.2,Contact with powered woodworking and forming machines,W31,2016,2027
+W31.2XXA,"Contact with powered woodworking and forming machines, initial encounter",W31.2,2016,2027
+W31.2XXD,"Contact with powered woodworking and forming machines, subsequent encounter",W31.2,2016,2027
+W31.2XXS,"Contact with powered woodworking and forming machines, sequela",W31.2,2016,2027
+W31.3,Contact with prime movers,W31,2016,2027
+W31.3XXA,"Contact with prime movers, initial encounter",W31.3,2016,2027
+W31.3XXD,"Contact with prime movers, subsequent encounter",W31.3,2016,2027
+W31.3XXS,"Contact with prime movers, sequela",W31.3,2016,2027
+W31.8,Contact with other specified machinery,W31,2016,2027
+W31.81,Contact with recreational machinery,W31.8,2016,2027
+W31.81XA,"Contact with recreational machinery, initial encounter",W31.81,2016,2027
+W31.81XD,"Contact with recreational machinery, subsequent encounter",W31.81,2016,2027
+W31.81XS,"Contact with recreational machinery, sequela",W31.81,2016,2027
+W31.82,Contact with other commercial machinery,W31.8,2016,2027
+W31.82XA,"Contact with other commercial machinery, initial encounter",W31.82,2016,2027
+W31.82XD,"Contact with other commercial machinery, subsequent encounter",W31.82,2016,2027
+W31.82XS,"Contact with other commercial machinery, sequela",W31.82,2016,2027
+W31.83,Contact with special construction vehicle in stationary use,W31.8,2016,2027
+W31.83XA,"Contact with special construction vehicle in stationary use, initial encounter",W31.83,2016,2027
+W31.83XD,"Contact with special construction vehicle in stationary use, subsequent encounter",W31.83,2016,2027
+W31.83XS,"Contact with special construction vehicle in stationary use, sequela",W31.83,2016,2027
+W31.89,Contact with other specified machinery,W31.8,2016,2027
+W31.89XA,"Contact with other specified machinery, initial encounter",W31.89,2016,2027
+W31.89XD,"Contact with other specified machinery, subsequent encounter",W31.89,2016,2027
+W31.89XS,"Contact with other specified machinery, sequela",W31.89,2016,2027
+W31.9,Contact with unspecified machinery,W31,2016,2027
+W31.9XXA,"Contact with unspecified machinery, initial encounter",W31.9,2016,2027
+W31.9XXD,"Contact with unspecified machinery, subsequent encounter",W31.9,2016,2027
+W31.9XXS,"Contact with unspecified machinery, sequela",W31.9,2016,2027
+W32,Accidental handgun discharge and malfunction,,2016,2027
+W32.0,Accidental handgun discharge,W32,2016,2027
+W32.0XXA,"Accidental handgun discharge, initial encounter",W32.0,2016,2027
+W32.0XXD,"Accidental handgun discharge, subsequent encounter",W32.0,2016,2027
+W32.0XXS,"Accidental handgun discharge, sequela",W32.0,2016,2027
+W32.1,Accidental handgun malfunction,W32,2016,2027
+W32.1XXA,"Accidental handgun malfunction, initial encounter",W32.1,2016,2027
+W32.1XXD,"Accidental handgun malfunction, subsequent encounter",W32.1,2016,2027
+W32.1XXS,"Accidental handgun malfunction, sequela",W32.1,2016,2027
+W33,"Accidental rifle, shotgun and larger firearm discharge and malfunction",,2016,2027
+W33.0,"Accidental rifle, shotgun and larger firearm discharge",W33,2016,2027
+W33.00,Accidental discharge of unspecified larger firearm,W33.0,2016,2027
+W33.00XA,"Accidental discharge of unspecified larger firearm, initial encounter",W33.00,2016,2027
+W33.00XD,"Accidental discharge of unspecified larger firearm, subsequent encounter",W33.00,2016,2027
+W33.00XS,"Accidental discharge of unspecified larger firearm, sequela",W33.00,2016,2027
+W33.01,Accidental discharge of shotgun,W33.0,2016,2027
+W33.01XA,"Accidental discharge of shotgun, initial encounter",W33.01,2016,2027
+W33.01XD,"Accidental discharge of shotgun, subsequent encounter",W33.01,2016,2027
+W33.01XS,"Accidental discharge of shotgun, sequela",W33.01,2016,2027
+W33.02,Accidental discharge of hunting rifle,W33.0,2016,2027
+W33.02XA,"Accidental discharge of hunting rifle, initial encounter",W33.02,2016,2027
+W33.02XD,"Accidental discharge of hunting rifle, subsequent encounter",W33.02,2016,2027
+W33.02XS,"Accidental discharge of hunting rifle, sequela",W33.02,2016,2027
+W33.03,Accidental discharge of machine gun,W33.0,2016,2027
+W33.03XA,"Accidental discharge of machine gun, initial encounter",W33.03,2016,2027
+W33.03XD,"Accidental discharge of machine gun, subsequent encounter",W33.03,2016,2027
+W33.03XS,"Accidental discharge of machine gun, sequela",W33.03,2016,2027
+W33.09,Accidental discharge of other larger firearm,W33.0,2016,2027
+W33.09XA,"Accidental discharge of other larger firearm, initial encounter",W33.09,2016,2027
+W33.09XD,"Accidental discharge of other larger firearm, subsequent encounter",W33.09,2016,2027
+W33.09XS,"Accidental discharge of other larger firearm, sequela",W33.09,2016,2027
+W33.1,"Accidental rifle, shotgun and larger firearm malfunction",W33,2016,2027
+W33.10,Accidental malfunction of unspecified larger firearm,W33.1,2016,2027
+W33.10XA,"Accidental malfunction of unspecified larger firearm, initial encounter",W33.10,2016,2027
+W33.10XD,"Accidental malfunction of unspecified larger firearm, subsequent encounter",W33.10,2016,2027
+W33.10XS,"Accidental malfunction of unspecified larger firearm, sequela",W33.10,2016,2027
+W33.11,Accidental malfunction of shotgun,W33.1,2016,2027
+W33.11XA,"Accidental malfunction of shotgun, initial encounter",W33.11,2016,2027
+W33.11XD,"Accidental malfunction of shotgun, subsequent encounter",W33.11,2016,2027
+W33.11XS,"Accidental malfunction of shotgun, sequela",W33.11,2016,2027
+W33.12,Accidental malfunction of hunting rifle,W33.1,2016,2027
+W33.12XA,"Accidental malfunction of hunting rifle, initial encounter",W33.12,2016,2027
+W33.12XD,"Accidental malfunction of hunting rifle, subsequent encounter",W33.12,2016,2027
+W33.12XS,"Accidental malfunction of hunting rifle, sequela",W33.12,2016,2027
+W33.13,Accidental malfunction of machine gun,W33.1,2016,2027
+W33.13XA,"Accidental malfunction of machine gun, initial encounter",W33.13,2016,2027
+W33.13XD,"Accidental malfunction of machine gun, subsequent encounter",W33.13,2016,2027
+W33.13XS,"Accidental malfunction of machine gun, sequela",W33.13,2016,2027
+W33.19,Accidental malfunction of other larger firearm,W33.1,2016,2027
+W33.19XA,"Accidental malfunction of other larger firearm, initial encounter",W33.19,2016,2027
+W33.19XD,"Accidental malfunction of other larger firearm, subsequent encounter",W33.19,2016,2027
+W33.19XS,"Accidental malfunction of other larger firearm, sequela",W33.19,2016,2027
+W34,Accidental discharge and malfunction from other and unspecified firearms and guns,,2016,2027
+W34.0,Accidental discharge from other and unspecified firearms and guns,W34,2016,2027
+W34.00,Accidental discharge from unspecified firearms or gun,W34.0,2016,2027
+W34.00XA,"Accidental discharge from unspecified firearms or gun, initial encounter",W34.00,2016,2027
+W34.00XD,"Accidental discharge from unspecified firearms or gun, subsequent encounter",W34.00,2016,2027
+W34.00XS,"Accidental discharge from unspecified firearms or gun, sequela",W34.00,2016,2027
+W34.01,"Accidental discharge of gas, air or spring-operated guns",W34.0,2016,2027
+W34.010,Accidental discharge of airgun,W34.01,2016,2027
+W34.010A,"Accidental discharge of airgun, initial encounter",W34.010,2016,2027
+W34.010D,"Accidental discharge of airgun, subsequent encounter",W34.010,2016,2027
+W34.010S,"Accidental discharge of airgun, sequela",W34.010,2016,2027
+W34.011,Accidental discharge of paintball gun,W34.01,2016,2027
+W34.011A,"Accidental discharge of paintball gun, initial encounter",W34.011,2016,2027
+W34.011D,"Accidental discharge of paintball gun, subsequent encounter",W34.011,2016,2027
+W34.011S,"Accidental discharge of paintball gun, sequela",W34.011,2016,2027
+W34.018,"Accidental discharge of other gas, air or spring-operated gun",W34.01,2016,2027
+W34.018A,"Accidental discharge of other gas, air or spring-operated gun, initial encounter",W34.018,2016,2027
+W34.018D,"Accidental discharge of other gas, air or spring-operated gun, subsequent encounter",W34.018,2016,2027
+W34.018S,"Accidental discharge of other gas, air or spring-operated gun, sequela",W34.018,2016,2027
+W34.09,Accidental discharge from other specified firearms,W34.0,2016,2027
+W34.09XA,"Accidental discharge from other specified firearms, initial encounter",W34.09,2016,2027
+W34.09XD,"Accidental discharge from other specified firearms, subsequent encounter",W34.09,2016,2027
+W34.09XS,"Accidental discharge from other specified firearms, sequela",W34.09,2016,2027
+W34.1,Accidental malfunction from other and unspecified firearms and guns,W34,2016,2027
+W34.10,Accidental malfunction from unspecified firearms or gun,W34.1,2016,2027
+W34.10XA,"Accidental malfunction from unspecified firearms or gun, initial encounter",W34.10,2016,2027
+W34.10XD,"Accidental malfunction from unspecified firearms or gun, subsequent encounter",W34.10,2016,2027
+W34.10XS,"Accidental malfunction from unspecified firearms or gun, sequela",W34.10,2016,2027
+W34.11,"Accidental malfunction of gas, air or spring-operated guns",W34.1,2016,2027
+W34.110,Accidental malfunction of airgun,W34.11,2016,2027
+W34.110A,"Accidental malfunction of airgun, initial encounter",W34.110,2016,2027
+W34.110D,"Accidental malfunction of airgun, subsequent encounter",W34.110,2016,2027
+W34.110S,"Accidental malfunction of airgun, sequela",W34.110,2016,2027
+W34.111,Accidental malfunction of paintball gun,W34.11,2016,2027
+W34.111A,"Accidental malfunction of paintball gun, initial encounter",W34.111,2016,2027
+W34.111D,"Accidental malfunction of paintball gun, subsequent encounter",W34.111,2016,2027
+W34.111S,"Accidental malfunction of paintball gun, sequela",W34.111,2016,2027
+W34.118,"Accidental malfunction of other gas, air or spring-operated gun",W34.11,2016,2027
+W34.118A,"Accidental malfunction of other gas, air or spring-operated gun, initial encounter",W34.118,2016,2027
+W34.118D,"Accidental malfunction of other gas, air or spring-operated gun, subsequent encounter",W34.118,2016,2027
+W34.118S,"Accidental malfunction of other gas, air or spring-operated gun, sequela",W34.118,2016,2027
+W34.19,Accidental malfunction from other specified firearms,W34.1,2016,2027
+W34.19XA,"Accidental malfunction from other specified firearms, initial encounter",W34.19,2016,2027
+W34.19XD,"Accidental malfunction from other specified firearms, subsequent encounter",W34.19,2016,2027
+W34.19XS,"Accidental malfunction from other specified firearms, sequela",W34.19,2016,2027
+W35,Explosion and rupture of boiler,,2016,2027
+W35.XXXA,"Explosion and rupture of boiler, initial encounter",W35,2016,2027
+W35.XXXD,"Explosion and rupture of boiler, subsequent encounter",W35,2016,2027
+W35.XXXS,"Explosion and rupture of boiler, sequela",W35,2016,2027
+W36,Explosion and rupture of gas cylinder,,2016,2027
+W36.1,Explosion and rupture of aerosol can,W36,2016,2027
+W36.1XXA,"Explosion and rupture of aerosol can, initial encounter",W36.1,2016,2027
+W36.1XXD,"Explosion and rupture of aerosol can, subsequent encounter",W36.1,2016,2027
+W36.1XXS,"Explosion and rupture of aerosol can, sequela",W36.1,2016,2027
+W36.2,Explosion and rupture of air tank,W36,2016,2027
+W36.2XXA,"Explosion and rupture of air tank, initial encounter",W36.2,2016,2027
+W36.2XXD,"Explosion and rupture of air tank, subsequent encounter",W36.2,2016,2027
+W36.2XXS,"Explosion and rupture of air tank, sequela",W36.2,2016,2027
+W36.3,Explosion and rupture of pressurized-gas tank,W36,2016,2027
+W36.3XXA,"Explosion and rupture of pressurized-gas tank, initial encounter",W36.3,2016,2027
+W36.3XXD,"Explosion and rupture of pressurized-gas tank, subsequent encounter",W36.3,2016,2027
+W36.3XXS,"Explosion and rupture of pressurized-gas tank, sequela",W36.3,2016,2027
+W36.8,Explosion and rupture of other gas cylinder,W36,2016,2027
+W36.8XXA,"Explosion and rupture of other gas cylinder, initial encounter",W36.8,2016,2027
+W36.8XXD,"Explosion and rupture of other gas cylinder, subsequent encounter",W36.8,2016,2027
+W36.8XXS,"Explosion and rupture of other gas cylinder, sequela",W36.8,2016,2027
+W36.9,Explosion and rupture of unspecified gas cylinder,W36,2016,2027
+W36.9XXA,"Explosion and rupture of unspecified gas cylinder, initial encounter",W36.9,2016,2027
+W36.9XXD,"Explosion and rupture of unspecified gas cylinder, subsequent encounter",W36.9,2016,2027
+W36.9XXS,"Explosion and rupture of unspecified gas cylinder, sequela",W36.9,2016,2027
+W37,"Explosion and rupture of pressurized tire, pipe or hose",,2016,2027
+W37.0,Explosion of bicycle tire,W37,2016,2027
+W37.0XXA,"Explosion of bicycle tire, initial encounter",W37.0,2016,2027
+W37.0XXD,"Explosion of bicycle tire, subsequent encounter",W37.0,2016,2027
+W37.0XXS,"Explosion of bicycle tire, sequela",W37.0,2016,2027
+W37.8,"Explosion and rupture of other pressurized tire, pipe or hose",W37,2016,2027
+W37.8XXA,"Explosion and rupture of other pressurized tire, pipe or hose, initial encounter",W37.8,2016,2027
+W37.8XXD,"Explosion and rupture of other pressurized tire, pipe or hose, subsequent encounter",W37.8,2016,2027
+W37.8XXS,"Explosion and rupture of other pressurized tire, pipe or hose, sequela",W37.8,2016,2027
+W38,Explosion and rupture of other specified pressurized devices,,2016,2027
+W38.XXXA,"Explosion and rupture of other specified pressurized devices, initial encounter",W38,2016,2027
+W38.XXXD,"Explosion and rupture of other specified pressurized devices, subsequent encounter",W38,2016,2027
+W38.XXXS,"Explosion and rupture of other specified pressurized devices, sequela",W38,2016,2027
+W39,Discharge of firework,,2016,2027
+W39.XXXA,"Discharge of firework, initial encounter",W39,2016,2027
+W39.XXXD,"Discharge of firework, subsequent encounter",W39,2016,2027
+W39.XXXS,"Discharge of firework, sequela",W39,2016,2027
+W40,Explosion of other materials,,2016,2027
+W40.0,Explosion of blasting material,W40,2016,2027
+W40.0XXA,"Explosion of blasting material, initial encounter",W40.0,2016,2027
+W40.0XXD,"Explosion of blasting material, subsequent encounter",W40.0,2016,2027
+W40.0XXS,"Explosion of blasting material, sequela",W40.0,2016,2027
+W40.1,Explosion of explosive gases,W40,2016,2027
+W40.1XXA,"Explosion of explosive gases, initial encounter",W40.1,2016,2027
+W40.1XXD,"Explosion of explosive gases, subsequent encounter",W40.1,2016,2027
+W40.1XXS,"Explosion of explosive gases, sequela",W40.1,2016,2027
+W40.8,Explosion of other specified explosive materials,W40,2016,2027
+W40.8XXA,"Explosion of other specified explosive materials, initial encounter",W40.8,2016,2027
+W40.8XXD,"Explosion of other specified explosive materials, subsequent encounter",W40.8,2016,2027
+W40.8XXS,"Explosion of other specified explosive materials, sequela",W40.8,2016,2027
+W40.9,Explosion of unspecified explosive materials,W40,2016,2027
+W40.9XXA,"Explosion of unspecified explosive materials, initial encounter",W40.9,2016,2027
+W40.9XXD,"Explosion of unspecified explosive materials, subsequent encounter",W40.9,2016,2027
+W40.9XXS,"Explosion of unspecified explosive materials, sequela",W40.9,2016,2027
+W42,Exposure to noise,,2016,2027
+W42.0,Exposure to supersonic waves,W42,2016,2027
+W42.0XXA,"Exposure to supersonic waves, initial encounter",W42.0,2016,2027
+W42.0XXD,"Exposure to supersonic waves, subsequent encounter",W42.0,2016,2027
+W42.0XXS,"Exposure to supersonic waves, sequela",W42.0,2016,2027
+W42.9,Exposure to other noise,W42,2016,2027
+W42.9XXA,"Exposure to other noise, initial encounter",W42.9,2016,2027
+W42.9XXD,"Exposure to other noise, subsequent encounter",W42.9,2016,2027
+W42.9XXS,"Exposure to other noise, sequela",W42.9,2016,2027
+W44,Foreign body entering into or through a natural orifice,,2024,2027
+W44.8,Other foreign body entering into or through a natural orifice,W44,2024,2027
+W44.8XXA,"Other foreign body entering into or through a natural orifice, initial encounter",W44.8,2024,2027
+W44.8XXD,"Other foreign body entering into or through a natural orifice, subsequent encounter",W44.8,2024,2027
+W44.8XXS,"Other foreign body entering into or through a natural orifice, sequela",W44.8,2024,2027
+W44.9,Unspecified foreign body entering into or through a natural orifice,W44,2024,2027
+W44.9XXA,"Unspecified foreign body entering into or through a natural orifice, initial encounter",W44.9,2024,2027
+W44.9XXD,"Unspecified foreign body entering into or through a natural orifice, subsequent encounter",W44.9,2024,2027
+W44.9XXS,"Unspecified foreign body entering into or through a natural orifice, sequela",W44.9,2024,2027
+W44.A,Battery entering into or through a natural orifice,W44,2024,2027
+W44.A0,"Battery unspecified, entering into or through a natural orifice",W44.A,2024,2027
+W44.A0XA,"Battery unspecified, entering into or through a natural orifice, initial encounter",W44.A0,2024,2027
+W44.A0XD,"Battery unspecified, entering into or through a natural orifice, subsequent encounter",W44.A0,2024,2027
+W44.A0XS,"Battery unspecified, entering into or through a natural orifice, sequela",W44.A0,2024,2027
+W44.A1,Button battery entering into or through a natural orifice,W44.A,2024,2027
+W44.A1XA,"Button battery entering into or through a natural orifice, initial encounter",W44.A1,2024,2027
+W44.A1XD,"Button battery entering into or through a natural orifice, subsequent encounter",W44.A1,2024,2027
+W44.A1XS,"Button battery entering into or through a natural orifice, sequela",W44.A1,2024,2027
+W44.A9,Other batteries entering into or through a natural orifice,W44.A,2024,2027
+W44.A9XA,"Other batteries entering into or through a natural orifice, initial encounter",W44.A9,2024,2027
+W44.A9XD,"Other batteries entering into or through a natural orifice, subsequent encounter",W44.A9,2024,2027
+W44.A9XS,"Other batteries entering into or through a natural orifice, sequela",W44.A9,2024,2027
+W44.B,Plastic entering into or through a natural orifice,W44,2024,2027
+W44.B0,"Plastic object unspecified, entering into or through a natural orifice",W44.B,2024,2027
+W44.B0XA,"Plastic object unspecified, entering into or through a natural orifice, initial encounter",W44.B0,2024,2027
+W44.B0XD,"Plastic object unspecified, entering into or through a natural orifice, subsequent encounter",W44.B0,2024,2027
+W44.B0XS,"Plastic object unspecified, entering into or through a natural orifice, sequela",W44.B0,2024,2027
+W44.B1,Plastic bead entering into or through a natural orifice,W44.B,2024,2027
+W44.B1XA,"Plastic bead entering into or through a natural orifice, initial encounter",W44.B1,2024,2027
+W44.B1XD,"Plastic bead entering into or through a natural orifice, subsequent encounter",W44.B1,2024,2027
+W44.B1XS,"Plastic bead entering into or through a natural orifice, sequela",W44.B1,2024,2027
+W44.B2,Plastic coin entering into or through a natural orifice,W44.B,2024,2027
+W44.B2XA,"Plastic coin entering into or through a natural orifice, initial encounter",W44.B2,2024,2027
+W44.B2XD,"Plastic coin entering into or through a natural orifice, subsequent encounter",W44.B2,2024,2027
+W44.B2XS,"Plastic coin entering into or through a natural orifice, sequela",W44.B2,2024,2027
+W44.B3,Plastic toy and toy part entering into or through a natural orifice,W44.B,2024,2027
+W44.B3XA,"Plastic toy and toy part entering into or through a natural orifice, initial encounter",W44.B3,2024,2027
+W44.B3XD,"Plastic toy and toy part entering into or through a natural orifice, subsequent encounter",W44.B3,2024,2027
+W44.B3XS,"Plastic toy and toy part entering into or through a natural orifice, sequela",W44.B3,2024,2027
+W44.B4,Plastic jewelry entering into or through a natural orifice,W44.B,2024,2027
+W44.B4XA,"Plastic jewelry entering into or through a natural orifice, initial encounter",W44.B4,2024,2027
+W44.B4XD,"Plastic jewelry entering into or through a natural orifice, subsequent encounter",W44.B4,2024,2027
+W44.B4XS,"Plastic jewelry entering into or through a natural orifice, sequela",W44.B4,2024,2027
+W44.B5,Plastic bottle entering into or through a natural orifice,W44.B,2024,2027
+W44.B5XA,"Plastic bottle entering into or through a natural orifice, initial encounter",W44.B5,2024,2027
+W44.B5XD,"Plastic bottle entering into or through a natural orifice, subsequent encounter",W44.B5,2024,2027
+W44.B5XS,"Plastic bottle entering into or through a natural orifice, sequela",W44.B5,2024,2027
+W44.B9,Other plastic object entering into or through a natural orifice,W44.B,2024,2027
+W44.B9XA,"Other plastic object entering into or through a natural orifice, initial encounter",W44.B9,2024,2027
+W44.B9XD,"Other plastic object entering into or through a natural orifice, subsequent encounter",W44.B9,2024,2027
+W44.B9XS,"Other plastic object entering into or through a natural orifice, sequela",W44.B9,2024,2027
+W44.C,Glass entering into or through a natural orifice,W44,2024,2027
+W44.C0,"Glass unspecified, entering into or through a natural orifice",W44.C,2024,2027
+W44.C0XA,"Glass unspecified, entering into or through a natural orifice, initial encounter",W44.C0,2024,2027
+W44.C0XD,"Glass unspecified, entering into or through a natural orifice, subsequent encounter",W44.C0,2024,2027
+W44.C0XS,"Glass unspecified, entering into or through a natural orifice, sequela",W44.C0,2024,2027
+W44.C1,Sharp glass entering into or through a natural orifice,W44.C,2024,2027
+W44.C1XA,"Sharp glass entering into or through a natural orifice, initial encounter",W44.C1,2024,2027
+W44.C1XD,"Sharp glass entering into or through a natural orifice, subsequent encounter",W44.C1,2024,2027
+W44.C1XS,"Sharp glass entering into or through a natural orifice, sequela",W44.C1,2024,2027
+W44.C2,Intact glass entering into or through a natural orifice,W44.C,2024,2027
+W44.C2XA,"Intact glass entering into or through a natural orifice, initial encounter",W44.C2,2024,2027
+W44.C2XD,"Intact glass entering into or through a natural orifice, subsequent encounter",W44.C2,2024,2027
+W44.C2XS,"Intact glass entering into or through a natural orifice, sequela",W44.C2,2024,2027
+W44.D,Magnetic metal entering into or through a natural orifice,W44,2024,2027
+W44.D0,"Magnetic metal object unspecified, entering into or through a natural orifice",W44.D,2024,2027
+W44.D0XA,"Magnetic metal object unspecified, entering into or through a natural orifice, initial encounter",W44.D0,2024,2027
+W44.D0XD,"Magnetic metal object unspecified, entering into or through a natural orifice, subsequent encounter",W44.D0,2024,2027
+W44.D0XS,"Magnetic metal object unspecified, entering into or through a natural orifice, sequela",W44.D0,2024,2027
+W44.D1,Magnetic metal bead entering into or through a natural orifice,W44.D,2024,2027
+W44.D1XA,"Magnetic metal bead entering into or through a natural orifice, initial encounter",W44.D1,2024,2027
+W44.D1XD,"Magnetic metal bead entering into or through a natural orifice, subsequent encounter",W44.D1,2024,2027
+W44.D1XS,"Magnetic metal bead entering into or through a natural orifice, sequela",W44.D1,2024,2027
+W44.D2,Magnetic metal coin entering into or through a natural orifice,W44.D,2024,2027
+W44.D2XA,"Magnetic metal coin entering into or through a natural orifice, initial encounter",W44.D2,2024,2027
+W44.D2XD,"Magnetic metal coin entering into or through a natural orifice, subsequent encounter",W44.D2,2024,2027
+W44.D2XS,"Magnetic metal coin entering into or through a natural orifice, sequela",W44.D2,2024,2027
+W44.D3,Magnetic metal toy entering into or through a natural orifice,W44.D,2024,2027
+W44.D3XA,"Magnetic metal toy entering into or through a natural orifice, initial encounter",W44.D3,2024,2027
+W44.D3XD,"Magnetic metal toy entering into or through a natural orifice, subsequent encounter",W44.D3,2024,2027
+W44.D3XS,"Magnetic metal toy entering into or through a natural orifice, sequela",W44.D3,2024,2027
+W44.D4,Magnetic metal jewelry entering into or through a natural orifice,W44.D,2024,2027
+W44.D4XA,"Magnetic metal jewelry entering into or through a natural orifice, initial encounter",W44.D4,2024,2027
+W44.D4XD,"Magnetic metal jewelry entering into or through a natural orifice, subsequent encounter",W44.D4,2024,2027
+W44.D4XS,"Magnetic metal jewelry entering into or through a natural orifice, sequela",W44.D4,2024,2027
+W44.D9,Other magnetic metal objects entering into or through a natural orifice,W44.D,2024,2027
+W44.D9XA,"Other magnetic metal objects entering into or through a natural orifice, initial encounter",W44.D9,2024,2027
+W44.D9XD,"Other magnetic metal objects entering into or through a natural orifice, subsequent encounter",W44.D9,2024,2027
+W44.D9XS,"Other magnetic metal objects entering into or through a natural orifice, sequela",W44.D9,2024,2027
+W44.E,Non-magnetic metal entering into or through a natural orifice,W44,2024,2027
+W44.E0,"Non-magnetic metal object unspecified, entering into or through a natural orifice",W44.E,2024,2027
+W44.E0XA,"Non-magnetic metal object unspecified, entering into or through a natural orifice, initial encounter",W44.E0,2024,2027
+W44.E0XD,"Non-magnetic metal object unspecified, entering into or through a natural orifice, subsequent encounter",W44.E0,2024,2027
+W44.E0XS,"Non-magnetic metal object unspecified, entering into or through a natural orifice, sequela",W44.E0,2024,2027
+W44.E1,Non-magnetic metal bead entering into or through a natural orifice,W44.E,2024,2027
+W44.E1XA,"Non-magnetic metal bead entering into or through a natural orifice, initial encounter",W44.E1,2024,2027
+W44.E1XD,"Non-magnetic metal bead entering into or through a natural orifice, subsequent encounter",W44.E1,2024,2027
+W44.E1XS,"Non-magnetic metal bead entering into or through a natural orifice, sequela",W44.E1,2024,2027
+W44.E2,Non-magnetic metal coin entering into or through a natural orifice,W44.E,2024,2027
+W44.E2XA,"Non-magnetic metal coin entering into or through a natural orifice, initial encounter",W44.E2,2024,2027
+W44.E2XD,"Non-magnetic metal coin entering into or through a natural orifice, subsequent encounter",W44.E2,2024,2027
+W44.E2XS,"Non-magnetic metal coin entering into or through a natural orifice, sequela",W44.E2,2024,2027
+W44.E3,Non-magnetic metal toy entering into or through a natural orifice,W44.E,2024,2027
+W44.E3XA,"Non-magnetic metal toy entering into or through a natural orifice, initial encounter",W44.E3,2024,2027
+W44.E3XD,"Non-magnetic metal toy entering into or through a natural orifice, subsequent encounter",W44.E3,2024,2027
+W44.E3XS,"Non-magnetic metal toy entering into or through a natural orifice, sequela",W44.E3,2024,2027
+W44.E4,Non-magnetic metal jewelry entering into or through a natural orifice,W44.E,2024,2027
+W44.E4XA,"Non-magnetic metal jewelry entering into or through a natural orifice, initial encounter",W44.E4,2024,2027
+W44.E4XD,"Non-magnetic metal jewelry entering into or through a natural orifice, subsequent encounter",W44.E4,2024,2027
+W44.E4XS,"Non-magnetic metal jewelry entering into or through a natural orifice, sequela",W44.E4,2024,2027
+W44.E9,Other non-magnetic metal objects entering into or through a natural orifice,W44.E,2024,2027
+W44.E9XA,"Other non-magnetic metal objects entering into or through a natural orifice, initial encounter",W44.E9,2024,2027
+W44.E9XD,"Other non-magnetic metal objects entering into or through a natural orifice, subsequent encounter",W44.E9,2024,2027
+W44.E9XS,"Other non-magnetic metal objects entering into or through a natural orifice, sequela",W44.E9,2024,2027
+W44.F,Objects of natural or organic material entering into or through a natural orifice,W44,2024,2027
+W44.F0,"Objects of natural or organic material unspecified, entering into or through a natural orifice",W44.F,2024,2027
+W44.F0XA,"Objects of natural or organic material unspecified, entering into or through a natural orifice, initial encounter",W44.F0,2024,2027
+W44.F0XD,"Objects of natural or organic material unspecified, entering into or through a natural orifice, subsequent encounter",W44.F0,2024,2027
+W44.F0XS,"Objects of natural or organic material unspecified, entering into or through a natural orifice, sequela",W44.F0,2024,2027
+W44.F1,Bezoar entering into or through a natural orifice,W44.F,2024,2027
+W44.F1XA,"Bezoar entering into or through a natural orifice, initial encounter",W44.F1,2024,2027
+W44.F1XD,"Bezoar entering into or through a natural orifice, subsequent encounter",W44.F1,2024,2027
+W44.F1XS,"Bezoar entering into or through a natural orifice, sequela",W44.F1,2024,2027
+W44.F2,Rubber band entering into or through a natural orifice,W44.F,2024,2027
+W44.F2XA,"Rubber band entering into or through a natural orifice, initial encounter",W44.F2,2024,2027
+W44.F2XD,"Rubber band entering into or through a natural orifice, subsequent encounter",W44.F2,2024,2027
+W44.F2XS,"Rubber band entering into or through a natural orifice, sequela",W44.F2,2024,2027
+W44.F3,Food entering into or through a natural orifice,W44.F,2024,2027
+W44.F3XA,"Food entering into or through a natural orifice, initial encounter",W44.F3,2024,2027
+W44.F3XD,"Food entering into or through a natural orifice, subsequent encounter",W44.F3,2024,2027
+W44.F3XS,"Food entering into or through a natural orifice, sequela",W44.F3,2024,2027
+W44.F4,Insect entering into or through a natural orifice,W44.F,2024,2027
+W44.F4XA,"Insect entering into or through a natural orifice, initial encounter",W44.F4,2024,2027
+W44.F4XD,"Insect entering into or through a natural orifice, subsequent encounter",W44.F4,2024,2027
+W44.F4XS,"Insect entering into or through a natural orifice, sequela",W44.F4,2024,2027
+W44.F9,"Other object of natural or organic material, entering into or through a natural orifice",W44.F,2024,2027
+W44.F9XA,"Other object of natural or organic material, entering into or through a natural orifice, initial encounter",W44.F9,2024,2027
+W44.F9XD,"Other object of natural or organic material, entering into or through a natural orifice, subsequent encounter",W44.F9,2024,2027
+W44.F9XS,"Other object of natural or organic material, entering into or through a natural orifice, sequela",W44.F9,2024,2027
+W44.G,Other non-organic objects entering into or through a natural orifice,W44,2024,2027
+W44.G0,"Other non-organic objects unspecified, entering into or through a natural orifice",W44.G,2024,2027
+W44.G0XA,"Other non-organic objects unspecified, entering into or through a natural orifice, initial encounter",W44.G0,2024,2027
+W44.G0XD,"Other non-organic objects unspecified, entering into or through a natural orifice, subsequent encounter",W44.G0,2024,2027
+W44.G0XS,"Other non-organic objects unspecified, entering into or through a natural orifice, sequela",W44.G0,2024,2027
+W44.G1,Audio device entering into or through a natural orifice,W44.G,2024,2027
+W44.G1XA,"Audio device entering into or through a natural orifice, initial encounter",W44.G1,2024,2027
+W44.G1XD,"Audio device entering into or through a natural orifice, subsequent encounter",W44.G1,2024,2027
+W44.G1XS,"Audio device entering into or through a natural orifice, sequela",W44.G1,2024,2027
+W44.G2,Combination metal and plastic toy and toy part entering into or through natural orifice,W44.G,2024,2027
+W44.G2XA,"Combination metal and plastic toy and toy part entering into or through natural orifice, initial encounter",W44.G2,2024,2027
+W44.G2XD,"Combination metal and plastic toy and toy part entering into or through natural orifice, subsequent encounter",W44.G2,2024,2027
+W44.G2XS,"Combination metal and plastic toy and toy part entering into or through natural orifice, sequela",W44.G2,2024,2027
+W44.G3,Combination metal and plastic jewelry entering into or through a natural orifice,W44.G,2024,2027
+W44.G3XA,"Combination metal and plastic jewelry entering into or through a natural orifice, initial encounter",W44.G3,2024,2027
+W44.G3XD,"Combination metal and plastic jewelry entering into or through a natural orifice, subsequent encounter",W44.G3,2024,2027
+W44.G3XS,"Combination metal and plastic jewelry entering into or through a natural orifice, sequela",W44.G3,2024,2027
+W44.G9,Other non-organic objects entering into or through a natural orifice,W44.G,2024,2027
+W44.G9XA,"Other non-organic objects entering into or through a natural orifice, initial encounter",W44.G9,2024,2027
+W44.G9XD,"Other non-organic objects entering into or through a natural orifice, subsequent encounter",W44.G9,2024,2027
+W44.G9XS,"Other non-organic objects entering into or through a natural orifice, sequela",W44.G9,2024,2027
+W44.H,Other sharp object entering into or through a natural orifice,W44,2024,2027
+W44.H0,"Other sharp object unspecified, entering into or through a natural orifice",W44.H,2024,2027
+W44.H0XA,"Other sharp object unspecified, entering into or through a natural orifice, initial encounter",W44.H0,2024,2027
+W44.H0XD,"Other sharp object unspecified, entering into or through a natural orifice, subsequent encounter",W44.H0,2024,2027
+W44.H0XS,"Other sharp object unspecified, entering into or through a natural orifice, sequela",W44.H0,2024,2027
+W44.H1,Needle entering into or through a natural orifice,W44.H,2024,2027
+W44.H1XA,"Needle entering into or through a natural orifice, initial encounter",W44.H1,2024,2027
+W44.H1XD,"Needle entering into or through a natural orifice, subsequent encounter",W44.H1,2024,2027
+W44.H1XS,"Needle entering into or through a natural orifice, sequela",W44.H1,2024,2027
+W44.H2,"Knife, sword or dagger entering into or through a natural orifice",W44.H,2024,2027
+W44.H2XA,"Knife, sword or dagger entering into or through a natural orifice, initial encounter",W44.H2,2024,2027
+W44.H2XD,"Knife, sword or dagger entering into or through a natural orifice, subsequent encounter",W44.H2,2024,2027
+W44.H2XS,"Knife, sword or dagger entering into or through a natural orifice, sequela",W44.H2,2024,2027
+W44.H9,Other sharp object entering into or through a natural orifice,W44.H,2026,2027
+W44.H9XA,"Other sharp object entering into or through a natural orifice, initial encounter",W44.H9,2026,2027
+W44.H9XD,"Other sharp object entering into or through a natural orifice, subsequent encounter",W44.H9,2026,2027
+W44.H9XS,"Other sharp object entering into or through a natural orifice, sequela",W44.H9,2026,2027
+W45,Foreign body or object entering through skin,,2016,2027
+W45.0,Nail entering through skin,W45,2016,2027
+W45.0XXA,"Nail entering through skin, initial encounter",W45.0,2016,2027
+W45.0XXD,"Nail entering through skin, subsequent encounter",W45.0,2016,2027
+W45.0XXS,"Nail entering through skin, sequela",W45.0,2016,2027
+W45.1,Paper entering through skin,W45,2016,2016
+W45.1XXA,"Paper entering through skin, initial encounter",W45.1,2016,2016
+W45.1XXD,"Paper entering through skin, subsequent encounter",W45.1,2016,2016
+W45.1XXS,"Paper entering through skin, sequela",W45.1,2016,2016
+W45.2,Lid of can entering through skin,W45,2016,2016
+W45.2XXA,"Lid of can entering through skin, initial encounter",W45.2,2016,2016
+W45.2XXD,"Lid of can entering through skin, subsequent encounter",W45.2,2016,2016
+W45.2XXS,"Lid of can entering through skin, sequela",W45.2,2016,2016
+W45.3,Fishing hook entering through skin,W45,2026,2027
+W45.3XXA,"Fishing hook entering through skin, initial encounter",W45.3,2026,2027
+W45.3XXD,"Fishing hook entering through skin, subsequent encounter",W45.3,2026,2027
+W45.3XXS,"Fishing hook entering through skin, sequela",W45.3,2026,2027
+W45.8,Other foreign body or object entering through skin,W45,2016,2027
+W45.8XXA,"Other foreign body or object entering through skin, initial encounter",W45.8,2016,2027
+W45.8XXD,"Other foreign body or object entering through skin, subsequent encounter",W45.8,2016,2027
+W45.8XXS,"Other foreign body or object entering through skin, sequela",W45.8,2016,2027
+W46,Contact with hypodermic needle,,2016,2027
+W46.0,Contact with hypodermic needle,W46,2016,2027
+W46.0XXA,"Contact with hypodermic needle, initial encounter",W46.0,2016,2027
+W46.0XXD,"Contact with hypodermic needle, subsequent encounter",W46.0,2016,2027
+W46.0XXS,"Contact with hypodermic needle, sequela",W46.0,2016,2027
+W46.1,Contact with contaminated hypodermic needle,W46,2016,2027
+W46.1XXA,"Contact with contaminated hypodermic needle, initial encounter",W46.1,2016,2027
+W46.1XXD,"Contact with contaminated hypodermic needle, subsequent encounter",W46.1,2016,2027
+W46.1XXS,"Contact with contaminated hypodermic needle, sequela",W46.1,2016,2027
+W49,Exposure to other inanimate mechanical forces,,2016,2027
+W49.0,Item causing external constriction,W49,2016,2027
+W49.01,Hair causing external constriction,W49.0,2016,2027
+W49.01XA,"Hair causing external constriction, initial encounter",W49.01,2016,2027
+W49.01XD,"Hair causing external constriction, subsequent encounter",W49.01,2016,2027
+W49.01XS,"Hair causing external constriction, sequela",W49.01,2016,2027
+W49.02,String or thread causing external constriction,W49.0,2016,2027
+W49.02XA,"String or thread causing external constriction, initial encounter",W49.02,2016,2027
+W49.02XD,"String or thread causing external constriction, subsequent encounter",W49.02,2016,2027
+W49.02XS,"String or thread causing external constriction, sequela",W49.02,2016,2027
+W49.03,Rubber band causing external constriction,W49.0,2016,2027
+W49.03XA,"Rubber band causing external constriction, initial encounter",W49.03,2016,2027
+W49.03XD,"Rubber band causing external constriction, subsequent encounter",W49.03,2016,2027
+W49.03XS,"Rubber band causing external constriction, sequela",W49.03,2016,2027
+W49.04,Ring or other jewelry causing external constriction,W49.0,2016,2027
+W49.04XA,"Ring or other jewelry causing external constriction, initial encounter",W49.04,2016,2027
+W49.04XD,"Ring or other jewelry causing external constriction, subsequent encounter",W49.04,2016,2027
+W49.04XS,"Ring or other jewelry causing external constriction, sequela",W49.04,2016,2027
+W49.09,Other specified item causing external constriction,W49.0,2016,2027
+W49.09XA,"Other specified item causing external constriction, initial encounter",W49.09,2016,2027
+W49.09XD,"Other specified item causing external constriction, subsequent encounter",W49.09,2016,2027
+W49.09XS,"Other specified item causing external constriction, sequela",W49.09,2016,2027
+W49.9,Exposure to other inanimate mechanical forces,W49,2016,2027
+W49.9XXA,"Exposure to other inanimate mechanical forces, initial encounter",W49.9,2016,2027
+W49.9XXD,"Exposure to other inanimate mechanical forces, subsequent encounter",W49.9,2016,2027
+W49.9XXS,"Exposure to other inanimate mechanical forces, sequela",W49.9,2016,2027
+W50,"Accidental hit, strike, kick, twist, bite or scratch by another person",,2016,2027
+W50.0,Accidental hit or strike by another person,W50,2016,2027
+W50.0XXA,"Accidental hit or strike by another person, initial encounter",W50.0,2016,2027
+W50.0XXD,"Accidental hit or strike by another person, subsequent encounter",W50.0,2016,2027
+W50.0XXS,"Accidental hit or strike by another person, sequela",W50.0,2016,2027
+W50.1,Accidental kick by another person,W50,2016,2027
+W50.1XXA,"Accidental kick by another person, initial encounter",W50.1,2016,2027
+W50.1XXD,"Accidental kick by another person, subsequent encounter",W50.1,2016,2027
+W50.1XXS,"Accidental kick by another person, sequela",W50.1,2016,2027
+W50.2,Accidental twist by another person,W50,2016,2027
+W50.2XXA,"Accidental twist by another person, initial encounter",W50.2,2016,2027
+W50.2XXD,"Accidental twist by another person, subsequent encounter",W50.2,2016,2027
+W50.2XXS,"Accidental twist by another person, sequela",W50.2,2016,2027
+W50.3,Accidental bite by another person,W50,2016,2027
+W50.3XXA,"Accidental bite by another person, initial encounter",W50.3,2016,2027
+W50.3XXD,"Accidental bite by another person, subsequent encounter",W50.3,2016,2027
+W50.3XXS,"Accidental bite by another person, sequela",W50.3,2016,2027
+W50.4,Accidental scratch by another person,W50,2016,2027
+W50.4XXA,"Accidental scratch by another person, initial encounter",W50.4,2016,2027
+W50.4XXD,"Accidental scratch by another person, subsequent encounter",W50.4,2016,2027
+W50.4XXS,"Accidental scratch by another person, sequela",W50.4,2016,2027
+W51,Accidental striking against or bumped into by another person,,2016,2027
+W51.XXXA,"Accidental striking against or bumped into by another person, initial encounter",W51,2016,2027
+W51.XXXD,"Accidental striking against or bumped into by another person, subsequent encounter",W51,2016,2027
+W51.XXXS,"Accidental striking against or bumped into by another person, sequela",W51,2016,2027
+W52,"Crushed, pushed or stepped on by crowd or human stampede",,2016,2027
+W52.XXXA,"Crushed, pushed or stepped on by crowd or human stampede, initial encounter",W52,2016,2027
+W52.XXXD,"Crushed, pushed or stepped on by crowd or human stampede, subsequent encounter",W52,2016,2027
+W52.XXXS,"Crushed, pushed or stepped on by crowd or human stampede, sequela",W52,2016,2027
+W53,Contact with rodent,,2016,2027
+W53.0,Contact with mouse,W53,2016,2027
+W53.01,Bitten by mouse,W53.0,2016,2027
+W53.01XA,"Bitten by mouse, initial encounter",W53.01,2016,2027
+W53.01XD,"Bitten by mouse, subsequent encounter",W53.01,2016,2027
+W53.01XS,"Bitten by mouse, sequela",W53.01,2016,2027
+W53.09,Other contact with mouse,W53.0,2016,2027
+W53.09XA,"Other contact with mouse, initial encounter",W53.09,2016,2027
+W53.09XD,"Other contact with mouse, subsequent encounter",W53.09,2016,2027
+W53.09XS,"Other contact with mouse, sequela",W53.09,2016,2027
+W53.1,Contact with rat,W53,2016,2027
+W53.11,Bitten by rat,W53.1,2016,2027
+W53.11XA,"Bitten by rat, initial encounter",W53.11,2016,2027
+W53.11XD,"Bitten by rat, subsequent encounter",W53.11,2016,2027
+W53.11XS,"Bitten by rat, sequela",W53.11,2016,2027
+W53.19,Other contact with rat,W53.1,2016,2027
+W53.19XA,"Other contact with rat, initial encounter",W53.19,2016,2027
+W53.19XD,"Other contact with rat, subsequent encounter",W53.19,2016,2027
+W53.19XS,"Other contact with rat, sequela",W53.19,2016,2027
+W53.2,Contact with squirrel,W53,2016,2027
+W53.21,Bitten by squirrel,W53.2,2016,2027
+W53.21XA,"Bitten by squirrel, initial encounter",W53.21,2016,2027
+W53.21XD,"Bitten by squirrel, subsequent encounter",W53.21,2016,2027
+W53.21XS,"Bitten by squirrel, sequela",W53.21,2016,2027
+W53.29,Other contact with squirrel,W53.2,2016,2027
+W53.29XA,"Other contact with squirrel, initial encounter",W53.29,2016,2027
+W53.29XD,"Other contact with squirrel, subsequent encounter",W53.29,2016,2027
+W53.29XS,"Other contact with squirrel, sequela",W53.29,2016,2027
+W53.8,Contact with other rodent,W53,2016,2027
+W53.81,Bitten by other rodent,W53.8,2016,2027
+W53.81XA,"Bitten by other rodent, initial encounter",W53.81,2016,2027
+W53.81XD,"Bitten by other rodent, subsequent encounter",W53.81,2016,2027
+W53.81XS,"Bitten by other rodent, sequela",W53.81,2016,2027
+W53.89,Other contact with other rodent,W53.8,2016,2027
+W53.89XA,"Other contact with other rodent, initial encounter",W53.89,2016,2027
+W53.89XD,"Other contact with other rodent, subsequent encounter",W53.89,2016,2027
+W53.89XS,"Other contact with other rodent, sequela",W53.89,2016,2027
+W54,Contact with dog,,2016,2027
+W54.0,Bitten by dog,W54,2016,2027
+W54.0XXA,"Bitten by dog, initial encounter",W54.0,2016,2027
+W54.0XXD,"Bitten by dog, subsequent encounter",W54.0,2016,2027
+W54.0XXS,"Bitten by dog, sequela",W54.0,2016,2027
+W54.1,Struck by dog,W54,2016,2027
+W54.1XXA,"Struck by dog, initial encounter",W54.1,2016,2027
+W54.1XXD,"Struck by dog, subsequent encounter",W54.1,2016,2027
+W54.1XXS,"Struck by dog, sequela",W54.1,2016,2027
+W54.8,Other contact with dog,W54,2016,2027
+W54.8XXA,"Other contact with dog, initial encounter",W54.8,2016,2027
+W54.8XXD,"Other contact with dog, subsequent encounter",W54.8,2016,2027
+W54.8XXS,"Other contact with dog, sequela",W54.8,2016,2027
+W55,Contact with other mammals,,2016,2027
+W55.0,Contact with cat,W55,2016,2027
+W55.01,Bitten by cat,W55.0,2016,2027
+W55.01XA,"Bitten by cat, initial encounter",W55.01,2016,2027
+W55.01XD,"Bitten by cat, subsequent encounter",W55.01,2016,2027
+W55.01XS,"Bitten by cat, sequela",W55.01,2016,2027
+W55.03,Scratched by cat,W55.0,2016,2027
+W55.03XA,"Scratched by cat, initial encounter",W55.03,2016,2027
+W55.03XD,"Scratched by cat, subsequent encounter",W55.03,2016,2027
+W55.03XS,"Scratched by cat, sequela",W55.03,2016,2027
+W55.09,Other contact with cat,W55.0,2016,2027
+W55.09XA,"Other contact with cat, initial encounter",W55.09,2016,2027
+W55.09XD,"Other contact with cat, subsequent encounter",W55.09,2016,2027
+W55.09XS,"Other contact with cat, sequela",W55.09,2016,2027
+W55.1,Contact with horse,W55,2016,2027
+W55.11,Bitten by horse,W55.1,2016,2027
+W55.11XA,"Bitten by horse, initial encounter",W55.11,2016,2027
+W55.11XD,"Bitten by horse, subsequent encounter",W55.11,2016,2027
+W55.11XS,"Bitten by horse, sequela",W55.11,2016,2027
+W55.12,Struck by horse,W55.1,2016,2027
+W55.12XA,"Struck by horse, initial encounter",W55.12,2016,2027
+W55.12XD,"Struck by horse, subsequent encounter",W55.12,2016,2027
+W55.12XS,"Struck by horse, sequela",W55.12,2016,2027
+W55.19,Other contact with horse,W55.1,2016,2027
+W55.19XA,"Other contact with horse, initial encounter",W55.19,2016,2027
+W55.19XD,"Other contact with horse, subsequent encounter",W55.19,2016,2027
+W55.19XS,"Other contact with horse, sequela",W55.19,2016,2027
+W55.2,Contact with cow,W55,2016,2027
+W55.21,Bitten by cow,W55.2,2016,2027
+W55.21XA,"Bitten by cow, initial encounter",W55.21,2016,2027
+W55.21XD,"Bitten by cow, subsequent encounter",W55.21,2016,2027
+W55.21XS,"Bitten by cow, sequela",W55.21,2016,2027
+W55.22,Struck by cow,W55.2,2016,2027
+W55.22XA,"Struck by cow, initial encounter",W55.22,2016,2027
+W55.22XD,"Struck by cow, subsequent encounter",W55.22,2016,2027
+W55.22XS,"Struck by cow, sequela",W55.22,2016,2027
+W55.29,Other contact with cow,W55.2,2016,2027
+W55.29XA,"Other contact with cow, initial encounter",W55.29,2016,2027
+W55.29XD,"Other contact with cow, subsequent encounter",W55.29,2016,2027
+W55.29XS,"Other contact with cow, sequela",W55.29,2016,2027
+W55.3,Contact with other hoof stock,W55,2016,2027
+W55.31,Bitten by other hoof stock,W55.3,2016,2027
+W55.31XA,"Bitten by other hoof stock, initial encounter",W55.31,2016,2027
+W55.31XD,"Bitten by other hoof stock, subsequent encounter",W55.31,2016,2027
+W55.31XS,"Bitten by other hoof stock, sequela",W55.31,2016,2027
+W55.32,Struck by other hoof stock,W55.3,2016,2027
+W55.32XA,"Struck by other hoof stock, initial encounter",W55.32,2016,2027
+W55.32XD,"Struck by other hoof stock, subsequent encounter",W55.32,2016,2027
+W55.32XS,"Struck by other hoof stock, sequela",W55.32,2016,2027
+W55.39,Other contact with other hoof stock,W55.3,2016,2027
+W55.39XA,"Other contact with other hoof stock, initial encounter",W55.39,2016,2027
+W55.39XD,"Other contact with other hoof stock, subsequent encounter",W55.39,2016,2027
+W55.39XS,"Other contact with other hoof stock, sequela",W55.39,2016,2027
+W55.4,Contact with pig,W55,2016,2027
+W55.41,Bitten by pig,W55.4,2016,2027
+W55.41XA,"Bitten by pig, initial encounter",W55.41,2016,2027
+W55.41XD,"Bitten by pig, subsequent encounter",W55.41,2016,2027
+W55.41XS,"Bitten by pig, sequela",W55.41,2016,2027
+W55.42,Struck by pig,W55.4,2016,2027
+W55.42XA,"Struck by pig, initial encounter",W55.42,2016,2027
+W55.42XD,"Struck by pig, subsequent encounter",W55.42,2016,2027
+W55.42XS,"Struck by pig, sequela",W55.42,2016,2027
+W55.49,Other contact with pig,W55.4,2016,2027
+W55.49XA,"Other contact with pig, initial encounter",W55.49,2016,2027
+W55.49XD,"Other contact with pig, subsequent encounter",W55.49,2016,2027
+W55.49XS,"Other contact with pig, sequela",W55.49,2016,2027
+W55.5,Contact with raccoon,W55,2016,2027
+W55.51,Bitten by raccoon,W55.5,2016,2027
+W55.51XA,"Bitten by raccoon, initial encounter",W55.51,2016,2027
+W55.51XD,"Bitten by raccoon, subsequent encounter",W55.51,2016,2027
+W55.51XS,"Bitten by raccoon, sequela",W55.51,2016,2027
+W55.52,Struck by raccoon,W55.5,2016,2027
+W55.52XA,"Struck by raccoon, initial encounter",W55.52,2016,2027
+W55.52XD,"Struck by raccoon, subsequent encounter",W55.52,2016,2027
+W55.52XS,"Struck by raccoon, sequela",W55.52,2016,2027
+W55.59,Other contact with raccoon,W55.5,2016,2027
+W55.59XA,"Other contact with raccoon, initial encounter",W55.59,2016,2027
+W55.59XD,"Other contact with raccoon, subsequent encounter",W55.59,2016,2027
+W55.59XS,"Other contact with raccoon, sequela",W55.59,2016,2027
+W55.8,Contact with other mammals,W55,2016,2027
+W55.81,Bitten by other mammals,W55.8,2016,2027
+W55.81XA,"Bitten by other mammals, initial encounter",W55.81,2016,2027
+W55.81XD,"Bitten by other mammals, subsequent encounter",W55.81,2016,2027
+W55.81XS,"Bitten by other mammals, sequela",W55.81,2016,2027
+W55.82,Struck by other mammals,W55.8,2016,2027
+W55.82XA,"Struck by other mammals, initial encounter",W55.82,2016,2027
+W55.82XD,"Struck by other mammals, subsequent encounter",W55.82,2016,2027
+W55.82XS,"Struck by other mammals, sequela",W55.82,2016,2027
+W55.89,Other contact with other mammals,W55.8,2016,2027
+W55.89XA,"Other contact with other mammals, initial encounter",W55.89,2016,2027
+W55.89XD,"Other contact with other mammals, subsequent encounter",W55.89,2016,2027
+W55.89XS,"Other contact with other mammals, sequela",W55.89,2016,2027
+W56,Contact with nonvenomous marine animal,,2016,2027
+W56.0,Contact with dolphin,W56,2016,2027
+W56.01,Bitten by dolphin,W56.0,2016,2027
+W56.01XA,"Bitten by dolphin, initial encounter",W56.01,2016,2027
+W56.01XD,"Bitten by dolphin, subsequent encounter",W56.01,2016,2027
+W56.01XS,"Bitten by dolphin, sequela",W56.01,2016,2027
+W56.02,Struck by dolphin,W56.0,2016,2027
+W56.02XA,"Struck by dolphin, initial encounter",W56.02,2016,2027
+W56.02XD,"Struck by dolphin, subsequent encounter",W56.02,2016,2027
+W56.02XS,"Struck by dolphin, sequela",W56.02,2016,2027
+W56.09,Other contact with dolphin,W56.0,2016,2027
+W56.09XA,"Other contact with dolphin, initial encounter",W56.09,2016,2027
+W56.09XD,"Other contact with dolphin, subsequent encounter",W56.09,2016,2027
+W56.09XS,"Other contact with dolphin, sequela",W56.09,2016,2027
+W56.1,Contact with sea lion,W56,2016,2027
+W56.11,Bitten by sea lion,W56.1,2016,2027
+W56.11XA,"Bitten by sea lion, initial encounter",W56.11,2016,2027
+W56.11XD,"Bitten by sea lion, subsequent encounter",W56.11,2016,2027
+W56.11XS,"Bitten by sea lion, sequela",W56.11,2016,2027
+W56.12,Struck by sea lion,W56.1,2016,2027
+W56.12XA,"Struck by sea lion, initial encounter",W56.12,2016,2027
+W56.12XD,"Struck by sea lion, subsequent encounter",W56.12,2016,2027
+W56.12XS,"Struck by sea lion, sequela",W56.12,2016,2027
+W56.19,Other contact with sea lion,W56.1,2016,2027
+W56.19XA,"Other contact with sea lion, initial encounter",W56.19,2016,2027
+W56.19XD,"Other contact with sea lion, subsequent encounter",W56.19,2016,2027
+W56.19XS,"Other contact with sea lion, sequela",W56.19,2016,2027
+W56.2,Contact with orca,W56,2016,2027
+W56.21,Bitten by orca,W56.2,2016,2027
+W56.21XA,"Bitten by orca, initial encounter",W56.21,2016,2027
+W56.21XD,"Bitten by orca, subsequent encounter",W56.21,2016,2027
+W56.21XS,"Bitten by orca, sequela",W56.21,2016,2027
+W56.22,Struck by orca,W56.2,2016,2027
+W56.22XA,"Struck by orca, initial encounter",W56.22,2016,2027
+W56.22XD,"Struck by orca, subsequent encounter",W56.22,2016,2027
+W56.22XS,"Struck by orca, sequela",W56.22,2016,2027
+W56.29,Other contact with orca,W56.2,2016,2027
+W56.29XA,"Other contact with orca, initial encounter",W56.29,2016,2027
+W56.29XD,"Other contact with orca, subsequent encounter",W56.29,2016,2027
+W56.29XS,"Other contact with orca, sequela",W56.29,2016,2027
+W56.3,Contact with other marine mammals,W56,2016,2027
+W56.31,Bitten by other marine mammals,W56.3,2016,2027
+W56.31XA,"Bitten by other marine mammals, initial encounter",W56.31,2016,2027
+W56.31XD,"Bitten by other marine mammals, subsequent encounter",W56.31,2016,2027
+W56.31XS,"Bitten by other marine mammals, sequela",W56.31,2016,2027
+W56.32,Struck by other marine mammals,W56.3,2016,2027
+W56.32XA,"Struck by other marine mammals, initial encounter",W56.32,2016,2027
+W56.32XD,"Struck by other marine mammals, subsequent encounter",W56.32,2016,2027
+W56.32XS,"Struck by other marine mammals, sequela",W56.32,2016,2027
+W56.39,Other contact with other marine mammals,W56.3,2016,2027
+W56.39XA,"Other contact with other marine mammals, initial encounter",W56.39,2016,2027
+W56.39XD,"Other contact with other marine mammals, subsequent encounter",W56.39,2016,2027
+W56.39XS,"Other contact with other marine mammals, sequela",W56.39,2016,2027
+W56.4,Contact with shark,W56,2016,2027
+W56.41,Bitten by shark,W56.4,2016,2027
+W56.41XA,"Bitten by shark, initial encounter",W56.41,2016,2027
+W56.41XD,"Bitten by shark, subsequent encounter",W56.41,2016,2027
+W56.41XS,"Bitten by shark, sequela",W56.41,2016,2027
+W56.42,Struck by shark,W56.4,2016,2027
+W56.42XA,"Struck by shark, initial encounter",W56.42,2016,2027
+W56.42XD,"Struck by shark, subsequent encounter",W56.42,2016,2027
+W56.42XS,"Struck by shark, sequela",W56.42,2016,2027
+W56.49,Other contact with shark,W56.4,2016,2027
+W56.49XA,"Other contact with shark, initial encounter",W56.49,2016,2027
+W56.49XD,"Other contact with shark, subsequent encounter",W56.49,2016,2027
+W56.49XS,"Other contact with shark, sequela",W56.49,2016,2027
+W56.5,Contact with other fish,W56,2016,2027
+W56.51,Bitten by other fish,W56.5,2016,2027
+W56.51XA,"Bitten by other fish, initial encounter",W56.51,2016,2027
+W56.51XD,"Bitten by other fish, subsequent encounter",W56.51,2016,2027
+W56.51XS,"Bitten by other fish, sequela",W56.51,2016,2027
+W56.52,Struck by other fish,W56.5,2016,2027
+W56.52XA,"Struck by other fish, initial encounter",W56.52,2016,2027
+W56.52XD,"Struck by other fish, subsequent encounter",W56.52,2016,2027
+W56.52XS,"Struck by other fish, sequela",W56.52,2016,2027
+W56.59,Other contact with other fish,W56.5,2016,2027
+W56.59XA,"Other contact with other fish, initial encounter",W56.59,2016,2027
+W56.59XD,"Other contact with other fish, subsequent encounter",W56.59,2016,2027
+W56.59XS,"Other contact with other fish, sequela",W56.59,2016,2027
+W56.8,Contact with other nonvenomous marine animals,W56,2016,2027
+W56.81,Bitten by other nonvenomous marine animals,W56.8,2016,2027
+W56.81XA,"Bitten by other nonvenomous marine animals, initial encounter",W56.81,2016,2027
+W56.81XD,"Bitten by other nonvenomous marine animals, subsequent encounter",W56.81,2016,2027
+W56.81XS,"Bitten by other nonvenomous marine animals, sequela",W56.81,2016,2027
+W56.82,Struck by other nonvenomous marine animals,W56.8,2016,2027
+W56.82XA,"Struck by other nonvenomous marine animals, initial encounter",W56.82,2016,2027
+W56.82XD,"Struck by other nonvenomous marine animals, subsequent encounter",W56.82,2016,2027
+W56.82XS,"Struck by other nonvenomous marine animals, sequela",W56.82,2016,2027
+W56.89,Other contact with other nonvenomous marine animals,W56.8,2016,2027
+W56.89XA,"Other contact with other nonvenomous marine animals, initial encounter",W56.89,2016,2027
+W56.89XD,"Other contact with other nonvenomous marine animals, subsequent encounter",W56.89,2016,2027
+W56.89XS,"Other contact with other nonvenomous marine animals, sequela",W56.89,2016,2027
+W57,Bitten or stung by nonvenomous insect and other nonvenomous arthropods,,2016,2027
+W57.XXXA,"Bitten or stung by nonvenomous insect and other nonvenomous arthropods, initial encounter",W57,2016,2027
+W57.XXXD,"Bitten or stung by nonvenomous insect and other nonvenomous arthropods, subsequent encounter",W57,2016,2027
+W57.XXXS,"Bitten or stung by nonvenomous insect and other nonvenomous arthropods, sequela",W57,2016,2027
+W58,Contact with crocodile or alligator,,2016,2027
+W58.0,Contact with alligator,W58,2016,2027
+W58.01,Bitten by alligator,W58.0,2016,2027
+W58.01XA,"Bitten by alligator, initial encounter",W58.01,2016,2027
+W58.01XD,"Bitten by alligator, subsequent encounter",W58.01,2016,2027
+W58.01XS,"Bitten by alligator, sequela",W58.01,2016,2027
+W58.02,Struck by alligator,W58.0,2016,2027
+W58.02XA,"Struck by alligator, initial encounter",W58.02,2016,2027
+W58.02XD,"Struck by alligator, subsequent encounter",W58.02,2016,2027
+W58.02XS,"Struck by alligator, sequela",W58.02,2016,2027
+W58.03,Crushed by alligator,W58.0,2016,2027
+W58.03XA,"Crushed by alligator, initial encounter",W58.03,2016,2027
+W58.03XD,"Crushed by alligator, subsequent encounter",W58.03,2016,2027
+W58.03XS,"Crushed by alligator, sequela",W58.03,2016,2027
+W58.09,Other contact with alligator,W58.0,2016,2027
+W58.09XA,"Other contact with alligator, initial encounter",W58.09,2016,2027
+W58.09XD,"Other contact with alligator, subsequent encounter",W58.09,2016,2027
+W58.09XS,"Other contact with alligator, sequela",W58.09,2016,2027
+W58.1,Contact with crocodile,W58,2016,2027
+W58.11,Bitten by crocodile,W58.1,2016,2027
+W58.11XA,"Bitten by crocodile, initial encounter",W58.11,2016,2027
+W58.11XD,"Bitten by crocodile, subsequent encounter",W58.11,2016,2027
+W58.11XS,"Bitten by crocodile, sequela",W58.11,2016,2027
+W58.12,Struck by crocodile,W58.1,2016,2027
+W58.12XA,"Struck by crocodile, initial encounter",W58.12,2016,2027
+W58.12XD,"Struck by crocodile, subsequent encounter",W58.12,2016,2027
+W58.12XS,"Struck by crocodile, sequela",W58.12,2016,2027
+W58.13,Crushed by crocodile,W58.1,2016,2027
+W58.13XA,"Crushed by crocodile, initial encounter",W58.13,2016,2027
+W58.13XD,"Crushed by crocodile, subsequent encounter",W58.13,2016,2027
+W58.13XS,"Crushed by crocodile, sequela",W58.13,2016,2027
+W58.19,Other contact with crocodile,W58.1,2016,2027
+W58.19XA,"Other contact with crocodile, initial encounter",W58.19,2016,2027
+W58.19XD,"Other contact with crocodile, subsequent encounter",W58.19,2016,2027
+W58.19XS,"Other contact with crocodile, sequela",W58.19,2016,2027
+W59,Contact with other nonvenomous reptiles,,2016,2027
+W59.0,Contact with nonvenomous lizards,W59,2016,2027
+W59.01,Bitten by nonvenomous lizards,W59.0,2016,2027
+W59.01XA,"Bitten by nonvenomous lizards, initial encounter",W59.01,2016,2027
+W59.01XD,"Bitten by nonvenomous lizards, subsequent encounter",W59.01,2016,2027
+W59.01XS,"Bitten by nonvenomous lizards, sequela",W59.01,2016,2027
+W59.02,Struck by nonvenomous lizards,W59.0,2016,2027
+W59.02XA,"Struck by nonvenomous lizards, initial encounter",W59.02,2016,2027
+W59.02XD,"Struck by nonvenomous lizards, subsequent encounter",W59.02,2016,2027
+W59.02XS,"Struck by nonvenomous lizards, sequela",W59.02,2016,2027
+W59.09,Other contact with nonvenomous lizards,W59.0,2016,2027
+W59.09XA,"Other contact with nonvenomous lizards, initial encounter",W59.09,2016,2027
+W59.09XD,"Other contact with nonvenomous lizards, subsequent encounter",W59.09,2016,2027
+W59.09XS,"Other contact with nonvenomous lizards, sequela",W59.09,2016,2027
+W59.1,Contact with nonvenomous snakes,W59,2016,2027
+W59.11,Bitten by nonvenomous snake,W59.1,2016,2027
+W59.11XA,"Bitten by nonvenomous snake, initial encounter",W59.11,2016,2027
+W59.11XD,"Bitten by nonvenomous snake, subsequent encounter",W59.11,2016,2027
+W59.11XS,"Bitten by nonvenomous snake, sequela",W59.11,2016,2027
+W59.12,Struck by nonvenomous snake,W59.1,2016,2027
+W59.12XA,"Struck by nonvenomous snake, initial encounter",W59.12,2016,2027
+W59.12XD,"Struck by nonvenomous snake, subsequent encounter",W59.12,2016,2027
+W59.12XS,"Struck by nonvenomous snake, sequela",W59.12,2016,2027
+W59.13,Crushed by nonvenomous snake,W59.1,2016,2027
+W59.13XA,"Crushed by nonvenomous snake, initial encounter",W59.13,2016,2027
+W59.13XD,"Crushed by nonvenomous snake, subsequent encounter",W59.13,2016,2027
+W59.13XS,"Crushed by nonvenomous snake, sequela",W59.13,2016,2027
+W59.19,Other contact with nonvenomous snake,W59.1,2016,2027
+W59.19XA,"Other contact with nonvenomous snake, initial encounter",W59.19,2016,2027
+W59.19XD,"Other contact with nonvenomous snake, subsequent encounter",W59.19,2016,2027
+W59.19XS,"Other contact with nonvenomous snake, sequela",W59.19,2016,2027
+W59.2,Contact with turtles,W59,2016,2027
+W59.21,Bitten by turtle,W59.2,2016,2027
+W59.21XA,"Bitten by turtle, initial encounter",W59.21,2016,2027
+W59.21XD,"Bitten by turtle, subsequent encounter",W59.21,2016,2027
+W59.21XS,"Bitten by turtle, sequela",W59.21,2016,2027
+W59.22,Struck by turtle,W59.2,2016,2027
+W59.22XA,"Struck by turtle, initial encounter",W59.22,2016,2027
+W59.22XD,"Struck by turtle, subsequent encounter",W59.22,2016,2027
+W59.22XS,"Struck by turtle, sequela",W59.22,2016,2027
+W59.29,Other contact with turtle,W59.2,2016,2027
+W59.29XA,"Other contact with turtle, initial encounter",W59.29,2016,2027
+W59.29XD,"Other contact with turtle, subsequent encounter",W59.29,2016,2027
+W59.29XS,"Other contact with turtle, sequela",W59.29,2016,2027
+W59.8,Contact with other nonvenomous reptiles,W59,2016,2027
+W59.81,Bitten by other nonvenomous reptiles,W59.8,2016,2027
+W59.81XA,"Bitten by other nonvenomous reptiles, initial encounter",W59.81,2016,2027
+W59.81XD,"Bitten by other nonvenomous reptiles, subsequent encounter",W59.81,2016,2027
+W59.81XS,"Bitten by other nonvenomous reptiles, sequela",W59.81,2016,2027
+W59.82,Struck by other nonvenomous reptiles,W59.8,2016,2027
+W59.82XA,"Struck by other nonvenomous reptiles, initial encounter",W59.82,2016,2027
+W59.82XD,"Struck by other nonvenomous reptiles, subsequent encounter",W59.82,2016,2027
+W59.82XS,"Struck by other nonvenomous reptiles, sequela",W59.82,2016,2027
+W59.83,Crushed by other nonvenomous reptiles,W59.8,2016,2027
+W59.83XA,"Crushed by other nonvenomous reptiles, initial encounter",W59.83,2016,2027
+W59.83XD,"Crushed by other nonvenomous reptiles, subsequent encounter",W59.83,2016,2027
+W59.83XS,"Crushed by other nonvenomous reptiles, sequela",W59.83,2016,2027
+W59.89,Other contact with other nonvenomous reptiles,W59.8,2016,2027
+W59.89XA,"Other contact with other nonvenomous reptiles, initial encounter",W59.89,2016,2027
+W59.89XD,"Other contact with other nonvenomous reptiles, subsequent encounter",W59.89,2016,2027
+W59.89XS,"Other contact with other nonvenomous reptiles, sequela",W59.89,2016,2027
+W60,Contact with nonvenomous plant thorns and spines and sharp leaves,,2016,2027
+W60.XXXA,"Contact with nonvenomous plant thorns and spines and sharp leaves, initial encounter",W60,2016,2027
+W60.XXXD,"Contact with nonvenomous plant thorns and spines and sharp leaves, subsequent encounter",W60,2016,2027
+W60.XXXS,"Contact with nonvenomous plant thorns and spines and sharp leaves, sequela",W60,2016,2027
+W61,Contact with birds (domestic) (wild),,2016,2027
+W61.0,Contact with parrot,W61,2016,2027
+W61.01,Bitten by parrot,W61.0,2016,2027
+W61.01XA,"Bitten by parrot, initial encounter",W61.01,2016,2027
+W61.01XD,"Bitten by parrot, subsequent encounter",W61.01,2016,2027
+W61.01XS,"Bitten by parrot, sequela",W61.01,2016,2027
+W61.02,Struck by parrot,W61.0,2016,2027
+W61.02XA,"Struck by parrot, initial encounter",W61.02,2016,2027
+W61.02XD,"Struck by parrot, subsequent encounter",W61.02,2016,2027
+W61.02XS,"Struck by parrot, sequela",W61.02,2016,2027
+W61.09,Other contact with parrot,W61.0,2016,2027
+W61.09XA,"Other contact with parrot, initial encounter",W61.09,2016,2027
+W61.09XD,"Other contact with parrot, subsequent encounter",W61.09,2016,2027
+W61.09XS,"Other contact with parrot, sequela",W61.09,2016,2027
+W61.1,Contact with macaw,W61,2016,2027
+W61.11,Bitten by macaw,W61.1,2016,2027
+W61.11XA,"Bitten by macaw, initial encounter",W61.11,2016,2027
+W61.11XD,"Bitten by macaw, subsequent encounter",W61.11,2016,2027
+W61.11XS,"Bitten by macaw, sequela",W61.11,2016,2027
+W61.12,Struck by macaw,W61.1,2016,2027
+W61.12XA,"Struck by macaw, initial encounter",W61.12,2016,2027
+W61.12XD,"Struck by macaw, subsequent encounter",W61.12,2016,2027
+W61.12XS,"Struck by macaw, sequela",W61.12,2016,2027
+W61.19,Other contact with macaw,W61.1,2016,2027
+W61.19XA,"Other contact with macaw, initial encounter",W61.19,2016,2027
+W61.19XD,"Other contact with macaw, subsequent encounter",W61.19,2016,2027
+W61.19XS,"Other contact with macaw, sequela",W61.19,2016,2027
+W61.2,Contact with other psittacines,W61,2016,2027
+W61.21,Bitten by other psittacines,W61.2,2016,2027
+W61.21XA,"Bitten by other psittacines, initial encounter",W61.21,2016,2027
+W61.21XD,"Bitten by other psittacines, subsequent encounter",W61.21,2016,2027
+W61.21XS,"Bitten by other psittacines, sequela",W61.21,2016,2027
+W61.22,Struck by other psittacines,W61.2,2016,2027
+W61.22XA,"Struck by other psittacines, initial encounter",W61.22,2016,2027
+W61.22XD,"Struck by other psittacines, subsequent encounter",W61.22,2016,2027
+W61.22XS,"Struck by other psittacines, sequela",W61.22,2016,2027
+W61.29,Other contact with other psittacines,W61.2,2016,2027
+W61.29XA,"Other contact with other psittacines, initial encounter",W61.29,2016,2027
+W61.29XD,"Other contact with other psittacines, subsequent encounter",W61.29,2016,2027
+W61.29XS,"Other contact with other psittacines, sequela",W61.29,2016,2027
+W61.3,Contact with chicken,W61,2016,2027
+W61.32,Struck by chicken,W61.3,2016,2027
+W61.32XA,"Struck by chicken, initial encounter",W61.32,2016,2027
+W61.32XD,"Struck by chicken, subsequent encounter",W61.32,2016,2027
+W61.32XS,"Struck by chicken, sequela",W61.32,2016,2027
+W61.33,Pecked by chicken,W61.3,2016,2027
+W61.33XA,"Pecked by chicken, initial encounter",W61.33,2016,2027
+W61.33XD,"Pecked by chicken, subsequent encounter",W61.33,2016,2027
+W61.33XS,"Pecked by chicken, sequela",W61.33,2016,2027
+W61.39,Other contact with chicken,W61.3,2016,2027
+W61.39XA,"Other contact with chicken, initial encounter",W61.39,2016,2027
+W61.39XD,"Other contact with chicken, subsequent encounter",W61.39,2016,2027
+W61.39XS,"Other contact with chicken, sequela",W61.39,2016,2027
+W61.4,Contact with turkey,W61,2016,2027
+W61.42,Struck by turkey,W61.4,2016,2027
+W61.42XA,"Struck by turkey, initial encounter",W61.42,2016,2027
+W61.42XD,"Struck by turkey, subsequent encounter",W61.42,2016,2027
+W61.42XS,"Struck by turkey, sequela",W61.42,2016,2027
+W61.43,Pecked by turkey,W61.4,2016,2027
+W61.43XA,"Pecked by turkey, initial encounter",W61.43,2016,2027
+W61.43XD,"Pecked by turkey, subsequent encounter",W61.43,2016,2027
+W61.43XS,"Pecked by turkey, sequela",W61.43,2016,2027
+W61.49,Other contact with turkey,W61.4,2016,2027
+W61.49XA,"Other contact with turkey, initial encounter",W61.49,2016,2027
+W61.49XD,"Other contact with turkey, subsequent encounter",W61.49,2016,2027
+W61.49XS,"Other contact with turkey, sequela",W61.49,2016,2027
+W61.5,Contact with goose,W61,2016,2027
+W61.51,Bitten by goose,W61.5,2016,2027
+W61.51XA,"Bitten by goose, initial encounter",W61.51,2016,2027
+W61.51XD,"Bitten by goose, subsequent encounter",W61.51,2016,2027
+W61.51XS,"Bitten by goose, sequela",W61.51,2016,2027
+W61.52,Struck by goose,W61.5,2016,2027
+W61.52XA,"Struck by goose, initial encounter",W61.52,2016,2027
+W61.52XD,"Struck by goose, subsequent encounter",W61.52,2016,2027
+W61.52XS,"Struck by goose, sequela",W61.52,2016,2027
+W61.59,Other contact with goose,W61.5,2016,2027
+W61.59XA,"Other contact with goose, initial encounter",W61.59,2016,2027
+W61.59XD,"Other contact with goose, subsequent encounter",W61.59,2016,2027
+W61.59XS,"Other contact with goose, sequela",W61.59,2016,2027
+W61.6,Contact with duck,W61,2016,2027
+W61.61,Bitten by duck,W61.6,2016,2027
+W61.61XA,"Bitten by duck, initial encounter",W61.61,2016,2027
+W61.61XD,"Bitten by duck, subsequent encounter",W61.61,2016,2027
+W61.61XS,"Bitten by duck, sequela",W61.61,2016,2027
+W61.62,Struck by duck,W61.6,2016,2027
+W61.62XA,"Struck by duck, initial encounter",W61.62,2016,2027
+W61.62XD,"Struck by duck, subsequent encounter",W61.62,2016,2027
+W61.62XS,"Struck by duck, sequela",W61.62,2016,2027
+W61.69,Other contact with duck,W61.6,2016,2027
+W61.69XA,"Other contact with duck, initial encounter",W61.69,2016,2027
+W61.69XD,"Other contact with duck, subsequent encounter",W61.69,2016,2027
+W61.69XS,"Other contact with duck, sequela",W61.69,2016,2027
+W61.9,Contact with other birds,W61,2016,2027
+W61.91,Bitten by other birds,W61.9,2016,2027
+W61.91XA,"Bitten by other birds, initial encounter",W61.91,2016,2027
+W61.91XD,"Bitten by other birds, subsequent encounter",W61.91,2016,2027
+W61.91XS,"Bitten by other birds, sequela",W61.91,2016,2027
+W61.92,Struck by other birds,W61.9,2016,2027
+W61.92XA,"Struck by other birds, initial encounter",W61.92,2016,2027
+W61.92XD,"Struck by other birds, subsequent encounter",W61.92,2016,2027
+W61.92XS,"Struck by other birds, sequela",W61.92,2016,2027
+W61.99,Other contact with other birds,W61.9,2016,2027
+W61.99XA,"Other contact with other birds, initial encounter",W61.99,2016,2027
+W61.99XD,"Other contact with other birds, subsequent encounter",W61.99,2016,2027
+W61.99XS,"Other contact with other birds, sequela",W61.99,2016,2027
+W62,Contact with nonvenomous amphibians,,2016,2027
+W62.0,Contact with nonvenomous frogs,W62,2016,2027
+W62.0XXA,"Contact with nonvenomous frogs, initial encounter",W62.0,2016,2027
+W62.0XXD,"Contact with nonvenomous frogs, subsequent encounter",W62.0,2016,2027
+W62.0XXS,"Contact with nonvenomous frogs, sequela",W62.0,2016,2027
+W62.1,Contact with nonvenomous toads,W62,2016,2027
+W62.1XXA,"Contact with nonvenomous toads, initial encounter",W62.1,2016,2027
+W62.1XXD,"Contact with nonvenomous toads, subsequent encounter",W62.1,2016,2027
+W62.1XXS,"Contact with nonvenomous toads, sequela",W62.1,2016,2027
+W62.9,Contact with other nonvenomous amphibians,W62,2016,2027
+W62.9XXA,"Contact with other nonvenomous amphibians, initial encounter",W62.9,2016,2027
+W62.9XXD,"Contact with other nonvenomous amphibians, subsequent encounter",W62.9,2016,2027
+W62.9XXS,"Contact with other nonvenomous amphibians, sequela",W62.9,2016,2027
+W64,Exposure to other animate mechanical forces,,2016,2027
+W64.XXXA,"Exposure to other animate mechanical forces, initial encounter",W64,2016,2027
+W64.XXXD,"Exposure to other animate mechanical forces, subsequent encounter",W64,2016,2027
+W64.XXXS,"Exposure to other animate mechanical forces, sequela",W64,2016,2027
+W65,Accidental drowning and submersion while in bath-tub,,2016,2027
+W65.XXXA,"Accidental drowning and submersion while in bath-tub, initial encounter",W65,2016,2027
+W65.XXXD,"Accidental drowning and submersion while in bath-tub, subsequent encounter",W65,2016,2027
+W65.XXXS,"Accidental drowning and submersion while in bath-tub, sequela",W65,2016,2027
+W67,Accidental drowning and submersion while in swimming-pool,,2016,2027
+W67.XXXA,"Accidental drowning and submersion while in swimming-pool, initial encounter",W67,2016,2027
+W67.XXXD,"Accidental drowning and submersion while in swimming-pool, subsequent encounter",W67,2016,2027
+W67.XXXS,"Accidental drowning and submersion while in swimming-pool, sequela",W67,2016,2027
+W69,Accidental drowning and submersion while in natural water,,2016,2027
+W69.XXXA,"Accidental drowning and submersion while in natural water, initial encounter",W69,2016,2027
+W69.XXXD,"Accidental drowning and submersion while in natural water, subsequent encounter",W69,2016,2027
+W69.XXXS,"Accidental drowning and submersion while in natural water, sequela",W69,2016,2027
+W73,Other specified cause of accidental non-transport drowning and submersion,,2016,2027
+W73.XXXA,"Other specified cause of accidental non-transport drowning and submersion, initial encounter",W73,2016,2027
+W73.XXXD,"Other specified cause of accidental non-transport drowning and submersion, subsequent encounter",W73,2016,2027
+W73.XXXS,"Other specified cause of accidental non-transport drowning and submersion, sequela",W73,2016,2027
+W74,Unspecified cause of accidental drowning and submersion,,2016,2027
+W74.XXXA,"Unspecified cause of accidental drowning and submersion, initial encounter",W74,2016,2027
+W74.XXXD,"Unspecified cause of accidental drowning and submersion, subsequent encounter",W74,2016,2027
+W74.XXXS,"Unspecified cause of accidental drowning and submersion, sequela",W74,2016,2027
+W85,Exposure to electric transmission lines,,2016,2027
+W85.XXXA,"Exposure to electric transmission lines, initial encounter",W85,2016,2027
+W85.XXXD,"Exposure to electric transmission lines, subsequent encounter",W85,2016,2027
+W85.XXXS,"Exposure to electric transmission lines, sequela",W85,2016,2027
+W86,Exposure to other specified electric current,,2016,2027
+W86.0,Exposure to domestic wiring and appliances,W86,2016,2027
+W86.0XXA,"Exposure to domestic wiring and appliances, initial encounter",W86.0,2016,2027
+W86.0XXD,"Exposure to domestic wiring and appliances, subsequent encounter",W86.0,2016,2027
+W86.0XXS,"Exposure to domestic wiring and appliances, sequela",W86.0,2016,2027
+W86.1,"Exposure to industrial wiring, appliances and electrical machinery",W86,2016,2027
+W86.1XXA,"Exposure to industrial wiring, appliances and electrical machinery, initial encounter",W86.1,2016,2027
+W86.1XXD,"Exposure to industrial wiring, appliances and electrical machinery, subsequent encounter",W86.1,2016,2027
+W86.1XXS,"Exposure to industrial wiring, appliances and electrical machinery, sequela",W86.1,2016,2027
+W86.8,Exposure to other electric current,W86,2016,2027
+W86.8XXA,"Exposure to other electric current, initial encounter",W86.8,2016,2027
+W86.8XXD,"Exposure to other electric current, subsequent encounter",W86.8,2016,2027
+W86.8XXS,"Exposure to other electric current, sequela",W86.8,2016,2027
+W88,Exposure to ionizing radiation,,2016,2027
+W88.0,Exposure to X-rays,W88,2016,2027
+W88.0XXA,"Exposure to X-rays, initial encounter",W88.0,2016,2027
+W88.0XXD,"Exposure to X-rays, subsequent encounter",W88.0,2016,2027
+W88.0XXS,"Exposure to X-rays, sequela",W88.0,2016,2027
+W88.1,Exposure to radioactive isotopes,W88,2016,2027
+W88.1XXA,"Exposure to radioactive isotopes, initial encounter",W88.1,2016,2027
+W88.1XXD,"Exposure to radioactive isotopes, subsequent encounter",W88.1,2016,2027
+W88.1XXS,"Exposure to radioactive isotopes, sequela",W88.1,2016,2027
+W88.8,Exposure to other ionizing radiation,W88,2016,2027
+W88.8XXA,"Exposure to other ionizing radiation, initial encounter",W88.8,2016,2027
+W88.8XXD,"Exposure to other ionizing radiation, subsequent encounter",W88.8,2016,2027
+W88.8XXS,"Exposure to other ionizing radiation, sequela",W88.8,2016,2027
+W89,Exposure to man-made visible and ultraviolet light,,2016,2027
+W89.0,Exposure to welding light (arc),W89,2016,2027
+W89.0XXA,"Exposure to welding light (arc), initial encounter",W89.0,2016,2027
+W89.0XXD,"Exposure to welding light (arc), subsequent encounter",W89.0,2016,2027
+W89.0XXS,"Exposure to welding light (arc), sequela",W89.0,2016,2027
+W89.1,Exposure to tanning bed,W89,2016,2027
+W89.1XXA,"Exposure to tanning bed, initial encounter",W89.1,2016,2027
+W89.1XXD,"Exposure to tanning bed, subsequent encounter",W89.1,2016,2027
+W89.1XXS,"Exposure to tanning bed, sequela",W89.1,2016,2027
+W89.8,Exposure to other man-made visible and ultraviolet light,W89,2016,2027
+W89.8XXA,"Exposure to other man-made visible and ultraviolet light, initial encounter",W89.8,2016,2027
+W89.8XXD,"Exposure to other man-made visible and ultraviolet light, subsequent encounter",W89.8,2016,2027
+W89.8XXS,"Exposure to other man-made visible and ultraviolet light, sequela",W89.8,2016,2027
+W89.9,Exposure to unspecified man-made visible and ultraviolet light,W89,2016,2027
+W89.9XXA,"Exposure to unspecified man-made visible and ultraviolet light, initial encounter",W89.9,2016,2027
+W89.9XXD,"Exposure to unspecified man-made visible and ultraviolet light, subsequent encounter",W89.9,2016,2027
+W89.9XXS,"Exposure to unspecified man-made visible and ultraviolet light, sequela",W89.9,2016,2027
+W90,Exposure to other nonionizing radiation,,2016,2027
+W90.0,Exposure to radiofrequency,W90,2016,2027
+W90.0XXA,"Exposure to radiofrequency, initial encounter",W90.0,2016,2027
+W90.0XXD,"Exposure to radiofrequency, subsequent encounter",W90.0,2016,2027
+W90.0XXS,"Exposure to radiofrequency, sequela",W90.0,2016,2027
+W90.1,Exposure to infrared radiation,W90,2016,2027
+W90.1XXA,"Exposure to infrared radiation, initial encounter",W90.1,2016,2027
+W90.1XXD,"Exposure to infrared radiation, subsequent encounter",W90.1,2016,2027
+W90.1XXS,"Exposure to infrared radiation, sequela",W90.1,2016,2027
+W90.2,Exposure to laser radiation,W90,2016,2027
+W90.2XXA,"Exposure to laser radiation, initial encounter",W90.2,2016,2027
+W90.2XXD,"Exposure to laser radiation, subsequent encounter",W90.2,2016,2027
+W90.2XXS,"Exposure to laser radiation, sequela",W90.2,2016,2027
+W90.8,Exposure to other nonionizing radiation,W90,2016,2027
+W90.8XXA,"Exposure to other nonionizing radiation, initial encounter",W90.8,2016,2027
+W90.8XXD,"Exposure to other nonionizing radiation, subsequent encounter",W90.8,2016,2027
+W90.8XXS,"Exposure to other nonionizing radiation, sequela",W90.8,2016,2027
+W92,Exposure to excessive heat of man-made origin,,2016,2027
+W92.XXXA,"Exposure to excessive heat of man-made origin, initial encounter",W92,2016,2027
+W92.XXXD,"Exposure to excessive heat of man-made origin, subsequent encounter",W92,2016,2027
+W92.XXXS,"Exposure to excessive heat of man-made origin, sequela",W92,2016,2027
+W93,Exposure to excessive cold of man-made origin,,2016,2027
+W93.0,Contact with or inhalation of dry ice,W93,2016,2027
+W93.01,Contact with dry ice,W93.0,2016,2027
+W93.01XA,"Contact with dry ice, initial encounter",W93.01,2016,2027
+W93.01XD,"Contact with dry ice, subsequent encounter",W93.01,2016,2027
+W93.01XS,"Contact with dry ice, sequela",W93.01,2016,2027
+W93.02,Inhalation of dry ice,W93.0,2016,2027
+W93.02XA,"Inhalation of dry ice, initial encounter",W93.02,2016,2027
+W93.02XD,"Inhalation of dry ice, subsequent encounter",W93.02,2016,2027
+W93.02XS,"Inhalation of dry ice, sequela",W93.02,2016,2027
+W93.1,Contact with or inhalation of liquid air,W93,2016,2027
+W93.11,Contact with liquid air,W93.1,2016,2027
+W93.11XA,"Contact with liquid air, initial encounter",W93.11,2016,2027
+W93.11XD,"Contact with liquid air, subsequent encounter",W93.11,2016,2027
+W93.11XS,"Contact with liquid air, sequela",W93.11,2016,2027
+W93.12,Inhalation of liquid air,W93.1,2016,2027
+W93.12XA,"Inhalation of liquid air, initial encounter",W93.12,2016,2027
+W93.12XD,"Inhalation of liquid air, subsequent encounter",W93.12,2016,2027
+W93.12XS,"Inhalation of liquid air, sequela",W93.12,2016,2027
+W93.2,Prolonged exposure in deep freeze unit or refrigerator,W93,2016,2027
+W93.2XXA,"Prolonged exposure in deep freeze unit or refrigerator, initial encounter",W93.2,2016,2027
+W93.2XXD,"Prolonged exposure in deep freeze unit or refrigerator, subsequent encounter",W93.2,2016,2027
+W93.2XXS,"Prolonged exposure in deep freeze unit or refrigerator, sequela",W93.2,2016,2027
+W93.8,Exposure to other excessive cold of man-made origin,W93,2016,2027
+W93.8XXA,"Exposure to other excessive cold of man-made origin, initial encounter",W93.8,2016,2027
+W93.8XXD,"Exposure to other excessive cold of man-made origin, subsequent encounter",W93.8,2016,2027
+W93.8XXS,"Exposure to other excessive cold of man-made origin, sequela",W93.8,2016,2027
+W94,Exposure to high and low air pressure and changes in air pressure,,2016,2027
+W94.0,Exposure to prolonged high air pressure,W94,2016,2027
+W94.0XXA,"Exposure to prolonged high air pressure, initial encounter",W94.0,2016,2027
+W94.0XXD,"Exposure to prolonged high air pressure, subsequent encounter",W94.0,2016,2027
+W94.0XXS,"Exposure to prolonged high air pressure, sequela",W94.0,2016,2027
+W94.1,Exposure to prolonged low air pressure,W94,2016,2027
+W94.11,Exposure to residence or prolonged visit at high altitude,W94.1,2016,2027
+W94.11XA,"Exposure to residence or prolonged visit at high altitude, initial encounter",W94.11,2016,2027
+W94.11XD,"Exposure to residence or prolonged visit at high altitude, subsequent encounter",W94.11,2016,2027
+W94.11XS,"Exposure to residence or prolonged visit at high altitude, sequela",W94.11,2016,2027
+W94.12,Exposure to other prolonged low air pressure,W94.1,2016,2027
+W94.12XA,"Exposure to other prolonged low air pressure, initial encounter",W94.12,2016,2027
+W94.12XD,"Exposure to other prolonged low air pressure, subsequent encounter",W94.12,2016,2027
+W94.12XS,"Exposure to other prolonged low air pressure, sequela",W94.12,2016,2027
+W94.2,Exposure to rapid changes in air pressure during ascent,W94,2016,2027
+W94.21,Exposure to reduction in atmospheric pressure while surfacing from deep-water diving,W94.2,2016,2027
+W94.21XA,"Exposure to reduction in atmospheric pressure while surfacing from deep-water diving, initial encounter",W94.21,2016,2027
+W94.21XD,"Exposure to reduction in atmospheric pressure while surfacing from deep-water diving, subsequent encounter",W94.21,2016,2027
+W94.21XS,"Exposure to reduction in atmospheric pressure while surfacing from deep-water diving, sequela",W94.21,2016,2027
+W94.22,Exposure to reduction in atmospheric pressure while surfacing from underground,W94.2,2016,2027
+W94.22XA,"Exposure to reduction in atmospheric pressure while surfacing from underground, initial encounter",W94.22,2016,2027
+W94.22XD,"Exposure to reduction in atmospheric pressure while surfacing from underground, subsequent encounter",W94.22,2016,2027
+W94.22XS,"Exposure to reduction in atmospheric pressure while surfacing from underground, sequela",W94.22,2016,2027
+W94.23,Exposure to sudden change in air pressure in aircraft during ascent,W94.2,2016,2027
+W94.23XA,"Exposure to sudden change in air pressure in aircraft during ascent, initial encounter",W94.23,2016,2027
+W94.23XD,"Exposure to sudden change in air pressure in aircraft during ascent, subsequent encounter",W94.23,2016,2027
+W94.23XS,"Exposure to sudden change in air pressure in aircraft during ascent, sequela",W94.23,2016,2027
+W94.29,Exposure to other rapid changes in air pressure during ascent,W94.2,2016,2027
+W94.29XA,"Exposure to other rapid changes in air pressure during ascent, initial encounter",W94.29,2016,2027
+W94.29XD,"Exposure to other rapid changes in air pressure during ascent, subsequent encounter",W94.29,2016,2027
+W94.29XS,"Exposure to other rapid changes in air pressure during ascent, sequela",W94.29,2016,2027
+W94.3,Exposure to rapid changes in air pressure during descent,W94,2016,2027
+W94.31,Exposure to sudden change in air pressure in aircraft during descent,W94.3,2016,2027
+W94.31XA,"Exposure to sudden change in air pressure in aircraft during descent, initial encounter",W94.31,2016,2027
+W94.31XD,"Exposure to sudden change in air pressure in aircraft during descent, subsequent encounter",W94.31,2016,2027
+W94.31XS,"Exposure to sudden change in air pressure in aircraft during descent, sequela",W94.31,2016,2027
+W94.32,Exposure to high air pressure from rapid descent in water,W94.3,2016,2027
+W94.32XA,"Exposure to high air pressure from rapid descent in water, initial encounter",W94.32,2016,2027
+W94.32XD,"Exposure to high air pressure from rapid descent in water, subsequent encounter",W94.32,2016,2027
+W94.32XS,"Exposure to high air pressure from rapid descent in water, sequela",W94.32,2016,2027
+W94.39,Exposure to other rapid changes in air pressure during descent,W94.3,2016,2027
+W94.39XA,"Exposure to other rapid changes in air pressure during descent, initial encounter",W94.39,2016,2027
+W94.39XD,"Exposure to other rapid changes in air pressure during descent, subsequent encounter",W94.39,2016,2027
+W94.39XS,"Exposure to other rapid changes in air pressure during descent, sequela",W94.39,2016,2027
+W99,Exposure to other man-made environmental factors,,2016,2027
+W99.XXXA,"Exposure to other man-made environmental factors, initial encounter",W99,2016,2027
+W99.XXXD,"Exposure to other man-made environmental factors, subsequent encounter",W99,2016,2027
+W99.XXXS,"Exposure to other man-made environmental factors, sequela",W99,2016,2027

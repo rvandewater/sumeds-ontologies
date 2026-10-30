@@ -1,0 +1,41 @@
+{
+ "schema": "sumeds-crosswalk/0.1",
+ "dataset": "eicu",
+ "tables": {
+  "lab_loinc": {
+   "file": "lab_loinc.csv",
+   "rows": 50,
+   "bytes": 13076,
+   "sha256": "d05bfd136094c4f9ec7df7bb9644601d05c8155b27ee578131a0a4e9b02f8198",
+   "columns": [
+    "labname",
+    "loinc_code",
+    "source",
+    "source_detail",
+    "loinc_long_common_name"
+   ],
+   "key_column": "labname",
+   "code_column": "loinc_code",
+   "vocabulary": "LOINC",
+   "description": "eICU-CRD lab.labname -> LOINC (inferred bridge)",
+   "origin": {
+    "repository": "https://github.com/Medical-Event-Data-Standard/eICU_MEDS",
+    "branch": "code-descriptions",
+    "commit": "abf5b26ab124e48c0d79303052a6af048ee1cad8",
+    "path": "src/eICU_MEDS/metadata/lab_descriptions.csv",
+    "selection": "rows with a loinc_code; columns labname, loinc_code, source, source_detail"
+   },
+   "sources": "aidh-ms/WeavEHR (MIT), commit 210a539; MIT-LCP/mimic-code (MIT), v2.4.0 (570ef01) d_labitems_to_loinc.csv; MIT-LCP/eicu-code (MIT); per-row provenance in source/source_detail",
+   "license": "MIT (suMEDS); built from MIT-licensed public sources",
+   "notes": "The lazy key stops at the first '//', exact for eICU (no lab name contains '//' or ends in '/'); '^LAB//RESULT//(?P<key>.+)//(?:(?!//).)*$' keeps everything up to the last '//' instead.",
+   "suggested_pattern": "^LAB//RESULT//(?P<key>.+?)//",
+   "loinc_check": {
+    "found": 50,
+    "deprecated": [],
+    "missing": []
+   }
+  }
+ },
+ "notice": "This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.",
+ "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the suMEDS LOINC pack built from the official LOINC Table; it is empty until that pack is built"
+}

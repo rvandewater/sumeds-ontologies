@@ -1,0 +1,371 @@
+code,description,parent,first_year,last_year
+DG,Endocrine System,D,2016,2027
+DG0,Beam Radiation,DG,2016,2027
+DG00,Pituitary Gland,DG0,2016,2027
+DG000,Photons <1 MeV,DG00,2016,2027
+DG000Z,None,DG000,2016,2027
+DG000ZZ,Beam Radiation of Pituitary Gland using Photons <1 MeV,DG000Z,2016,2027
+DG001,Photons 1 - 10 MeV,DG00,2016,2027
+DG001Z,None,DG001,2016,2027
+DG001ZZ,Beam Radiation of Pituitary Gland using Photons 1 - 10 MeV,DG001Z,2016,2027
+DG002,Photons >10 MeV,DG00,2016,2027
+DG002Z,None,DG002,2016,2027
+DG002ZZ,Beam Radiation of Pituitary Gland using Photons >10 MeV,DG002Z,2016,2027
+DG003,Electrons,DG00,2016,2027
+DG003Z,None,DG003,2016,2027
+DG003Z0,"Beam Radiation of Pituitary Gland using Electrons, Intraoperative",DG003Z,2016,2027
+DG003ZZ,Beam Radiation of Pituitary Gland using Electrons,DG003Z,2016,2027
+DG005,Neutrons,DG00,2016,2027
+DG005Z,None,DG005,2016,2027
+DG005ZZ,Beam Radiation of Pituitary Gland using Neutrons,DG005Z,2016,2027
+DG006,Neutron Capture,DG00,2016,2027
+DG006Z,None,DG006,2016,2027
+DG006ZZ,Beam Radiation of Pituitary Gland using Neutron Capture,DG006Z,2016,2027
+DG01,Pineal Body,DG0,2016,2027
+DG010,Photons <1 MeV,DG01,2016,2027
+DG010Z,None,DG010,2016,2027
+DG010ZZ,Beam Radiation of Pineal Body using Photons <1 MeV,DG010Z,2016,2027
+DG011,Photons 1 - 10 MeV,DG01,2016,2027
+DG011Z,None,DG011,2016,2027
+DG011ZZ,Beam Radiation of Pineal Body using Photons 1 - 10 MeV,DG011Z,2016,2027
+DG012,Photons >10 MeV,DG01,2016,2027
+DG012Z,None,DG012,2016,2027
+DG012ZZ,Beam Radiation of Pineal Body using Photons >10 MeV,DG012Z,2016,2027
+DG013,Electrons,DG01,2016,2027
+DG013Z,None,DG013,2016,2027
+DG013Z0,"Beam Radiation of Pineal Body using Electrons, Intraoperative",DG013Z,2016,2027
+DG013ZZ,Beam Radiation of Pineal Body using Electrons,DG013Z,2016,2027
+DG015,Neutrons,DG01,2016,2027
+DG015Z,None,DG015,2016,2027
+DG015ZZ,Beam Radiation of Pineal Body using Neutrons,DG015Z,2016,2027
+DG016,Neutron Capture,DG01,2016,2027
+DG016Z,None,DG016,2016,2027
+DG016ZZ,Beam Radiation of Pineal Body using Neutron Capture,DG016Z,2016,2027
+DG02,Adrenal Glands,DG0,2016,2027
+DG020,Photons <1 MeV,DG02,2016,2027
+DG020Z,None,DG020,2016,2027
+DG020ZZ,Beam Radiation of Adrenal Glands using Photons <1 MeV,DG020Z,2016,2027
+DG021,Photons 1 - 10 MeV,DG02,2016,2027
+DG021Z,None,DG021,2016,2027
+DG021ZZ,Beam Radiation of Adrenal Glands using Photons 1 - 10 MeV,DG021Z,2016,2027
+DG022,Photons >10 MeV,DG02,2016,2027
+DG022Z,None,DG022,2016,2027
+DG022ZZ,Beam Radiation of Adrenal Glands using Photons >10 MeV,DG022Z,2016,2027
+DG023,Electrons,DG02,2016,2027
+DG023Z,None,DG023,2016,2027
+DG023Z0,"Beam Radiation of Adrenal Glands using Electrons, Intraoperative",DG023Z,2016,2027
+DG023ZZ,Beam Radiation of Adrenal Glands using Electrons,DG023Z,2016,2027
+DG025,Neutrons,DG02,2016,2027
+DG025Z,None,DG025,2016,2027
+DG025ZZ,Beam Radiation of Adrenal Glands using Neutrons,DG025Z,2016,2027
+DG026,Neutron Capture,DG02,2016,2027
+DG026Z,None,DG026,2016,2027
+DG026ZZ,Beam Radiation of Adrenal Glands using Neutron Capture,DG026Z,2016,2027
+DG04,Parathyroid Glands,DG0,2016,2027
+DG040,Photons <1 MeV,DG04,2016,2027
+DG040Z,None,DG040,2016,2027
+DG040ZZ,Beam Radiation of Parathyroid Glands using Photons <1 MeV,DG040Z,2016,2027
+DG041,Photons 1 - 10 MeV,DG04,2016,2027
+DG041Z,None,DG041,2016,2027
+DG041ZZ,Beam Radiation of Parathyroid Glands using Photons 1 - 10 MeV,DG041Z,2016,2027
+DG042,Photons >10 MeV,DG04,2016,2027
+DG042Z,None,DG042,2016,2027
+DG042ZZ,Beam Radiation of Parathyroid Glands using Photons >10 MeV,DG042Z,2016,2027
+DG043,Electrons,DG04,2016,2027
+DG043Z,None,DG043,2016,2027
+DG043Z0,"Beam Radiation of Parathyroid Glands using Electrons, Intraoperative",DG043Z,2016,2027
+DG043ZZ,Beam Radiation of Parathyroid Glands using Electrons,DG043Z,2016,2027
+DG045,Neutrons,DG04,2016,2027
+DG045Z,None,DG045,2016,2027
+DG045ZZ,Beam Radiation of Parathyroid Glands using Neutrons,DG045Z,2016,2027
+DG046,Neutron Capture,DG04,2016,2027
+DG046Z,None,DG046,2016,2027
+DG046ZZ,Beam Radiation of Parathyroid Glands using Neutron Capture,DG046Z,2016,2027
+DG05,Thyroid,DG0,2016,2027
+DG050,Photons <1 MeV,DG05,2016,2027
+DG050Z,None,DG050,2016,2027
+DG050ZZ,Beam Radiation of Thyroid using Photons <1 MeV,DG050Z,2016,2027
+DG051,Photons 1 - 10 MeV,DG05,2016,2027
+DG051Z,None,DG051,2016,2027
+DG051ZZ,Beam Radiation of Thyroid using Photons 1 - 10 MeV,DG051Z,2016,2027
+DG052,Photons >10 MeV,DG05,2016,2027
+DG052Z,None,DG052,2016,2027
+DG052ZZ,Beam Radiation of Thyroid using Photons >10 MeV,DG052Z,2016,2027
+DG053,Electrons,DG05,2016,2027
+DG053Z,None,DG053,2016,2027
+DG053Z0,"Beam Radiation of Thyroid using Electrons, Intraoperative",DG053Z,2016,2027
+DG053ZZ,Beam Radiation of Thyroid using Electrons,DG053Z,2016,2027
+DG055,Neutrons,DG05,2016,2027
+DG055Z,None,DG055,2016,2027
+DG055ZZ,Beam Radiation of Thyroid using Neutrons,DG055Z,2016,2027
+DG056,Neutron Capture,DG05,2016,2027
+DG056Z,None,DG056,2016,2027
+DG056ZZ,Beam Radiation of Thyroid using Neutron Capture,DG056Z,2016,2027
+DG1,Brachytherapy,DG,2016,2027
+DG10,Pituitary Gland,DG1,2016,2027
+DG109,High Dose Rate (HDR),DG10,2016,2027
+DG1097,Cesium 137 (Cs-137),DG109,2016,2027
+DG1097Z,High Dose Rate (HDR) Brachytherapy of Pituitary Gland using Cesium 137 (Cs-137),DG1097,2016,2027
+DG1098,Iridium 192 (Ir-192),DG109,2016,2027
+DG1098Z,High Dose Rate (HDR) Brachytherapy of Pituitary Gland using Iridium 192 (Ir-192),DG1098,2016,2027
+DG1099,Iodine 125 (I-125),DG109,2016,2027
+DG1099Z,High Dose Rate (HDR) Brachytherapy of Pituitary Gland using Iodine 125 (I-125),DG1099,2016,2027
+DG109B,Palladium 103 (Pd-103),DG109,2016,2027
+DG109BZ,High Dose Rate (HDR) Brachytherapy of Pituitary Gland using Palladium 103 (Pd-103),DG109B,2016,2027
+DG109C,Californium 252 (Cf-252),DG109,2016,2027
+DG109CZ,High Dose Rate (HDR) Brachytherapy of Pituitary Gland using Californium 252 (Cf-252),DG109C,2016,2027
+DG109Y,Other Isotope,DG109,2016,2027
+DG109YZ,High Dose Rate (HDR) Brachytherapy of Pituitary Gland using Other Isotope,DG109Y,2016,2027
+DG10B,Low Dose Rate (LDR),DG10,2016,2027
+DG10B6,Cesium 131 (Cs-131),DG10B,2021,2027
+DG10B6Z,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Cesium 131 (Cs-131),DG10B6,2021,2027
+DG10B7,Cesium 137 (Cs-137),DG10B,2016,2027
+DG10B7Z,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Cesium 137 (Cs-137),DG10B7,2016,2027
+DG10B8,Iridium 192 (Ir-192),DG10B,2016,2027
+DG10B8Z,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Iridium 192 (Ir-192),DG10B8,2016,2027
+DG10B9,Iodine 125 (I-125),DG10B,2016,2027
+DG10B9Z,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Iodine 125 (I-125),DG10B9,2016,2027
+DG10BB,Palladium 103 (Pd-103),DG10B,2016,2027
+DG10BB1,"Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Palladium 103 (Pd-103), Unidirectional Source",DG10BB,2020,2027
+DG10BBZ,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Palladium 103 (Pd-103),DG10BB,2016,2027
+DG10BC,Californium 252 (Cf-252),DG10B,2016,2027
+DG10BCZ,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Californium 252 (Cf-252),DG10BC,2016,2027
+DG10BY,Other Isotope,DG10B,2016,2027
+DG10BYZ,Low Dose Rate (LDR) Brachytherapy of Pituitary Gland using Other Isotope,DG10BY,2016,2027
+DG11,Pineal Body,DG1,2016,2027
+DG119,High Dose Rate (HDR),DG11,2016,2027
+DG1197,Cesium 137 (Cs-137),DG119,2016,2027
+DG1197Z,High Dose Rate (HDR) Brachytherapy of Pineal Body using Cesium 137 (Cs-137),DG1197,2016,2027
+DG1198,Iridium 192 (Ir-192),DG119,2016,2027
+DG1198Z,High Dose Rate (HDR) Brachytherapy of Pineal Body using Iridium 192 (Ir-192),DG1198,2016,2027
+DG1199,Iodine 125 (I-125),DG119,2016,2027
+DG1199Z,High Dose Rate (HDR) Brachytherapy of Pineal Body using Iodine 125 (I-125),DG1199,2016,2027
+DG119B,Palladium 103 (Pd-103),DG119,2016,2027
+DG119BZ,High Dose Rate (HDR) Brachytherapy of Pineal Body using Palladium 103 (Pd-103),DG119B,2016,2027
+DG119C,Californium 252 (Cf-252),DG119,2016,2027
+DG119CZ,High Dose Rate (HDR) Brachytherapy of Pineal Body using Californium 252 (Cf-252),DG119C,2016,2027
+DG119Y,Other Isotope,DG119,2016,2027
+DG119YZ,High Dose Rate (HDR) Brachytherapy of Pineal Body using Other Isotope,DG119Y,2016,2027
+DG11B,Low Dose Rate (LDR),DG11,2016,2027
+DG11B6,Cesium 131 (Cs-131),DG11B,2021,2027
+DG11B6Z,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Cesium 131 (Cs-131),DG11B6,2021,2027
+DG11B7,Cesium 137 (Cs-137),DG11B,2016,2027
+DG11B7Z,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Cesium 137 (Cs-137),DG11B7,2016,2027
+DG11B8,Iridium 192 (Ir-192),DG11B,2016,2027
+DG11B8Z,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Iridium 192 (Ir-192),DG11B8,2016,2027
+DG11B9,Iodine 125 (I-125),DG11B,2016,2027
+DG11B9Z,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Iodine 125 (I-125),DG11B9,2016,2027
+DG11BB,Palladium 103 (Pd-103),DG11B,2016,2027
+DG11BB1,"Low Dose Rate (LDR) Brachytherapy of Pineal Body using Palladium 103 (Pd-103), Unidirectional Source",DG11BB,2020,2027
+DG11BBZ,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Palladium 103 (Pd-103),DG11BB,2016,2027
+DG11BC,Californium 252 (Cf-252),DG11B,2016,2027
+DG11BCZ,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Californium 252 (Cf-252),DG11BC,2016,2027
+DG11BY,Other Isotope,DG11B,2016,2027
+DG11BYZ,Low Dose Rate (LDR) Brachytherapy of Pineal Body using Other Isotope,DG11BY,2016,2027
+DG12,Adrenal Glands,DG1,2016,2027
+DG129,High Dose Rate (HDR),DG12,2016,2027
+DG1297,Cesium 137 (Cs-137),DG129,2016,2027
+DG1297Z,High Dose Rate (HDR) Brachytherapy of Adrenal Glands using Cesium 137 (Cs-137),DG1297,2016,2027
+DG1298,Iridium 192 (Ir-192),DG129,2016,2027
+DG1298Z,High Dose Rate (HDR) Brachytherapy of Adrenal Glands using Iridium 192 (Ir-192),DG1298,2016,2027
+DG1299,Iodine 125 (I-125),DG129,2016,2027
+DG1299Z,High Dose Rate (HDR) Brachytherapy of Adrenal Glands using Iodine 125 (I-125),DG1299,2016,2027
+DG129B,Palladium 103 (Pd-103),DG129,2016,2027
+DG129BZ,High Dose Rate (HDR) Brachytherapy of Adrenal Glands using Palladium 103 (Pd-103),DG129B,2016,2027
+DG129C,Californium 252 (Cf-252),DG129,2016,2027
+DG129CZ,High Dose Rate (HDR) Brachytherapy of Adrenal Glands using Californium 252 (Cf-252),DG129C,2016,2027
+DG129Y,Other Isotope,DG129,2016,2027
+DG129YZ,High Dose Rate (HDR) Brachytherapy of Adrenal Glands using Other Isotope,DG129Y,2016,2027
+DG12B,Low Dose Rate (LDR),DG12,2016,2027
+DG12B6,Cesium 131 (Cs-131),DG12B,2021,2027
+DG12B6Z,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Cesium 131 (Cs-131),DG12B6,2021,2027
+DG12B7,Cesium 137 (Cs-137),DG12B,2016,2027
+DG12B7Z,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Cesium 137 (Cs-137),DG12B7,2016,2027
+DG12B8,Iridium 192 (Ir-192),DG12B,2016,2027
+DG12B8Z,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Iridium 192 (Ir-192),DG12B8,2016,2027
+DG12B9,Iodine 125 (I-125),DG12B,2016,2027
+DG12B9Z,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Iodine 125 (I-125),DG12B9,2016,2027
+DG12BB,Palladium 103 (Pd-103),DG12B,2016,2027
+DG12BB1,"Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Palladium 103 (Pd-103), Unidirectional Source",DG12BB,2020,2027
+DG12BBZ,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Palladium 103 (Pd-103),DG12BB,2016,2027
+DG12BC,Californium 252 (Cf-252),DG12B,2016,2027
+DG12BCZ,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Californium 252 (Cf-252),DG12BC,2016,2027
+DG12BY,Other Isotope,DG12B,2016,2027
+DG12BYZ,Low Dose Rate (LDR) Brachytherapy of Adrenal Glands using Other Isotope,DG12BY,2016,2027
+DG14,Parathyroid Glands,DG1,2016,2027
+DG149,High Dose Rate (HDR),DG14,2016,2027
+DG1497,Cesium 137 (Cs-137),DG149,2016,2027
+DG1497Z,High Dose Rate (HDR) Brachytherapy of Parathyroid Glands using Cesium 137 (Cs-137),DG1497,2016,2027
+DG1498,Iridium 192 (Ir-192),DG149,2016,2027
+DG1498Z,High Dose Rate (HDR) Brachytherapy of Parathyroid Glands using Iridium 192 (Ir-192),DG1498,2016,2027
+DG1499,Iodine 125 (I-125),DG149,2016,2027
+DG1499Z,High Dose Rate (HDR) Brachytherapy of Parathyroid Glands using Iodine 125 (I-125),DG1499,2016,2027
+DG149B,Palladium 103 (Pd-103),DG149,2016,2027
+DG149BZ,High Dose Rate (HDR) Brachytherapy of Parathyroid Glands using Palladium 103 (Pd-103),DG149B,2016,2027
+DG149C,Californium 252 (Cf-252),DG149,2016,2027
+DG149CZ,High Dose Rate (HDR) Brachytherapy of Parathyroid Glands using Californium 252 (Cf-252),DG149C,2016,2027
+DG149Y,Other Isotope,DG149,2016,2027
+DG149YZ,High Dose Rate (HDR) Brachytherapy of Parathyroid Glands using Other Isotope,DG149Y,2016,2027
+DG14B,Low Dose Rate (LDR),DG14,2016,2027
+DG14B6,Cesium 131 (Cs-131),DG14B,2021,2027
+DG14B6Z,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Cesium 131 (Cs-131),DG14B6,2021,2027
+DG14B7,Cesium 137 (Cs-137),DG14B,2016,2027
+DG14B7Z,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Cesium 137 (Cs-137),DG14B7,2016,2027
+DG14B8,Iridium 192 (Ir-192),DG14B,2016,2027
+DG14B8Z,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Iridium 192 (Ir-192),DG14B8,2016,2027
+DG14B9,Iodine 125 (I-125),DG14B,2016,2027
+DG14B9Z,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Iodine 125 (I-125),DG14B9,2016,2027
+DG14BB,Palladium 103 (Pd-103),DG14B,2016,2027
+DG14BB1,"Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Palladium 103 (Pd-103), Unidirectional Source",DG14BB,2020,2027
+DG14BBZ,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Palladium 103 (Pd-103),DG14BB,2016,2027
+DG14BC,Californium 252 (Cf-252),DG14B,2016,2027
+DG14BCZ,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Californium 252 (Cf-252),DG14BC,2016,2027
+DG14BY,Other Isotope,DG14B,2016,2027
+DG14BYZ,Low Dose Rate (LDR) Brachytherapy of Parathyroid Glands using Other Isotope,DG14BY,2016,2027
+DG15,Thyroid,DG1,2016,2027
+DG159,High Dose Rate (HDR),DG15,2016,2027
+DG1597,Cesium 137 (Cs-137),DG159,2016,2027
+DG1597Z,High Dose Rate (HDR) Brachytherapy of Thyroid using Cesium 137 (Cs-137),DG1597,2016,2027
+DG1598,Iridium 192 (Ir-192),DG159,2016,2027
+DG1598Z,High Dose Rate (HDR) Brachytherapy of Thyroid using Iridium 192 (Ir-192),DG1598,2016,2027
+DG1599,Iodine 125 (I-125),DG159,2016,2027
+DG1599Z,High Dose Rate (HDR) Brachytherapy of Thyroid using Iodine 125 (I-125),DG1599,2016,2027
+DG159B,Palladium 103 (Pd-103),DG159,2016,2027
+DG159BZ,High Dose Rate (HDR) Brachytherapy of Thyroid using Palladium 103 (Pd-103),DG159B,2016,2027
+DG159C,Californium 252 (Cf-252),DG159,2016,2027
+DG159CZ,High Dose Rate (HDR) Brachytherapy of Thyroid using Californium 252 (Cf-252),DG159C,2016,2027
+DG159Y,Other Isotope,DG159,2016,2027
+DG159YZ,High Dose Rate (HDR) Brachytherapy of Thyroid using Other Isotope,DG159Y,2016,2027
+DG15B,Low Dose Rate (LDR),DG15,2016,2027
+DG15B6,Cesium 131 (Cs-131),DG15B,2021,2027
+DG15B6Z,Low Dose Rate (LDR) Brachytherapy of Thyroid using Cesium 131 (Cs-131),DG15B6,2021,2027
+DG15B7,Cesium 137 (Cs-137),DG15B,2016,2027
+DG15B7Z,Low Dose Rate (LDR) Brachytherapy of Thyroid using Cesium 137 (Cs-137),DG15B7,2016,2027
+DG15B8,Iridium 192 (Ir-192),DG15B,2016,2027
+DG15B8Z,Low Dose Rate (LDR) Brachytherapy of Thyroid using Iridium 192 (Ir-192),DG15B8,2016,2027
+DG15B9,Iodine 125 (I-125),DG15B,2016,2027
+DG15B9Z,Low Dose Rate (LDR) Brachytherapy of Thyroid using Iodine 125 (I-125),DG15B9,2016,2027
+DG15BB,Palladium 103 (Pd-103),DG15B,2016,2027
+DG15BB1,"Low Dose Rate (LDR) Brachytherapy of Thyroid using Palladium 103 (Pd-103), Unidirectional Source",DG15BB,2020,2027
+DG15BBZ,Low Dose Rate (LDR) Brachytherapy of Thyroid using Palladium 103 (Pd-103),DG15BB,2016,2027
+DG15BC,Californium 252 (Cf-252),DG15B,2016,2027
+DG15BCZ,Low Dose Rate (LDR) Brachytherapy of Thyroid using Californium 252 (Cf-252),DG15BC,2016,2027
+DG15BY,Other Isotope,DG15B,2016,2027
+DG15BYZ,Low Dose Rate (LDR) Brachytherapy of Thyroid using Other Isotope,DG15BY,2016,2027
+DG2,Stereotactic Radiosurgery,DG,2016,2027
+DG20,Pituitary Gland,DG2,2016,2027
+DG20D,Stereotactic Other Photon Radiosurgery,DG20,2016,2027
+DG20DZ,None,DG20D,2016,2027
+DG20DZZ,Stereotactic Other Photon Radiosurgery of Pituitary Gland,DG20DZ,2016,2027
+DG20H,Stereotactic Particulate Radiosurgery,DG20,2016,2027
+DG20HZ,None,DG20H,2016,2027
+DG20HZZ,Stereotactic Particulate Radiosurgery of Pituitary Gland,DG20HZ,2016,2027
+DG20J,Stereotactic Gamma Beam Radiosurgery,DG20,2016,2027
+DG20JZ,None,DG20J,2016,2027
+DG20JZZ,Stereotactic Gamma Beam Radiosurgery of Pituitary Gland,DG20JZ,2016,2027
+DG21,Pineal Body,DG2,2016,2027
+DG21D,Stereotactic Other Photon Radiosurgery,DG21,2016,2027
+DG21DZ,None,DG21D,2016,2027
+DG21DZZ,Stereotactic Other Photon Radiosurgery of Pineal Body,DG21DZ,2016,2027
+DG21H,Stereotactic Particulate Radiosurgery,DG21,2016,2027
+DG21HZ,None,DG21H,2016,2027
+DG21HZZ,Stereotactic Particulate Radiosurgery of Pineal Body,DG21HZ,2016,2027
+DG21J,Stereotactic Gamma Beam Radiosurgery,DG21,2016,2027
+DG21JZ,None,DG21J,2016,2027
+DG21JZZ,Stereotactic Gamma Beam Radiosurgery of Pineal Body,DG21JZ,2016,2027
+DG22,Adrenal Glands,DG2,2016,2027
+DG22D,Stereotactic Other Photon Radiosurgery,DG22,2016,2027
+DG22DZ,None,DG22D,2016,2027
+DG22DZZ,Stereotactic Other Photon Radiosurgery of Adrenal Glands,DG22DZ,2016,2027
+DG22H,Stereotactic Particulate Radiosurgery,DG22,2016,2027
+DG22HZ,None,DG22H,2016,2027
+DG22HZZ,Stereotactic Particulate Radiosurgery of Adrenal Glands,DG22HZ,2016,2027
+DG22J,Stereotactic Gamma Beam Radiosurgery,DG22,2016,2027
+DG22JZ,None,DG22J,2016,2027
+DG22JZZ,Stereotactic Gamma Beam Radiosurgery of Adrenal Glands,DG22JZ,2016,2027
+DG24,Parathyroid Glands,DG2,2016,2027
+DG24D,Stereotactic Other Photon Radiosurgery,DG24,2016,2027
+DG24DZ,None,DG24D,2016,2027
+DG24DZZ,Stereotactic Other Photon Radiosurgery of Parathyroid Glands,DG24DZ,2016,2027
+DG24H,Stereotactic Particulate Radiosurgery,DG24,2016,2027
+DG24HZ,None,DG24H,2016,2027
+DG24HZZ,Stereotactic Particulate Radiosurgery of Parathyroid Glands,DG24HZ,2016,2027
+DG24J,Stereotactic Gamma Beam Radiosurgery,DG24,2016,2027
+DG24JZ,None,DG24J,2016,2027
+DG24JZZ,Stereotactic Gamma Beam Radiosurgery of Parathyroid Glands,DG24JZ,2016,2027
+DG25,Thyroid,DG2,2016,2027
+DG25D,Stereotactic Other Photon Radiosurgery,DG25,2016,2027
+DG25DZ,None,DG25D,2016,2027
+DG25DZZ,Stereotactic Other Photon Radiosurgery of Thyroid,DG25DZ,2016,2027
+DG25H,Stereotactic Particulate Radiosurgery,DG25,2016,2027
+DG25HZ,None,DG25H,2016,2027
+DG25HZZ,Stereotactic Particulate Radiosurgery of Thyroid,DG25HZ,2016,2027
+DG25J,Stereotactic Gamma Beam Radiosurgery,DG25,2016,2027
+DG25JZ,None,DG25J,2016,2027
+DG25JZZ,Stereotactic Gamma Beam Radiosurgery of Thyroid,DG25JZ,2016,2027
+DGY,Other Radiation,DG,2016,2027
+DGY0,Pituitary Gland,DGY,2016,2027
+DGY07,Contact Radiation,DGY0,2016,2027
+DGY07Z,None,DGY07,2016,2027
+DGY07ZZ,Contact Radiation of Pituitary Gland,DGY07Z,2016,2027
+DGY08,Hyperthermia,DGY0,2016,2027
+DGY08Z,None,DGY08,2016,2027
+DGY08ZZ,Hyperthermia of Pituitary Gland,DGY08Z,2016,2027
+DGY0F,Plaque Radiation,DGY0,2016,2027
+DGY0FZ,None,DGY0F,2016,2027
+DGY0FZZ,Plaque Radiation of Pituitary Gland,DGY0FZ,2016,2027
+DGY0K,Laser Interstitial Thermal Therapy,DGY0,2016,2022
+DGY0KZ,None,DGY0K,2016,2022
+DGY0KZZ,Laser Interstitial Thermal Therapy of Pituitary Gland,DGY0KZ,2016,2022
+DGY1,Pineal Body,DGY,2016,2027
+DGY17,Contact Radiation,DGY1,2016,2027
+DGY17Z,None,DGY17,2016,2027
+DGY17ZZ,Contact Radiation of Pineal Body,DGY17Z,2016,2027
+DGY18,Hyperthermia,DGY1,2016,2027
+DGY18Z,None,DGY18,2016,2027
+DGY18ZZ,Hyperthermia of Pineal Body,DGY18Z,2016,2027
+DGY1F,Plaque Radiation,DGY1,2016,2027
+DGY1FZ,None,DGY1F,2016,2027
+DGY1FZZ,Plaque Radiation of Pineal Body,DGY1FZ,2016,2027
+DGY1K,Laser Interstitial Thermal Therapy,DGY1,2016,2022
+DGY1KZ,None,DGY1K,2016,2022
+DGY1KZZ,Laser Interstitial Thermal Therapy of Pineal Body,DGY1KZ,2016,2022
+DGY2,Adrenal Glands,DGY,2016,2027
+DGY27,Contact Radiation,DGY2,2016,2027
+DGY27Z,None,DGY27,2016,2027
+DGY27ZZ,Contact Radiation of Adrenal Glands,DGY27Z,2016,2027
+DGY28,Hyperthermia,DGY2,2016,2027
+DGY28Z,None,DGY28,2016,2027
+DGY28ZZ,Hyperthermia of Adrenal Glands,DGY28Z,2016,2027
+DGY2F,Plaque Radiation,DGY2,2016,2027
+DGY2FZ,None,DGY2F,2016,2027
+DGY2FZZ,Plaque Radiation of Adrenal Glands,DGY2FZ,2016,2027
+DGY2K,Laser Interstitial Thermal Therapy,DGY2,2016,2022
+DGY2KZ,None,DGY2K,2016,2022
+DGY2KZZ,Laser Interstitial Thermal Therapy of Adrenal Glands,DGY2KZ,2016,2022
+DGY4,Parathyroid Glands,DGY,2016,2027
+DGY47,Contact Radiation,DGY4,2016,2027
+DGY47Z,None,DGY47,2016,2027
+DGY47ZZ,Contact Radiation of Parathyroid Glands,DGY47Z,2016,2027
+DGY48,Hyperthermia,DGY4,2016,2027
+DGY48Z,None,DGY48,2016,2027
+DGY48ZZ,Hyperthermia of Parathyroid Glands,DGY48Z,2016,2027
+DGY4F,Plaque Radiation,DGY4,2016,2027
+DGY4FZ,None,DGY4F,2016,2027
+DGY4FZZ,Plaque Radiation of Parathyroid Glands,DGY4FZ,2016,2027
+DGY4K,Laser Interstitial Thermal Therapy,DGY4,2016,2022
+DGY4KZ,None,DGY4K,2016,2022
+DGY4KZZ,Laser Interstitial Thermal Therapy of Parathyroid Glands,DGY4KZ,2016,2022
+DGY5,Thyroid,DGY,2016,2027
+DGY57,Contact Radiation,DGY5,2016,2027
+DGY57Z,None,DGY57,2016,2027
+DGY57ZZ,Contact Radiation of Thyroid,DGY57Z,2016,2027
+DGY58,Hyperthermia,DGY5,2016,2027
+DGY58Z,None,DGY58,2016,2027
+DGY58ZZ,Hyperthermia of Thyroid,DGY58Z,2016,2027
+DGY5F,Plaque Radiation,DGY5,2016,2027
+DGY5FZ,None,DGY5F,2016,2027
+DGY5FZZ,Plaque Radiation of Thyroid,DGY5FZ,2016,2027
+DGY5K,Laser Interstitial Thermal Therapy,DGY5,2016,2022
+DGY5KZ,None,DGY5K,2016,2022
+DGY5KZZ,Laser Interstitial Thermal Therapy of Thyroid,DGY5KZ,2016,2022

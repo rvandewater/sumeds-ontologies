@@ -1,0 +1,856 @@
+code,description,parent,first_year,last_year
+4A,Physiological Systems,4,2016,2027
+4A0,Measurement,4A,2016,2027
+4A00,Central Nervous,4A0,2016,2027
+4A000,Open,4A00,2016,2027
+4A0002,Conductivity,4A000,2016,2027
+4A0002Z,"Measurement of Central Nervous Conductivity, Open Approach",4A0002,2016,2027
+4A0004,Electrical Activity,4A000,2016,2027
+4A0004Z,"Measurement of Central Nervous Electrical Activity, Open Approach",4A0004,2016,2027
+4A000B,Pressure,4A000,2016,2027
+4A000BZ,"Measurement of Central Nervous Pressure, Open Approach",4A000B,2016,2027
+4A003,Percutaneous,4A00,2016,2027
+4A0034,Electrical Activity,4A003,2016,2027
+4A0034Z,"Measurement of Central Nervous Electrical Activity, Percutaneous Approach",4A0034,2016,2027
+4A003B,Pressure,4A003,2016,2027
+4A003BD,"Measurement of Intracranial Pressure, Percutaneous Approach",4A003B,2016,2027
+4A003K,Temperature,4A003,2016,2027
+4A003KD,"Measurement of Intracranial Temperature, Percutaneous Approach",4A003K,2016,2027
+4A003R,Saturation,4A003,2016,2027
+4A003RD,"Measurement of Intracranial Saturation, Percutaneous Approach",4A003R,2016,2027
+4A007,Via Natural or Artificial Opening,4A00,2016,2027
+4A0074,Electrical Activity,4A007,2018,2027
+4A0074Z,"Measurement of Central Nervous Electrical Activity, Via Natural or Artificial Opening",4A0074,2018,2027
+4A007B,Pressure,4A007,2016,2027
+4A007BD,"Measurement of Intracranial Pressure, Via Natural or Artificial Opening",4A007B,2016,2027
+4A007K,Temperature,4A007,2016,2027
+4A007KD,"Measurement of Intracranial Temperature, Via Natural or Artificial Opening",4A007K,2016,2027
+4A007R,Saturation,4A007,2016,2027
+4A007RD,"Measurement of Intracranial Saturation, Via Natural or Artificial Opening",4A007R,2016,2027
+4A008,Via Natural or Artificial Opening Endoscopic,4A00,2018,2027
+4A0084,Electrical Activity,4A008,2018,2027
+4A0084Z,"Measurement of Central Nervous Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A0084,2018,2027
+4A008B,Pressure,4A008,2018,2027
+4A008BD,"Measurement of Intracranial Pressure, Via Natural or Artificial Opening Endoscopic",4A008B,2018,2027
+4A008K,Temperature,4A008,2018,2027
+4A008KD,"Measurement of Intracranial Temperature, Via Natural or Artificial Opening Endoscopic",4A008K,2018,2027
+4A008R,Saturation,4A008,2018,2027
+4A008RD,"Measurement of Intracranial Saturation, Via Natural or Artificial Opening Endoscopic",4A008R,2018,2027
+4A00X,External,4A00,2016,2027
+4A00X2,Conductivity,4A00X,2016,2027
+4A00X2Z,"Measurement of Central Nervous Conductivity, External Approach",4A00X2,2016,2027
+4A00X4,Electrical Activity,4A00X,2016,2027
+4A00X4Z,"Measurement of Central Nervous Electrical Activity, External Approach",4A00X4,2016,2027
+4A01,Peripheral Nervous,4A0,2016,2027
+4A010,Open,4A01,2016,2027
+4A0102,Conductivity,4A010,2016,2027
+4A01029,"Measurement of Peripheral Nervous Conductivity, Sensory, Open Approach",4A0102,2016,2027
+4A0102B,"Measurement of Peripheral Nervous Conductivity, Motor, Open Approach",4A0102,2016,2027
+4A0104,Electrical Activity,4A010,2016,2027
+4A0104Z,"Measurement of Peripheral Nervous Electrical Activity, Open Approach",4A0104,2016,2027
+4A013,Percutaneous,4A01,2016,2027
+4A0132,Conductivity,4A013,2016,2027
+4A01329,"Measurement of Peripheral Nervous Conductivity, Sensory, Percutaneous Approach",4A0132,2016,2027
+4A0132B,"Measurement of Peripheral Nervous Conductivity, Motor, Percutaneous Approach",4A0132,2016,2027
+4A0134,Electrical Activity,4A013,2016,2027
+4A0134Z,"Measurement of Peripheral Nervous Electrical Activity, Percutaneous Approach",4A0134,2016,2027
+4A017,Via Natural or Artificial Opening,4A01,2018,2027
+4A0172,Conductivity,4A017,2018,2027
+4A01729,"Measurement of Peripheral Nervous Conductivity, Sensory, Via Natural or Artificial Opening",4A0172,2018,2027
+4A0172B,"Measurement of Peripheral Nervous Conductivity, Motor, Via Natural or Artificial Opening",4A0172,2018,2027
+4A0174,Electrical Activity,4A017,2018,2027
+4A0174Z,"Measurement of Peripheral Nervous Electrical Activity, Via Natural or Artificial Opening",4A0174,2018,2027
+4A018,Via Natural or Artificial Opening Endoscopic,4A01,2018,2027
+4A0182,Conductivity,4A018,2018,2027
+4A01829,"Measurement of Peripheral Nervous Conductivity, Sensory, Via Natural or Artificial Opening Endoscopic",4A0182,2018,2027
+4A0182B,"Measurement of Peripheral Nervous Conductivity, Motor, Via Natural or Artificial Opening Endoscopic",4A0182,2018,2027
+4A0184,Electrical Activity,4A018,2018,2027
+4A0184Z,"Measurement of Peripheral Nervous Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A0184,2018,2027
+4A01X,External,4A01,2016,2027
+4A01X2,Conductivity,4A01X,2016,2027
+4A01X29,"Measurement of Peripheral Nervous Conductivity, Sensory, External Approach",4A01X2,2016,2027
+4A01X2B,"Measurement of Peripheral Nervous Conductivity, Motor, External Approach",4A01X2,2016,2027
+4A01X4,Electrical Activity,4A01X,2016,2027
+4A01X4Z,"Measurement of Peripheral Nervous Electrical Activity, External Approach",4A01X4,2016,2027
+4A02,Cardiac,4A0,2016,2027
+4A020,Open,4A02,2016,2027
+4A0204,Electrical Activity,4A020,2016,2027
+4A0204Z,"Measurement of Cardiac Electrical Activity, Open Approach",4A0204,2016,2027
+4A0209,Output,4A020,2016,2027
+4A0209Z,"Measurement of Cardiac Output, Open Approach",4A0209,2016,2027
+4A020C,Rate,4A020,2016,2027
+4A020CZ,"Measurement of Cardiac Rate, Open Approach",4A020C,2016,2027
+4A020F,Rhythm,4A020,2016,2027
+4A020FZ,"Measurement of Cardiac Rhythm, Open Approach",4A020F,2016,2027
+4A020H,Sound,4A020,2016,2027
+4A020HZ,"Measurement of Cardiac Sound, Open Approach",4A020H,2016,2027
+4A020N,Sampling and Pressure,4A020,2016,2027
+4A020N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Open Approach",4A020N,2016,2027
+4A020N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Open Approach",4A020N,2016,2027
+4A020N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Open Approach",4A020N,2016,2027
+4A020P,Action Currents,4A020,2016,2027
+4A020PZ,"Measurement of Cardiac Action Currents, Open Approach",4A020P,2016,2027
+4A023,Percutaneous,4A02,2016,2027
+4A0234,Electrical Activity,4A023,2016,2027
+4A0234Z,"Measurement of Cardiac Electrical Activity, Percutaneous Approach",4A0234,2016,2027
+4A0239,Output,4A023,2016,2027
+4A0239Z,"Measurement of Cardiac Output, Percutaneous Approach",4A0239,2016,2027
+4A023C,Rate,4A023,2016,2027
+4A023CZ,"Measurement of Cardiac Rate, Percutaneous Approach",4A023C,2016,2027
+4A023F,Rhythm,4A023,2016,2027
+4A023FZ,"Measurement of Cardiac Rhythm, Percutaneous Approach",4A023F,2016,2027
+4A023H,Sound,4A023,2016,2027
+4A023HZ,"Measurement of Cardiac Sound, Percutaneous Approach",4A023H,2016,2027
+4A023N,Sampling and Pressure,4A023,2016,2027
+4A023N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Percutaneous Approach",4A023N,2016,2027
+4A023N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Percutaneous Approach",4A023N,2016,2027
+4A023N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Percutaneous Approach",4A023N,2016,2027
+4A023P,Action Currents,4A023,2016,2027
+4A023PZ,"Measurement of Cardiac Action Currents, Percutaneous Approach",4A023P,2016,2027
+4A027,Via Natural or Artificial Opening,4A02,2018,2027
+4A0274,Electrical Activity,4A027,2018,2027
+4A0274Z,"Measurement of Cardiac Electrical Activity, Via Natural or Artificial Opening",4A0274,2018,2027
+4A0279,Output,4A027,2018,2027
+4A0279Z,"Measurement of Cardiac Output, Via Natural or Artificial Opening",4A0279,2018,2027
+4A027C,Rate,4A027,2018,2027
+4A027CZ,"Measurement of Cardiac Rate, Via Natural or Artificial Opening",4A027C,2018,2027
+4A027F,Rhythm,4A027,2018,2027
+4A027FZ,"Measurement of Cardiac Rhythm, Via Natural or Artificial Opening",4A027F,2018,2027
+4A027H,Sound,4A027,2018,2027
+4A027HZ,"Measurement of Cardiac Sound, Via Natural or Artificial Opening",4A027H,2018,2027
+4A027N,Sampling and Pressure,4A027,2018,2027
+4A027N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Via Natural or Artificial Opening",4A027N,2018,2027
+4A027N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Via Natural or Artificial Opening",4A027N,2018,2027
+4A027N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Via Natural or Artificial Opening",4A027N,2018,2027
+4A027P,Action Currents,4A027,2018,2027
+4A027PZ,"Measurement of Cardiac Action Currents, Via Natural or Artificial Opening",4A027P,2018,2027
+4A028,Via Natural or Artificial Opening Endoscopic,4A02,2018,2027
+4A0284,Electrical Activity,4A028,2018,2027
+4A0284Z,"Measurement of Cardiac Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A0284,2018,2027
+4A0289,Output,4A028,2018,2027
+4A0289Z,"Measurement of Cardiac Output, Via Natural or Artificial Opening Endoscopic",4A0289,2018,2027
+4A028C,Rate,4A028,2018,2027
+4A028CZ,"Measurement of Cardiac Rate, Via Natural or Artificial Opening Endoscopic",4A028C,2018,2027
+4A028F,Rhythm,4A028,2018,2027
+4A028FZ,"Measurement of Cardiac Rhythm, Via Natural or Artificial Opening Endoscopic",4A028F,2018,2027
+4A028H,Sound,4A028,2018,2027
+4A028HZ,"Measurement of Cardiac Sound, Via Natural or Artificial Opening Endoscopic",4A028H,2018,2027
+4A028N,Sampling and Pressure,4A028,2018,2027
+4A028N6,"Measurement of Cardiac Sampling and Pressure, Right Heart, Via Natural or Artificial Opening Endoscopic",4A028N,2018,2027
+4A028N7,"Measurement of Cardiac Sampling and Pressure, Left Heart, Via Natural or Artificial Opening Endoscopic",4A028N,2018,2027
+4A028N8,"Measurement of Cardiac Sampling and Pressure, Bilateral, Via Natural or Artificial Opening Endoscopic",4A028N,2018,2027
+4A028P,Action Currents,4A028,2018,2027
+4A028PZ,"Measurement of Cardiac Action Currents, Via Natural or Artificial Opening Endoscopic",4A028P,2018,2027
+4A02X,External,4A02,2016,2027
+4A02X4,Electrical Activity,4A02X,2016,2027
+4A02X4A,"Measurement of Cardiac Electrical Activity, Guidance, External Approach",4A02X4,2016,2027
+4A02X4Z,"Measurement of Cardiac Electrical Activity, External Approach",4A02X4,2016,2027
+4A02X9,Output,4A02X,2016,2027
+4A02X9Z,"Measurement of Cardiac Output, External Approach",4A02X9,2016,2027
+4A02XC,Rate,4A02X,2016,2027
+4A02XCZ,"Measurement of Cardiac Rate, External Approach",4A02XC,2016,2027
+4A02XF,Rhythm,4A02X,2016,2027
+4A02XFZ,"Measurement of Cardiac Rhythm, External Approach",4A02XF,2016,2027
+4A02XH,Sound,4A02X,2016,2027
+4A02XHZ,"Measurement of Cardiac Sound, External Approach",4A02XH,2016,2027
+4A02XM,Total Activity,4A02X,2016,2027
+4A02XM4,"Measurement of Cardiac Total Activity, External Approach",4A02XM,2016,2027
+4A02XP,Action Currents,4A02X,2016,2027
+4A02XPZ,"Measurement of Cardiac Action Currents, External Approach",4A02XP,2016,2027
+4A03,Arterial,4A0,2016,2027
+4A030,Open,4A03,2016,2027
+4A0305,Flow,4A030,2016,2027
+4A03051,"Measurement of Arterial Flow, Peripheral, Open Approach",4A0305,2016,2027
+4A03053,"Measurement of Arterial Flow, Pulmonary, Open Approach",4A0305,2016,2027
+4A0305C,"Measurement of Arterial Flow, Coronary, Open Approach",4A0305,2016,2027
+4A030B,Pressure,4A030,2016,2027
+4A030B1,"Measurement of Arterial Pressure, Peripheral, Open Approach",4A030B,2016,2027
+4A030B3,"Measurement of Arterial Pressure, Pulmonary, Open Approach",4A030B,2016,2027
+4A030BC,"Measurement of Arterial Pressure, Coronary, Open Approach",4A030B,2016,2027
+4A030BF,"Measurement of Arterial Pressure, Other Thoracic, Open Approach",4A030B,2016,2027
+4A030H,Sound,4A030,2016,2027
+4A030H1,"Measurement of Arterial Sound, Peripheral, Open Approach",4A030H,2016,2027
+4A030J,Pulse,4A030,2016,2027
+4A030J1,"Measurement of Arterial Pulse, Peripheral, Open Approach",4A030J,2016,2027
+4A030J3,"Measurement of Arterial Pulse, Pulmonary, Open Approach",4A030J,2016,2027
+4A030JC,"Measurement of Arterial Pulse, Coronary, Open Approach",4A030J,2016,2027
+4A030R,Saturation,4A030,2016,2027
+4A030R1,"Measurement of Arterial Saturation, Peripheral, Open Approach",4A030R,2016,2027
+4A033,Percutaneous,4A03,2016,2027
+4A0335,Flow,4A033,2016,2027
+4A03351,"Measurement of Arterial Flow, Peripheral, Percutaneous Approach",4A0335,2016,2027
+4A03353,"Measurement of Arterial Flow, Pulmonary, Percutaneous Approach",4A0335,2016,2027
+4A0335C,"Measurement of Arterial Flow, Coronary, Percutaneous Approach",4A0335,2016,2027
+4A033B,Pressure,4A033,2016,2027
+4A033B1,"Measurement of Arterial Pressure, Peripheral, Percutaneous Approach",4A033B,2016,2027
+4A033B3,"Measurement of Arterial Pressure, Pulmonary, Percutaneous Approach",4A033B,2016,2027
+4A033BC,"Measurement of Arterial Pressure, Coronary, Percutaneous Approach",4A033B,2016,2027
+4A033BF,"Measurement of Arterial Pressure, Other Thoracic, Percutaneous Approach",4A033B,2016,2027
+4A033H,Sound,4A033,2016,2027
+4A033H1,"Measurement of Arterial Sound, Peripheral, Percutaneous Approach",4A033H,2016,2027
+4A033J,Pulse,4A033,2016,2027
+4A033J1,"Measurement of Arterial Pulse, Peripheral, Percutaneous Approach",4A033J,2016,2027
+4A033J3,"Measurement of Arterial Pulse, Pulmonary, Percutaneous Approach",4A033J,2016,2027
+4A033JC,"Measurement of Arterial Pulse, Coronary, Percutaneous Approach",4A033J,2016,2027
+4A033R,Saturation,4A033,2016,2027
+4A033R1,"Measurement of Arterial Saturation, Peripheral, Percutaneous Approach",4A033R,2016,2027
+4A03X,External,4A03,2016,2027
+4A03X5,Flow,4A03X,2016,2027
+4A03X51,"Measurement of Arterial Flow, Peripheral, External Approach",4A03X5,2016,2027
+4A03X5D,"Measurement of Arterial Flow, Intracranial, External Approach",4A03X5,2021,2027
+4A03XB,Pressure,4A03X,2016,2027
+4A03XB1,"Measurement of Arterial Pressure, Peripheral, External Approach",4A03XB,2016,2027
+4A03XH,Sound,4A03X,2016,2027
+4A03XH1,"Measurement of Arterial Sound, Peripheral, External Approach",4A03XH,2016,2027
+4A03XJ,Pulse,4A03X,2016,2027
+4A03XJ1,"Measurement of Arterial Pulse, Peripheral, External Approach",4A03XJ,2016,2027
+4A03XR,Saturation,4A03X,2016,2027
+4A03XR1,"Measurement of Arterial Saturation, Peripheral, External Approach",4A03XR,2016,2027
+4A04,Venous,4A0,2016,2027
+4A040,Open,4A04,2016,2027
+4A0405,Flow,4A040,2016,2027
+4A04050,"Measurement of Venous Flow, Central, Open Approach",4A0405,2016,2027
+4A04051,"Measurement of Venous Flow, Peripheral, Open Approach",4A0405,2016,2027
+4A04052,"Measurement of Venous Flow, Portal, Open Approach",4A0405,2016,2027
+4A04053,"Measurement of Venous Flow, Pulmonary, Open Approach",4A0405,2016,2027
+4A040B,Pressure,4A040,2016,2027
+4A040B0,"Measurement of Venous Pressure, Central, Open Approach",4A040B,2016,2027
+4A040B1,"Measurement of Venous Pressure, Peripheral, Open Approach",4A040B,2016,2027
+4A040B2,"Measurement of Venous Pressure, Portal, Open Approach",4A040B,2016,2027
+4A040B3,"Measurement of Venous Pressure, Pulmonary, Open Approach",4A040B,2016,2027
+4A040J,Pulse,4A040,2016,2027
+4A040J0,"Measurement of Venous Pulse, Central, Open Approach",4A040J,2016,2027
+4A040J1,"Measurement of Venous Pulse, Peripheral, Open Approach",4A040J,2016,2027
+4A040J2,"Measurement of Venous Pulse, Portal, Open Approach",4A040J,2016,2027
+4A040J3,"Measurement of Venous Pulse, Pulmonary, Open Approach",4A040J,2016,2027
+4A040R,Saturation,4A040,2016,2027
+4A040R1,"Measurement of Venous Saturation, Peripheral, Open Approach",4A040R,2016,2027
+4A043,Percutaneous,4A04,2016,2027
+4A0435,Flow,4A043,2016,2027
+4A04350,"Measurement of Venous Flow, Central, Percutaneous Approach",4A0435,2016,2027
+4A04351,"Measurement of Venous Flow, Peripheral, Percutaneous Approach",4A0435,2016,2027
+4A04352,"Measurement of Venous Flow, Portal, Percutaneous Approach",4A0435,2016,2027
+4A04353,"Measurement of Venous Flow, Pulmonary, Percutaneous Approach",4A0435,2016,2027
+4A043B,Pressure,4A043,2016,2027
+4A043B0,"Measurement of Venous Pressure, Central, Percutaneous Approach",4A043B,2016,2027
+4A043B1,"Measurement of Venous Pressure, Peripheral, Percutaneous Approach",4A043B,2016,2027
+4A043B2,"Measurement of Venous Pressure, Portal, Percutaneous Approach",4A043B,2016,2027
+4A043B3,"Measurement of Venous Pressure, Pulmonary, Percutaneous Approach",4A043B,2016,2027
+4A043J,Pulse,4A043,2016,2027
+4A043J0,"Measurement of Venous Pulse, Central, Percutaneous Approach",4A043J,2016,2027
+4A043J1,"Measurement of Venous Pulse, Peripheral, Percutaneous Approach",4A043J,2016,2027
+4A043J2,"Measurement of Venous Pulse, Portal, Percutaneous Approach",4A043J,2016,2027
+4A043J3,"Measurement of Venous Pulse, Pulmonary, Percutaneous Approach",4A043J,2016,2027
+4A043R,Saturation,4A043,2016,2027
+4A043R1,"Measurement of Venous Saturation, Peripheral, Percutaneous Approach",4A043R,2016,2027
+4A044,Percutaneous Endoscopic,4A04,2021,2027
+4A044B,Pressure,4A044,2021,2027
+4A044B2,"Measurement of Venous Pressure, Portal, Percutaneous Endoscopic Approach",4A044B,2021,2027
+4A04X,External,4A04,2016,2027
+4A04X5,Flow,4A04X,2016,2027
+4A04X51,"Measurement of Venous Flow, Peripheral, External Approach",4A04X5,2016,2027
+4A04XB,Pressure,4A04X,2016,2027
+4A04XB1,"Measurement of Venous Pressure, Peripheral, External Approach",4A04XB,2016,2027
+4A04XJ,Pulse,4A04X,2016,2027
+4A04XJ1,"Measurement of Venous Pulse, Peripheral, External Approach",4A04XJ,2016,2027
+4A04XR,Saturation,4A04X,2016,2027
+4A04XR1,"Measurement of Venous Saturation, Peripheral, External Approach",4A04XR,2016,2027
+4A05,Circulatory,4A0,2016,2027
+4A05X,External,4A05,2016,2027
+4A05XL,Volume,4A05X,2016,2027
+4A05XLZ,"Measurement of Circulatory Volume, External Approach",4A05XL,2016,2027
+4A06,Lymphatic,4A0,2016,2027
+4A060,Open,4A06,2016,2027
+4A0605,Flow,4A060,2016,2027
+4A0605Z,"Measurement of Lymphatic Flow, Open Approach",4A0605,2016,2027
+4A060B,Pressure,4A060,2016,2027
+4A060BZ,"Measurement of Lymphatic Pressure, Open Approach",4A060B,2016,2027
+4A063,Percutaneous,4A06,2016,2027
+4A0635,Flow,4A063,2016,2027
+4A0635Z,"Measurement of Lymphatic Flow, Percutaneous Approach",4A0635,2016,2027
+4A063B,Pressure,4A063,2016,2027
+4A063BZ,"Measurement of Lymphatic Pressure, Percutaneous Approach",4A063B,2016,2027
+4A067,Via Natural or Artificial Opening,4A06,2018,2027
+4A0675,Flow,4A067,2018,2027
+4A0675Z,"Measurement of Lymphatic Flow, Via Natural or Artificial Opening",4A0675,2018,2027
+4A067B,Pressure,4A067,2018,2027
+4A067BZ,"Measurement of Lymphatic Pressure, Via Natural or Artificial Opening",4A067B,2018,2027
+4A068,Via Natural or Artificial Opening Endoscopic,4A06,2018,2027
+4A0685,Flow,4A068,2018,2027
+4A0685Z,"Measurement of Lymphatic Flow, Via Natural or Artificial Opening Endoscopic",4A0685,2018,2027
+4A068B,Pressure,4A068,2018,2027
+4A068BZ,"Measurement of Lymphatic Pressure, Via Natural or Artificial Opening Endoscopic",4A068B,2018,2027
+4A07,Visual,4A0,2016,2027
+4A07X,External,4A07,2016,2027
+4A07X0,Acuity,4A07X,2016,2027
+4A07X0Z,"Measurement of Visual Acuity, External Approach",4A07X0,2016,2027
+4A07X7,Mobility,4A07X,2016,2027
+4A07X7Z,"Measurement of Visual Mobility, External Approach",4A07X7,2016,2027
+4A07XB,Pressure,4A07X,2016,2027
+4A07XBZ,"Measurement of Visual Pressure, External Approach",4A07XB,2016,2027
+4A08,Olfactory,4A0,2016,2027
+4A08X,External,4A08,2016,2027
+4A08X0,Acuity,4A08X,2016,2027
+4A08X0Z,"Measurement of Olfactory Acuity, External Approach",4A08X0,2016,2027
+4A09,Respiratory,4A0,2016,2027
+4A097,Via Natural or Artificial Opening,4A09,2016,2027
+4A0971,Capacity,4A097,2016,2027
+4A0971Z,"Measurement of Respiratory Capacity, Via Natural or Artificial Opening",4A0971,2016,2027
+4A0975,Flow,4A097,2016,2027
+4A0975Z,"Measurement of Respiratory Flow, Via Natural or Artificial Opening",4A0975,2016,2027
+4A097C,Rate,4A097,2016,2027
+4A097CZ,"Measurement of Respiratory Rate, Via Natural or Artificial Opening",4A097C,2016,2027
+4A097D,Resistance,4A097,2016,2027
+4A097DZ,"Measurement of Respiratory Resistance, Via Natural or Artificial Opening",4A097D,2016,2027
+4A097L,Volume,4A097,2016,2027
+4A097LZ,"Measurement of Respiratory Volume, Via Natural or Artificial Opening",4A097L,2016,2027
+4A097M,Total Activity,4A097,2016,2027
+4A097MZ,"Measurement of Respiratory Total Activity, Via Natural or Artificial Opening",4A097M,2016,2027
+4A098,Via Natural or Artificial Opening Endoscopic,4A09,2016,2027
+4A0981,Capacity,4A098,2016,2027
+4A0981Z,"Measurement of Respiratory Capacity, Via Natural or Artificial Opening Endoscopic",4A0981,2016,2027
+4A0985,Flow,4A098,2016,2027
+4A0985Z,"Measurement of Respiratory Flow, Via Natural or Artificial Opening Endoscopic",4A0985,2016,2027
+4A098C,Rate,4A098,2016,2027
+4A098CZ,"Measurement of Respiratory Rate, Via Natural or Artificial Opening Endoscopic",4A098C,2016,2027
+4A098D,Resistance,4A098,2016,2027
+4A098DZ,"Measurement of Respiratory Resistance, Via Natural or Artificial Opening Endoscopic",4A098D,2016,2027
+4A098L,Volume,4A098,2016,2027
+4A098LZ,"Measurement of Respiratory Volume, Via Natural or Artificial Opening Endoscopic",4A098L,2016,2027
+4A098M,Total Activity,4A098,2016,2027
+4A098MZ,"Measurement of Respiratory Total Activity, Via Natural or Artificial Opening Endoscopic",4A098M,2016,2027
+4A09X,External,4A09,2016,2027
+4A09X1,Capacity,4A09X,2016,2027
+4A09X1Z,"Measurement of Respiratory Capacity, External Approach",4A09X1,2016,2027
+4A09X5,Flow,4A09X,2016,2027
+4A09X5Z,"Measurement of Respiratory Flow, External Approach",4A09X5,2016,2027
+4A09XC,Rate,4A09X,2016,2027
+4A09XCZ,"Measurement of Respiratory Rate, External Approach",4A09XC,2016,2027
+4A09XD,Resistance,4A09X,2016,2027
+4A09XDZ,"Measurement of Respiratory Resistance, External Approach",4A09XD,2016,2027
+4A09XL,Volume,4A09X,2016,2027
+4A09XLZ,"Measurement of Respiratory Volume, External Approach",4A09XL,2016,2027
+4A09XM,Total Activity,4A09X,2016,2027
+4A09XMZ,"Measurement of Respiratory Total Activity, External Approach",4A09XM,2016,2027
+4A0B,Gastrointestinal,4A0,2016,2027
+4A0B7,Via Natural or Artificial Opening,4A0B,2016,2027
+4A0B78,Motility,4A0B7,2016,2027
+4A0B78Z,"Measurement of Gastrointestinal Motility, Via Natural or Artificial Opening",4A0B78,2016,2027
+4A0B7B,Pressure,4A0B7,2016,2027
+4A0B7BZ,"Measurement of Gastrointestinal Pressure, Via Natural or Artificial Opening",4A0B7B,2016,2027
+4A0B7G,Secretion,4A0B7,2016,2027
+4A0B7GZ,"Measurement of Gastrointestinal Secretion, Via Natural or Artificial Opening",4A0B7G,2016,2027
+4A0B8,Via Natural or Artificial Opening Endoscopic,4A0B,2016,2027
+4A0B88,Motility,4A0B8,2016,2027
+4A0B88Z,"Measurement of Gastrointestinal Motility, Via Natural or Artificial Opening Endoscopic",4A0B88,2016,2027
+4A0B8B,Pressure,4A0B8,2016,2027
+4A0B8BZ,"Measurement of Gastrointestinal Pressure, Via Natural or Artificial Opening Endoscopic",4A0B8B,2016,2027
+4A0B8G,Secretion,4A0B8,2016,2027
+4A0B8GZ,"Measurement of Gastrointestinal Secretion, Via Natural or Artificial Opening Endoscopic",4A0B8G,2016,2027
+4A0C,Biliary,4A0,2016,2027
+4A0C3,Percutaneous,4A0C,2016,2027
+4A0C35,Flow,4A0C3,2016,2027
+4A0C35Z,"Measurement of Biliary Flow, Percutaneous Approach",4A0C35,2016,2027
+4A0C3B,Pressure,4A0C3,2016,2027
+4A0C3BZ,"Measurement of Biliary Pressure, Percutaneous Approach",4A0C3B,2016,2027
+4A0C4,Percutaneous Endoscopic,4A0C,2016,2027
+4A0C45,Flow,4A0C4,2016,2027
+4A0C45Z,"Measurement of Biliary Flow, Percutaneous Endoscopic Approach",4A0C45,2016,2027
+4A0C4B,Pressure,4A0C4,2016,2027
+4A0C4BZ,"Measurement of Biliary Pressure, Percutaneous Endoscopic Approach",4A0C4B,2016,2027
+4A0C7,Via Natural or Artificial Opening,4A0C,2016,2027
+4A0C75,Flow,4A0C7,2016,2027
+4A0C75Z,"Measurement of Biliary Flow, Via Natural or Artificial Opening",4A0C75,2016,2027
+4A0C7B,Pressure,4A0C7,2016,2027
+4A0C7BZ,"Measurement of Biliary Pressure, Via Natural or Artificial Opening",4A0C7B,2016,2027
+4A0C8,Via Natural or Artificial Opening Endoscopic,4A0C,2016,2027
+4A0C85,Flow,4A0C8,2016,2027
+4A0C85Z,"Measurement of Biliary Flow, Via Natural or Artificial Opening Endoscopic",4A0C85,2016,2027
+4A0C8B,Pressure,4A0C8,2016,2027
+4A0C8BZ,"Measurement of Biliary Pressure, Via Natural or Artificial Opening Endoscopic",4A0C8B,2016,2027
+4A0D,Urinary,4A0,2016,2027
+4A0D7,Via Natural or Artificial Opening,4A0D,2016,2027
+4A0D73,Contractility,4A0D7,2016,2027
+4A0D73Z,"Measurement of Urinary Contractility, Via Natural or Artificial Opening",4A0D73,2016,2027
+4A0D75,Flow,4A0D7,2016,2027
+4A0D75Z,"Measurement of Urinary Flow, Via Natural or Artificial Opening",4A0D75,2016,2027
+4A0D7B,Pressure,4A0D7,2016,2027
+4A0D7BZ,"Measurement of Urinary Pressure, Via Natural or Artificial Opening",4A0D7B,2016,2027
+4A0D7D,Resistance,4A0D7,2016,2027
+4A0D7DZ,"Measurement of Urinary Resistance, Via Natural or Artificial Opening",4A0D7D,2016,2027
+4A0D7L,Volume,4A0D7,2016,2027
+4A0D7LZ,"Measurement of Urinary Volume, Via Natural or Artificial Opening",4A0D7L,2016,2027
+4A0D8,Via Natural or Artificial Opening Endoscopic,4A0D,2018,2027
+4A0D83,Contractility,4A0D8,2018,2027
+4A0D83Z,"Measurement of Urinary Contractility, Via Natural or Artificial Opening Endoscopic",4A0D83,2018,2027
+4A0D85,Flow,4A0D8,2018,2027
+4A0D85Z,"Measurement of Urinary Flow, Via Natural or Artificial Opening Endoscopic",4A0D85,2018,2027
+4A0D8B,Pressure,4A0D8,2018,2027
+4A0D8BZ,"Measurement of Urinary Pressure, Via Natural or Artificial Opening Endoscopic",4A0D8B,2018,2027
+4A0D8D,Resistance,4A0D8,2018,2027
+4A0D8DZ,"Measurement of Urinary Resistance, Via Natural or Artificial Opening Endoscopic",4A0D8D,2018,2027
+4A0D8L,Volume,4A0D8,2018,2027
+4A0D8LZ,"Measurement of Urinary Volume, Via Natural or Artificial Opening Endoscopic",4A0D8L,2018,2027
+4A0F,Musculoskeletal,4A0,2016,2027
+4A0F3,Percutaneous,4A0F,2016,2027
+4A0F33,Contractility,4A0F3,2016,2027
+4A0F33Z,"Measurement of Musculoskeletal Contractility, Percutaneous Approach",4A0F33,2016,2027
+4A0F3B,Pressure,4A0F3,2021,2027
+4A0F3BE,"Measurement of Musculoskeletal Pressure, Compartment, Percutaneous Approach",4A0F3B,2021,2027
+4A0FX,External,4A0F,2016,2027
+4A0FX3,Contractility,4A0FX,2016,2027
+4A0FX3Z,"Measurement of Musculoskeletal Contractility, External Approach",4A0FX3,2016,2027
+4A0FXE,Body Composition,4A0FX,2026,2027
+4A0FXEJ,"Measurement of Musculoskeletal Body Composition using Air Displacement Plethysmography, External Approach",4A0FXE,2026,2027
+4A0H,"Products of Conception, Cardiac",4A0,2016,2027
+4A0H7,Via Natural or Artificial Opening,4A0H,2016,2027
+4A0H74,Electrical Activity,4A0H7,2016,2027
+4A0H74Z,"Measurement of Products of Conception, Cardiac Electrical Activity, Via Natural or Artificial Opening",4A0H74,2016,2027
+4A0H7C,Rate,4A0H7,2016,2027
+4A0H7CZ,"Measurement of Products of Conception, Cardiac Rate, Via Natural or Artificial Opening",4A0H7C,2016,2027
+4A0H7F,Rhythm,4A0H7,2016,2027
+4A0H7FZ,"Measurement of Products of Conception, Cardiac Rhythm, Via Natural or Artificial Opening",4A0H7F,2016,2027
+4A0H7H,Sound,4A0H7,2016,2027
+4A0H7HZ,"Measurement of Products of Conception, Cardiac Sound, Via Natural or Artificial Opening",4A0H7H,2016,2027
+4A0H8,Via Natural or Artificial Opening Endoscopic,4A0H,2016,2027
+4A0H84,Electrical Activity,4A0H8,2016,2027
+4A0H84Z,"Measurement of Products of Conception, Cardiac Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A0H84,2016,2027
+4A0H8C,Rate,4A0H8,2016,2027
+4A0H8CZ,"Measurement of Products of Conception, Cardiac Rate, Via Natural or Artificial Opening Endoscopic",4A0H8C,2016,2027
+4A0H8F,Rhythm,4A0H8,2016,2027
+4A0H8FZ,"Measurement of Products of Conception, Cardiac Rhythm, Via Natural or Artificial Opening Endoscopic",4A0H8F,2016,2027
+4A0H8H,Sound,4A0H8,2016,2027
+4A0H8HZ,"Measurement of Products of Conception, Cardiac Sound, Via Natural or Artificial Opening Endoscopic",4A0H8H,2016,2027
+4A0HX,External,4A0H,2016,2027
+4A0HX4,Electrical Activity,4A0HX,2016,2027
+4A0HX4Z,"Measurement of Products of Conception, Cardiac Electrical Activity, External Approach",4A0HX4,2016,2027
+4A0HXC,Rate,4A0HX,2016,2027
+4A0HXCZ,"Measurement of Products of Conception, Cardiac Rate, External Approach",4A0HXC,2016,2027
+4A0HXF,Rhythm,4A0HX,2016,2027
+4A0HXFZ,"Measurement of Products of Conception, Cardiac Rhythm, External Approach",4A0HXF,2016,2027
+4A0HXH,Sound,4A0HX,2016,2027
+4A0HXHZ,"Measurement of Products of Conception, Cardiac Sound, External Approach",4A0HXH,2016,2027
+4A0J,"Products of Conception, Nervous",4A0,2016,2027
+4A0J7,Via Natural or Artificial Opening,4A0J,2016,2027
+4A0J72,Conductivity,4A0J7,2016,2027
+4A0J72Z,"Measurement of Products of Conception, Nervous Conductivity, Via Natural or Artificial Opening",4A0J72,2016,2027
+4A0J74,Electrical Activity,4A0J7,2016,2027
+4A0J74Z,"Measurement of Products of Conception, Nervous Electrical Activity, Via Natural or Artificial Opening",4A0J74,2016,2027
+4A0J7B,Pressure,4A0J7,2016,2027
+4A0J7BZ,"Measurement of Products of Conception, Nervous Pressure, Via Natural or Artificial Opening",4A0J7B,2016,2027
+4A0J8,Via Natural or Artificial Opening Endoscopic,4A0J,2016,2027
+4A0J82,Conductivity,4A0J8,2016,2027
+4A0J82Z,"Measurement of Products of Conception, Nervous Conductivity, Via Natural or Artificial Opening Endoscopic",4A0J82,2016,2027
+4A0J84,Electrical Activity,4A0J8,2016,2027
+4A0J84Z,"Measurement of Products of Conception, Nervous Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A0J84,2016,2027
+4A0J8B,Pressure,4A0J8,2016,2027
+4A0J8BZ,"Measurement of Products of Conception, Nervous Pressure, Via Natural or Artificial Opening Endoscopic",4A0J8B,2016,2027
+4A0JX,External,4A0J,2016,2027
+4A0JX2,Conductivity,4A0JX,2016,2027
+4A0JX2Z,"Measurement of Products of Conception, Nervous Conductivity, External Approach",4A0JX2,2016,2027
+4A0JX4,Electrical Activity,4A0JX,2016,2027
+4A0JX4Z,"Measurement of Products of Conception, Nervous Electrical Activity, External Approach",4A0JX4,2016,2027
+4A0JXB,Pressure,4A0JX,2016,2027
+4A0JXBZ,"Measurement of Products of Conception, Nervous Pressure, External Approach",4A0JXB,2016,2027
+4A0Z,None,4A0,2016,2027
+4A0Z7,Via Natural or Artificial Opening,4A0Z,2016,2027
+4A0Z76,Metabolism,4A0Z7,2016,2027
+4A0Z76Z,"Measurement of Metabolism, Via Natural or Artificial Opening",4A0Z76,2016,2027
+4A0Z7K,Temperature,4A0Z7,2016,2027
+4A0Z7KZ,"Measurement of Temperature, Via Natural or Artificial Opening",4A0Z7K,2016,2027
+4A0ZX,External,4A0Z,2016,2027
+4A0ZX6,Metabolism,4A0ZX,2016,2027
+4A0ZX6Z,"Measurement of Metabolism, External Approach",4A0ZX6,2016,2027
+4A0ZXK,Temperature,4A0ZX,2016,2027
+4A0ZXKZ,"Measurement of Temperature, External Approach",4A0ZXK,2016,2027
+4A0ZXQ,Sleep,4A0ZX,2016,2027
+4A0ZXQZ,"Measurement of Sleep, External Approach",4A0ZXQ,2016,2027
+4A1,Monitoring,4A,2016,2027
+4A10,Central Nervous,4A1,2016,2027
+4A100,Open,4A10,2016,2027
+4A1002,Conductivity,4A100,2016,2027
+4A1002Z,"Monitoring of Central Nervous Conductivity, Open Approach",4A1002,2016,2027
+4A1004,Electrical Activity,4A100,2016,2027
+4A1004G,"Monitoring of Central Nervous Electrical Activity, Intraoperative, Open Approach",4A1004,2016,2027
+4A1004Z,"Monitoring of Central Nervous Electrical Activity, Open Approach",4A1004,2016,2027
+4A100B,Pressure,4A100,2016,2027
+4A100BZ,"Monitoring of Central Nervous Pressure, Open Approach",4A100B,2016,2027
+4A103,Percutaneous,4A10,2016,2027
+4A1034,Electrical Activity,4A103,2016,2027
+4A1034G,"Monitoring of Central Nervous Electrical Activity, Intraoperative, Percutaneous Approach",4A1034,2016,2027
+4A1034Z,"Monitoring of Central Nervous Electrical Activity, Percutaneous Approach",4A1034,2016,2027
+4A103B,Pressure,4A103,2016,2027
+4A103BD,"Monitoring of Intracranial Pressure, Percutaneous Approach",4A103B,2016,2027
+4A103K,Temperature,4A103,2016,2027
+4A103KD,"Monitoring of Intracranial Temperature, Percutaneous Approach",4A103K,2016,2027
+4A103R,Saturation,4A103,2016,2027
+4A103RD,"Monitoring of Intracranial Saturation, Percutaneous Approach",4A103R,2016,2027
+4A107,Via Natural or Artificial Opening,4A10,2016,2027
+4A1074,Electrical Activity,4A107,2018,2027
+4A1074G,"Monitoring of Central Nervous Electrical Activity, Intraoperative, Via Natural or Artificial Opening",4A1074,2018,2027
+4A1074Z,"Monitoring of Central Nervous Electrical Activity, Via Natural or Artificial Opening",4A1074,2018,2027
+4A107B,Pressure,4A107,2016,2027
+4A107BD,"Monitoring of Intracranial Pressure, Via Natural or Artificial Opening",4A107B,2016,2027
+4A107K,Temperature,4A107,2016,2027
+4A107KD,"Monitoring of Intracranial Temperature, Via Natural or Artificial Opening",4A107K,2016,2027
+4A107R,Saturation,4A107,2016,2027
+4A107RD,"Monitoring of Intracranial Saturation, Via Natural or Artificial Opening",4A107R,2016,2027
+4A108,Via Natural or Artificial Opening Endoscopic,4A10,2018,2027
+4A1084,Electrical Activity,4A108,2018,2027
+4A1084G,"Monitoring of Central Nervous Electrical Activity, Intraoperative, Via Natural or Artificial Opening Endoscopic",4A1084,2018,2027
+4A1084Z,"Monitoring of Central Nervous Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A1084,2018,2027
+4A108B,Pressure,4A108,2018,2027
+4A108BD,"Monitoring of Intracranial Pressure, Via Natural or Artificial Opening Endoscopic",4A108B,2018,2027
+4A108K,Temperature,4A108,2018,2027
+4A108KD,"Monitoring of Intracranial Temperature, Via Natural or Artificial Opening Endoscopic",4A108K,2018,2027
+4A108R,Saturation,4A108,2018,2027
+4A108RD,"Monitoring of Intracranial Saturation, Via Natural or Artificial Opening Endoscopic",4A108R,2018,2027
+4A10X,External,4A10,2016,2027
+4A10X2,Conductivity,4A10X,2016,2027
+4A10X2Z,"Monitoring of Central Nervous Conductivity, External Approach",4A10X2,2016,2027
+4A10X4,Electrical Activity,4A10X,2016,2027
+4A10X4G,"Monitoring of Central Nervous Electrical Activity, Intraoperative, External Approach",4A10X4,2016,2027
+4A10X4Z,"Monitoring of Central Nervous Electrical Activity, External Approach",4A10X4,2016,2027
+4A11,Peripheral Nervous,4A1,2016,2027
+4A110,Open,4A11,2016,2027
+4A1102,Conductivity,4A110,2016,2027
+4A11029,"Monitoring of Peripheral Nervous Conductivity, Sensory, Open Approach",4A1102,2016,2027
+4A1102B,"Monitoring of Peripheral Nervous Conductivity, Motor, Open Approach",4A1102,2016,2027
+4A1104,Electrical Activity,4A110,2016,2027
+4A1104G,"Monitoring of Peripheral Nervous Electrical Activity, Intraoperative, Open Approach",4A1104,2016,2027
+4A1104Z,"Monitoring of Peripheral Nervous Electrical Activity, Open Approach",4A1104,2016,2027
+4A113,Percutaneous,4A11,2016,2027
+4A1132,Conductivity,4A113,2016,2027
+4A11329,"Monitoring of Peripheral Nervous Conductivity, Sensory, Percutaneous Approach",4A1132,2016,2027
+4A1132B,"Monitoring of Peripheral Nervous Conductivity, Motor, Percutaneous Approach",4A1132,2016,2027
+4A1134,Electrical Activity,4A113,2016,2027
+4A1134G,"Monitoring of Peripheral Nervous Electrical Activity, Intraoperative, Percutaneous Approach",4A1134,2016,2027
+4A1134Z,"Monitoring of Peripheral Nervous Electrical Activity, Percutaneous Approach",4A1134,2016,2027
+4A117,Via Natural or Artificial Opening,4A11,2018,2027
+4A1172,Conductivity,4A117,2018,2027
+4A11729,"Monitoring of Peripheral Nervous Conductivity, Sensory, Via Natural or Artificial Opening",4A1172,2018,2027
+4A1172B,"Monitoring of Peripheral Nervous Conductivity, Motor, Via Natural or Artificial Opening",4A1172,2018,2027
+4A1174,Electrical Activity,4A117,2018,2027
+4A1174G,"Monitoring of Peripheral Nervous Electrical Activity, Intraoperative, Via Natural or Artificial Opening",4A1174,2018,2027
+4A1174Z,"Monitoring of Peripheral Nervous Electrical Activity, Via Natural or Artificial Opening",4A1174,2018,2027
+4A118,Via Natural or Artificial Opening Endoscopic,4A11,2018,2027
+4A1182,Conductivity,4A118,2018,2027
+4A11829,"Monitoring of Peripheral Nervous Conductivity, Sensory, Via Natural or Artificial Opening Endoscopic",4A1182,2018,2027
+4A1182B,"Monitoring of Peripheral Nervous Conductivity, Motor, Via Natural or Artificial Opening Endoscopic",4A1182,2018,2027
+4A1184,Electrical Activity,4A118,2018,2027
+4A1184G,"Monitoring of Peripheral Nervous Electrical Activity, Intraoperative, Via Natural or Artificial Opening Endoscopic",4A1184,2018,2027
+4A1184Z,"Monitoring of Peripheral Nervous Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A1184,2018,2027
+4A11X,External,4A11,2016,2027
+4A11X2,Conductivity,4A11X,2016,2027
+4A11X29,"Monitoring of Peripheral Nervous Conductivity, Sensory, External Approach",4A11X2,2016,2027
+4A11X2B,"Monitoring of Peripheral Nervous Conductivity, Motor, External Approach",4A11X2,2016,2027
+4A11X4,Electrical Activity,4A11X,2016,2027
+4A11X4G,"Monitoring of Peripheral Nervous Electrical Activity, Intraoperative, External Approach",4A11X4,2016,2027
+4A11X4Z,"Monitoring of Peripheral Nervous Electrical Activity, External Approach",4A11X4,2016,2027
+4A12,Cardiac,4A1,2016,2027
+4A120,Open,4A12,2016,2027
+4A1204,Electrical Activity,4A120,2016,2027
+4A1204Z,"Monitoring of Cardiac Electrical Activity, Open Approach",4A1204,2016,2027
+4A1209,Output,4A120,2016,2027
+4A1209Z,"Monitoring of Cardiac Output, Open Approach",4A1209,2016,2027
+4A120C,Rate,4A120,2016,2027
+4A120CZ,"Monitoring of Cardiac Rate, Open Approach",4A120C,2016,2027
+4A120F,Rhythm,4A120,2016,2027
+4A120FZ,"Monitoring of Cardiac Rhythm, Open Approach",4A120F,2016,2027
+4A120H,Sound,4A120,2016,2027
+4A120HZ,"Monitoring of Cardiac Sound, Open Approach",4A120H,2016,2027
+4A123,Percutaneous,4A12,2016,2027
+4A1234,Electrical Activity,4A123,2016,2027
+4A1234Z,"Monitoring of Cardiac Electrical Activity, Percutaneous Approach",4A1234,2016,2027
+4A1239,Output,4A123,2016,2027
+4A1239Z,"Monitoring of Cardiac Output, Percutaneous Approach",4A1239,2016,2027
+4A123C,Rate,4A123,2016,2027
+4A123CZ,"Monitoring of Cardiac Rate, Percutaneous Approach",4A123C,2016,2027
+4A123F,Rhythm,4A123,2016,2027
+4A123FZ,"Monitoring of Cardiac Rhythm, Percutaneous Approach",4A123F,2016,2027
+4A123H,Sound,4A123,2016,2027
+4A123HZ,"Monitoring of Cardiac Sound, Percutaneous Approach",4A123H,2016,2027
+4A127,Via Natural or Artificial Opening,4A12,2018,2027
+4A1274,Electrical Activity,4A127,2018,2027
+4A1274Z,"Monitoring of Cardiac Electrical Activity, Via Natural or Artificial Opening",4A1274,2018,2027
+4A1279,Output,4A127,2018,2027
+4A1279Z,"Monitoring of Cardiac Output, Via Natural or Artificial Opening",4A1279,2018,2027
+4A127C,Rate,4A127,2018,2027
+4A127CZ,"Monitoring of Cardiac Rate, Via Natural or Artificial Opening",4A127C,2018,2027
+4A127F,Rhythm,4A127,2018,2027
+4A127FZ,"Monitoring of Cardiac Rhythm, Via Natural or Artificial Opening",4A127F,2018,2027
+4A127H,Sound,4A127,2018,2027
+4A127HZ,"Monitoring of Cardiac Sound, Via Natural or Artificial Opening",4A127H,2018,2027
+4A128,Via Natural or Artificial Opening Endoscopic,4A12,2018,2027
+4A1284,Electrical Activity,4A128,2018,2027
+4A1284Z,"Monitoring of Cardiac Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A1284,2018,2027
+4A1289,Output,4A128,2018,2027
+4A1289Z,"Monitoring of Cardiac Output, Via Natural or Artificial Opening Endoscopic",4A1289,2018,2027
+4A128C,Rate,4A128,2018,2027
+4A128CZ,"Monitoring of Cardiac Rate, Via Natural or Artificial Opening Endoscopic",4A128C,2018,2027
+4A128F,Rhythm,4A128,2018,2027
+4A128FZ,"Monitoring of Cardiac Rhythm, Via Natural or Artificial Opening Endoscopic",4A128F,2018,2027
+4A128H,Sound,4A128,2018,2027
+4A128HZ,"Monitoring of Cardiac Sound, Via Natural or Artificial Opening Endoscopic",4A128H,2018,2027
+4A12X,External,4A12,2016,2027
+4A12X4,Electrical Activity,4A12X,2016,2027
+4A12X45,"Monitoring of Cardiac Electrical Activity, Ambulatory, External Approach",4A12X4,2016,2027
+4A12X4Z,"Monitoring of Cardiac Electrical Activity, External Approach",4A12X4,2016,2027
+4A12X9,Output,4A12X,2016,2027
+4A12X9Z,"Monitoring of Cardiac Output, External Approach",4A12X9,2016,2027
+4A12XC,Rate,4A12X,2016,2027
+4A12XCZ,"Monitoring of Cardiac Rate, External Approach",4A12XC,2016,2027
+4A12XF,Rhythm,4A12X,2016,2027
+4A12XFZ,"Monitoring of Cardiac Rhythm, External Approach",4A12XF,2016,2027
+4A12XH,Sound,4A12X,2016,2027
+4A12XHZ,"Monitoring of Cardiac Sound, External Approach",4A12XH,2016,2027
+4A12XM,Total Activity,4A12X,2016,2027
+4A12XM4,"Monitoring of Cardiac Stress, External Approach",4A12XM,2016,2027
+4A12XS,Vascular Perfusion,4A12X,2017,2027
+4A12XSH,"Monitoring of Cardiac Vascular Perfusion using Indocyanine Green Dye, External Approach",4A12XS,2017,2027
+4A13,Arterial,4A1,2016,2027
+4A130,Open,4A13,2016,2027
+4A1305,Flow,4A130,2016,2027
+4A13051,"Monitoring of Arterial Flow, Peripheral, Open Approach",4A1305,2016,2027
+4A13053,"Monitoring of Arterial Flow, Pulmonary, Open Approach",4A1305,2016,2027
+4A1305C,"Monitoring of Arterial Flow, Coronary, Open Approach",4A1305,2016,2027
+4A130B,Pressure,4A130,2016,2027
+4A130B1,"Monitoring of Arterial Pressure, Peripheral, Open Approach",4A130B,2016,2027
+4A130B3,"Monitoring of Arterial Pressure, Pulmonary, Open Approach",4A130B,2016,2027
+4A130BC,"Monitoring of Arterial Pressure, Coronary, Open Approach",4A130B,2016,2027
+4A130H,Sound,4A130,2016,2027
+4A130H1,"Monitoring of Arterial Sound, Peripheral, Open Approach",4A130H,2016,2027
+4A130J,Pulse,4A130,2016,2027
+4A130J1,"Monitoring of Arterial Pulse, Peripheral, Open Approach",4A130J,2016,2027
+4A130J3,"Monitoring of Arterial Pulse, Pulmonary, Open Approach",4A130J,2016,2027
+4A130JC,"Monitoring of Arterial Pulse, Coronary, Open Approach",4A130J,2016,2027
+4A130R,Saturation,4A130,2016,2027
+4A130R1,"Monitoring of Arterial Saturation, Peripheral, Open Approach",4A130R,2016,2027
+4A133,Percutaneous,4A13,2016,2027
+4A1335,Flow,4A133,2016,2027
+4A13351,"Monitoring of Arterial Flow, Peripheral, Percutaneous Approach",4A1335,2016,2027
+4A13353,"Monitoring of Arterial Flow, Pulmonary, Percutaneous Approach",4A1335,2016,2027
+4A1335C,"Monitoring of Arterial Flow, Coronary, Percutaneous Approach",4A1335,2016,2027
+4A133B,Pressure,4A133,2016,2027
+4A133B1,"Monitoring of Arterial Pressure, Peripheral, Percutaneous Approach",4A133B,2016,2027
+4A133B3,"Monitoring of Arterial Pressure, Pulmonary, Percutaneous Approach",4A133B,2016,2027
+4A133BC,"Monitoring of Arterial Pressure, Coronary, Percutaneous Approach",4A133B,2016,2027
+4A133H,Sound,4A133,2016,2027
+4A133H1,"Monitoring of Arterial Sound, Peripheral, Percutaneous Approach",4A133H,2016,2027
+4A133J,Pulse,4A133,2016,2027
+4A133J1,"Monitoring of Arterial Pulse, Peripheral, Percutaneous Approach",4A133J,2016,2027
+4A133J3,"Monitoring of Arterial Pulse, Pulmonary, Percutaneous Approach",4A133J,2016,2027
+4A133JC,"Monitoring of Arterial Pulse, Coronary, Percutaneous Approach",4A133J,2016,2027
+4A133R,Saturation,4A133,2016,2027
+4A133R1,"Monitoring of Arterial Saturation, Peripheral, Percutaneous Approach",4A133R,2016,2027
+4A13X,External,4A13,2016,2027
+4A13X5,Flow,4A13X,2016,2027
+4A13X51,"Monitoring of Arterial Flow, Peripheral, External Approach",4A13X5,2016,2027
+4A13XB,Pressure,4A13X,2016,2027
+4A13XB1,"Monitoring of Arterial Pressure, Peripheral, External Approach",4A13XB,2016,2027
+4A13XH,Sound,4A13X,2016,2027
+4A13XH1,"Monitoring of Arterial Sound, Peripheral, External Approach",4A13XH,2016,2027
+4A13XJ,Pulse,4A13X,2016,2027
+4A13XJ1,"Monitoring of Arterial Pulse, Peripheral, External Approach",4A13XJ,2016,2027
+4A13XR,Saturation,4A13X,2016,2027
+4A13XR1,"Monitoring of Arterial Saturation, Peripheral, External Approach",4A13XR,2016,2027
+4A14,Venous,4A1,2016,2027
+4A140,Open,4A14,2016,2027
+4A1405,Flow,4A140,2016,2027
+4A14050,"Monitoring of Venous Flow, Central, Open Approach",4A1405,2016,2027
+4A14051,"Monitoring of Venous Flow, Peripheral, Open Approach",4A1405,2016,2027
+4A14052,"Monitoring of Venous Flow, Portal, Open Approach",4A1405,2016,2027
+4A14053,"Monitoring of Venous Flow, Pulmonary, Open Approach",4A1405,2016,2027
+4A140B,Pressure,4A140,2016,2027
+4A140B0,"Monitoring of Venous Pressure, Central, Open Approach",4A140B,2016,2027
+4A140B1,"Monitoring of Venous Pressure, Peripheral, Open Approach",4A140B,2016,2027
+4A140B2,"Monitoring of Venous Pressure, Portal, Open Approach",4A140B,2016,2027
+4A140B3,"Monitoring of Venous Pressure, Pulmonary, Open Approach",4A140B,2016,2027
+4A140J,Pulse,4A140,2016,2027
+4A140J0,"Monitoring of Venous Pulse, Central, Open Approach",4A140J,2016,2027
+4A140J1,"Monitoring of Venous Pulse, Peripheral, Open Approach",4A140J,2016,2027
+4A140J2,"Monitoring of Venous Pulse, Portal, Open Approach",4A140J,2016,2027
+4A140J3,"Monitoring of Venous Pulse, Pulmonary, Open Approach",4A140J,2016,2027
+4A140R,Saturation,4A140,2016,2027
+4A140R0,"Monitoring of Venous Saturation, Central, Open Approach",4A140R,2016,2027
+4A140R2,"Monitoring of Venous Saturation, Portal, Open Approach",4A140R,2016,2027
+4A140R3,"Monitoring of Venous Saturation, Pulmonary, Open Approach",4A140R,2016,2027
+4A143,Percutaneous,4A14,2016,2027
+4A1435,Flow,4A143,2016,2027
+4A14350,"Monitoring of Venous Flow, Central, Percutaneous Approach",4A1435,2016,2027
+4A14351,"Monitoring of Venous Flow, Peripheral, Percutaneous Approach",4A1435,2016,2027
+4A14352,"Monitoring of Venous Flow, Portal, Percutaneous Approach",4A1435,2016,2027
+4A14353,"Monitoring of Venous Flow, Pulmonary, Percutaneous Approach",4A1435,2016,2027
+4A143B,Pressure,4A143,2016,2027
+4A143B0,"Monitoring of Venous Pressure, Central, Percutaneous Approach",4A143B,2016,2027
+4A143B1,"Monitoring of Venous Pressure, Peripheral, Percutaneous Approach",4A143B,2016,2027
+4A143B2,"Monitoring of Venous Pressure, Portal, Percutaneous Approach",4A143B,2016,2027
+4A143B3,"Monitoring of Venous Pressure, Pulmonary, Percutaneous Approach",4A143B,2016,2027
+4A143J,Pulse,4A143,2016,2027
+4A143J0,"Monitoring of Venous Pulse, Central, Percutaneous Approach",4A143J,2016,2027
+4A143J1,"Monitoring of Venous Pulse, Peripheral, Percutaneous Approach",4A143J,2016,2027
+4A143J2,"Monitoring of Venous Pulse, Portal, Percutaneous Approach",4A143J,2016,2027
+4A143J3,"Monitoring of Venous Pulse, Pulmonary, Percutaneous Approach",4A143J,2016,2027
+4A143R,Saturation,4A143,2016,2027
+4A143R0,"Monitoring of Venous Saturation, Central, Percutaneous Approach",4A143R,2016,2027
+4A143R2,"Monitoring of Venous Saturation, Portal, Percutaneous Approach",4A143R,2016,2027
+4A143R3,"Monitoring of Venous Saturation, Pulmonary, Percutaneous Approach",4A143R,2016,2027
+4A14X,External,4A14,2016,2027
+4A14X5,Flow,4A14X,2016,2027
+4A14X51,"Monitoring of Venous Flow, Peripheral, External Approach",4A14X5,2016,2027
+4A14XB,Pressure,4A14X,2016,2027
+4A14XB1,"Monitoring of Venous Pressure, Peripheral, External Approach",4A14XB,2016,2027
+4A14XJ,Pulse,4A14X,2016,2027
+4A14XJ1,"Monitoring of Venous Pulse, Peripheral, External Approach",4A14XJ,2016,2027
+4A16,Lymphatic,4A1,2016,2027
+4A160,Open,4A16,2016,2027
+4A1605,Flow,4A160,2016,2027
+4A1605H,"Monitoring of Lymphatic Flow using Indocyanine Green Dye, Open Approach",4A1605,2020,2027
+4A1605Z,"Monitoring of Lymphatic Flow, Open Approach",4A1605,2016,2027
+4A160B,Pressure,4A160,2016,2027
+4A160BZ,"Monitoring of Lymphatic Pressure, Open Approach",4A160B,2016,2027
+4A163,Percutaneous,4A16,2016,2027
+4A1635,Flow,4A163,2016,2027
+4A1635H,"Monitoring of Lymphatic Flow using Indocyanine Green Dye, Percutaneous Approach",4A1635,2020,2027
+4A1635Z,"Monitoring of Lymphatic Flow, Percutaneous Approach",4A1635,2016,2027
+4A163B,Pressure,4A163,2016,2027
+4A163BZ,"Monitoring of Lymphatic Pressure, Percutaneous Approach",4A163B,2016,2027
+4A167,Via Natural or Artificial Opening,4A16,2018,2027
+4A1675,Flow,4A167,2018,2027
+4A1675H,"Monitoring of Lymphatic Flow using Indocyanine Green Dye, Via Natural or Artificial Opening",4A1675,2020,2027
+4A1675Z,"Monitoring of Lymphatic Flow, Via Natural or Artificial Opening",4A1675,2018,2027
+4A167B,Pressure,4A167,2018,2027
+4A167BZ,"Monitoring of Lymphatic Pressure, Via Natural or Artificial Opening",4A167B,2018,2027
+4A168,Via Natural or Artificial Opening Endoscopic,4A16,2018,2027
+4A1685,Flow,4A168,2018,2027
+4A1685H,"Monitoring of Lymphatic Flow using Indocyanine Green Dye, Via Natural or Artificial Opening Endoscopic",4A1685,2020,2027
+4A1685Z,"Monitoring of Lymphatic Flow, Via Natural or Artificial Opening Endoscopic",4A1685,2018,2027
+4A168B,Pressure,4A168,2018,2027
+4A168BZ,"Monitoring of Lymphatic Pressure, Via Natural or Artificial Opening Endoscopic",4A168B,2018,2027
+4A19,Respiratory,4A1,2016,2027
+4A197,Via Natural or Artificial Opening,4A19,2016,2027
+4A1971,Capacity,4A197,2016,2027
+4A1971Z,"Monitoring of Respiratory Capacity, Via Natural or Artificial Opening",4A1971,2016,2027
+4A1975,Flow,4A197,2016,2027
+4A1975Z,"Monitoring of Respiratory Flow, Via Natural or Artificial Opening",4A1975,2016,2027
+4A197C,Rate,4A197,2016,2027
+4A197CZ,"Monitoring of Respiratory Rate, Via Natural or Artificial Opening",4A197C,2016,2027
+4A197D,Resistance,4A197,2016,2027
+4A197DZ,"Monitoring of Respiratory Resistance, Via Natural or Artificial Opening",4A197D,2016,2027
+4A197L,Volume,4A197,2016,2027
+4A197LZ,"Monitoring of Respiratory Volume, Via Natural or Artificial Opening",4A197L,2016,2027
+4A19X,External,4A19,2016,2027
+4A19X1,Capacity,4A19X,2016,2027
+4A19X1Z,"Monitoring of Respiratory Capacity, External Approach",4A19X1,2016,2027
+4A19X5,Flow,4A19X,2016,2027
+4A19X5Z,"Monitoring of Respiratory Flow, External Approach",4A19X5,2016,2027
+4A19XC,Rate,4A19X,2016,2027
+4A19XCZ,"Monitoring of Respiratory Rate, External Approach",4A19XC,2016,2027
+4A19XD,Resistance,4A19X,2016,2027
+4A19XDZ,"Monitoring of Respiratory Resistance, External Approach",4A19XD,2016,2027
+4A19XL,Volume,4A19X,2016,2027
+4A19XLZ,"Monitoring of Respiratory Volume, External Approach",4A19XL,2016,2027
+4A1B,Gastrointestinal,4A1,2016,2027
+4A1B7,Via Natural or Artificial Opening,4A1B,2016,2027
+4A1B78,Motility,4A1B7,2016,2027
+4A1B78Z,"Monitoring of Gastrointestinal Motility, Via Natural or Artificial Opening",4A1B78,2016,2027
+4A1B7B,Pressure,4A1B7,2016,2027
+4A1B7BZ,"Monitoring of Gastrointestinal Pressure, Via Natural or Artificial Opening",4A1B7B,2016,2027
+4A1B7G,Secretion,4A1B7,2016,2027
+4A1B7GZ,"Monitoring of Gastrointestinal Secretion, Via Natural or Artificial Opening",4A1B7G,2016,2027
+4A1B8,Via Natural or Artificial Opening Endoscopic,4A1B,2016,2027
+4A1B88,Motility,4A1B8,2016,2027
+4A1B88Z,"Monitoring of Gastrointestinal Motility, Via Natural or Artificial Opening Endoscopic",4A1B88,2016,2027
+4A1B8B,Pressure,4A1B8,2016,2027
+4A1B8BZ,"Monitoring of Gastrointestinal Pressure, Via Natural or Artificial Opening Endoscopic",4A1B8B,2016,2027
+4A1B8G,Secretion,4A1B8,2016,2027
+4A1B8GZ,"Monitoring of Gastrointestinal Secretion, Via Natural or Artificial Opening Endoscopic",4A1B8G,2016,2027
+4A1BX,External,4A1B,2017,2027
+4A1BXS,Vascular Perfusion,4A1BX,2017,2027
+4A1BXSH,"Monitoring of Gastrointestinal Vascular Perfusion using Indocyanine Green Dye, External Approach",4A1BXS,2017,2027
+4A1D,Urinary,4A1,2016,2027
+4A1D7,Via Natural or Artificial Opening,4A1D,2016,2027
+4A1D73,Contractility,4A1D7,2016,2027
+4A1D73Z,"Monitoring of Urinary Contractility, Via Natural or Artificial Opening",4A1D73,2016,2027
+4A1D75,Flow,4A1D7,2016,2027
+4A1D75Z,"Monitoring of Urinary Flow, Via Natural or Artificial Opening",4A1D75,2016,2027
+4A1D7B,Pressure,4A1D7,2016,2027
+4A1D7BZ,"Monitoring of Urinary Pressure, Via Natural or Artificial Opening",4A1D7B,2016,2027
+4A1D7D,Resistance,4A1D7,2016,2027
+4A1D7DZ,"Monitoring of Urinary Resistance, Via Natural or Artificial Opening",4A1D7D,2016,2027
+4A1D7L,Volume,4A1D7,2016,2027
+4A1D7LZ,"Monitoring of Urinary Volume, Via Natural or Artificial Opening",4A1D7L,2016,2027
+4A1D8,Via Natural or Artificial Opening Endoscopic,4A1D,2018,2027
+4A1D83,Contractility,4A1D8,2018,2027
+4A1D83Z,"Monitoring of Urinary Contractility, Via Natural or Artificial Opening Endoscopic",4A1D83,2018,2027
+4A1D85,Flow,4A1D8,2018,2027
+4A1D85Z,"Monitoring of Urinary Flow, Via Natural or Artificial Opening Endoscopic",4A1D85,2018,2027
+4A1D8B,Pressure,4A1D8,2018,2027
+4A1D8BZ,"Monitoring of Urinary Pressure, Via Natural or Artificial Opening Endoscopic",4A1D8B,2018,2027
+4A1D8D,Resistance,4A1D8,2018,2027
+4A1D8DZ,"Monitoring of Urinary Resistance, Via Natural or Artificial Opening Endoscopic",4A1D8D,2018,2027
+4A1D8L,Volume,4A1D8,2018,2027
+4A1D8LZ,"Monitoring of Urinary Volume, Via Natural or Artificial Opening Endoscopic",4A1D8L,2018,2027
+4A1G,Skin and Breast,4A1,2017,2027
+4A1GX,External,4A1G,2017,2027
+4A1GXS,Vascular Perfusion,4A1GX,2017,2027
+4A1GXSH,"Monitoring of Skin and Breast Vascular Perfusion using Indocyanine Green Dye, External Approach",4A1GXS,2017,2027
+4A1H,"Products of Conception, Cardiac",4A1,2016,2027
+4A1H7,Via Natural or Artificial Opening,4A1H,2016,2027
+4A1H74,Electrical Activity,4A1H7,2016,2027
+4A1H74Z,"Monitoring of Products of Conception, Cardiac Electrical Activity, Via Natural or Artificial Opening",4A1H74,2016,2027
+4A1H7C,Rate,4A1H7,2016,2027
+4A1H7CZ,"Monitoring of Products of Conception, Cardiac Rate, Via Natural or Artificial Opening",4A1H7C,2016,2027
+4A1H7F,Rhythm,4A1H7,2016,2027
+4A1H7FZ,"Monitoring of Products of Conception, Cardiac Rhythm, Via Natural or Artificial Opening",4A1H7F,2016,2027
+4A1H7H,Sound,4A1H7,2016,2027
+4A1H7HZ,"Monitoring of Products of Conception, Cardiac Sound, Via Natural or Artificial Opening",4A1H7H,2016,2027
+4A1H8,Via Natural or Artificial Opening Endoscopic,4A1H,2016,2027
+4A1H84,Electrical Activity,4A1H8,2016,2027
+4A1H84Z,"Monitoring of Products of Conception, Cardiac Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A1H84,2016,2027
+4A1H8C,Rate,4A1H8,2016,2027
+4A1H8CZ,"Monitoring of Products of Conception, Cardiac Rate, Via Natural or Artificial Opening Endoscopic",4A1H8C,2016,2027
+4A1H8F,Rhythm,4A1H8,2016,2027
+4A1H8FZ,"Monitoring of Products of Conception, Cardiac Rhythm, Via Natural or Artificial Opening Endoscopic",4A1H8F,2016,2027
+4A1H8H,Sound,4A1H8,2016,2027
+4A1H8HZ,"Monitoring of Products of Conception, Cardiac Sound, Via Natural or Artificial Opening Endoscopic",4A1H8H,2016,2027
+4A1HX,External,4A1H,2016,2027
+4A1HX4,Electrical Activity,4A1HX,2016,2027
+4A1HX4Z,"Monitoring of Products of Conception, Cardiac Electrical Activity, External Approach",4A1HX4,2016,2027
+4A1HXC,Rate,4A1HX,2016,2027
+4A1HXCZ,"Monitoring of Products of Conception, Cardiac Rate, External Approach",4A1HXC,2016,2027
+4A1HXF,Rhythm,4A1HX,2016,2027
+4A1HXFZ,"Monitoring of Products of Conception, Cardiac Rhythm, External Approach",4A1HXF,2016,2027
+4A1HXH,Sound,4A1HX,2016,2027
+4A1HXHZ,"Monitoring of Products of Conception, Cardiac Sound, External Approach",4A1HXH,2016,2027
+4A1J,"Products of Conception, Nervous",4A1,2016,2027
+4A1J7,Via Natural or Artificial Opening,4A1J,2016,2027
+4A1J72,Conductivity,4A1J7,2016,2027
+4A1J72Z,"Monitoring of Products of Conception, Nervous Conductivity, Via Natural or Artificial Opening",4A1J72,2016,2027
+4A1J74,Electrical Activity,4A1J7,2016,2027
+4A1J74Z,"Monitoring of Products of Conception, Nervous Electrical Activity, Via Natural or Artificial Opening",4A1J74,2016,2027
+4A1J7B,Pressure,4A1J7,2016,2027
+4A1J7BZ,"Monitoring of Products of Conception, Nervous Pressure, Via Natural or Artificial Opening",4A1J7B,2016,2027
+4A1J8,Via Natural or Artificial Opening Endoscopic,4A1J,2016,2027
+4A1J82,Conductivity,4A1J8,2016,2027
+4A1J82Z,"Monitoring of Products of Conception, Nervous Conductivity, Via Natural or Artificial Opening Endoscopic",4A1J82,2016,2027
+4A1J84,Electrical Activity,4A1J8,2016,2027
+4A1J84Z,"Monitoring of Products of Conception, Nervous Electrical Activity, Via Natural or Artificial Opening Endoscopic",4A1J84,2016,2027
+4A1J8B,Pressure,4A1J8,2016,2027
+4A1J8BZ,"Monitoring of Products of Conception, Nervous Pressure, Via Natural or Artificial Opening Endoscopic",4A1J8B,2016,2027
+4A1JX,External,4A1J,2016,2027
+4A1JX2,Conductivity,4A1JX,2016,2027
+4A1JX2Z,"Monitoring of Products of Conception, Nervous Conductivity, External Approach",4A1JX2,2016,2027
+4A1JX4,Electrical Activity,4A1JX,2016,2027
+4A1JX4Z,"Monitoring of Products of Conception, Nervous Electrical Activity, External Approach",4A1JX4,2016,2027
+4A1JXB,Pressure,4A1JX,2016,2027
+4A1JXBZ,"Monitoring of Products of Conception, Nervous Pressure, External Approach",4A1JXB,2016,2027
+4A1Z,None,4A1,2016,2027
+4A1Z7,Via Natural or Artificial Opening,4A1Z,2016,2027
+4A1Z7K,Temperature,4A1Z7,2016,2027
+4A1Z7KZ,"Monitoring of Temperature, Via Natural or Artificial Opening",4A1Z7K,2016,2027
+4A1ZX,External,4A1Z,2016,2027
+4A1ZXK,Temperature,4A1ZX,2016,2027
+4A1ZXKZ,"Monitoring of Temperature, External Approach",4A1ZXK,2016,2027
+4A1ZXQ,Sleep,4A1ZX,2016,2027
+4A1ZXQZ,"Monitoring of Sleep, External Approach",4A1ZXQ,2016,2027

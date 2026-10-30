@@ -1,0 +1,913 @@
+code,description,parent,first_year,last_year
+BP,Non-Axial Upper Bones,B,2016,2027
+BP0,Plain Radiography,BP,2016,2027
+BP00,"Sternoclavicular Joint, Right",BP0,2016,2027
+BP00Z,None,BP00,2016,2027
+BP00ZZ,None,BP00Z,2016,2027
+BP00ZZZ,Plain Radiography of Right Sternoclavicular Joint,BP00ZZ,2016,2027
+BP01,"Sternoclavicular Joint, Left",BP0,2016,2027
+BP01Z,None,BP01,2016,2027
+BP01ZZ,None,BP01Z,2016,2027
+BP01ZZZ,Plain Radiography of Left Sternoclavicular Joint,BP01ZZ,2016,2027
+BP02,"Sternoclavicular Joints, Bilateral",BP0,2016,2027
+BP02Z,None,BP02,2016,2027
+BP02ZZ,None,BP02Z,2016,2027
+BP02ZZZ,Plain Radiography of Bilateral Sternoclavicular Joints,BP02ZZ,2016,2027
+BP03,"Acromioclavicular Joints, Bilateral",BP0,2016,2027
+BP03Z,None,BP03,2016,2027
+BP03ZZ,None,BP03Z,2016,2027
+BP03ZZZ,Plain Radiography of Bilateral Acromioclavicular Joints,BP03ZZ,2016,2027
+BP04,"Clavicle, Right",BP0,2016,2027
+BP04Z,None,BP04,2016,2027
+BP04ZZ,None,BP04Z,2016,2027
+BP04ZZZ,Plain Radiography of Right Clavicle,BP04ZZ,2016,2027
+BP05,"Clavicle, Left",BP0,2016,2027
+BP05Z,None,BP05,2016,2027
+BP05ZZ,None,BP05Z,2016,2027
+BP05ZZZ,Plain Radiography of Left Clavicle,BP05ZZ,2016,2027
+BP06,"Scapula, Right",BP0,2016,2027
+BP06Z,None,BP06,2016,2027
+BP06ZZ,None,BP06Z,2016,2027
+BP06ZZZ,Plain Radiography of Right Scapula,BP06ZZ,2016,2027
+BP07,"Scapula, Left",BP0,2016,2027
+BP07Z,None,BP07,2016,2027
+BP07ZZ,None,BP07Z,2016,2027
+BP07ZZZ,Plain Radiography of Left Scapula,BP07ZZ,2016,2027
+BP08,"Shoulder, Right",BP0,2016,2027
+BP080,High Osmolar,BP08,2016,2027
+BP080Z,None,BP080,2016,2027
+BP080ZZ,Plain Radiography of Right Shoulder using High Osmolar Contrast,BP080Z,2016,2027
+BP081,Low Osmolar,BP08,2016,2027
+BP081Z,None,BP081,2016,2027
+BP081ZZ,Plain Radiography of Right Shoulder using Low Osmolar Contrast,BP081Z,2016,2027
+BP08Y,Other Contrast,BP08,2016,2027
+BP08YZ,None,BP08Y,2016,2027
+BP08YZZ,Plain Radiography of Right Shoulder using Other Contrast,BP08YZ,2016,2027
+BP08Z,None,BP08,2016,2027
+BP08ZZ,None,BP08Z,2016,2027
+BP08ZZZ,Plain Radiography of Right Shoulder,BP08ZZ,2016,2027
+BP09,"Shoulder, Left",BP0,2016,2027
+BP090,High Osmolar,BP09,2016,2027
+BP090Z,None,BP090,2016,2027
+BP090ZZ,Plain Radiography of Left Shoulder using High Osmolar Contrast,BP090Z,2016,2027
+BP091,Low Osmolar,BP09,2016,2027
+BP091Z,None,BP091,2016,2027
+BP091ZZ,Plain Radiography of Left Shoulder using Low Osmolar Contrast,BP091Z,2016,2027
+BP09Y,Other Contrast,BP09,2016,2027
+BP09YZ,None,BP09Y,2016,2027
+BP09YZZ,Plain Radiography of Left Shoulder using Other Contrast,BP09YZ,2016,2027
+BP09Z,None,BP09,2016,2027
+BP09ZZ,None,BP09Z,2016,2027
+BP09ZZZ,Plain Radiography of Left Shoulder,BP09ZZ,2016,2027
+BP0A,"Humerus, Right",BP0,2016,2027
+BP0AZ,None,BP0A,2016,2027
+BP0AZZ,None,BP0AZ,2016,2027
+BP0AZZZ,Plain Radiography of Right Humerus,BP0AZZ,2016,2027
+BP0B,"Humerus, Left",BP0,2016,2027
+BP0BZ,None,BP0B,2016,2027
+BP0BZZ,None,BP0BZ,2016,2027
+BP0BZZZ,Plain Radiography of Left Humerus,BP0BZZ,2016,2027
+BP0C,"Hand/Finger Joint, Right",BP0,2016,2027
+BP0C0,High Osmolar,BP0C,2016,2027
+BP0C0Z,None,BP0C0,2016,2027
+BP0C0ZZ,Plain Radiography of Right Hand/Finger Joint using High Osmolar Contrast,BP0C0Z,2016,2027
+BP0C1,Low Osmolar,BP0C,2016,2027
+BP0C1Z,None,BP0C1,2016,2027
+BP0C1ZZ,Plain Radiography of Right Hand/Finger Joint using Low Osmolar Contrast,BP0C1Z,2016,2027
+BP0CY,Other Contrast,BP0C,2016,2027
+BP0CYZ,None,BP0CY,2016,2027
+BP0CYZZ,Plain Radiography of Right Hand/Finger Joint using Other Contrast,BP0CYZ,2016,2027
+BP0CZ,None,BP0C,2016,2027
+BP0CZZ,None,BP0CZ,2016,2027
+BP0CZZZ,Plain Radiography of Right Hand/Finger Joint,BP0CZZ,2016,2027
+BP0D,"Hand/Finger Joint, Left",BP0,2016,2027
+BP0D0,High Osmolar,BP0D,2016,2027
+BP0D0Z,None,BP0D0,2016,2027
+BP0D0ZZ,Plain Radiography of Left Hand/Finger Joint using High Osmolar Contrast,BP0D0Z,2016,2027
+BP0D1,Low Osmolar,BP0D,2016,2027
+BP0D1Z,None,BP0D1,2016,2027
+BP0D1ZZ,Plain Radiography of Left Hand/Finger Joint using Low Osmolar Contrast,BP0D1Z,2016,2027
+BP0DY,Other Contrast,BP0D,2016,2027
+BP0DYZ,None,BP0DY,2016,2027
+BP0DYZZ,Plain Radiography of Left Hand/Finger Joint using Other Contrast,BP0DYZ,2016,2027
+BP0DZ,None,BP0D,2016,2027
+BP0DZZ,None,BP0DZ,2016,2027
+BP0DZZZ,Plain Radiography of Left Hand/Finger Joint,BP0DZZ,2016,2027
+BP0E,"Upper Arm, Right",BP0,2016,2027
+BP0EZ,None,BP0E,2016,2027
+BP0EZZ,None,BP0EZ,2016,2027
+BP0EZZZ,Plain Radiography of Right Upper Arm,BP0EZZ,2016,2027
+BP0F,"Upper Arm, Left",BP0,2016,2027
+BP0FZ,None,BP0F,2016,2027
+BP0FZZ,None,BP0FZ,2016,2027
+BP0FZZZ,Plain Radiography of Left Upper Arm,BP0FZZ,2016,2027
+BP0G,"Elbow, Right",BP0,2016,2027
+BP0G0,High Osmolar,BP0G,2016,2027
+BP0G0Z,None,BP0G0,2016,2027
+BP0G0ZZ,Plain Radiography of Right Elbow using High Osmolar Contrast,BP0G0Z,2016,2027
+BP0G1,Low Osmolar,BP0G,2016,2027
+BP0G1Z,None,BP0G1,2016,2027
+BP0G1ZZ,Plain Radiography of Right Elbow using Low Osmolar Contrast,BP0G1Z,2016,2027
+BP0GY,Other Contrast,BP0G,2016,2027
+BP0GYZ,None,BP0GY,2016,2027
+BP0GYZZ,Plain Radiography of Right Elbow using Other Contrast,BP0GYZ,2016,2027
+BP0GZ,None,BP0G,2016,2027
+BP0GZZ,None,BP0GZ,2016,2027
+BP0GZZZ,Plain Radiography of Right Elbow,BP0GZZ,2016,2027
+BP0H,"Elbow, Left",BP0,2016,2027
+BP0H0,High Osmolar,BP0H,2016,2027
+BP0H0Z,None,BP0H0,2016,2027
+BP0H0ZZ,Plain Radiography of Left Elbow using High Osmolar Contrast,BP0H0Z,2016,2027
+BP0H1,Low Osmolar,BP0H,2016,2027
+BP0H1Z,None,BP0H1,2016,2027
+BP0H1ZZ,Plain Radiography of Left Elbow using Low Osmolar Contrast,BP0H1Z,2016,2027
+BP0HY,Other Contrast,BP0H,2016,2027
+BP0HYZ,None,BP0HY,2016,2027
+BP0HYZZ,Plain Radiography of Left Elbow using Other Contrast,BP0HYZ,2016,2027
+BP0HZ,None,BP0H,2016,2027
+BP0HZZ,None,BP0HZ,2016,2027
+BP0HZZZ,Plain Radiography of Left Elbow,BP0HZZ,2016,2027
+BP0J,"Forearm, Right",BP0,2016,2027
+BP0JZ,None,BP0J,2016,2027
+BP0JZZ,None,BP0JZ,2016,2027
+BP0JZZZ,Plain Radiography of Right Forearm,BP0JZZ,2016,2027
+BP0K,"Forearm, Left",BP0,2016,2027
+BP0KZ,None,BP0K,2016,2027
+BP0KZZ,None,BP0KZ,2016,2027
+BP0KZZZ,Plain Radiography of Left Forearm,BP0KZZ,2016,2027
+BP0L,"Wrist, Right",BP0,2016,2027
+BP0L0,High Osmolar,BP0L,2016,2027
+BP0L0Z,None,BP0L0,2016,2027
+BP0L0ZZ,Plain Radiography of Right Wrist using High Osmolar Contrast,BP0L0Z,2016,2027
+BP0L1,Low Osmolar,BP0L,2016,2027
+BP0L1Z,None,BP0L1,2016,2027
+BP0L1ZZ,Plain Radiography of Right Wrist using Low Osmolar Contrast,BP0L1Z,2016,2027
+BP0LY,Other Contrast,BP0L,2016,2027
+BP0LYZ,None,BP0LY,2016,2027
+BP0LYZZ,Plain Radiography of Right Wrist using Other Contrast,BP0LYZ,2016,2027
+BP0LZ,None,BP0L,2016,2027
+BP0LZZ,None,BP0LZ,2016,2027
+BP0LZZZ,Plain Radiography of Right Wrist,BP0LZZ,2016,2027
+BP0M,"Wrist, Left",BP0,2016,2027
+BP0M0,High Osmolar,BP0M,2016,2027
+BP0M0Z,None,BP0M0,2016,2027
+BP0M0ZZ,Plain Radiography of Left Wrist using High Osmolar Contrast,BP0M0Z,2016,2027
+BP0M1,Low Osmolar,BP0M,2016,2027
+BP0M1Z,None,BP0M1,2016,2027
+BP0M1ZZ,Plain Radiography of Left Wrist using Low Osmolar Contrast,BP0M1Z,2016,2027
+BP0MY,Other Contrast,BP0M,2016,2027
+BP0MYZ,None,BP0MY,2016,2027
+BP0MYZZ,Plain Radiography of Left Wrist using Other Contrast,BP0MYZ,2016,2027
+BP0MZ,None,BP0M,2016,2027
+BP0MZZ,None,BP0MZ,2016,2027
+BP0MZZZ,Plain Radiography of Left Wrist,BP0MZZ,2016,2027
+BP0N,"Hand, Right",BP0,2016,2027
+BP0NZ,None,BP0N,2016,2027
+BP0NZZ,None,BP0NZ,2016,2027
+BP0NZZZ,Plain Radiography of Right Hand,BP0NZZ,2016,2027
+BP0P,"Hand, Left",BP0,2016,2027
+BP0PZ,None,BP0P,2016,2027
+BP0PZZ,None,BP0PZ,2016,2027
+BP0PZZZ,Plain Radiography of Left Hand,BP0PZZ,2016,2027
+BP0R,"Finger(s), Right",BP0,2016,2027
+BP0RZ,None,BP0R,2016,2027
+BP0RZZ,None,BP0RZ,2016,2027
+BP0RZZZ,Plain Radiography of Right Finger(s),BP0RZZ,2016,2027
+BP0S,"Finger(s), Left",BP0,2016,2027
+BP0SZ,None,BP0S,2016,2027
+BP0SZZ,None,BP0SZ,2016,2027
+BP0SZZZ,Plain Radiography of Left Finger(s),BP0SZZ,2016,2027
+BP0X,"Ribs, Right",BP0,2016,2027
+BP0XZ,None,BP0X,2016,2027
+BP0XZZ,None,BP0XZ,2016,2027
+BP0XZZZ,Plain Radiography of Right Ribs,BP0XZZ,2016,2027
+BP0Y,"Ribs, Left",BP0,2016,2027
+BP0YZ,None,BP0Y,2016,2027
+BP0YZZ,None,BP0YZ,2016,2027
+BP0YZZZ,Plain Radiography of Left Ribs,BP0YZZ,2016,2027
+BP1,Fluoroscopy,BP,2016,2027
+BP10,"Sternoclavicular Joint, Right",BP1,2016,2027
+BP10Z,None,BP10,2016,2027
+BP10ZZ,None,BP10Z,2016,2027
+BP10ZZZ,Fluoroscopy of Right Sternoclavicular Joint,BP10ZZ,2016,2027
+BP11,"Sternoclavicular Joint, Left",BP1,2016,2027
+BP11Z,None,BP11,2016,2027
+BP11ZZ,None,BP11Z,2016,2027
+BP11ZZZ,Fluoroscopy of Left Sternoclavicular Joint,BP11ZZ,2016,2027
+BP12,"Sternoclavicular Joints, Bilateral",BP1,2016,2027
+BP12Z,None,BP12,2016,2027
+BP12ZZ,None,BP12Z,2016,2027
+BP12ZZZ,Fluoroscopy of Bilateral Sternoclavicular Joints,BP12ZZ,2016,2027
+BP13,"Acromioclavicular Joints, Bilateral",BP1,2016,2027
+BP13Z,None,BP13,2016,2027
+BP13ZZ,None,BP13Z,2016,2027
+BP13ZZZ,Fluoroscopy of Bilateral Acromioclavicular Joints,BP13ZZ,2016,2027
+BP14,"Clavicle, Right",BP1,2016,2027
+BP14Z,None,BP14,2016,2027
+BP14ZZ,None,BP14Z,2016,2027
+BP14ZZZ,Fluoroscopy of Right Clavicle,BP14ZZ,2016,2027
+BP15,"Clavicle, Left",BP1,2016,2027
+BP15Z,None,BP15,2016,2027
+BP15ZZ,None,BP15Z,2016,2027
+BP15ZZZ,Fluoroscopy of Left Clavicle,BP15ZZ,2016,2027
+BP16,"Scapula, Right",BP1,2016,2027
+BP16Z,None,BP16,2016,2027
+BP16ZZ,None,BP16Z,2016,2027
+BP16ZZZ,Fluoroscopy of Right Scapula,BP16ZZ,2016,2027
+BP17,"Scapula, Left",BP1,2016,2027
+BP17Z,None,BP17,2016,2027
+BP17ZZ,None,BP17Z,2016,2027
+BP17ZZZ,Fluoroscopy of Left Scapula,BP17ZZ,2016,2027
+BP18,"Shoulder, Right",BP1,2016,2027
+BP180,High Osmolar,BP18,2016,2027
+BP180Z,None,BP180,2016,2027
+BP180ZZ,Fluoroscopy of Right Shoulder using High Osmolar Contrast,BP180Z,2016,2027
+BP181,Low Osmolar,BP18,2016,2027
+BP181Z,None,BP181,2016,2027
+BP181ZZ,Fluoroscopy of Right Shoulder using Low Osmolar Contrast,BP181Z,2016,2027
+BP18Y,Other Contrast,BP18,2016,2027
+BP18YZ,None,BP18Y,2016,2027
+BP18YZZ,Fluoroscopy of Right Shoulder using Other Contrast,BP18YZ,2016,2027
+BP18Z,None,BP18,2016,2027
+BP18ZZ,None,BP18Z,2016,2027
+BP18ZZZ,Fluoroscopy of Right Shoulder,BP18ZZ,2016,2027
+BP19,"Shoulder, Left",BP1,2016,2027
+BP190,High Osmolar,BP19,2016,2027
+BP190Z,None,BP190,2016,2027
+BP190ZZ,Fluoroscopy of Left Shoulder using High Osmolar Contrast,BP190Z,2016,2027
+BP191,Low Osmolar,BP19,2016,2027
+BP191Z,None,BP191,2016,2027
+BP191ZZ,Fluoroscopy of Left Shoulder using Low Osmolar Contrast,BP191Z,2016,2027
+BP19Y,Other Contrast,BP19,2016,2027
+BP19YZ,None,BP19Y,2016,2027
+BP19YZZ,Fluoroscopy of Left Shoulder using Other Contrast,BP19YZ,2016,2027
+BP19Z,None,BP19,2016,2027
+BP19ZZ,None,BP19Z,2016,2027
+BP19ZZZ,Fluoroscopy of Left Shoulder,BP19ZZ,2016,2027
+BP1A,"Humerus, Right",BP1,2016,2027
+BP1AZ,None,BP1A,2016,2027
+BP1AZZ,None,BP1AZ,2016,2027
+BP1AZZZ,Fluoroscopy of Right Humerus,BP1AZZ,2016,2027
+BP1B,"Humerus, Left",BP1,2016,2027
+BP1BZ,None,BP1B,2016,2027
+BP1BZZ,None,BP1BZ,2016,2027
+BP1BZZZ,Fluoroscopy of Left Humerus,BP1BZZ,2016,2027
+BP1C,"Hand/Finger Joint, Right",BP1,2016,2027
+BP1C0,High Osmolar,BP1C,2016,2027
+BP1C0Z,None,BP1C0,2016,2027
+BP1C0ZZ,Fluoroscopy of Right Hand/Finger Joint using High Osmolar Contrast,BP1C0Z,2016,2027
+BP1C1,Low Osmolar,BP1C,2016,2027
+BP1C1Z,None,BP1C1,2016,2027
+BP1C1ZZ,Fluoroscopy of Right Hand/Finger Joint using Low Osmolar Contrast,BP1C1Z,2016,2027
+BP1CY,Other Contrast,BP1C,2016,2027
+BP1CYZ,None,BP1CY,2016,2027
+BP1CYZZ,Fluoroscopy of Right Hand/Finger Joint using Other Contrast,BP1CYZ,2016,2027
+BP1D,"Hand/Finger Joint, Left",BP1,2016,2027
+BP1D0,High Osmolar,BP1D,2016,2027
+BP1D0Z,None,BP1D0,2016,2027
+BP1D0ZZ,Fluoroscopy of Left Hand/Finger Joint using High Osmolar Contrast,BP1D0Z,2016,2027
+BP1D1,Low Osmolar,BP1D,2016,2027
+BP1D1Z,None,BP1D1,2016,2027
+BP1D1ZZ,Fluoroscopy of Left Hand/Finger Joint using Low Osmolar Contrast,BP1D1Z,2016,2027
+BP1DY,Other Contrast,BP1D,2016,2027
+BP1DYZ,None,BP1DY,2016,2027
+BP1DYZZ,Fluoroscopy of Left Hand/Finger Joint using Other Contrast,BP1DYZ,2016,2027
+BP1E,"Upper Arm, Right",BP1,2016,2027
+BP1EZ,None,BP1E,2016,2027
+BP1EZZ,None,BP1EZ,2016,2027
+BP1EZZZ,Fluoroscopy of Right Upper Arm,BP1EZZ,2016,2027
+BP1F,"Upper Arm, Left",BP1,2016,2027
+BP1FZ,None,BP1F,2016,2027
+BP1FZZ,None,BP1FZ,2016,2027
+BP1FZZZ,Fluoroscopy of Left Upper Arm,BP1FZZ,2016,2027
+BP1G,"Elbow, Right",BP1,2016,2027
+BP1G0,High Osmolar,BP1G,2016,2027
+BP1G0Z,None,BP1G0,2016,2027
+BP1G0ZZ,Fluoroscopy of Right Elbow using High Osmolar Contrast,BP1G0Z,2016,2027
+BP1G1,Low Osmolar,BP1G,2016,2027
+BP1G1Z,None,BP1G1,2016,2027
+BP1G1ZZ,Fluoroscopy of Right Elbow using Low Osmolar Contrast,BP1G1Z,2016,2027
+BP1GY,Other Contrast,BP1G,2016,2027
+BP1GYZ,None,BP1GY,2016,2027
+BP1GYZZ,Fluoroscopy of Right Elbow using Other Contrast,BP1GYZ,2016,2027
+BP1H,"Elbow, Left",BP1,2016,2027
+BP1H0,High Osmolar,BP1H,2016,2027
+BP1H0Z,None,BP1H0,2016,2027
+BP1H0ZZ,Fluoroscopy of Left Elbow using High Osmolar Contrast,BP1H0Z,2016,2027
+BP1H1,Low Osmolar,BP1H,2016,2027
+BP1H1Z,None,BP1H1,2016,2027
+BP1H1ZZ,Fluoroscopy of Left Elbow using Low Osmolar Contrast,BP1H1Z,2016,2027
+BP1HY,Other Contrast,BP1H,2016,2027
+BP1HYZ,None,BP1HY,2016,2027
+BP1HYZZ,Fluoroscopy of Left Elbow using Other Contrast,BP1HYZ,2016,2027
+BP1J,"Forearm, Right",BP1,2016,2027
+BP1JZ,None,BP1J,2016,2027
+BP1JZZ,None,BP1JZ,2016,2027
+BP1JZZZ,Fluoroscopy of Right Forearm,BP1JZZ,2016,2027
+BP1K,"Forearm, Left",BP1,2016,2027
+BP1KZ,None,BP1K,2016,2027
+BP1KZZ,None,BP1KZ,2016,2027
+BP1KZZZ,Fluoroscopy of Left Forearm,BP1KZZ,2016,2027
+BP1L,"Wrist, Right",BP1,2016,2027
+BP1L0,High Osmolar,BP1L,2016,2027
+BP1L0Z,None,BP1L0,2016,2027
+BP1L0ZZ,Fluoroscopy of Right Wrist using High Osmolar Contrast,BP1L0Z,2016,2027
+BP1L1,Low Osmolar,BP1L,2016,2027
+BP1L1Z,None,BP1L1,2016,2027
+BP1L1ZZ,Fluoroscopy of Right Wrist using Low Osmolar Contrast,BP1L1Z,2016,2027
+BP1LY,Other Contrast,BP1L,2016,2027
+BP1LYZ,None,BP1LY,2016,2027
+BP1LYZZ,Fluoroscopy of Right Wrist using Other Contrast,BP1LYZ,2016,2027
+BP1LZ,None,BP1L,2016,2027
+BP1LZZ,None,BP1LZ,2016,2027
+BP1LZZZ,Fluoroscopy of Right Wrist,BP1LZZ,2016,2027
+BP1M,"Wrist, Left",BP1,2016,2027
+BP1M0,High Osmolar,BP1M,2016,2027
+BP1M0Z,None,BP1M0,2016,2027
+BP1M0ZZ,Fluoroscopy of Left Wrist using High Osmolar Contrast,BP1M0Z,2016,2027
+BP1M1,Low Osmolar,BP1M,2016,2027
+BP1M1Z,None,BP1M1,2016,2027
+BP1M1ZZ,Fluoroscopy of Left Wrist using Low Osmolar Contrast,BP1M1Z,2016,2027
+BP1MY,Other Contrast,BP1M,2016,2027
+BP1MYZ,None,BP1MY,2016,2027
+BP1MYZZ,Fluoroscopy of Left Wrist using Other Contrast,BP1MYZ,2016,2027
+BP1MZ,None,BP1M,2016,2027
+BP1MZZ,None,BP1MZ,2016,2027
+BP1MZZZ,Fluoroscopy of Left Wrist,BP1MZZ,2016,2027
+BP1N,"Hand, Right",BP1,2016,2027
+BP1NZ,None,BP1N,2016,2027
+BP1NZZ,None,BP1NZ,2016,2027
+BP1NZZZ,Fluoroscopy of Right Hand,BP1NZZ,2016,2027
+BP1P,"Hand, Left",BP1,2016,2027
+BP1PZ,None,BP1P,2016,2027
+BP1PZZ,None,BP1PZ,2016,2027
+BP1PZZZ,Fluoroscopy of Left Hand,BP1PZZ,2016,2027
+BP1R,"Finger(s), Right",BP1,2016,2027
+BP1RZ,None,BP1R,2016,2027
+BP1RZZ,None,BP1RZ,2016,2027
+BP1RZZZ,Fluoroscopy of Right Finger(s),BP1RZZ,2016,2027
+BP1S,"Finger(s), Left",BP1,2016,2027
+BP1SZ,None,BP1S,2016,2027
+BP1SZZ,None,BP1SZ,2016,2027
+BP1SZZZ,Fluoroscopy of Left Finger(s),BP1SZZ,2016,2027
+BP1X,"Ribs, Right",BP1,2016,2027
+BP1XZ,None,BP1X,2016,2027
+BP1XZZ,None,BP1XZ,2016,2027
+BP1XZZZ,Fluoroscopy of Right Ribs,BP1XZZ,2016,2027
+BP1Y,"Ribs, Left",BP1,2016,2027
+BP1YZ,None,BP1Y,2016,2027
+BP1YZZ,None,BP1YZ,2016,2027
+BP1YZZZ,Fluoroscopy of Left Ribs,BP1YZZ,2016,2027
+BP2,Computerized Tomography (CT Scan),BP,2016,2027
+BP20,"Sternoclavicular Joint, Right",BP2,2016,2027
+BP200,High Osmolar,BP20,2016,2027
+BP200Z,None,BP200,2016,2027
+BP200ZZ,Computerized Tomography (CT Scan) of Right Sternoclavicular Joint using High Osmolar Contrast,BP200Z,2016,2027
+BP201,Low Osmolar,BP20,2016,2027
+BP201Z,None,BP201,2016,2027
+BP201ZZ,Computerized Tomography (CT Scan) of Right Sternoclavicular Joint using Low Osmolar Contrast,BP201Z,2016,2027
+BP20Y,Other Contrast,BP20,2016,2027
+BP20YZ,None,BP20Y,2016,2027
+BP20YZZ,Computerized Tomography (CT Scan) of Right Sternoclavicular Joint using Other Contrast,BP20YZ,2016,2027
+BP21,"Sternoclavicular Joint, Left",BP2,2016,2027
+BP210,High Osmolar,BP21,2016,2027
+BP210Z,None,BP210,2016,2027
+BP210ZZ,Computerized Tomography (CT Scan) of Left Sternoclavicular Joint using High Osmolar Contrast,BP210Z,2016,2027
+BP211,Low Osmolar,BP21,2016,2027
+BP211Z,None,BP211,2016,2027
+BP211ZZ,Computerized Tomography (CT Scan) of Left Sternoclavicular Joint using Low Osmolar Contrast,BP211Z,2016,2027
+BP21Y,Other Contrast,BP21,2016,2027
+BP21YZ,None,BP21Y,2016,2027
+BP21YZZ,Computerized Tomography (CT Scan) of Left Sternoclavicular Joint using Other Contrast,BP21YZ,2016,2027
+BP22,"Sternoclavicular Joints, Bilateral",BP2,2016,2027
+BP220,High Osmolar,BP22,2016,2027
+BP220Z,None,BP220,2016,2027
+BP220ZZ,Computerized Tomography (CT Scan) of Bilateral Sternoclavicular Joints using High Osmolar Contrast,BP220Z,2016,2027
+BP221,Low Osmolar,BP22,2016,2027
+BP221Z,None,BP221,2016,2027
+BP221ZZ,Computerized Tomography (CT Scan) of Bilateral Sternoclavicular Joints using Low Osmolar Contrast,BP221Z,2016,2027
+BP22Y,Other Contrast,BP22,2016,2027
+BP22YZ,None,BP22Y,2016,2027
+BP22YZZ,Computerized Tomography (CT Scan) of Bilateral Sternoclavicular Joints using Other Contrast,BP22YZ,2016,2027
+BP22Z,None,BP22,2016,2027
+BP22ZZ,None,BP22Z,2016,2027
+BP22ZZZ,Computerized Tomography (CT Scan) of Bilateral Sternoclavicular Joints,BP22ZZ,2016,2027
+BP23,"Acromioclavicular Joints, Bilateral",BP2,2016,2027
+BP230,High Osmolar,BP23,2016,2027
+BP230Z,None,BP230,2016,2027
+BP230ZZ,Computerized Tomography (CT Scan) of Bilateral Acromioclavicular Joints using High Osmolar Contrast,BP230Z,2016,2027
+BP231,Low Osmolar,BP23,2016,2027
+BP231Z,None,BP231,2016,2027
+BP231ZZ,Computerized Tomography (CT Scan) of Bilateral Acromioclavicular Joints using Low Osmolar Contrast,BP231Z,2016,2027
+BP23Y,Other Contrast,BP23,2016,2027
+BP23YZ,None,BP23Y,2016,2027
+BP23YZZ,Computerized Tomography (CT Scan) of Bilateral Acromioclavicular Joints using Other Contrast,BP23YZ,2016,2027
+BP23Z,None,BP23,2016,2027
+BP23ZZ,None,BP23Z,2016,2027
+BP23ZZZ,Computerized Tomography (CT Scan) of Bilateral Acromioclavicular Joints,BP23ZZ,2016,2027
+BP24,"Clavicle, Right",BP2,2016,2027
+BP240,High Osmolar,BP24,2016,2027
+BP240Z,None,BP240,2016,2027
+BP240ZZ,Computerized Tomography (CT Scan) of Right Clavicle using High Osmolar Contrast,BP240Z,2016,2027
+BP241,Low Osmolar,BP24,2016,2027
+BP241Z,None,BP241,2016,2027
+BP241ZZ,Computerized Tomography (CT Scan) of Right Clavicle using Low Osmolar Contrast,BP241Z,2016,2027
+BP24Y,Other Contrast,BP24,2016,2027
+BP24YZ,None,BP24Y,2016,2027
+BP24YZZ,Computerized Tomography (CT Scan) of Right Clavicle using Other Contrast,BP24YZ,2016,2027
+BP24Z,None,BP24,2016,2027
+BP24ZZ,None,BP24Z,2016,2027
+BP24ZZZ,Computerized Tomography (CT Scan) of Right Clavicle,BP24ZZ,2016,2027
+BP25,"Clavicle, Left",BP2,2016,2027
+BP250,High Osmolar,BP25,2016,2027
+BP250Z,None,BP250,2016,2027
+BP250ZZ,Computerized Tomography (CT Scan) of Left Clavicle using High Osmolar Contrast,BP250Z,2016,2027
+BP251,Low Osmolar,BP25,2016,2027
+BP251Z,None,BP251,2016,2027
+BP251ZZ,Computerized Tomography (CT Scan) of Left Clavicle using Low Osmolar Contrast,BP251Z,2016,2027
+BP25Y,Other Contrast,BP25,2016,2027
+BP25YZ,None,BP25Y,2016,2027
+BP25YZZ,Computerized Tomography (CT Scan) of Left Clavicle using Other Contrast,BP25YZ,2016,2027
+BP25Z,None,BP25,2016,2027
+BP25ZZ,None,BP25Z,2016,2027
+BP25ZZZ,Computerized Tomography (CT Scan) of Left Clavicle,BP25ZZ,2016,2027
+BP26,"Scapula, Right",BP2,2016,2027
+BP260,High Osmolar,BP26,2016,2027
+BP260Z,None,BP260,2016,2027
+BP260ZZ,Computerized Tomography (CT Scan) of Right Scapula using High Osmolar Contrast,BP260Z,2016,2027
+BP261,Low Osmolar,BP26,2016,2027
+BP261Z,None,BP261,2016,2027
+BP261ZZ,Computerized Tomography (CT Scan) of Right Scapula using Low Osmolar Contrast,BP261Z,2016,2027
+BP26Y,Other Contrast,BP26,2016,2027
+BP26YZ,None,BP26Y,2016,2027
+BP26YZZ,Computerized Tomography (CT Scan) of Right Scapula using Other Contrast,BP26YZ,2016,2027
+BP26Z,None,BP26,2016,2027
+BP26ZZ,None,BP26Z,2016,2027
+BP26ZZZ,Computerized Tomography (CT Scan) of Right Scapula,BP26ZZ,2016,2027
+BP27,"Scapula, Left",BP2,2016,2027
+BP270,High Osmolar,BP27,2016,2027
+BP270Z,None,BP270,2016,2027
+BP270ZZ,Computerized Tomography (CT Scan) of Left Scapula using High Osmolar Contrast,BP270Z,2016,2027
+BP271,Low Osmolar,BP27,2016,2027
+BP271Z,None,BP271,2016,2027
+BP271ZZ,Computerized Tomography (CT Scan) of Left Scapula using Low Osmolar Contrast,BP271Z,2016,2027
+BP27Y,Other Contrast,BP27,2016,2027
+BP27YZ,None,BP27Y,2016,2027
+BP27YZZ,Computerized Tomography (CT Scan) of Left Scapula using Other Contrast,BP27YZ,2016,2027
+BP27Z,None,BP27,2016,2027
+BP27ZZ,None,BP27Z,2016,2027
+BP27ZZZ,Computerized Tomography (CT Scan) of Left Scapula,BP27ZZ,2016,2027
+BP28,"Shoulder, Right",BP2,2016,2027
+BP280,High Osmolar,BP28,2016,2027
+BP280Z,None,BP280,2016,2027
+BP280ZZ,Computerized Tomography (CT Scan) of Right Shoulder using High Osmolar Contrast,BP280Z,2016,2027
+BP281,Low Osmolar,BP28,2016,2027
+BP281Z,None,BP281,2016,2027
+BP281ZZ,Computerized Tomography (CT Scan) of Right Shoulder using Low Osmolar Contrast,BP281Z,2016,2027
+BP28Y,Other Contrast,BP28,2016,2027
+BP28YZ,None,BP28Y,2016,2027
+BP28YZZ,Computerized Tomography (CT Scan) of Right Shoulder using Other Contrast,BP28YZ,2016,2027
+BP28Z,None,BP28,2016,2027
+BP28ZZ,None,BP28Z,2016,2027
+BP28ZZZ,Computerized Tomography (CT Scan) of Right Shoulder,BP28ZZ,2016,2027
+BP29,"Shoulder, Left",BP2,2016,2027
+BP290,High Osmolar,BP29,2016,2027
+BP290Z,None,BP290,2016,2027
+BP290ZZ,Computerized Tomography (CT Scan) of Left Shoulder using High Osmolar Contrast,BP290Z,2016,2027
+BP291,Low Osmolar,BP29,2016,2027
+BP291Z,None,BP291,2016,2027
+BP291ZZ,Computerized Tomography (CT Scan) of Left Shoulder using Low Osmolar Contrast,BP291Z,2016,2027
+BP29Y,Other Contrast,BP29,2016,2027
+BP29YZ,None,BP29Y,2016,2027
+BP29YZZ,Computerized Tomography (CT Scan) of Left Shoulder using Other Contrast,BP29YZ,2016,2027
+BP29Z,None,BP29,2016,2027
+BP29ZZ,None,BP29Z,2016,2027
+BP29ZZZ,Computerized Tomography (CT Scan) of Left Shoulder,BP29ZZ,2016,2027
+BP2A,"Humerus, Right",BP2,2016,2027
+BP2A0,High Osmolar,BP2A,2016,2027
+BP2A0Z,None,BP2A0,2016,2027
+BP2A0ZZ,Computerized Tomography (CT Scan) of Right Humerus using High Osmolar Contrast,BP2A0Z,2016,2027
+BP2A1,Low Osmolar,BP2A,2016,2027
+BP2A1Z,None,BP2A1,2016,2027
+BP2A1ZZ,Computerized Tomography (CT Scan) of Right Humerus using Low Osmolar Contrast,BP2A1Z,2016,2027
+BP2AY,Other Contrast,BP2A,2016,2027
+BP2AYZ,None,BP2AY,2016,2027
+BP2AYZZ,Computerized Tomography (CT Scan) of Right Humerus using Other Contrast,BP2AYZ,2016,2027
+BP2AZ,None,BP2A,2016,2027
+BP2AZZ,None,BP2AZ,2016,2027
+BP2AZZZ,Computerized Tomography (CT Scan) of Right Humerus,BP2AZZ,2016,2027
+BP2B,"Humerus, Left",BP2,2016,2027
+BP2B0,High Osmolar,BP2B,2016,2027
+BP2B0Z,None,BP2B0,2016,2027
+BP2B0ZZ,Computerized Tomography (CT Scan) of Left Humerus using High Osmolar Contrast,BP2B0Z,2016,2027
+BP2B1,Low Osmolar,BP2B,2016,2027
+BP2B1Z,None,BP2B1,2016,2027
+BP2B1ZZ,Computerized Tomography (CT Scan) of Left Humerus using Low Osmolar Contrast,BP2B1Z,2016,2027
+BP2BY,Other Contrast,BP2B,2016,2027
+BP2BYZ,None,BP2BY,2016,2027
+BP2BYZZ,Computerized Tomography (CT Scan) of Left Humerus using Other Contrast,BP2BYZ,2016,2027
+BP2BZ,None,BP2B,2016,2027
+BP2BZZ,None,BP2BZ,2016,2027
+BP2BZZZ,Computerized Tomography (CT Scan) of Left Humerus,BP2BZZ,2016,2027
+BP2C,"Hand/Finger Joint, Right",BP2,2016,2027
+BP2CZ,None,BP2C,2016,2027
+BP2CZZ,None,BP2CZ,2016,2027
+BP2CZZZ,Computerized Tomography (CT Scan) of Right Hand/Finger Joint,BP2CZZ,2016,2027
+BP2D,"Hand/Finger Joint, Left",BP2,2016,2027
+BP2DZ,None,BP2D,2016,2027
+BP2DZZ,None,BP2DZ,2016,2027
+BP2DZZZ,Computerized Tomography (CT Scan) of Left Hand/Finger Joint,BP2DZZ,2016,2027
+BP2E,"Upper Arm, Right",BP2,2016,2027
+BP2E0,High Osmolar,BP2E,2016,2027
+BP2E0Z,None,BP2E0,2016,2027
+BP2E0ZZ,Computerized Tomography (CT Scan) of Right Upper Arm using High Osmolar Contrast,BP2E0Z,2016,2027
+BP2E1,Low Osmolar,BP2E,2016,2027
+BP2E1Z,None,BP2E1,2016,2027
+BP2E1ZZ,Computerized Tomography (CT Scan) of Right Upper Arm using Low Osmolar Contrast,BP2E1Z,2016,2027
+BP2EY,Other Contrast,BP2E,2016,2027
+BP2EYZ,None,BP2EY,2016,2027
+BP2EYZZ,Computerized Tomography (CT Scan) of Right Upper Arm using Other Contrast,BP2EYZ,2016,2027
+BP2EZ,None,BP2E,2016,2027
+BP2EZZ,None,BP2EZ,2016,2027
+BP2EZZZ,Computerized Tomography (CT Scan) of Right Upper Arm,BP2EZZ,2016,2027
+BP2F,"Upper Arm, Left",BP2,2016,2027
+BP2F0,High Osmolar,BP2F,2016,2027
+BP2F0Z,None,BP2F0,2016,2027
+BP2F0ZZ,Computerized Tomography (CT Scan) of Left Upper Arm using High Osmolar Contrast,BP2F0Z,2016,2027
+BP2F1,Low Osmolar,BP2F,2016,2027
+BP2F1Z,None,BP2F1,2016,2027
+BP2F1ZZ,Computerized Tomography (CT Scan) of Left Upper Arm using Low Osmolar Contrast,BP2F1Z,2016,2027
+BP2FY,Other Contrast,BP2F,2016,2027
+BP2FYZ,None,BP2FY,2016,2027
+BP2FYZZ,Computerized Tomography (CT Scan) of Left Upper Arm using Other Contrast,BP2FYZ,2016,2027
+BP2FZ,None,BP2F,2016,2027
+BP2FZZ,None,BP2FZ,2016,2027
+BP2FZZZ,Computerized Tomography (CT Scan) of Left Upper Arm,BP2FZZ,2016,2027
+BP2G,"Elbow, Right",BP2,2016,2027
+BP2G0,High Osmolar,BP2G,2016,2027
+BP2G0Z,None,BP2G0,2016,2027
+BP2G0ZZ,Computerized Tomography (CT Scan) of Right Elbow using High Osmolar Contrast,BP2G0Z,2016,2027
+BP2G1,Low Osmolar,BP2G,2016,2027
+BP2G1Z,None,BP2G1,2016,2027
+BP2G1ZZ,Computerized Tomography (CT Scan) of Right Elbow using Low Osmolar Contrast,BP2G1Z,2016,2027
+BP2GY,Other Contrast,BP2G,2016,2027
+BP2GYZ,None,BP2GY,2016,2027
+BP2GYZZ,Computerized Tomography (CT Scan) of Right Elbow using Other Contrast,BP2GYZ,2016,2027
+BP2GZ,None,BP2G,2016,2027
+BP2GZZ,None,BP2GZ,2016,2027
+BP2GZZZ,Computerized Tomography (CT Scan) of Right Elbow,BP2GZZ,2016,2027
+BP2H,"Elbow, Left",BP2,2016,2027
+BP2H0,High Osmolar,BP2H,2016,2027
+BP2H0Z,None,BP2H0,2016,2027
+BP2H0ZZ,Computerized Tomography (CT Scan) of Left Elbow using High Osmolar Contrast,BP2H0Z,2016,2027
+BP2H1,Low Osmolar,BP2H,2016,2027
+BP2H1Z,None,BP2H1,2016,2027
+BP2H1ZZ,Computerized Tomography (CT Scan) of Left Elbow using Low Osmolar Contrast,BP2H1Z,2016,2027
+BP2HY,Other Contrast,BP2H,2016,2027
+BP2HYZ,None,BP2HY,2016,2027
+BP2HYZZ,Computerized Tomography (CT Scan) of Left Elbow using Other Contrast,BP2HYZ,2016,2027
+BP2HZ,None,BP2H,2016,2027
+BP2HZZ,None,BP2HZ,2016,2027
+BP2HZZZ,Computerized Tomography (CT Scan) of Left Elbow,BP2HZZ,2016,2027
+BP2J,"Forearm, Right",BP2,2016,2027
+BP2J0,High Osmolar,BP2J,2016,2027
+BP2J0Z,None,BP2J0,2016,2027
+BP2J0ZZ,Computerized Tomography (CT Scan) of Right Forearm using High Osmolar Contrast,BP2J0Z,2016,2027
+BP2J1,Low Osmolar,BP2J,2016,2027
+BP2J1Z,None,BP2J1,2016,2027
+BP2J1ZZ,Computerized Tomography (CT Scan) of Right Forearm using Low Osmolar Contrast,BP2J1Z,2016,2027
+BP2JY,Other Contrast,BP2J,2016,2027
+BP2JYZ,None,BP2JY,2016,2027
+BP2JYZZ,Computerized Tomography (CT Scan) of Right Forearm using Other Contrast,BP2JYZ,2016,2027
+BP2JZ,None,BP2J,2016,2027
+BP2JZZ,None,BP2JZ,2016,2027
+BP2JZZZ,Computerized Tomography (CT Scan) of Right Forearm,BP2JZZ,2016,2027
+BP2K,"Forearm, Left",BP2,2016,2027
+BP2K0,High Osmolar,BP2K,2016,2027
+BP2K0Z,None,BP2K0,2016,2027
+BP2K0ZZ,Computerized Tomography (CT Scan) of Left Forearm using High Osmolar Contrast,BP2K0Z,2016,2027
+BP2K1,Low Osmolar,BP2K,2016,2027
+BP2K1Z,None,BP2K1,2016,2027
+BP2K1ZZ,Computerized Tomography (CT Scan) of Left Forearm using Low Osmolar Contrast,BP2K1Z,2016,2027
+BP2KY,Other Contrast,BP2K,2016,2027
+BP2KYZ,None,BP2KY,2016,2027
+BP2KYZZ,Computerized Tomography (CT Scan) of Left Forearm using Other Contrast,BP2KYZ,2016,2027
+BP2KZ,None,BP2K,2016,2027
+BP2KZZ,None,BP2KZ,2016,2027
+BP2KZZZ,Computerized Tomography (CT Scan) of Left Forearm,BP2KZZ,2016,2027
+BP2L,"Wrist, Right",BP2,2016,2027
+BP2L0,High Osmolar,BP2L,2016,2027
+BP2L0Z,None,BP2L0,2016,2027
+BP2L0ZZ,Computerized Tomography (CT Scan) of Right Wrist using High Osmolar Contrast,BP2L0Z,2016,2027
+BP2L1,Low Osmolar,BP2L,2016,2027
+BP2L1Z,None,BP2L1,2016,2027
+BP2L1ZZ,Computerized Tomography (CT Scan) of Right Wrist using Low Osmolar Contrast,BP2L1Z,2016,2027
+BP2LY,Other Contrast,BP2L,2016,2027
+BP2LYZ,None,BP2LY,2016,2027
+BP2LYZZ,Computerized Tomography (CT Scan) of Right Wrist using Other Contrast,BP2LYZ,2016,2027
+BP2LZ,None,BP2L,2016,2027
+BP2LZZ,None,BP2LZ,2016,2027
+BP2LZZZ,Computerized Tomography (CT Scan) of Right Wrist,BP2LZZ,2016,2027
+BP2M,"Wrist, Left",BP2,2016,2027
+BP2M0,High Osmolar,BP2M,2016,2027
+BP2M0Z,None,BP2M0,2016,2027
+BP2M0ZZ,Computerized Tomography (CT Scan) of Left Wrist using High Osmolar Contrast,BP2M0Z,2016,2027
+BP2M1,Low Osmolar,BP2M,2016,2027
+BP2M1Z,None,BP2M1,2016,2027
+BP2M1ZZ,Computerized Tomography (CT Scan) of Left Wrist using Low Osmolar Contrast,BP2M1Z,2016,2027
+BP2MY,Other Contrast,BP2M,2016,2027
+BP2MYZ,None,BP2MY,2016,2027
+BP2MYZZ,Computerized Tomography (CT Scan) of Left Wrist using Other Contrast,BP2MYZ,2016,2027
+BP2MZ,None,BP2M,2016,2027
+BP2MZZ,None,BP2MZ,2016,2027
+BP2MZZZ,Computerized Tomography (CT Scan) of Left Wrist,BP2MZZ,2016,2027
+BP2N,"Hand, Right",BP2,2016,2027
+BP2N0,High Osmolar,BP2N,2016,2027
+BP2N0Z,None,BP2N0,2016,2027
+BP2N0ZZ,Computerized Tomography (CT Scan) of Right Hand using High Osmolar Contrast,BP2N0Z,2016,2027
+BP2N1,Low Osmolar,BP2N,2016,2027
+BP2N1Z,None,BP2N1,2016,2027
+BP2N1ZZ,Computerized Tomography (CT Scan) of Right Hand using Low Osmolar Contrast,BP2N1Z,2016,2027
+BP2NY,Other Contrast,BP2N,2016,2027
+BP2NYZ,None,BP2NY,2016,2027
+BP2NYZZ,Computerized Tomography (CT Scan) of Right Hand using Other Contrast,BP2NYZ,2016,2027
+BP2NZ,None,BP2N,2016,2027
+BP2NZZ,None,BP2NZ,2016,2027
+BP2NZZZ,Computerized Tomography (CT Scan) of Right Hand,BP2NZZ,2016,2027
+BP2P,"Hand, Left",BP2,2016,2027
+BP2P0,High Osmolar,BP2P,2016,2027
+BP2P0Z,None,BP2P0,2016,2027
+BP2P0ZZ,Computerized Tomography (CT Scan) of Left Hand using High Osmolar Contrast,BP2P0Z,2016,2027
+BP2P1,Low Osmolar,BP2P,2016,2027
+BP2P1Z,None,BP2P1,2016,2027
+BP2P1ZZ,Computerized Tomography (CT Scan) of Left Hand using Low Osmolar Contrast,BP2P1Z,2016,2027
+BP2PY,Other Contrast,BP2P,2016,2027
+BP2PYZ,None,BP2PY,2016,2027
+BP2PYZZ,Computerized Tomography (CT Scan) of Left Hand using Other Contrast,BP2PYZ,2016,2027
+BP2PZ,None,BP2P,2016,2027
+BP2PZZ,None,BP2PZ,2016,2027
+BP2PZZZ,Computerized Tomography (CT Scan) of Left Hand,BP2PZZ,2016,2027
+BP2Q,"Hands and Wrists, Bilateral",BP2,2016,2027
+BP2Q0,High Osmolar,BP2Q,2016,2027
+BP2Q0Z,None,BP2Q0,2016,2027
+BP2Q0ZZ,Computerized Tomography (CT Scan) of Bilateral Hands and Wrists using High Osmolar Contrast,BP2Q0Z,2016,2027
+BP2Q1,Low Osmolar,BP2Q,2016,2027
+BP2Q1Z,None,BP2Q1,2016,2027
+BP2Q1ZZ,Computerized Tomography (CT Scan) of Bilateral Hands and Wrists using Low Osmolar Contrast,BP2Q1Z,2016,2027
+BP2QY,Other Contrast,BP2Q,2016,2027
+BP2QYZ,None,BP2QY,2016,2027
+BP2QYZZ,Computerized Tomography (CT Scan) of Bilateral Hands and Wrists using Other Contrast,BP2QYZ,2016,2027
+BP2QZ,None,BP2Q,2016,2027
+BP2QZZ,None,BP2QZ,2016,2027
+BP2QZZZ,Computerized Tomography (CT Scan) of Bilateral Hands and Wrists,BP2QZZ,2016,2027
+BP2R,"Finger(s), Right",BP2,2016,2027
+BP2R0,High Osmolar,BP2R,2016,2027
+BP2R0Z,None,BP2R0,2016,2027
+BP2R0ZZ,Computerized Tomography (CT Scan) of Right Finger(s) using High Osmolar Contrast,BP2R0Z,2016,2027
+BP2R1,Low Osmolar,BP2R,2016,2027
+BP2R1Z,None,BP2R1,2016,2027
+BP2R1ZZ,Computerized Tomography (CT Scan) of Right Finger(s) using Low Osmolar Contrast,BP2R1Z,2016,2027
+BP2RY,Other Contrast,BP2R,2016,2027
+BP2RYZ,None,BP2RY,2016,2027
+BP2RYZZ,Computerized Tomography (CT Scan) of Right Finger(s) using Other Contrast,BP2RYZ,2016,2027
+BP2RZ,None,BP2R,2016,2027
+BP2RZZ,None,BP2RZ,2016,2027
+BP2RZZZ,Computerized Tomography (CT Scan) of Right Finger(s),BP2RZZ,2016,2027
+BP2S,"Finger(s), Left",BP2,2016,2027
+BP2S0,High Osmolar,BP2S,2016,2027
+BP2S0Z,None,BP2S0,2016,2027
+BP2S0ZZ,Computerized Tomography (CT Scan) of Left Finger(s) using High Osmolar Contrast,BP2S0Z,2016,2027
+BP2S1,Low Osmolar,BP2S,2016,2027
+BP2S1Z,None,BP2S1,2016,2027
+BP2S1ZZ,Computerized Tomography (CT Scan) of Left Finger(s) using Low Osmolar Contrast,BP2S1Z,2016,2027
+BP2SY,Other Contrast,BP2S,2016,2027
+BP2SYZ,None,BP2SY,2016,2027
+BP2SYZZ,Computerized Tomography (CT Scan) of Left Finger(s) using Other Contrast,BP2SYZ,2016,2027
+BP2SZ,None,BP2S,2016,2027
+BP2SZZ,None,BP2SZ,2016,2027
+BP2SZZZ,Computerized Tomography (CT Scan) of Left Finger(s),BP2SZZ,2016,2027
+BP2T,"Upper Extremity, Right",BP2,2016,2027
+BP2T0,High Osmolar,BP2T,2016,2027
+BP2T0Z,None,BP2T0,2016,2027
+BP2T0ZZ,Computerized Tomography (CT Scan) of Right Upper Extremity using High Osmolar Contrast,BP2T0Z,2016,2027
+BP2T1,Low Osmolar,BP2T,2016,2027
+BP2T1Z,None,BP2T1,2016,2027
+BP2T1ZZ,Computerized Tomography (CT Scan) of Right Upper Extremity using Low Osmolar Contrast,BP2T1Z,2016,2027
+BP2TY,Other Contrast,BP2T,2016,2027
+BP2TYZ,None,BP2TY,2016,2027
+BP2TYZZ,Computerized Tomography (CT Scan) of Right Upper Extremity using Other Contrast,BP2TYZ,2016,2027
+BP2TZ,None,BP2T,2016,2027
+BP2TZZ,None,BP2TZ,2016,2027
+BP2TZZZ,Computerized Tomography (CT Scan) of Right Upper Extremity,BP2TZZ,2016,2027
+BP2U,"Upper Extremity, Left",BP2,2016,2027
+BP2U0,High Osmolar,BP2U,2016,2027
+BP2U0Z,None,BP2U0,2016,2027
+BP2U0ZZ,Computerized Tomography (CT Scan) of Left Upper Extremity using High Osmolar Contrast,BP2U0Z,2016,2027
+BP2U1,Low Osmolar,BP2U,2016,2027
+BP2U1Z,None,BP2U1,2016,2027
+BP2U1ZZ,Computerized Tomography (CT Scan) of Left Upper Extremity using Low Osmolar Contrast,BP2U1Z,2016,2027
+BP2UY,Other Contrast,BP2U,2016,2027
+BP2UYZ,None,BP2UY,2016,2027
+BP2UYZZ,Computerized Tomography (CT Scan) of Left Upper Extremity using Other Contrast,BP2UYZ,2016,2027
+BP2UZ,None,BP2U,2016,2027
+BP2UZZ,None,BP2UZ,2016,2027
+BP2UZZZ,Computerized Tomography (CT Scan) of Left Upper Extremity,BP2UZZ,2016,2027
+BP2V,"Upper Extremities, Bilateral",BP2,2016,2027
+BP2V0,High Osmolar,BP2V,2016,2027
+BP2V0Z,None,BP2V0,2016,2027
+BP2V0ZZ,Computerized Tomography (CT Scan) of Bilateral Upper Extremities using High Osmolar Contrast,BP2V0Z,2016,2027
+BP2V1,Low Osmolar,BP2V,2016,2027
+BP2V1Z,None,BP2V1,2016,2027
+BP2V1ZZ,Computerized Tomography (CT Scan) of Bilateral Upper Extremities using Low Osmolar Contrast,BP2V1Z,2016,2027
+BP2VY,Other Contrast,BP2V,2016,2027
+BP2VYZ,None,BP2VY,2016,2027
+BP2VYZZ,Computerized Tomography (CT Scan) of Bilateral Upper Extremities using Other Contrast,BP2VYZ,2016,2027
+BP2VZ,None,BP2V,2016,2027
+BP2VZZ,None,BP2VZ,2016,2027
+BP2VZZZ,Computerized Tomography (CT Scan) of Bilateral Upper Extremities,BP2VZZ,2016,2027
+BP2W,Thorax,BP2,2016,2027
+BP2W0,High Osmolar,BP2W,2016,2027
+BP2W0Z,None,BP2W0,2016,2027
+BP2W0ZZ,Computerized Tomography (CT Scan) of Thorax using High Osmolar Contrast,BP2W0Z,2016,2027
+BP2W1,Low Osmolar,BP2W,2016,2027
+BP2W1Z,None,BP2W1,2016,2027
+BP2W1ZZ,Computerized Tomography (CT Scan) of Thorax using Low Osmolar Contrast,BP2W1Z,2016,2027
+BP2WY,Other Contrast,BP2W,2016,2027
+BP2WYZ,None,BP2WY,2016,2027
+BP2WYZZ,Computerized Tomography (CT Scan) of Thorax using Other Contrast,BP2WYZ,2016,2027
+BP2X,"Ribs, Right",BP2,2016,2027
+BP2X0,High Osmolar,BP2X,2016,2027
+BP2X0Z,None,BP2X0,2016,2027
+BP2X0ZZ,Computerized Tomography (CT Scan) of Right Ribs using High Osmolar Contrast,BP2X0Z,2016,2027
+BP2X1,Low Osmolar,BP2X,2016,2027
+BP2X1Z,None,BP2X1,2016,2027
+BP2X1ZZ,Computerized Tomography (CT Scan) of Right Ribs using Low Osmolar Contrast,BP2X1Z,2016,2027
+BP2XY,Other Contrast,BP2X,2016,2027
+BP2XYZ,None,BP2XY,2016,2027
+BP2XYZZ,Computerized Tomography (CT Scan) of Right Ribs using Other Contrast,BP2XYZ,2016,2027
+BP2XZ,None,BP2X,2016,2027
+BP2XZZ,None,BP2XZ,2016,2027
+BP2XZZZ,Computerized Tomography (CT Scan) of Right Ribs,BP2XZZ,2016,2027
+BP2Y,"Ribs, Left",BP2,2016,2027
+BP2Y0,High Osmolar,BP2Y,2016,2027
+BP2Y0Z,None,BP2Y0,2016,2027
+BP2Y0ZZ,Computerized Tomography (CT Scan) of Left Ribs using High Osmolar Contrast,BP2Y0Z,2016,2027
+BP2Y1,Low Osmolar,BP2Y,2016,2027
+BP2Y1Z,None,BP2Y1,2016,2027
+BP2Y1ZZ,Computerized Tomography (CT Scan) of Left Ribs using Low Osmolar Contrast,BP2Y1Z,2016,2027
+BP2YY,Other Contrast,BP2Y,2016,2027
+BP2YYZ,None,BP2YY,2016,2027
+BP2YYZZ,Computerized Tomography (CT Scan) of Left Ribs using Other Contrast,BP2YYZ,2016,2027
+BP2YZ,None,BP2Y,2016,2027
+BP2YZZ,None,BP2YZ,2016,2027
+BP2YZZZ,Computerized Tomography (CT Scan) of Left Ribs,BP2YZZ,2016,2027
+BP3,Magnetic Resonance Imaging (MRI),BP,2016,2027
+BP38,"Shoulder, Right",BP3,2016,2027
+BP38Y,Other Contrast,BP38,2016,2027
+BP38Y0,Unenhanced and Enhanced,BP38Y,2016,2027
+BP38Y0Z,"Magnetic Resonance Imaging (MRI) of Right Shoulder using Other Contrast, Unenhanced and Enhanced",BP38Y0,2016,2027
+BP38YZ,None,BP38Y,2016,2027
+BP38YZZ,Magnetic Resonance Imaging (MRI) of Right Shoulder using Other Contrast,BP38YZ,2016,2027
+BP38Z,None,BP38,2016,2027
+BP38ZZ,None,BP38Z,2016,2027
+BP38ZZZ,Magnetic Resonance Imaging (MRI) of Right Shoulder,BP38ZZ,2016,2027
+BP39,"Shoulder, Left",BP3,2016,2027
+BP39Y,Other Contrast,BP39,2016,2027
+BP39Y0,Unenhanced and Enhanced,BP39Y,2016,2027
+BP39Y0Z,"Magnetic Resonance Imaging (MRI) of Left Shoulder using Other Contrast, Unenhanced and Enhanced",BP39Y0,2016,2027
+BP39YZ,None,BP39Y,2016,2027
+BP39YZZ,Magnetic Resonance Imaging (MRI) of Left Shoulder using Other Contrast,BP39YZ,2016,2027
+BP39Z,None,BP39,2016,2027
+BP39ZZ,None,BP39Z,2016,2027
+BP39ZZZ,Magnetic Resonance Imaging (MRI) of Left Shoulder,BP39ZZ,2016,2027
+BP3C,"Hand/Finger Joint, Right",BP3,2016,2027
+BP3CY,Other Contrast,BP3C,2016,2027
+BP3CY0,Unenhanced and Enhanced,BP3CY,2016,2027
+BP3CY0Z,"Magnetic Resonance Imaging (MRI) of Right Hand/Finger Joint using Other Contrast, Unenhanced and Enhanced",BP3CY0,2016,2027
+BP3CYZ,None,BP3CY,2016,2027
+BP3CYZZ,Magnetic Resonance Imaging (MRI) of Right Hand/Finger Joint using Other Contrast,BP3CYZ,2016,2027
+BP3CZ,None,BP3C,2016,2027
+BP3CZZ,None,BP3CZ,2016,2027
+BP3CZZZ,Magnetic Resonance Imaging (MRI) of Right Hand/Finger Joint,BP3CZZ,2016,2027
+BP3D,"Hand/Finger Joint, Left",BP3,2016,2027
+BP3DY,Other Contrast,BP3D,2016,2027
+BP3DY0,Unenhanced and Enhanced,BP3DY,2016,2027
+BP3DY0Z,"Magnetic Resonance Imaging (MRI) of Left Hand/Finger Joint using Other Contrast, Unenhanced and Enhanced",BP3DY0,2016,2027
+BP3DYZ,None,BP3DY,2016,2027
+BP3DYZZ,Magnetic Resonance Imaging (MRI) of Left Hand/Finger Joint using Other Contrast,BP3DYZ,2016,2027
+BP3DZ,None,BP3D,2016,2027
+BP3DZZ,None,BP3DZ,2016,2027
+BP3DZZZ,Magnetic Resonance Imaging (MRI) of Left Hand/Finger Joint,BP3DZZ,2016,2027
+BP3E,"Upper Arm, Right",BP3,2016,2027
+BP3EY,Other Contrast,BP3E,2016,2027
+BP3EY0,Unenhanced and Enhanced,BP3EY,2016,2027
+BP3EY0Z,"Magnetic Resonance Imaging (MRI) of Right Upper Arm using Other Contrast, Unenhanced and Enhanced",BP3EY0,2016,2027
+BP3EYZ,None,BP3EY,2016,2027
+BP3EYZZ,Magnetic Resonance Imaging (MRI) of Right Upper Arm using Other Contrast,BP3EYZ,2016,2027
+BP3EZ,None,BP3E,2016,2027
+BP3EZZ,None,BP3EZ,2016,2027
+BP3EZZZ,Magnetic Resonance Imaging (MRI) of Right Upper Arm,BP3EZZ,2016,2027
+BP3F,"Upper Arm, Left",BP3,2016,2027
+BP3FY,Other Contrast,BP3F,2016,2027
+BP3FY0,Unenhanced and Enhanced,BP3FY,2016,2027
+BP3FY0Z,"Magnetic Resonance Imaging (MRI) of Left Upper Arm using Other Contrast, Unenhanced and Enhanced",BP3FY0,2016,2027
+BP3FYZ,None,BP3FY,2016,2027
+BP3FYZZ,Magnetic Resonance Imaging (MRI) of Left Upper Arm using Other Contrast,BP3FYZ,2016,2027
+BP3FZ,None,BP3F,2016,2027
+BP3FZZ,None,BP3FZ,2016,2027
+BP3FZZZ,Magnetic Resonance Imaging (MRI) of Left Upper Arm,BP3FZZ,2016,2027
+BP3G,"Elbow, Right",BP3,2016,2027
+BP3GY,Other Contrast,BP3G,2016,2027
+BP3GY0,Unenhanced and Enhanced,BP3GY,2016,2027
+BP3GY0Z,"Magnetic Resonance Imaging (MRI) of Right Elbow using Other Contrast, Unenhanced and Enhanced",BP3GY0,2016,2027
+BP3GYZ,None,BP3GY,2016,2027
+BP3GYZZ,Magnetic Resonance Imaging (MRI) of Right Elbow using Other Contrast,BP3GYZ,2016,2027
+BP3GZ,None,BP3G,2016,2027
+BP3GZZ,None,BP3GZ,2016,2027
+BP3GZZZ,Magnetic Resonance Imaging (MRI) of Right Elbow,BP3GZZ,2016,2027
+BP3H,"Elbow, Left",BP3,2016,2027
+BP3HY,Other Contrast,BP3H,2016,2027
+BP3HY0,Unenhanced and Enhanced,BP3HY,2016,2027
+BP3HY0Z,"Magnetic Resonance Imaging (MRI) of Left Elbow using Other Contrast, Unenhanced and Enhanced",BP3HY0,2016,2027
+BP3HYZ,None,BP3HY,2016,2027
+BP3HYZZ,Magnetic Resonance Imaging (MRI) of Left Elbow using Other Contrast,BP3HYZ,2016,2027
+BP3HZ,None,BP3H,2016,2027
+BP3HZZ,None,BP3HZ,2016,2027
+BP3HZZZ,Magnetic Resonance Imaging (MRI) of Left Elbow,BP3HZZ,2016,2027
+BP3J,"Forearm, Right",BP3,2016,2027
+BP3JY,Other Contrast,BP3J,2016,2027
+BP3JY0,Unenhanced and Enhanced,BP3JY,2016,2027
+BP3JY0Z,"Magnetic Resonance Imaging (MRI) of Right Forearm using Other Contrast, Unenhanced and Enhanced",BP3JY0,2016,2027
+BP3JYZ,None,BP3JY,2016,2027
+BP3JYZZ,Magnetic Resonance Imaging (MRI) of Right Forearm using Other Contrast,BP3JYZ,2016,2027
+BP3JZ,None,BP3J,2016,2027
+BP3JZZ,None,BP3JZ,2016,2027
+BP3JZZZ,Magnetic Resonance Imaging (MRI) of Right Forearm,BP3JZZ,2016,2027
+BP3K,"Forearm, Left",BP3,2016,2027
+BP3KY,Other Contrast,BP3K,2016,2027
+BP3KY0,Unenhanced and Enhanced,BP3KY,2016,2027
+BP3KY0Z,"Magnetic Resonance Imaging (MRI) of Left Forearm using Other Contrast, Unenhanced and Enhanced",BP3KY0,2016,2027
+BP3KYZ,None,BP3KY,2016,2027
+BP3KYZZ,Magnetic Resonance Imaging (MRI) of Left Forearm using Other Contrast,BP3KYZ,2016,2027
+BP3KZ,None,BP3K,2016,2027
+BP3KZZ,None,BP3KZ,2016,2027
+BP3KZZZ,Magnetic Resonance Imaging (MRI) of Left Forearm,BP3KZZ,2016,2027
+BP3L,"Wrist, Right",BP3,2016,2027
+BP3LY,Other Contrast,BP3L,2016,2027
+BP3LY0,Unenhanced and Enhanced,BP3LY,2016,2027
+BP3LY0Z,"Magnetic Resonance Imaging (MRI) of Right Wrist using Other Contrast, Unenhanced and Enhanced",BP3LY0,2016,2027
+BP3LYZ,None,BP3LY,2016,2027
+BP3LYZZ,Magnetic Resonance Imaging (MRI) of Right Wrist using Other Contrast,BP3LYZ,2016,2027
+BP3LZ,None,BP3L,2016,2027
+BP3LZZ,None,BP3LZ,2016,2027
+BP3LZZZ,Magnetic Resonance Imaging (MRI) of Right Wrist,BP3LZZ,2016,2027
+BP3M,"Wrist, Left",BP3,2016,2027
+BP3MY,Other Contrast,BP3M,2016,2027
+BP3MY0,Unenhanced and Enhanced,BP3MY,2016,2027
+BP3MY0Z,"Magnetic Resonance Imaging (MRI) of Left Wrist using Other Contrast, Unenhanced and Enhanced",BP3MY0,2016,2027
+BP3MYZ,None,BP3MY,2016,2027
+BP3MYZZ,Magnetic Resonance Imaging (MRI) of Left Wrist using Other Contrast,BP3MYZ,2016,2027
+BP3MZ,None,BP3M,2016,2027
+BP3MZZ,None,BP3MZ,2016,2027
+BP3MZZZ,Magnetic Resonance Imaging (MRI) of Left Wrist,BP3MZZ,2016,2027
+BP4,Ultrasonography,BP,2016,2027
+BP48,"Shoulder, Right",BP4,2016,2027
+BP48Z,None,BP48,2016,2027
+BP48ZZ,None,BP48Z,2016,2027
+BP48ZZ1,"Ultrasonography of Right Shoulder, Densitometry",BP48ZZ,2016,2027
+BP48ZZZ,Ultrasonography of Right Shoulder,BP48ZZ,2016,2027
+BP49,"Shoulder, Left",BP4,2016,2027
+BP49Z,None,BP49,2016,2027
+BP49ZZ,None,BP49Z,2016,2027
+BP49ZZ1,"Ultrasonography of Left Shoulder, Densitometry",BP49ZZ,2016,2027
+BP49ZZZ,Ultrasonography of Left Shoulder,BP49ZZ,2016,2027
+BP4G,"Elbow, Right",BP4,2016,2027
+BP4GZ,None,BP4G,2016,2027
+BP4GZZ,None,BP4GZ,2016,2027
+BP4GZZ1,"Ultrasonography of Right Elbow, Densitometry",BP4GZZ,2016,2027
+BP4GZZZ,Ultrasonography of Right Elbow,BP4GZZ,2016,2027
+BP4H,"Elbow, Left",BP4,2016,2027
+BP4HZ,None,BP4H,2016,2027
+BP4HZZ,None,BP4HZ,2016,2027
+BP4HZZ1,"Ultrasonography of Left Elbow, Densitometry",BP4HZZ,2016,2027
+BP4HZZZ,Ultrasonography of Left Elbow,BP4HZZ,2016,2027
+BP4L,"Wrist, Right",BP4,2016,2027
+BP4LZ,None,BP4L,2016,2027
+BP4LZZ,None,BP4LZ,2016,2027
+BP4LZZ1,"Ultrasonography of Right Wrist, Densitometry",BP4LZZ,2016,2027
+BP4LZZZ,Ultrasonography of Right Wrist,BP4LZZ,2016,2027
+BP4M,"Wrist, Left",BP4,2016,2027
+BP4MZ,None,BP4M,2016,2027
+BP4MZZ,None,BP4MZ,2016,2027
+BP4MZZ1,"Ultrasonography of Left Wrist, Densitometry",BP4MZZ,2016,2027
+BP4MZZZ,Ultrasonography of Left Wrist,BP4MZZ,2016,2027
+BP4N,"Hand, Right",BP4,2016,2027
+BP4NZ,None,BP4N,2016,2027
+BP4NZZ,None,BP4NZ,2016,2027
+BP4NZZ1,"Ultrasonography of Right Hand, Densitometry",BP4NZZ,2016,2027
+BP4NZZZ,Ultrasonography of Right Hand,BP4NZZ,2016,2027
+BP4P,"Hand, Left",BP4,2016,2027
+BP4PZ,None,BP4P,2016,2027
+BP4PZZ,None,BP4PZ,2016,2027
+BP4PZZ1,"Ultrasonography of Left Hand, Densitometry",BP4PZZ,2016,2027
+BP4PZZZ,Ultrasonography of Left Hand,BP4PZZ,2016,2027

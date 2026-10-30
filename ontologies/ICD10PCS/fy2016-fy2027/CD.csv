@@ -1,0 +1,42 @@
+code,description,parent,first_year,last_year
+CD,Gastrointestinal System,C,2016,2027
+CD1,Planar Nuclear Medicine Imaging,CD,2016,2027
+CD15,Upper Gastrointestinal Tract,CD1,2016,2027
+CD151,Technetium 99m (Tc-99m),CD15,2016,2027
+CD151Z,None,CD151,2016,2027
+CD151ZZ,Planar Nuclear Medicine Imaging of Upper Gastrointestinal Tract using Technetium 99m (Tc-99m),CD151Z,2016,2027
+CD15D,Indium 111 (In-111),CD15,2016,2027
+CD15DZ,None,CD15D,2016,2027
+CD15DZZ,Planar Nuclear Medicine Imaging of Upper Gastrointestinal Tract using Indium 111 (In-111),CD15DZ,2016,2027
+CD15Y,Other Radionuclide,CD15,2016,2027
+CD15YZ,None,CD15Y,2016,2027
+CD15YZZ,Planar Nuclear Medicine Imaging of Upper Gastrointestinal Tract using Other Radionuclide,CD15YZ,2016,2027
+CD17,Gastrointestinal Tract,CD1,2016,2027
+CD171,Technetium 99m (Tc-99m),CD17,2016,2027
+CD171Z,None,CD171,2016,2027
+CD171ZZ,Planar Nuclear Medicine Imaging of Gastrointestinal Tract using Technetium 99m (Tc-99m),CD171Z,2016,2027
+CD17D,Indium 111 (In-111),CD17,2016,2027
+CD17DZ,None,CD17D,2016,2027
+CD17DZZ,Planar Nuclear Medicine Imaging of Gastrointestinal Tract using Indium 111 (In-111),CD17DZ,2016,2027
+CD17Y,Other Radionuclide,CD17,2016,2027
+CD17YZ,None,CD17Y,2016,2027
+CD17YZZ,Planar Nuclear Medicine Imaging of Gastrointestinal Tract using Other Radionuclide,CD17YZ,2016,2027
+CD1Y,Digestive System,CD1,2016,2027
+CD1YY,Other Radionuclide,CD1Y,2016,2027
+CD1YYZ,None,CD1YY,2016,2027
+CD1YYZZ,Planar Nuclear Medicine Imaging of Digestive System using Other Radionuclide,CD1YYZ,2016,2027
+CD2,Tomographic (Tomo) Nuclear Medicine Imaging,CD,2016,2027
+CD27,Gastrointestinal Tract,CD2,2016,2027
+CD271,Technetium 99m (Tc-99m),CD27,2016,2027
+CD271Z,None,CD271,2016,2027
+CD271ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Gastrointestinal Tract using Technetium 99m (Tc-99m),CD271Z,2016,2027
+CD27D,Indium 111 (In-111),CD27,2016,2027
+CD27DZ,None,CD27D,2016,2027
+CD27DZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Gastrointestinal Tract using Indium 111 (In-111),CD27DZ,2016,2027
+CD27Y,Other Radionuclide,CD27,2016,2027
+CD27YZ,None,CD27Y,2016,2027
+CD27YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Gastrointestinal Tract using Other Radionuclide,CD27YZ,2016,2027
+CD2Y,Digestive System,CD2,2016,2027
+CD2YY,Other Radionuclide,CD2Y,2016,2027
+CD2YYZ,None,CD2YY,2016,2027
+CD2YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Digestive System using Other Radionuclide,CD2YYZ,2016,2027

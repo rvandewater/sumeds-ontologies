@@ -1,0 +1,2115 @@
+code,description,parent,first_year,last_year
+2W,Anatomical Regions,2,2016,2027
+2W0,Change,2W,2016,2027
+2W00,Head,2W0,2016,2027
+2W00X,External,2W00,2016,2027
+2W00X0,Traction Apparatus,2W00X,2016,2027
+2W00X0Z,Change Traction Apparatus on Head,2W00X0,2016,2027
+2W00X1,Splint,2W00X,2016,2027
+2W00X1Z,Change Splint on Head,2W00X1,2016,2027
+2W00X2,Cast,2W00X,2016,2027
+2W00X2Z,Change Cast on Head,2W00X2,2016,2027
+2W00X3,Brace,2W00X,2016,2027
+2W00X3Z,Change Brace on Head,2W00X3,2016,2027
+2W00X4,Bandage,2W00X,2016,2027
+2W00X4Z,Change Bandage on Head,2W00X4,2016,2027
+2W00X5,Packing Material,2W00X,2016,2027
+2W00X5Z,Change Packing Material on Head,2W00X5,2016,2027
+2W00X6,Pressure Dressing,2W00X,2016,2027
+2W00X6Z,Change Pressure Dressing on Head,2W00X6,2016,2027
+2W00X7,Intermittent Pressure Device,2W00X,2016,2027
+2W00X7Z,Change Intermittent Pressure Device on Head,2W00X7,2016,2027
+2W00XY,Other Device,2W00X,2016,2027
+2W00XYZ,Change Other Device on Head,2W00XY,2016,2027
+2W01,Face,2W0,2016,2027
+2W01X,External,2W01,2016,2027
+2W01X0,Traction Apparatus,2W01X,2016,2027
+2W01X0Z,Change Traction Apparatus on Face,2W01X0,2016,2027
+2W01X1,Splint,2W01X,2016,2027
+2W01X1Z,Change Splint on Face,2W01X1,2016,2027
+2W01X2,Cast,2W01X,2016,2027
+2W01X2Z,Change Cast on Face,2W01X2,2016,2027
+2W01X3,Brace,2W01X,2016,2027
+2W01X3Z,Change Brace on Face,2W01X3,2016,2027
+2W01X4,Bandage,2W01X,2016,2027
+2W01X4Z,Change Bandage on Face,2W01X4,2016,2027
+2W01X5,Packing Material,2W01X,2016,2027
+2W01X5Z,Change Packing Material on Face,2W01X5,2016,2027
+2W01X6,Pressure Dressing,2W01X,2016,2027
+2W01X6Z,Change Pressure Dressing on Face,2W01X6,2016,2027
+2W01X7,Intermittent Pressure Device,2W01X,2016,2027
+2W01X7Z,Change Intermittent Pressure Device on Face,2W01X7,2016,2027
+2W01X9,Wire,2W01X,2016,2027
+2W01X9Z,Change Wire on Face,2W01X9,2016,2027
+2W01XY,Other Device,2W01X,2016,2027
+2W01XYZ,Change Other Device on Face,2W01XY,2016,2027
+2W02,Neck,2W0,2016,2027
+2W02X,External,2W02,2016,2027
+2W02X0,Traction Apparatus,2W02X,2016,2027
+2W02X0Z,Change Traction Apparatus on Neck,2W02X0,2016,2027
+2W02X1,Splint,2W02X,2016,2027
+2W02X1Z,Change Splint on Neck,2W02X1,2016,2027
+2W02X2,Cast,2W02X,2016,2027
+2W02X2Z,Change Cast on Neck,2W02X2,2016,2027
+2W02X3,Brace,2W02X,2016,2027
+2W02X3Z,Change Brace on Neck,2W02X3,2016,2027
+2W02X4,Bandage,2W02X,2016,2027
+2W02X4Z,Change Bandage on Neck,2W02X4,2016,2027
+2W02X5,Packing Material,2W02X,2016,2027
+2W02X5Z,Change Packing Material on Neck,2W02X5,2016,2027
+2W02X6,Pressure Dressing,2W02X,2016,2027
+2W02X6Z,Change Pressure Dressing on Neck,2W02X6,2016,2027
+2W02X7,Intermittent Pressure Device,2W02X,2016,2027
+2W02X7Z,Change Intermittent Pressure Device on Neck,2W02X7,2016,2027
+2W02XY,Other Device,2W02X,2016,2027
+2W02XYZ,Change Other Device on Neck,2W02XY,2016,2027
+2W03,Abdominal Wall,2W0,2016,2027
+2W03X,External,2W03,2016,2027
+2W03X0,Traction Apparatus,2W03X,2016,2027
+2W03X0Z,Change Traction Apparatus on Abdominal Wall,2W03X0,2016,2027
+2W03X1,Splint,2W03X,2016,2027
+2W03X1Z,Change Splint on Abdominal Wall,2W03X1,2016,2027
+2W03X2,Cast,2W03X,2016,2027
+2W03X2Z,Change Cast on Abdominal Wall,2W03X2,2016,2027
+2W03X3,Brace,2W03X,2016,2027
+2W03X3Z,Change Brace on Abdominal Wall,2W03X3,2016,2027
+2W03X4,Bandage,2W03X,2016,2027
+2W03X4Z,Change Bandage on Abdominal Wall,2W03X4,2016,2027
+2W03X5,Packing Material,2W03X,2016,2027
+2W03X5Z,Change Packing Material on Abdominal Wall,2W03X5,2016,2027
+2W03X6,Pressure Dressing,2W03X,2016,2027
+2W03X6Z,Change Pressure Dressing on Abdominal Wall,2W03X6,2016,2027
+2W03X7,Intermittent Pressure Device,2W03X,2016,2027
+2W03X7Z,Change Intermittent Pressure Device on Abdominal Wall,2W03X7,2016,2027
+2W03XY,Other Device,2W03X,2016,2027
+2W03XYZ,Change Other Device on Abdominal Wall,2W03XY,2016,2027
+2W04,Chest Wall,2W0,2016,2027
+2W04X,External,2W04,2016,2027
+2W04X0,Traction Apparatus,2W04X,2016,2027
+2W04X0Z,Change Traction Apparatus on Chest Wall,2W04X0,2016,2027
+2W04X1,Splint,2W04X,2016,2027
+2W04X1Z,Change Splint on Chest Wall,2W04X1,2016,2027
+2W04X2,Cast,2W04X,2016,2027
+2W04X2Z,Change Cast on Chest Wall,2W04X2,2016,2027
+2W04X3,Brace,2W04X,2016,2027
+2W04X3Z,Change Brace on Chest Wall,2W04X3,2016,2027
+2W04X4,Bandage,2W04X,2016,2027
+2W04X4Z,Change Bandage on Chest Wall,2W04X4,2016,2027
+2W04X5,Packing Material,2W04X,2016,2027
+2W04X5Z,Change Packing Material on Chest Wall,2W04X5,2016,2027
+2W04X6,Pressure Dressing,2W04X,2016,2027
+2W04X6Z,Change Pressure Dressing on Chest Wall,2W04X6,2016,2027
+2W04X7,Intermittent Pressure Device,2W04X,2016,2027
+2W04X7Z,Change Intermittent Pressure Device on Chest Wall,2W04X7,2016,2027
+2W04XY,Other Device,2W04X,2016,2027
+2W04XYZ,Change Other Device on Chest Wall,2W04XY,2016,2027
+2W05,Back,2W0,2016,2027
+2W05X,External,2W05,2016,2027
+2W05X0,Traction Apparatus,2W05X,2016,2027
+2W05X0Z,Change Traction Apparatus on Back,2W05X0,2016,2027
+2W05X1,Splint,2W05X,2016,2027
+2W05X1Z,Change Splint on Back,2W05X1,2016,2027
+2W05X2,Cast,2W05X,2016,2027
+2W05X2Z,Change Cast on Back,2W05X2,2016,2027
+2W05X3,Brace,2W05X,2016,2027
+2W05X3Z,Change Brace on Back,2W05X3,2016,2027
+2W05X4,Bandage,2W05X,2016,2027
+2W05X4Z,Change Bandage on Back,2W05X4,2016,2027
+2W05X5,Packing Material,2W05X,2016,2027
+2W05X5Z,Change Packing Material on Back,2W05X5,2016,2027
+2W05X6,Pressure Dressing,2W05X,2016,2027
+2W05X6Z,Change Pressure Dressing on Back,2W05X6,2016,2027
+2W05X7,Intermittent Pressure Device,2W05X,2016,2027
+2W05X7Z,Change Intermittent Pressure Device on Back,2W05X7,2016,2027
+2W05XY,Other Device,2W05X,2016,2027
+2W05XYZ,Change Other Device on Back,2W05XY,2016,2027
+2W06,"Inguinal Region, Right",2W0,2016,2027
+2W06X,External,2W06,2016,2027
+2W06X0,Traction Apparatus,2W06X,2016,2027
+2W06X0Z,Change Traction Apparatus on Right Inguinal Region,2W06X0,2016,2027
+2W06X1,Splint,2W06X,2016,2027
+2W06X1Z,Change Splint on Right Inguinal Region,2W06X1,2016,2027
+2W06X2,Cast,2W06X,2016,2027
+2W06X2Z,Change Cast on Right Inguinal Region,2W06X2,2016,2027
+2W06X3,Brace,2W06X,2016,2027
+2W06X3Z,Change Brace on Right Inguinal Region,2W06X3,2016,2027
+2W06X4,Bandage,2W06X,2016,2027
+2W06X4Z,Change Bandage on Right Inguinal Region,2W06X4,2016,2027
+2W06X5,Packing Material,2W06X,2016,2027
+2W06X5Z,Change Packing Material on Right Inguinal Region,2W06X5,2016,2027
+2W06X6,Pressure Dressing,2W06X,2016,2027
+2W06X6Z,Change Pressure Dressing on Right Inguinal Region,2W06X6,2016,2027
+2W06X7,Intermittent Pressure Device,2W06X,2016,2027
+2W06X7Z,Change Intermittent Pressure Device on Right Inguinal Region,2W06X7,2016,2027
+2W06XY,Other Device,2W06X,2016,2027
+2W06XYZ,Change Other Device on Right Inguinal Region,2W06XY,2016,2027
+2W07,"Inguinal Region, Left",2W0,2016,2027
+2W07X,External,2W07,2016,2027
+2W07X0,Traction Apparatus,2W07X,2016,2027
+2W07X0Z,Change Traction Apparatus on Left Inguinal Region,2W07X0,2016,2027
+2W07X1,Splint,2W07X,2016,2027
+2W07X1Z,Change Splint on Left Inguinal Region,2W07X1,2016,2027
+2W07X2,Cast,2W07X,2016,2027
+2W07X2Z,Change Cast on Left Inguinal Region,2W07X2,2016,2027
+2W07X3,Brace,2W07X,2016,2027
+2W07X3Z,Change Brace on Left Inguinal Region,2W07X3,2016,2027
+2W07X4,Bandage,2W07X,2016,2027
+2W07X4Z,Change Bandage on Left Inguinal Region,2W07X4,2016,2027
+2W07X5,Packing Material,2W07X,2016,2027
+2W07X5Z,Change Packing Material on Left Inguinal Region,2W07X5,2016,2027
+2W07X6,Pressure Dressing,2W07X,2016,2027
+2W07X6Z,Change Pressure Dressing on Left Inguinal Region,2W07X6,2016,2027
+2W07X7,Intermittent Pressure Device,2W07X,2016,2027
+2W07X7Z,Change Intermittent Pressure Device on Left Inguinal Region,2W07X7,2016,2027
+2W07XY,Other Device,2W07X,2016,2027
+2W07XYZ,Change Other Device on Left Inguinal Region,2W07XY,2016,2027
+2W08,"Upper Extremity, Right",2W0,2016,2027
+2W08X,External,2W08,2016,2027
+2W08X0,Traction Apparatus,2W08X,2016,2027
+2W08X0Z,Change Traction Apparatus on Right Upper Extremity,2W08X0,2016,2027
+2W08X1,Splint,2W08X,2016,2027
+2W08X1Z,Change Splint on Right Upper Extremity,2W08X1,2016,2027
+2W08X2,Cast,2W08X,2016,2027
+2W08X2Z,Change Cast on Right Upper Extremity,2W08X2,2016,2027
+2W08X3,Brace,2W08X,2016,2027
+2W08X3Z,Change Brace on Right Upper Extremity,2W08X3,2016,2027
+2W08X4,Bandage,2W08X,2016,2027
+2W08X4Z,Change Bandage on Right Upper Extremity,2W08X4,2016,2027
+2W08X5,Packing Material,2W08X,2016,2027
+2W08X5Z,Change Packing Material on Right Upper Extremity,2W08X5,2016,2027
+2W08X6,Pressure Dressing,2W08X,2016,2027
+2W08X6Z,Change Pressure Dressing on Right Upper Extremity,2W08X6,2016,2027
+2W08X7,Intermittent Pressure Device,2W08X,2016,2027
+2W08X7Z,Change Intermittent Pressure Device on Right Upper Extremity,2W08X7,2016,2027
+2W08XY,Other Device,2W08X,2016,2027
+2W08XYZ,Change Other Device on Right Upper Extremity,2W08XY,2016,2027
+2W09,"Upper Extremity, Left",2W0,2016,2027
+2W09X,External,2W09,2016,2027
+2W09X0,Traction Apparatus,2W09X,2016,2027
+2W09X0Z,Change Traction Apparatus on Left Upper Extremity,2W09X0,2016,2027
+2W09X1,Splint,2W09X,2016,2027
+2W09X1Z,Change Splint on Left Upper Extremity,2W09X1,2016,2027
+2W09X2,Cast,2W09X,2016,2027
+2W09X2Z,Change Cast on Left Upper Extremity,2W09X2,2016,2027
+2W09X3,Brace,2W09X,2016,2027
+2W09X3Z,Change Brace on Left Upper Extremity,2W09X3,2016,2027
+2W09X4,Bandage,2W09X,2016,2027
+2W09X4Z,Change Bandage on Left Upper Extremity,2W09X4,2016,2027
+2W09X5,Packing Material,2W09X,2016,2027
+2W09X5Z,Change Packing Material on Left Upper Extremity,2W09X5,2016,2027
+2W09X6,Pressure Dressing,2W09X,2016,2027
+2W09X6Z,Change Pressure Dressing on Left Upper Extremity,2W09X6,2016,2027
+2W09X7,Intermittent Pressure Device,2W09X,2016,2027
+2W09X7Z,Change Intermittent Pressure Device on Left Upper Extremity,2W09X7,2016,2027
+2W09XY,Other Device,2W09X,2016,2027
+2W09XYZ,Change Other Device on Left Upper Extremity,2W09XY,2016,2027
+2W0A,"Upper Arm, Right",2W0,2016,2027
+2W0AX,External,2W0A,2016,2027
+2W0AX0,Traction Apparatus,2W0AX,2016,2027
+2W0AX0Z,Change Traction Apparatus on Right Upper Arm,2W0AX0,2016,2027
+2W0AX1,Splint,2W0AX,2016,2027
+2W0AX1Z,Change Splint on Right Upper Arm,2W0AX1,2016,2027
+2W0AX2,Cast,2W0AX,2016,2027
+2W0AX2Z,Change Cast on Right Upper Arm,2W0AX2,2016,2027
+2W0AX3,Brace,2W0AX,2016,2027
+2W0AX3Z,Change Brace on Right Upper Arm,2W0AX3,2016,2027
+2W0AX4,Bandage,2W0AX,2016,2027
+2W0AX4Z,Change Bandage on Right Upper Arm,2W0AX4,2016,2027
+2W0AX5,Packing Material,2W0AX,2016,2027
+2W0AX5Z,Change Packing Material on Right Upper Arm,2W0AX5,2016,2027
+2W0AX6,Pressure Dressing,2W0AX,2016,2027
+2W0AX6Z,Change Pressure Dressing on Right Upper Arm,2W0AX6,2016,2027
+2W0AX7,Intermittent Pressure Device,2W0AX,2016,2027
+2W0AX7Z,Change Intermittent Pressure Device on Right Upper Arm,2W0AX7,2016,2027
+2W0AXY,Other Device,2W0AX,2016,2027
+2W0AXYZ,Change Other Device on Right Upper Arm,2W0AXY,2016,2027
+2W0B,"Upper Arm, Left",2W0,2016,2027
+2W0BX,External,2W0B,2016,2027
+2W0BX0,Traction Apparatus,2W0BX,2016,2027
+2W0BX0Z,Change Traction Apparatus on Left Upper Arm,2W0BX0,2016,2027
+2W0BX1,Splint,2W0BX,2016,2027
+2W0BX1Z,Change Splint on Left Upper Arm,2W0BX1,2016,2027
+2W0BX2,Cast,2W0BX,2016,2027
+2W0BX2Z,Change Cast on Left Upper Arm,2W0BX2,2016,2027
+2W0BX3,Brace,2W0BX,2016,2027
+2W0BX3Z,Change Brace on Left Upper Arm,2W0BX3,2016,2027
+2W0BX4,Bandage,2W0BX,2016,2027
+2W0BX4Z,Change Bandage on Left Upper Arm,2W0BX4,2016,2027
+2W0BX5,Packing Material,2W0BX,2016,2027
+2W0BX5Z,Change Packing Material on Left Upper Arm,2W0BX5,2016,2027
+2W0BX6,Pressure Dressing,2W0BX,2016,2027
+2W0BX6Z,Change Pressure Dressing on Left Upper Arm,2W0BX6,2016,2027
+2W0BX7,Intermittent Pressure Device,2W0BX,2016,2027
+2W0BX7Z,Change Intermittent Pressure Device on Left Upper Arm,2W0BX7,2016,2027
+2W0BXY,Other Device,2W0BX,2016,2027
+2W0BXYZ,Change Other Device on Left Upper Arm,2W0BXY,2016,2027
+2W0C,"Lower Arm, Right",2W0,2016,2027
+2W0CX,External,2W0C,2016,2027
+2W0CX0,Traction Apparatus,2W0CX,2016,2027
+2W0CX0Z,Change Traction Apparatus on Right Lower Arm,2W0CX0,2016,2027
+2W0CX1,Splint,2W0CX,2016,2027
+2W0CX1Z,Change Splint on Right Lower Arm,2W0CX1,2016,2027
+2W0CX2,Cast,2W0CX,2016,2027
+2W0CX2Z,Change Cast on Right Lower Arm,2W0CX2,2016,2027
+2W0CX3,Brace,2W0CX,2016,2027
+2W0CX3Z,Change Brace on Right Lower Arm,2W0CX3,2016,2027
+2W0CX4,Bandage,2W0CX,2016,2027
+2W0CX4Z,Change Bandage on Right Lower Arm,2W0CX4,2016,2027
+2W0CX5,Packing Material,2W0CX,2016,2027
+2W0CX5Z,Change Packing Material on Right Lower Arm,2W0CX5,2016,2027
+2W0CX6,Pressure Dressing,2W0CX,2016,2027
+2W0CX6Z,Change Pressure Dressing on Right Lower Arm,2W0CX6,2016,2027
+2W0CX7,Intermittent Pressure Device,2W0CX,2016,2027
+2W0CX7Z,Change Intermittent Pressure Device on Right Lower Arm,2W0CX7,2016,2027
+2W0CXY,Other Device,2W0CX,2016,2027
+2W0CXYZ,Change Other Device on Right Lower Arm,2W0CXY,2016,2027
+2W0D,"Lower Arm, Left",2W0,2016,2027
+2W0DX,External,2W0D,2016,2027
+2W0DX0,Traction Apparatus,2W0DX,2016,2027
+2W0DX0Z,Change Traction Apparatus on Left Lower Arm,2W0DX0,2016,2027
+2W0DX1,Splint,2W0DX,2016,2027
+2W0DX1Z,Change Splint on Left Lower Arm,2W0DX1,2016,2027
+2W0DX2,Cast,2W0DX,2016,2027
+2W0DX2Z,Change Cast on Left Lower Arm,2W0DX2,2016,2027
+2W0DX3,Brace,2W0DX,2016,2027
+2W0DX3Z,Change Brace on Left Lower Arm,2W0DX3,2016,2027
+2W0DX4,Bandage,2W0DX,2016,2027
+2W0DX4Z,Change Bandage on Left Lower Arm,2W0DX4,2016,2027
+2W0DX5,Packing Material,2W0DX,2016,2027
+2W0DX5Z,Change Packing Material on Left Lower Arm,2W0DX5,2016,2027
+2W0DX6,Pressure Dressing,2W0DX,2016,2027
+2W0DX6Z,Change Pressure Dressing on Left Lower Arm,2W0DX6,2016,2027
+2W0DX7,Intermittent Pressure Device,2W0DX,2016,2027
+2W0DX7Z,Change Intermittent Pressure Device on Left Lower Arm,2W0DX7,2016,2027
+2W0DXY,Other Device,2W0DX,2016,2027
+2W0DXYZ,Change Other Device on Left Lower Arm,2W0DXY,2016,2027
+2W0E,"Hand, Right",2W0,2016,2027
+2W0EX,External,2W0E,2016,2027
+2W0EX0,Traction Apparatus,2W0EX,2016,2027
+2W0EX0Z,Change Traction Apparatus on Right Hand,2W0EX0,2016,2027
+2W0EX1,Splint,2W0EX,2016,2027
+2W0EX1Z,Change Splint on Right Hand,2W0EX1,2016,2027
+2W0EX2,Cast,2W0EX,2016,2027
+2W0EX2Z,Change Cast on Right Hand,2W0EX2,2016,2027
+2W0EX3,Brace,2W0EX,2016,2027
+2W0EX3Z,Change Brace on Right Hand,2W0EX3,2016,2027
+2W0EX4,Bandage,2W0EX,2016,2027
+2W0EX4Z,Change Bandage on Right Hand,2W0EX4,2016,2027
+2W0EX5,Packing Material,2W0EX,2016,2027
+2W0EX5Z,Change Packing Material on Right Hand,2W0EX5,2016,2027
+2W0EX6,Pressure Dressing,2W0EX,2016,2027
+2W0EX6Z,Change Pressure Dressing on Right Hand,2W0EX6,2016,2027
+2W0EX7,Intermittent Pressure Device,2W0EX,2016,2027
+2W0EX7Z,Change Intermittent Pressure Device on Right Hand,2W0EX7,2016,2027
+2W0EXY,Other Device,2W0EX,2016,2027
+2W0EXYZ,Change Other Device on Right Hand,2W0EXY,2016,2027
+2W0F,"Hand, Left",2W0,2016,2027
+2W0FX,External,2W0F,2016,2027
+2W0FX0,Traction Apparatus,2W0FX,2016,2027
+2W0FX0Z,Change Traction Apparatus on Left Hand,2W0FX0,2016,2027
+2W0FX1,Splint,2W0FX,2016,2027
+2W0FX1Z,Change Splint on Left Hand,2W0FX1,2016,2027
+2W0FX2,Cast,2W0FX,2016,2027
+2W0FX2Z,Change Cast on Left Hand,2W0FX2,2016,2027
+2W0FX3,Brace,2W0FX,2016,2027
+2W0FX3Z,Change Brace on Left Hand,2W0FX3,2016,2027
+2W0FX4,Bandage,2W0FX,2016,2027
+2W0FX4Z,Change Bandage on Left Hand,2W0FX4,2016,2027
+2W0FX5,Packing Material,2W0FX,2016,2027
+2W0FX5Z,Change Packing Material on Left Hand,2W0FX5,2016,2027
+2W0FX6,Pressure Dressing,2W0FX,2016,2027
+2W0FX6Z,Change Pressure Dressing on Left Hand,2W0FX6,2016,2027
+2W0FX7,Intermittent Pressure Device,2W0FX,2016,2027
+2W0FX7Z,Change Intermittent Pressure Device on Left Hand,2W0FX7,2016,2027
+2W0FXY,Other Device,2W0FX,2016,2027
+2W0FXYZ,Change Other Device on Left Hand,2W0FXY,2016,2027
+2W0G,"Thumb, Right",2W0,2016,2027
+2W0GX,External,2W0G,2016,2027
+2W0GX0,Traction Apparatus,2W0GX,2016,2027
+2W0GX0Z,Change Traction Apparatus on Right Thumb,2W0GX0,2016,2027
+2W0GX1,Splint,2W0GX,2016,2027
+2W0GX1Z,Change Splint on Right Thumb,2W0GX1,2016,2027
+2W0GX2,Cast,2W0GX,2016,2027
+2W0GX2Z,Change Cast on Right Thumb,2W0GX2,2016,2027
+2W0GX3,Brace,2W0GX,2016,2027
+2W0GX3Z,Change Brace on Right Thumb,2W0GX3,2016,2027
+2W0GX4,Bandage,2W0GX,2016,2027
+2W0GX4Z,Change Bandage on Right Thumb,2W0GX4,2016,2027
+2W0GX5,Packing Material,2W0GX,2016,2027
+2W0GX5Z,Change Packing Material on Right Thumb,2W0GX5,2016,2027
+2W0GX6,Pressure Dressing,2W0GX,2016,2027
+2W0GX6Z,Change Pressure Dressing on Right Thumb,2W0GX6,2016,2027
+2W0GX7,Intermittent Pressure Device,2W0GX,2016,2027
+2W0GX7Z,Change Intermittent Pressure Device on Right Thumb,2W0GX7,2016,2027
+2W0GXY,Other Device,2W0GX,2016,2027
+2W0GXYZ,Change Other Device on Right Thumb,2W0GXY,2016,2027
+2W0H,"Thumb, Left",2W0,2016,2027
+2W0HX,External,2W0H,2016,2027
+2W0HX0,Traction Apparatus,2W0HX,2016,2027
+2W0HX0Z,Change Traction Apparatus on Left Thumb,2W0HX0,2016,2027
+2W0HX1,Splint,2W0HX,2016,2027
+2W0HX1Z,Change Splint on Left Thumb,2W0HX1,2016,2027
+2W0HX2,Cast,2W0HX,2016,2027
+2W0HX2Z,Change Cast on Left Thumb,2W0HX2,2016,2027
+2W0HX3,Brace,2W0HX,2016,2027
+2W0HX3Z,Change Brace on Left Thumb,2W0HX3,2016,2027
+2W0HX4,Bandage,2W0HX,2016,2027
+2W0HX4Z,Change Bandage on Left Thumb,2W0HX4,2016,2027
+2W0HX5,Packing Material,2W0HX,2016,2027
+2W0HX5Z,Change Packing Material on Left Thumb,2W0HX5,2016,2027
+2W0HX6,Pressure Dressing,2W0HX,2016,2027
+2W0HX6Z,Change Pressure Dressing on Left Thumb,2W0HX6,2016,2027
+2W0HX7,Intermittent Pressure Device,2W0HX,2016,2027
+2W0HX7Z,Change Intermittent Pressure Device on Left Thumb,2W0HX7,2016,2027
+2W0HXY,Other Device,2W0HX,2016,2027
+2W0HXYZ,Change Other Device on Left Thumb,2W0HXY,2016,2027
+2W0J,"Finger, Right",2W0,2016,2027
+2W0JX,External,2W0J,2016,2027
+2W0JX0,Traction Apparatus,2W0JX,2016,2027
+2W0JX0Z,Change Traction Apparatus on Right Finger,2W0JX0,2016,2027
+2W0JX1,Splint,2W0JX,2016,2027
+2W0JX1Z,Change Splint on Right Finger,2W0JX1,2016,2027
+2W0JX2,Cast,2W0JX,2016,2027
+2W0JX2Z,Change Cast on Right Finger,2W0JX2,2016,2027
+2W0JX3,Brace,2W0JX,2016,2027
+2W0JX3Z,Change Brace on Right Finger,2W0JX3,2016,2027
+2W0JX4,Bandage,2W0JX,2016,2027
+2W0JX4Z,Change Bandage on Right Finger,2W0JX4,2016,2027
+2W0JX5,Packing Material,2W0JX,2016,2027
+2W0JX5Z,Change Packing Material on Right Finger,2W0JX5,2016,2027
+2W0JX6,Pressure Dressing,2W0JX,2016,2027
+2W0JX6Z,Change Pressure Dressing on Right Finger,2W0JX6,2016,2027
+2W0JX7,Intermittent Pressure Device,2W0JX,2016,2027
+2W0JX7Z,Change Intermittent Pressure Device on Right Finger,2W0JX7,2016,2027
+2W0JXY,Other Device,2W0JX,2016,2027
+2W0JXYZ,Change Other Device on Right Finger,2W0JXY,2016,2027
+2W0K,"Finger, Left",2W0,2016,2027
+2W0KX,External,2W0K,2016,2027
+2W0KX0,Traction Apparatus,2W0KX,2016,2027
+2W0KX0Z,Change Traction Apparatus on Left Finger,2W0KX0,2016,2027
+2W0KX1,Splint,2W0KX,2016,2027
+2W0KX1Z,Change Splint on Left Finger,2W0KX1,2016,2027
+2W0KX2,Cast,2W0KX,2016,2027
+2W0KX2Z,Change Cast on Left Finger,2W0KX2,2016,2027
+2W0KX3,Brace,2W0KX,2016,2027
+2W0KX3Z,Change Brace on Left Finger,2W0KX3,2016,2027
+2W0KX4,Bandage,2W0KX,2016,2027
+2W0KX4Z,Change Bandage on Left Finger,2W0KX4,2016,2027
+2W0KX5,Packing Material,2W0KX,2016,2027
+2W0KX5Z,Change Packing Material on Left Finger,2W0KX5,2016,2027
+2W0KX6,Pressure Dressing,2W0KX,2016,2027
+2W0KX6Z,Change Pressure Dressing on Left Finger,2W0KX6,2016,2027
+2W0KX7,Intermittent Pressure Device,2W0KX,2016,2027
+2W0KX7Z,Change Intermittent Pressure Device on Left Finger,2W0KX7,2016,2027
+2W0KXY,Other Device,2W0KX,2016,2027
+2W0KXYZ,Change Other Device on Left Finger,2W0KXY,2016,2027
+2W0L,"Lower Extremity, Right",2W0,2016,2027
+2W0LX,External,2W0L,2016,2027
+2W0LX0,Traction Apparatus,2W0LX,2016,2027
+2W0LX0Z,Change Traction Apparatus on Right Lower Extremity,2W0LX0,2016,2027
+2W0LX1,Splint,2W0LX,2016,2027
+2W0LX1Z,Change Splint on Right Lower Extremity,2W0LX1,2016,2027
+2W0LX2,Cast,2W0LX,2016,2027
+2W0LX2Z,Change Cast on Right Lower Extremity,2W0LX2,2016,2027
+2W0LX3,Brace,2W0LX,2016,2027
+2W0LX3Z,Change Brace on Right Lower Extremity,2W0LX3,2016,2027
+2W0LX4,Bandage,2W0LX,2016,2027
+2W0LX4Z,Change Bandage on Right Lower Extremity,2W0LX4,2016,2027
+2W0LX5,Packing Material,2W0LX,2016,2027
+2W0LX5Z,Change Packing Material on Right Lower Extremity,2W0LX5,2016,2027
+2W0LX6,Pressure Dressing,2W0LX,2016,2027
+2W0LX6Z,Change Pressure Dressing on Right Lower Extremity,2W0LX6,2016,2027
+2W0LX7,Intermittent Pressure Device,2W0LX,2016,2027
+2W0LX7Z,Change Intermittent Pressure Device on Right Lower Extremity,2W0LX7,2016,2027
+2W0LXY,Other Device,2W0LX,2016,2027
+2W0LXYZ,Change Other Device on Right Lower Extremity,2W0LXY,2016,2027
+2W0M,"Lower Extremity, Left",2W0,2016,2027
+2W0MX,External,2W0M,2016,2027
+2W0MX0,Traction Apparatus,2W0MX,2016,2027
+2W0MX0Z,Change Traction Apparatus on Left Lower Extremity,2W0MX0,2016,2027
+2W0MX1,Splint,2W0MX,2016,2027
+2W0MX1Z,Change Splint on Left Lower Extremity,2W0MX1,2016,2027
+2W0MX2,Cast,2W0MX,2016,2027
+2W0MX2Z,Change Cast on Left Lower Extremity,2W0MX2,2016,2027
+2W0MX3,Brace,2W0MX,2016,2027
+2W0MX3Z,Change Brace on Left Lower Extremity,2W0MX3,2016,2027
+2W0MX4,Bandage,2W0MX,2016,2027
+2W0MX4Z,Change Bandage on Left Lower Extremity,2W0MX4,2016,2027
+2W0MX5,Packing Material,2W0MX,2016,2027
+2W0MX5Z,Change Packing Material on Left Lower Extremity,2W0MX5,2016,2027
+2W0MX6,Pressure Dressing,2W0MX,2016,2027
+2W0MX6Z,Change Pressure Dressing on Left Lower Extremity,2W0MX6,2016,2027
+2W0MX7,Intermittent Pressure Device,2W0MX,2016,2027
+2W0MX7Z,Change Intermittent Pressure Device on Left Lower Extremity,2W0MX7,2016,2027
+2W0MXY,Other Device,2W0MX,2016,2027
+2W0MXYZ,Change Other Device on Left Lower Extremity,2W0MXY,2016,2027
+2W0N,"Upper Leg, Right",2W0,2016,2027
+2W0NX,External,2W0N,2016,2027
+2W0NX0,Traction Apparatus,2W0NX,2016,2027
+2W0NX0Z,Change Traction Apparatus on Right Upper Leg,2W0NX0,2016,2027
+2W0NX1,Splint,2W0NX,2016,2027
+2W0NX1Z,Change Splint on Right Upper Leg,2W0NX1,2016,2027
+2W0NX2,Cast,2W0NX,2016,2027
+2W0NX2Z,Change Cast on Right Upper Leg,2W0NX2,2016,2027
+2W0NX3,Brace,2W0NX,2016,2027
+2W0NX3Z,Change Brace on Right Upper Leg,2W0NX3,2016,2027
+2W0NX4,Bandage,2W0NX,2016,2027
+2W0NX4Z,Change Bandage on Right Upper Leg,2W0NX4,2016,2027
+2W0NX5,Packing Material,2W0NX,2016,2027
+2W0NX5Z,Change Packing Material on Right Upper Leg,2W0NX5,2016,2027
+2W0NX6,Pressure Dressing,2W0NX,2016,2027
+2W0NX6Z,Change Pressure Dressing on Right Upper Leg,2W0NX6,2016,2027
+2W0NX7,Intermittent Pressure Device,2W0NX,2016,2027
+2W0NX7Z,Change Intermittent Pressure Device on Right Upper Leg,2W0NX7,2016,2027
+2W0NXY,Other Device,2W0NX,2016,2027
+2W0NXYZ,Change Other Device on Right Upper Leg,2W0NXY,2016,2027
+2W0P,"Upper Leg, Left",2W0,2016,2027
+2W0PX,External,2W0P,2016,2027
+2W0PX0,Traction Apparatus,2W0PX,2016,2027
+2W0PX0Z,Change Traction Apparatus on Left Upper Leg,2W0PX0,2016,2027
+2W0PX1,Splint,2W0PX,2016,2027
+2W0PX1Z,Change Splint on Left Upper Leg,2W0PX1,2016,2027
+2W0PX2,Cast,2W0PX,2016,2027
+2W0PX2Z,Change Cast on Left Upper Leg,2W0PX2,2016,2027
+2W0PX3,Brace,2W0PX,2016,2027
+2W0PX3Z,Change Brace on Left Upper Leg,2W0PX3,2016,2027
+2W0PX4,Bandage,2W0PX,2016,2027
+2W0PX4Z,Change Bandage on Left Upper Leg,2W0PX4,2016,2027
+2W0PX5,Packing Material,2W0PX,2016,2027
+2W0PX5Z,Change Packing Material on Left Upper Leg,2W0PX5,2016,2027
+2W0PX6,Pressure Dressing,2W0PX,2016,2027
+2W0PX6Z,Change Pressure Dressing on Left Upper Leg,2W0PX6,2016,2027
+2W0PX7,Intermittent Pressure Device,2W0PX,2016,2027
+2W0PX7Z,Change Intermittent Pressure Device on Left Upper Leg,2W0PX7,2016,2027
+2W0PXY,Other Device,2W0PX,2016,2027
+2W0PXYZ,Change Other Device on Left Upper Leg,2W0PXY,2016,2027
+2W0Q,"Lower Leg, Right",2W0,2016,2027
+2W0QX,External,2W0Q,2016,2027
+2W0QX0,Traction Apparatus,2W0QX,2016,2027
+2W0QX0Z,Change Traction Apparatus on Right Lower Leg,2W0QX0,2016,2027
+2W0QX1,Splint,2W0QX,2016,2027
+2W0QX1Z,Change Splint on Right Lower Leg,2W0QX1,2016,2027
+2W0QX2,Cast,2W0QX,2016,2027
+2W0QX2Z,Change Cast on Right Lower Leg,2W0QX2,2016,2027
+2W0QX3,Brace,2W0QX,2016,2027
+2W0QX3Z,Change Brace on Right Lower Leg,2W0QX3,2016,2027
+2W0QX4,Bandage,2W0QX,2016,2027
+2W0QX4Z,Change Bandage on Right Lower Leg,2W0QX4,2016,2027
+2W0QX5,Packing Material,2W0QX,2016,2027
+2W0QX5Z,Change Packing Material on Right Lower Leg,2W0QX5,2016,2027
+2W0QX6,Pressure Dressing,2W0QX,2016,2027
+2W0QX6Z,Change Pressure Dressing on Right Lower Leg,2W0QX6,2016,2027
+2W0QX7,Intermittent Pressure Device,2W0QX,2016,2027
+2W0QX7Z,Change Intermittent Pressure Device on Right Lower Leg,2W0QX7,2016,2027
+2W0QXY,Other Device,2W0QX,2016,2027
+2W0QXYZ,Change Other Device on Right Lower Leg,2W0QXY,2016,2027
+2W0R,"Lower Leg, Left",2W0,2016,2027
+2W0RX,External,2W0R,2016,2027
+2W0RX0,Traction Apparatus,2W0RX,2016,2027
+2W0RX0Z,Change Traction Apparatus on Left Lower Leg,2W0RX0,2016,2027
+2W0RX1,Splint,2W0RX,2016,2027
+2W0RX1Z,Change Splint on Left Lower Leg,2W0RX1,2016,2027
+2W0RX2,Cast,2W0RX,2016,2027
+2W0RX2Z,Change Cast on Left Lower Leg,2W0RX2,2016,2027
+2W0RX3,Brace,2W0RX,2016,2027
+2W0RX3Z,Change Brace on Left Lower Leg,2W0RX3,2016,2027
+2W0RX4,Bandage,2W0RX,2016,2027
+2W0RX4Z,Change Bandage on Left Lower Leg,2W0RX4,2016,2027
+2W0RX5,Packing Material,2W0RX,2016,2027
+2W0RX5Z,Change Packing Material on Left Lower Leg,2W0RX5,2016,2027
+2W0RX6,Pressure Dressing,2W0RX,2016,2027
+2W0RX6Z,Change Pressure Dressing on Left Lower Leg,2W0RX6,2016,2027
+2W0RX7,Intermittent Pressure Device,2W0RX,2016,2027
+2W0RX7Z,Change Intermittent Pressure Device on Left Lower Leg,2W0RX7,2016,2027
+2W0RXY,Other Device,2W0RX,2016,2027
+2W0RXYZ,Change Other Device on Left Lower Leg,2W0RXY,2016,2027
+2W0S,"Foot, Right",2W0,2016,2027
+2W0SX,External,2W0S,2016,2027
+2W0SX0,Traction Apparatus,2W0SX,2016,2027
+2W0SX0Z,Change Traction Apparatus on Right Foot,2W0SX0,2016,2027
+2W0SX1,Splint,2W0SX,2016,2027
+2W0SX1Z,Change Splint on Right Foot,2W0SX1,2016,2027
+2W0SX2,Cast,2W0SX,2016,2027
+2W0SX2Z,Change Cast on Right Foot,2W0SX2,2016,2027
+2W0SX3,Brace,2W0SX,2016,2027
+2W0SX3Z,Change Brace on Right Foot,2W0SX3,2016,2027
+2W0SX4,Bandage,2W0SX,2016,2027
+2W0SX4Z,Change Bandage on Right Foot,2W0SX4,2016,2027
+2W0SX5,Packing Material,2W0SX,2016,2027
+2W0SX5Z,Change Packing Material on Right Foot,2W0SX5,2016,2027
+2W0SX6,Pressure Dressing,2W0SX,2016,2027
+2W0SX6Z,Change Pressure Dressing on Right Foot,2W0SX6,2016,2027
+2W0SX7,Intermittent Pressure Device,2W0SX,2016,2027
+2W0SX7Z,Change Intermittent Pressure Device on Right Foot,2W0SX7,2016,2027
+2W0SXY,Other Device,2W0SX,2016,2027
+2W0SXYZ,Change Other Device on Right Foot,2W0SXY,2016,2027
+2W0T,"Foot, Left",2W0,2016,2027
+2W0TX,External,2W0T,2016,2027
+2W0TX0,Traction Apparatus,2W0TX,2016,2027
+2W0TX0Z,Change Traction Apparatus on Left Foot,2W0TX0,2016,2027
+2W0TX1,Splint,2W0TX,2016,2027
+2W0TX1Z,Change Splint on Left Foot,2W0TX1,2016,2027
+2W0TX2,Cast,2W0TX,2016,2027
+2W0TX2Z,Change Cast on Left Foot,2W0TX2,2016,2027
+2W0TX3,Brace,2W0TX,2016,2027
+2W0TX3Z,Change Brace on Left Foot,2W0TX3,2016,2027
+2W0TX4,Bandage,2W0TX,2016,2027
+2W0TX4Z,Change Bandage on Left Foot,2W0TX4,2016,2027
+2W0TX5,Packing Material,2W0TX,2016,2027
+2W0TX5Z,Change Packing Material on Left Foot,2W0TX5,2016,2027
+2W0TX6,Pressure Dressing,2W0TX,2016,2027
+2W0TX6Z,Change Pressure Dressing on Left Foot,2W0TX6,2016,2027
+2W0TX7,Intermittent Pressure Device,2W0TX,2016,2027
+2W0TX7Z,Change Intermittent Pressure Device on Left Foot,2W0TX7,2016,2027
+2W0TXY,Other Device,2W0TX,2016,2027
+2W0TXYZ,Change Other Device on Left Foot,2W0TXY,2016,2027
+2W0U,"Toe, Right",2W0,2016,2027
+2W0UX,External,2W0U,2016,2027
+2W0UX0,Traction Apparatus,2W0UX,2016,2027
+2W0UX0Z,Change Traction Apparatus on Right Toe,2W0UX0,2016,2027
+2W0UX1,Splint,2W0UX,2016,2027
+2W0UX1Z,Change Splint on Right Toe,2W0UX1,2016,2027
+2W0UX2,Cast,2W0UX,2016,2027
+2W0UX2Z,Change Cast on Right Toe,2W0UX2,2016,2027
+2W0UX3,Brace,2W0UX,2016,2027
+2W0UX3Z,Change Brace on Right Toe,2W0UX3,2016,2027
+2W0UX4,Bandage,2W0UX,2016,2027
+2W0UX4Z,Change Bandage on Right Toe,2W0UX4,2016,2027
+2W0UX5,Packing Material,2W0UX,2016,2027
+2W0UX5Z,Change Packing Material on Right Toe,2W0UX5,2016,2027
+2W0UX6,Pressure Dressing,2W0UX,2016,2027
+2W0UX6Z,Change Pressure Dressing on Right Toe,2W0UX6,2016,2027
+2W0UX7,Intermittent Pressure Device,2W0UX,2016,2027
+2W0UX7Z,Change Intermittent Pressure Device on Right Toe,2W0UX7,2016,2027
+2W0UXY,Other Device,2W0UX,2016,2027
+2W0UXYZ,Change Other Device on Right Toe,2W0UXY,2016,2027
+2W0V,"Toe, Left",2W0,2016,2027
+2W0VX,External,2W0V,2016,2027
+2W0VX0,Traction Apparatus,2W0VX,2016,2027
+2W0VX0Z,Change Traction Apparatus on Left Toe,2W0VX0,2016,2027
+2W0VX1,Splint,2W0VX,2016,2027
+2W0VX1Z,Change Splint on Left Toe,2W0VX1,2016,2027
+2W0VX2,Cast,2W0VX,2016,2027
+2W0VX2Z,Change Cast on Left Toe,2W0VX2,2016,2027
+2W0VX3,Brace,2W0VX,2016,2027
+2W0VX3Z,Change Brace on Left Toe,2W0VX3,2016,2027
+2W0VX4,Bandage,2W0VX,2016,2027
+2W0VX4Z,Change Bandage on Left Toe,2W0VX4,2016,2027
+2W0VX5,Packing Material,2W0VX,2016,2027
+2W0VX5Z,Change Packing Material on Left Toe,2W0VX5,2016,2027
+2W0VX6,Pressure Dressing,2W0VX,2016,2027
+2W0VX6Z,Change Pressure Dressing on Left Toe,2W0VX6,2016,2027
+2W0VX7,Intermittent Pressure Device,2W0VX,2016,2027
+2W0VX7Z,Change Intermittent Pressure Device on Left Toe,2W0VX7,2016,2027
+2W0VXY,Other Device,2W0VX,2016,2027
+2W0VXYZ,Change Other Device on Left Toe,2W0VXY,2016,2027
+2W1,Compression,2W,2016,2027
+2W10,Head,2W1,2016,2027
+2W10X,External,2W10,2016,2027
+2W10X6,Pressure Dressing,2W10X,2016,2027
+2W10X6Z,Compression of Head using Pressure Dressing,2W10X6,2016,2027
+2W10X7,Intermittent Pressure Device,2W10X,2016,2027
+2W10X7Z,Compression of Head using Intermittent Pressure Device,2W10X7,2016,2027
+2W11,Face,2W1,2016,2027
+2W11X,External,2W11,2016,2027
+2W11X6,Pressure Dressing,2W11X,2016,2027
+2W11X6Z,Compression of Face using Pressure Dressing,2W11X6,2016,2027
+2W11X7,Intermittent Pressure Device,2W11X,2016,2027
+2W11X7Z,Compression of Face using Intermittent Pressure Device,2W11X7,2016,2027
+2W12,Neck,2W1,2016,2027
+2W12X,External,2W12,2016,2027
+2W12X6,Pressure Dressing,2W12X,2016,2027
+2W12X6Z,Compression of Neck using Pressure Dressing,2W12X6,2016,2027
+2W12X7,Intermittent Pressure Device,2W12X,2016,2027
+2W12X7Z,Compression of Neck using Intermittent Pressure Device,2W12X7,2016,2027
+2W13,Abdominal Wall,2W1,2016,2027
+2W13X,External,2W13,2016,2027
+2W13X6,Pressure Dressing,2W13X,2016,2027
+2W13X6Z,Compression of Abdominal Wall using Pressure Dressing,2W13X6,2016,2027
+2W13X7,Intermittent Pressure Device,2W13X,2016,2027
+2W13X7Z,Compression of Abdominal Wall using Intermittent Pressure Device,2W13X7,2016,2027
+2W14,Chest Wall,2W1,2016,2027
+2W14X,External,2W14,2016,2027
+2W14X6,Pressure Dressing,2W14X,2016,2027
+2W14X6Z,Compression of Chest Wall using Pressure Dressing,2W14X6,2016,2027
+2W14X7,Intermittent Pressure Device,2W14X,2016,2027
+2W14X7Z,Compression of Chest Wall using Intermittent Pressure Device,2W14X7,2016,2027
+2W15,Back,2W1,2016,2027
+2W15X,External,2W15,2016,2027
+2W15X6,Pressure Dressing,2W15X,2016,2027
+2W15X6Z,Compression of Back using Pressure Dressing,2W15X6,2016,2027
+2W15X7,Intermittent Pressure Device,2W15X,2016,2027
+2W15X7Z,Compression of Back using Intermittent Pressure Device,2W15X7,2016,2027
+2W16,"Inguinal Region, Right",2W1,2016,2027
+2W16X,External,2W16,2016,2027
+2W16X6,Pressure Dressing,2W16X,2016,2027
+2W16X6Z,Compression of Right Inguinal Region using Pressure Dressing,2W16X6,2016,2027
+2W16X7,Intermittent Pressure Device,2W16X,2016,2027
+2W16X7Z,Compression of Right Inguinal Region using Intermittent Pressure Device,2W16X7,2016,2027
+2W17,"Inguinal Region, Left",2W1,2016,2027
+2W17X,External,2W17,2016,2027
+2W17X6,Pressure Dressing,2W17X,2016,2027
+2W17X6Z,Compression of Left Inguinal Region using Pressure Dressing,2W17X6,2016,2027
+2W17X7,Intermittent Pressure Device,2W17X,2016,2027
+2W17X7Z,Compression of Left Inguinal Region using Intermittent Pressure Device,2W17X7,2016,2027
+2W18,"Upper Extremity, Right",2W1,2016,2027
+2W18X,External,2W18,2016,2027
+2W18X6,Pressure Dressing,2W18X,2016,2027
+2W18X6Z,Compression of Right Upper Extremity using Pressure Dressing,2W18X6,2016,2027
+2W18X7,Intermittent Pressure Device,2W18X,2016,2027
+2W18X7Z,Compression of Right Upper Extremity using Intermittent Pressure Device,2W18X7,2016,2027
+2W19,"Upper Extremity, Left",2W1,2016,2027
+2W19X,External,2W19,2016,2027
+2W19X6,Pressure Dressing,2W19X,2016,2027
+2W19X6Z,Compression of Left Upper Extremity using Pressure Dressing,2W19X6,2016,2027
+2W19X7,Intermittent Pressure Device,2W19X,2016,2027
+2W19X7Z,Compression of Left Upper Extremity using Intermittent Pressure Device,2W19X7,2016,2027
+2W1A,"Upper Arm, Right",2W1,2016,2027
+2W1AX,External,2W1A,2016,2027
+2W1AX6,Pressure Dressing,2W1AX,2016,2027
+2W1AX6Z,Compression of Right Upper Arm using Pressure Dressing,2W1AX6,2016,2027
+2W1AX7,Intermittent Pressure Device,2W1AX,2016,2027
+2W1AX7Z,Compression of Right Upper Arm using Intermittent Pressure Device,2W1AX7,2016,2027
+2W1B,"Upper Arm, Left",2W1,2016,2027
+2W1BX,External,2W1B,2016,2027
+2W1BX6,Pressure Dressing,2W1BX,2016,2027
+2W1BX6Z,Compression of Left Upper Arm using Pressure Dressing,2W1BX6,2016,2027
+2W1BX7,Intermittent Pressure Device,2W1BX,2016,2027
+2W1BX7Z,Compression of Left Upper Arm using Intermittent Pressure Device,2W1BX7,2016,2027
+2W1C,"Lower Arm, Right",2W1,2016,2027
+2W1CX,External,2W1C,2016,2027
+2W1CX6,Pressure Dressing,2W1CX,2016,2027
+2W1CX6Z,Compression of Right Lower Arm using Pressure Dressing,2W1CX6,2016,2027
+2W1CX7,Intermittent Pressure Device,2W1CX,2016,2027
+2W1CX7Z,Compression of Right Lower Arm using Intermittent Pressure Device,2W1CX7,2016,2027
+2W1D,"Lower Arm, Left",2W1,2016,2027
+2W1DX,External,2W1D,2016,2027
+2W1DX6,Pressure Dressing,2W1DX,2016,2027
+2W1DX6Z,Compression of Left Lower Arm using Pressure Dressing,2W1DX6,2016,2027
+2W1DX7,Intermittent Pressure Device,2W1DX,2016,2027
+2W1DX7Z,Compression of Left Lower Arm using Intermittent Pressure Device,2W1DX7,2016,2027
+2W1E,"Hand, Right",2W1,2016,2027
+2W1EX,External,2W1E,2016,2027
+2W1EX6,Pressure Dressing,2W1EX,2016,2027
+2W1EX6Z,Compression of Right Hand using Pressure Dressing,2W1EX6,2016,2027
+2W1EX7,Intermittent Pressure Device,2W1EX,2016,2027
+2W1EX7Z,Compression of Right Hand using Intermittent Pressure Device,2W1EX7,2016,2027
+2W1F,"Hand, Left",2W1,2016,2027
+2W1FX,External,2W1F,2016,2027
+2W1FX6,Pressure Dressing,2W1FX,2016,2027
+2W1FX6Z,Compression of Left Hand using Pressure Dressing,2W1FX6,2016,2027
+2W1FX7,Intermittent Pressure Device,2W1FX,2016,2027
+2W1FX7Z,Compression of Left Hand using Intermittent Pressure Device,2W1FX7,2016,2027
+2W1G,"Thumb, Right",2W1,2016,2027
+2W1GX,External,2W1G,2016,2027
+2W1GX6,Pressure Dressing,2W1GX,2016,2027
+2W1GX6Z,Compression of Right Thumb using Pressure Dressing,2W1GX6,2016,2027
+2W1GX7,Intermittent Pressure Device,2W1GX,2016,2027
+2W1GX7Z,Compression of Right Thumb using Intermittent Pressure Device,2W1GX7,2016,2027
+2W1H,"Thumb, Left",2W1,2016,2027
+2W1HX,External,2W1H,2016,2027
+2W1HX6,Pressure Dressing,2W1HX,2016,2027
+2W1HX6Z,Compression of Left Thumb using Pressure Dressing,2W1HX6,2016,2027
+2W1HX7,Intermittent Pressure Device,2W1HX,2016,2027
+2W1HX7Z,Compression of Left Thumb using Intermittent Pressure Device,2W1HX7,2016,2027
+2W1J,"Finger, Right",2W1,2016,2027
+2W1JX,External,2W1J,2016,2027
+2W1JX6,Pressure Dressing,2W1JX,2016,2027
+2W1JX6Z,Compression of Right Finger using Pressure Dressing,2W1JX6,2016,2027
+2W1JX7,Intermittent Pressure Device,2W1JX,2016,2027
+2W1JX7Z,Compression of Right Finger using Intermittent Pressure Device,2W1JX7,2016,2027
+2W1K,"Finger, Left",2W1,2016,2027
+2W1KX,External,2W1K,2016,2027
+2W1KX6,Pressure Dressing,2W1KX,2016,2027
+2W1KX6Z,Compression of Left Finger using Pressure Dressing,2W1KX6,2016,2027
+2W1KX7,Intermittent Pressure Device,2W1KX,2016,2027
+2W1KX7Z,Compression of Left Finger using Intermittent Pressure Device,2W1KX7,2016,2027
+2W1L,"Lower Extremity, Right",2W1,2016,2027
+2W1LX,External,2W1L,2016,2027
+2W1LX6,Pressure Dressing,2W1LX,2016,2027
+2W1LX6Z,Compression of Right Lower Extremity using Pressure Dressing,2W1LX6,2016,2027
+2W1LX7,Intermittent Pressure Device,2W1LX,2016,2027
+2W1LX7Z,Compression of Right Lower Extremity using Intermittent Pressure Device,2W1LX7,2016,2027
+2W1M,"Lower Extremity, Left",2W1,2016,2027
+2W1MX,External,2W1M,2016,2027
+2W1MX6,Pressure Dressing,2W1MX,2016,2027
+2W1MX6Z,Compression of Left Lower Extremity using Pressure Dressing,2W1MX6,2016,2027
+2W1MX7,Intermittent Pressure Device,2W1MX,2016,2027
+2W1MX7Z,Compression of Left Lower Extremity using Intermittent Pressure Device,2W1MX7,2016,2027
+2W1N,"Upper Leg, Right",2W1,2016,2027
+2W1NX,External,2W1N,2016,2027
+2W1NX6,Pressure Dressing,2W1NX,2016,2027
+2W1NX6Z,Compression of Right Upper Leg using Pressure Dressing,2W1NX6,2016,2027
+2W1NX7,Intermittent Pressure Device,2W1NX,2016,2027
+2W1NX7Z,Compression of Right Upper Leg using Intermittent Pressure Device,2W1NX7,2016,2027
+2W1P,"Upper Leg, Left",2W1,2016,2027
+2W1PX,External,2W1P,2016,2027
+2W1PX6,Pressure Dressing,2W1PX,2016,2027
+2W1PX6Z,Compression of Left Upper Leg using Pressure Dressing,2W1PX6,2016,2027
+2W1PX7,Intermittent Pressure Device,2W1PX,2016,2027
+2W1PX7Z,Compression of Left Upper Leg using Intermittent Pressure Device,2W1PX7,2016,2027
+2W1Q,"Lower Leg, Right",2W1,2016,2027
+2W1QX,External,2W1Q,2016,2027
+2W1QX6,Pressure Dressing,2W1QX,2016,2027
+2W1QX6Z,Compression of Right Lower Leg using Pressure Dressing,2W1QX6,2016,2027
+2W1QX7,Intermittent Pressure Device,2W1QX,2016,2027
+2W1QX7Z,Compression of Right Lower Leg using Intermittent Pressure Device,2W1QX7,2016,2027
+2W1R,"Lower Leg, Left",2W1,2016,2027
+2W1RX,External,2W1R,2016,2027
+2W1RX6,Pressure Dressing,2W1RX,2016,2027
+2W1RX6Z,Compression of Left Lower Leg using Pressure Dressing,2W1RX6,2016,2027
+2W1RX7,Intermittent Pressure Device,2W1RX,2016,2027
+2W1RX7Z,Compression of Left Lower Leg using Intermittent Pressure Device,2W1RX7,2016,2027
+2W1S,"Foot, Right",2W1,2016,2027
+2W1SX,External,2W1S,2016,2027
+2W1SX6,Pressure Dressing,2W1SX,2016,2027
+2W1SX6Z,Compression of Right Foot using Pressure Dressing,2W1SX6,2016,2027
+2W1SX7,Intermittent Pressure Device,2W1SX,2016,2027
+2W1SX7Z,Compression of Right Foot using Intermittent Pressure Device,2W1SX7,2016,2027
+2W1T,"Foot, Left",2W1,2016,2027
+2W1TX,External,2W1T,2016,2027
+2W1TX6,Pressure Dressing,2W1TX,2016,2027
+2W1TX6Z,Compression of Left Foot using Pressure Dressing,2W1TX6,2016,2027
+2W1TX7,Intermittent Pressure Device,2W1TX,2016,2027
+2W1TX7Z,Compression of Left Foot using Intermittent Pressure Device,2W1TX7,2016,2027
+2W1U,"Toe, Right",2W1,2016,2027
+2W1UX,External,2W1U,2016,2027
+2W1UX6,Pressure Dressing,2W1UX,2016,2027
+2W1UX6Z,Compression of Right Toe using Pressure Dressing,2W1UX6,2016,2027
+2W1UX7,Intermittent Pressure Device,2W1UX,2016,2027
+2W1UX7Z,Compression of Right Toe using Intermittent Pressure Device,2W1UX7,2016,2027
+2W1V,"Toe, Left",2W1,2016,2027
+2W1VX,External,2W1V,2016,2027
+2W1VX6,Pressure Dressing,2W1VX,2016,2027
+2W1VX6Z,Compression of Left Toe using Pressure Dressing,2W1VX6,2016,2027
+2W1VX7,Intermittent Pressure Device,2W1VX,2016,2027
+2W1VX7Z,Compression of Left Toe using Intermittent Pressure Device,2W1VX7,2016,2027
+2W2,Dressing,2W,2016,2027
+2W20,Head,2W2,2016,2027
+2W20X,External,2W20,2016,2027
+2W20X4,Bandage,2W20X,2016,2027
+2W20X4Z,Dressing of Head using Bandage,2W20X4,2016,2027
+2W21,Face,2W2,2016,2027
+2W21X,External,2W21,2016,2027
+2W21X4,Bandage,2W21X,2016,2027
+2W21X4Z,Dressing of Face using Bandage,2W21X4,2016,2027
+2W22,Neck,2W2,2016,2027
+2W22X,External,2W22,2016,2027
+2W22X4,Bandage,2W22X,2016,2027
+2W22X4Z,Dressing of Neck using Bandage,2W22X4,2016,2027
+2W23,Abdominal Wall,2W2,2016,2027
+2W23X,External,2W23,2016,2027
+2W23X4,Bandage,2W23X,2016,2027
+2W23X4Z,Dressing of Abdominal Wall using Bandage,2W23X4,2016,2027
+2W24,Chest Wall,2W2,2016,2027
+2W24X,External,2W24,2016,2027
+2W24X4,Bandage,2W24X,2016,2027
+2W24X4Z,Dressing of Chest Wall using Bandage,2W24X4,2016,2027
+2W25,Back,2W2,2016,2027
+2W25X,External,2W25,2016,2027
+2W25X4,Bandage,2W25X,2016,2027
+2W25X4Z,Dressing of Back using Bandage,2W25X4,2016,2027
+2W26,"Inguinal Region, Right",2W2,2016,2027
+2W26X,External,2W26,2016,2027
+2W26X4,Bandage,2W26X,2016,2027
+2W26X4Z,Dressing of Right Inguinal Region using Bandage,2W26X4,2016,2027
+2W27,"Inguinal Region, Left",2W2,2016,2027
+2W27X,External,2W27,2016,2027
+2W27X4,Bandage,2W27X,2016,2027
+2W27X4Z,Dressing of Left Inguinal Region using Bandage,2W27X4,2016,2027
+2W28,"Upper Extremity, Right",2W2,2016,2027
+2W28X,External,2W28,2016,2027
+2W28X4,Bandage,2W28X,2016,2027
+2W28X4Z,Dressing of Right Upper Extremity using Bandage,2W28X4,2016,2027
+2W29,"Upper Extremity, Left",2W2,2016,2027
+2W29X,External,2W29,2016,2027
+2W29X4,Bandage,2W29X,2016,2027
+2W29X4Z,Dressing of Left Upper Extremity using Bandage,2W29X4,2016,2027
+2W2A,"Upper Arm, Right",2W2,2016,2027
+2W2AX,External,2W2A,2016,2027
+2W2AX4,Bandage,2W2AX,2016,2027
+2W2AX4Z,Dressing of Right Upper Arm using Bandage,2W2AX4,2016,2027
+2W2B,"Upper Arm, Left",2W2,2016,2027
+2W2BX,External,2W2B,2016,2027
+2W2BX4,Bandage,2W2BX,2016,2027
+2W2BX4Z,Dressing of Left Upper Arm using Bandage,2W2BX4,2016,2027
+2W2C,"Lower Arm, Right",2W2,2016,2027
+2W2CX,External,2W2C,2016,2027
+2W2CX4,Bandage,2W2CX,2016,2027
+2W2CX4Z,Dressing of Right Lower Arm using Bandage,2W2CX4,2016,2027
+2W2D,"Lower Arm, Left",2W2,2016,2027
+2W2DX,External,2W2D,2016,2027
+2W2DX4,Bandage,2W2DX,2016,2027
+2W2DX4Z,Dressing of Left Lower Arm using Bandage,2W2DX4,2016,2027
+2W2E,"Hand, Right",2W2,2016,2027
+2W2EX,External,2W2E,2016,2027
+2W2EX4,Bandage,2W2EX,2016,2027
+2W2EX4Z,Dressing of Right Hand using Bandage,2W2EX4,2016,2027
+2W2F,"Hand, Left",2W2,2016,2027
+2W2FX,External,2W2F,2016,2027
+2W2FX4,Bandage,2W2FX,2016,2027
+2W2FX4Z,Dressing of Left Hand using Bandage,2W2FX4,2016,2027
+2W2G,"Thumb, Right",2W2,2016,2027
+2W2GX,External,2W2G,2016,2027
+2W2GX4,Bandage,2W2GX,2016,2027
+2W2GX4Z,Dressing of Right Thumb using Bandage,2W2GX4,2016,2027
+2W2H,"Thumb, Left",2W2,2016,2027
+2W2HX,External,2W2H,2016,2027
+2W2HX4,Bandage,2W2HX,2016,2027
+2W2HX4Z,Dressing of Left Thumb using Bandage,2W2HX4,2016,2027
+2W2J,"Finger, Right",2W2,2016,2027
+2W2JX,External,2W2J,2016,2027
+2W2JX4,Bandage,2W2JX,2016,2027
+2W2JX4Z,Dressing of Right Finger using Bandage,2W2JX4,2016,2027
+2W2K,"Finger, Left",2W2,2016,2027
+2W2KX,External,2W2K,2016,2027
+2W2KX4,Bandage,2W2KX,2016,2027
+2W2KX4Z,Dressing of Left Finger using Bandage,2W2KX4,2016,2027
+2W2L,"Lower Extremity, Right",2W2,2016,2027
+2W2LX,External,2W2L,2016,2027
+2W2LX4,Bandage,2W2LX,2016,2027
+2W2LX4Z,Dressing of Right Lower Extremity using Bandage,2W2LX4,2016,2027
+2W2M,"Lower Extremity, Left",2W2,2016,2027
+2W2MX,External,2W2M,2016,2027
+2W2MX4,Bandage,2W2MX,2016,2027
+2W2MX4Z,Dressing of Left Lower Extremity using Bandage,2W2MX4,2016,2027
+2W2N,"Upper Leg, Right",2W2,2016,2027
+2W2NX,External,2W2N,2016,2027
+2W2NX4,Bandage,2W2NX,2016,2027
+2W2NX4Z,Dressing of Right Upper Leg using Bandage,2W2NX4,2016,2027
+2W2P,"Upper Leg, Left",2W2,2016,2027
+2W2PX,External,2W2P,2016,2027
+2W2PX4,Bandage,2W2PX,2016,2027
+2W2PX4Z,Dressing of Left Upper Leg using Bandage,2W2PX4,2016,2027
+2W2Q,"Lower Leg, Right",2W2,2016,2027
+2W2QX,External,2W2Q,2016,2027
+2W2QX4,Bandage,2W2QX,2016,2027
+2W2QX4Z,Dressing of Right Lower Leg using Bandage,2W2QX4,2016,2027
+2W2R,"Lower Leg, Left",2W2,2016,2027
+2W2RX,External,2W2R,2016,2027
+2W2RX4,Bandage,2W2RX,2016,2027
+2W2RX4Z,Dressing of Left Lower Leg using Bandage,2W2RX4,2016,2027
+2W2S,"Foot, Right",2W2,2016,2027
+2W2SX,External,2W2S,2016,2027
+2W2SX4,Bandage,2W2SX,2016,2027
+2W2SX4Z,Dressing of Right Foot using Bandage,2W2SX4,2016,2027
+2W2T,"Foot, Left",2W2,2016,2027
+2W2TX,External,2W2T,2016,2027
+2W2TX4,Bandage,2W2TX,2016,2027
+2W2TX4Z,Dressing of Left Foot using Bandage,2W2TX4,2016,2027
+2W2U,"Toe, Right",2W2,2016,2027
+2W2UX,External,2W2U,2016,2027
+2W2UX4,Bandage,2W2UX,2016,2027
+2W2UX4Z,Dressing of Right Toe using Bandage,2W2UX4,2016,2027
+2W2V,"Toe, Left",2W2,2016,2027
+2W2VX,External,2W2V,2016,2027
+2W2VX4,Bandage,2W2VX,2016,2027
+2W2VX4Z,Dressing of Left Toe using Bandage,2W2VX4,2016,2027
+2W3,Immobilization,2W,2016,2027
+2W30,Head,2W3,2016,2027
+2W30X,External,2W30,2016,2027
+2W30X1,Splint,2W30X,2016,2027
+2W30X1Z,Immobilization of Head using Splint,2W30X1,2016,2027
+2W30X2,Cast,2W30X,2016,2027
+2W30X2Z,Immobilization of Head using Cast,2W30X2,2016,2027
+2W30X3,Brace,2W30X,2016,2027
+2W30X3Z,Immobilization of Head using Brace,2W30X3,2016,2027
+2W30XY,Other Device,2W30X,2016,2027
+2W30XYZ,Immobilization of Head using Other Device,2W30XY,2016,2027
+2W31,Face,2W3,2016,2027
+2W31X,External,2W31,2016,2027
+2W31X1,Splint,2W31X,2016,2027
+2W31X1Z,Immobilization of Face using Splint,2W31X1,2016,2027
+2W31X2,Cast,2W31X,2016,2027
+2W31X2Z,Immobilization of Face using Cast,2W31X2,2016,2027
+2W31X3,Brace,2W31X,2016,2027
+2W31X3Z,Immobilization of Face using Brace,2W31X3,2016,2027
+2W31X9,Wire,2W31X,2016,2027
+2W31X9Z,Immobilization of Face using Wire,2W31X9,2016,2027
+2W31XY,Other Device,2W31X,2016,2027
+2W31XYZ,Immobilization of Face using Other Device,2W31XY,2016,2027
+2W32,Neck,2W3,2016,2027
+2W32X,External,2W32,2016,2027
+2W32X1,Splint,2W32X,2016,2027
+2W32X1Z,Immobilization of Neck using Splint,2W32X1,2016,2027
+2W32X2,Cast,2W32X,2016,2027
+2W32X2Z,Immobilization of Neck using Cast,2W32X2,2016,2027
+2W32X3,Brace,2W32X,2016,2027
+2W32X3Z,Immobilization of Neck using Brace,2W32X3,2016,2027
+2W32XY,Other Device,2W32X,2016,2027
+2W32XYZ,Immobilization of Neck using Other Device,2W32XY,2016,2027
+2W33,Abdominal Wall,2W3,2016,2027
+2W33X,External,2W33,2016,2027
+2W33X1,Splint,2W33X,2016,2027
+2W33X1Z,Immobilization of Abdominal Wall using Splint,2W33X1,2016,2027
+2W33X2,Cast,2W33X,2016,2027
+2W33X2Z,Immobilization of Abdominal Wall using Cast,2W33X2,2016,2027
+2W33X3,Brace,2W33X,2016,2027
+2W33X3Z,Immobilization of Abdominal Wall using Brace,2W33X3,2016,2027
+2W33XY,Other Device,2W33X,2016,2027
+2W33XYZ,Immobilization of Abdominal Wall using Other Device,2W33XY,2016,2027
+2W34,Chest Wall,2W3,2016,2027
+2W34X,External,2W34,2016,2027
+2W34X1,Splint,2W34X,2016,2027
+2W34X1Z,Immobilization of Chest Wall using Splint,2W34X1,2016,2027
+2W34X2,Cast,2W34X,2016,2027
+2W34X2Z,Immobilization of Chest Wall using Cast,2W34X2,2016,2027
+2W34X3,Brace,2W34X,2016,2027
+2W34X3Z,Immobilization of Chest Wall using Brace,2W34X3,2016,2027
+2W34XY,Other Device,2W34X,2016,2027
+2W34XYZ,Immobilization of Chest Wall using Other Device,2W34XY,2016,2027
+2W35,Back,2W3,2016,2027
+2W35X,External,2W35,2016,2027
+2W35X1,Splint,2W35X,2016,2027
+2W35X1Z,Immobilization of Back using Splint,2W35X1,2016,2027
+2W35X2,Cast,2W35X,2016,2027
+2W35X2Z,Immobilization of Back using Cast,2W35X2,2016,2027
+2W35X3,Brace,2W35X,2016,2027
+2W35X3Z,Immobilization of Back using Brace,2W35X3,2016,2027
+2W35XY,Other Device,2W35X,2016,2027
+2W35XYZ,Immobilization of Back using Other Device,2W35XY,2016,2027
+2W36,"Inguinal Region, Right",2W3,2016,2027
+2W36X,External,2W36,2016,2027
+2W36X1,Splint,2W36X,2016,2027
+2W36X1Z,Immobilization of Right Inguinal Region using Splint,2W36X1,2016,2027
+2W36X2,Cast,2W36X,2016,2027
+2W36X2Z,Immobilization of Right Inguinal Region using Cast,2W36X2,2016,2027
+2W36X3,Brace,2W36X,2016,2027
+2W36X3Z,Immobilization of Right Inguinal Region using Brace,2W36X3,2016,2027
+2W36XY,Other Device,2W36X,2016,2027
+2W36XYZ,Immobilization of Right Inguinal Region using Other Device,2W36XY,2016,2027
+2W37,"Inguinal Region, Left",2W3,2016,2027
+2W37X,External,2W37,2016,2027
+2W37X1,Splint,2W37X,2016,2027
+2W37X1Z,Immobilization of Left Inguinal Region using Splint,2W37X1,2016,2027
+2W37X2,Cast,2W37X,2016,2027
+2W37X2Z,Immobilization of Left Inguinal Region using Cast,2W37X2,2016,2027
+2W37X3,Brace,2W37X,2016,2027
+2W37X3Z,Immobilization of Left Inguinal Region using Brace,2W37X3,2016,2027
+2W37XY,Other Device,2W37X,2016,2027
+2W37XYZ,Immobilization of Left Inguinal Region using Other Device,2W37XY,2016,2027
+2W38,"Upper Extremity, Right",2W3,2016,2027
+2W38X,External,2W38,2016,2027
+2W38X1,Splint,2W38X,2016,2027
+2W38X1Z,Immobilization of Right Upper Extremity using Splint,2W38X1,2016,2027
+2W38X2,Cast,2W38X,2016,2027
+2W38X2Z,Immobilization of Right Upper Extremity using Cast,2W38X2,2016,2027
+2W38X3,Brace,2W38X,2016,2027
+2W38X3Z,Immobilization of Right Upper Extremity using Brace,2W38X3,2016,2027
+2W38XY,Other Device,2W38X,2016,2027
+2W38XYZ,Immobilization of Right Upper Extremity using Other Device,2W38XY,2016,2027
+2W39,"Upper Extremity, Left",2W3,2016,2027
+2W39X,External,2W39,2016,2027
+2W39X1,Splint,2W39X,2016,2027
+2W39X1Z,Immobilization of Left Upper Extremity using Splint,2W39X1,2016,2027
+2W39X2,Cast,2W39X,2016,2027
+2W39X2Z,Immobilization of Left Upper Extremity using Cast,2W39X2,2016,2027
+2W39X3,Brace,2W39X,2016,2027
+2W39X3Z,Immobilization of Left Upper Extremity using Brace,2W39X3,2016,2027
+2W39XY,Other Device,2W39X,2016,2027
+2W39XYZ,Immobilization of Left Upper Extremity using Other Device,2W39XY,2016,2027
+2W3A,"Upper Arm, Right",2W3,2016,2027
+2W3AX,External,2W3A,2016,2027
+2W3AX1,Splint,2W3AX,2016,2027
+2W3AX1Z,Immobilization of Right Upper Arm using Splint,2W3AX1,2016,2027
+2W3AX2,Cast,2W3AX,2016,2027
+2W3AX2Z,Immobilization of Right Upper Arm using Cast,2W3AX2,2016,2027
+2W3AX3,Brace,2W3AX,2016,2027
+2W3AX3Z,Immobilization of Right Upper Arm using Brace,2W3AX3,2016,2027
+2W3AXY,Other Device,2W3AX,2016,2027
+2W3AXYZ,Immobilization of Right Upper Arm using Other Device,2W3AXY,2016,2027
+2W3B,"Upper Arm, Left",2W3,2016,2027
+2W3BX,External,2W3B,2016,2027
+2W3BX1,Splint,2W3BX,2016,2027
+2W3BX1Z,Immobilization of Left Upper Arm using Splint,2W3BX1,2016,2027
+2W3BX2,Cast,2W3BX,2016,2027
+2W3BX2Z,Immobilization of Left Upper Arm using Cast,2W3BX2,2016,2027
+2W3BX3,Brace,2W3BX,2016,2027
+2W3BX3Z,Immobilization of Left Upper Arm using Brace,2W3BX3,2016,2027
+2W3BXY,Other Device,2W3BX,2016,2027
+2W3BXYZ,Immobilization of Left Upper Arm using Other Device,2W3BXY,2016,2027
+2W3C,"Lower Arm, Right",2W3,2016,2027
+2W3CX,External,2W3C,2016,2027
+2W3CX1,Splint,2W3CX,2016,2027
+2W3CX1Z,Immobilization of Right Lower Arm using Splint,2W3CX1,2016,2027
+2W3CX2,Cast,2W3CX,2016,2027
+2W3CX2Z,Immobilization of Right Lower Arm using Cast,2W3CX2,2016,2027
+2W3CX3,Brace,2W3CX,2016,2027
+2W3CX3Z,Immobilization of Right Lower Arm using Brace,2W3CX3,2016,2027
+2W3CXY,Other Device,2W3CX,2016,2027
+2W3CXYZ,Immobilization of Right Lower Arm using Other Device,2W3CXY,2016,2027
+2W3D,"Lower Arm, Left",2W3,2016,2027
+2W3DX,External,2W3D,2016,2027
+2W3DX1,Splint,2W3DX,2016,2027
+2W3DX1Z,Immobilization of Left Lower Arm using Splint,2W3DX1,2016,2027
+2W3DX2,Cast,2W3DX,2016,2027
+2W3DX2Z,Immobilization of Left Lower Arm using Cast,2W3DX2,2016,2027
+2W3DX3,Brace,2W3DX,2016,2027
+2W3DX3Z,Immobilization of Left Lower Arm using Brace,2W3DX3,2016,2027
+2W3DXY,Other Device,2W3DX,2016,2027
+2W3DXYZ,Immobilization of Left Lower Arm using Other Device,2W3DXY,2016,2027
+2W3E,"Hand, Right",2W3,2016,2027
+2W3EX,External,2W3E,2016,2027
+2W3EX1,Splint,2W3EX,2016,2027
+2W3EX1Z,Immobilization of Right Hand using Splint,2W3EX1,2016,2027
+2W3EX2,Cast,2W3EX,2016,2027
+2W3EX2Z,Immobilization of Right Hand using Cast,2W3EX2,2016,2027
+2W3EX3,Brace,2W3EX,2016,2027
+2W3EX3Z,Immobilization of Right Hand using Brace,2W3EX3,2016,2027
+2W3EXY,Other Device,2W3EX,2016,2027
+2W3EXYZ,Immobilization of Right Hand using Other Device,2W3EXY,2016,2027
+2W3F,"Hand, Left",2W3,2016,2027
+2W3FX,External,2W3F,2016,2027
+2W3FX1,Splint,2W3FX,2016,2027
+2W3FX1Z,Immobilization of Left Hand using Splint,2W3FX1,2016,2027
+2W3FX2,Cast,2W3FX,2016,2027
+2W3FX2Z,Immobilization of Left Hand using Cast,2W3FX2,2016,2027
+2W3FX3,Brace,2W3FX,2016,2027
+2W3FX3Z,Immobilization of Left Hand using Brace,2W3FX3,2016,2027
+2W3FXY,Other Device,2W3FX,2016,2027
+2W3FXYZ,Immobilization of Left Hand using Other Device,2W3FXY,2016,2027
+2W3G,"Thumb, Right",2W3,2016,2027
+2W3GX,External,2W3G,2016,2027
+2W3GX1,Splint,2W3GX,2016,2027
+2W3GX1Z,Immobilization of Right Thumb using Splint,2W3GX1,2016,2027
+2W3GX2,Cast,2W3GX,2016,2027
+2W3GX2Z,Immobilization of Right Thumb using Cast,2W3GX2,2016,2027
+2W3GX3,Brace,2W3GX,2016,2027
+2W3GX3Z,Immobilization of Right Thumb using Brace,2W3GX3,2016,2027
+2W3GXY,Other Device,2W3GX,2016,2027
+2W3GXYZ,Immobilization of Right Thumb using Other Device,2W3GXY,2016,2027
+2W3H,"Thumb, Left",2W3,2016,2027
+2W3HX,External,2W3H,2016,2027
+2W3HX1,Splint,2W3HX,2016,2027
+2W3HX1Z,Immobilization of Left Thumb using Splint,2W3HX1,2016,2027
+2W3HX2,Cast,2W3HX,2016,2027
+2W3HX2Z,Immobilization of Left Thumb using Cast,2W3HX2,2016,2027
+2W3HX3,Brace,2W3HX,2016,2027
+2W3HX3Z,Immobilization of Left Thumb using Brace,2W3HX3,2016,2027
+2W3HXY,Other Device,2W3HX,2016,2027
+2W3HXYZ,Immobilization of Left Thumb using Other Device,2W3HXY,2016,2027
+2W3J,"Finger, Right",2W3,2016,2027
+2W3JX,External,2W3J,2016,2027
+2W3JX1,Splint,2W3JX,2016,2027
+2W3JX1Z,Immobilization of Right Finger using Splint,2W3JX1,2016,2027
+2W3JX2,Cast,2W3JX,2016,2027
+2W3JX2Z,Immobilization of Right Finger using Cast,2W3JX2,2016,2027
+2W3JX3,Brace,2W3JX,2016,2027
+2W3JX3Z,Immobilization of Right Finger using Brace,2W3JX3,2016,2027
+2W3JXY,Other Device,2W3JX,2016,2027
+2W3JXYZ,Immobilization of Right Finger using Other Device,2W3JXY,2016,2027
+2W3K,"Finger, Left",2W3,2016,2027
+2W3KX,External,2W3K,2016,2027
+2W3KX1,Splint,2W3KX,2016,2027
+2W3KX1Z,Immobilization of Left Finger using Splint,2W3KX1,2016,2027
+2W3KX2,Cast,2W3KX,2016,2027
+2W3KX2Z,Immobilization of Left Finger using Cast,2W3KX2,2016,2027
+2W3KX3,Brace,2W3KX,2016,2027
+2W3KX3Z,Immobilization of Left Finger using Brace,2W3KX3,2016,2027
+2W3KXY,Other Device,2W3KX,2016,2027
+2W3KXYZ,Immobilization of Left Finger using Other Device,2W3KXY,2016,2027
+2W3L,"Lower Extremity, Right",2W3,2016,2027
+2W3LX,External,2W3L,2016,2027
+2W3LX1,Splint,2W3LX,2016,2027
+2W3LX1Z,Immobilization of Right Lower Extremity using Splint,2W3LX1,2016,2027
+2W3LX2,Cast,2W3LX,2016,2027
+2W3LX2Z,Immobilization of Right Lower Extremity using Cast,2W3LX2,2016,2027
+2W3LX3,Brace,2W3LX,2016,2027
+2W3LX3Z,Immobilization of Right Lower Extremity using Brace,2W3LX3,2016,2027
+2W3LXY,Other Device,2W3LX,2016,2027
+2W3LXYZ,Immobilization of Right Lower Extremity using Other Device,2W3LXY,2016,2027
+2W3M,"Lower Extremity, Left",2W3,2016,2027
+2W3MX,External,2W3M,2016,2027
+2W3MX1,Splint,2W3MX,2016,2027
+2W3MX1Z,Immobilization of Left Lower Extremity using Splint,2W3MX1,2016,2027
+2W3MX2,Cast,2W3MX,2016,2027
+2W3MX2Z,Immobilization of Left Lower Extremity using Cast,2W3MX2,2016,2027
+2W3MX3,Brace,2W3MX,2016,2027
+2W3MX3Z,Immobilization of Left Lower Extremity using Brace,2W3MX3,2016,2027
+2W3MXY,Other Device,2W3MX,2016,2027
+2W3MXYZ,Immobilization of Left Lower Extremity using Other Device,2W3MXY,2016,2027
+2W3N,"Upper Leg, Right",2W3,2016,2027
+2W3NX,External,2W3N,2016,2027
+2W3NX1,Splint,2W3NX,2016,2027
+2W3NX1Z,Immobilization of Right Upper Leg using Splint,2W3NX1,2016,2027
+2W3NX2,Cast,2W3NX,2016,2027
+2W3NX2Z,Immobilization of Right Upper Leg using Cast,2W3NX2,2016,2027
+2W3NX3,Brace,2W3NX,2016,2027
+2W3NX3Z,Immobilization of Right Upper Leg using Brace,2W3NX3,2016,2027
+2W3NXY,Other Device,2W3NX,2016,2027
+2W3NXYZ,Immobilization of Right Upper Leg using Other Device,2W3NXY,2016,2027
+2W3P,"Upper Leg, Left",2W3,2016,2027
+2W3PX,External,2W3P,2016,2027
+2W3PX1,Splint,2W3PX,2016,2027
+2W3PX1Z,Immobilization of Left Upper Leg using Splint,2W3PX1,2016,2027
+2W3PX2,Cast,2W3PX,2016,2027
+2W3PX2Z,Immobilization of Left Upper Leg using Cast,2W3PX2,2016,2027
+2W3PX3,Brace,2W3PX,2016,2027
+2W3PX3Z,Immobilization of Left Upper Leg using Brace,2W3PX3,2016,2027
+2W3PXY,Other Device,2W3PX,2016,2027
+2W3PXYZ,Immobilization of Left Upper Leg using Other Device,2W3PXY,2016,2027
+2W3Q,"Lower Leg, Right",2W3,2016,2027
+2W3QX,External,2W3Q,2016,2027
+2W3QX1,Splint,2W3QX,2016,2027
+2W3QX1Z,Immobilization of Right Lower Leg using Splint,2W3QX1,2016,2027
+2W3QX2,Cast,2W3QX,2016,2027
+2W3QX2Z,Immobilization of Right Lower Leg using Cast,2W3QX2,2016,2027
+2W3QX3,Brace,2W3QX,2016,2027
+2W3QX3Z,Immobilization of Right Lower Leg using Brace,2W3QX3,2016,2027
+2W3QXY,Other Device,2W3QX,2016,2027
+2W3QXYZ,Immobilization of Right Lower Leg using Other Device,2W3QXY,2016,2027
+2W3R,"Lower Leg, Left",2W3,2016,2027
+2W3RX,External,2W3R,2016,2027
+2W3RX1,Splint,2W3RX,2016,2027
+2W3RX1Z,Immobilization of Left Lower Leg using Splint,2W3RX1,2016,2027
+2W3RX2,Cast,2W3RX,2016,2027
+2W3RX2Z,Immobilization of Left Lower Leg using Cast,2W3RX2,2016,2027
+2W3RX3,Brace,2W3RX,2016,2027
+2W3RX3Z,Immobilization of Left Lower Leg using Brace,2W3RX3,2016,2027
+2W3RXY,Other Device,2W3RX,2016,2027
+2W3RXYZ,Immobilization of Left Lower Leg using Other Device,2W3RXY,2016,2027
+2W3S,"Foot, Right",2W3,2016,2027
+2W3SX,External,2W3S,2016,2027
+2W3SX1,Splint,2W3SX,2016,2027
+2W3SX1Z,Immobilization of Right Foot using Splint,2W3SX1,2016,2027
+2W3SX2,Cast,2W3SX,2016,2027
+2W3SX2Z,Immobilization of Right Foot using Cast,2W3SX2,2016,2027
+2W3SX3,Brace,2W3SX,2016,2027
+2W3SX3Z,Immobilization of Right Foot using Brace,2W3SX3,2016,2027
+2W3SXY,Other Device,2W3SX,2016,2027
+2W3SXYZ,Immobilization of Right Foot using Other Device,2W3SXY,2016,2027
+2W3T,"Foot, Left",2W3,2016,2027
+2W3TX,External,2W3T,2016,2027
+2W3TX1,Splint,2W3TX,2016,2027
+2W3TX1Z,Immobilization of Left Foot using Splint,2W3TX1,2016,2027
+2W3TX2,Cast,2W3TX,2016,2027
+2W3TX2Z,Immobilization of Left Foot using Cast,2W3TX2,2016,2027
+2W3TX3,Brace,2W3TX,2016,2027
+2W3TX3Z,Immobilization of Left Foot using Brace,2W3TX3,2016,2027
+2W3TXY,Other Device,2W3TX,2016,2027
+2W3TXYZ,Immobilization of Left Foot using Other Device,2W3TXY,2016,2027
+2W3U,"Toe, Right",2W3,2016,2027
+2W3UX,External,2W3U,2016,2027
+2W3UX1,Splint,2W3UX,2016,2027
+2W3UX1Z,Immobilization of Right Toe using Splint,2W3UX1,2016,2027
+2W3UX2,Cast,2W3UX,2016,2027
+2W3UX2Z,Immobilization of Right Toe using Cast,2W3UX2,2016,2027
+2W3UX3,Brace,2W3UX,2016,2027
+2W3UX3Z,Immobilization of Right Toe using Brace,2W3UX3,2016,2027
+2W3UXY,Other Device,2W3UX,2016,2027
+2W3UXYZ,Immobilization of Right Toe using Other Device,2W3UXY,2016,2027
+2W3V,"Toe, Left",2W3,2016,2027
+2W3VX,External,2W3V,2016,2027
+2W3VX1,Splint,2W3VX,2016,2027
+2W3VX1Z,Immobilization of Left Toe using Splint,2W3VX1,2016,2027
+2W3VX2,Cast,2W3VX,2016,2027
+2W3VX2Z,Immobilization of Left Toe using Cast,2W3VX2,2016,2027
+2W3VX3,Brace,2W3VX,2016,2027
+2W3VX3Z,Immobilization of Left Toe using Brace,2W3VX3,2016,2027
+2W3VXY,Other Device,2W3VX,2016,2027
+2W3VXYZ,Immobilization of Left Toe using Other Device,2W3VXY,2016,2027
+2W4,Packing,2W,2016,2027
+2W40,Head,2W4,2016,2027
+2W40X,External,2W40,2016,2027
+2W40X5,Packing Material,2W40X,2016,2027
+2W40X5Z,Packing of Head using Packing Material,2W40X5,2016,2027
+2W41,Face,2W4,2016,2027
+2W41X,External,2W41,2016,2027
+2W41X5,Packing Material,2W41X,2016,2027
+2W41X5Z,Packing of Face using Packing Material,2W41X5,2016,2027
+2W42,Neck,2W4,2016,2027
+2W42X,External,2W42,2016,2027
+2W42X5,Packing Material,2W42X,2016,2027
+2W42X5Z,Packing of Neck using Packing Material,2W42X5,2016,2027
+2W43,Abdominal Wall,2W4,2016,2027
+2W43X,External,2W43,2016,2027
+2W43X5,Packing Material,2W43X,2016,2027
+2W43X5Z,Packing of Abdominal Wall using Packing Material,2W43X5,2016,2027
+2W44,Chest Wall,2W4,2016,2027
+2W44X,External,2W44,2016,2027
+2W44X5,Packing Material,2W44X,2016,2027
+2W44X5Z,Packing of Chest Wall using Packing Material,2W44X5,2016,2027
+2W45,Back,2W4,2016,2027
+2W45X,External,2W45,2016,2027
+2W45X5,Packing Material,2W45X,2016,2027
+2W45X5Z,Packing of Back using Packing Material,2W45X5,2016,2027
+2W46,"Inguinal Region, Right",2W4,2016,2027
+2W46X,External,2W46,2016,2027
+2W46X5,Packing Material,2W46X,2016,2027
+2W46X5Z,Packing of Right Inguinal Region using Packing Material,2W46X5,2016,2027
+2W47,"Inguinal Region, Left",2W4,2016,2027
+2W47X,External,2W47,2016,2027
+2W47X5,Packing Material,2W47X,2016,2027
+2W47X5Z,Packing of Left Inguinal Region using Packing Material,2W47X5,2016,2027
+2W48,"Upper Extremity, Right",2W4,2016,2027
+2W48X,External,2W48,2016,2027
+2W48X5,Packing Material,2W48X,2016,2027
+2W48X5Z,Packing of Right Upper Extremity using Packing Material,2W48X5,2016,2027
+2W49,"Upper Extremity, Left",2W4,2016,2027
+2W49X,External,2W49,2016,2027
+2W49X5,Packing Material,2W49X,2016,2027
+2W49X5Z,Packing of Left Upper Extremity using Packing Material,2W49X5,2016,2027
+2W4A,"Upper Arm, Right",2W4,2016,2027
+2W4AX,External,2W4A,2016,2027
+2W4AX5,Packing Material,2W4AX,2016,2027
+2W4AX5Z,Packing of Right Upper Arm using Packing Material,2W4AX5,2016,2027
+2W4B,"Upper Arm, Left",2W4,2016,2027
+2W4BX,External,2W4B,2016,2027
+2W4BX5,Packing Material,2W4BX,2016,2027
+2W4BX5Z,Packing of Left Upper Arm using Packing Material,2W4BX5,2016,2027
+2W4C,"Lower Arm, Right",2W4,2016,2027
+2W4CX,External,2W4C,2016,2027
+2W4CX5,Packing Material,2W4CX,2016,2027
+2W4CX5Z,Packing of Right Lower Arm using Packing Material,2W4CX5,2016,2027
+2W4D,"Lower Arm, Left",2W4,2016,2027
+2W4DX,External,2W4D,2016,2027
+2W4DX5,Packing Material,2W4DX,2016,2027
+2W4DX5Z,Packing of Left Lower Arm using Packing Material,2W4DX5,2016,2027
+2W4E,"Hand, Right",2W4,2016,2027
+2W4EX,External,2W4E,2016,2027
+2W4EX5,Packing Material,2W4EX,2016,2027
+2W4EX5Z,Packing of Right Hand using Packing Material,2W4EX5,2016,2027
+2W4F,"Hand, Left",2W4,2016,2027
+2W4FX,External,2W4F,2016,2027
+2W4FX5,Packing Material,2W4FX,2016,2027
+2W4FX5Z,Packing of Left Hand using Packing Material,2W4FX5,2016,2027
+2W4G,"Thumb, Right",2W4,2016,2027
+2W4GX,External,2W4G,2016,2027
+2W4GX5,Packing Material,2W4GX,2016,2027
+2W4GX5Z,Packing of Right Thumb using Packing Material,2W4GX5,2016,2027
+2W4H,"Thumb, Left",2W4,2016,2027
+2W4HX,External,2W4H,2016,2027
+2W4HX5,Packing Material,2W4HX,2016,2027
+2W4HX5Z,Packing of Left Thumb using Packing Material,2W4HX5,2016,2027
+2W4J,"Finger, Right",2W4,2016,2027
+2W4JX,External,2W4J,2016,2027
+2W4JX5,Packing Material,2W4JX,2016,2027
+2W4JX5Z,Packing of Right Finger using Packing Material,2W4JX5,2016,2027
+2W4K,"Finger, Left",2W4,2016,2027
+2W4KX,External,2W4K,2016,2027
+2W4KX5,Packing Material,2W4KX,2016,2027
+2W4KX5Z,Packing of Left Finger using Packing Material,2W4KX5,2016,2027
+2W4L,"Lower Extremity, Right",2W4,2016,2027
+2W4LX,External,2W4L,2016,2027
+2W4LX5,Packing Material,2W4LX,2016,2027
+2W4LX5Z,Packing of Right Lower Extremity using Packing Material,2W4LX5,2016,2027
+2W4M,"Lower Extremity, Left",2W4,2016,2027
+2W4MX,External,2W4M,2016,2027
+2W4MX5,Packing Material,2W4MX,2016,2027
+2W4MX5Z,Packing of Left Lower Extremity using Packing Material,2W4MX5,2016,2027
+2W4N,"Upper Leg, Right",2W4,2016,2027
+2W4NX,External,2W4N,2016,2027
+2W4NX5,Packing Material,2W4NX,2016,2027
+2W4NX5Z,Packing of Right Upper Leg using Packing Material,2W4NX5,2016,2027
+2W4P,"Upper Leg, Left",2W4,2016,2027
+2W4PX,External,2W4P,2016,2027
+2W4PX5,Packing Material,2W4PX,2016,2027
+2W4PX5Z,Packing of Left Upper Leg using Packing Material,2W4PX5,2016,2027
+2W4Q,"Lower Leg, Right",2W4,2016,2027
+2W4QX,External,2W4Q,2016,2027
+2W4QX5,Packing Material,2W4QX,2016,2027
+2W4QX5Z,Packing of Right Lower Leg using Packing Material,2W4QX5,2016,2027
+2W4R,"Lower Leg, Left",2W4,2016,2027
+2W4RX,External,2W4R,2016,2027
+2W4RX5,Packing Material,2W4RX,2016,2027
+2W4RX5Z,Packing of Left Lower Leg using Packing Material,2W4RX5,2016,2027
+2W4S,"Foot, Right",2W4,2016,2027
+2W4SX,External,2W4S,2016,2027
+2W4SX5,Packing Material,2W4SX,2016,2027
+2W4SX5Z,Packing of Right Foot using Packing Material,2W4SX5,2016,2027
+2W4T,"Foot, Left",2W4,2016,2027
+2W4TX,External,2W4T,2016,2027
+2W4TX5,Packing Material,2W4TX,2016,2027
+2W4TX5Z,Packing of Left Foot using Packing Material,2W4TX5,2016,2027
+2W4U,"Toe, Right",2W4,2016,2027
+2W4UX,External,2W4U,2016,2027
+2W4UX5,Packing Material,2W4UX,2016,2027
+2W4UX5Z,Packing of Right Toe using Packing Material,2W4UX5,2016,2027
+2W4V,"Toe, Left",2W4,2016,2027
+2W4VX,External,2W4V,2016,2027
+2W4VX5,Packing Material,2W4VX,2016,2027
+2W4VX5Z,Packing of Left Toe using Packing Material,2W4VX5,2016,2027
+2W5,Removal,2W,2016,2027
+2W50,Head,2W5,2016,2027
+2W50X,External,2W50,2016,2027
+2W50X0,Traction Apparatus,2W50X,2016,2027
+2W50X0Z,Removal of Traction Apparatus on Head,2W50X0,2016,2027
+2W50X1,Splint,2W50X,2016,2027
+2W50X1Z,Removal of Splint on Head,2W50X1,2016,2027
+2W50X2,Cast,2W50X,2016,2027
+2W50X2Z,Removal of Cast on Head,2W50X2,2016,2027
+2W50X3,Brace,2W50X,2016,2027
+2W50X3Z,Removal of Brace on Head,2W50X3,2016,2027
+2W50X4,Bandage,2W50X,2016,2027
+2W50X4Z,Removal of Bandage on Head,2W50X4,2016,2027
+2W50X5,Packing Material,2W50X,2016,2027
+2W50X5Z,Removal of Packing Material on Head,2W50X5,2016,2027
+2W50X6,Pressure Dressing,2W50X,2016,2027
+2W50X6Z,Removal of Pressure Dressing on Head,2W50X6,2016,2027
+2W50X7,Intermittent Pressure Device,2W50X,2016,2027
+2W50X7Z,Removal of Intermittent Pressure Device on Head,2W50X7,2016,2027
+2W50XY,Other Device,2W50X,2016,2027
+2W50XYZ,Removal of Other Device on Head,2W50XY,2016,2027
+2W51,Face,2W5,2016,2027
+2W51X,External,2W51,2016,2027
+2W51X0,Traction Apparatus,2W51X,2016,2027
+2W51X0Z,Removal of Traction Apparatus on Face,2W51X0,2016,2027
+2W51X1,Splint,2W51X,2016,2027
+2W51X1Z,Removal of Splint on Face,2W51X1,2016,2027
+2W51X2,Cast,2W51X,2016,2027
+2W51X2Z,Removal of Cast on Face,2W51X2,2016,2027
+2W51X3,Brace,2W51X,2016,2027
+2W51X3Z,Removal of Brace on Face,2W51X3,2016,2027
+2W51X4,Bandage,2W51X,2016,2027
+2W51X4Z,Removal of Bandage on Face,2W51X4,2016,2027
+2W51X5,Packing Material,2W51X,2016,2027
+2W51X5Z,Removal of Packing Material on Face,2W51X5,2016,2027
+2W51X6,Pressure Dressing,2W51X,2016,2027
+2W51X6Z,Removal of Pressure Dressing on Face,2W51X6,2016,2027
+2W51X7,Intermittent Pressure Device,2W51X,2016,2027
+2W51X7Z,Removal of Intermittent Pressure Device on Face,2W51X7,2016,2027
+2W51X9,Wire,2W51X,2016,2027
+2W51X9Z,Removal of Wire on Face,2W51X9,2016,2027
+2W51XY,Other Device,2W51X,2016,2027
+2W51XYZ,Removal of Other Device on Face,2W51XY,2016,2027
+2W52,Neck,2W5,2016,2027
+2W52X,External,2W52,2016,2027
+2W52X0,Traction Apparatus,2W52X,2016,2027
+2W52X0Z,Removal of Traction Apparatus on Neck,2W52X0,2016,2027
+2W52X1,Splint,2W52X,2016,2027
+2W52X1Z,Removal of Splint on Neck,2W52X1,2016,2027
+2W52X2,Cast,2W52X,2016,2027
+2W52X2Z,Removal of Cast on Neck,2W52X2,2016,2027
+2W52X3,Brace,2W52X,2016,2027
+2W52X3Z,Removal of Brace on Neck,2W52X3,2016,2027
+2W52X4,Bandage,2W52X,2016,2027
+2W52X4Z,Removal of Bandage on Neck,2W52X4,2016,2027
+2W52X5,Packing Material,2W52X,2016,2027
+2W52X5Z,Removal of Packing Material on Neck,2W52X5,2016,2027
+2W52X6,Pressure Dressing,2W52X,2016,2027
+2W52X6Z,Removal of Pressure Dressing on Neck,2W52X6,2016,2027
+2W52X7,Intermittent Pressure Device,2W52X,2016,2027
+2W52X7Z,Removal of Intermittent Pressure Device on Neck,2W52X7,2016,2027
+2W52XY,Other Device,2W52X,2016,2027
+2W52XYZ,Removal of Other Device on Neck,2W52XY,2016,2027
+2W53,Abdominal Wall,2W5,2016,2027
+2W53X,External,2W53,2016,2027
+2W53X0,Traction Apparatus,2W53X,2016,2027
+2W53X0Z,Removal of Traction Apparatus on Abdominal Wall,2W53X0,2016,2027
+2W53X1,Splint,2W53X,2016,2027
+2W53X1Z,Removal of Splint on Abdominal Wall,2W53X1,2016,2027
+2W53X2,Cast,2W53X,2016,2027
+2W53X2Z,Removal of Cast on Abdominal Wall,2W53X2,2016,2027
+2W53X3,Brace,2W53X,2016,2027
+2W53X3Z,Removal of Brace on Abdominal Wall,2W53X3,2016,2027
+2W53X4,Bandage,2W53X,2016,2027
+2W53X4Z,Removal of Bandage on Abdominal Wall,2W53X4,2016,2027
+2W53X5,Packing Material,2W53X,2016,2027
+2W53X5Z,Removal of Packing Material on Abdominal Wall,2W53X5,2016,2027
+2W53X6,Pressure Dressing,2W53X,2016,2027
+2W53X6Z,Removal of Pressure Dressing on Abdominal Wall,2W53X6,2016,2027
+2W53X7,Intermittent Pressure Device,2W53X,2016,2027
+2W53X7Z,Removal of Intermittent Pressure Device on Abdominal Wall,2W53X7,2016,2027
+2W53XY,Other Device,2W53X,2016,2027
+2W53XYZ,Removal of Other Device on Abdominal Wall,2W53XY,2016,2027
+2W54,Chest Wall,2W5,2016,2027
+2W54X,External,2W54,2016,2027
+2W54X0,Traction Apparatus,2W54X,2016,2027
+2W54X0Z,Removal of Traction Apparatus on Chest Wall,2W54X0,2016,2027
+2W54X1,Splint,2W54X,2016,2027
+2W54X1Z,Removal of Splint on Chest Wall,2W54X1,2016,2027
+2W54X2,Cast,2W54X,2016,2027
+2W54X2Z,Removal of Cast on Chest Wall,2W54X2,2016,2027
+2W54X3,Brace,2W54X,2016,2027
+2W54X3Z,Removal of Brace on Chest Wall,2W54X3,2016,2027
+2W54X4,Bandage,2W54X,2016,2027
+2W54X4Z,Removal of Bandage on Chest Wall,2W54X4,2016,2027
+2W54X5,Packing Material,2W54X,2016,2027
+2W54X5Z,Removal of Packing Material on Chest Wall,2W54X5,2016,2027
+2W54X6,Pressure Dressing,2W54X,2016,2027
+2W54X6Z,Removal of Pressure Dressing on Chest Wall,2W54X6,2016,2027
+2W54X7,Intermittent Pressure Device,2W54X,2016,2027
+2W54X7Z,Removal of Intermittent Pressure Device on Chest Wall,2W54X7,2016,2027
+2W54XY,Other Device,2W54X,2016,2027
+2W54XYZ,Removal of Other Device on Chest Wall,2W54XY,2016,2027
+2W55,Back,2W5,2016,2027
+2W55X,External,2W55,2016,2027
+2W55X0,Traction Apparatus,2W55X,2016,2027
+2W55X0Z,Removal of Traction Apparatus on Back,2W55X0,2016,2027
+2W55X1,Splint,2W55X,2016,2027
+2W55X1Z,Removal of Splint on Back,2W55X1,2016,2027
+2W55X2,Cast,2W55X,2016,2027
+2W55X2Z,Removal of Cast on Back,2W55X2,2016,2027
+2W55X3,Brace,2W55X,2016,2027
+2W55X3Z,Removal of Brace on Back,2W55X3,2016,2027
+2W55X4,Bandage,2W55X,2016,2027
+2W55X4Z,Removal of Bandage on Back,2W55X4,2016,2027
+2W55X5,Packing Material,2W55X,2016,2027
+2W55X5Z,Removal of Packing Material on Back,2W55X5,2016,2027
+2W55X6,Pressure Dressing,2W55X,2016,2027
+2W55X6Z,Removal of Pressure Dressing on Back,2W55X6,2016,2027
+2W55X7,Intermittent Pressure Device,2W55X,2016,2027
+2W55X7Z,Removal of Intermittent Pressure Device on Back,2W55X7,2016,2027
+2W55XY,Other Device,2W55X,2016,2027
+2W55XYZ,Removal of Other Device on Back,2W55XY,2016,2027
+2W56,"Inguinal Region, Right",2W5,2016,2027
+2W56X,External,2W56,2016,2027
+2W56X0,Traction Apparatus,2W56X,2016,2027
+2W56X0Z,Removal of Traction Apparatus on Right Inguinal Region,2W56X0,2016,2027
+2W56X1,Splint,2W56X,2016,2027
+2W56X1Z,Removal of Splint on Right Inguinal Region,2W56X1,2016,2027
+2W56X2,Cast,2W56X,2016,2027
+2W56X2Z,Removal of Cast on Right Inguinal Region,2W56X2,2016,2027
+2W56X3,Brace,2W56X,2016,2027
+2W56X3Z,Removal of Brace on Right Inguinal Region,2W56X3,2016,2027
+2W56X4,Bandage,2W56X,2016,2027
+2W56X4Z,Removal of Bandage on Right Inguinal Region,2W56X4,2016,2027
+2W56X5,Packing Material,2W56X,2016,2027
+2W56X5Z,Removal of Packing Material on Right Inguinal Region,2W56X5,2016,2027
+2W56X6,Pressure Dressing,2W56X,2016,2027
+2W56X6Z,Removal of Pressure Dressing on Right Inguinal Region,2W56X6,2016,2027
+2W56X7,Intermittent Pressure Device,2W56X,2016,2027
+2W56X7Z,Removal of Intermittent Pressure Device on Right Inguinal Region,2W56X7,2016,2027
+2W56XY,Other Device,2W56X,2016,2027
+2W56XYZ,Removal of Other Device on Right Inguinal Region,2W56XY,2016,2027
+2W57,"Inguinal Region, Left",2W5,2016,2027
+2W57X,External,2W57,2016,2027
+2W57X0,Traction Apparatus,2W57X,2016,2027
+2W57X0Z,Removal of Traction Apparatus on Left Inguinal Region,2W57X0,2016,2027
+2W57X1,Splint,2W57X,2016,2027
+2W57X1Z,Removal of Splint on Left Inguinal Region,2W57X1,2016,2027
+2W57X2,Cast,2W57X,2016,2027
+2W57X2Z,Removal of Cast on Left Inguinal Region,2W57X2,2016,2027
+2W57X3,Brace,2W57X,2016,2027
+2W57X3Z,Removal of Brace on Left Inguinal Region,2W57X3,2016,2027
+2W57X4,Bandage,2W57X,2016,2027
+2W57X4Z,Removal of Bandage on Left Inguinal Region,2W57X4,2016,2027
+2W57X5,Packing Material,2W57X,2016,2027
+2W57X5Z,Removal of Packing Material on Left Inguinal Region,2W57X5,2016,2027
+2W57X6,Pressure Dressing,2W57X,2016,2027
+2W57X6Z,Removal of Pressure Dressing on Left Inguinal Region,2W57X6,2016,2027
+2W57X7,Intermittent Pressure Device,2W57X,2016,2027
+2W57X7Z,Removal of Intermittent Pressure Device on Left Inguinal Region,2W57X7,2016,2027
+2W57XY,Other Device,2W57X,2016,2027
+2W57XYZ,Removal of Other Device on Left Inguinal Region,2W57XY,2016,2027
+2W58,"Upper Extremity, Right",2W5,2016,2027
+2W58X,External,2W58,2016,2027
+2W58X0,Traction Apparatus,2W58X,2016,2027
+2W58X0Z,Removal of Traction Apparatus on Right Upper Extremity,2W58X0,2016,2027
+2W58X1,Splint,2W58X,2016,2027
+2W58X1Z,Removal of Splint on Right Upper Extremity,2W58X1,2016,2027
+2W58X2,Cast,2W58X,2016,2027
+2W58X2Z,Removal of Cast on Right Upper Extremity,2W58X2,2016,2027
+2W58X3,Brace,2W58X,2016,2027
+2W58X3Z,Removal of Brace on Right Upper Extremity,2W58X3,2016,2027
+2W58X4,Bandage,2W58X,2016,2027
+2W58X4Z,Removal of Bandage on Right Upper Extremity,2W58X4,2016,2027
+2W58X5,Packing Material,2W58X,2016,2027
+2W58X5Z,Removal of Packing Material on Right Upper Extremity,2W58X5,2016,2027
+2W58X6,Pressure Dressing,2W58X,2016,2027
+2W58X6Z,Removal of Pressure Dressing on Right Upper Extremity,2W58X6,2016,2027
+2W58X7,Intermittent Pressure Device,2W58X,2016,2027
+2W58X7Z,Removal of Intermittent Pressure Device on Right Upper Extremity,2W58X7,2016,2027
+2W58XY,Other Device,2W58X,2016,2027
+2W58XYZ,Removal of Other Device on Right Upper Extremity,2W58XY,2016,2027
+2W59,"Upper Extremity, Left",2W5,2016,2027
+2W59X,External,2W59,2016,2027
+2W59X0,Traction Apparatus,2W59X,2016,2027
+2W59X0Z,Removal of Traction Apparatus on Left Upper Extremity,2W59X0,2016,2027
+2W59X1,Splint,2W59X,2016,2027
+2W59X1Z,Removal of Splint on Left Upper Extremity,2W59X1,2016,2027
+2W59X2,Cast,2W59X,2016,2027
+2W59X2Z,Removal of Cast on Left Upper Extremity,2W59X2,2016,2027
+2W59X3,Brace,2W59X,2016,2027
+2W59X3Z,Removal of Brace on Left Upper Extremity,2W59X3,2016,2027
+2W59X4,Bandage,2W59X,2016,2027
+2W59X4Z,Removal of Bandage on Left Upper Extremity,2W59X4,2016,2027
+2W59X5,Packing Material,2W59X,2016,2027
+2W59X5Z,Removal of Packing Material on Left Upper Extremity,2W59X5,2016,2027
+2W59X6,Pressure Dressing,2W59X,2016,2027
+2W59X6Z,Removal of Pressure Dressing on Left Upper Extremity,2W59X6,2016,2027
+2W59X7,Intermittent Pressure Device,2W59X,2016,2027
+2W59X7Z,Removal of Intermittent Pressure Device on Left Upper Extremity,2W59X7,2016,2027
+2W59XY,Other Device,2W59X,2016,2027
+2W59XYZ,Removal of Other Device on Left Upper Extremity,2W59XY,2016,2027
+2W5A,"Upper Arm, Right",2W5,2016,2027
+2W5AX,External,2W5A,2016,2027
+2W5AX0,Traction Apparatus,2W5AX,2016,2027
+2W5AX0Z,Removal of Traction Apparatus on Right Upper Arm,2W5AX0,2016,2027
+2W5AX1,Splint,2W5AX,2016,2027
+2W5AX1Z,Removal of Splint on Right Upper Arm,2W5AX1,2016,2027
+2W5AX2,Cast,2W5AX,2016,2027
+2W5AX2Z,Removal of Cast on Right Upper Arm,2W5AX2,2016,2027
+2W5AX3,Brace,2W5AX,2016,2027
+2W5AX3Z,Removal of Brace on Right Upper Arm,2W5AX3,2016,2027
+2W5AX4,Bandage,2W5AX,2016,2027
+2W5AX4Z,Removal of Bandage on Right Upper Arm,2W5AX4,2016,2027
+2W5AX5,Packing Material,2W5AX,2016,2027
+2W5AX5Z,Removal of Packing Material on Right Upper Arm,2W5AX5,2016,2027
+2W5AX6,Pressure Dressing,2W5AX,2016,2027
+2W5AX6Z,Removal of Pressure Dressing on Right Upper Arm,2W5AX6,2016,2027
+2W5AX7,Intermittent Pressure Device,2W5AX,2016,2027
+2W5AX7Z,Removal of Intermittent Pressure Device on Right Upper Arm,2W5AX7,2016,2027
+2W5AXY,Other Device,2W5AX,2016,2027
+2W5AXYZ,Removal of Other Device on Right Upper Arm,2W5AXY,2016,2027
+2W5B,"Upper Arm, Left",2W5,2016,2027
+2W5BX,External,2W5B,2016,2027
+2W5BX0,Traction Apparatus,2W5BX,2016,2027
+2W5BX0Z,Removal of Traction Apparatus on Left Upper Arm,2W5BX0,2016,2027
+2W5BX1,Splint,2W5BX,2016,2027
+2W5BX1Z,Removal of Splint on Left Upper Arm,2W5BX1,2016,2027
+2W5BX2,Cast,2W5BX,2016,2027
+2W5BX2Z,Removal of Cast on Left Upper Arm,2W5BX2,2016,2027
+2W5BX3,Brace,2W5BX,2016,2027
+2W5BX3Z,Removal of Brace on Left Upper Arm,2W5BX3,2016,2027
+2W5BX4,Bandage,2W5BX,2016,2027
+2W5BX4Z,Removal of Bandage on Left Upper Arm,2W5BX4,2016,2027
+2W5BX5,Packing Material,2W5BX,2016,2027
+2W5BX5Z,Removal of Packing Material on Left Upper Arm,2W5BX5,2016,2027
+2W5BX6,Pressure Dressing,2W5BX,2016,2027
+2W5BX6Z,Removal of Pressure Dressing on Left Upper Arm,2W5BX6,2016,2027
+2W5BX7,Intermittent Pressure Device,2W5BX,2016,2027
+2W5BX7Z,Removal of Intermittent Pressure Device on Left Upper Arm,2W5BX7,2016,2027
+2W5BXY,Other Device,2W5BX,2016,2027
+2W5BXYZ,Removal of Other Device on Left Upper Arm,2W5BXY,2016,2027
+2W5C,"Lower Arm, Right",2W5,2016,2027
+2W5CX,External,2W5C,2016,2027
+2W5CX0,Traction Apparatus,2W5CX,2016,2027
+2W5CX0Z,Removal of Traction Apparatus on Right Lower Arm,2W5CX0,2016,2027
+2W5CX1,Splint,2W5CX,2016,2027
+2W5CX1Z,Removal of Splint on Right Lower Arm,2W5CX1,2016,2027
+2W5CX2,Cast,2W5CX,2016,2027
+2W5CX2Z,Removal of Cast on Right Lower Arm,2W5CX2,2016,2027
+2W5CX3,Brace,2W5CX,2016,2027
+2W5CX3Z,Removal of Brace on Right Lower Arm,2W5CX3,2016,2027
+2W5CX4,Bandage,2W5CX,2016,2027
+2W5CX4Z,Removal of Bandage on Right Lower Arm,2W5CX4,2016,2027
+2W5CX5,Packing Material,2W5CX,2016,2027
+2W5CX5Z,Removal of Packing Material on Right Lower Arm,2W5CX5,2016,2027
+2W5CX6,Pressure Dressing,2W5CX,2016,2027
+2W5CX6Z,Removal of Pressure Dressing on Right Lower Arm,2W5CX6,2016,2027
+2W5CX7,Intermittent Pressure Device,2W5CX,2016,2027
+2W5CX7Z,Removal of Intermittent Pressure Device on Right Lower Arm,2W5CX7,2016,2027
+2W5CXY,Other Device,2W5CX,2016,2027
+2W5CXYZ,Removal of Other Device on Right Lower Arm,2W5CXY,2016,2027
+2W5D,"Lower Arm, Left",2W5,2016,2027
+2W5DX,External,2W5D,2016,2027
+2W5DX0,Traction Apparatus,2W5DX,2016,2027
+2W5DX0Z,Removal of Traction Apparatus on Left Lower Arm,2W5DX0,2016,2027
+2W5DX1,Splint,2W5DX,2016,2027
+2W5DX1Z,Removal of Splint on Left Lower Arm,2W5DX1,2016,2027
+2W5DX2,Cast,2W5DX,2016,2027
+2W5DX2Z,Removal of Cast on Left Lower Arm,2W5DX2,2016,2027
+2W5DX3,Brace,2W5DX,2016,2027
+2W5DX3Z,Removal of Brace on Left Lower Arm,2W5DX3,2016,2027
+2W5DX4,Bandage,2W5DX,2016,2027
+2W5DX4Z,Removal of Bandage on Left Lower Arm,2W5DX4,2016,2027
+2W5DX5,Packing Material,2W5DX,2016,2027
+2W5DX5Z,Removal of Packing Material on Left Lower Arm,2W5DX5,2016,2027
+2W5DX6,Pressure Dressing,2W5DX,2016,2027
+2W5DX6Z,Removal of Pressure Dressing on Left Lower Arm,2W5DX6,2016,2027
+2W5DX7,Intermittent Pressure Device,2W5DX,2016,2027
+2W5DX7Z,Removal of Intermittent Pressure Device on Left Lower Arm,2W5DX7,2016,2027
+2W5DXY,Other Device,2W5DX,2016,2027
+2W5DXYZ,Removal of Other Device on Left Lower Arm,2W5DXY,2016,2027
+2W5E,"Hand, Right",2W5,2016,2027
+2W5EX,External,2W5E,2016,2027
+2W5EX0,Traction Apparatus,2W5EX,2016,2027
+2W5EX0Z,Removal of Traction Apparatus on Right Hand,2W5EX0,2016,2027
+2W5EX1,Splint,2W5EX,2016,2027
+2W5EX1Z,Removal of Splint on Right Hand,2W5EX1,2016,2027
+2W5EX2,Cast,2W5EX,2016,2027
+2W5EX2Z,Removal of Cast on Right Hand,2W5EX2,2016,2027
+2W5EX3,Brace,2W5EX,2016,2027
+2W5EX3Z,Removal of Brace on Right Hand,2W5EX3,2016,2027
+2W5EX4,Bandage,2W5EX,2016,2027
+2W5EX4Z,Removal of Bandage on Right Hand,2W5EX4,2016,2027
+2W5EX5,Packing Material,2W5EX,2016,2027
+2W5EX5Z,Removal of Packing Material on Right Hand,2W5EX5,2016,2027
+2W5EX6,Pressure Dressing,2W5EX,2016,2027
+2W5EX6Z,Removal of Pressure Dressing on Right Hand,2W5EX6,2016,2027
+2W5EX7,Intermittent Pressure Device,2W5EX,2016,2027
+2W5EX7Z,Removal of Intermittent Pressure Device on Right Hand,2W5EX7,2016,2027
+2W5EXY,Other Device,2W5EX,2016,2027
+2W5EXYZ,Removal of Other Device on Right Hand,2W5EXY,2016,2027
+2W5F,"Hand, Left",2W5,2016,2027
+2W5FX,External,2W5F,2016,2027
+2W5FX0,Traction Apparatus,2W5FX,2016,2027
+2W5FX0Z,Removal of Traction Apparatus on Left Hand,2W5FX0,2016,2027
+2W5FX1,Splint,2W5FX,2016,2027
+2W5FX1Z,Removal of Splint on Left Hand,2W5FX1,2016,2027
+2W5FX2,Cast,2W5FX,2016,2027
+2W5FX2Z,Removal of Cast on Left Hand,2W5FX2,2016,2027
+2W5FX3,Brace,2W5FX,2016,2027
+2W5FX3Z,Removal of Brace on Left Hand,2W5FX3,2016,2027
+2W5FX4,Bandage,2W5FX,2016,2027
+2W5FX4Z,Removal of Bandage on Left Hand,2W5FX4,2016,2027
+2W5FX5,Packing Material,2W5FX,2016,2027
+2W5FX5Z,Removal of Packing Material on Left Hand,2W5FX5,2016,2027
+2W5FX6,Pressure Dressing,2W5FX,2016,2027
+2W5FX6Z,Removal of Pressure Dressing on Left Hand,2W5FX6,2016,2027
+2W5FX7,Intermittent Pressure Device,2W5FX,2016,2027
+2W5FX7Z,Removal of Intermittent Pressure Device on Left Hand,2W5FX7,2016,2027
+2W5FXY,Other Device,2W5FX,2016,2027
+2W5FXYZ,Removal of Other Device on Left Hand,2W5FXY,2016,2027
+2W5G,"Thumb, Right",2W5,2016,2027
+2W5GX,External,2W5G,2016,2027
+2W5GX0,Traction Apparatus,2W5GX,2016,2027
+2W5GX0Z,Removal of Traction Apparatus on Right Thumb,2W5GX0,2016,2027
+2W5GX1,Splint,2W5GX,2016,2027
+2W5GX1Z,Removal of Splint on Right Thumb,2W5GX1,2016,2027
+2W5GX2,Cast,2W5GX,2016,2027
+2W5GX2Z,Removal of Cast on Right Thumb,2W5GX2,2016,2027
+2W5GX3,Brace,2W5GX,2016,2027
+2W5GX3Z,Removal of Brace on Right Thumb,2W5GX3,2016,2027
+2W5GX4,Bandage,2W5GX,2016,2027
+2W5GX4Z,Removal of Bandage on Right Thumb,2W5GX4,2016,2027
+2W5GX5,Packing Material,2W5GX,2016,2027
+2W5GX5Z,Removal of Packing Material on Right Thumb,2W5GX5,2016,2027
+2W5GX6,Pressure Dressing,2W5GX,2016,2027
+2W5GX6Z,Removal of Pressure Dressing on Right Thumb,2W5GX6,2016,2027
+2W5GX7,Intermittent Pressure Device,2W5GX,2016,2027
+2W5GX7Z,Removal of Intermittent Pressure Device on Right Thumb,2W5GX7,2016,2027
+2W5GXY,Other Device,2W5GX,2016,2027
+2W5GXYZ,Removal of Other Device on Right Thumb,2W5GXY,2016,2027
+2W5H,"Thumb, Left",2W5,2016,2027
+2W5HX,External,2W5H,2016,2027
+2W5HX0,Traction Apparatus,2W5HX,2016,2027
+2W5HX0Z,Removal of Traction Apparatus on Left Thumb,2W5HX0,2016,2027
+2W5HX1,Splint,2W5HX,2016,2027
+2W5HX1Z,Removal of Splint on Left Thumb,2W5HX1,2016,2027
+2W5HX2,Cast,2W5HX,2016,2027
+2W5HX2Z,Removal of Cast on Left Thumb,2W5HX2,2016,2027
+2W5HX3,Brace,2W5HX,2016,2027
+2W5HX3Z,Removal of Brace on Left Thumb,2W5HX3,2016,2027
+2W5HX4,Bandage,2W5HX,2016,2027
+2W5HX4Z,Removal of Bandage on Left Thumb,2W5HX4,2016,2027
+2W5HX5,Packing Material,2W5HX,2016,2027
+2W5HX5Z,Removal of Packing Material on Left Thumb,2W5HX5,2016,2027
+2W5HX6,Pressure Dressing,2W5HX,2016,2027
+2W5HX6Z,Removal of Pressure Dressing on Left Thumb,2W5HX6,2016,2027
+2W5HX7,Intermittent Pressure Device,2W5HX,2016,2027
+2W5HX7Z,Removal of Intermittent Pressure Device on Left Thumb,2W5HX7,2016,2027
+2W5HXY,Other Device,2W5HX,2016,2027
+2W5HXYZ,Removal of Other Device on Left Thumb,2W5HXY,2016,2027
+2W5J,"Finger, Right",2W5,2016,2027
+2W5JX,External,2W5J,2016,2027
+2W5JX0,Traction Apparatus,2W5JX,2016,2027
+2W5JX0Z,Removal of Traction Apparatus on Right Finger,2W5JX0,2016,2027
+2W5JX1,Splint,2W5JX,2016,2027
+2W5JX1Z,Removal of Splint on Right Finger,2W5JX1,2016,2027
+2W5JX2,Cast,2W5JX,2016,2027
+2W5JX2Z,Removal of Cast on Right Finger,2W5JX2,2016,2027
+2W5JX3,Brace,2W5JX,2016,2027
+2W5JX3Z,Removal of Brace on Right Finger,2W5JX3,2016,2027
+2W5JX4,Bandage,2W5JX,2016,2027
+2W5JX4Z,Removal of Bandage on Right Finger,2W5JX4,2016,2027
+2W5JX5,Packing Material,2W5JX,2016,2027
+2W5JX5Z,Removal of Packing Material on Right Finger,2W5JX5,2016,2027
+2W5JX6,Pressure Dressing,2W5JX,2016,2027
+2W5JX6Z,Removal of Pressure Dressing on Right Finger,2W5JX6,2016,2027
+2W5JX7,Intermittent Pressure Device,2W5JX,2016,2027
+2W5JX7Z,Removal of Intermittent Pressure Device on Right Finger,2W5JX7,2016,2027
+2W5JXY,Other Device,2W5JX,2016,2027
+2W5JXYZ,Removal of Other Device on Right Finger,2W5JXY,2016,2027
+2W5K,"Finger, Left",2W5,2016,2027
+2W5KX,External,2W5K,2016,2027
+2W5KX0,Traction Apparatus,2W5KX,2016,2027
+2W5KX0Z,Removal of Traction Apparatus on Left Finger,2W5KX0,2016,2027
+2W5KX1,Splint,2W5KX,2016,2027
+2W5KX1Z,Removal of Splint on Left Finger,2W5KX1,2016,2027
+2W5KX2,Cast,2W5KX,2016,2027
+2W5KX2Z,Removal of Cast on Left Finger,2W5KX2,2016,2027
+2W5KX3,Brace,2W5KX,2016,2027
+2W5KX3Z,Removal of Brace on Left Finger,2W5KX3,2016,2027
+2W5KX4,Bandage,2W5KX,2016,2027
+2W5KX4Z,Removal of Bandage on Left Finger,2W5KX4,2016,2027
+2W5KX5,Packing Material,2W5KX,2016,2027
+2W5KX5Z,Removal of Packing Material on Left Finger,2W5KX5,2016,2027
+2W5KX6,Pressure Dressing,2W5KX,2016,2027
+2W5KX6Z,Removal of Pressure Dressing on Left Finger,2W5KX6,2016,2027
+2W5KX7,Intermittent Pressure Device,2W5KX,2016,2027
+2W5KX7Z,Removal of Intermittent Pressure Device on Left Finger,2W5KX7,2016,2027
+2W5KXY,Other Device,2W5KX,2016,2027
+2W5KXYZ,Removal of Other Device on Left Finger,2W5KXY,2016,2027
+2W5L,"Lower Extremity, Right",2W5,2016,2027
+2W5LX,External,2W5L,2016,2027
+2W5LX0,Traction Apparatus,2W5LX,2016,2027
+2W5LX0Z,Removal of Traction Apparatus on Right Lower Extremity,2W5LX0,2016,2027
+2W5LX1,Splint,2W5LX,2016,2027
+2W5LX1Z,Removal of Splint on Right Lower Extremity,2W5LX1,2016,2027
+2W5LX2,Cast,2W5LX,2016,2027
+2W5LX2Z,Removal of Cast on Right Lower Extremity,2W5LX2,2016,2027
+2W5LX3,Brace,2W5LX,2016,2027
+2W5LX3Z,Removal of Brace on Right Lower Extremity,2W5LX3,2016,2027
+2W5LX4,Bandage,2W5LX,2016,2027
+2W5LX4Z,Removal of Bandage on Right Lower Extremity,2W5LX4,2016,2027
+2W5LX5,Packing Material,2W5LX,2016,2027
+2W5LX5Z,Removal of Packing Material on Right Lower Extremity,2W5LX5,2016,2027
+2W5LX6,Pressure Dressing,2W5LX,2016,2027
+2W5LX6Z,Removal of Pressure Dressing on Right Lower Extremity,2W5LX6,2016,2027
+2W5LX7,Intermittent Pressure Device,2W5LX,2016,2027
+2W5LX7Z,Removal of Intermittent Pressure Device on Right Lower Extremity,2W5LX7,2016,2027
+2W5LXY,Other Device,2W5LX,2016,2027
+2W5LXYZ,Removal of Other Device on Right Lower Extremity,2W5LXY,2016,2027
+2W5M,"Lower Extremity, Left",2W5,2016,2027
+2W5MX,External,2W5M,2016,2027
+2W5MX0,Traction Apparatus,2W5MX,2016,2027
+2W5MX0Z,Removal of Traction Apparatus on Left Lower Extremity,2W5MX0,2016,2027
+2W5MX1,Splint,2W5MX,2016,2027
+2W5MX1Z,Removal of Splint on Left Lower Extremity,2W5MX1,2016,2027
+2W5MX2,Cast,2W5MX,2016,2027
+2W5MX2Z,Removal of Cast on Left Lower Extremity,2W5MX2,2016,2027
+2W5MX3,Brace,2W5MX,2016,2027
+2W5MX3Z,Removal of Brace on Left Lower Extremity,2W5MX3,2016,2027
+2W5MX4,Bandage,2W5MX,2016,2027
+2W5MX4Z,Removal of Bandage on Left Lower Extremity,2W5MX4,2016,2027
+2W5MX5,Packing Material,2W5MX,2016,2027
+2W5MX5Z,Removal of Packing Material on Left Lower Extremity,2W5MX5,2016,2027
+2W5MX6,Pressure Dressing,2W5MX,2016,2027
+2W5MX6Z,Removal of Pressure Dressing on Left Lower Extremity,2W5MX6,2016,2027
+2W5MX7,Intermittent Pressure Device,2W5MX,2016,2027
+2W5MX7Z,Removal of Intermittent Pressure Device on Left Lower Extremity,2W5MX7,2016,2027
+2W5MXY,Other Device,2W5MX,2016,2027
+2W5MXYZ,Removal of Other Device on Left Lower Extremity,2W5MXY,2016,2027
+2W5N,"Upper Leg, Right",2W5,2016,2027
+2W5NX,External,2W5N,2016,2027
+2W5NX0,Traction Apparatus,2W5NX,2016,2027
+2W5NX0Z,Removal of Traction Apparatus on Right Upper Leg,2W5NX0,2016,2027
+2W5NX1,Splint,2W5NX,2016,2027
+2W5NX1Z,Removal of Splint on Right Upper Leg,2W5NX1,2016,2027
+2W5NX2,Cast,2W5NX,2016,2027
+2W5NX2Z,Removal of Cast on Right Upper Leg,2W5NX2,2016,2027
+2W5NX3,Brace,2W5NX,2016,2027
+2W5NX3Z,Removal of Brace on Right Upper Leg,2W5NX3,2016,2027
+2W5NX4,Bandage,2W5NX,2016,2027
+2W5NX4Z,Removal of Bandage on Right Upper Leg,2W5NX4,2016,2027
+2W5NX5,Packing Material,2W5NX,2016,2027
+2W5NX5Z,Removal of Packing Material on Right Upper Leg,2W5NX5,2016,2027
+2W5NX6,Pressure Dressing,2W5NX,2016,2027
+2W5NX6Z,Removal of Pressure Dressing on Right Upper Leg,2W5NX6,2016,2027
+2W5NX7,Intermittent Pressure Device,2W5NX,2016,2027
+2W5NX7Z,Removal of Intermittent Pressure Device on Right Upper Leg,2W5NX7,2016,2027
+2W5NXY,Other Device,2W5NX,2016,2027
+2W5NXYZ,Removal of Other Device on Right Upper Leg,2W5NXY,2016,2027
+2W5P,"Upper Leg, Left",2W5,2016,2027
+2W5PX,External,2W5P,2016,2027
+2W5PX0,Traction Apparatus,2W5PX,2016,2027
+2W5PX0Z,Removal of Traction Apparatus on Left Upper Leg,2W5PX0,2016,2027
+2W5PX1,Splint,2W5PX,2016,2027
+2W5PX1Z,Removal of Splint on Left Upper Leg,2W5PX1,2016,2027
+2W5PX2,Cast,2W5PX,2016,2027
+2W5PX2Z,Removal of Cast on Left Upper Leg,2W5PX2,2016,2027
+2W5PX3,Brace,2W5PX,2016,2027
+2W5PX3Z,Removal of Brace on Left Upper Leg,2W5PX3,2016,2027
+2W5PX4,Bandage,2W5PX,2016,2027
+2W5PX4Z,Removal of Bandage on Left Upper Leg,2W5PX4,2016,2027
+2W5PX5,Packing Material,2W5PX,2016,2027
+2W5PX5Z,Removal of Packing Material on Left Upper Leg,2W5PX5,2016,2027
+2W5PX6,Pressure Dressing,2W5PX,2016,2027
+2W5PX6Z,Removal of Pressure Dressing on Left Upper Leg,2W5PX6,2016,2027
+2W5PX7,Intermittent Pressure Device,2W5PX,2016,2027
+2W5PX7Z,Removal of Intermittent Pressure Device on Left Upper Leg,2W5PX7,2016,2027
+2W5PXY,Other Device,2W5PX,2016,2027
+2W5PXYZ,Removal of Other Device on Left Upper Leg,2W5PXY,2016,2027
+2W5Q,"Lower Leg, Right",2W5,2016,2027
+2W5QX,External,2W5Q,2016,2027
+2W5QX0,Traction Apparatus,2W5QX,2016,2027
+2W5QX0Z,Removal of Traction Apparatus on Right Lower Leg,2W5QX0,2016,2027
+2W5QX1,Splint,2W5QX,2016,2027
+2W5QX1Z,Removal of Splint on Right Lower Leg,2W5QX1,2016,2027
+2W5QX2,Cast,2W5QX,2016,2027
+2W5QX2Z,Removal of Cast on Right Lower Leg,2W5QX2,2016,2027
+2W5QX3,Brace,2W5QX,2016,2027
+2W5QX3Z,Removal of Brace on Right Lower Leg,2W5QX3,2016,2027
+2W5QX4,Bandage,2W5QX,2016,2027
+2W5QX4Z,Removal of Bandage on Right Lower Leg,2W5QX4,2016,2027
+2W5QX5,Packing Material,2W5QX,2016,2027
+2W5QX5Z,Removal of Packing Material on Right Lower Leg,2W5QX5,2016,2027
+2W5QX6,Pressure Dressing,2W5QX,2016,2027
+2W5QX6Z,Removal of Pressure Dressing on Right Lower Leg,2W5QX6,2016,2027
+2W5QX7,Intermittent Pressure Device,2W5QX,2016,2027
+2W5QX7Z,Removal of Intermittent Pressure Device on Right Lower Leg,2W5QX7,2016,2027
+2W5QXY,Other Device,2W5QX,2016,2027
+2W5QXYZ,Removal of Other Device on Right Lower Leg,2W5QXY,2016,2027
+2W5R,"Lower Leg, Left",2W5,2016,2027
+2W5RX,External,2W5R,2016,2027
+2W5RX0,Traction Apparatus,2W5RX,2016,2027
+2W5RX0Z,Removal of Traction Apparatus on Left Lower Leg,2W5RX0,2016,2027
+2W5RX1,Splint,2W5RX,2016,2027
+2W5RX1Z,Removal of Splint on Left Lower Leg,2W5RX1,2016,2027
+2W5RX2,Cast,2W5RX,2016,2027
+2W5RX2Z,Removal of Cast on Left Lower Leg,2W5RX2,2016,2027
+2W5RX3,Brace,2W5RX,2016,2027
+2W5RX3Z,Removal of Brace on Left Lower Leg,2W5RX3,2016,2027
+2W5RX4,Bandage,2W5RX,2016,2027
+2W5RX4Z,Removal of Bandage on Left Lower Leg,2W5RX4,2016,2027
+2W5RX5,Packing Material,2W5RX,2016,2027
+2W5RX5Z,Removal of Packing Material on Left Lower Leg,2W5RX5,2016,2027
+2W5RX6,Pressure Dressing,2W5RX,2016,2027
+2W5RX6Z,Removal of Pressure Dressing on Left Lower Leg,2W5RX6,2016,2027
+2W5RX7,Intermittent Pressure Device,2W5RX,2016,2027
+2W5RX7Z,Removal of Intermittent Pressure Device on Left Lower Leg,2W5RX7,2016,2027
+2W5RXY,Other Device,2W5RX,2016,2027
+2W5RXYZ,Removal of Other Device on Left Lower Leg,2W5RXY,2016,2027
+2W5S,"Foot, Right",2W5,2016,2027
+2W5SX,External,2W5S,2016,2027
+2W5SX0,Traction Apparatus,2W5SX,2016,2027
+2W5SX0Z,Removal of Traction Apparatus on Right Foot,2W5SX0,2016,2027
+2W5SX1,Splint,2W5SX,2016,2027
+2W5SX1Z,Removal of Splint on Right Foot,2W5SX1,2016,2027
+2W5SX2,Cast,2W5SX,2016,2027
+2W5SX2Z,Removal of Cast on Right Foot,2W5SX2,2016,2027
+2W5SX3,Brace,2W5SX,2016,2027
+2W5SX3Z,Removal of Brace on Right Foot,2W5SX3,2016,2027
+2W5SX4,Bandage,2W5SX,2016,2027
+2W5SX4Z,Removal of Bandage on Right Foot,2W5SX4,2016,2027
+2W5SX5,Packing Material,2W5SX,2016,2027
+2W5SX5Z,Removal of Packing Material on Right Foot,2W5SX5,2016,2027
+2W5SX6,Pressure Dressing,2W5SX,2016,2027
+2W5SX6Z,Removal of Pressure Dressing on Right Foot,2W5SX6,2016,2027
+2W5SX7,Intermittent Pressure Device,2W5SX,2016,2027
+2W5SX7Z,Removal of Intermittent Pressure Device on Right Foot,2W5SX7,2016,2027
+2W5SXY,Other Device,2W5SX,2016,2027
+2W5SXYZ,Removal of Other Device on Right Foot,2W5SXY,2016,2027
+2W5T,"Foot, Left",2W5,2016,2027
+2W5TX,External,2W5T,2016,2027
+2W5TX0,Traction Apparatus,2W5TX,2016,2027
+2W5TX0Z,Removal of Traction Apparatus on Left Foot,2W5TX0,2016,2027
+2W5TX1,Splint,2W5TX,2016,2027
+2W5TX1Z,Removal of Splint on Left Foot,2W5TX1,2016,2027
+2W5TX2,Cast,2W5TX,2016,2027
+2W5TX2Z,Removal of Cast on Left Foot,2W5TX2,2016,2027
+2W5TX3,Brace,2W5TX,2016,2027
+2W5TX3Z,Removal of Brace on Left Foot,2W5TX3,2016,2027
+2W5TX4,Bandage,2W5TX,2016,2027
+2W5TX4Z,Removal of Bandage on Left Foot,2W5TX4,2016,2027
+2W5TX5,Packing Material,2W5TX,2016,2027
+2W5TX5Z,Removal of Packing Material on Left Foot,2W5TX5,2016,2027
+2W5TX6,Pressure Dressing,2W5TX,2016,2027
+2W5TX6Z,Removal of Pressure Dressing on Left Foot,2W5TX6,2016,2027
+2W5TX7,Intermittent Pressure Device,2W5TX,2016,2027
+2W5TX7Z,Removal of Intermittent Pressure Device on Left Foot,2W5TX7,2016,2027
+2W5TXY,Other Device,2W5TX,2016,2027
+2W5TXYZ,Removal of Other Device on Left Foot,2W5TXY,2016,2027
+2W5U,"Toe, Right",2W5,2016,2027
+2W5UX,External,2W5U,2016,2027
+2W5UX0,Traction Apparatus,2W5UX,2016,2027
+2W5UX0Z,Removal of Traction Apparatus on Right Toe,2W5UX0,2016,2027
+2W5UX1,Splint,2W5UX,2016,2027
+2W5UX1Z,Removal of Splint on Right Toe,2W5UX1,2016,2027
+2W5UX2,Cast,2W5UX,2016,2027
+2W5UX2Z,Removal of Cast on Right Toe,2W5UX2,2016,2027
+2W5UX3,Brace,2W5UX,2016,2027
+2W5UX3Z,Removal of Brace on Right Toe,2W5UX3,2016,2027
+2W5UX4,Bandage,2W5UX,2016,2027
+2W5UX4Z,Removal of Bandage on Right Toe,2W5UX4,2016,2027
+2W5UX5,Packing Material,2W5UX,2016,2027
+2W5UX5Z,Removal of Packing Material on Right Toe,2W5UX5,2016,2027
+2W5UX6,Pressure Dressing,2W5UX,2016,2027
+2W5UX6Z,Removal of Pressure Dressing on Right Toe,2W5UX6,2016,2027
+2W5UX7,Intermittent Pressure Device,2W5UX,2016,2027
+2W5UX7Z,Removal of Intermittent Pressure Device on Right Toe,2W5UX7,2016,2027
+2W5UXY,Other Device,2W5UX,2016,2027
+2W5UXYZ,Removal of Other Device on Right Toe,2W5UXY,2016,2027
+2W5V,"Toe, Left",2W5,2016,2027
+2W5VX,External,2W5V,2016,2027
+2W5VX0,Traction Apparatus,2W5VX,2016,2027
+2W5VX0Z,Removal of Traction Apparatus on Left Toe,2W5VX0,2016,2027
+2W5VX1,Splint,2W5VX,2016,2027
+2W5VX1Z,Removal of Splint on Left Toe,2W5VX1,2016,2027
+2W5VX2,Cast,2W5VX,2016,2027
+2W5VX2Z,Removal of Cast on Left Toe,2W5VX2,2016,2027
+2W5VX3,Brace,2W5VX,2016,2027
+2W5VX3Z,Removal of Brace on Left Toe,2W5VX3,2016,2027
+2W5VX4,Bandage,2W5VX,2016,2027
+2W5VX4Z,Removal of Bandage on Left Toe,2W5VX4,2016,2027
+2W5VX5,Packing Material,2W5VX,2016,2027
+2W5VX5Z,Removal of Packing Material on Left Toe,2W5VX5,2016,2027
+2W5VX6,Pressure Dressing,2W5VX,2016,2027
+2W5VX6Z,Removal of Pressure Dressing on Left Toe,2W5VX6,2016,2027
+2W5VX7,Intermittent Pressure Device,2W5VX,2016,2027
+2W5VX7Z,Removal of Intermittent Pressure Device on Left Toe,2W5VX7,2016,2027
+2W5VXY,Other Device,2W5VX,2016,2027
+2W5VXYZ,Removal of Other Device on Left Toe,2W5VXY,2016,2027
+2W6,Traction,2W,2016,2027
+2W60,Head,2W6,2016,2027
+2W60X,External,2W60,2016,2027
+2W60X0,Traction Apparatus,2W60X,2016,2027
+2W60X0Z,Traction of Head using Traction Apparatus,2W60X0,2016,2027
+2W60XZ,No Device,2W60X,2016,2027
+2W60XZZ,Traction of Head,2W60XZ,2016,2027
+2W61,Face,2W6,2016,2027
+2W61X,External,2W61,2016,2027
+2W61X0,Traction Apparatus,2W61X,2016,2027
+2W61X0Z,Traction of Face using Traction Apparatus,2W61X0,2016,2027
+2W61XZ,No Device,2W61X,2016,2027
+2W61XZZ,Traction of Face,2W61XZ,2016,2027
+2W62,Neck,2W6,2016,2027
+2W62X,External,2W62,2016,2027
+2W62X0,Traction Apparatus,2W62X,2016,2027
+2W62X0Z,Traction of Neck using Traction Apparatus,2W62X0,2016,2027
+2W62XZ,No Device,2W62X,2016,2027
+2W62XZZ,Traction of Neck,2W62XZ,2016,2027
+2W63,Abdominal Wall,2W6,2016,2027
+2W63X,External,2W63,2016,2027
+2W63X0,Traction Apparatus,2W63X,2016,2027
+2W63X0Z,Traction of Abdominal Wall using Traction Apparatus,2W63X0,2016,2027
+2W63XZ,No Device,2W63X,2016,2027
+2W63XZZ,Traction of Abdominal Wall,2W63XZ,2016,2027
+2W64,Chest Wall,2W6,2016,2027
+2W64X,External,2W64,2016,2027
+2W64X0,Traction Apparatus,2W64X,2016,2027
+2W64X0Z,Traction of Chest Wall using Traction Apparatus,2W64X0,2016,2027
+2W64XZ,No Device,2W64X,2016,2027
+2W64XZZ,Traction of Chest Wall,2W64XZ,2016,2027
+2W65,Back,2W6,2016,2027
+2W65X,External,2W65,2016,2027
+2W65X0,Traction Apparatus,2W65X,2016,2027
+2W65X0Z,Traction of Back using Traction Apparatus,2W65X0,2016,2027
+2W65XZ,No Device,2W65X,2016,2027
+2W65XZZ,Traction of Back,2W65XZ,2016,2027
+2W66,"Inguinal Region, Right",2W6,2016,2027
+2W66X,External,2W66,2016,2027
+2W66X0,Traction Apparatus,2W66X,2016,2027
+2W66X0Z,Traction of Right Inguinal Region using Traction Apparatus,2W66X0,2016,2027
+2W66XZ,No Device,2W66X,2016,2027
+2W66XZZ,Traction of Right Inguinal Region,2W66XZ,2016,2027
+2W67,"Inguinal Region, Left",2W6,2016,2027
+2W67X,External,2W67,2016,2027
+2W67X0,Traction Apparatus,2W67X,2016,2027
+2W67X0Z,Traction of Left Inguinal Region using Traction Apparatus,2W67X0,2016,2027
+2W67XZ,No Device,2W67X,2016,2027
+2W67XZZ,Traction of Left Inguinal Region,2W67XZ,2016,2027
+2W68,"Upper Extremity, Right",2W6,2016,2027
+2W68X,External,2W68,2016,2027
+2W68X0,Traction Apparatus,2W68X,2016,2027
+2W68X0Z,Traction of Right Upper Extremity using Traction Apparatus,2W68X0,2016,2027
+2W68XZ,No Device,2W68X,2016,2027
+2W68XZZ,Traction of Right Upper Extremity,2W68XZ,2016,2027
+2W69,"Upper Extremity, Left",2W6,2016,2027
+2W69X,External,2W69,2016,2027
+2W69X0,Traction Apparatus,2W69X,2016,2027
+2W69X0Z,Traction of Left Upper Extremity using Traction Apparatus,2W69X0,2016,2027
+2W69XZ,No Device,2W69X,2016,2027
+2W69XZZ,Traction of Left Upper Extremity,2W69XZ,2016,2027
+2W6A,"Upper Arm, Right",2W6,2016,2027
+2W6AX,External,2W6A,2016,2027
+2W6AX0,Traction Apparatus,2W6AX,2016,2027
+2W6AX0Z,Traction of Right Upper Arm using Traction Apparatus,2W6AX0,2016,2027
+2W6AXZ,No Device,2W6AX,2016,2027
+2W6AXZZ,Traction of Right Upper Arm,2W6AXZ,2016,2027
+2W6B,"Upper Arm, Left",2W6,2016,2027
+2W6BX,External,2W6B,2016,2027
+2W6BX0,Traction Apparatus,2W6BX,2016,2027
+2W6BX0Z,Traction of Left Upper Arm using Traction Apparatus,2W6BX0,2016,2027
+2W6BXZ,No Device,2W6BX,2016,2027
+2W6BXZZ,Traction of Left Upper Arm,2W6BXZ,2016,2027
+2W6C,"Lower Arm, Right",2W6,2016,2027
+2W6CX,External,2W6C,2016,2027
+2W6CX0,Traction Apparatus,2W6CX,2016,2027
+2W6CX0Z,Traction of Right Lower Arm using Traction Apparatus,2W6CX0,2016,2027
+2W6CXZ,No Device,2W6CX,2016,2027
+2W6CXZZ,Traction of Right Lower Arm,2W6CXZ,2016,2027
+2W6D,"Lower Arm, Left",2W6,2016,2027
+2W6DX,External,2W6D,2016,2027
+2W6DX0,Traction Apparatus,2W6DX,2016,2027
+2W6DX0Z,Traction of Left Lower Arm using Traction Apparatus,2W6DX0,2016,2027
+2W6DXZ,No Device,2W6DX,2016,2027
+2W6DXZZ,Traction of Left Lower Arm,2W6DXZ,2016,2027
+2W6E,"Hand, Right",2W6,2016,2027
+2W6EX,External,2W6E,2016,2027
+2W6EX0,Traction Apparatus,2W6EX,2016,2027
+2W6EX0Z,Traction of Right Hand using Traction Apparatus,2W6EX0,2016,2027
+2W6EXZ,No Device,2W6EX,2016,2027
+2W6EXZZ,Traction of Right Hand,2W6EXZ,2016,2027
+2W6F,"Hand, Left",2W6,2016,2027
+2W6FX,External,2W6F,2016,2027
+2W6FX0,Traction Apparatus,2W6FX,2016,2027
+2W6FX0Z,Traction of Left Hand using Traction Apparatus,2W6FX0,2016,2027
+2W6FXZ,No Device,2W6FX,2016,2027
+2W6FXZZ,Traction of Left Hand,2W6FXZ,2016,2027
+2W6G,"Thumb, Right",2W6,2016,2027
+2W6GX,External,2W6G,2016,2027
+2W6GX0,Traction Apparatus,2W6GX,2016,2027
+2W6GX0Z,Traction of Right Thumb using Traction Apparatus,2W6GX0,2016,2027
+2W6GXZ,No Device,2W6GX,2016,2027
+2W6GXZZ,Traction of Right Thumb,2W6GXZ,2016,2027
+2W6H,"Thumb, Left",2W6,2016,2027
+2W6HX,External,2W6H,2016,2027
+2W6HX0,Traction Apparatus,2W6HX,2016,2027
+2W6HX0Z,Traction of Left Thumb using Traction Apparatus,2W6HX0,2016,2027
+2W6HXZ,No Device,2W6HX,2016,2027
+2W6HXZZ,Traction of Left Thumb,2W6HXZ,2016,2027
+2W6J,"Finger, Right",2W6,2016,2027
+2W6JX,External,2W6J,2016,2027
+2W6JX0,Traction Apparatus,2W6JX,2016,2027
+2W6JX0Z,Traction of Right Finger using Traction Apparatus,2W6JX0,2016,2027
+2W6JXZ,No Device,2W6JX,2016,2027
+2W6JXZZ,Traction of Right Finger,2W6JXZ,2016,2027
+2W6K,"Finger, Left",2W6,2016,2027
+2W6KX,External,2W6K,2016,2027
+2W6KX0,Traction Apparatus,2W6KX,2016,2027
+2W6KX0Z,Traction of Left Finger using Traction Apparatus,2W6KX0,2016,2027
+2W6KXZ,No Device,2W6KX,2016,2027
+2W6KXZZ,Traction of Left Finger,2W6KXZ,2016,2027
+2W6L,"Lower Extremity, Right",2W6,2016,2027
+2W6LX,External,2W6L,2016,2027
+2W6LX0,Traction Apparatus,2W6LX,2016,2027
+2W6LX0Z,Traction of Right Lower Extremity using Traction Apparatus,2W6LX0,2016,2027
+2W6LXZ,No Device,2W6LX,2016,2027
+2W6LXZZ,Traction of Right Lower Extremity,2W6LXZ,2016,2027
+2W6M,"Lower Extremity, Left",2W6,2016,2027
+2W6MX,External,2W6M,2016,2027
+2W6MX0,Traction Apparatus,2W6MX,2016,2027
+2W6MX0Z,Traction of Left Lower Extremity using Traction Apparatus,2W6MX0,2016,2027
+2W6MXZ,No Device,2W6MX,2016,2027
+2W6MXZZ,Traction of Left Lower Extremity,2W6MXZ,2016,2027
+2W6N,"Upper Leg, Right",2W6,2016,2027
+2W6NX,External,2W6N,2016,2027
+2W6NX0,Traction Apparatus,2W6NX,2016,2027
+2W6NX0Z,Traction of Right Upper Leg using Traction Apparatus,2W6NX0,2016,2027
+2W6NXZ,No Device,2W6NX,2016,2027
+2W6NXZZ,Traction of Right Upper Leg,2W6NXZ,2016,2027
+2W6P,"Upper Leg, Left",2W6,2016,2027
+2W6PX,External,2W6P,2016,2027
+2W6PX0,Traction Apparatus,2W6PX,2016,2027
+2W6PX0Z,Traction of Left Upper Leg using Traction Apparatus,2W6PX0,2016,2027
+2W6PXZ,No Device,2W6PX,2016,2027
+2W6PXZZ,Traction of Left Upper Leg,2W6PXZ,2016,2027
+2W6Q,"Lower Leg, Right",2W6,2016,2027
+2W6QX,External,2W6Q,2016,2027
+2W6QX0,Traction Apparatus,2W6QX,2016,2027
+2W6QX0Z,Traction of Right Lower Leg using Traction Apparatus,2W6QX0,2016,2027
+2W6QXZ,No Device,2W6QX,2016,2027
+2W6QXZZ,Traction of Right Lower Leg,2W6QXZ,2016,2027
+2W6R,"Lower Leg, Left",2W6,2016,2027
+2W6RX,External,2W6R,2016,2027
+2W6RX0,Traction Apparatus,2W6RX,2016,2027
+2W6RX0Z,Traction of Left Lower Leg using Traction Apparatus,2W6RX0,2016,2027
+2W6RXZ,No Device,2W6RX,2016,2027
+2W6RXZZ,Traction of Left Lower Leg,2W6RXZ,2016,2027
+2W6S,"Foot, Right",2W6,2016,2027
+2W6SX,External,2W6S,2016,2027
+2W6SX0,Traction Apparatus,2W6SX,2016,2027
+2W6SX0Z,Traction of Right Foot using Traction Apparatus,2W6SX0,2016,2027
+2W6SXZ,No Device,2W6SX,2016,2027
+2W6SXZZ,Traction of Right Foot,2W6SXZ,2016,2027
+2W6T,"Foot, Left",2W6,2016,2027
+2W6TX,External,2W6T,2016,2027
+2W6TX0,Traction Apparatus,2W6TX,2016,2027
+2W6TX0Z,Traction of Left Foot using Traction Apparatus,2W6TX0,2016,2027
+2W6TXZ,No Device,2W6TX,2016,2027
+2W6TXZZ,Traction of Left Foot,2W6TXZ,2016,2027
+2W6U,"Toe, Right",2W6,2016,2027
+2W6UX,External,2W6U,2016,2027
+2W6UX0,Traction Apparatus,2W6UX,2016,2027
+2W6UX0Z,Traction of Right Toe using Traction Apparatus,2W6UX0,2016,2027
+2W6UXZ,No Device,2W6UX,2016,2027
+2W6UXZZ,Traction of Right Toe,2W6UXZ,2016,2027
+2W6V,"Toe, Left",2W6,2016,2027
+2W6VX,External,2W6V,2016,2027
+2W6VX0,Traction Apparatus,2W6VX,2016,2027
+2W6VX0Z,Traction of Left Toe using Traction Apparatus,2W6VX0,2016,2027
+2W6VXZ,No Device,2W6VX,2016,2027
+2W6VXZZ,Traction of Left Toe,2W6VXZ,2016,2027

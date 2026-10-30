@@ -1,0 +1,1118 @@
+code,description,parent,first_year,last_year
+K00,Disorders of tooth development and eruption,,2016,2027
+K00.0,Anodontia,K00,2016,2027
+K00.1,Supernumerary teeth,K00,2016,2027
+K00.2,Abnormalities of size and form of teeth,K00,2016,2027
+K00.3,Mottled teeth,K00,2016,2027
+K00.4,Disturbances in tooth formation,K00,2016,2027
+K00.5,"Hereditary disturbances in tooth structure, not elsewhere classified",K00,2016,2027
+K00.6,Disturbances in tooth eruption,K00,2016,2027
+K00.7,Teething syndrome,K00,2016,2027
+K00.8,Other disorders of tooth development,K00,2016,2027
+K00.9,"Disorder of tooth development, unspecified",K00,2016,2027
+K01,Embedded and impacted teeth,,2016,2027
+K01.0,Embedded teeth,K01,2016,2027
+K01.1,Impacted teeth,K01,2016,2027
+K02,Dental caries,,2016,2027
+K02.3,Arrested dental caries,K02,2016,2027
+K02.5,Dental caries on pit and fissure surface,K02,2016,2027
+K02.51,Dental caries on pit and fissure surface limited to enamel,K02.5,2016,2027
+K02.52,Dental caries on pit and fissure surface penetrating into dentin,K02.5,2016,2027
+K02.53,Dental caries on pit and fissure surface penetrating into pulp,K02.5,2016,2027
+K02.6,Dental caries on smooth surface,K02,2016,2027
+K02.61,Dental caries on smooth surface limited to enamel,K02.6,2016,2027
+K02.62,Dental caries on smooth surface penetrating into dentin,K02.6,2016,2027
+K02.63,Dental caries on smooth surface penetrating into pulp,K02.6,2016,2027
+K02.7,Dental root caries,K02,2016,2027
+K02.9,"Dental caries, unspecified",K02,2016,2027
+K03,Other diseases of hard tissues of teeth,,2016,2027
+K03.0,Excessive attrition of teeth,K03,2016,2027
+K03.1,Abrasion of teeth,K03,2016,2027
+K03.2,Erosion of teeth,K03,2016,2027
+K03.3,Pathological resorption of teeth,K03,2016,2027
+K03.4,Hypercementosis,K03,2016,2027
+K03.5,Ankylosis of teeth,K03,2016,2027
+K03.6,Deposits [accretions] on teeth,K03,2016,2027
+K03.7,Posteruptive color changes of dental hard tissues,K03,2016,2027
+K03.8,Other specified diseases of hard tissues of teeth,K03,2016,2027
+K03.81,Cracked tooth,K03.8,2016,2027
+K03.89,Other specified diseases of hard tissues of teeth,K03.8,2016,2027
+K03.9,"Disease of hard tissues of teeth, unspecified",K03,2016,2027
+K04,Diseases of pulp and periapical tissues,,2016,2027
+K04.0,Pulpitis,K04,2016,2027
+K04.01,Reversible pulpitis,K04.0,2017,2027
+K04.02,Irreversible pulpitis,K04.0,2017,2027
+K04.1,Necrosis of pulp,K04,2016,2027
+K04.2,Pulp degeneration,K04,2016,2027
+K04.3,Abnormal hard tissue formation in pulp,K04,2016,2027
+K04.4,Acute apical periodontitis of pulpal origin,K04,2016,2027
+K04.5,Chronic apical periodontitis,K04,2016,2027
+K04.6,Periapical abscess with sinus,K04,2016,2027
+K04.7,Periapical abscess without sinus,K04,2016,2027
+K04.8,Radicular cyst,K04,2016,2027
+K04.9,Other and unspecified diseases of pulp and periapical tissues,K04,2016,2027
+K04.90,Unspecified diseases of pulp and periapical tissues,K04.9,2016,2027
+K04.99,Other diseases of pulp and periapical tissues,K04.9,2016,2027
+K05,Gingivitis and periodontal diseases,,2016,2027
+K05.0,Acute gingivitis,K05,2016,2027
+K05.00,"Acute gingivitis, plaque induced",K05.0,2016,2027
+K05.01,"Acute gingivitis, non-plaque induced",K05.0,2016,2027
+K05.1,Chronic gingivitis,K05,2016,2027
+K05.10,"Chronic gingivitis, plaque induced",K05.1,2016,2027
+K05.11,"Chronic gingivitis, non-plaque induced",K05.1,2016,2027
+K05.2,Aggressive periodontitis,K05,2016,2027
+K05.20,"Aggressive periodontitis, unspecified",K05.2,2016,2027
+K05.21,"Aggressive periodontitis, localized",K05.2,2016,2027
+K05.211,"Aggressive periodontitis, localized, slight",K05.21,2017,2027
+K05.212,"Aggressive periodontitis, localized, moderate",K05.21,2017,2027
+K05.213,"Aggressive periodontitis, localized, severe",K05.21,2017,2027
+K05.219,"Aggressive periodontitis, localized, unspecified severity",K05.21,2017,2027
+K05.22,"Aggressive periodontitis, generalized",K05.2,2016,2027
+K05.221,"Aggressive periodontitis, generalized, slight",K05.22,2017,2027
+K05.222,"Aggressive periodontitis, generalized, moderate",K05.22,2017,2027
+K05.223,"Aggressive periodontitis, generalized, severe",K05.22,2017,2027
+K05.229,"Aggressive periodontitis, generalized, unspecified severity",K05.22,2017,2027
+K05.3,Chronic periodontitis,K05,2016,2027
+K05.30,"Chronic periodontitis, unspecified",K05.3,2016,2027
+K05.31,"Chronic periodontitis, localized",K05.3,2016,2027
+K05.311,"Chronic periodontitis, localized, slight",K05.31,2017,2027
+K05.312,"Chronic periodontitis, localized, moderate",K05.31,2017,2027
+K05.313,"Chronic periodontitis, localized, severe",K05.31,2017,2027
+K05.319,"Chronic periodontitis, localized, unspecified severity",K05.31,2017,2027
+K05.32,"Chronic periodontitis, generalized",K05.3,2016,2027
+K05.321,"Chronic periodontitis, generalized, slight",K05.32,2017,2027
+K05.322,"Chronic periodontitis, generalized, moderate",K05.32,2017,2027
+K05.323,"Chronic periodontitis, generalized, severe",K05.32,2017,2027
+K05.329,"Chronic periodontitis, generalized, unspecified severity",K05.32,2017,2027
+K05.4,Periodontosis,K05,2016,2027
+K05.5,Other periodontal diseases,K05,2016,2027
+K05.6,"Periodontal disease, unspecified",K05,2016,2027
+K06,Other disorders of gingiva and edentulous alveolar ridge,,2016,2027
+K06.0,Gingival recession,K06,2016,2027
+K06.01,"Gingival recession, localized",K06.0,2018,2027
+K06.010,"Localized gingival recession, unspecified",K06.01,2018,2027
+K06.011,"Localized gingival recession, minimal",K06.01,2018,2027
+K06.012,"Localized gingival recession, moderate",K06.01,2018,2027
+K06.013,"Localized gingival recession, severe",K06.01,2018,2027
+K06.02,"Gingival recession, generalized",K06.0,2018,2027
+K06.020,"Generalized gingival recession, unspecified",K06.02,2018,2027
+K06.021,"Generalized gingival recession, minimal",K06.02,2018,2027
+K06.022,"Generalized gingival recession, moderate",K06.02,2018,2027
+K06.023,"Generalized gingival recession, severe",K06.02,2018,2027
+K06.1,Gingival enlargement,K06,2016,2027
+K06.2,Gingival and edentulous alveolar ridge lesions associated with trauma,K06,2016,2027
+K06.3,Horizontal alveolar bone loss,K06,2017,2027
+K06.8,Other specified disorders of gingiva and edentulous alveolar ridge,K06,2016,2027
+K06.9,"Disorder of gingiva and edentulous alveolar ridge, unspecified",K06,2016,2027
+K08,Other disorders of teeth and supporting structures,,2016,2027
+K08.0,Exfoliation of teeth due to systemic causes,K08,2016,2027
+K08.1,Complete loss of teeth,K08,2016,2027
+K08.10,"Complete loss of teeth, unspecified cause",K08.1,2016,2027
+K08.101,"Complete loss of teeth, unspecified cause, class I",K08.10,2016,2027
+K08.102,"Complete loss of teeth, unspecified cause, class II",K08.10,2016,2027
+K08.103,"Complete loss of teeth, unspecified cause, class III",K08.10,2016,2027
+K08.104,"Complete loss of teeth, unspecified cause, class IV",K08.10,2016,2027
+K08.109,"Complete loss of teeth, unspecified cause, unspecified class",K08.10,2016,2027
+K08.11,Complete loss of teeth due to trauma,K08.1,2016,2027
+K08.111,"Complete loss of teeth due to trauma, class I",K08.11,2016,2027
+K08.112,"Complete loss of teeth due to trauma, class II",K08.11,2016,2027
+K08.113,"Complete loss of teeth due to trauma, class III",K08.11,2016,2027
+K08.114,"Complete loss of teeth due to trauma, class IV",K08.11,2016,2027
+K08.119,"Complete loss of teeth due to trauma, unspecified class",K08.11,2016,2027
+K08.12,Complete loss of teeth due to periodontal diseases,K08.1,2016,2027
+K08.121,"Complete loss of teeth due to periodontal diseases, class I",K08.12,2016,2027
+K08.122,"Complete loss of teeth due to periodontal diseases, class II",K08.12,2016,2027
+K08.123,"Complete loss of teeth due to periodontal diseases, class III",K08.12,2016,2027
+K08.124,"Complete loss of teeth due to periodontal diseases, class IV",K08.12,2016,2027
+K08.129,"Complete loss of teeth due to periodontal diseases, unspecified class",K08.12,2016,2027
+K08.13,Complete loss of teeth due to caries,K08.1,2016,2027
+K08.131,"Complete loss of teeth due to caries, class I",K08.13,2016,2027
+K08.132,"Complete loss of teeth due to caries, class II",K08.13,2016,2027
+K08.133,"Complete loss of teeth due to caries, class III",K08.13,2016,2027
+K08.134,"Complete loss of teeth due to caries, class IV",K08.13,2016,2027
+K08.139,"Complete loss of teeth due to caries, unspecified class",K08.13,2016,2027
+K08.19,Complete loss of teeth due to other specified cause,K08.1,2016,2027
+K08.191,"Complete loss of teeth due to other specified cause, class I",K08.19,2016,2027
+K08.192,"Complete loss of teeth due to other specified cause, class II",K08.19,2016,2027
+K08.193,"Complete loss of teeth due to other specified cause, class III",K08.19,2016,2027
+K08.194,"Complete loss of teeth due to other specified cause, class IV",K08.19,2016,2027
+K08.199,"Complete loss of teeth due to other specified cause, unspecified class",K08.19,2016,2027
+K08.2,Atrophy of edentulous alveolar ridge,K08,2016,2027
+K08.20,Unspecified atrophy of edentulous alveolar ridge,K08.2,2016,2027
+K08.21,Minimal atrophy of the mandible,K08.2,2016,2027
+K08.22,Moderate atrophy of the mandible,K08.2,2016,2027
+K08.23,Severe atrophy of the mandible,K08.2,2016,2027
+K08.24,Minimal atrophy of maxilla,K08.2,2016,2027
+K08.25,Moderate atrophy of the maxilla,K08.2,2016,2027
+K08.26,Severe atrophy of the maxilla,K08.2,2016,2027
+K08.3,Retained dental root,K08,2016,2027
+K08.4,Partial loss of teeth,K08,2016,2027
+K08.40,"Partial loss of teeth, unspecified cause",K08.4,2016,2027
+K08.401,"Partial loss of teeth, unspecified cause, class I",K08.40,2016,2027
+K08.402,"Partial loss of teeth, unspecified cause, class II",K08.40,2016,2027
+K08.403,"Partial loss of teeth, unspecified cause, class III",K08.40,2016,2027
+K08.404,"Partial loss of teeth, unspecified cause, class IV",K08.40,2016,2027
+K08.409,"Partial loss of teeth, unspecified cause, unspecified class",K08.40,2016,2027
+K08.41,Partial loss of teeth due to trauma,K08.4,2016,2027
+K08.411,"Partial loss of teeth due to trauma, class I",K08.41,2016,2027
+K08.412,"Partial loss of teeth due to trauma, class II",K08.41,2016,2027
+K08.413,"Partial loss of teeth due to trauma, class III",K08.41,2016,2027
+K08.414,"Partial loss of teeth due to trauma, class IV",K08.41,2016,2027
+K08.419,"Partial loss of teeth due to trauma, unspecified class",K08.41,2016,2027
+K08.42,Partial loss of teeth due to periodontal diseases,K08.4,2016,2027
+K08.421,"Partial loss of teeth due to periodontal diseases, class I",K08.42,2016,2027
+K08.422,"Partial loss of teeth due to periodontal diseases, class II",K08.42,2016,2027
+K08.423,"Partial loss of teeth due to periodontal diseases, class III",K08.42,2016,2027
+K08.424,"Partial loss of teeth due to periodontal diseases, class IV",K08.42,2016,2027
+K08.429,"Partial loss of teeth due to periodontal diseases, unspecified class",K08.42,2016,2027
+K08.43,Partial loss of teeth due to caries,K08.4,2016,2027
+K08.431,"Partial loss of teeth due to caries, class I",K08.43,2016,2027
+K08.432,"Partial loss of teeth due to caries, class II",K08.43,2016,2027
+K08.433,"Partial loss of teeth due to caries, class III",K08.43,2016,2027
+K08.434,"Partial loss of teeth due to caries, class IV",K08.43,2016,2027
+K08.439,"Partial loss of teeth due to caries, unspecified class",K08.43,2016,2027
+K08.49,Partial loss of teeth due to other specified cause,K08.4,2016,2027
+K08.491,"Partial loss of teeth due to other specified cause, class I",K08.49,2016,2027
+K08.492,"Partial loss of teeth due to other specified cause, class II",K08.49,2016,2027
+K08.493,"Partial loss of teeth due to other specified cause, class III",K08.49,2016,2027
+K08.494,"Partial loss of teeth due to other specified cause, class IV",K08.49,2016,2027
+K08.499,"Partial loss of teeth due to other specified cause, unspecified class",K08.49,2016,2027
+K08.5,Unsatisfactory restoration of tooth,K08,2016,2027
+K08.50,"Unsatisfactory restoration of tooth, unspecified",K08.5,2016,2027
+K08.51,Open restoration margins of tooth,K08.5,2016,2027
+K08.52,Unrepairable overhanging of dental restorative materials,K08.5,2016,2027
+K08.53,Fractured dental restorative material,K08.5,2016,2027
+K08.530,Fractured dental restorative material without loss of material,K08.53,2016,2027
+K08.531,Fractured dental restorative material with loss of material,K08.53,2016,2027
+K08.539,"Fractured dental restorative material, unspecified",K08.53,2016,2027
+K08.54,Contour of existing restoration of tooth biologically incompatible with oral health,K08.5,2016,2027
+K08.55,Allergy to existing dental restorative material,K08.5,2016,2027
+K08.56,Poor aesthetic of existing restoration of tooth,K08.5,2016,2027
+K08.59,Other unsatisfactory restoration of tooth,K08.5,2016,2027
+K08.8,Other specified disorders of teeth and supporting structures,K08,2016,2027
+K08.81,Primary occlusal trauma,K08.8,2017,2027
+K08.82,Secondary occlusal trauma,K08.8,2017,2027
+K08.89,Other specified disorders of teeth and supporting structures,K08.8,2017,2027
+K08.9,"Disorder of teeth and supporting structures, unspecified",K08,2016,2027
+K09,"Cysts of oral region, not elsewhere classified",,2016,2027
+K09.0,Developmental odontogenic cysts,K09,2016,2027
+K09.1,Developmental (nonodontogenic) cysts of oral region,K09,2016,2027
+K09.8,"Other cysts of oral region, not elsewhere classified",K09,2016,2027
+K09.9,"Cyst of oral region, unspecified",K09,2016,2027
+K11,Diseases of salivary glands,,2016,2027
+K11.0,Atrophy of salivary gland,K11,2016,2027
+K11.1,Hypertrophy of salivary gland,K11,2016,2027
+K11.2,Sialoadenitis,K11,2016,2027
+K11.20,"Sialoadenitis, unspecified",K11.2,2016,2027
+K11.21,Acute sialoadenitis,K11.2,2016,2027
+K11.22,Acute recurrent sialoadenitis,K11.2,2016,2027
+K11.23,Chronic sialoadenitis,K11.2,2016,2027
+K11.3,Abscess of salivary gland,K11,2016,2027
+K11.4,Fistula of salivary gland,K11,2016,2027
+K11.5,Sialolithiasis,K11,2016,2027
+K11.6,Mucocele of salivary gland,K11,2016,2027
+K11.7,Disturbances of salivary secretion,K11,2016,2027
+K11.8,Other diseases of salivary glands,K11,2016,2027
+K11.9,"Disease of salivary gland, unspecified",K11,2016,2027
+K12,Stomatitis and related lesions,,2016,2027
+K12.0,Recurrent oral aphthae,K12,2016,2027
+K12.1,Other forms of stomatitis,K12,2016,2027
+K12.2,Cellulitis and abscess of mouth,K12,2016,2027
+K12.3,Oral mucositis (ulcerative),K12,2016,2027
+K12.30,"Oral mucositis (ulcerative), unspecified",K12.3,2016,2027
+K12.31,Oral mucositis (ulcerative) due to antineoplastic therapy,K12.3,2016,2027
+K12.32,Oral mucositis (ulcerative) due to other drugs,K12.3,2016,2027
+K12.33,Oral mucositis (ulcerative) due to radiation,K12.3,2016,2027
+K12.39,Other oral mucositis (ulcerative),K12.3,2016,2027
+K13,Other diseases of lip and oral mucosa,,2016,2027
+K13.0,Diseases of lips,K13,2016,2027
+K13.1,Cheek and lip biting,K13,2016,2027
+K13.2,"Leukoplakia and other disturbances of oral epithelium, including tongue",K13,2016,2027
+K13.21,"Leukoplakia of oral mucosa, including tongue",K13.2,2016,2027
+K13.22,Minimal keratinized residual ridge mucosa,K13.2,2016,2027
+K13.23,Excessive keratinized residual ridge mucosa,K13.2,2016,2027
+K13.24,Leukokeratosis nicotina palati,K13.2,2016,2027
+K13.29,"Other disturbances of oral epithelium, including tongue",K13.2,2016,2027
+K13.3,Hairy leukoplakia,K13,2016,2027
+K13.4,Granuloma and granuloma-like lesions of oral mucosa,K13,2016,2027
+K13.5,Oral submucous fibrosis,K13,2016,2027
+K13.6,Irritative hyperplasia of oral mucosa,K13,2016,2027
+K13.7,Other and unspecified lesions of oral mucosa,K13,2016,2027
+K13.70,Unspecified lesions of oral mucosa,K13.7,2016,2027
+K13.79,Other lesions of oral mucosa,K13.7,2016,2027
+K14,Diseases of tongue,,2016,2027
+K14.0,Glossitis,K14,2016,2027
+K14.1,Geographic tongue,K14,2016,2027
+K14.2,Median rhomboid glossitis,K14,2016,2027
+K14.3,Hypertrophy of tongue papillae,K14,2016,2027
+K14.4,Atrophy of tongue papillae,K14,2016,2027
+K14.5,Plicated tongue,K14,2016,2027
+K14.6,Glossodynia,K14,2016,2027
+K14.8,Other diseases of tongue,K14,2016,2027
+K14.9,"Disease of tongue, unspecified",K14,2016,2027
+K20,Esophagitis,,2016,2027
+K20.0,Eosinophilic esophagitis,K20,2016,2027
+K20.8,Other esophagitis,K20,2016,2027
+K20.80,Other esophagitis without bleeding,K20.8,2021,2027
+K20.81,Other esophagitis with bleeding,K20.8,2021,2027
+K20.9,"Esophagitis, unspecified",K20,2016,2027
+K20.90,"Esophagitis, unspecified without bleeding",K20.9,2021,2027
+K20.91,"Esophagitis, unspecified with bleeding",K20.9,2021,2027
+K21,Gastro-esophageal reflux disease,,2016,2027
+K21.0,Gastro-esophageal reflux disease with esophagitis,K21,2016,2027
+K21.00,"Gastro-esophageal reflux disease with esophagitis, without bleeding",K21.0,2021,2027
+K21.01,"Gastro-esophageal reflux disease with esophagitis, with bleeding",K21.0,2021,2027
+K21.9,Gastro-esophageal reflux disease without esophagitis,K21,2016,2027
+K22,Other diseases of esophagus,,2016,2027
+K22.0,Achalasia of cardia,K22,2016,2027
+K22.1,Ulcer of esophagus,K22,2016,2027
+K22.10,Ulcer of esophagus without bleeding,K22.1,2016,2027
+K22.11,Ulcer of esophagus with bleeding,K22.1,2016,2027
+K22.2,Esophageal obstruction,K22,2016,2027
+K22.3,Perforation of esophagus,K22,2016,2027
+K22.4,Dyskinesia of esophagus,K22,2016,2027
+K22.5,"Diverticulum of esophagus, acquired",K22,2016,2027
+K22.6,Gastro-esophageal laceration-hemorrhage syndrome,K22,2016,2027
+K22.7,Barrett's esophagus,K22,2016,2027
+K22.70,Barrett's esophagus without dysplasia,K22.7,2016,2027
+K22.71,Barrett's esophagus with dysplasia,K22.7,2016,2027
+K22.710,Barrett's esophagus with low grade dysplasia,K22.71,2016,2027
+K22.711,Barrett's esophagus with high grade dysplasia,K22.71,2016,2027
+K22.719,"Barrett's esophagus with dysplasia, unspecified",K22.71,2016,2027
+K22.8,Other specified diseases of esophagus,K22,2016,2027
+K22.81,Esophageal polyp,K22.8,2022,2027
+K22.82,Esophagogastric junction polyp,K22.8,2022,2027
+K22.89,Other specified disease of esophagus,K22.8,2022,2027
+K22.9,"Disease of esophagus, unspecified",K22,2016,2027
+K23,Disorders of esophagus in diseases classified elsewhere,,2016,2027
+K25,Gastric ulcer,,2016,2027
+K25.0,Acute gastric ulcer with hemorrhage,K25,2016,2027
+K25.1,Acute gastric ulcer with perforation,K25,2016,2027
+K25.2,Acute gastric ulcer with both hemorrhage and perforation,K25,2016,2027
+K25.3,Acute gastric ulcer without hemorrhage or perforation,K25,2016,2027
+K25.4,Chronic or unspecified gastric ulcer with hemorrhage,K25,2016,2027
+K25.5,Chronic or unspecified gastric ulcer with perforation,K25,2016,2027
+K25.6,Chronic or unspecified gastric ulcer with both hemorrhage and perforation,K25,2016,2027
+K25.7,Chronic gastric ulcer without hemorrhage or perforation,K25,2016,2027
+K25.9,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",K25,2016,2027
+K26,Duodenal ulcer,,2016,2027
+K26.0,Acute duodenal ulcer with hemorrhage,K26,2016,2027
+K26.1,Acute duodenal ulcer with perforation,K26,2016,2027
+K26.2,Acute duodenal ulcer with both hemorrhage and perforation,K26,2016,2027
+K26.3,Acute duodenal ulcer without hemorrhage or perforation,K26,2016,2027
+K26.4,Chronic or unspecified duodenal ulcer with hemorrhage,K26,2016,2027
+K26.5,Chronic or unspecified duodenal ulcer with perforation,K26,2016,2027
+K26.6,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation,K26,2016,2027
+K26.7,Chronic duodenal ulcer without hemorrhage or perforation,K26,2016,2027
+K26.9,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",K26,2016,2027
+K27,"Peptic ulcer, site unspecified",,2016,2027
+K27.0,"Acute peptic ulcer, site unspecified, with hemorrhage",K27,2016,2027
+K27.1,"Acute peptic ulcer, site unspecified, with perforation",K27,2016,2027
+K27.2,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation",K27,2016,2027
+K27.3,"Acute peptic ulcer, site unspecified, without hemorrhage or perforation",K27,2016,2027
+K27.4,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage",K27,2016,2027
+K27.5,"Chronic or unspecified peptic ulcer, site unspecified, with perforation",K27,2016,2027
+K27.6,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation",K27,2016,2027
+K27.7,"Chronic peptic ulcer, site unspecified, without hemorrhage or perforation",K27,2016,2027
+K27.9,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",K27,2016,2027
+K28,Gastrojejunal ulcer,,2016,2027
+K28.0,Acute gastrojejunal ulcer with hemorrhage,K28,2016,2027
+K28.1,Acute gastrojejunal ulcer with perforation,K28,2016,2027
+K28.2,Acute gastrojejunal ulcer with both hemorrhage and perforation,K28,2016,2027
+K28.3,Acute gastrojejunal ulcer without hemorrhage or perforation,K28,2016,2027
+K28.4,Chronic or unspecified gastrojejunal ulcer with hemorrhage,K28,2016,2027
+K28.5,Chronic or unspecified gastrojejunal ulcer with perforation,K28,2016,2027
+K28.6,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation,K28,2016,2027
+K28.7,Chronic gastrojejunal ulcer without hemorrhage or perforation,K28,2016,2027
+K28.9,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",K28,2016,2027
+K29,Gastritis and duodenitis,,2016,2027
+K29.0,Acute gastritis,K29,2016,2027
+K29.00,Acute gastritis without bleeding,K29.0,2016,2027
+K29.01,Acute gastritis with bleeding,K29.0,2016,2027
+K29.2,Alcoholic gastritis,K29,2016,2027
+K29.20,Alcoholic gastritis without bleeding,K29.2,2016,2027
+K29.21,Alcoholic gastritis with bleeding,K29.2,2016,2027
+K29.3,Chronic superficial gastritis,K29,2016,2027
+K29.30,Chronic superficial gastritis without bleeding,K29.3,2016,2027
+K29.31,Chronic superficial gastritis with bleeding,K29.3,2016,2027
+K29.4,Chronic atrophic gastritis,K29,2016,2027
+K29.40,Chronic atrophic gastritis without bleeding,K29.4,2016,2027
+K29.41,Chronic atrophic gastritis with bleeding,K29.4,2016,2027
+K29.5,Unspecified chronic gastritis,K29,2016,2027
+K29.50,Unspecified chronic gastritis without bleeding,K29.5,2016,2027
+K29.51,Unspecified chronic gastritis with bleeding,K29.5,2016,2027
+K29.6,Other gastritis,K29,2016,2027
+K29.60,Other gastritis without bleeding,K29.6,2016,2027
+K29.61,Other gastritis with bleeding,K29.6,2016,2027
+K29.7,"Gastritis, unspecified",K29,2016,2027
+K29.70,"Gastritis, unspecified, without bleeding",K29.7,2016,2027
+K29.71,"Gastritis, unspecified, with bleeding",K29.7,2016,2027
+K29.8,Duodenitis,K29,2016,2027
+K29.80,Duodenitis without bleeding,K29.8,2016,2027
+K29.81,Duodenitis with bleeding,K29.8,2016,2027
+K29.9,"Gastroduodenitis, unspecified",K29,2016,2027
+K29.90,"Gastroduodenitis, unspecified, without bleeding",K29.9,2016,2027
+K29.91,"Gastroduodenitis, unspecified, with bleeding",K29.9,2016,2027
+K30,Functional dyspepsia,,2016,2027
+K31,Other diseases of stomach and duodenum,,2016,2027
+K31.0,Acute dilatation of stomach,K31,2016,2027
+K31.1,Adult hypertrophic pyloric stenosis,K31,2016,2027
+K31.2,Hourglass stricture and stenosis of stomach,K31,2016,2027
+K31.3,"Pylorospasm, not elsewhere classified",K31,2016,2027
+K31.4,Gastric diverticulum,K31,2016,2027
+K31.5,Obstruction of duodenum,K31,2016,2027
+K31.6,Fistula of stomach and duodenum,K31,2016,2027
+K31.7,Polyp of stomach and duodenum,K31,2016,2027
+K31.8,Other specified diseases of stomach and duodenum,K31,2016,2027
+K31.81,Angiodysplasia of stomach and duodenum,K31.8,2016,2027
+K31.811,Angiodysplasia of stomach and duodenum with bleeding,K31.81,2016,2027
+K31.819,Angiodysplasia of stomach and duodenum without bleeding,K31.81,2016,2027
+K31.82,Dieulafoy lesion (hemorrhagic) of stomach and duodenum,K31.8,2016,2027
+K31.83,Achlorhydria,K31.8,2016,2027
+K31.84,Gastroparesis,K31.8,2016,2027
+K31.89,Other diseases of stomach and duodenum,K31.8,2016,2027
+K31.9,"Disease of stomach and duodenum, unspecified",K31,2016,2027
+K31.A,Gastric intestinal metaplasia,K31,2022,2027
+K31.A0,"Gastric intestinal metaplasia, unspecified",K31.A,2022,2027
+K31.A1,Gastric intestinal metaplasia without dysplasia,K31.A,2022,2027
+K31.A11,"Gastric intestinal metaplasia without dysplasia, involving the antrum",K31.A1,2022,2027
+K31.A12,"Gastric intestinal metaplasia without dysplasia, involving the body (corpus)",K31.A1,2022,2027
+K31.A13,"Gastric intestinal metaplasia without dysplasia, involving the fundus",K31.A1,2022,2027
+K31.A14,"Gastric intestinal metaplasia without dysplasia, involving the cardia",K31.A1,2022,2027
+K31.A15,"Gastric intestinal metaplasia without dysplasia, involving multiple sites",K31.A1,2022,2027
+K31.A19,"Gastric intestinal metaplasia without dysplasia, unspecified site",K31.A1,2022,2027
+K31.A2,Gastric intestinal metaplasia with dysplasia,K31.A,2022,2027
+K31.A21,Gastric intestinal metaplasia with low grade dysplasia,K31.A2,2022,2027
+K31.A22,Gastric intestinal metaplasia with high grade dysplasia,K31.A2,2022,2027
+K31.A29,"Gastric intestinal metaplasia with dysplasia, unspecified",K31.A2,2022,2027
+K31.B,"Hypertrophic pyloric stenosis, in childhood",K31,2027,2027
+K35,Acute appendicitis,,2016,2027
+K35.2,Acute appendicitis with generalized peritonitis,K35,2016,2027
+K35.20,"Acute appendicitis with generalized peritonitis, without abscess",K35.2,2019,2027
+K35.200,"Acute appendicitis with generalized peritonitis, without perforation or abscess",K35.20,2024,2027
+K35.201,"Acute appendicitis with generalized peritonitis, with perforation, without abscess",K35.20,2024,2027
+K35.209,"Acute appendicitis with generalized peritonitis, without abscess, unspecified as to perforation",K35.20,2024,2027
+K35.21,"Acute appendicitis with generalized peritonitis, with abscess",K35.2,2019,2027
+K35.210,"Acute appendicitis with generalized peritonitis, without perforation, with abscess",K35.21,2024,2027
+K35.211,"Acute appendicitis with generalized peritonitis, with perforation and abscess",K35.21,2024,2027
+K35.219,"Acute appendicitis with generalized peritonitis, with abscess, unspecified as to perforation",K35.21,2024,2027
+K35.3,Acute appendicitis with localized peritonitis,K35,2016,2027
+K35.30,"Acute appendicitis with localized peritonitis, without perforation or gangrene",K35.3,2019,2027
+K35.31,"Acute appendicitis with localized peritonitis and gangrene, without perforation",K35.3,2019,2027
+K35.32,"Acute appendicitis with perforation, localized peritonitis, and gangrene, without abscess",K35.3,2019,2027
+K35.33,"Acute appendicitis with perforation, localized peritonitis, and gangrene, with abscess",K35.3,2019,2027
+K35.8,Other and unspecified acute appendicitis,K35,2016,2027
+K35.80,Unspecified acute appendicitis,K35.8,2016,2027
+K35.89,Other acute appendicitis,K35.8,2016,2027
+K35.890,Other acute appendicitis without perforation or gangrene,K35.89,2019,2027
+K35.891,"Other acute appendicitis without perforation, with gangrene",K35.89,2019,2027
+K36,Other appendicitis,,2016,2027
+K37,Unspecified appendicitis,,2016,2027
+K38,Other diseases of appendix,,2016,2027
+K38.0,Hyperplasia of appendix,K38,2016,2027
+K38.1,Appendicular concretions,K38,2016,2027
+K38.2,Diverticulum of appendix,K38,2016,2027
+K38.3,Fistula of appendix,K38,2016,2027
+K38.8,Other specified diseases of appendix,K38,2016,2027
+K38.9,"Disease of appendix, unspecified",K38,2016,2027
+K40,Inguinal hernia,,2016,2027
+K40.0,"Bilateral inguinal hernia, with obstruction, without gangrene",K40,2016,2027
+K40.00,"Bilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",K40.0,2016,2027
+K40.01,"Bilateral inguinal hernia, with obstruction, without gangrene, recurrent",K40.0,2016,2027
+K40.1,"Bilateral inguinal hernia, with gangrene",K40,2016,2027
+K40.10,"Bilateral inguinal hernia, with gangrene, not specified as recurrent",K40.1,2016,2027
+K40.11,"Bilateral inguinal hernia, with gangrene, recurrent",K40.1,2016,2027
+K40.2,"Bilateral inguinal hernia, without obstruction or gangrene",K40,2016,2027
+K40.20,"Bilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent",K40.2,2016,2027
+K40.21,"Bilateral inguinal hernia, without obstruction or gangrene, recurrent",K40.2,2016,2027
+K40.3,"Unilateral inguinal hernia, with obstruction, without gangrene",K40,2016,2027
+K40.30,"Unilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",K40.3,2016,2027
+K40.31,"Unilateral inguinal hernia, with obstruction, without gangrene, recurrent",K40.3,2016,2027
+K40.4,"Unilateral inguinal hernia, with gangrene",K40,2016,2027
+K40.40,"Unilateral inguinal hernia, with gangrene, not specified as recurrent",K40.4,2016,2027
+K40.41,"Unilateral inguinal hernia, with gangrene, recurrent",K40.4,2016,2027
+K40.9,"Unilateral inguinal hernia, without obstruction or gangrene",K40,2016,2027
+K40.90,"Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent",K40.9,2016,2027
+K40.91,"Unilateral inguinal hernia, without obstruction or gangrene, recurrent",K40.9,2016,2027
+K41,Femoral hernia,,2016,2027
+K41.0,"Bilateral femoral hernia, with obstruction, without gangrene",K41,2016,2027
+K41.00,"Bilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent",K41.0,2016,2027
+K41.01,"Bilateral femoral hernia, with obstruction, without gangrene, recurrent",K41.0,2016,2027
+K41.1,"Bilateral femoral hernia, with gangrene",K41,2016,2027
+K41.10,"Bilateral femoral hernia, with gangrene, not specified as recurrent",K41.1,2016,2027
+K41.11,"Bilateral femoral hernia, with gangrene, recurrent",K41.1,2016,2027
+K41.2,"Bilateral femoral hernia, without obstruction or gangrene",K41,2016,2027
+K41.20,"Bilateral femoral hernia, without obstruction or gangrene, not specified as recurrent",K41.2,2016,2027
+K41.21,"Bilateral femoral hernia, without obstruction or gangrene, recurrent",K41.2,2016,2027
+K41.3,"Unilateral femoral hernia, with obstruction, without gangrene",K41,2016,2027
+K41.30,"Unilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent",K41.3,2016,2027
+K41.31,"Unilateral femoral hernia, with obstruction, without gangrene, recurrent",K41.3,2016,2027
+K41.4,"Unilateral femoral hernia, with gangrene",K41,2016,2027
+K41.40,"Unilateral femoral hernia, with gangrene, not specified as recurrent",K41.4,2016,2027
+K41.41,"Unilateral femoral hernia, with gangrene, recurrent",K41.4,2016,2027
+K41.9,"Unilateral femoral hernia, without obstruction or gangrene",K41,2016,2027
+K41.90,"Unilateral femoral hernia, without obstruction or gangrene, not specified as recurrent",K41.9,2016,2027
+K41.91,"Unilateral femoral hernia, without obstruction or gangrene, recurrent",K41.9,2016,2027
+K42,Umbilical hernia,,2016,2027
+K42.0,"Umbilical hernia with obstruction, without gangrene",K42,2016,2027
+K42.1,Umbilical hernia with gangrene,K42,2016,2027
+K42.9,Umbilical hernia without obstruction or gangrene,K42,2016,2027
+K43,Ventral hernia,,2016,2027
+K43.0,"Incisional hernia with obstruction, without gangrene",K43,2016,2027
+K43.1,Incisional hernia with gangrene,K43,2016,2027
+K43.2,Incisional hernia without obstruction or gangrene,K43,2016,2027
+K43.3,"Parastomal hernia with obstruction, without gangrene",K43,2016,2027
+K43.4,Parastomal hernia with gangrene,K43,2016,2027
+K43.5,Parastomal hernia without obstruction or gangrene,K43,2016,2027
+K43.6,"Other and unspecified ventral hernia with obstruction, without gangrene",K43,2016,2027
+K43.7,Other and unspecified ventral hernia with gangrene,K43,2016,2027
+K43.9,Ventral hernia without obstruction or gangrene,K43,2016,2027
+K44,Diaphragmatic hernia,,2016,2027
+K44.0,"Diaphragmatic hernia with obstruction, without gangrene",K44,2016,2027
+K44.1,Diaphragmatic hernia with gangrene,K44,2016,2027
+K44.9,Diaphragmatic hernia without obstruction or gangrene,K44,2016,2027
+K45,Other abdominal hernia,,2016,2027
+K45.0,"Other specified abdominal hernia with obstruction, without gangrene",K45,2016,2027
+K45.1,Other specified abdominal hernia with gangrene,K45,2016,2027
+K45.8,Other specified abdominal hernia without obstruction or gangrene,K45,2016,2027
+K46,Unspecified abdominal hernia,,2016,2027
+K46.0,"Unspecified abdominal hernia with obstruction, without gangrene",K46,2016,2027
+K46.1,Unspecified abdominal hernia with gangrene,K46,2016,2027
+K46.9,Unspecified abdominal hernia without obstruction or gangrene,K46,2016,2027
+K50,Crohn's disease [regional enteritis],,2016,2027
+K50.0,Crohn's disease of small intestine,K50,2016,2027
+K50.00,Crohn's disease of small intestine without complications,K50.0,2016,2027
+K50.01,Crohn's disease of small intestine with complications,K50.0,2016,2027
+K50.011,Crohn's disease of small intestine with rectal bleeding,K50.01,2016,2027
+K50.012,Crohn's disease of small intestine with intestinal obstruction,K50.01,2016,2027
+K50.013,Crohn's disease of small intestine with fistula,K50.01,2016,2027
+K50.014,Crohn's disease of small intestine with abscess,K50.01,2016,2027
+K50.018,Crohn's disease of small intestine with other complication,K50.01,2016,2027
+K50.019,Crohn's disease of small intestine with unspecified complications,K50.01,2016,2027
+K50.1,Crohn's disease of large intestine,K50,2016,2027
+K50.10,Crohn's disease of large intestine without complications,K50.1,2016,2027
+K50.11,Crohn's disease of large intestine with complications,K50.1,2016,2027
+K50.111,Crohn's disease of large intestine with rectal bleeding,K50.11,2016,2027
+K50.112,Crohn's disease of large intestine with intestinal obstruction,K50.11,2016,2027
+K50.113,Crohn's disease of large intestine with fistula,K50.11,2016,2027
+K50.114,Crohn's disease of large intestine with abscess,K50.11,2016,2027
+K50.118,Crohn's disease of large intestine with other complication,K50.11,2016,2027
+K50.119,Crohn's disease of large intestine with unspecified complications,K50.11,2016,2027
+K50.8,Crohn's disease of both small and large intestine,K50,2016,2027
+K50.80,Crohn's disease of both small and large intestine without complications,K50.8,2016,2027
+K50.81,Crohn's disease of both small and large intestine with complications,K50.8,2016,2027
+K50.811,Crohn's disease of both small and large intestine with rectal bleeding,K50.81,2016,2027
+K50.812,Crohn's disease of both small and large intestine with intestinal obstruction,K50.81,2016,2027
+K50.813,Crohn's disease of both small and large intestine with fistula,K50.81,2016,2027
+K50.814,Crohn's disease of both small and large intestine with abscess,K50.81,2016,2027
+K50.818,Crohn's disease of both small and large intestine with other complication,K50.81,2016,2027
+K50.819,Crohn's disease of both small and large intestine with unspecified complications,K50.81,2016,2027
+K50.9,"Crohn's disease, unspecified",K50,2016,2027
+K50.90,"Crohn's disease, unspecified, without complications",K50.9,2016,2027
+K50.91,"Crohn's disease, unspecified, with complications",K50.9,2016,2027
+K50.911,"Crohn's disease, unspecified, with rectal bleeding",K50.91,2016,2027
+K50.912,"Crohn's disease, unspecified, with intestinal obstruction",K50.91,2016,2027
+K50.913,"Crohn's disease, unspecified, with fistula",K50.91,2016,2027
+K50.914,"Crohn's disease, unspecified, with abscess",K50.91,2016,2027
+K50.918,"Crohn's disease, unspecified, with other complication",K50.91,2016,2027
+K50.919,"Crohn's disease, unspecified, with unspecified complications",K50.91,2016,2027
+K51,Ulcerative colitis,,2016,2027
+K51.0,Ulcerative (chronic) pancolitis,K51,2016,2027
+K51.00,Ulcerative (chronic) pancolitis without complications,K51.0,2016,2027
+K51.01,Ulcerative (chronic) pancolitis with complications,K51.0,2016,2027
+K51.011,Ulcerative (chronic) pancolitis with rectal bleeding,K51.01,2016,2027
+K51.012,Ulcerative (chronic) pancolitis with intestinal obstruction,K51.01,2016,2027
+K51.013,Ulcerative (chronic) pancolitis with fistula,K51.01,2016,2027
+K51.014,Ulcerative (chronic) pancolitis with abscess,K51.01,2016,2027
+K51.018,Ulcerative (chronic) pancolitis with other complication,K51.01,2016,2027
+K51.019,Ulcerative (chronic) pancolitis with unspecified complications,K51.01,2016,2027
+K51.2,Ulcerative (chronic) proctitis,K51,2016,2027
+K51.20,Ulcerative (chronic) proctitis without complications,K51.2,2016,2027
+K51.21,Ulcerative (chronic) proctitis with complications,K51.2,2016,2027
+K51.211,Ulcerative (chronic) proctitis with rectal bleeding,K51.21,2016,2027
+K51.212,Ulcerative (chronic) proctitis with intestinal obstruction,K51.21,2016,2027
+K51.213,Ulcerative (chronic) proctitis with fistula,K51.21,2016,2027
+K51.214,Ulcerative (chronic) proctitis with abscess,K51.21,2016,2027
+K51.218,Ulcerative (chronic) proctitis with other complication,K51.21,2016,2027
+K51.219,Ulcerative (chronic) proctitis with unspecified complications,K51.21,2016,2027
+K51.3,Ulcerative (chronic) rectosigmoiditis,K51,2016,2027
+K51.30,Ulcerative (chronic) rectosigmoiditis without complications,K51.3,2016,2027
+K51.31,Ulcerative (chronic) rectosigmoiditis with complications,K51.3,2016,2027
+K51.311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding,K51.31,2016,2027
+K51.312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction,K51.31,2016,2027
+K51.313,Ulcerative (chronic) rectosigmoiditis with fistula,K51.31,2016,2027
+K51.314,Ulcerative (chronic) rectosigmoiditis with abscess,K51.31,2016,2027
+K51.318,Ulcerative (chronic) rectosigmoiditis with other complication,K51.31,2016,2027
+K51.319,Ulcerative (chronic) rectosigmoiditis with unspecified complications,K51.31,2016,2027
+K51.4,Inflammatory polyps of colon,K51,2016,2027
+K51.40,Inflammatory polyps of colon without complications,K51.4,2016,2027
+K51.41,Inflammatory polyps of colon with complications,K51.4,2016,2027
+K51.411,Inflammatory polyps of colon with rectal bleeding,K51.41,2016,2027
+K51.412,Inflammatory polyps of colon with intestinal obstruction,K51.41,2016,2027
+K51.413,Inflammatory polyps of colon with fistula,K51.41,2016,2027
+K51.414,Inflammatory polyps of colon with abscess,K51.41,2016,2027
+K51.418,Inflammatory polyps of colon with other complication,K51.41,2016,2027
+K51.419,Inflammatory polyps of colon with unspecified complications,K51.41,2016,2027
+K51.5,Left sided colitis,K51,2016,2027
+K51.50,Left sided colitis without complications,K51.5,2016,2027
+K51.51,Left sided colitis with complications,K51.5,2016,2027
+K51.511,Left sided colitis with rectal bleeding,K51.51,2016,2027
+K51.512,Left sided colitis with intestinal obstruction,K51.51,2016,2027
+K51.513,Left sided colitis with fistula,K51.51,2016,2027
+K51.514,Left sided colitis with abscess,K51.51,2016,2027
+K51.518,Left sided colitis with other complication,K51.51,2016,2027
+K51.519,Left sided colitis with unspecified complications,K51.51,2016,2027
+K51.8,Other ulcerative colitis,K51,2016,2027
+K51.80,Other ulcerative colitis without complications,K51.8,2016,2027
+K51.81,Other ulcerative colitis with complications,K51.8,2016,2027
+K51.811,Other ulcerative colitis with rectal bleeding,K51.81,2016,2027
+K51.812,Other ulcerative colitis with intestinal obstruction,K51.81,2016,2027
+K51.813,Other ulcerative colitis with fistula,K51.81,2016,2027
+K51.814,Other ulcerative colitis with abscess,K51.81,2016,2027
+K51.818,Other ulcerative colitis with other complication,K51.81,2016,2027
+K51.819,Other ulcerative colitis with unspecified complications,K51.81,2016,2027
+K51.9,"Ulcerative colitis, unspecified",K51,2016,2027
+K51.90,"Ulcerative colitis, unspecified, without complications",K51.9,2016,2027
+K51.91,"Ulcerative colitis, unspecified, with complications",K51.9,2016,2027
+K51.911,"Ulcerative colitis, unspecified with rectal bleeding",K51.91,2016,2027
+K51.912,"Ulcerative colitis, unspecified with intestinal obstruction",K51.91,2016,2027
+K51.913,"Ulcerative colitis, unspecified with fistula",K51.91,2016,2027
+K51.914,"Ulcerative colitis, unspecified with abscess",K51.91,2016,2027
+K51.918,"Ulcerative colitis, unspecified with other complication",K51.91,2016,2027
+K51.919,"Ulcerative colitis, unspecified with unspecified complications",K51.91,2016,2027
+K52,Other and unspecified noninfective gastroenteritis and colitis,,2016,2027
+K52.0,Gastroenteritis and colitis due to radiation,K52,2016,2027
+K52.1,Toxic gastroenteritis and colitis,K52,2016,2027
+K52.2,Allergic and dietetic gastroenteritis and colitis,K52,2016,2027
+K52.21,Food protein-induced enterocolitis syndrome,K52.2,2017,2027
+K52.22,Food protein-induced enteropathy,K52.2,2017,2027
+K52.29,Other allergic and dietetic gastroenteritis and colitis,K52.2,2017,2027
+K52.3,Indeterminate colitis,K52,2017,2027
+K52.8,Other specified noninfective gastroenteritis and colitis,K52,2016,2027
+K52.81,Eosinophilic gastritis or gastroenteritis,K52.8,2016,2027
+K52.82,Eosinophilic colitis,K52.8,2016,2027
+K52.83,Microscopic colitis,K52.8,2017,2027
+K52.831,Collagenous colitis,K52.83,2017,2027
+K52.832,Lymphocytic colitis,K52.83,2017,2027
+K52.838,Other microscopic colitis,K52.83,2017,2027
+K52.839,"Microscopic colitis, unspecified",K52.83,2017,2027
+K52.89,Other specified noninfective gastroenteritis and colitis,K52.8,2016,2027
+K52.9,"Noninfective gastroenteritis and colitis, unspecified",K52,2016,2027
+K55,Vascular disorders of intestine,,2016,2027
+K55.0,Acute vascular disorders of intestine,K55,2016,2027
+K55.01,Acute (reversible) ischemia of small intestine,K55.0,2017,2027
+K55.011,Focal (segmental) acute (reversible) ischemia of small intestine,K55.01,2017,2027
+K55.012,Diffuse acute (reversible) ischemia of small intestine,K55.01,2017,2027
+K55.019,"Acute (reversible) ischemia of small intestine, extent unspecified",K55.01,2017,2027
+K55.02,Acute infarction of small intestine,K55.0,2017,2027
+K55.021,Focal (segmental) acute infarction of small intestine,K55.02,2017,2027
+K55.022,Diffuse acute infarction of small intestine,K55.02,2017,2027
+K55.029,"Acute infarction of small intestine, extent unspecified",K55.02,2017,2027
+K55.03,Acute (reversible) ischemia of large intestine,K55.0,2017,2027
+K55.031,Focal (segmental) acute (reversible) ischemia of large intestine,K55.03,2017,2027
+K55.032,Diffuse acute (reversible) ischemia of large intestine,K55.03,2017,2027
+K55.039,"Acute (reversible) ischemia of large intestine, extent unspecified",K55.03,2017,2027
+K55.04,Acute infarction of large intestine,K55.0,2017,2027
+K55.041,Focal (segmental) acute infarction of large intestine,K55.04,2017,2027
+K55.042,Diffuse acute infarction of large intestine,K55.04,2017,2027
+K55.049,"Acute infarction of large intestine, extent unspecified",K55.04,2017,2027
+K55.05,"Acute (reversible) ischemia of intestine, part unspecified",K55.0,2017,2027
+K55.051,"Focal (segmental) acute (reversible) ischemia of intestine, part unspecified",K55.05,2017,2027
+K55.052,"Diffuse acute (reversible) ischemia of intestine, part unspecified",K55.05,2017,2027
+K55.059,"Acute (reversible) ischemia of intestine, part and extent unspecified",K55.05,2017,2027
+K55.06,"Acute infarction of intestine, part unspecified",K55.0,2017,2027
+K55.061,"Focal (segmental) acute infarction of intestine, part unspecified",K55.06,2017,2027
+K55.062,"Diffuse acute infarction of intestine, part unspecified",K55.06,2017,2027
+K55.069,"Acute infarction of intestine, part and extent unspecified",K55.06,2017,2027
+K55.1,Chronic vascular disorders of intestine,K55,2016,2027
+K55.2,Angiodysplasia of colon,K55,2016,2027
+K55.20,Angiodysplasia of colon without hemorrhage,K55.2,2016,2027
+K55.21,Angiodysplasia of colon with hemorrhage,K55.2,2016,2027
+K55.3,Necrotizing enterocolitis,K55,2017,2027
+K55.30,"Necrotizing enterocolitis, unspecified",K55.3,2017,2027
+K55.31,Stage 1 necrotizing enterocolitis,K55.3,2017,2027
+K55.32,Stage 2 necrotizing enterocolitis,K55.3,2017,2027
+K55.33,Stage 3 necrotizing enterocolitis,K55.3,2017,2027
+K55.8,Other vascular disorders of intestine,K55,2016,2027
+K55.9,"Vascular disorder of intestine, unspecified",K55,2016,2027
+K56,Paralytic ileus and intestinal obstruction without hernia,,2016,2027
+K56.0,Paralytic ileus,K56,2016,2027
+K56.1,Intussusception,K56,2016,2027
+K56.2,Volvulus,K56,2016,2027
+K56.3,Gallstone ileus,K56,2016,2027
+K56.4,Other impaction of intestine,K56,2016,2027
+K56.41,Fecal impaction,K56.4,2016,2027
+K56.49,Other impaction of intestine,K56.4,2016,2027
+K56.5,Intestinal adhesions [bands] with obstruction (postinfection),K56,2016,2027
+K56.50,"Intestinal adhesions [bands], unspecified as to partial versus complete obstruction",K56.5,2018,2027
+K56.51,"Intestinal adhesions [bands], with partial obstruction",K56.5,2018,2027
+K56.52,Intestinal adhesions [bands] with complete obstruction,K56.5,2018,2027
+K56.6,Other and unspecified intestinal obstruction,K56,2016,2027
+K56.60,Unspecified intestinal obstruction,K56.6,2016,2027
+K56.600,"Partial intestinal obstruction, unspecified as to cause",K56.60,2018,2027
+K56.601,"Complete intestinal obstruction, unspecified as to cause",K56.60,2018,2027
+K56.609,"Unspecified intestinal obstruction, unspecified as to partial versus complete obstruction",K56.60,2018,2027
+K56.69,Other intestinal obstruction,K56.6,2016,2027
+K56.690,Other partial intestinal obstruction,K56.69,2018,2027
+K56.691,Other complete intestinal obstruction,K56.69,2018,2027
+K56.699,Other intestinal obstruction unspecified as to partial versus complete obstruction,K56.69,2018,2027
+K56.7,"Ileus, unspecified",K56,2016,2027
+K57,Diverticular disease of intestine,,2016,2027
+K57.0,Diverticulitis of small intestine with perforation and abscess,K57,2016,2027
+K57.00,Diverticulitis of small intestine with perforation and abscess without bleeding,K57.0,2016,2027
+K57.01,Diverticulitis of small intestine with perforation and abscess with bleeding,K57.0,2016,2027
+K57.1,Diverticular disease of small intestine without perforation or abscess,K57,2016,2027
+K57.10,Diverticulosis of small intestine without perforation or abscess without bleeding,K57.1,2016,2027
+K57.11,Diverticulosis of small intestine without perforation or abscess with bleeding,K57.1,2016,2027
+K57.12,Diverticulitis of small intestine without perforation or abscess without bleeding,K57.1,2016,2027
+K57.13,Diverticulitis of small intestine without perforation or abscess with bleeding,K57.1,2016,2027
+K57.2,Diverticulitis of large intestine with perforation and abscess,K57,2016,2027
+K57.20,Diverticulitis of large intestine with perforation and abscess without bleeding,K57.2,2016,2027
+K57.21,Diverticulitis of large intestine with perforation and abscess with bleeding,K57.2,2016,2027
+K57.3,Diverticular disease of large intestine without perforation or abscess,K57,2016,2027
+K57.30,Diverticulosis of large intestine without perforation or abscess without bleeding,K57.3,2016,2027
+K57.31,Diverticulosis of large intestine without perforation or abscess with bleeding,K57.3,2016,2027
+K57.32,Diverticulitis of large intestine without perforation or abscess without bleeding,K57.3,2016,2027
+K57.33,Diverticulitis of large intestine without perforation or abscess with bleeding,K57.3,2016,2027
+K57.4,Diverticulitis of both small and large intestine with perforation and abscess,K57,2016,2027
+K57.40,Diverticulitis of both small and large intestine with perforation and abscess without bleeding,K57.4,2016,2027
+K57.41,Diverticulitis of both small and large intestine with perforation and abscess with bleeding,K57.4,2016,2027
+K57.5,Diverticular disease of both small and large intestine without perforation or abscess,K57,2016,2027
+K57.50,Diverticulosis of both small and large intestine without perforation or abscess without bleeding,K57.5,2016,2027
+K57.51,Diverticulosis of both small and large intestine without perforation or abscess with bleeding,K57.5,2016,2027
+K57.52,Diverticulitis of both small and large intestine without perforation or abscess without bleeding,K57.5,2016,2027
+K57.53,Diverticulitis of both small and large intestine without perforation or abscess with bleeding,K57.5,2016,2027
+K57.8,"Diverticulitis of intestine, part unspecified, with perforation and abscess",K57,2016,2027
+K57.80,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",K57.8,2016,2027
+K57.81,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding",K57.8,2016,2027
+K57.9,"Diverticular disease of intestine, part unspecified, without perforation or abscess",K57,2016,2027
+K57.90,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",K57.9,2016,2027
+K57.91,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding",K57.9,2016,2027
+K57.92,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",K57.9,2016,2027
+K57.93,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding",K57.9,2016,2027
+K58,Irritable bowel syndrome,,2016,2027
+K58.0,Irritable bowel syndrome with diarrhea,K58,2016,2027
+K58.1,Irritable bowel syndrome with constipation,K58,2017,2027
+K58.2,Mixed irritable bowel syndrome,K58,2017,2027
+K58.8,Other irritable bowel syndrome,K58,2017,2027
+K58.9,"Irritable bowel syndrome, unspecified",K58,2016,2027
+K59,Other functional intestinal disorders,,2016,2027
+K59.0,Constipation,K59,2016,2027
+K59.00,"Constipation, unspecified",K59.0,2016,2027
+K59.01,Slow transit constipation,K59.0,2016,2027
+K59.02,Outlet dysfunction constipation,K59.0,2016,2027
+K59.03,Drug induced constipation,K59.0,2017,2027
+K59.04,Chronic idiopathic constipation,K59.0,2017,2027
+K59.09,Other constipation,K59.0,2016,2027
+K59.1,Functional diarrhea,K59,2016,2027
+K59.2,"Neurogenic bowel, not elsewhere classified",K59,2016,2027
+K59.3,"Megacolon, not elsewhere classified",K59,2016,2027
+K59.31,Toxic megacolon,K59.3,2017,2027
+K59.39,Other megacolon,K59.3,2017,2027
+K59.4,Anal spasm,K59,2016,2027
+K59.8,Other specified functional intestinal disorders,K59,2016,2027
+K59.81,Ogilvie syndrome,K59.8,2021,2027
+K59.89,Other specified functional intestinal disorders,K59.8,2021,2027
+K59.9,"Functional intestinal disorder, unspecified",K59,2016,2027
+K60,Fissure and fistula of anal and rectal regions,,2016,2027
+K60.0,Acute anal fissure,K60,2016,2027
+K60.1,Chronic anal fissure,K60,2016,2027
+K60.2,"Anal fissure, unspecified",K60,2016,2027
+K60.3,Anal fistula,K60,2016,2027
+K60.30,"Anal fistula, unspecified",K60.3,2025,2027
+K60.31,"Anal fistula, simple",K60.3,2025,2027
+K60.311,"Anal fistula, simple, initial",K60.31,2025,2027
+K60.312,"Anal fistula, simple, persistent",K60.31,2025,2027
+K60.313,"Anal fistula, simple, recurrent",K60.31,2025,2027
+K60.319,"Anal fistula, simple, unspecified",K60.31,2025,2027
+K60.32,"Anal fistula, complex",K60.3,2025,2027
+K60.321,"Anal fistula, complex, initial",K60.32,2025,2027
+K60.322,"Anal fistula, complex, persistent",K60.32,2025,2027
+K60.323,"Anal fistula, complex, recurrent",K60.32,2025,2027
+K60.329,"Anal fistula, complex, unspecified",K60.32,2025,2027
+K60.4,Rectal fistula,K60,2016,2027
+K60.40,"Rectal fistula, unspecified",K60.4,2025,2027
+K60.41,"Rectal fistula, simple",K60.4,2025,2027
+K60.411,"Rectal fistula, simple, initial",K60.41,2025,2027
+K60.412,"Rectal fistula, simple, persistent",K60.41,2025,2027
+K60.413,"Rectal fistula, simple, recurrent",K60.41,2025,2027
+K60.419,"Rectal fistula, simple, unspecified",K60.41,2025,2027
+K60.42,"Rectal fistula, complex",K60.4,2025,2027
+K60.421,"Rectal fistula, complex, initial",K60.42,2025,2027
+K60.422,"Rectal fistula, complex, persistent",K60.42,2025,2027
+K60.423,"Rectal fistula, complex, recurrent",K60.42,2025,2027
+K60.429,"Rectal fistula, complex, unspecified",K60.42,2025,2027
+K60.5,Anorectal fistula,K60,2016,2027
+K60.50,"Anorectal fistula, unspecified",K60.5,2025,2027
+K60.51,"Anorectal fistula, simple",K60.5,2025,2027
+K60.511,"Anorectal fistula, simple, initial",K60.51,2025,2027
+K60.512,"Anorectal fistula, simple, persistent",K60.51,2025,2027
+K60.513,"Anorectal fistula, simple, recurrent",K60.51,2025,2027
+K60.519,"Anorectal fistula, simple, unspecified",K60.51,2025,2027
+K60.52,"Anorectal fistula, complex",K60.5,2025,2027
+K60.521,"Anorectal fistula, complex, initial",K60.52,2025,2027
+K60.522,"Anorectal fistula, complex, persistent",K60.52,2025,2027
+K60.523,"Anorectal fistula, complex, recurrent",K60.52,2025,2027
+K60.529,"Anorectal fistula, complex, unspecified",K60.52,2025,2027
+K61,Abscess of anal and rectal regions,,2016,2027
+K61.0,Anal abscess,K61,2016,2027
+K61.1,Rectal abscess,K61,2016,2027
+K61.2,Anorectal abscess,K61,2016,2027
+K61.3,Ischiorectal abscess,K61,2016,2027
+K61.31,Horseshoe abscess,K61.3,2019,2027
+K61.39,Other ischiorectal abscess,K61.3,2019,2027
+K61.4,Intrasphincteric abscess,K61,2016,2027
+K61.5,Supralevator abscess,K61,2019,2027
+K62,Other diseases of anus and rectum,,2016,2027
+K62.0,Anal polyp,K62,2016,2027
+K62.1,Rectal polyp,K62,2016,2027
+K62.2,Anal prolapse,K62,2016,2027
+K62.3,Rectal prolapse,K62,2016,2027
+K62.4,Stenosis of anus and rectum,K62,2016,2027
+K62.5,Hemorrhage of anus and rectum,K62,2016,2027
+K62.6,Ulcer of anus and rectum,K62,2016,2027
+K62.7,Radiation proctitis,K62,2016,2027
+K62.8,Other specified diseases of anus and rectum,K62,2016,2027
+K62.81,Anal sphincter tear (healed) (nontraumatic) (old),K62.8,2016,2027
+K62.82,Dysplasia of anus,K62.8,2016,2027
+K62.89,Other specified diseases of anus and rectum,K62.8,2016,2027
+K62.9,"Disease of anus and rectum, unspecified",K62,2016,2027
+K63,Other diseases of intestine,,2016,2027
+K63.0,Abscess of intestine,K63,2016,2027
+K63.1,Perforation of intestine (nontraumatic),K63,2016,2027
+K63.2,Fistula of intestine,K63,2016,2027
+K63.3,Ulcer of intestine,K63,2016,2027
+K63.4,Enteroptosis,K63,2016,2027
+K63.5,Polyp of colon,K63,2016,2027
+K63.8,Other specified diseases of intestine,K63,2016,2027
+K63.81,Dieulafoy lesion of intestine,K63.8,2016,2027
+K63.82,Intestinal microbial overgrowth,K63.8,2024,2027
+K63.821,Small intestinal bacterial overgrowth,K63.82,2024,2027
+K63.8211,"Small intestinal bacterial overgrowth, hydrogen-subtype",K63.821,2024,2027
+K63.8212,"Small intestinal bacterial overgrowth, hydrogen sulfide-subtype",K63.821,2024,2027
+K63.8219,"Small intestinal bacterial overgrowth, unspecified",K63.821,2024,2027
+K63.822,Small intestinal fungal overgrowth,K63.82,2024,2027
+K63.829,"Intestinal methanogen overgrowth, unspecified",K63.82,2024,2027
+K63.89,Other specified diseases of intestine,K63.8,2016,2027
+K63.9,"Disease of intestine, unspecified",K63,2016,2027
+K64,Hemorrhoids and perianal venous thrombosis,,2016,2027
+K64.0,First degree hemorrhoids,K64,2016,2027
+K64.1,Second degree hemorrhoids,K64,2016,2027
+K64.2,Third degree hemorrhoids,K64,2016,2027
+K64.3,Fourth degree hemorrhoids,K64,2016,2027
+K64.4,Residual hemorrhoidal skin tags,K64,2016,2027
+K64.5,Perianal venous thrombosis,K64,2016,2027
+K64.8,Other hemorrhoids,K64,2016,2027
+K64.9,Unspecified hemorrhoids,K64,2016,2027
+K65,Peritonitis,,2016,2027
+K65.0,Generalized (acute) peritonitis,K65,2016,2027
+K65.1,Peritoneal abscess,K65,2016,2027
+K65.2,Spontaneous bacterial peritonitis,K65,2016,2027
+K65.3,Choleperitonitis,K65,2016,2027
+K65.4,Sclerosing mesenteritis,K65,2016,2027
+K65.8,Other peritonitis,K65,2016,2027
+K65.9,"Peritonitis, unspecified",K65,2016,2027
+K66,Other disorders of peritoneum,,2016,2027
+K66.0,Peritoneal adhesions (postprocedural) (postinfection),K66,2016,2027
+K66.1,Hemoperitoneum,K66,2016,2027
+K66.8,Other specified disorders of peritoneum,K66,2016,2027
+K66.9,"Disorder of peritoneum, unspecified",K66,2016,2027
+K67,Disorders of peritoneum in infectious diseases classified elsewhere,,2016,2027
+K68,Disorders of retroperitoneum,,2016,2027
+K68.1,Retroperitoneal abscess,K68,2016,2027
+K68.11,Postprocedural retroperitoneal abscess,K68.1,2016,2027
+K68.12,Psoas muscle abscess,K68.1,2016,2027
+K68.19,Other retroperitoneal abscess,K68.1,2016,2027
+K68.2,Retroperitoneal fibrosis,K68,2024,2027
+K68.3,Retroperitoneal hematoma,K68,2024,2027
+K68.9,Other disorders of retroperitoneum,K68,2016,2027
+K6A,"Diseases of the pelvis, not elsewhere classified",,2027,2027
+K6A.0,Pelvic abscess,K6A,2027,2027
+K6A.01,Prevesical abscess,K6A.0,2027,2027
+K6A.09,Other pelvic abscess,K6A.0,2027,2027
+K6A.8,"Other diseases of the pelvis, not elsewhere classified",K6A,2027,2027
+K70,Alcoholic liver disease,,2016,2027
+K70.0,Alcoholic fatty liver,K70,2016,2027
+K70.1,Alcoholic hepatitis,K70,2016,2027
+K70.10,Alcoholic hepatitis without ascites,K70.1,2016,2027
+K70.11,Alcoholic hepatitis with ascites,K70.1,2016,2027
+K70.2,Alcoholic fibrosis and sclerosis of liver,K70,2016,2027
+K70.3,Alcoholic cirrhosis of liver,K70,2016,2027
+K70.30,Alcoholic cirrhosis of liver without ascites,K70.3,2016,2027
+K70.31,Alcoholic cirrhosis of liver with ascites,K70.3,2016,2027
+K70.4,Alcoholic hepatic failure,K70,2016,2027
+K70.40,Alcoholic hepatic failure without coma,K70.4,2016,2027
+K70.41,Alcoholic hepatic failure with coma,K70.4,2016,2027
+K70.9,"Alcoholic liver disease, unspecified",K70,2016,2027
+K71,Toxic liver disease,,2016,2027
+K71.0,Toxic liver disease with cholestasis,K71,2016,2027
+K71.1,Toxic liver disease with hepatic necrosis,K71,2016,2027
+K71.10,"Toxic liver disease with hepatic necrosis, without coma",K71.1,2016,2027
+K71.11,"Toxic liver disease with hepatic necrosis, with coma",K71.1,2016,2027
+K71.2,Toxic liver disease with acute hepatitis,K71,2016,2027
+K71.3,Toxic liver disease with chronic persistent hepatitis,K71,2016,2027
+K71.4,Toxic liver disease with chronic lobular hepatitis,K71,2016,2027
+K71.5,Toxic liver disease with chronic active hepatitis,K71,2016,2027
+K71.50,Toxic liver disease with chronic active hepatitis without ascites,K71.5,2016,2027
+K71.51,Toxic liver disease with chronic active hepatitis with ascites,K71.5,2016,2027
+K71.6,"Toxic liver disease with hepatitis, not elsewhere classified",K71,2016,2027
+K71.7,Toxic liver disease with fibrosis and cirrhosis of liver,K71,2016,2027
+K71.8,Toxic liver disease with other disorders of liver,K71,2016,2027
+K71.9,"Toxic liver disease, unspecified",K71,2016,2027
+K72,"Hepatic failure, not elsewhere classified",,2016,2027
+K72.0,Acute and subacute hepatic failure,K72,2016,2027
+K72.00,Acute and subacute hepatic failure without coma,K72.0,2016,2027
+K72.01,Acute and subacute hepatic failure with coma,K72.0,2016,2027
+K72.1,Chronic hepatic failure,K72,2016,2027
+K72.10,Chronic hepatic failure without coma,K72.1,2016,2027
+K72.11,Chronic hepatic failure with coma,K72.1,2016,2027
+K72.9,"Hepatic failure, unspecified",K72,2016,2027
+K72.90,"Hepatic failure, unspecified without coma",K72.9,2016,2027
+K72.91,"Hepatic failure, unspecified with coma",K72.9,2016,2027
+K73,"Chronic hepatitis, not elsewhere classified",,2016,2027
+K73.0,"Chronic persistent hepatitis, not elsewhere classified",K73,2016,2027
+K73.1,"Chronic lobular hepatitis, not elsewhere classified",K73,2016,2027
+K73.2,"Chronic active hepatitis, not elsewhere classified",K73,2016,2027
+K73.8,"Other chronic hepatitis, not elsewhere classified",K73,2016,2027
+K73.9,"Chronic hepatitis, unspecified",K73,2016,2027
+K74,Fibrosis and cirrhosis of liver,,2016,2027
+K74.0,Hepatic fibrosis,K74,2016,2027
+K74.00,"Hepatic fibrosis, unspecified",K74.0,2021,2027
+K74.01,"Hepatic fibrosis, early fibrosis",K74.0,2021,2027
+K74.02,"Hepatic fibrosis, advanced fibrosis",K74.0,2021,2027
+K74.0A,"Hepatic fibrosis, moderate fibrosis",K74.0,2027,2027
+K74.1,Hepatic sclerosis,K74,2016,2027
+K74.2,Hepatic fibrosis with hepatic sclerosis,K74,2016,2027
+K74.3,Primary biliary cirrhosis,K74,2016,2027
+K74.4,Secondary biliary cirrhosis,K74,2016,2027
+K74.5,"Biliary cirrhosis, unspecified",K74,2016,2027
+K74.6,Other and unspecified cirrhosis of liver,K74,2016,2027
+K74.60,Unspecified cirrhosis of liver,K74.6,2016,2027
+K74.69,Other cirrhosis of liver,K74.6,2016,2027
+K75,Other inflammatory liver diseases,,2016,2027
+K75.0,Abscess of liver,K75,2016,2027
+K75.1,Phlebitis of portal vein,K75,2016,2027
+K75.2,Nonspecific reactive hepatitis,K75,2016,2027
+K75.3,"Granulomatous hepatitis, not elsewhere classified",K75,2016,2027
+K75.4,Autoimmune hepatitis,K75,2016,2027
+K75.8,Other specified inflammatory liver diseases,K75,2016,2027
+K75.81,Nonalcoholic steatohepatitis (NASH),K75.8,2016,2027
+K75.89,Other specified inflammatory liver diseases,K75.8,2016,2027
+K75.9,"Inflammatory liver disease, unspecified",K75,2016,2027
+K76,Other diseases of liver,,2016,2027
+K76.0,"Fatty (change of) liver, not elsewhere classified",K76,2016,2027
+K76.1,Chronic passive congestion of liver,K76,2016,2027
+K76.2,Central hemorrhagic necrosis of liver,K76,2016,2027
+K76.3,Infarction of liver,K76,2016,2027
+K76.4,Peliosis hepatis,K76,2016,2027
+K76.5,Hepatic veno-occlusive disease,K76,2016,2027
+K76.6,Portal hypertension,K76,2016,2027
+K76.7,Hepatorenal syndrome,K76,2016,2027
+K76.8,Other specified diseases of liver,K76,2016,2027
+K76.81,Hepatopulmonary syndrome,K76.8,2016,2027
+K76.82,Hepatic encephalopathy,K76.8,2023,2027
+K76.83,Intestinal failure-associated liver disease,K76.8,2027,2027
+K76.89,Other specified diseases of liver,K76.8,2016,2027
+K76.9,"Liver disease, unspecified",K76,2016,2027
+K77,Liver disorders in diseases classified elsewhere,,2016,2027
+K80,Cholelithiasis,,2016,2027
+K80.0,Calculus of gallbladder with acute cholecystitis,K80,2016,2027
+K80.00,Calculus of gallbladder with acute cholecystitis without obstruction,K80.0,2016,2027
+K80.01,Calculus of gallbladder with acute cholecystitis with obstruction,K80.0,2016,2027
+K80.1,Calculus of gallbladder with other cholecystitis,K80,2016,2027
+K80.10,Calculus of gallbladder with chronic cholecystitis without obstruction,K80.1,2016,2027
+K80.11,Calculus of gallbladder with chronic cholecystitis with obstruction,K80.1,2016,2027
+K80.12,Calculus of gallbladder with acute and chronic cholecystitis without obstruction,K80.1,2016,2027
+K80.13,Calculus of gallbladder with acute and chronic cholecystitis with obstruction,K80.1,2016,2027
+K80.18,Calculus of gallbladder with other cholecystitis without obstruction,K80.1,2016,2027
+K80.19,Calculus of gallbladder with other cholecystitis with obstruction,K80.1,2016,2027
+K80.2,Calculus of gallbladder without cholecystitis,K80,2016,2027
+K80.20,Calculus of gallbladder without cholecystitis without obstruction,K80.2,2016,2027
+K80.21,Calculus of gallbladder without cholecystitis with obstruction,K80.2,2016,2027
+K80.3,Calculus of bile duct with cholangitis,K80,2016,2027
+K80.30,"Calculus of bile duct with cholangitis, unspecified, without obstruction",K80.3,2016,2027
+K80.31,"Calculus of bile duct with cholangitis, unspecified, with obstruction",K80.3,2016,2027
+K80.32,Calculus of bile duct with acute cholangitis without obstruction,K80.3,2016,2027
+K80.33,Calculus of bile duct with acute cholangitis with obstruction,K80.3,2016,2027
+K80.34,Calculus of bile duct with chronic cholangitis without obstruction,K80.3,2016,2027
+K80.35,Calculus of bile duct with chronic cholangitis with obstruction,K80.3,2016,2027
+K80.36,Calculus of bile duct with acute and chronic cholangitis without obstruction,K80.3,2016,2027
+K80.37,Calculus of bile duct with acute and chronic cholangitis with obstruction,K80.3,2016,2027
+K80.4,Calculus of bile duct with cholecystitis,K80,2016,2027
+K80.40,"Calculus of bile duct with cholecystitis, unspecified, without obstruction",K80.4,2016,2027
+K80.41,"Calculus of bile duct with cholecystitis, unspecified, with obstruction",K80.4,2016,2027
+K80.42,Calculus of bile duct with acute cholecystitis without obstruction,K80.4,2016,2027
+K80.43,Calculus of bile duct with acute cholecystitis with obstruction,K80.4,2016,2027
+K80.44,Calculus of bile duct with chronic cholecystitis without obstruction,K80.4,2016,2027
+K80.45,Calculus of bile duct with chronic cholecystitis with obstruction,K80.4,2016,2027
+K80.46,Calculus of bile duct with acute and chronic cholecystitis without obstruction,K80.4,2016,2027
+K80.47,Calculus of bile duct with acute and chronic cholecystitis with obstruction,K80.4,2016,2027
+K80.5,Calculus of bile duct without cholangitis or cholecystitis,K80,2016,2027
+K80.50,Calculus of bile duct without cholangitis or cholecystitis without obstruction,K80.5,2016,2027
+K80.51,Calculus of bile duct without cholangitis or cholecystitis with obstruction,K80.5,2016,2027
+K80.6,Calculus of gallbladder and bile duct with cholecystitis,K80,2016,2027
+K80.60,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction",K80.6,2016,2027
+K80.61,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, with obstruction",K80.6,2016,2027
+K80.62,Calculus of gallbladder and bile duct with acute cholecystitis without obstruction,K80.6,2016,2027
+K80.63,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction,K80.6,2016,2027
+K80.64,Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction,K80.6,2016,2027
+K80.65,Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction,K80.6,2016,2027
+K80.66,Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction,K80.6,2016,2027
+K80.67,Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction,K80.6,2016,2027
+K80.7,Calculus of gallbladder and bile duct without cholecystitis,K80,2016,2027
+K80.70,Calculus of gallbladder and bile duct without cholecystitis without obstruction,K80.7,2016,2027
+K80.71,Calculus of gallbladder and bile duct without cholecystitis with obstruction,K80.7,2016,2027
+K80.8,Other cholelithiasis,K80,2016,2027
+K80.80,Other cholelithiasis without obstruction,K80.8,2016,2027
+K80.81,Other cholelithiasis with obstruction,K80.8,2016,2027
+K81,Cholecystitis,,2016,2027
+K81.0,Acute cholecystitis,K81,2016,2027
+K81.1,Chronic cholecystitis,K81,2016,2027
+K81.2,Acute cholecystitis with chronic cholecystitis,K81,2016,2027
+K81.9,"Cholecystitis, unspecified",K81,2016,2027
+K82,Other diseases of gallbladder,,2016,2027
+K82.0,Obstruction of gallbladder,K82,2016,2027
+K82.1,Hydrops of gallbladder,K82,2016,2027
+K82.2,Perforation of gallbladder,K82,2016,2027
+K82.3,Fistula of gallbladder,K82,2016,2027
+K82.4,Cholesterolosis of gallbladder,K82,2016,2027
+K82.8,Other specified diseases of gallbladder,K82,2016,2027
+K82.9,"Disease of gallbladder, unspecified",K82,2016,2027
+K82.A,Disorders of gallbladder in diseases classified elsewhere,K82,2019,2027
+K82.A1,Gangrene of gallbladder in cholecystitis,K82.A,2019,2027
+K82.A2,Perforation of gallbladder in cholecystitis,K82.A,2019,2027
+K83,Other diseases of biliary tract,,2016,2027
+K83.0,Cholangitis,K83,2016,2027
+K83.01,Primary sclerosing cholangitis,K83.0,2019,2027
+K83.09,Other cholangitis,K83.0,2019,2027
+K83.1,Obstruction of bile duct,K83,2016,2027
+K83.2,Perforation of bile duct,K83,2016,2027
+K83.3,Fistula of bile duct,K83,2016,2027
+K83.4,Spasm of sphincter of Oddi,K83,2016,2027
+K83.5,Biliary cyst,K83,2016,2027
+K83.8,Other specified diseases of biliary tract,K83,2016,2027
+K83.9,"Disease of biliary tract, unspecified",K83,2016,2027
+K85,Acute pancreatitis,,2016,2027
+K85.0,Idiopathic acute pancreatitis,K85,2016,2027
+K85.00,Idiopathic acute pancreatitis without necrosis or infection,K85.0,2017,2027
+K85.01,Idiopathic acute pancreatitis with uninfected necrosis,K85.0,2017,2027
+K85.02,Idiopathic acute pancreatitis with infected necrosis,K85.0,2017,2027
+K85.1,Biliary acute pancreatitis,K85,2016,2027
+K85.10,Biliary acute pancreatitis without necrosis or infection,K85.1,2017,2027
+K85.11,Biliary acute pancreatitis with uninfected necrosis,K85.1,2017,2027
+K85.12,Biliary acute pancreatitis with infected necrosis,K85.1,2017,2027
+K85.2,Alcohol induced acute pancreatitis,K85,2016,2027
+K85.20,Alcohol induced acute pancreatitis without necrosis or infection,K85.2,2017,2027
+K85.21,Alcohol induced acute pancreatitis with uninfected necrosis,K85.2,2017,2027
+K85.22,Alcohol induced acute pancreatitis with infected necrosis,K85.2,2017,2027
+K85.3,Drug induced acute pancreatitis,K85,2016,2027
+K85.30,Drug induced acute pancreatitis without necrosis or infection,K85.3,2017,2027
+K85.31,Drug induced acute pancreatitis with uninfected necrosis,K85.3,2017,2027
+K85.32,Drug induced acute pancreatitis with infected necrosis,K85.3,2017,2027
+K85.8,Other acute pancreatitis,K85,2016,2027
+K85.80,Other acute pancreatitis without necrosis or infection,K85.8,2017,2027
+K85.81,Other acute pancreatitis with uninfected necrosis,K85.8,2017,2027
+K85.82,Other acute pancreatitis with infected necrosis,K85.8,2017,2027
+K85.9,"Acute pancreatitis, unspecified",K85,2016,2027
+K85.90,"Acute pancreatitis without necrosis or infection, unspecified",K85.9,2017,2027
+K85.91,"Acute pancreatitis with uninfected necrosis, unspecified",K85.9,2017,2027
+K85.92,"Acute pancreatitis with infected necrosis, unspecified",K85.9,2017,2027
+K86,Other diseases of pancreas,,2016,2027
+K86.0,Alcohol-induced chronic pancreatitis,K86,2016,2027
+K86.1,Other chronic pancreatitis,K86,2016,2027
+K86.2,Cyst of pancreas,K86,2016,2027
+K86.3,Pseudocyst of pancreas,K86,2016,2027
+K86.8,Other specified diseases of pancreas,K86,2016,2027
+K86.81,Exocrine pancreatic insufficiency,K86.8,2017,2027
+K86.89,Other specified diseases of pancreas,K86.8,2017,2027
+K86.9,"Disease of pancreas, unspecified",K86,2016,2027
+K87,"Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",,2016,2027
+K90,Intestinal malabsorption,,2016,2027
+K90.0,Celiac disease,K90,2016,2027
+K90.1,Tropical sprue,K90,2016,2027
+K90.2,"Blind loop syndrome, not elsewhere classified",K90,2016,2027
+K90.3,Pancreatic steatorrhea,K90,2016,2027
+K90.4,Other malabsorption due to intolerance,K90,2016,2027
+K90.41,Non-celiac gluten sensitivity,K90.4,2017,2027
+K90.49,"Malabsorption due to intolerance, not elsewhere classified",K90.4,2017,2027
+K90.8,Other intestinal malabsorption,K90,2016,2027
+K90.81,Whipple's disease,K90.8,2016,2027
+K90.82,Short bowel syndrome,K90.8,2024,2027
+K90.821,Short bowel syndrome with colon in continuity,K90.82,2024,2027
+K90.822,Short bowel syndrome without colon in continuity,K90.82,2024,2027
+K90.829,"Short bowel syndrome, unspecified",K90.82,2024,2027
+K90.83,Intestinal failure,K90.8,2024,2027
+K90.89,Other intestinal malabsorption,K90.8,2016,2027
+K90.9,"Intestinal malabsorption, unspecified",K90,2016,2027
+K91,"Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified",,2016,2027
+K91.0,Vomiting following gastrointestinal surgery,K91,2016,2027
+K91.1,Postgastric surgery syndromes,K91,2016,2027
+K91.2,"Postsurgical malabsorption, not elsewhere classified",K91,2016,2027
+K91.3,Postprocedural intestinal obstruction,K91,2016,2027
+K91.30,"Postprocedural intestinal obstruction, unspecified as to partial versus complete",K91.3,2018,2027
+K91.31,Postprocedural partial intestinal obstruction,K91.3,2018,2027
+K91.32,Postprocedural complete intestinal obstruction,K91.3,2018,2027
+K91.5,Postcholecystectomy syndrome,K91,2016,2027
+K91.6,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a procedure,K91,2016,2027
+K91.61,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a digestive system procedure,K91.6,2016,2027
+K91.62,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure,K91.6,2016,2027
+K91.7,Accidental puncture and laceration of a digestive system organ or structure during a procedure,K91,2016,2027
+K91.71,Accidental puncture and laceration of a digestive system organ or structure during a digestive system procedure,K91.7,2016,2027
+K91.72,Accidental puncture and laceration of a digestive system organ or structure during other procedure,K91.7,2016,2027
+K91.8,Other intraoperative and postprocedural complications and disorders of digestive system,K91,2016,2027
+K91.81,Other intraoperative complications of digestive system,K91.8,2016,2027
+K91.82,Postprocedural hepatic failure,K91.8,2016,2027
+K91.83,Postprocedural hepatorenal syndrome,K91.8,2016,2027
+K91.84,Postprocedural hemorrhage of a digestive system organ or structure following a procedure,K91.8,2016,2027
+K91.840,Postprocedural hemorrhage of a digestive system organ or structure following a digestive system procedure,K91.84,2016,2027
+K91.841,Postprocedural hemorrhage of a digestive system organ or structure following other procedure,K91.84,2016,2027
+K91.85,Complications of intestinal pouch,K91.8,2016,2027
+K91.850,Pouchitis,K91.85,2016,2027
+K91.858,Other complications of intestinal pouch,K91.85,2016,2027
+K91.86,Retained cholelithiasis following cholecystectomy,K91.8,2016,2027
+K91.87,Postprocedural hematoma and seroma of a digestive system organ or structure following a procedure,K91.8,2017,2027
+K91.870,Postprocedural hematoma of a digestive system organ or structure following a digestive system procedure,K91.87,2017,2027
+K91.871,Postprocedural hematoma of a digestive system organ or structure following other procedure,K91.87,2017,2027
+K91.872,Postprocedural seroma of a digestive system organ or structure following a digestive system procedure,K91.87,2017,2027
+K91.873,Postprocedural seroma of a digestive system organ or structure following other procedure,K91.87,2017,2027
+K91.89,Other postprocedural complications and disorders of digestive system,K91.8,2016,2027
+K92,Other diseases of digestive system,,2016,2027
+K92.0,Hematemesis,K92,2016,2027
+K92.1,Melena,K92,2016,2027
+K92.2,"Gastrointestinal hemorrhage, unspecified",K92,2016,2027
+K92.8,Other specified diseases of the digestive system,K92,2016,2027
+K92.81,Gastrointestinal mucositis (ulcerative),K92.8,2016,2027
+K92.89,Other specified diseases of the digestive system,K92.8,2016,2027
+K92.9,"Disease of digestive system, unspecified",K92,2016,2027
+K94,Complications of artificial openings of the digestive system,,2016,2027
+K94.0,Colostomy complications,K94,2016,2027
+K94.00,"Colostomy complication, unspecified",K94.0,2016,2027
+K94.01,Colostomy hemorrhage,K94.0,2016,2027
+K94.02,Colostomy infection,K94.0,2016,2027
+K94.03,Colostomy malfunction,K94.0,2016,2027
+K94.09,Other complications of colostomy,K94.0,2016,2027
+K94.1,Enterostomy complications,K94,2016,2027
+K94.10,"Enterostomy complication, unspecified",K94.1,2016,2027
+K94.11,Enterostomy hemorrhage,K94.1,2016,2027
+K94.12,Enterostomy infection,K94.1,2016,2027
+K94.13,Enterostomy malfunction,K94.1,2016,2027
+K94.19,Other complications of enterostomy,K94.1,2016,2027
+K94.2,Gastrostomy complications,K94,2016,2027
+K94.20,"Gastrostomy complication, unspecified",K94.2,2016,2027
+K94.21,Gastrostomy hemorrhage,K94.2,2016,2027
+K94.22,Gastrostomy infection,K94.2,2016,2027
+K94.23,Gastrostomy malfunction,K94.2,2016,2027
+K94.29,Other complications of gastrostomy,K94.2,2016,2027
+K94.3,Esophagostomy complications,K94,2016,2027
+K94.30,"Esophagostomy complications, unspecified",K94.3,2016,2027
+K94.31,Esophagostomy hemorrhage,K94.3,2016,2027
+K94.32,Esophagostomy infection,K94.3,2016,2027
+K94.33,Esophagostomy malfunction,K94.3,2016,2027
+K94.39,Other complications of esophagostomy,K94.3,2016,2027
+K95,Complications of bariatric procedures,,2016,2027
+K95.0,Complications of gastric band procedure,K95,2016,2027
+K95.01,Infection due to gastric band procedure,K95.0,2016,2027
+K95.09,Other complications of gastric band procedure,K95.0,2016,2027
+K95.8,Complications of other bariatric procedure,K95,2016,2027
+K95.81,Infection due to other bariatric procedure,K95.8,2016,2027
+K95.89,Other complications of other bariatric procedure,K95.8,2016,2027

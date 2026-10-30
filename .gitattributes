@@ -1,0 +1,3 @@
+# Ontology packs and crosswalks are verified by sha256 byte for byte; never
+# convert their line endings (the LOINC license and MapTo.csv use CRLF).
+ontologies/** -text

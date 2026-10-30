@@ -1,0 +1,7 @@
+code,description,parent,first_year,last_year
+XV,Male Reproductive System,X,2019,2023
+XV5,Destruction,XV,2019,2023
+XV50,Prostate,XV5,2019,2023
+XV508,Via Natural or Artificial Opening Endoscopic,XV50,2019,2023
+XV508A,Robotic Waterjet Ablation,XV508,2019,2023
+XV508A4,"Destruction of Prostate using Robotic Waterjet Ablation, Via Natural or Artificial Opening Endoscopic, New Technology Group 4",XV508A,2019,2023

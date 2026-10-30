@@ -1,0 +1,14 @@
+code,description,parent,first_year,last_year
+C8,Eye,C,2016,2027
+C81,Planar Nuclear Medicine Imaging,C8,2016,2027
+C819,"Lacrimal Ducts, Bilateral",C81,2016,2027
+C8191,Technetium 99m (Tc-99m),C819,2016,2027
+C8191Z,None,C8191,2016,2027
+C8191ZZ,Planar Nuclear Medicine Imaging of Bilateral Lacrimal Ducts using Technetium 99m (Tc-99m),C8191Z,2016,2027
+C819Y,Other Radionuclide,C819,2016,2027
+C819YZ,None,C819Y,2016,2027
+C819YZZ,Planar Nuclear Medicine Imaging of Bilateral Lacrimal Ducts using Other Radionuclide,C819YZ,2016,2027
+C81Y,Eye,C81,2016,2027
+C81YY,Other Radionuclide,C81Y,2016,2027
+C81YYZ,None,C81YY,2016,2027
+C81YYZZ,Planar Nuclear Medicine Imaging of Eye using Other Radionuclide,C81YYZ,2016,2027

@@ -1,0 +1,7 @@
+code,description,parent,first_year,last_year
+XU,Female Reproductive System,X,2026,2027
+XU7,Dilation,XU,2026,2027
+XU7G,Vagina,XU7,2026,2027
+XU7G7,Via Natural or Artificial Opening,XU7G,2026,2027
+XU7G71,"Intraluminal Device, Temporary Electromechanical",XU7G7,2026,2027
+XU7G71B,"Dilation of Vagina with Temporary Electromechanical Intraluminal Device, Via Natural or Artificial Opening, New Technology Group 11",XU7G71,2026,2027

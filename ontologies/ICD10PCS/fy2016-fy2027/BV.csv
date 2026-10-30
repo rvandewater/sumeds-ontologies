@@ -1,0 +1,188 @@
+code,description,parent,first_year,last_year
+BV,Male Reproductive System,B,2016,2027
+BV0,Plain Radiography,BV,2016,2027
+BV00,Corpora Cavernosa,BV0,2016,2027
+BV000,High Osmolar,BV00,2016,2027
+BV000Z,None,BV000,2016,2027
+BV000ZZ,Plain Radiography of Corpora Cavernosa using High Osmolar Contrast,BV000Z,2016,2027
+BV001,Low Osmolar,BV00,2016,2027
+BV001Z,None,BV001,2016,2027
+BV001ZZ,Plain Radiography of Corpora Cavernosa using Low Osmolar Contrast,BV001Z,2016,2027
+BV00Y,Other Contrast,BV00,2016,2027
+BV00YZ,None,BV00Y,2016,2027
+BV00YZZ,Plain Radiography of Corpora Cavernosa using Other Contrast,BV00YZ,2016,2027
+BV01,"Epididymis, Right",BV0,2016,2027
+BV010,High Osmolar,BV01,2016,2027
+BV010Z,None,BV010,2016,2027
+BV010ZZ,Plain Radiography of Right Epididymis using High Osmolar Contrast,BV010Z,2016,2027
+BV011,Low Osmolar,BV01,2016,2027
+BV011Z,None,BV011,2016,2027
+BV011ZZ,Plain Radiography of Right Epididymis using Low Osmolar Contrast,BV011Z,2016,2027
+BV01Y,Other Contrast,BV01,2016,2027
+BV01YZ,None,BV01Y,2016,2027
+BV01YZZ,Plain Radiography of Right Epididymis using Other Contrast,BV01YZ,2016,2027
+BV02,"Epididymis, Left",BV0,2016,2027
+BV020,High Osmolar,BV02,2016,2027
+BV020Z,None,BV020,2016,2027
+BV020ZZ,Plain Radiography of Left Epididymis using High Osmolar Contrast,BV020Z,2016,2027
+BV021,Low Osmolar,BV02,2016,2027
+BV021Z,None,BV021,2016,2027
+BV021ZZ,Plain Radiography of Left Epididymis using Low Osmolar Contrast,BV021Z,2016,2027
+BV02Y,Other Contrast,BV02,2016,2027
+BV02YZ,None,BV02Y,2016,2027
+BV02YZZ,Plain Radiography of Left Epididymis using Other Contrast,BV02YZ,2016,2027
+BV03,Prostate,BV0,2016,2027
+BV030,High Osmolar,BV03,2016,2027
+BV030Z,None,BV030,2016,2027
+BV030ZZ,Plain Radiography of Prostate using High Osmolar Contrast,BV030Z,2016,2027
+BV031,Low Osmolar,BV03,2016,2027
+BV031Z,None,BV031,2016,2027
+BV031ZZ,Plain Radiography of Prostate using Low Osmolar Contrast,BV031Z,2016,2027
+BV03Y,Other Contrast,BV03,2016,2027
+BV03YZ,None,BV03Y,2016,2027
+BV03YZZ,Plain Radiography of Prostate using Other Contrast,BV03YZ,2016,2027
+BV05,"Testicle, Right",BV0,2016,2027
+BV050,High Osmolar,BV05,2016,2027
+BV050Z,None,BV050,2016,2027
+BV050ZZ,Plain Radiography of Right Testicle using High Osmolar Contrast,BV050Z,2016,2027
+BV051,Low Osmolar,BV05,2016,2027
+BV051Z,None,BV051,2016,2027
+BV051ZZ,Plain Radiography of Right Testicle using Low Osmolar Contrast,BV051Z,2016,2027
+BV05Y,Other Contrast,BV05,2016,2027
+BV05YZ,None,BV05Y,2016,2027
+BV05YZZ,Plain Radiography of Right Testicle using Other Contrast,BV05YZ,2016,2027
+BV06,"Testicle, Left",BV0,2016,2027
+BV060,High Osmolar,BV06,2016,2027
+BV060Z,None,BV060,2016,2027
+BV060ZZ,Plain Radiography of Left Testicle using High Osmolar Contrast,BV060Z,2016,2027
+BV061,Low Osmolar,BV06,2016,2027
+BV061Z,None,BV061,2016,2027
+BV061ZZ,Plain Radiography of Left Testicle using Low Osmolar Contrast,BV061Z,2016,2027
+BV06Y,Other Contrast,BV06,2016,2027
+BV06YZ,None,BV06Y,2016,2027
+BV06YZZ,Plain Radiography of Left Testicle using Other Contrast,BV06YZ,2016,2027
+BV08,Vasa Vasorum,BV0,2016,2027
+BV080,High Osmolar,BV08,2016,2027
+BV080Z,None,BV080,2016,2027
+BV080ZZ,Plain Radiography of Vasa Vasorum using High Osmolar Contrast,BV080Z,2016,2027
+BV081,Low Osmolar,BV08,2016,2027
+BV081Z,None,BV081,2016,2027
+BV081ZZ,Plain Radiography of Vasa Vasorum using Low Osmolar Contrast,BV081Z,2016,2027
+BV08Y,Other Contrast,BV08,2016,2027
+BV08YZ,None,BV08Y,2016,2027
+BV08YZZ,Plain Radiography of Vasa Vasorum using Other Contrast,BV08YZ,2016,2027
+BV1,Fluoroscopy,BV,2016,2027
+BV10,Corpora Cavernosa,BV1,2016,2027
+BV100,High Osmolar,BV10,2016,2027
+BV100Z,None,BV100,2016,2027
+BV100ZZ,Fluoroscopy of Corpora Cavernosa using High Osmolar Contrast,BV100Z,2016,2027
+BV101,Low Osmolar,BV10,2016,2027
+BV101Z,None,BV101,2016,2027
+BV101ZZ,Fluoroscopy of Corpora Cavernosa using Low Osmolar Contrast,BV101Z,2016,2027
+BV10Y,Other Contrast,BV10,2016,2027
+BV10YZ,None,BV10Y,2016,2027
+BV10YZZ,Fluoroscopy of Corpora Cavernosa using Other Contrast,BV10YZ,2016,2027
+BV10Z,None,BV10,2016,2027
+BV10ZZ,None,BV10Z,2016,2027
+BV10ZZZ,Fluoroscopy of Corpora Cavernosa,BV10ZZ,2016,2027
+BV18,Vasa Vasorum,BV1,2016,2027
+BV180,High Osmolar,BV18,2016,2027
+BV180Z,None,BV180,2016,2027
+BV180ZZ,Fluoroscopy of Vasa Vasorum using High Osmolar Contrast,BV180Z,2016,2027
+BV181,Low Osmolar,BV18,2016,2027
+BV181Z,None,BV181,2016,2027
+BV181ZZ,Fluoroscopy of Vasa Vasorum using Low Osmolar Contrast,BV181Z,2016,2027
+BV18Y,Other Contrast,BV18,2016,2027
+BV18YZ,None,BV18Y,2016,2027
+BV18YZZ,Fluoroscopy of Vasa Vasorum using Other Contrast,BV18YZ,2016,2027
+BV18Z,None,BV18,2016,2027
+BV18ZZ,None,BV18Z,2016,2027
+BV18ZZZ,Fluoroscopy of Vasa Vasorum,BV18ZZ,2016,2027
+BV2,Computerized Tomography (CT Scan),BV,2016,2027
+BV23,Prostate,BV2,2016,2027
+BV230,High Osmolar,BV23,2016,2027
+BV2300,Unenhanced and Enhanced,BV230,2016,2027
+BV2300Z,"Computerized Tomography (CT Scan) of Prostate using High Osmolar Contrast, Unenhanced and Enhanced",BV2300,2016,2027
+BV230Z,None,BV230,2016,2027
+BV230ZZ,Computerized Tomography (CT Scan) of Prostate using High Osmolar Contrast,BV230Z,2016,2027
+BV231,Low Osmolar,BV23,2016,2027
+BV2310,Unenhanced and Enhanced,BV231,2016,2027
+BV2310Z,"Computerized Tomography (CT Scan) of Prostate using Low Osmolar Contrast, Unenhanced and Enhanced",BV2310,2016,2027
+BV231Z,None,BV231,2016,2027
+BV231ZZ,Computerized Tomography (CT Scan) of Prostate using Low Osmolar Contrast,BV231Z,2016,2027
+BV23Y,Other Contrast,BV23,2016,2027
+BV23Y0,Unenhanced and Enhanced,BV23Y,2016,2027
+BV23Y0Z,"Computerized Tomography (CT Scan) of Prostate using Other Contrast, Unenhanced and Enhanced",BV23Y0,2016,2027
+BV23YZ,None,BV23Y,2016,2027
+BV23YZZ,Computerized Tomography (CT Scan) of Prostate using Other Contrast,BV23YZ,2016,2027
+BV23Z,None,BV23,2016,2027
+BV23ZZ,None,BV23Z,2016,2027
+BV23ZZZ,Computerized Tomography (CT Scan) of Prostate,BV23ZZ,2016,2027
+BV3,Magnetic Resonance Imaging (MRI),BV,2016,2027
+BV30,Corpora Cavernosa,BV3,2016,2027
+BV30Y,Other Contrast,BV30,2016,2027
+BV30Y0,Unenhanced and Enhanced,BV30Y,2016,2027
+BV30Y0Z,"Magnetic Resonance Imaging (MRI) of Corpora Cavernosa using Other Contrast, Unenhanced and Enhanced",BV30Y0,2016,2027
+BV30YZ,None,BV30Y,2016,2027
+BV30YZZ,Magnetic Resonance Imaging (MRI) of Corpora Cavernosa using Other Contrast,BV30YZ,2016,2027
+BV30Z,None,BV30,2016,2027
+BV30ZZ,None,BV30Z,2016,2027
+BV30ZZZ,Magnetic Resonance Imaging (MRI) of Corpora Cavernosa,BV30ZZ,2016,2027
+BV33,Prostate,BV3,2016,2027
+BV33Y,Other Contrast,BV33,2016,2027
+BV33Y0,Unenhanced and Enhanced,BV33Y,2016,2027
+BV33Y0Z,"Magnetic Resonance Imaging (MRI) of Prostate using Other Contrast, Unenhanced and Enhanced",BV33Y0,2016,2027
+BV33YZ,None,BV33Y,2016,2027
+BV33YZZ,Magnetic Resonance Imaging (MRI) of Prostate using Other Contrast,BV33YZ,2016,2027
+BV33Z,None,BV33,2016,2027
+BV33ZZ,None,BV33Z,2016,2027
+BV33ZZZ,Magnetic Resonance Imaging (MRI) of Prostate,BV33ZZ,2016,2027
+BV34,Scrotum,BV3,2016,2027
+BV34Y,Other Contrast,BV34,2016,2027
+BV34Y0,Unenhanced and Enhanced,BV34Y,2016,2027
+BV34Y0Z,"Magnetic Resonance Imaging (MRI) of Scrotum using Other Contrast, Unenhanced and Enhanced",BV34Y0,2016,2027
+BV34YZ,None,BV34Y,2016,2027
+BV34YZZ,Magnetic Resonance Imaging (MRI) of Scrotum using Other Contrast,BV34YZ,2016,2027
+BV34Z,None,BV34,2016,2027
+BV34ZZ,None,BV34Z,2016,2027
+BV34ZZZ,Magnetic Resonance Imaging (MRI) of Scrotum,BV34ZZ,2016,2027
+BV35,"Testicle, Right",BV3,2016,2027
+BV35Y,Other Contrast,BV35,2016,2027
+BV35Y0,Unenhanced and Enhanced,BV35Y,2016,2027
+BV35Y0Z,"Magnetic Resonance Imaging (MRI) of Right Testicle using Other Contrast, Unenhanced and Enhanced",BV35Y0,2016,2027
+BV35YZ,None,BV35Y,2016,2027
+BV35YZZ,Magnetic Resonance Imaging (MRI) of Right Testicle using Other Contrast,BV35YZ,2016,2027
+BV35Z,None,BV35,2016,2027
+BV35ZZ,None,BV35Z,2016,2027
+BV35ZZZ,Magnetic Resonance Imaging (MRI) of Right Testicle,BV35ZZ,2016,2027
+BV36,"Testicle, Left",BV3,2016,2027
+BV36Y,Other Contrast,BV36,2016,2027
+BV36Y0,Unenhanced and Enhanced,BV36Y,2016,2027
+BV36Y0Z,"Magnetic Resonance Imaging (MRI) of Left Testicle using Other Contrast, Unenhanced and Enhanced",BV36Y0,2016,2027
+BV36YZ,None,BV36Y,2016,2027
+BV36YZZ,Magnetic Resonance Imaging (MRI) of Left Testicle using Other Contrast,BV36YZ,2016,2027
+BV36Z,None,BV36,2016,2027
+BV36ZZ,None,BV36Z,2016,2027
+BV36ZZZ,Magnetic Resonance Imaging (MRI) of Left Testicle,BV36ZZ,2016,2027
+BV37,"Testicles, Bilateral",BV3,2016,2027
+BV37Y,Other Contrast,BV37,2016,2027
+BV37Y0,Unenhanced and Enhanced,BV37Y,2016,2027
+BV37Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Testicles using Other Contrast, Unenhanced and Enhanced",BV37Y0,2016,2027
+BV37YZ,None,BV37Y,2016,2027
+BV37YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Testicles using Other Contrast,BV37YZ,2016,2027
+BV37Z,None,BV37,2016,2027
+BV37ZZ,None,BV37Z,2016,2027
+BV37ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Testicles,BV37ZZ,2016,2027
+BV4,Ultrasonography,BV,2016,2027
+BV44,Scrotum,BV4,2016,2027
+BV44Z,None,BV44,2016,2027
+BV44ZZ,None,BV44Z,2016,2027
+BV44ZZZ,Ultrasonography of Scrotum,BV44ZZ,2016,2027
+BV49,Prostate and Seminal Vesicles,BV4,2016,2027
+BV49Z,None,BV49,2016,2027
+BV49ZZ,None,BV49Z,2016,2027
+BV49ZZZ,Ultrasonography of Prostate and Seminal Vesicles,BV49ZZ,2016,2027
+BV4B,Penis,BV4,2016,2027
+BV4BZ,None,BV4B,2016,2027
+BV4BZZ,None,BV4BZ,2016,2027
+BV4BZZZ,Ultrasonography of Penis,BV4BZZ,2016,2027

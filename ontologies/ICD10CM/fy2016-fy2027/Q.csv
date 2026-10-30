@@ -1,0 +1,1097 @@
+code,description,parent,first_year,last_year
+Q00,Anencephaly and similar malformations,,2016,2027
+Q00.0,Anencephaly,Q00,2016,2027
+Q00.1,Craniorachischisis,Q00,2016,2027
+Q00.2,Iniencephaly,Q00,2016,2027
+Q01,Encephalocele,,2016,2027
+Q01.0,Frontal encephalocele,Q01,2016,2027
+Q01.1,Nasofrontal encephalocele,Q01,2016,2027
+Q01.2,Occipital encephalocele,Q01,2016,2027
+Q01.8,Encephalocele of other sites,Q01,2016,2027
+Q01.9,"Encephalocele, unspecified",Q01,2016,2027
+Q02,Microcephaly,,2016,2027
+Q03,Congenital hydrocephalus,,2016,2027
+Q03.0,Malformations of aqueduct of Sylvius,Q03,2016,2027
+Q03.1,Atresia of foramina of Magendie and Luschka,Q03,2016,2027
+Q03.8,Other congenital hydrocephalus,Q03,2016,2027
+Q03.9,"Congenital hydrocephalus, unspecified",Q03,2016,2027
+Q04,Other congenital malformations of brain,,2016,2027
+Q04.0,Congenital malformations of corpus callosum,Q04,2016,2027
+Q04.1,Arhinencephaly,Q04,2016,2027
+Q04.2,Holoprosencephaly,Q04,2016,2027
+Q04.3,Other reduction deformities of brain,Q04,2016,2027
+Q04.4,Septo-optic dysplasia of brain,Q04,2016,2027
+Q04.5,Megalencephaly,Q04,2016,2027
+Q04.6,Congenital cerebral cysts,Q04,2016,2027
+Q04.8,Other specified congenital malformations of brain,Q04,2016,2027
+Q04.9,"Congenital malformation of brain, unspecified",Q04,2016,2027
+Q05,Spina bifida,,2016,2027
+Q05.0,Cervical spina bifida with hydrocephalus,Q05,2016,2027
+Q05.1,Thoracic spina bifida with hydrocephalus,Q05,2016,2027
+Q05.2,Lumbar spina bifida with hydrocephalus,Q05,2016,2027
+Q05.3,Sacral spina bifida with hydrocephalus,Q05,2016,2027
+Q05.4,Unspecified spina bifida with hydrocephalus,Q05,2016,2027
+Q05.5,Cervical spina bifida without hydrocephalus,Q05,2016,2027
+Q05.6,Thoracic spina bifida without hydrocephalus,Q05,2016,2027
+Q05.7,Lumbar spina bifida without hydrocephalus,Q05,2016,2027
+Q05.8,Sacral spina bifida without hydrocephalus,Q05,2016,2027
+Q05.9,"Spina bifida, unspecified",Q05,2016,2027
+Q06,Other congenital malformations of spinal cord,,2016,2027
+Q06.0,Amyelia,Q06,2016,2027
+Q06.1,Hypoplasia and dysplasia of spinal cord,Q06,2016,2027
+Q06.2,Diastematomyelia,Q06,2016,2027
+Q06.3,Other congenital cauda equina malformations,Q06,2016,2027
+Q06.4,Hydromyelia,Q06,2016,2027
+Q06.8,Other specified congenital malformations of spinal cord,Q06,2016,2027
+Q06.9,"Congenital malformation of spinal cord, unspecified",Q06,2016,2027
+Q07,Other congenital malformations of nervous system,,2016,2027
+Q07.0,Arnold-Chiari syndrome,Q07,2016,2027
+Q07.00,Arnold-Chiari syndrome without spina bifida or hydrocephalus,Q07.0,2016,2027
+Q07.01,Arnold-Chiari syndrome with spina bifida,Q07.0,2016,2027
+Q07.02,Arnold-Chiari syndrome with hydrocephalus,Q07.0,2016,2027
+Q07.03,Arnold-Chiari syndrome with spina bifida and hydrocephalus,Q07.0,2016,2027
+Q07.8,Other specified congenital malformations of nervous system,Q07,2016,2027
+Q07.9,"Congenital malformation of nervous system, unspecified",Q07,2016,2027
+Q10,"Congenital malformations of eyelid, lacrimal apparatus and orbit",,2016,2027
+Q10.0,Congenital ptosis,Q10,2016,2027
+Q10.1,Congenital ectropion,Q10,2016,2027
+Q10.2,Congenital entropion,Q10,2016,2027
+Q10.3,Other congenital malformations of eyelid,Q10,2016,2027
+Q10.4,Absence and agenesis of lacrimal apparatus,Q10,2016,2027
+Q10.5,Congenital stenosis and stricture of lacrimal duct,Q10,2016,2027
+Q10.6,Other congenital malformations of lacrimal apparatus,Q10,2016,2027
+Q10.7,Congenital malformation of orbit,Q10,2016,2027
+Q11,"Anophthalmos, microphthalmos and macrophthalmos",,2016,2027
+Q11.0,Cystic eyeball,Q11,2016,2027
+Q11.1,Other anophthalmos,Q11,2016,2027
+Q11.2,Microphthalmos,Q11,2016,2027
+Q11.3,Macrophthalmos,Q11,2016,2027
+Q12,Congenital lens malformations,,2016,2027
+Q12.0,Congenital cataract,Q12,2016,2027
+Q12.1,Congenital displaced lens,Q12,2016,2027
+Q12.2,Coloboma of lens,Q12,2016,2027
+Q12.3,Congenital aphakia,Q12,2016,2027
+Q12.4,Spherophakia,Q12,2016,2027
+Q12.8,Other congenital lens malformations,Q12,2016,2027
+Q12.9,"Congenital lens malformation, unspecified",Q12,2016,2027
+Q13,Congenital malformations of anterior segment of eye,,2016,2027
+Q13.0,Coloboma of iris,Q13,2016,2027
+Q13.1,Absence of iris,Q13,2016,2027
+Q13.2,Other congenital malformations of iris,Q13,2016,2027
+Q13.3,Congenital corneal opacity,Q13,2016,2027
+Q13.4,Other congenital corneal malformations,Q13,2016,2027
+Q13.5,Blue sclera,Q13,2016,2027
+Q13.8,Other congenital malformations of anterior segment of eye,Q13,2016,2027
+Q13.81,Rieger anomaly,Q13.8,2016,2027
+Q13.89,Other congenital malformations of anterior segment of eye,Q13.8,2016,2027
+Q13.9,"Congenital malformation of anterior segment of eye, unspecified",Q13,2016,2027
+Q14,Congenital malformations of posterior segment of eye,,2016,2027
+Q14.0,Congenital malformation of vitreous humor,Q14,2016,2027
+Q14.1,Congenital malformation of retina,Q14,2016,2027
+Q14.2,Congenital malformation of optic disc,Q14,2016,2027
+Q14.3,Congenital malformation of choroid,Q14,2016,2027
+Q14.8,Other congenital malformations of posterior segment of eye,Q14,2016,2027
+Q14.9,"Congenital malformation of posterior segment of eye, unspecified",Q14,2016,2027
+Q15,Other congenital malformations of eye,,2016,2027
+Q15.0,Congenital glaucoma,Q15,2016,2027
+Q15.8,Other specified congenital malformations of eye,Q15,2016,2027
+Q15.9,"Congenital malformation of eye, unspecified",Q15,2016,2027
+Q16,Congenital malformations of ear causing impairment of hearing,,2016,2027
+Q16.0,Congenital absence of (ear) auricle,Q16,2016,2027
+Q16.1,"Congenital absence, atresia and stricture of auditory canal (external)",Q16,2016,2027
+Q16.2,Absence of eustachian tube,Q16,2016,2027
+Q16.3,Congenital malformation of ear ossicles,Q16,2016,2027
+Q16.4,Other congenital malformations of middle ear,Q16,2016,2027
+Q16.5,Congenital malformation of inner ear,Q16,2016,2027
+Q16.9,"Congenital malformation of ear causing impairment of hearing, unspecified",Q16,2016,2027
+Q17,Other congenital malformations of ear,,2016,2027
+Q17.0,Accessory auricle,Q17,2016,2027
+Q17.1,Macrotia,Q17,2016,2027
+Q17.2,Microtia,Q17,2016,2027
+Q17.3,Other misshapen ear,Q17,2016,2027
+Q17.4,Misplaced ear,Q17,2016,2027
+Q17.5,Prominent ear,Q17,2016,2027
+Q17.8,Other specified congenital malformations of ear,Q17,2016,2027
+Q17.9,"Congenital malformation of ear, unspecified",Q17,2016,2027
+Q18,Other congenital malformations of face and neck,,2016,2027
+Q18.0,"Sinus, fistula and cyst of branchial cleft",Q18,2016,2027
+Q18.1,Preauricular sinus and cyst,Q18,2016,2027
+Q18.2,Other branchial cleft malformations,Q18,2016,2027
+Q18.3,Webbing of neck,Q18,2016,2027
+Q18.4,Macrostomia,Q18,2016,2027
+Q18.5,Microstomia,Q18,2016,2027
+Q18.6,Macrocheilia,Q18,2016,2027
+Q18.7,Microcheilia,Q18,2016,2027
+Q18.8,Other specified congenital malformations of face and neck,Q18,2016,2027
+Q18.9,"Congenital malformation of face and neck, unspecified",Q18,2016,2027
+Q20,Congenital malformations of cardiac chambers and connections,,2016,2027
+Q20.0,Common arterial trunk,Q20,2016,2027
+Q20.1,Double outlet right ventricle,Q20,2016,2027
+Q20.2,Double outlet left ventricle,Q20,2016,2027
+Q20.3,Discordant ventriculoarterial connection,Q20,2016,2027
+Q20.4,Double inlet ventricle,Q20,2016,2027
+Q20.5,Discordant atrioventricular connection,Q20,2016,2027
+Q20.6,Isomerism of atrial appendages,Q20,2016,2027
+Q20.8,Other congenital malformations of cardiac chambers and connections,Q20,2016,2027
+Q20.9,"Congenital malformation of cardiac chambers and connections, unspecified",Q20,2016,2027
+Q21,Congenital malformations of cardiac septa,,2016,2027
+Q21.0,Ventricular septal defect,Q21,2016,2027
+Q21.1,Atrial septal defect,Q21,2016,2027
+Q21.10,"Atrial septal defect, unspecified",Q21.1,2023,2027
+Q21.11,Secundum atrial septal defect,Q21.1,2023,2027
+Q21.12,Patent foramen ovale,Q21.1,2023,2027
+Q21.13,Coronary sinus atrial septal defect,Q21.1,2023,2027
+Q21.14,Superior sinus venosus atrial septal defect,Q21.1,2023,2027
+Q21.15,Inferior sinus venosus atrial septal defect,Q21.1,2023,2027
+Q21.16,"Sinus venosus atrial septal defect, unspecified",Q21.1,2023,2027
+Q21.19,Other specified atrial septal defect,Q21.1,2023,2027
+Q21.2,Atrioventricular septal defect,Q21,2016,2027
+Q21.20,"Atrioventricular septal defect, unspecified as to partial or complete",Q21.2,2023,2027
+Q21.21,Partial atrioventricular septal defect,Q21.2,2023,2027
+Q21.22,Transitional atrioventricular septal defect,Q21.2,2023,2027
+Q21.23,Complete atrioventricular septal defect,Q21.2,2023,2027
+Q21.3,Tetralogy of Fallot,Q21,2016,2027
+Q21.4,Aortopulmonary septal defect,Q21,2016,2027
+Q21.8,Other congenital malformations of cardiac septa,Q21,2016,2027
+Q21.9,"Congenital malformation of cardiac septum, unspecified",Q21,2016,2027
+Q22,Congenital malformations of pulmonary and tricuspid valves,,2016,2027
+Q22.0,Pulmonary valve atresia,Q22,2016,2027
+Q22.1,Congenital pulmonary valve stenosis,Q22,2016,2027
+Q22.2,Congenital pulmonary valve insufficiency,Q22,2016,2027
+Q22.3,Other congenital malformations of pulmonary valve,Q22,2016,2027
+Q22.4,Congenital tricuspid stenosis,Q22,2016,2027
+Q22.5,Ebstein's anomaly,Q22,2016,2027
+Q22.6,Hypoplastic right heart syndrome,Q22,2016,2027
+Q22.8,Other congenital malformations of tricuspid valve,Q22,2016,2027
+Q22.9,"Congenital malformation of tricuspid valve, unspecified",Q22,2016,2027
+Q23,Congenital malformations of aortic and mitral valves,,2016,2027
+Q23.0,Congenital stenosis of aortic valve,Q23,2016,2027
+Q23.1,Congenital insufficiency of aortic valve,Q23,2016,2027
+Q23.2,Congenital mitral stenosis,Q23,2016,2027
+Q23.3,Congenital mitral insufficiency,Q23,2016,2027
+Q23.4,Hypoplastic left heart syndrome,Q23,2016,2027
+Q23.8,Other congenital malformations of aortic and mitral valves,Q23,2016,2027
+Q23.81,Bicuspid aortic valve,Q23.8,2025,2027
+Q23.82,Congenital mitral valve cleft leaflet,Q23.8,2025,2027
+Q23.88,Other congenital malformations of aortic and mitral valves,Q23.8,2025,2027
+Q23.9,"Congenital malformation of aortic and mitral valves, unspecified",Q23,2016,2027
+Q24,Other congenital malformations of heart,,2016,2027
+Q24.0,Dextrocardia,Q24,2016,2027
+Q24.1,Levocardia,Q24,2016,2027
+Q24.2,Cor triatriatum,Q24,2016,2027
+Q24.3,Pulmonary infundibular stenosis,Q24,2016,2027
+Q24.4,Congenital subaortic stenosis,Q24,2016,2027
+Q24.5,Malformation of coronary vessels,Q24,2016,2027
+Q24.6,Congenital heart block,Q24,2016,2027
+Q24.8,Other specified congenital malformations of heart,Q24,2016,2027
+Q24.9,"Congenital malformation of heart, unspecified",Q24,2016,2027
+Q25,Congenital malformations of great arteries,,2016,2027
+Q25.0,Patent ductus arteriosus,Q25,2016,2027
+Q25.1,Coarctation of aorta,Q25,2016,2027
+Q25.2,Atresia of aorta,Q25,2016,2027
+Q25.21,Interruption of aortic arch,Q25.2,2017,2027
+Q25.29,Other atresia of aorta,Q25.2,2017,2027
+Q25.3,Supravalvular aortic stenosis,Q25,2016,2027
+Q25.4,Other congenital malformations of aorta,Q25,2016,2027
+Q25.40,Congenital malformation of aorta unspecified,Q25.4,2017,2027
+Q25.41,Absence and aplasia of aorta,Q25.4,2017,2027
+Q25.42,Hypoplasia of aorta,Q25.4,2017,2027
+Q25.43,Congenital aneurysm of aorta,Q25.4,2017,2027
+Q25.44,Congenital dilation of aorta,Q25.4,2017,2027
+Q25.45,Double aortic arch,Q25.4,2017,2027
+Q25.46,Tortuous aortic arch,Q25.4,2017,2027
+Q25.47,Right aortic arch,Q25.4,2017,2027
+Q25.48,Anomalous origin of subclavian artery,Q25.4,2017,2027
+Q25.49,Other congenital malformations of aorta,Q25.4,2017,2027
+Q25.5,Atresia of pulmonary artery,Q25,2016,2027
+Q25.6,Stenosis of pulmonary artery,Q25,2016,2027
+Q25.7,Other congenital malformations of pulmonary artery,Q25,2016,2027
+Q25.71,Coarctation of pulmonary artery,Q25.7,2016,2027
+Q25.72,Congenital pulmonary arteriovenous malformation,Q25.7,2016,2027
+Q25.79,Other congenital malformations of pulmonary artery,Q25.7,2016,2027
+Q25.8,Other congenital malformations of other great arteries,Q25,2016,2027
+Q25.9,"Congenital malformation of great arteries, unspecified",Q25,2016,2027
+Q26,Congenital malformations of great veins,,2016,2027
+Q26.0,Congenital stenosis of vena cava,Q26,2016,2027
+Q26.1,Persistent left superior vena cava,Q26,2016,2027
+Q26.2,Total anomalous pulmonary venous connection,Q26,2016,2027
+Q26.3,Partial anomalous pulmonary venous connection,Q26,2016,2027
+Q26.4,"Anomalous pulmonary venous connection, unspecified",Q26,2016,2027
+Q26.5,Anomalous portal venous connection,Q26,2016,2027
+Q26.6,Portal vein-hepatic artery fistula,Q26,2016,2027
+Q26.8,Other congenital malformations of great veins,Q26,2016,2027
+Q26.9,"Congenital malformation of great vein, unspecified",Q26,2016,2027
+Q27,Other congenital malformations of peripheral vascular system,,2016,2027
+Q27.0,Congenital absence and hypoplasia of umbilical artery,Q27,2016,2027
+Q27.1,Congenital renal artery stenosis,Q27,2016,2027
+Q27.2,Other congenital malformations of renal artery,Q27,2016,2027
+Q27.3,Arteriovenous malformation (peripheral),Q27,2016,2027
+Q27.30,"Arteriovenous malformation, site unspecified",Q27.3,2016,2027
+Q27.31,Arteriovenous malformation of vessel of upper limb,Q27.3,2016,2027
+Q27.32,Arteriovenous malformation of vessel of lower limb,Q27.3,2016,2027
+Q27.33,Arteriovenous malformation of digestive system vessel,Q27.3,2016,2027
+Q27.34,Arteriovenous malformation of renal vessel,Q27.3,2016,2027
+Q27.39,"Arteriovenous malformation, other site",Q27.3,2016,2027
+Q27.4,Congenital phlebectasia,Q27,2016,2027
+Q27.8,Other specified congenital malformations of peripheral vascular system,Q27,2016,2027
+Q27.9,"Congenital malformation of peripheral vascular system, unspecified",Q27,2016,2027
+Q28,Other congenital malformations of circulatory system,,2016,2027
+Q28.0,Arteriovenous malformation of precerebral vessels,Q28,2016,2027
+Q28.1,Other malformations of precerebral vessels,Q28,2016,2027
+Q28.2,Arteriovenous malformation of cerebral vessels,Q28,2016,2027
+Q28.3,Other malformations of cerebral vessels,Q28,2016,2027
+Q28.8,Other specified congenital malformations of circulatory system,Q28,2016,2027
+Q28.9,"Congenital malformation of circulatory system, unspecified",Q28,2016,2027
+Q30,Congenital malformations of nose,,2016,2027
+Q30.0,Choanal atresia,Q30,2016,2027
+Q30.1,Agenesis and underdevelopment of nose,Q30,2016,2027
+Q30.2,"Fissured, notched and cleft nose",Q30,2016,2027
+Q30.3,Congenital perforated nasal septum,Q30,2016,2027
+Q30.8,Other congenital malformations of nose,Q30,2016,2027
+Q30.9,"Congenital malformation of nose, unspecified",Q30,2016,2027
+Q31,Congenital malformations of larynx,,2016,2027
+Q31.0,Web of larynx,Q31,2016,2027
+Q31.1,Congenital subglottic stenosis,Q31,2016,2027
+Q31.2,Laryngeal hypoplasia,Q31,2016,2027
+Q31.3,Laryngocele,Q31,2016,2027
+Q31.5,Congenital laryngomalacia,Q31,2016,2027
+Q31.8,Other congenital malformations of larynx,Q31,2016,2027
+Q31.9,"Congenital malformation of larynx, unspecified",Q31,2016,2027
+Q32,Congenital malformations of trachea and bronchus,,2016,2027
+Q32.0,Congenital tracheomalacia,Q32,2016,2027
+Q32.1,Other congenital malformations of trachea,Q32,2016,2027
+Q32.2,Congenital bronchomalacia,Q32,2016,2027
+Q32.3,Congenital stenosis of bronchus,Q32,2016,2027
+Q32.4,Other congenital malformations of bronchus,Q32,2016,2027
+Q33,Congenital malformations of lung,,2016,2027
+Q33.0,Congenital cystic lung,Q33,2016,2027
+Q33.1,Accessory lobe of lung,Q33,2016,2027
+Q33.2,Sequestration of lung,Q33,2016,2027
+Q33.3,Agenesis of lung,Q33,2016,2027
+Q33.4,Congenital bronchiectasis,Q33,2016,2027
+Q33.5,Ectopic tissue in lung,Q33,2016,2027
+Q33.6,Congenital hypoplasia and dysplasia of lung,Q33,2016,2027
+Q33.8,Other congenital malformations of lung,Q33,2016,2027
+Q33.9,"Congenital malformation of lung, unspecified",Q33,2016,2027
+Q34,Other congenital malformations of respiratory system,,2016,2027
+Q34.0,Anomaly of pleura,Q34,2016,2027
+Q34.1,Congenital cyst of mediastinum,Q34,2016,2027
+Q34.8,Other specified congenital malformations of respiratory system,Q34,2016,2027
+Q34.9,"Congenital malformation of respiratory system, unspecified",Q34,2016,2027
+Q35,Cleft palate,,2016,2027
+Q35.1,Cleft hard palate,Q35,2016,2027
+Q35.3,Cleft soft palate,Q35,2016,2027
+Q35.5,Cleft hard palate with cleft soft palate,Q35,2016,2027
+Q35.7,Cleft uvula,Q35,2016,2027
+Q35.9,"Cleft palate, unspecified",Q35,2016,2027
+Q36,Cleft lip,,2016,2027
+Q36.0,"Cleft lip, bilateral",Q36,2016,2027
+Q36.1,"Cleft lip, median",Q36,2016,2027
+Q36.9,"Cleft lip, unilateral",Q36,2016,2027
+Q37,Cleft palate with cleft lip,,2016,2027
+Q37.0,Cleft hard palate with bilateral cleft lip,Q37,2016,2027
+Q37.1,Cleft hard palate with unilateral cleft lip,Q37,2016,2027
+Q37.2,Cleft soft palate with bilateral cleft lip,Q37,2016,2027
+Q37.3,Cleft soft palate with unilateral cleft lip,Q37,2016,2027
+Q37.4,Cleft hard and soft palate with bilateral cleft lip,Q37,2016,2027
+Q37.5,Cleft hard and soft palate with unilateral cleft lip,Q37,2016,2027
+Q37.8,Unspecified cleft palate with bilateral cleft lip,Q37,2016,2027
+Q37.9,Unspecified cleft palate with unilateral cleft lip,Q37,2016,2027
+Q38,"Other congenital malformations of tongue, mouth and pharynx",,2016,2027
+Q38.0,"Congenital malformations of lips, not elsewhere classified",Q38,2016,2027
+Q38.1,Ankyloglossia,Q38,2016,2027
+Q38.2,Macroglossia,Q38,2016,2027
+Q38.3,Other congenital malformations of tongue,Q38,2016,2027
+Q38.4,Congenital malformations of salivary glands and ducts,Q38,2016,2027
+Q38.5,"Congenital malformations of palate, not elsewhere classified",Q38,2016,2027
+Q38.6,Other congenital malformations of mouth,Q38,2016,2027
+Q38.7,Congenital pharyngeal pouch,Q38,2016,2027
+Q38.8,Other congenital malformations of pharynx,Q38,2016,2027
+Q39,Congenital malformations of esophagus,,2016,2027
+Q39.0,Atresia of esophagus without fistula,Q39,2016,2027
+Q39.1,Atresia of esophagus with tracheo-esophageal fistula,Q39,2016,2027
+Q39.2,Congenital tracheo-esophageal fistula without atresia,Q39,2016,2027
+Q39.3,Congenital stenosis and stricture of esophagus,Q39,2016,2027
+Q39.4,Esophageal web,Q39,2016,2027
+Q39.5,Congenital dilatation of esophagus,Q39,2016,2027
+Q39.6,Congenital diverticulum of esophagus,Q39,2016,2027
+Q39.8,Other congenital malformations of esophagus,Q39,2016,2027
+Q39.9,"Congenital malformation of esophagus, unspecified",Q39,2016,2027
+Q40,Other congenital malformations of upper alimentary tract,,2016,2027
+Q40.0,Congenital hypertrophic pyloric stenosis,Q40,2016,2027
+Q40.1,Congenital hiatus hernia,Q40,2016,2027
+Q40.2,Other specified congenital malformations of stomach,Q40,2016,2027
+Q40.3,"Congenital malformation of stomach, unspecified",Q40,2016,2027
+Q40.8,Other specified congenital malformations of upper alimentary tract,Q40,2016,2027
+Q40.9,"Congenital malformation of upper alimentary tract, unspecified",Q40,2016,2027
+Q41,"Congenital absence, atresia and stenosis of small intestine",,2016,2027
+Q41.0,"Congenital absence, atresia and stenosis of duodenum",Q41,2016,2027
+Q41.1,"Congenital absence, atresia and stenosis of jejunum",Q41,2016,2027
+Q41.2,"Congenital absence, atresia and stenosis of ileum",Q41,2016,2027
+Q41.8,"Congenital absence, atresia and stenosis of other specified parts of small intestine",Q41,2016,2027
+Q41.9,"Congenital absence, atresia and stenosis of small intestine, part unspecified",Q41,2016,2027
+Q42,"Congenital absence, atresia and stenosis of large intestine",,2016,2027
+Q42.0,"Congenital absence, atresia and stenosis of rectum with fistula",Q42,2016,2027
+Q42.1,"Congenital absence, atresia and stenosis of rectum without fistula",Q42,2016,2027
+Q42.2,"Congenital absence, atresia and stenosis of anus with fistula",Q42,2016,2027
+Q42.3,"Congenital absence, atresia and stenosis of anus without fistula",Q42,2016,2027
+Q42.8,"Congenital absence, atresia and stenosis of other parts of large intestine",Q42,2016,2027
+Q42.9,"Congenital absence, atresia and stenosis of large intestine, part unspecified",Q42,2016,2027
+Q43,Other congenital malformations of intestine,,2016,2027
+Q43.0,Meckel's diverticulum (displaced) (hypertrophic),Q43,2016,2027
+Q43.1,Hirschsprung's disease,Q43,2016,2027
+Q43.2,Other congenital functional disorders of colon,Q43,2016,2027
+Q43.3,Congenital malformations of intestinal fixation,Q43,2016,2027
+Q43.4,Duplication of intestine,Q43,2016,2027
+Q43.5,Ectopic anus,Q43,2016,2027
+Q43.6,Congenital fistula of rectum and anus,Q43,2016,2027
+Q43.7,Persistent cloaca,Q43,2016,2027
+Q43.8,Other specified congenital malformations of intestine,Q43,2016,2027
+Q43.9,"Congenital malformation of intestine, unspecified",Q43,2016,2027
+Q44,"Congenital malformations of gallbladder, bile ducts and liver",,2016,2027
+Q44.0,"Agenesis, aplasia and hypoplasia of gallbladder",Q44,2016,2027
+Q44.1,Other congenital malformations of gallbladder,Q44,2016,2027
+Q44.2,Atresia of bile ducts,Q44,2016,2027
+Q44.3,Congenital stenosis and stricture of bile ducts,Q44,2016,2027
+Q44.4,Choledochal cyst,Q44,2016,2027
+Q44.5,Other congenital malformations of bile ducts,Q44,2016,2027
+Q44.6,Cystic disease of liver,Q44,2016,2027
+Q44.7,Other congenital malformations of liver,Q44,2016,2027
+Q44.70,"Other congenital malformation of liver, unspecified",Q44.7,2024,2027
+Q44.71,Alagille syndrome,Q44.7,2024,2027
+Q44.79,Other congenital malformations of liver,Q44.7,2024,2027
+Q45,Other congenital malformations of digestive system,,2016,2027
+Q45.0,"Agenesis, aplasia and hypoplasia of pancreas",Q45,2016,2027
+Q45.1,Annular pancreas,Q45,2016,2027
+Q45.2,Congenital pancreatic cyst,Q45,2016,2027
+Q45.3,Other congenital malformations of pancreas and pancreatic duct,Q45,2016,2027
+Q45.8,Other specified congenital malformations of digestive system,Q45,2016,2027
+Q45.9,"Congenital malformation of digestive system, unspecified",Q45,2016,2027
+Q50,"Congenital malformations of ovaries, fallopian tubes and broad ligaments",,2016,2027
+Q50.0,Congenital absence of ovary,Q50,2016,2027
+Q50.01,"Congenital absence of ovary, unilateral",Q50.0,2016,2027
+Q50.02,"Congenital absence of ovary, bilateral",Q50.0,2016,2027
+Q50.1,Developmental ovarian cyst,Q50,2016,2027
+Q50.2,Congenital torsion of ovary,Q50,2016,2027
+Q50.3,Other congenital malformations of ovary,Q50,2016,2027
+Q50.31,Accessory ovary,Q50.3,2016,2027
+Q50.32,Ovarian streak,Q50.3,2016,2027
+Q50.39,Other congenital malformation of ovary,Q50.3,2016,2027
+Q50.4,Embryonic cyst of fallopian tube,Q50,2016,2027
+Q50.5,Embryonic cyst of broad ligament,Q50,2016,2027
+Q50.6,Other congenital malformations of fallopian tube and broad ligament,Q50,2016,2027
+Q51,Congenital malformations of uterus and cervix,,2016,2027
+Q51.0,Agenesis and aplasia of uterus,Q51,2016,2027
+Q51.1,Doubling of uterus with doubling of cervix and vagina,Q51,2016,2027
+Q51.10,Doubling of uterus with doubling of cervix and vagina without obstruction,Q51.1,2016,2027
+Q51.11,Doubling of uterus with doubling of cervix and vagina with obstruction,Q51.1,2016,2027
+Q51.2,Other doubling of uterus,Q51,2016,2027
+Q51.20,"Other doubling of uterus, unspecified",Q51.2,2019,2020
+Q51.21,Complete doubling of uterus,Q51.2,2019,2027
+Q51.22,Partial doubling of uterus,Q51.2,2019,2027
+Q51.28,Other and unspecified doubling of uterus,Q51.2,2019,2027
+Q51.3,Bicornate uterus,Q51,2016,2027
+Q51.4,Unicornate uterus,Q51,2016,2027
+Q51.5,Agenesis and aplasia of cervix,Q51,2016,2027
+Q51.6,Embryonic cyst of cervix,Q51,2016,2027
+Q51.7,Congenital fistulae between uterus and digestive and urinary tracts,Q51,2016,2027
+Q51.8,Other congenital malformations of uterus and cervix,Q51,2016,2027
+Q51.81,Other congenital malformations of uterus,Q51.8,2016,2027
+Q51.810,Arcuate uterus,Q51.81,2016,2027
+Q51.811,Hypoplasia of uterus,Q51.81,2016,2027
+Q51.818,Other congenital malformations of uterus,Q51.81,2016,2027
+Q51.82,Other congenital malformations of cervix,Q51.8,2016,2027
+Q51.820,Cervical duplication,Q51.82,2016,2027
+Q51.821,Hypoplasia of cervix,Q51.82,2016,2027
+Q51.828,Other congenital malformations of cervix,Q51.82,2016,2027
+Q51.9,"Congenital malformation of uterus and cervix, unspecified",Q51,2016,2027
+Q52,Other congenital malformations of female genitalia,,2016,2027
+Q52.0,Congenital absence of vagina,Q52,2016,2027
+Q52.1,Doubling of vagina,Q52,2016,2027
+Q52.10,"Doubling of vagina, unspecified",Q52.1,2016,2027
+Q52.11,Transverse vaginal septum,Q52.1,2016,2027
+Q52.12,Longitudinal vaginal septum,Q52.1,2016,2027
+Q52.120,"Longitudinal vaginal septum, nonobstructing",Q52.12,2017,2027
+Q52.121,"Longitudinal vaginal septum, obstructing, right side",Q52.12,2017,2027
+Q52.122,"Longitudinal vaginal septum, obstructing, left side",Q52.12,2017,2027
+Q52.123,"Longitudinal vaginal septum, microperforate, right side",Q52.12,2017,2027
+Q52.124,"Longitudinal vaginal septum, microperforate, left side",Q52.12,2017,2027
+Q52.129,Other and unspecified longitudinal vaginal septum,Q52.12,2017,2027
+Q52.2,Congenital rectovaginal fistula,Q52,2016,2027
+Q52.3,Imperforate hymen,Q52,2016,2027
+Q52.4,Other congenital malformations of vagina,Q52,2016,2027
+Q52.5,Fusion of labia,Q52,2016,2027
+Q52.6,Congenital malformation of clitoris,Q52,2016,2027
+Q52.7,Other and unspecified congenital malformations of vulva,Q52,2016,2027
+Q52.70,Unspecified congenital malformations of vulva,Q52.7,2016,2027
+Q52.71,Congenital absence of vulva,Q52.7,2016,2027
+Q52.79,Other congenital malformations of vulva,Q52.7,2016,2027
+Q52.8,Other specified congenital malformations of female genitalia,Q52,2016,2027
+Q52.9,"Congenital malformation of female genitalia, unspecified",Q52,2016,2027
+Q53,Undescended and ectopic testicle,,2016,2027
+Q53.0,Ectopic testis,Q53,2016,2027
+Q53.00,"Ectopic testis, unspecified",Q53.0,2016,2027
+Q53.01,"Ectopic testis, unilateral",Q53.0,2016,2027
+Q53.02,"Ectopic testes, bilateral",Q53.0,2016,2027
+Q53.1,"Undescended testicle, unilateral",Q53,2016,2027
+Q53.10,"Unspecified undescended testicle, unilateral",Q53.1,2016,2027
+Q53.11,"Abdominal testis, unilateral",Q53.1,2016,2027
+Q53.111,Unilateral intraabdominal testis,Q53.11,2018,2027
+Q53.112,Unilateral inguinal testis,Q53.11,2018,2027
+Q53.12,"Ectopic perineal testis, unilateral",Q53.1,2016,2027
+Q53.13,Unilateral high scrotal testis,Q53.1,2018,2027
+Q53.2,"Undescended testicle, bilateral",Q53,2016,2027
+Q53.20,"Undescended testicle, unspecified, bilateral",Q53.2,2016,2027
+Q53.21,"Abdominal testis, bilateral",Q53.2,2016,2027
+Q53.211,Bilateral intraabdominal testes,Q53.21,2018,2027
+Q53.212,Bilateral inguinal testes,Q53.21,2018,2027
+Q53.22,"Ectopic perineal testis, bilateral",Q53.2,2016,2027
+Q53.23,Bilateral high scrotal testes,Q53.2,2018,2027
+Q53.9,"Undescended testicle, unspecified",Q53,2016,2027
+Q54,Hypospadias,,2016,2027
+Q54.0,"Hypospadias, balanic",Q54,2016,2027
+Q54.1,"Hypospadias, penile",Q54,2016,2027
+Q54.2,"Hypospadias, penoscrotal",Q54,2016,2027
+Q54.3,"Hypospadias, perineal",Q54,2016,2027
+Q54.4,Congenital chordee,Q54,2016,2027
+Q54.8,Other hypospadias,Q54,2016,2027
+Q54.9,"Hypospadias, unspecified",Q54,2016,2027
+Q55,Other congenital malformations of male genital organs,,2016,2027
+Q55.0,Absence and aplasia of testis,Q55,2016,2027
+Q55.1,Hypoplasia of testis and scrotum,Q55,2016,2027
+Q55.2,Other and unspecified congenital malformations of testis and scrotum,Q55,2016,2027
+Q55.20,Unspecified congenital malformations of testis and scrotum,Q55.2,2016,2027
+Q55.21,Polyorchism,Q55.2,2016,2027
+Q55.22,Retractile testis,Q55.2,2016,2027
+Q55.23,Scrotal transposition,Q55.2,2016,2027
+Q55.29,Other congenital malformations of testis and scrotum,Q55.2,2016,2027
+Q55.3,Atresia of vas deferens,Q55,2016,2027
+Q55.4,"Other congenital malformations of vas deferens, epididymis, seminal vesicles and prostate",Q55,2016,2027
+Q55.5,Congenital absence and aplasia of penis,Q55,2016,2027
+Q55.6,Other congenital malformations of penis,Q55,2016,2027
+Q55.61,Curvature of penis (lateral),Q55.6,2016,2027
+Q55.62,Hypoplasia of penis,Q55.6,2016,2027
+Q55.63,Congenital torsion of penis,Q55.6,2016,2027
+Q55.64,Hidden penis,Q55.6,2016,2027
+Q55.69,Other congenital malformation of penis,Q55.6,2016,2027
+Q55.7,Congenital vasocutaneous fistula,Q55,2016,2027
+Q55.8,Other specified congenital malformations of male genital organs,Q55,2016,2027
+Q55.9,"Congenital malformation of male genital organ, unspecified",Q55,2016,2027
+Q56,Indeterminate sex and pseudohermaphroditism,,2016,2027
+Q56.0,"Hermaphroditism, not elsewhere classified",Q56,2016,2027
+Q56.1,"Male pseudohermaphroditism, not elsewhere classified",Q56,2016,2027
+Q56.2,"Female pseudohermaphroditism, not elsewhere classified",Q56,2016,2027
+Q56.3,"Pseudohermaphroditism, unspecified",Q56,2016,2027
+Q56.4,"Indeterminate sex, unspecified",Q56,2016,2027
+Q60,Renal agenesis and other reduction defects of kidney,,2016,2027
+Q60.0,"Renal agenesis, unilateral",Q60,2016,2027
+Q60.1,"Renal agenesis, bilateral",Q60,2016,2027
+Q60.2,"Renal agenesis, unspecified",Q60,2016,2027
+Q60.3,"Renal hypoplasia, unilateral",Q60,2016,2027
+Q60.4,"Renal hypoplasia, bilateral",Q60,2016,2027
+Q60.5,"Renal hypoplasia, unspecified",Q60,2016,2027
+Q60.6,Potter's syndrome,Q60,2016,2027
+Q61,Cystic kidney disease,,2016,2027
+Q61.0,Congenital renal cyst,Q61,2016,2027
+Q61.00,"Congenital renal cyst, unspecified",Q61.0,2016,2027
+Q61.01,Congenital single renal cyst,Q61.0,2016,2027
+Q61.02,Congenital multiple renal cysts,Q61.0,2016,2027
+Q61.1,"Polycystic kidney, infantile type",Q61,2016,2027
+Q61.11,Cystic dilatation of collecting ducts,Q61.1,2016,2027
+Q61.19,"Other polycystic kidney, infantile type",Q61.1,2016,2027
+Q61.2,"Polycystic kidney, adult type",Q61,2016,2027
+Q61.3,"Polycystic kidney, unspecified",Q61,2016,2027
+Q61.4,Renal dysplasia,Q61,2016,2027
+Q61.5,Medullary cystic kidney,Q61,2016,2027
+Q61.8,Other cystic kidney diseases,Q61,2016,2027
+Q61.9,"Cystic kidney disease, unspecified",Q61,2016,2027
+Q62,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,,2016,2027
+Q62.0,Congenital hydronephrosis,Q62,2016,2027
+Q62.1,Congenital occlusion of ureter,Q62,2016,2027
+Q62.10,"Congenital occlusion of ureter, unspecified",Q62.1,2016,2027
+Q62.11,Congenital occlusion of ureteropelvic junction,Q62.1,2016,2027
+Q62.12,Congenital occlusion of ureterovesical orifice,Q62.1,2016,2027
+Q62.2,Congenital megaureter,Q62,2016,2027
+Q62.3,Other obstructive defects of renal pelvis and ureter,Q62,2016,2027
+Q62.31,"Congenital ureterocele, orthotopic",Q62.3,2016,2027
+Q62.32,Cecoureterocele,Q62.3,2016,2027
+Q62.39,Other obstructive defects of renal pelvis and ureter,Q62.3,2016,2027
+Q62.4,Agenesis of ureter,Q62,2016,2027
+Q62.5,Duplication of ureter,Q62,2016,2027
+Q62.6,Malposition of ureter,Q62,2016,2027
+Q62.60,"Malposition of ureter, unspecified",Q62.6,2016,2027
+Q62.61,Deviation of ureter,Q62.6,2016,2027
+Q62.62,Displacement of ureter,Q62.6,2016,2027
+Q62.63,Anomalous implantation of ureter,Q62.6,2016,2027
+Q62.69,Other malposition of ureter,Q62.6,2016,2027
+Q62.7,Congenital vesico-uretero-renal reflux,Q62,2016,2027
+Q62.8,Other congenital malformations of ureter,Q62,2016,2027
+Q63,Other congenital malformations of kidney,,2016,2027
+Q63.0,Accessory kidney,Q63,2016,2027
+Q63.1,"Lobulated, fused and horseshoe kidney",Q63,2016,2027
+Q63.2,Ectopic kidney,Q63,2016,2027
+Q63.3,Hyperplastic and giant kidney,Q63,2016,2027
+Q63.8,Other specified congenital malformations of kidney,Q63,2016,2027
+Q63.9,"Congenital malformation of kidney, unspecified",Q63,2016,2027
+Q64,Other congenital malformations of urinary system,,2016,2027
+Q64.0,Epispadias,Q64,2016,2027
+Q64.1,Exstrophy of urinary bladder,Q64,2016,2027
+Q64.10,"Exstrophy of urinary bladder, unspecified",Q64.1,2016,2027
+Q64.11,Supravesical fissure of urinary bladder,Q64.1,2016,2027
+Q64.12,Cloacal exstrophy of urinary bladder,Q64.1,2016,2027
+Q64.19,Other exstrophy of urinary bladder,Q64.1,2016,2027
+Q64.2,Congenital posterior urethral valves,Q64,2016,2027
+Q64.3,Other atresia and stenosis of urethra and bladder neck,Q64,2016,2027
+Q64.31,Congenital bladder neck obstruction,Q64.3,2016,2027
+Q64.32,Congenital stricture of urethra,Q64.3,2016,2027
+Q64.33,Congenital stricture of urinary meatus,Q64.3,2016,2027
+Q64.39,Other atresia and stenosis of urethra and bladder neck,Q64.3,2016,2027
+Q64.4,Malformation of urachus,Q64,2016,2027
+Q64.5,Congenital absence of bladder and urethra,Q64,2016,2027
+Q64.6,Congenital diverticulum of bladder,Q64,2016,2027
+Q64.7,Other and unspecified congenital malformations of bladder and urethra,Q64,2016,2027
+Q64.70,Unspecified congenital malformation of bladder and urethra,Q64.7,2016,2027
+Q64.71,Congenital prolapse of urethra,Q64.7,2016,2027
+Q64.72,Congenital prolapse of urinary meatus,Q64.7,2016,2027
+Q64.73,Congenital urethrorectal fistula,Q64.7,2016,2027
+Q64.74,Double urethra,Q64.7,2016,2027
+Q64.75,Double urinary meatus,Q64.7,2016,2027
+Q64.79,Other congenital malformations of bladder and urethra,Q64.7,2016,2027
+Q64.8,Other specified congenital malformations of urinary system,Q64,2016,2027
+Q64.9,"Congenital malformation of urinary system, unspecified",Q64,2016,2027
+Q65,Congenital deformities of hip,,2016,2027
+Q65.0,"Congenital dislocation of hip, unilateral",Q65,2016,2027
+Q65.00,"Congenital dislocation of unspecified hip, unilateral",Q65.0,2016,2027
+Q65.01,"Congenital dislocation of right hip, unilateral",Q65.0,2016,2027
+Q65.02,"Congenital dislocation of left hip, unilateral",Q65.0,2016,2027
+Q65.1,"Congenital dislocation of hip, bilateral",Q65,2016,2027
+Q65.2,"Congenital dislocation of hip, unspecified",Q65,2016,2027
+Q65.3,"Congenital partial dislocation of hip, unilateral",Q65,2016,2027
+Q65.30,"Congenital partial dislocation of unspecified hip, unilateral",Q65.3,2016,2027
+Q65.31,"Congenital partial dislocation of right hip, unilateral",Q65.3,2016,2027
+Q65.32,"Congenital partial dislocation of left hip, unilateral",Q65.3,2016,2027
+Q65.4,"Congenital partial dislocation of hip, bilateral",Q65,2016,2027
+Q65.5,"Congenital partial dislocation of hip, unspecified",Q65,2016,2027
+Q65.6,Congenital unstable hip,Q65,2016,2027
+Q65.8,Other congenital deformities of hip,Q65,2016,2027
+Q65.81,Congenital coxa valga,Q65.8,2016,2027
+Q65.82,Congenital coxa vara,Q65.8,2016,2027
+Q65.89,Other specified congenital deformities of hip,Q65.8,2016,2027
+Q65.9,"Congenital deformity of hip, unspecified",Q65,2016,2027
+Q66,Congenital deformities of feet,,2016,2027
+Q66.0,Congenital talipes equinovarus,Q66,2016,2027
+Q66.00,"Congenital talipes equinovarus, unspecified foot",Q66.0,2020,2027
+Q66.01,"Congenital talipes equinovarus, right foot",Q66.0,2020,2027
+Q66.02,"Congenital talipes equinovarus, left foot",Q66.0,2020,2027
+Q66.1,Congenital talipes calcaneovarus,Q66,2016,2027
+Q66.10,"Congenital talipes calcaneovarus, unspecified foot",Q66.1,2020,2027
+Q66.11,"Congenital talipes calcaneovarus, right foot",Q66.1,2020,2027
+Q66.12,"Congenital talipes calcaneovarus, left foot",Q66.1,2020,2027
+Q66.2,Congenital metatarsus (primus) varus,Q66,2016,2027
+Q66.21,Congenital metatarsus primus varus,Q66.2,2017,2027
+Q66.211,"Congenital metatarsus primus varus, right foot",Q66.21,2020,2027
+Q66.212,"Congenital metatarsus primus varus, left foot",Q66.21,2020,2027
+Q66.219,"Congenital metatarsus primus varus, unspecified foot",Q66.21,2020,2027
+Q66.22,Congenital metatarsus adductus,Q66.2,2017,2027
+Q66.221,"Congenital metatarsus adductus, right foot",Q66.22,2020,2027
+Q66.222,"Congenital metatarsus adductus, left foot",Q66.22,2020,2027
+Q66.229,"Congenital metatarsus adductus, unspecified foot",Q66.22,2020,2027
+Q66.3,Other congenital varus deformities of feet,Q66,2016,2027
+Q66.30,"Other congenital varus deformities of feet, unspecified foot",Q66.3,2020,2027
+Q66.31,"Other congenital varus deformities of feet, right foot",Q66.3,2020,2027
+Q66.32,"Other congenital varus deformities of feet, left foot",Q66.3,2020,2027
+Q66.4,Congenital talipes calcaneovalgus,Q66,2016,2027
+Q66.40,"Congenital talipes calcaneovalgus, unspecified foot",Q66.4,2020,2027
+Q66.41,"Congenital talipes calcaneovalgus, right foot",Q66.4,2020,2027
+Q66.42,"Congenital talipes calcaneovalgus, left foot",Q66.4,2020,2027
+Q66.5,Congenital pes planus,Q66,2016,2027
+Q66.50,"Congenital pes planus, unspecified foot",Q66.5,2016,2027
+Q66.51,"Congenital pes planus, right foot",Q66.5,2016,2027
+Q66.52,"Congenital pes planus, left foot",Q66.5,2016,2027
+Q66.6,Other congenital valgus deformities of feet,Q66,2016,2027
+Q66.7,Congenital pes cavus,Q66,2016,2027
+Q66.70,"Congenital pes cavus, unspecified foot",Q66.7,2020,2027
+Q66.71,"Congenital pes cavus, right foot",Q66.7,2020,2027
+Q66.72,"Congenital pes cavus, left foot",Q66.7,2020,2027
+Q66.8,Other congenital deformities of feet,Q66,2016,2027
+Q66.80,"Congenital vertical talus deformity, unspecified foot",Q66.8,2016,2027
+Q66.81,"Congenital vertical talus deformity, right foot",Q66.8,2016,2027
+Q66.82,"Congenital vertical talus deformity, left foot",Q66.8,2016,2027
+Q66.89,Other specified congenital deformities of feet,Q66.8,2016,2027
+Q66.9,"Congenital deformity of feet, unspecified",Q66,2016,2027
+Q66.90,"Congenital deformity of feet, unspecified, unspecified foot",Q66.9,2020,2027
+Q66.91,"Congenital deformity of feet, unspecified, right foot",Q66.9,2020,2027
+Q66.92,"Congenital deformity of feet, unspecified, left foot",Q66.9,2020,2027
+Q67,"Congenital musculoskeletal deformities of head, face, spine and chest",,2016,2027
+Q67.0,Congenital facial asymmetry,Q67,2016,2027
+Q67.1,Congenital compression facies,Q67,2016,2027
+Q67.2,Dolichocephaly,Q67,2016,2027
+Q67.3,Plagiocephaly,Q67,2016,2027
+Q67.4,"Other congenital deformities of skull, face and jaw",Q67,2016,2027
+Q67.5,Congenital deformity of spine,Q67,2016,2027
+Q67.6,Pectus excavatum,Q67,2016,2027
+Q67.7,Pectus carinatum,Q67,2016,2027
+Q67.8,Other congenital deformities of chest,Q67,2016,2027
+Q68,Other congenital musculoskeletal deformities,,2016,2027
+Q68.0,Congenital deformity of sternocleidomastoid muscle,Q68,2016,2027
+Q68.1,Congenital deformity of finger(s) and hand,Q68,2016,2027
+Q68.2,Congenital deformity of knee,Q68,2016,2027
+Q68.3,Congenital bowing of femur,Q68,2016,2027
+Q68.4,Congenital bowing of tibia and fibula,Q68,2016,2027
+Q68.5,"Congenital bowing of long bones of leg, unspecified",Q68,2016,2027
+Q68.6,Discoid meniscus,Q68,2016,2027
+Q68.8,Other specified congenital musculoskeletal deformities,Q68,2016,2027
+Q69,Polydactyly,,2016,2027
+Q69.0,Accessory finger(s),Q69,2016,2027
+Q69.1,Accessory thumb(s),Q69,2016,2027
+Q69.2,Accessory toe(s),Q69,2016,2027
+Q69.9,"Polydactyly, unspecified",Q69,2016,2027
+Q70,Syndactyly,,2016,2027
+Q70.0,Fused fingers,Q70,2016,2027
+Q70.00,"Fused fingers, unspecified hand",Q70.0,2016,2027
+Q70.01,"Fused fingers, right hand",Q70.0,2016,2027
+Q70.02,"Fused fingers, left hand",Q70.0,2016,2027
+Q70.03,"Fused fingers, bilateral",Q70.0,2016,2027
+Q70.1,Webbed fingers,Q70,2016,2027
+Q70.10,"Webbed fingers, unspecified hand",Q70.1,2016,2027
+Q70.11,"Webbed fingers, right hand",Q70.1,2016,2027
+Q70.12,"Webbed fingers, left hand",Q70.1,2016,2027
+Q70.13,"Webbed fingers, bilateral",Q70.1,2016,2027
+Q70.2,Fused toes,Q70,2016,2027
+Q70.20,"Fused toes, unspecified foot",Q70.2,2016,2027
+Q70.21,"Fused toes, right foot",Q70.2,2016,2027
+Q70.22,"Fused toes, left foot",Q70.2,2016,2027
+Q70.23,"Fused toes, bilateral",Q70.2,2016,2027
+Q70.3,Webbed toes,Q70,2016,2027
+Q70.30,"Webbed toes, unspecified foot",Q70.3,2016,2027
+Q70.31,"Webbed toes, right foot",Q70.3,2016,2027
+Q70.32,"Webbed toes, left foot",Q70.3,2016,2027
+Q70.33,"Webbed toes, bilateral",Q70.3,2016,2027
+Q70.4,"Polysyndactyly, unspecified",Q70,2016,2027
+Q70.9,"Syndactyly, unspecified",Q70,2016,2027
+Q71,Reduction defects of upper limb,,2016,2027
+Q71.0,Congenital complete absence of upper limb,Q71,2016,2027
+Q71.00,Congenital complete absence of unspecified upper limb,Q71.0,2016,2027
+Q71.01,Congenital complete absence of right upper limb,Q71.0,2016,2027
+Q71.02,Congenital complete absence of left upper limb,Q71.0,2016,2027
+Q71.03,"Congenital complete absence of upper limb, bilateral",Q71.0,2016,2027
+Q71.1,Congenital absence of upper arm and forearm with hand present,Q71,2016,2027
+Q71.10,Congenital absence of unspecified upper arm and forearm with hand present,Q71.1,2016,2027
+Q71.11,Congenital absence of right upper arm and forearm with hand present,Q71.1,2016,2027
+Q71.12,Congenital absence of left upper arm and forearm with hand present,Q71.1,2016,2027
+Q71.13,"Congenital absence of upper arm and forearm with hand present, bilateral",Q71.1,2016,2027
+Q71.2,Congenital absence of both forearm and hand,Q71,2016,2027
+Q71.20,"Congenital absence of both forearm and hand, unspecified upper limb",Q71.2,2016,2027
+Q71.21,"Congenital absence of both forearm and hand, right upper limb",Q71.2,2016,2027
+Q71.22,"Congenital absence of both forearm and hand, left upper limb",Q71.2,2016,2027
+Q71.23,"Congenital absence of both forearm and hand, bilateral",Q71.2,2016,2027
+Q71.3,Congenital absence of hand and finger,Q71,2016,2027
+Q71.30,Congenital absence of unspecified hand and finger,Q71.3,2016,2027
+Q71.31,Congenital absence of right hand and finger,Q71.3,2016,2027
+Q71.32,Congenital absence of left hand and finger,Q71.3,2016,2027
+Q71.33,"Congenital absence of hand and finger, bilateral",Q71.3,2016,2027
+Q71.4,Longitudinal reduction defect of radius,Q71,2016,2027
+Q71.40,Longitudinal reduction defect of unspecified radius,Q71.4,2016,2027
+Q71.41,Longitudinal reduction defect of right radius,Q71.4,2016,2027
+Q71.42,Longitudinal reduction defect of left radius,Q71.4,2016,2027
+Q71.43,"Longitudinal reduction defect of radius, bilateral",Q71.4,2016,2027
+Q71.5,Longitudinal reduction defect of ulna,Q71,2016,2027
+Q71.50,Longitudinal reduction defect of unspecified ulna,Q71.5,2016,2027
+Q71.51,Longitudinal reduction defect of right ulna,Q71.5,2016,2027
+Q71.52,Longitudinal reduction defect of left ulna,Q71.5,2016,2027
+Q71.53,"Longitudinal reduction defect of ulna, bilateral",Q71.5,2016,2027
+Q71.6,Lobster-claw hand,Q71,2016,2027
+Q71.60,"Lobster-claw hand, unspecified hand",Q71.6,2016,2027
+Q71.61,Lobster-claw right hand,Q71.6,2016,2027
+Q71.62,Lobster-claw left hand,Q71.6,2016,2027
+Q71.63,"Lobster-claw hand, bilateral",Q71.6,2016,2027
+Q71.8,Other reduction defects of upper limb,Q71,2016,2027
+Q71.81,Congenital shortening of upper limb,Q71.8,2016,2027
+Q71.811,Congenital shortening of right upper limb,Q71.81,2016,2027
+Q71.812,Congenital shortening of left upper limb,Q71.81,2016,2027
+Q71.813,"Congenital shortening of upper limb, bilateral",Q71.81,2016,2027
+Q71.819,Congenital shortening of unspecified upper limb,Q71.81,2016,2027
+Q71.89,Other reduction defects of upper limb,Q71.8,2016,2027
+Q71.891,Other reduction defects of right upper limb,Q71.89,2016,2027
+Q71.892,Other reduction defects of left upper limb,Q71.89,2016,2027
+Q71.893,"Other reduction defects of upper limb, bilateral",Q71.89,2016,2027
+Q71.899,Other reduction defects of unspecified upper limb,Q71.89,2016,2027
+Q71.9,Unspecified reduction defect of upper limb,Q71,2016,2027
+Q71.90,Unspecified reduction defect of unspecified upper limb,Q71.9,2016,2027
+Q71.91,Unspecified reduction defect of right upper limb,Q71.9,2016,2027
+Q71.92,Unspecified reduction defect of left upper limb,Q71.9,2016,2027
+Q71.93,"Unspecified reduction defect of upper limb, bilateral",Q71.9,2016,2027
+Q72,Reduction defects of lower limb,,2016,2027
+Q72.0,Congenital complete absence of lower limb,Q72,2016,2027
+Q72.00,Congenital complete absence of unspecified lower limb,Q72.0,2016,2027
+Q72.01,Congenital complete absence of right lower limb,Q72.0,2016,2027
+Q72.02,Congenital complete absence of left lower limb,Q72.0,2016,2027
+Q72.03,"Congenital complete absence of lower limb, bilateral",Q72.0,2016,2027
+Q72.1,Congenital absence of thigh and lower leg with foot present,Q72,2016,2027
+Q72.10,Congenital absence of unspecified thigh and lower leg with foot present,Q72.1,2016,2027
+Q72.11,Congenital absence of right thigh and lower leg with foot present,Q72.1,2016,2027
+Q72.12,Congenital absence of left thigh and lower leg with foot present,Q72.1,2016,2027
+Q72.13,"Congenital absence of thigh and lower leg with foot present, bilateral",Q72.1,2016,2027
+Q72.2,Congenital absence of both lower leg and foot,Q72,2016,2027
+Q72.20,"Congenital absence of both lower leg and foot, unspecified lower limb",Q72.2,2016,2027
+Q72.21,"Congenital absence of both lower leg and foot, right lower limb",Q72.2,2016,2027
+Q72.22,"Congenital absence of both lower leg and foot, left lower limb",Q72.2,2016,2027
+Q72.23,"Congenital absence of both lower leg and foot, bilateral",Q72.2,2016,2027
+Q72.3,Congenital absence of foot and toe(s),Q72,2016,2027
+Q72.30,Congenital absence of unspecified foot and toe(s),Q72.3,2016,2027
+Q72.31,Congenital absence of right foot and toe(s),Q72.3,2016,2027
+Q72.32,Congenital absence of left foot and toe(s),Q72.3,2016,2027
+Q72.33,"Congenital absence of foot and toe(s), bilateral",Q72.3,2016,2027
+Q72.4,Longitudinal reduction defect of femur,Q72,2016,2027
+Q72.40,Longitudinal reduction defect of unspecified femur,Q72.4,2016,2027
+Q72.41,Longitudinal reduction defect of right femur,Q72.4,2016,2027
+Q72.42,Longitudinal reduction defect of left femur,Q72.4,2016,2027
+Q72.43,"Longitudinal reduction defect of femur, bilateral",Q72.4,2016,2027
+Q72.5,Longitudinal reduction defect of tibia,Q72,2016,2027
+Q72.50,Longitudinal reduction defect of unspecified tibia,Q72.5,2016,2027
+Q72.51,Longitudinal reduction defect of right tibia,Q72.5,2016,2027
+Q72.52,Longitudinal reduction defect of left tibia,Q72.5,2016,2027
+Q72.53,"Longitudinal reduction defect of tibia, bilateral",Q72.5,2016,2027
+Q72.6,Longitudinal reduction defect of fibula,Q72,2016,2027
+Q72.60,Longitudinal reduction defect of unspecified fibula,Q72.6,2016,2027
+Q72.61,Longitudinal reduction defect of right fibula,Q72.6,2016,2027
+Q72.62,Longitudinal reduction defect of left fibula,Q72.6,2016,2027
+Q72.63,"Longitudinal reduction defect of fibula, bilateral",Q72.6,2016,2027
+Q72.7,Split foot,Q72,2016,2027
+Q72.70,"Split foot, unspecified lower limb",Q72.7,2016,2027
+Q72.71,"Split foot, right lower limb",Q72.7,2016,2027
+Q72.72,"Split foot, left lower limb",Q72.7,2016,2027
+Q72.73,"Split foot, bilateral",Q72.7,2016,2027
+Q72.8,Other reduction defects of lower limb,Q72,2016,2027
+Q72.81,Congenital shortening of lower limb,Q72.8,2016,2027
+Q72.811,Congenital shortening of right lower limb,Q72.81,2016,2027
+Q72.812,Congenital shortening of left lower limb,Q72.81,2016,2027
+Q72.813,"Congenital shortening of lower limb, bilateral",Q72.81,2016,2027
+Q72.819,Congenital shortening of unspecified lower limb,Q72.81,2016,2027
+Q72.89,Other reduction defects of lower limb,Q72.8,2016,2027
+Q72.891,Other reduction defects of right lower limb,Q72.89,2016,2027
+Q72.892,Other reduction defects of left lower limb,Q72.89,2016,2027
+Q72.893,"Other reduction defects of lower limb, bilateral",Q72.89,2016,2027
+Q72.899,Other reduction defects of unspecified lower limb,Q72.89,2016,2027
+Q72.9,Unspecified reduction defect of lower limb,Q72,2016,2027
+Q72.90,Unspecified reduction defect of unspecified lower limb,Q72.9,2016,2027
+Q72.91,Unspecified reduction defect of right lower limb,Q72.9,2016,2027
+Q72.92,Unspecified reduction defect of left lower limb,Q72.9,2016,2027
+Q72.93,"Unspecified reduction defect of lower limb, bilateral",Q72.9,2016,2027
+Q73,Reduction defects of unspecified limb,,2016,2027
+Q73.0,Congenital absence of unspecified limb(s),Q73,2016,2027
+Q73.1,"Phocomelia, unspecified limb(s)",Q73,2016,2027
+Q73.8,Other reduction defects of unspecified limb(s),Q73,2016,2027
+Q74,Other congenital malformations of limb(s),,2016,2027
+Q74.0,"Other congenital malformations of upper limb(s), including shoulder girdle",Q74,2016,2027
+Q74.1,Congenital malformation of knee,Q74,2016,2027
+Q74.2,"Other congenital malformations of lower limb(s), including pelvic girdle",Q74,2016,2027
+Q74.3,Arthrogryposis multiplex congenita,Q74,2016,2027
+Q74.8,Other specified congenital malformations of limb(s),Q74,2016,2027
+Q74.9,Unspecified congenital malformation of limb(s),Q74,2016,2027
+Q75,Other congenital malformations of skull and face bones,,2016,2027
+Q75.0,Craniosynostosis,Q75,2016,2027
+Q75.00,"Craniosynostosis, unspecified",Q75.0,2024,2027
+Q75.001,"Craniosynostosis, unspecified type, unilateral",Q75.00,2024,2027
+Q75.002,"Craniosynostosis, unspecified type, bilateral",Q75.00,2024,2027
+Q75.009,"Craniosynostosis, unspecified",Q75.00,2024,2027
+Q75.01,Sagittal craniosynostosis,Q75.0,2024,2027
+Q75.02,Coronal craniosynostosis,Q75.0,2024,2027
+Q75.021,"Coronal craniosynostosis, unilateral",Q75.02,2024,2027
+Q75.022,"Coronal craniosynostosis, bilateral",Q75.02,2024,2027
+Q75.029,"Coronal craniosynostosis, unspecified",Q75.02,2024,2027
+Q75.03,Metopic craniosynostosis,Q75.0,2024,2027
+Q75.04,Lambdoid craniosynostosis,Q75.0,2024,2027
+Q75.041,"Lambdoid craniosynostosis, unilateral",Q75.04,2024,2027
+Q75.042,"Lambdoid craniosynostosis, bilateral",Q75.04,2024,2027
+Q75.049,"Lambdoid craniosynostosis, unspecified",Q75.04,2024,2027
+Q75.05,Multi-suture craniosynostosis,Q75.0,2024,2027
+Q75.051,Cloverleaf skull,Q75.05,2024,2027
+Q75.052,Pansynostosis,Q75.05,2024,2027
+Q75.058,Other multi-suture craniosynostosis,Q75.05,2024,2027
+Q75.08,Other single-suture craniosynostosis,Q75.0,2024,2027
+Q75.1,Craniofacial dysostosis,Q75,2016,2027
+Q75.2,Hypertelorism,Q75,2016,2027
+Q75.3,Macrocephaly,Q75,2016,2027
+Q75.4,Mandibulofacial dysostosis,Q75,2016,2027
+Q75.5,Oculomandibular dysostosis,Q75,2016,2027
+Q75.8,Other specified congenital malformations of skull and face bones,Q75,2016,2027
+Q75.9,"Congenital malformation of skull and face bones, unspecified",Q75,2016,2027
+Q76,Congenital malformations of spine and bony thorax,,2016,2027
+Q76.0,Spina bifida occulta,Q76,2016,2027
+Q76.1,Klippel-Feil syndrome,Q76,2016,2027
+Q76.2,Congenital spondylolisthesis,Q76,2016,2027
+Q76.3,Congenital scoliosis due to congenital bony malformation,Q76,2016,2027
+Q76.4,"Other congenital malformations of spine, not associated with scoliosis",Q76,2016,2027
+Q76.41,Congenital kyphosis,Q76.4,2016,2027
+Q76.411,"Congenital kyphosis, occipito-atlanto-axial region",Q76.41,2016,2027
+Q76.412,"Congenital kyphosis, cervical region",Q76.41,2016,2027
+Q76.413,"Congenital kyphosis, cervicothoracic region",Q76.41,2016,2027
+Q76.414,"Congenital kyphosis, thoracic region",Q76.41,2016,2027
+Q76.415,"Congenital kyphosis, thoracolumbar region",Q76.41,2016,2027
+Q76.419,"Congenital kyphosis, unspecified region",Q76.41,2016,2027
+Q76.42,Congenital lordosis,Q76.4,2016,2027
+Q76.425,"Congenital lordosis, thoracolumbar region",Q76.42,2016,2027
+Q76.426,"Congenital lordosis, lumbar region",Q76.42,2016,2027
+Q76.427,"Congenital lordosis, lumbosacral region",Q76.42,2016,2027
+Q76.428,"Congenital lordosis, sacral and sacrococcygeal region",Q76.42,2016,2027
+Q76.429,"Congenital lordosis, unspecified region",Q76.42,2016,2027
+Q76.49,"Other congenital malformations of spine, not associated with scoliosis",Q76.4,2016,2027
+Q76.5,Cervical rib,Q76,2016,2027
+Q76.6,Other congenital malformations of ribs,Q76,2016,2027
+Q76.7,Congenital malformation of sternum,Q76,2016,2027
+Q76.8,Other congenital malformations of bony thorax,Q76,2016,2027
+Q76.9,"Congenital malformation of bony thorax, unspecified",Q76,2016,2027
+Q77,Osteochondrodysplasia with defects of growth of tubular bones and spine,,2016,2027
+Q77.0,Achondrogenesis,Q77,2016,2027
+Q77.1,Thanatophoric short stature,Q77,2016,2027
+Q77.2,Short rib syndrome,Q77,2016,2027
+Q77.3,Chondrodysplasia punctata,Q77,2016,2027
+Q77.4,Achondroplasia,Q77,2016,2027
+Q77.5,Diastrophic dysplasia,Q77,2016,2027
+Q77.6,Chondroectodermal dysplasia,Q77,2016,2027
+Q77.7,Spondyloepiphyseal dysplasia,Q77,2016,2027
+Q77.8,Other osteochondrodysplasia with defects of growth of tubular bones and spine,Q77,2016,2027
+Q77.9,"Osteochondrodysplasia with defects of growth of tubular bones and spine, unspecified",Q77,2016,2027
+Q78,Other osteochondrodysplasias,,2016,2027
+Q78.0,Osteogenesis imperfecta,Q78,2016,2027
+Q78.1,Polyostotic fibrous dysplasia,Q78,2016,2027
+Q78.2,Osteopetrosis,Q78,2016,2027
+Q78.3,Progressive diaphyseal dysplasia,Q78,2016,2027
+Q78.4,Enchondromatosis,Q78,2016,2027
+Q78.5,Metaphyseal dysplasia,Q78,2016,2027
+Q78.6,Multiple congenital exostoses,Q78,2016,2027
+Q78.8,Other specified osteochondrodysplasias,Q78,2016,2027
+Q78.9,"Osteochondrodysplasia, unspecified",Q78,2016,2027
+Q79,"Congenital malformations of musculoskeletal system, not elsewhere classified",,2016,2027
+Q79.0,Congenital diaphragmatic hernia,Q79,2016,2027
+Q79.1,Other congenital malformations of diaphragm,Q79,2016,2027
+Q79.2,Exomphalos,Q79,2016,2027
+Q79.3,Gastroschisis,Q79,2016,2027
+Q79.4,Prune belly syndrome,Q79,2016,2027
+Q79.5,Other congenital malformations of abdominal wall,Q79,2016,2027
+Q79.51,Congenital hernia of bladder,Q79.5,2016,2027
+Q79.59,Other congenital malformations of abdominal wall,Q79.5,2016,2027
+Q79.6,Ehlers-Danlos syndromes,Q79,2016,2027
+Q79.60,"Ehlers-Danlos syndrome, unspecified",Q79.6,2020,2027
+Q79.61,Classical Ehlers-Danlos syndrome,Q79.6,2020,2027
+Q79.62,Hypermobile Ehlers-Danlos syndrome,Q79.6,2020,2027
+Q79.63,Vascular Ehlers-Danlos syndrome,Q79.6,2020,2027
+Q79.69,Other Ehlers-Danlos syndromes,Q79.6,2020,2027
+Q79.8,Other congenital malformations of musculoskeletal system,Q79,2016,2027
+Q79.9,"Congenital malformation of musculoskeletal system, unspecified",Q79,2016,2027
+Q80,Congenital ichthyosis,,2016,2027
+Q80.0,Ichthyosis vulgaris,Q80,2016,2027
+Q80.1,X-linked ichthyosis,Q80,2016,2027
+Q80.2,Lamellar ichthyosis,Q80,2016,2027
+Q80.3,Congenital bullous ichthyosiform erythroderma,Q80,2016,2027
+Q80.4,Harlequin fetus,Q80,2016,2027
+Q80.8,Other congenital ichthyosis,Q80,2016,2027
+Q80.9,"Congenital ichthyosis, unspecified",Q80,2016,2027
+Q81,Epidermolysis bullosa,,2016,2027
+Q81.0,Epidermolysis bullosa simplex,Q81,2016,2027
+Q81.1,Epidermolysis bullosa letalis,Q81,2016,2027
+Q81.2,Epidermolysis bullosa dystrophica,Q81,2016,2027
+Q81.8,Other epidermolysis bullosa,Q81,2016,2027
+Q81.9,"Epidermolysis bullosa, unspecified",Q81,2016,2027
+Q82,Other congenital malformations of skin,,2016,2027
+Q82.0,Hereditary lymphedema,Q82,2016,2027
+Q82.1,Xeroderma pigmentosum,Q82,2016,2027
+Q82.2,Congenital cutaneous mastocytosis,Q82,2016,2027
+Q82.3,Incontinentia pigmenti,Q82,2016,2027
+Q82.4,Ectodermal dysplasia (anhidrotic),Q82,2016,2027
+Q82.5,Congenital non-neoplastic nevus,Q82,2016,2027
+Q82.6,Congenital sacral dimple,Q82,2017,2027
+Q82.8,Other specified congenital malformations of skin,Q82,2016,2027
+Q82.9,"Congenital malformation of skin, unspecified",Q82,2016,2027
+Q83,Congenital malformations of breast,,2016,2027
+Q83.0,Congenital absence of breast with absent nipple,Q83,2016,2027
+Q83.1,Accessory breast,Q83,2016,2027
+Q83.2,Absent nipple,Q83,2016,2027
+Q83.3,Accessory nipple,Q83,2016,2027
+Q83.8,Other congenital malformations of breast,Q83,2016,2027
+Q83.9,"Congenital malformation of breast, unspecified",Q83,2016,2027
+Q84,Other congenital malformations of integument,,2016,2027
+Q84.0,Congenital alopecia,Q84,2016,2027
+Q84.1,"Congenital morphological disturbances of hair, not elsewhere classified",Q84,2016,2027
+Q84.2,Other congenital malformations of hair,Q84,2016,2027
+Q84.3,Anonychia,Q84,2016,2027
+Q84.4,Congenital leukonychia,Q84,2016,2027
+Q84.5,Enlarged and hypertrophic nails,Q84,2016,2027
+Q84.6,Other congenital malformations of nails,Q84,2016,2027
+Q84.8,Other specified congenital malformations of integument,Q84,2016,2027
+Q84.9,"Congenital malformation of integument, unspecified",Q84,2016,2027
+Q85,"Phakomatoses, not elsewhere classified",,2016,2027
+Q85.0,Neurofibromatosis (nonmalignant),Q85,2016,2027
+Q85.00,"Neurofibromatosis, unspecified",Q85.0,2016,2027
+Q85.01,"Neurofibromatosis, type 1",Q85.0,2016,2027
+Q85.02,"Neurofibromatosis, type 2",Q85.0,2016,2027
+Q85.03,Schwannomatosis,Q85.0,2016,2027
+Q85.09,Other neurofibromatosis,Q85.0,2016,2027
+Q85.1,Tuberous sclerosis,Q85,2016,2027
+Q85.8,"Other phakomatoses, not elsewhere classified",Q85,2016,2027
+Q85.81,PTEN hamartoma tumor syndrome,Q85.8,2023,2027
+Q85.82,Other Cowden syndrome,Q85.8,2023,2027
+Q85.83,Von Hippel-Lindau syndrome,Q85.8,2023,2027
+Q85.89,"Other phakomatoses, not elsewhere classified",Q85.8,2023,2027
+Q85.9,"Phakomatosis, unspecified",Q85,2016,2027
+Q86,"Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",,2016,2027
+Q86.0,Fetal alcohol syndrome (dysmorphic),Q86,2016,2027
+Q86.1,Fetal hydantoin syndrome,Q86,2016,2027
+Q86.2,Dysmorphism due to warfarin,Q86,2016,2027
+Q86.8,Other congenital malformation syndromes due to known exogenous causes,Q86,2016,2027
+Q87,Other specified congenital malformation syndromes affecting multiple systems,,2016,2027
+Q87.0,Congenital malformation syndromes predominantly affecting facial appearance,Q87,2016,2027
+Q87.1,Congenital malformation syndromes predominantly associated with short stature,Q87,2016,2027
+Q87.11,Prader-Willi syndrome,Q87.1,2020,2027
+Q87.19,Other congenital malformation syndromes predominantly associated with short stature,Q87.1,2020,2027
+Q87.2,Congenital malformation syndromes predominantly involving limbs,Q87,2016,2027
+Q87.3,Congenital malformation syndromes involving early overgrowth,Q87,2016,2027
+Q87.4,Marfan syndrome,Q87,2016,2027
+Q87.40,"Marfan syndrome, unspecified",Q87.4,2016,2027
+Q87.41,Marfan syndrome with cardiovascular manifestations,Q87.4,2016,2027
+Q87.410,Marfan syndrome with aortic dilation,Q87.41,2016,2027
+Q87.418,Marfan syndrome with other cardiovascular manifestations,Q87.41,2016,2027
+Q87.42,Marfan syndrome with ocular manifestations,Q87.4,2016,2027
+Q87.43,Marfan syndrome with skeletal manifestation,Q87.4,2016,2027
+Q87.5,Other congenital malformation syndromes with other skeletal changes,Q87,2016,2027
+Q87.8,"Other specified congenital malformation syndromes, not elsewhere classified",Q87,2016,2027
+Q87.81,Alport syndrome,Q87.8,2016,2027
+Q87.82,Arterial tortuosity syndrome,Q87.8,2017,2027
+Q87.83,Bardet-Biedl syndrome,Q87.8,2024,2027
+Q87.84,Laurence-Moon syndrome,Q87.8,2024,2027
+Q87.85,MED13L syndrome,Q87.8,2024,2027
+Q87.86,Kleefstra syndrome,Q87.8,2025,2027
+Q87.87,Hao-Fountain Syndrome,Q87.8,2026,2027
+Q87.88,CTNNB1 syndrome,Q87.8,2026,2027
+Q87.89,"Other specified congenital malformation syndromes, not elsewhere classified",Q87.8,2016,2027
+Q87.A,Loeys-Dietz syndrome,Q87,2027,2027
+Q89,"Other congenital malformations, not elsewhere classified",,2016,2027
+Q89.0,Congenital absence and malformations of spleen,Q89,2016,2027
+Q89.01,Asplenia (congenital),Q89.0,2016,2027
+Q89.09,Congenital malformations of spleen,Q89.0,2016,2027
+Q89.1,Congenital malformations of adrenal gland,Q89,2016,2027
+Q89.2,Congenital malformations of other endocrine glands,Q89,2016,2027
+Q89.3,Situs inversus,Q89,2016,2027
+Q89.4,Conjoined twins,Q89,2016,2027
+Q89.7,"Multiple congenital malformations, not elsewhere classified",Q89,2016,2027
+Q89.8,Other specified congenital malformations,Q89,2016,2027
+Q89.81,Kabuki syndrome,Q89.8,2026,2027
+Q89.89,Other specified congenital malformations,Q89.8,2026,2027
+Q89.9,"Congenital malformation, unspecified",Q89,2016,2027
+Q90,Down syndrome,,2016,2027
+Q90.0,"Trisomy 21, nonmosaicism (meiotic nondisjunction)",Q90,2016,2027
+Q90.1,"Trisomy 21, mosaicism (mitotic nondisjunction)",Q90,2016,2027
+Q90.2,"Trisomy 21, translocation",Q90,2016,2027
+Q90.9,"Down syndrome, unspecified",Q90,2016,2027
+Q91,Trisomy 18 and Trisomy 13,,2016,2027
+Q91.0,"Trisomy 18, nonmosaicism (meiotic nondisjunction)",Q91,2016,2027
+Q91.1,"Trisomy 18, mosaicism (mitotic nondisjunction)",Q91,2016,2027
+Q91.2,"Trisomy 18, translocation",Q91,2016,2027
+Q91.3,"Trisomy 18, unspecified",Q91,2016,2027
+Q91.4,"Trisomy 13, nonmosaicism (meiotic nondisjunction)",Q91,2016,2027
+Q91.5,"Trisomy 13, mosaicism (mitotic nondisjunction)",Q91,2016,2027
+Q91.6,"Trisomy 13, translocation",Q91,2016,2027
+Q91.7,"Trisomy 13, unspecified",Q91,2016,2027
+Q92,"Other trisomies and partial trisomies of the autosomes, not elsewhere classified",,2016,2027
+Q92.0,"Whole chromosome trisomy, nonmosaicism (meiotic nondisjunction)",Q92,2016,2027
+Q92.1,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)",Q92,2016,2027
+Q92.2,Partial trisomy,Q92,2016,2027
+Q92.5,Duplications with other complex rearrangements,Q92,2016,2027
+Q92.6,Marker chromosomes,Q92,2016,2027
+Q92.61,Marker chromosomes in normal individual,Q92.6,2016,2027
+Q92.62,Marker chromosomes in abnormal individual,Q92.6,2016,2027
+Q92.7,Triploidy and polyploidy,Q92,2016,2027
+Q92.8,Other specified trisomies and partial trisomies of autosomes,Q92,2016,2027
+Q92.9,"Trisomy and partial trisomy of autosomes, unspecified",Q92,2016,2027
+Q93,"Monosomies and deletions from the autosomes, not elsewhere classified",,2016,2027
+Q93.0,"Whole chromosome monosomy, nonmosaicism (meiotic nondisjunction)",Q93,2016,2027
+Q93.1,"Whole chromosome monosomy, mosaicism (mitotic nondisjunction)",Q93,2016,2027
+Q93.2,"Chromosome replaced with ring, dicentric or isochromosome",Q93,2016,2027
+Q93.3,Deletion of short arm of chromosome 4,Q93,2016,2027
+Q93.4,Deletion of short arm of chromosome 5,Q93,2016,2027
+Q93.5,Other deletions of part of a chromosome,Q93,2016,2027
+Q93.51,Angelman syndrome,Q93.5,2019,2027
+Q93.52,Phelan-McDermid syndrome,Q93.5,2024,2027
+Q93.59,Other deletions of part of a chromosome,Q93.5,2019,2027
+Q93.7,Deletions with other complex rearrangements,Q93,2016,2027
+Q93.8,Other deletions from the autosomes,Q93,2016,2027
+Q93.81,Velo-cardio-facial syndrome,Q93.8,2016,2027
+Q93.82,Williams syndrome,Q93.8,2019,2027
+Q93.88,Other microdeletions,Q93.8,2016,2027
+Q93.89,Other deletions from the autosomes,Q93.8,2016,2027
+Q93.9,"Deletion from autosomes, unspecified",Q93,2016,2027
+Q95,"Balanced rearrangements and structural markers, not elsewhere classified",,2016,2027
+Q95.0,Balanced translocation and insertion in normal individual,Q95,2016,2027
+Q95.1,Chromosome inversion in normal individual,Q95,2016,2027
+Q95.2,Balanced autosomal rearrangement in abnormal individual,Q95,2016,2027
+Q95.3,Balanced sex/autosomal rearrangement in abnormal individual,Q95,2016,2027
+Q95.5,Individual with autosomal fragile site,Q95,2016,2027
+Q95.8,Other balanced rearrangements and structural markers,Q95,2016,2027
+Q95.9,"Balanced rearrangement and structural marker, unspecified",Q95,2016,2027
+Q96,Turner's syndrome,,2016,2027
+Q96.0,"Karyotype 45, X",Q96,2016,2027
+Q96.1,"Karyotype 46, X iso (Xq)",Q96,2016,2027
+Q96.2,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)",Q96,2016,2027
+Q96.3,"Mosaicism, 45, X/46, XX or XY",Q96,2016,2027
+Q96.4,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome",Q96,2016,2027
+Q96.8,Other variants of Turner's syndrome,Q96,2016,2027
+Q96.9,"Turner's syndrome, unspecified",Q96,2016,2027
+Q97,"Other sex chromosome abnormalities, female phenotype, not elsewhere classified",,2016,2027
+Q97.0,"Karyotype 47, XXX",Q97,2016,2027
+Q97.1,Female with more than three X chromosomes,Q97,2016,2027
+Q97.2,"Mosaicism, lines with various numbers of X chromosomes",Q97,2016,2027
+Q97.3,"Female with 46, XY karyotype",Q97,2016,2027
+Q97.8,"Other specified sex chromosome abnormalities, female phenotype",Q97,2016,2027
+Q97.9,"Sex chromosome abnormality, female phenotype, unspecified",Q97,2016,2027
+Q98,"Other sex chromosome abnormalities, male phenotype, not elsewhere classified",,2016,2027
+Q98.0,"Klinefelter syndrome karyotype 47, XXY",Q98,2016,2027
+Q98.1,"Klinefelter syndrome, male with more than two X chromosomes",Q98,2016,2027
+Q98.3,"Other male with 46, XX karyotype",Q98,2016,2027
+Q98.4,"Klinefelter syndrome, unspecified",Q98,2016,2027
+Q98.5,"Karyotype 47, XYY",Q98,2016,2027
+Q98.6,Male with structurally abnormal sex chromosome,Q98,2016,2027
+Q98.7,Male with sex chromosome mosaicism,Q98,2016,2027
+Q98.8,"Other specified sex chromosome abnormalities, male phenotype",Q98,2016,2027
+Q98.9,"Sex chromosome abnormality, male phenotype, unspecified",Q98,2016,2027
+Q99,"Other chromosome abnormalities, not elsewhere classified",,2016,2027
+Q99.0,"Chimera 46, XX/46, XY",Q99,2016,2027
+Q99.1,"46, XX true hermaphrodite",Q99,2016,2027
+Q99.2,Fragile X chromosome,Q99,2016,2027
+Q99.8,Other specified chromosome abnormalities,Q99,2016,2027
+Q99.81,Usher syndrome,Q99.8,2026,2027
+Q99.811,"Usher syndrome, type 1",Q99.81,2026,2027
+Q99.812,"Usher syndrome, type 2",Q99.81,2026,2027
+Q99.813,"Usher syndrome, type 3",Q99.81,2026,2027
+Q99.818,Other Usher syndrome,Q99.81,2026,2027
+Q99.819,"Usher syndrome, unspecified",Q99.81,2026,2027
+Q99.89,Other specified chromosome abnormalities,Q99.8,2026,2027
+Q99.9,"Chromosomal abnormality, unspecified",Q99,2016,2027
+QA0,Neurodevelopmental disorders related to specific genetic pathogenic variants,,2026,2027
+QA0.0,Neurodevelopmental disorders related to pathogenic variants in specific genes,QA0,2026,2027
+QA0.01,Neurodevelopmental disorders related to pathogenic variants in certain specific genes,QA0.0,2026,2027
+QA0.010,"Neurodevelopmental disorders, related to pathogenic variants in ion channel genes",QA0.01,2026,2027
+QA0.0101,SCN2A-related neurodevelopmental disorder,QA0.010,2026,2027
+QA0.0102,CACNA1A-related neurodevelopmental disorder,QA0.010,2026,2027
+QA0.0109,Neurodevelopmental disorder related to pathogenic variant in other ion channel gene,QA0.010,2026,2027
+QA0.011,"Neurodevelopmental disorders, related to pathogenic variants in glutamate receptor genes",QA0.01,2026,2027
+QA0.012,"Neurodevelopmental disorders, related to pathogenic variants in other receptor genes",QA0.01,2026,2027
+QA0.013,"Neurodevelopmental disorders, related to pathogenic variants in other transporter and solute carrier genes",QA0.01,2026,2027
+QA0.0131,SLC6A1-related disorder,QA0.013,2026,2027
+QA0.0139,"Neurodevelopmental disorder, related to pathogenic variant in other transporter or solute carrier gene",QA0.013,2026,2027
+QA0.014,"Neurodevelopmental disorders, related to pathogenic variants in synapse related genes",QA0.01,2026,2027
+QA0.0141,Syntaxin-binding protein 1-related disorder,QA0.014,2026,2027
+QA0.0142,DLG4-related synaptopathy,QA0.014,2026,2027
+QA0.0149,"Neurodevelopmental disorder, related to pathogenic variant in other synapse related gene",QA0.014,2026,2027
+QA0.015,"Neurodevelopmental disorders, related to genes associated with transcription and gene expression",QA0.01,2026,2027
+QA0.0151,FOXG1 syndrome,QA0.015,2026,2027
+QA0.0159,"Neurodevelopmental disorder, related to other genes associated with transcription and gene expression",QA0.015,2026,2027
+QA0.8,Other neurodevelopmental disorders related to pathogenic variants in other specific genes,QA0,2026,2027
+QA1,"Genetic disorders associated with neoplasms, not elsewhere classified",,2027,2027
+QA1.7,"Inherited neoplasm predisposition syndromes involving multiple systems, not elsewhere classified",QA1,2027,2027
+QA1.71,Lynch syndrome,QA1.7,2027,2027
+QA1.79,Other inherited neoplasm predisposition syndrome of multiple systems,QA1.7,2027,2027
+QA1.790,Familial cancer syndrome with pathogenic BRCA1 mutation,QA1.79,2027,2027
+QA1.791,Familial cancer syndrome with pathogenic BRCA2 mutation,QA1.79,2027,2027
+QA1.792,Li Fraumeni syndrome,QA1.79,2027,2027
+QA1.798,Other inherited neoplasm predisposition syndrome of multiple systems,QA1.79,2027,2027

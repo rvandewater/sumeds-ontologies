@@ -1,0 +1,109 @@
+code,description,parent,first_year,last_year
+BG,Endocrine System,B,2016,2027
+BG2,Computerized Tomography (CT Scan),BG,2016,2027
+BG22,"Adrenal Glands, Bilateral",BG2,2016,2027
+BG220,High Osmolar,BG22,2016,2027
+BG2200,Unenhanced and Enhanced,BG220,2016,2027
+BG2200Z,"Computerized Tomography (CT Scan) of Bilateral Adrenal Glands using High Osmolar Contrast, Unenhanced and Enhanced",BG2200,2016,2027
+BG220Z,None,BG220,2016,2027
+BG220ZZ,Computerized Tomography (CT Scan) of Bilateral Adrenal Glands using High Osmolar Contrast,BG220Z,2016,2027
+BG221,Low Osmolar,BG22,2016,2027
+BG2210,Unenhanced and Enhanced,BG221,2016,2027
+BG2210Z,"Computerized Tomography (CT Scan) of Bilateral Adrenal Glands using Low Osmolar Contrast, Unenhanced and Enhanced",BG2210,2016,2027
+BG221Z,None,BG221,2016,2027
+BG221ZZ,Computerized Tomography (CT Scan) of Bilateral Adrenal Glands using Low Osmolar Contrast,BG221Z,2016,2027
+BG22Y,Other Contrast,BG22,2016,2027
+BG22Y0,Unenhanced and Enhanced,BG22Y,2016,2027
+BG22Y0Z,"Computerized Tomography (CT Scan) of Bilateral Adrenal Glands using Other Contrast, Unenhanced and Enhanced",BG22Y0,2016,2027
+BG22YZ,None,BG22Y,2016,2027
+BG22YZZ,Computerized Tomography (CT Scan) of Bilateral Adrenal Glands using Other Contrast,BG22YZ,2016,2027
+BG22Z,None,BG22,2016,2027
+BG22ZZ,None,BG22Z,2016,2027
+BG22ZZZ,Computerized Tomography (CT Scan) of Bilateral Adrenal Glands,BG22ZZ,2016,2027
+BG23,Parathyroid Glands,BG2,2016,2027
+BG230,High Osmolar,BG23,2016,2027
+BG2300,Unenhanced and Enhanced,BG230,2016,2027
+BG2300Z,"Computerized Tomography (CT Scan) of Parathyroid Glands using High Osmolar Contrast, Unenhanced and Enhanced",BG2300,2016,2027
+BG230Z,None,BG230,2016,2027
+BG230ZZ,Computerized Tomography (CT Scan) of Parathyroid Glands using High Osmolar Contrast,BG230Z,2016,2027
+BG231,Low Osmolar,BG23,2016,2027
+BG2310,Unenhanced and Enhanced,BG231,2016,2027
+BG2310Z,"Computerized Tomography (CT Scan) of Parathyroid Glands using Low Osmolar Contrast, Unenhanced and Enhanced",BG2310,2016,2027
+BG231Z,None,BG231,2016,2027
+BG231ZZ,Computerized Tomography (CT Scan) of Parathyroid Glands using Low Osmolar Contrast,BG231Z,2016,2027
+BG23Y,Other Contrast,BG23,2016,2027
+BG23Y0,Unenhanced and Enhanced,BG23Y,2016,2027
+BG23Y0Z,"Computerized Tomography (CT Scan) of Parathyroid Glands using Other Contrast, Unenhanced and Enhanced",BG23Y0,2016,2027
+BG23YZ,None,BG23Y,2016,2027
+BG23YZZ,Computerized Tomography (CT Scan) of Parathyroid Glands using Other Contrast,BG23YZ,2016,2027
+BG23Z,None,BG23,2016,2027
+BG23ZZ,None,BG23Z,2016,2027
+BG23ZZZ,Computerized Tomography (CT Scan) of Parathyroid Glands,BG23ZZ,2016,2027
+BG24,Thyroid Gland,BG2,2016,2027
+BG240,High Osmolar,BG24,2016,2027
+BG2400,Unenhanced and Enhanced,BG240,2016,2027
+BG2400Z,"Computerized Tomography (CT Scan) of Thyroid Gland using High Osmolar Contrast, Unenhanced and Enhanced",BG2400,2016,2027
+BG240Z,None,BG240,2016,2027
+BG240ZZ,Computerized Tomography (CT Scan) of Thyroid Gland using High Osmolar Contrast,BG240Z,2016,2027
+BG241,Low Osmolar,BG24,2016,2027
+BG2410,Unenhanced and Enhanced,BG241,2016,2027
+BG2410Z,"Computerized Tomography (CT Scan) of Thyroid Gland using Low Osmolar Contrast, Unenhanced and Enhanced",BG2410,2016,2027
+BG241Z,None,BG241,2016,2027
+BG241ZZ,Computerized Tomography (CT Scan) of Thyroid Gland using Low Osmolar Contrast,BG241Z,2016,2027
+BG24Y,Other Contrast,BG24,2016,2027
+BG24Y0,Unenhanced and Enhanced,BG24Y,2016,2027
+BG24Y0Z,"Computerized Tomography (CT Scan) of Thyroid Gland using Other Contrast, Unenhanced and Enhanced",BG24Y0,2016,2027
+BG24YZ,None,BG24Y,2016,2027
+BG24YZZ,Computerized Tomography (CT Scan) of Thyroid Gland using Other Contrast,BG24YZ,2016,2027
+BG24Z,None,BG24,2016,2027
+BG24ZZ,None,BG24Z,2016,2027
+BG24ZZZ,Computerized Tomography (CT Scan) of Thyroid Gland,BG24ZZ,2016,2027
+BG3,Magnetic Resonance Imaging (MRI),BG,2016,2027
+BG32,"Adrenal Glands, Bilateral",BG3,2016,2027
+BG32Y,Other Contrast,BG32,2016,2027
+BG32Y0,Unenhanced and Enhanced,BG32Y,2016,2027
+BG32Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Adrenal Glands using Other Contrast, Unenhanced and Enhanced",BG32Y0,2016,2027
+BG32YZ,None,BG32Y,2016,2027
+BG32YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Adrenal Glands using Other Contrast,BG32YZ,2016,2027
+BG32Z,None,BG32,2016,2027
+BG32ZZ,None,BG32Z,2016,2027
+BG32ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Adrenal Glands,BG32ZZ,2016,2027
+BG33,Parathyroid Glands,BG3,2016,2027
+BG33Y,Other Contrast,BG33,2016,2027
+BG33Y0,Unenhanced and Enhanced,BG33Y,2016,2027
+BG33Y0Z,"Magnetic Resonance Imaging (MRI) of Parathyroid Glands using Other Contrast, Unenhanced and Enhanced",BG33Y0,2016,2027
+BG33YZ,None,BG33Y,2016,2027
+BG33YZZ,Magnetic Resonance Imaging (MRI) of Parathyroid Glands using Other Contrast,BG33YZ,2016,2027
+BG33Z,None,BG33,2016,2027
+BG33ZZ,None,BG33Z,2016,2027
+BG33ZZZ,Magnetic Resonance Imaging (MRI) of Parathyroid Glands,BG33ZZ,2016,2027
+BG34,Thyroid Gland,BG3,2016,2027
+BG34Y,Other Contrast,BG34,2016,2027
+BG34Y0,Unenhanced and Enhanced,BG34Y,2016,2027
+BG34Y0Z,"Magnetic Resonance Imaging (MRI) of Thyroid Gland using Other Contrast, Unenhanced and Enhanced",BG34Y0,2016,2027
+BG34YZ,None,BG34Y,2016,2027
+BG34YZZ,Magnetic Resonance Imaging (MRI) of Thyroid Gland using Other Contrast,BG34YZ,2016,2027
+BG34Z,None,BG34,2016,2027
+BG34ZZ,None,BG34Z,2016,2027
+BG34ZZZ,Magnetic Resonance Imaging (MRI) of Thyroid Gland,BG34ZZ,2016,2027
+BG4,Ultrasonography,BG,2016,2027
+BG40,"Adrenal Gland, Right",BG4,2016,2027
+BG40Z,None,BG40,2016,2027
+BG40ZZ,None,BG40Z,2016,2027
+BG40ZZZ,Ultrasonography of Right Adrenal Gland,BG40ZZ,2016,2027
+BG41,"Adrenal Gland, Left",BG4,2016,2027
+BG41Z,None,BG41,2016,2027
+BG41ZZ,None,BG41Z,2016,2027
+BG41ZZZ,Ultrasonography of Left Adrenal Gland,BG41ZZ,2016,2027
+BG42,"Adrenal Glands, Bilateral",BG4,2016,2027
+BG42Z,None,BG42,2016,2027
+BG42ZZ,None,BG42Z,2016,2027
+BG42ZZZ,Ultrasonography of Bilateral Adrenal Glands,BG42ZZ,2016,2027
+BG43,Parathyroid Glands,BG4,2016,2027
+BG43Z,None,BG43,2016,2027
+BG43ZZ,None,BG43Z,2016,2027
+BG43ZZZ,Ultrasonography of Parathyroid Glands,BG43ZZ,2016,2027
+BG44,Thyroid Gland,BG4,2016,2027
+BG44Z,None,BG44,2016,2027
+BG44ZZ,None,BG44Z,2016,2027
+BG44ZZZ,Ultrasonography of Thyroid Gland,BG44ZZ,2016,2027

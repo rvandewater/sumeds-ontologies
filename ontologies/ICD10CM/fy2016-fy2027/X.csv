@@ -1,0 +1,697 @@
+code,description,parent,first_year,last_year
+X00,Exposure to uncontrolled fire in building or structure,,2016,2027
+X00.0,Exposure to flames in uncontrolled fire in building or structure,X00,2016,2027
+X00.0XXA,"Exposure to flames in uncontrolled fire in building or structure, initial encounter",X00.0,2016,2027
+X00.0XXD,"Exposure to flames in uncontrolled fire in building or structure, subsequent encounter",X00.0,2016,2027
+X00.0XXS,"Exposure to flames in uncontrolled fire in building or structure, sequela",X00.0,2016,2027
+X00.1,Exposure to smoke in uncontrolled fire in building or structure,X00,2016,2027
+X00.1XXA,"Exposure to smoke in uncontrolled fire in building or structure, initial encounter",X00.1,2016,2027
+X00.1XXD,"Exposure to smoke in uncontrolled fire in building or structure, subsequent encounter",X00.1,2016,2027
+X00.1XXS,"Exposure to smoke in uncontrolled fire in building or structure, sequela",X00.1,2016,2027
+X00.2,Injury due to collapse of burning building or structure in uncontrolled fire,X00,2016,2027
+X00.2XXA,"Injury due to collapse of burning building or structure in uncontrolled fire, initial encounter",X00.2,2016,2027
+X00.2XXD,"Injury due to collapse of burning building or structure in uncontrolled fire, subsequent encounter",X00.2,2016,2027
+X00.2XXS,"Injury due to collapse of burning building or structure in uncontrolled fire, sequela",X00.2,2016,2027
+X00.3,Fall from burning building or structure in uncontrolled fire,X00,2016,2027
+X00.3XXA,"Fall from burning building or structure in uncontrolled fire, initial encounter",X00.3,2016,2027
+X00.3XXD,"Fall from burning building or structure in uncontrolled fire, subsequent encounter",X00.3,2016,2027
+X00.3XXS,"Fall from burning building or structure in uncontrolled fire, sequela",X00.3,2016,2027
+X00.4,Hit by object from burning building or structure in uncontrolled fire,X00,2016,2027
+X00.4XXA,"Hit by object from burning building or structure in uncontrolled fire, initial encounter",X00.4,2016,2027
+X00.4XXD,"Hit by object from burning building or structure in uncontrolled fire, subsequent encounter",X00.4,2016,2027
+X00.4XXS,"Hit by object from burning building or structure in uncontrolled fire, sequela",X00.4,2016,2027
+X00.5,Jump from burning building or structure in uncontrolled fire,X00,2016,2027
+X00.5XXA,"Jump from burning building or structure in uncontrolled fire, initial encounter",X00.5,2016,2027
+X00.5XXD,"Jump from burning building or structure in uncontrolled fire, subsequent encounter",X00.5,2016,2027
+X00.5XXS,"Jump from burning building or structure in uncontrolled fire, sequela",X00.5,2016,2027
+X00.8,Other exposure to uncontrolled fire in building or structure,X00,2016,2027
+X00.8XXA,"Other exposure to uncontrolled fire in building or structure, initial encounter",X00.8,2016,2027
+X00.8XXD,"Other exposure to uncontrolled fire in building or structure, subsequent encounter",X00.8,2016,2027
+X00.8XXS,"Other exposure to uncontrolled fire in building or structure, sequela",X00.8,2016,2027
+X01,"Exposure to uncontrolled fire, not in building or structure",,2016,2027
+X01.0,"Exposure to flames in uncontrolled fire, not in building or structure",X01,2016,2027
+X01.0XXA,"Exposure to flames in uncontrolled fire, not in building or structure, initial encounter",X01.0,2016,2027
+X01.0XXD,"Exposure to flames in uncontrolled fire, not in building or structure, subsequent encounter",X01.0,2016,2027
+X01.0XXS,"Exposure to flames in uncontrolled fire, not in building or structure, sequela",X01.0,2016,2027
+X01.1,"Exposure to smoke in uncontrolled fire, not in building or structure",X01,2016,2027
+X01.1XXA,"Exposure to smoke in uncontrolled fire, not in building or structure, initial encounter",X01.1,2016,2027
+X01.1XXD,"Exposure to smoke in uncontrolled fire, not in building or structure, subsequent encounter",X01.1,2016,2027
+X01.1XXS,"Exposure to smoke in uncontrolled fire, not in building or structure, sequela",X01.1,2016,2027
+X01.3,"Fall due to uncontrolled fire, not in building or structure",X01,2016,2027
+X01.3XXA,"Fall due to uncontrolled fire, not in building or structure, initial encounter",X01.3,2016,2027
+X01.3XXD,"Fall due to uncontrolled fire, not in building or structure, subsequent encounter",X01.3,2016,2027
+X01.3XXS,"Fall due to uncontrolled fire, not in building or structure, sequela",X01.3,2016,2027
+X01.4,"Hit by object due to uncontrolled fire, not in building or structure",X01,2016,2027
+X01.4XXA,"Hit by object due to uncontrolled fire, not in building or structure, initial encounter",X01.4,2016,2027
+X01.4XXD,"Hit by object due to uncontrolled fire, not in building or structure, subsequent encounter",X01.4,2016,2027
+X01.4XXS,"Hit by object due to uncontrolled fire, not in building or structure, sequela",X01.4,2016,2027
+X01.8,"Other exposure to uncontrolled fire, not in building or structure",X01,2016,2027
+X01.8XXA,"Other exposure to uncontrolled fire, not in building or structure, initial encounter",X01.8,2016,2027
+X01.8XXD,"Other exposure to uncontrolled fire, not in building or structure, subsequent encounter",X01.8,2016,2027
+X01.8XXS,"Other exposure to uncontrolled fire, not in building or structure, sequela",X01.8,2016,2027
+X02,Exposure to controlled fire in building or structure,,2016,2027
+X02.0,Exposure to flames in controlled fire in building or structure,X02,2016,2027
+X02.0XXA,"Exposure to flames in controlled fire in building or structure, initial encounter",X02.0,2016,2027
+X02.0XXD,"Exposure to flames in controlled fire in building or structure, subsequent encounter",X02.0,2016,2027
+X02.0XXS,"Exposure to flames in controlled fire in building or structure, sequela",X02.0,2016,2027
+X02.1,Exposure to smoke in controlled fire in building or structure,X02,2016,2027
+X02.1XXA,"Exposure to smoke in controlled fire in building or structure, initial encounter",X02.1,2016,2027
+X02.1XXD,"Exposure to smoke in controlled fire in building or structure, subsequent encounter",X02.1,2016,2027
+X02.1XXS,"Exposure to smoke in controlled fire in building or structure, sequela",X02.1,2016,2027
+X02.2,Injury due to collapse of burning building or structure in controlled fire,X02,2016,2027
+X02.2XXA,"Injury due to collapse of burning building or structure in controlled fire, initial encounter",X02.2,2016,2027
+X02.2XXD,"Injury due to collapse of burning building or structure in controlled fire, subsequent encounter",X02.2,2016,2027
+X02.2XXS,"Injury due to collapse of burning building or structure in controlled fire, sequela",X02.2,2016,2027
+X02.3,Fall from burning building or structure in controlled fire,X02,2016,2027
+X02.3XXA,"Fall from burning building or structure in controlled fire, initial encounter",X02.3,2016,2027
+X02.3XXD,"Fall from burning building or structure in controlled fire, subsequent encounter",X02.3,2016,2027
+X02.3XXS,"Fall from burning building or structure in controlled fire, sequela",X02.3,2016,2027
+X02.4,Hit by object from burning building or structure in controlled fire,X02,2016,2027
+X02.4XXA,"Hit by object from burning building or structure in controlled fire, initial encounter",X02.4,2016,2027
+X02.4XXD,"Hit by object from burning building or structure in controlled fire, subsequent encounter",X02.4,2016,2027
+X02.4XXS,"Hit by object from burning building or structure in controlled fire, sequela",X02.4,2016,2027
+X02.5,Jump from burning building or structure in controlled fire,X02,2016,2027
+X02.5XXA,"Jump from burning building or structure in controlled fire, initial encounter",X02.5,2016,2027
+X02.5XXD,"Jump from burning building or structure in controlled fire, subsequent encounter",X02.5,2016,2027
+X02.5XXS,"Jump from burning building or structure in controlled fire, sequela",X02.5,2016,2027
+X02.8,Other exposure to controlled fire in building or structure,X02,2016,2027
+X02.8XXA,"Other exposure to controlled fire in building or structure, initial encounter",X02.8,2016,2027
+X02.8XXD,"Other exposure to controlled fire in building or structure, subsequent encounter",X02.8,2016,2027
+X02.8XXS,"Other exposure to controlled fire in building or structure, sequela",X02.8,2016,2027
+X03,"Exposure to controlled fire, not in building or structure",,2016,2027
+X03.0,"Exposure to flames in controlled fire, not in building or structure",X03,2016,2027
+X03.0XXA,"Exposure to flames in controlled fire, not in building or structure, initial encounter",X03.0,2016,2027
+X03.0XXD,"Exposure to flames in controlled fire, not in building or structure, subsequent encounter",X03.0,2016,2027
+X03.0XXS,"Exposure to flames in controlled fire, not in building or structure, sequela",X03.0,2016,2027
+X03.1,"Exposure to smoke in controlled fire, not in building or structure",X03,2016,2027
+X03.1XXA,"Exposure to smoke in controlled fire, not in building or structure, initial encounter",X03.1,2016,2027
+X03.1XXD,"Exposure to smoke in controlled fire, not in building or structure, subsequent encounter",X03.1,2016,2027
+X03.1XXS,"Exposure to smoke in controlled fire, not in building or structure, sequela",X03.1,2016,2027
+X03.3,"Fall due to controlled fire, not in building or structure",X03,2016,2027
+X03.3XXA,"Fall due to controlled fire, not in building or structure, initial encounter",X03.3,2016,2027
+X03.3XXD,"Fall due to controlled fire, not in building or structure, subsequent encounter",X03.3,2016,2027
+X03.3XXS,"Fall due to controlled fire, not in building or structure, sequela",X03.3,2016,2027
+X03.4,"Hit by object due to controlled fire, not in building or structure",X03,2016,2027
+X03.4XXA,"Hit by object due to controlled fire, not in building or structure, initial encounter",X03.4,2016,2027
+X03.4XXD,"Hit by object due to controlled fire, not in building or structure, subsequent encounter",X03.4,2016,2027
+X03.4XXS,"Hit by object due to controlled fire, not in building or structure, sequela",X03.4,2016,2027
+X03.8,"Other exposure to controlled fire, not in building or structure",X03,2016,2027
+X03.8XXA,"Other exposure to controlled fire, not in building or structure, initial encounter",X03.8,2016,2027
+X03.8XXD,"Other exposure to controlled fire, not in building or structure, subsequent encounter",X03.8,2016,2027
+X03.8XXS,"Other exposure to controlled fire, not in building or structure, sequela",X03.8,2016,2027
+X04,Exposure to ignition of highly flammable material,,2016,2027
+X04.XXXA,"Exposure to ignition of highly flammable material, initial encounter",X04,2016,2027
+X04.XXXD,"Exposure to ignition of highly flammable material, subsequent encounter",X04,2016,2027
+X04.XXXS,"Exposure to ignition of highly flammable material, sequela",X04,2016,2027
+X05,Exposure to ignition or melting of nightwear,,2016,2027
+X05.XXXA,"Exposure to ignition or melting of nightwear, initial encounter",X05,2016,2027
+X05.XXXD,"Exposure to ignition or melting of nightwear, subsequent encounter",X05,2016,2027
+X05.XXXS,"Exposure to ignition or melting of nightwear, sequela",X05,2016,2027
+X06,Exposure to ignition or melting of other clothing and apparel,,2016,2027
+X06.0,Exposure to ignition of plastic jewelry,X06,2016,2027
+X06.0XXA,"Exposure to ignition of plastic jewelry, initial encounter",X06.0,2016,2027
+X06.0XXD,"Exposure to ignition of plastic jewelry, subsequent encounter",X06.0,2016,2027
+X06.0XXS,"Exposure to ignition of plastic jewelry, sequela",X06.0,2016,2027
+X06.1,Exposure to melting of plastic jewelry,X06,2016,2027
+X06.1XXA,"Exposure to melting of plastic jewelry, initial encounter",X06.1,2016,2027
+X06.1XXD,"Exposure to melting of plastic jewelry, subsequent encounter",X06.1,2016,2027
+X06.1XXS,"Exposure to melting of plastic jewelry, sequela",X06.1,2016,2027
+X06.2,Exposure to ignition of other clothing and apparel,X06,2016,2027
+X06.2XXA,"Exposure to ignition of other clothing and apparel, initial encounter",X06.2,2016,2027
+X06.2XXD,"Exposure to ignition of other clothing and apparel, subsequent encounter",X06.2,2016,2027
+X06.2XXS,"Exposure to ignition of other clothing and apparel, sequela",X06.2,2016,2027
+X06.3,Exposure to melting of other clothing and apparel,X06,2016,2027
+X06.3XXA,"Exposure to melting of other clothing and apparel, initial encounter",X06.3,2016,2027
+X06.3XXD,"Exposure to melting of other clothing and apparel, subsequent encounter",X06.3,2016,2027
+X06.3XXS,"Exposure to melting of other clothing and apparel, sequela",X06.3,2016,2027
+X08,"Exposure to other specified smoke, fire and flames",,2016,2027
+X08.0,Exposure to bed fire,X08,2016,2027
+X08.00,Exposure to bed fire due to unspecified burning material,X08.0,2016,2027
+X08.00XA,"Exposure to bed fire due to unspecified burning material, initial encounter",X08.00,2016,2027
+X08.00XD,"Exposure to bed fire due to unspecified burning material, subsequent encounter",X08.00,2016,2027
+X08.00XS,"Exposure to bed fire due to unspecified burning material, sequela",X08.00,2016,2027
+X08.01,Exposure to bed fire due to burning cigarette,X08.0,2016,2027
+X08.01XA,"Exposure to bed fire due to burning cigarette, initial encounter",X08.01,2016,2027
+X08.01XD,"Exposure to bed fire due to burning cigarette, subsequent encounter",X08.01,2016,2027
+X08.01XS,"Exposure to bed fire due to burning cigarette, sequela",X08.01,2016,2027
+X08.09,Exposure to bed fire due to other burning material,X08.0,2016,2027
+X08.09XA,"Exposure to bed fire due to other burning material, initial encounter",X08.09,2016,2027
+X08.09XD,"Exposure to bed fire due to other burning material, subsequent encounter",X08.09,2016,2027
+X08.09XS,"Exposure to bed fire due to other burning material, sequela",X08.09,2016,2027
+X08.1,Exposure to sofa fire,X08,2016,2027
+X08.10,Exposure to sofa fire due to unspecified burning material,X08.1,2016,2027
+X08.10XA,"Exposure to sofa fire due to unspecified burning material, initial encounter",X08.10,2016,2027
+X08.10XD,"Exposure to sofa fire due to unspecified burning material, subsequent encounter",X08.10,2016,2027
+X08.10XS,"Exposure to sofa fire due to unspecified burning material, sequela",X08.10,2016,2027
+X08.11,Exposure to sofa fire due to burning cigarette,X08.1,2016,2027
+X08.11XA,"Exposure to sofa fire due to burning cigarette, initial encounter",X08.11,2016,2027
+X08.11XD,"Exposure to sofa fire due to burning cigarette, subsequent encounter",X08.11,2016,2027
+X08.11XS,"Exposure to sofa fire due to burning cigarette, sequela",X08.11,2016,2027
+X08.19,Exposure to sofa fire due to other burning material,X08.1,2016,2027
+X08.19XA,"Exposure to sofa fire due to other burning material, initial encounter",X08.19,2016,2027
+X08.19XD,"Exposure to sofa fire due to other burning material, subsequent encounter",X08.19,2016,2027
+X08.19XS,"Exposure to sofa fire due to other burning material, sequela",X08.19,2016,2027
+X08.2,Exposure to other furniture fire,X08,2016,2027
+X08.20,Exposure to other furniture fire due to unspecified burning material,X08.2,2016,2027
+X08.20XA,"Exposure to other furniture fire due to unspecified burning material, initial encounter",X08.20,2016,2027
+X08.20XD,"Exposure to other furniture fire due to unspecified burning material, subsequent encounter",X08.20,2016,2027
+X08.20XS,"Exposure to other furniture fire due to unspecified burning material, sequela",X08.20,2016,2027
+X08.21,Exposure to other furniture fire due to burning cigarette,X08.2,2016,2027
+X08.21XA,"Exposure to other furniture fire due to burning cigarette, initial encounter",X08.21,2016,2027
+X08.21XD,"Exposure to other furniture fire due to burning cigarette, subsequent encounter",X08.21,2016,2027
+X08.21XS,"Exposure to other furniture fire due to burning cigarette, sequela",X08.21,2016,2027
+X08.29,Exposure to other furniture fire due to other burning material,X08.2,2016,2027
+X08.29XA,"Exposure to other furniture fire due to other burning material, initial encounter",X08.29,2016,2027
+X08.29XD,"Exposure to other furniture fire due to other burning material, subsequent encounter",X08.29,2016,2027
+X08.29XS,"Exposure to other furniture fire due to other burning material, sequela",X08.29,2016,2027
+X08.8,"Exposure to other specified smoke, fire and flames",X08,2016,2027
+X08.8XXA,"Exposure to other specified smoke, fire and flames, initial encounter",X08.8,2016,2027
+X08.8XXD,"Exposure to other specified smoke, fire and flames, subsequent encounter",X08.8,2016,2027
+X08.8XXS,"Exposure to other specified smoke, fire and flames, sequela",X08.8,2016,2027
+X10,"Contact with hot drinks, food, fats and cooking oils",,2016,2027
+X10.0,Contact with hot drinks,X10,2016,2027
+X10.0XXA,"Contact with hot drinks, initial encounter",X10.0,2016,2027
+X10.0XXD,"Contact with hot drinks, subsequent encounter",X10.0,2016,2027
+X10.0XXS,"Contact with hot drinks, sequela",X10.0,2016,2027
+X10.1,Contact with hot food,X10,2016,2027
+X10.1XXA,"Contact with hot food, initial encounter",X10.1,2016,2027
+X10.1XXD,"Contact with hot food, subsequent encounter",X10.1,2016,2027
+X10.1XXS,"Contact with hot food, sequela",X10.1,2016,2027
+X10.2,Contact with fats and cooking oils,X10,2016,2027
+X10.2XXA,"Contact with fats and cooking oils, initial encounter",X10.2,2016,2027
+X10.2XXD,"Contact with fats and cooking oils, subsequent encounter",X10.2,2016,2027
+X10.2XXS,"Contact with fats and cooking oils, sequela",X10.2,2016,2027
+X11,Contact with hot tap-water,,2016,2027
+X11.0,Contact with hot water in bath or tub,X11,2016,2027
+X11.0XXA,"Contact with hot water in bath or tub, initial encounter",X11.0,2016,2027
+X11.0XXD,"Contact with hot water in bath or tub, subsequent encounter",X11.0,2016,2027
+X11.0XXS,"Contact with hot water in bath or tub, sequela",X11.0,2016,2027
+X11.1,Contact with running hot water,X11,2016,2027
+X11.1XXA,"Contact with running hot water, initial encounter",X11.1,2016,2027
+X11.1XXD,"Contact with running hot water, subsequent encounter",X11.1,2016,2027
+X11.1XXS,"Contact with running hot water, sequela",X11.1,2016,2027
+X11.8,Contact with other hot tap-water,X11,2016,2027
+X11.8XXA,"Contact with other hot tap-water, initial encounter",X11.8,2016,2027
+X11.8XXD,"Contact with other hot tap-water, subsequent encounter",X11.8,2016,2027
+X11.8XXS,"Contact with other hot tap-water, sequela",X11.8,2016,2027
+X12,Contact with other hot fluids,,2016,2027
+X12.XXXA,"Contact with other hot fluids, initial encounter",X12,2016,2027
+X12.XXXD,"Contact with other hot fluids, subsequent encounter",X12,2016,2027
+X12.XXXS,"Contact with other hot fluids, sequela",X12,2016,2027
+X13,Contact with steam and other hot vapors,,2016,2027
+X13.0,Inhalation of steam and other hot vapors,X13,2016,2027
+X13.0XXA,"Inhalation of steam and other hot vapors, initial encounter",X13.0,2016,2027
+X13.0XXD,"Inhalation of steam and other hot vapors, subsequent encounter",X13.0,2016,2027
+X13.0XXS,"Inhalation of steam and other hot vapors, sequela",X13.0,2016,2027
+X13.1,Other contact with steam and other hot vapors,X13,2016,2027
+X13.1XXA,"Other contact with steam and other hot vapors, initial encounter",X13.1,2016,2027
+X13.1XXD,"Other contact with steam and other hot vapors, subsequent encounter",X13.1,2016,2027
+X13.1XXS,"Other contact with steam and other hot vapors, sequela",X13.1,2016,2027
+X14,Contact with hot air and other hot gases,,2016,2027
+X14.0,Inhalation of hot air and gases,X14,2016,2027
+X14.0XXA,"Inhalation of hot air and gases, initial encounter",X14.0,2016,2027
+X14.0XXD,"Inhalation of hot air and gases, subsequent encounter",X14.0,2016,2027
+X14.0XXS,"Inhalation of hot air and gases, sequela",X14.0,2016,2027
+X14.1,Other contact with hot air and other hot gases,X14,2016,2027
+X14.1XXA,"Other contact with hot air and other hot gases, initial encounter",X14.1,2016,2027
+X14.1XXD,"Other contact with hot air and other hot gases, subsequent encounter",X14.1,2016,2027
+X14.1XXS,"Other contact with hot air and other hot gases, sequela",X14.1,2016,2027
+X15,Contact with hot household appliances,,2016,2027
+X15.0,Contact with hot stove (kitchen),X15,2016,2027
+X15.0XXA,"Contact with hot stove (kitchen), initial encounter",X15.0,2016,2027
+X15.0XXD,"Contact with hot stove (kitchen), subsequent encounter",X15.0,2016,2027
+X15.0XXS,"Contact with hot stove (kitchen), sequela",X15.0,2016,2027
+X15.1,Contact with hot toaster,X15,2016,2027
+X15.1XXA,"Contact with hot toaster, initial encounter",X15.1,2016,2027
+X15.1XXD,"Contact with hot toaster, subsequent encounter",X15.1,2016,2027
+X15.1XXS,"Contact with hot toaster, sequela",X15.1,2016,2027
+X15.2,Contact with hotplate,X15,2016,2027
+X15.2XXA,"Contact with hotplate, initial encounter",X15.2,2016,2027
+X15.2XXD,"Contact with hotplate, subsequent encounter",X15.2,2016,2027
+X15.2XXS,"Contact with hotplate, sequela",X15.2,2016,2027
+X15.3,Contact with hot saucepan or skillet,X15,2016,2027
+X15.3XXA,"Contact with hot saucepan or skillet, initial encounter",X15.3,2016,2027
+X15.3XXD,"Contact with hot saucepan or skillet, subsequent encounter",X15.3,2016,2027
+X15.3XXS,"Contact with hot saucepan or skillet, sequela",X15.3,2016,2027
+X15.8,Contact with other hot household appliances,X15,2016,2027
+X15.8XXA,"Contact with other hot household appliances, initial encounter",X15.8,2016,2027
+X15.8XXD,"Contact with other hot household appliances, subsequent encounter",X15.8,2016,2027
+X15.8XXS,"Contact with other hot household appliances, sequela",X15.8,2016,2027
+X16,"Contact with hot heating appliances, radiators and pipes",,2016,2027
+X16.XXXA,"Contact with hot heating appliances, radiators and pipes, initial encounter",X16,2016,2027
+X16.XXXD,"Contact with hot heating appliances, radiators and pipes, subsequent encounter",X16,2016,2027
+X16.XXXS,"Contact with hot heating appliances, radiators and pipes, sequela",X16,2016,2027
+X17,"Contact with hot engines, machinery and tools",,2016,2027
+X17.XXXA,"Contact with hot engines, machinery and tools, initial encounter",X17,2016,2027
+X17.XXXD,"Contact with hot engines, machinery and tools, subsequent encounter",X17,2016,2027
+X17.XXXS,"Contact with hot engines, machinery and tools, sequela",X17,2016,2027
+X18,Contact with other hot metals,,2016,2027
+X18.XXXA,"Contact with other hot metals, initial encounter",X18,2016,2027
+X18.XXXD,"Contact with other hot metals, subsequent encounter",X18,2016,2027
+X18.XXXS,"Contact with other hot metals, sequela",X18,2016,2027
+X19,Contact with other heat and hot substances,,2016,2027
+X19.XXXA,"Contact with other heat and hot substances, initial encounter",X19,2016,2027
+X19.XXXD,"Contact with other heat and hot substances, subsequent encounter",X19,2016,2027
+X19.XXXS,"Contact with other heat and hot substances, sequela",X19,2016,2027
+X30,Exposure to excessive natural heat,,2016,2027
+X30.XXXA,"Exposure to excessive natural heat, initial encounter",X30,2016,2027
+X30.XXXD,"Exposure to excessive natural heat, subsequent encounter",X30,2016,2027
+X30.XXXS,"Exposure to excessive natural heat, sequela",X30,2016,2027
+X31,Exposure to excessive natural cold,,2016,2027
+X31.XXXA,"Exposure to excessive natural cold, initial encounter",X31,2016,2027
+X31.XXXD,"Exposure to excessive natural cold, subsequent encounter",X31,2016,2027
+X31.XXXS,"Exposure to excessive natural cold, sequela",X31,2016,2027
+X32,Exposure to sunlight,,2016,2027
+X32.XXXA,"Exposure to sunlight, initial encounter",X32,2016,2027
+X32.XXXD,"Exposure to sunlight, subsequent encounter",X32,2016,2027
+X32.XXXS,"Exposure to sunlight, sequela",X32,2016,2027
+X34,Earthquake,,2016,2027
+X34.XXXA,"Earthquake, initial encounter",X34,2016,2027
+X34.XXXD,"Earthquake, subsequent encounter",X34,2016,2027
+X34.XXXS,"Earthquake, sequela",X34,2016,2027
+X35,Volcanic eruption,,2016,2027
+X35.XXXA,"Volcanic eruption, initial encounter",X35,2016,2027
+X35.XXXD,"Volcanic eruption, subsequent encounter",X35,2016,2027
+X35.XXXS,"Volcanic eruption, sequela",X35,2016,2027
+X36,"Avalanche, landslide and other earth movements",,2016,2027
+X36.0,Collapse of dam or man-made structure causing earth movement,X36,2016,2027
+X36.0XXA,"Collapse of dam or man-made structure causing earth movement, initial encounter",X36.0,2016,2027
+X36.0XXD,"Collapse of dam or man-made structure causing earth movement, subsequent encounter",X36.0,2016,2027
+X36.0XXS,"Collapse of dam or man-made structure causing earth movement, sequela",X36.0,2016,2027
+X36.1,"Avalanche, landslide, or mudslide",X36,2016,2027
+X36.1XXA,"Avalanche, landslide, or mudslide, initial encounter",X36.1,2016,2027
+X36.1XXD,"Avalanche, landslide, or mudslide, subsequent encounter",X36.1,2016,2027
+X36.1XXS,"Avalanche, landslide, or mudslide, sequela",X36.1,2016,2027
+X37,Cataclysmic storm,,2016,2027
+X37.0,Hurricane,X37,2016,2027
+X37.0XXA,"Hurricane, initial encounter",X37.0,2016,2027
+X37.0XXD,"Hurricane, subsequent encounter",X37.0,2016,2027
+X37.0XXS,"Hurricane, sequela",X37.0,2016,2027
+X37.1,Tornado,X37,2016,2027
+X37.1XXA,"Tornado, initial encounter",X37.1,2016,2027
+X37.1XXD,"Tornado, subsequent encounter",X37.1,2016,2027
+X37.1XXS,"Tornado, sequela",X37.1,2016,2027
+X37.2,Blizzard (snow)(ice),X37,2016,2027
+X37.2XXA,"Blizzard (snow)(ice), initial encounter",X37.2,2016,2027
+X37.2XXD,"Blizzard (snow)(ice), subsequent encounter",X37.2,2016,2027
+X37.2XXS,"Blizzard (snow)(ice), sequela",X37.2,2016,2027
+X37.3,Dust storm,X37,2016,2027
+X37.3XXA,"Dust storm, initial encounter",X37.3,2016,2027
+X37.3XXD,"Dust storm, subsequent encounter",X37.3,2016,2027
+X37.3XXS,"Dust storm, sequela",X37.3,2016,2027
+X37.4,Tidalwave,X37,2016,2027
+X37.41,Tidal wave due to earthquake or volcanic eruption,X37.4,2016,2027
+X37.41XA,"Tidal wave due to earthquake or volcanic eruption, initial encounter",X37.41,2016,2027
+X37.41XD,"Tidal wave due to earthquake or volcanic eruption, subsequent encounter",X37.41,2016,2027
+X37.41XS,"Tidal wave due to earthquake or volcanic eruption, sequela",X37.41,2016,2027
+X37.42,Tidal wave due to storm,X37.4,2016,2027
+X37.42XA,"Tidal wave due to storm, initial encounter",X37.42,2016,2027
+X37.42XD,"Tidal wave due to storm, subsequent encounter",X37.42,2016,2027
+X37.42XS,"Tidal wave due to storm, sequela",X37.42,2016,2027
+X37.43,Tidal wave due to landslide,X37.4,2016,2027
+X37.43XA,"Tidal wave due to landslide, initial encounter",X37.43,2016,2027
+X37.43XD,"Tidal wave due to landslide, subsequent encounter",X37.43,2016,2027
+X37.43XS,"Tidal wave due to landslide, sequela",X37.43,2016,2027
+X37.8,Other cataclysmic storms,X37,2016,2027
+X37.8XXA,"Other cataclysmic storms, initial encounter",X37.8,2016,2027
+X37.8XXD,"Other cataclysmic storms, subsequent encounter",X37.8,2016,2027
+X37.8XXS,"Other cataclysmic storms, sequela",X37.8,2016,2027
+X37.9,Unspecified cataclysmic storm,X37,2016,2027
+X37.9XXA,"Unspecified cataclysmic storm, initial encounter",X37.9,2016,2027
+X37.9XXD,"Unspecified cataclysmic storm, subsequent encounter",X37.9,2016,2027
+X37.9XXS,"Unspecified cataclysmic storm, sequela",X37.9,2016,2027
+X38,Flood,,2016,2027
+X38.XXXA,"Flood, initial encounter",X38,2016,2027
+X38.XXXD,"Flood, subsequent encounter",X38,2016,2027
+X38.XXXS,"Flood, sequela",X38,2016,2027
+X39,Exposure to other forces of nature,,2016,2027
+X39.0,Exposure to natural radiation,X39,2016,2027
+X39.01,Exposure to radon,X39.0,2016,2027
+X39.01XA,"Exposure to radon, initial encounter",X39.01,2016,2027
+X39.01XD,"Exposure to radon, subsequent encounter",X39.01,2016,2027
+X39.01XS,"Exposure to radon, sequela",X39.01,2016,2027
+X39.08,Exposure to other natural radiation,X39.0,2016,2027
+X39.08XA,"Exposure to other natural radiation, initial encounter",X39.08,2016,2027
+X39.08XD,"Exposure to other natural radiation, subsequent encounter",X39.08,2016,2027
+X39.08XS,"Exposure to other natural radiation, sequela",X39.08,2016,2027
+X39.8,Other exposure to forces of nature,X39,2016,2027
+X39.8XXA,"Other exposure to forces of nature, initial encounter",X39.8,2016,2027
+X39.8XXD,"Other exposure to forces of nature, subsequent encounter",X39.8,2016,2027
+X39.8XXS,"Other exposure to forces of nature, sequela",X39.8,2016,2027
+X50,Overexertion and strenuous or repetitive movements,,2017,2027
+X50.0,Overexertion from strenuous movement or load,X50,2017,2027
+X50.0XXA,"Overexertion from strenuous movement or load, initial encounter",X50.0,2017,2027
+X50.0XXD,"Overexertion from strenuous movement or load, subsequent encounter",X50.0,2017,2027
+X50.0XXS,"Overexertion from strenuous movement or load, sequela",X50.0,2017,2027
+X50.1,Overexertion from prolonged static or awkward postures,X50,2017,2027
+X50.1XXA,"Overexertion from prolonged static or awkward postures, initial encounter",X50.1,2017,2027
+X50.1XXD,"Overexertion from prolonged static or awkward postures, subsequent encounter",X50.1,2017,2027
+X50.1XXS,"Overexertion from prolonged static or awkward postures, sequela",X50.1,2017,2027
+X50.3,Overexertion from repetitive movements,X50,2017,2027
+X50.3XXA,"Overexertion from repetitive movements, initial encounter",X50.3,2017,2027
+X50.3XXD,"Overexertion from repetitive movements, subsequent encounter",X50.3,2017,2027
+X50.3XXS,"Overexertion from repetitive movements, sequela",X50.3,2017,2027
+X50.9,Other and unspecified overexertion or strenuous movements or postures,X50,2017,2027
+X50.9XXA,"Other and unspecified overexertion or strenuous movements or postures, initial encounter",X50.9,2017,2027
+X50.9XXD,"Other and unspecified overexertion or strenuous movements or postures, subsequent encounter",X50.9,2017,2027
+X50.9XXS,"Other and unspecified overexertion or strenuous movements or postures, sequela",X50.9,2017,2027
+X52,Prolonged stay in weightless environment,,2016,2027
+X52.XXXA,"Prolonged stay in weightless environment, initial encounter",X52,2016,2027
+X52.XXXD,"Prolonged stay in weightless environment, subsequent encounter",X52,2016,2027
+X52.XXXS,"Prolonged stay in weightless environment, sequela",X52,2016,2027
+X58,Exposure to other specified factors,,2016,2027
+X58.XXXA,"Exposure to other specified factors, initial encounter",X58,2016,2027
+X58.XXXD,"Exposure to other specified factors, subsequent encounter",X58,2016,2027
+X58.XXXS,"Exposure to other specified factors, sequela",X58,2016,2027
+X71,Intentional self-harm by drowning and submersion,,2016,2027
+X71.0,Intentional self-harm by drowning and submersion while in bathtub,X71,2016,2027
+X71.0XXA,"Intentional self-harm by drowning and submersion while in bathtub, initial encounter",X71.0,2016,2027
+X71.0XXD,"Intentional self-harm by drowning and submersion while in bathtub, subsequent encounter",X71.0,2016,2027
+X71.0XXS,"Intentional self-harm by drowning and submersion while in bathtub, sequela",X71.0,2016,2027
+X71.1,Intentional self-harm by drowning and submersion while in swimming pool,X71,2016,2027
+X71.1XXA,"Intentional self-harm by drowning and submersion while in swimming pool, initial encounter",X71.1,2016,2027
+X71.1XXD,"Intentional self-harm by drowning and submersion while in swimming pool, subsequent encounter",X71.1,2016,2027
+X71.1XXS,"Intentional self-harm by drowning and submersion while in swimming pool, sequela",X71.1,2016,2027
+X71.2,Intentional self-harm by drowning and submersion after jump into swimming pool,X71,2016,2027
+X71.2XXA,"Intentional self-harm by drowning and submersion after jump into swimming pool, initial encounter",X71.2,2016,2027
+X71.2XXD,"Intentional self-harm by drowning and submersion after jump into swimming pool, subsequent encounter",X71.2,2016,2027
+X71.2XXS,"Intentional self-harm by drowning and submersion after jump into swimming pool, sequela",X71.2,2016,2027
+X71.3,Intentional self-harm by drowning and submersion in natural water,X71,2016,2027
+X71.3XXA,"Intentional self-harm by drowning and submersion in natural water, initial encounter",X71.3,2016,2027
+X71.3XXD,"Intentional self-harm by drowning and submersion in natural water, subsequent encounter",X71.3,2016,2027
+X71.3XXS,"Intentional self-harm by drowning and submersion in natural water, sequela",X71.3,2016,2027
+X71.8,Other intentional self-harm by drowning and submersion,X71,2016,2027
+X71.8XXA,"Other intentional self-harm by drowning and submersion, initial encounter",X71.8,2016,2027
+X71.8XXD,"Other intentional self-harm by drowning and submersion, subsequent encounter",X71.8,2016,2027
+X71.8XXS,"Other intentional self-harm by drowning and submersion, sequela",X71.8,2016,2027
+X71.9,"Intentional self-harm by drowning and submersion, unspecified",X71,2016,2027
+X71.9XXA,"Intentional self-harm by drowning and submersion, unspecified, initial encounter",X71.9,2016,2027
+X71.9XXD,"Intentional self-harm by drowning and submersion, unspecified, subsequent encounter",X71.9,2016,2027
+X71.9XXS,"Intentional self-harm by drowning and submersion, unspecified, sequela",X71.9,2016,2027
+X72,Intentional self-harm by handgun discharge,,2016,2027
+X72.XXXA,"Intentional self-harm by handgun discharge, initial encounter",X72,2016,2027
+X72.XXXD,"Intentional self-harm by handgun discharge, subsequent encounter",X72,2016,2027
+X72.XXXS,"Intentional self-harm by handgun discharge, sequela",X72,2016,2027
+X73,"Intentional self-harm by rifle, shotgun and larger firearm discharge",,2016,2027
+X73.0,Intentional self-harm by shotgun discharge,X73,2016,2027
+X73.0XXA,"Intentional self-harm by shotgun discharge, initial encounter",X73.0,2016,2027
+X73.0XXD,"Intentional self-harm by shotgun discharge, subsequent encounter",X73.0,2016,2027
+X73.0XXS,"Intentional self-harm by shotgun discharge, sequela",X73.0,2016,2027
+X73.1,Intentional self-harm by hunting rifle discharge,X73,2016,2027
+X73.1XXA,"Intentional self-harm by hunting rifle discharge, initial encounter",X73.1,2016,2027
+X73.1XXD,"Intentional self-harm by hunting rifle discharge, subsequent encounter",X73.1,2016,2027
+X73.1XXS,"Intentional self-harm by hunting rifle discharge, sequela",X73.1,2016,2027
+X73.2,Intentional self-harm by machine gun discharge,X73,2016,2027
+X73.2XXA,"Intentional self-harm by machine gun discharge, initial encounter",X73.2,2016,2027
+X73.2XXD,"Intentional self-harm by machine gun discharge, subsequent encounter",X73.2,2016,2027
+X73.2XXS,"Intentional self-harm by machine gun discharge, sequela",X73.2,2016,2027
+X73.8,Intentional self-harm by other larger firearm discharge,X73,2016,2027
+X73.8XXA,"Intentional self-harm by other larger firearm discharge, initial encounter",X73.8,2016,2027
+X73.8XXD,"Intentional self-harm by other larger firearm discharge, subsequent encounter",X73.8,2016,2027
+X73.8XXS,"Intentional self-harm by other larger firearm discharge, sequela",X73.8,2016,2027
+X73.9,Intentional self-harm by unspecified larger firearm discharge,X73,2016,2027
+X73.9XXA,"Intentional self-harm by unspecified larger firearm discharge, initial encounter",X73.9,2016,2027
+X73.9XXD,"Intentional self-harm by unspecified larger firearm discharge, subsequent encounter",X73.9,2016,2027
+X73.9XXS,"Intentional self-harm by unspecified larger firearm discharge, sequela",X73.9,2016,2027
+X74,Intentional self-harm by other and unspecified firearm and gun discharge,,2016,2027
+X74.0,"Intentional self-harm by gas, air or spring-operated guns",X74,2016,2027
+X74.01,Intentional self-harm by airgun,X74.0,2016,2027
+X74.01XA,"Intentional self-harm by airgun, initial encounter",X74.01,2016,2027
+X74.01XD,"Intentional self-harm by airgun, subsequent encounter",X74.01,2016,2027
+X74.01XS,"Intentional self-harm by airgun, sequela",X74.01,2016,2027
+X74.02,Intentional self-harm by paintball gun,X74.0,2016,2027
+X74.02XA,"Intentional self-harm by paintball gun, initial encounter",X74.02,2016,2027
+X74.02XD,"Intentional self-harm by paintball gun, subsequent encounter",X74.02,2016,2027
+X74.02XS,"Intentional self-harm by paintball gun, sequela",X74.02,2016,2027
+X74.09,"Intentional self-harm by other gas, air or spring-operated gun",X74.0,2016,2027
+X74.09XA,"Intentional self-harm by other gas, air or spring-operated gun, initial encounter",X74.09,2016,2027
+X74.09XD,"Intentional self-harm by other gas, air or spring-operated gun, subsequent encounter",X74.09,2016,2027
+X74.09XS,"Intentional self-harm by other gas, air or spring-operated gun, sequela",X74.09,2016,2027
+X74.8,Intentional self-harm by other firearm discharge,X74,2016,2027
+X74.8XXA,"Intentional self-harm by other firearm discharge, initial encounter",X74.8,2016,2027
+X74.8XXD,"Intentional self-harm by other firearm discharge, subsequent encounter",X74.8,2016,2027
+X74.8XXS,"Intentional self-harm by other firearm discharge, sequela",X74.8,2016,2027
+X74.9,Intentional self-harm by unspecified firearm discharge,X74,2016,2027
+X74.9XXA,"Intentional self-harm by unspecified firearm discharge, initial encounter",X74.9,2016,2027
+X74.9XXD,"Intentional self-harm by unspecified firearm discharge, subsequent encounter",X74.9,2016,2027
+X74.9XXS,"Intentional self-harm by unspecified firearm discharge, sequela",X74.9,2016,2027
+X75,Intentional self-harm by explosive material,,2016,2027
+X75.XXXA,"Intentional self-harm by explosive material, initial encounter",X75,2016,2027
+X75.XXXD,"Intentional self-harm by explosive material, subsequent encounter",X75,2016,2027
+X75.XXXS,"Intentional self-harm by explosive material, sequela",X75,2016,2027
+X76,"Intentional self-harm by smoke, fire and flames",,2016,2027
+X76.XXXA,"Intentional self-harm by smoke, fire and flames, initial encounter",X76,2016,2027
+X76.XXXD,"Intentional self-harm by smoke, fire and flames, subsequent encounter",X76,2016,2027
+X76.XXXS,"Intentional self-harm by smoke, fire and flames, sequela",X76,2016,2027
+X77,"Intentional self-harm by steam, hot vapors and hot objects",,2016,2027
+X77.0,Intentional self-harm by steam or hot vapors,X77,2016,2027
+X77.0XXA,"Intentional self-harm by steam or hot vapors, initial encounter",X77.0,2016,2027
+X77.0XXD,"Intentional self-harm by steam or hot vapors, subsequent encounter",X77.0,2016,2027
+X77.0XXS,"Intentional self-harm by steam or hot vapors, sequela",X77.0,2016,2027
+X77.1,Intentional self-harm by hot tap water,X77,2016,2027
+X77.1XXA,"Intentional self-harm by hot tap water, initial encounter",X77.1,2016,2027
+X77.1XXD,"Intentional self-harm by hot tap water, subsequent encounter",X77.1,2016,2027
+X77.1XXS,"Intentional self-harm by hot tap water, sequela",X77.1,2016,2027
+X77.2,Intentional self-harm by other hot fluids,X77,2016,2027
+X77.2XXA,"Intentional self-harm by other hot fluids, initial encounter",X77.2,2016,2027
+X77.2XXD,"Intentional self-harm by other hot fluids, subsequent encounter",X77.2,2016,2027
+X77.2XXS,"Intentional self-harm by other hot fluids, sequela",X77.2,2016,2027
+X77.3,Intentional self-harm by hot household appliances,X77,2016,2027
+X77.3XXA,"Intentional self-harm by hot household appliances, initial encounter",X77.3,2016,2027
+X77.3XXD,"Intentional self-harm by hot household appliances, subsequent encounter",X77.3,2016,2027
+X77.3XXS,"Intentional self-harm by hot household appliances, sequela",X77.3,2016,2027
+X77.8,Intentional self-harm by other hot objects,X77,2016,2027
+X77.8XXA,"Intentional self-harm by other hot objects, initial encounter",X77.8,2016,2027
+X77.8XXD,"Intentional self-harm by other hot objects, subsequent encounter",X77.8,2016,2027
+X77.8XXS,"Intentional self-harm by other hot objects, sequela",X77.8,2016,2027
+X77.9,Intentional self-harm by unspecified hot objects,X77,2016,2027
+X77.9XXA,"Intentional self-harm by unspecified hot objects, initial encounter",X77.9,2016,2027
+X77.9XXD,"Intentional self-harm by unspecified hot objects, subsequent encounter",X77.9,2016,2027
+X77.9XXS,"Intentional self-harm by unspecified hot objects, sequela",X77.9,2016,2027
+X78,Intentional self-harm by sharp object,,2016,2027
+X78.0,Intentional self-harm by sharp glass,X78,2016,2027
+X78.0XXA,"Intentional self-harm by sharp glass, initial encounter",X78.0,2016,2027
+X78.0XXD,"Intentional self-harm by sharp glass, subsequent encounter",X78.0,2016,2027
+X78.0XXS,"Intentional self-harm by sharp glass, sequela",X78.0,2016,2027
+X78.1,Intentional self-harm by knife,X78,2016,2027
+X78.1XXA,"Intentional self-harm by knife, initial encounter",X78.1,2016,2027
+X78.1XXD,"Intentional self-harm by knife, subsequent encounter",X78.1,2016,2027
+X78.1XXS,"Intentional self-harm by knife, sequela",X78.1,2016,2027
+X78.2,Intentional self-harm by sword or dagger,X78,2016,2027
+X78.2XXA,"Intentional self-harm by sword or dagger, initial encounter",X78.2,2016,2027
+X78.2XXD,"Intentional self-harm by sword or dagger, subsequent encounter",X78.2,2016,2027
+X78.2XXS,"Intentional self-harm by sword or dagger, sequela",X78.2,2016,2027
+X78.8,Intentional self-harm by other sharp object,X78,2016,2027
+X78.8XXA,"Intentional self-harm by other sharp object, initial encounter",X78.8,2016,2027
+X78.8XXD,"Intentional self-harm by other sharp object, subsequent encounter",X78.8,2016,2027
+X78.8XXS,"Intentional self-harm by other sharp object, sequela",X78.8,2016,2027
+X78.9,Intentional self-harm by unspecified sharp object,X78,2016,2027
+X78.9XXA,"Intentional self-harm by unspecified sharp object, initial encounter",X78.9,2016,2027
+X78.9XXD,"Intentional self-harm by unspecified sharp object, subsequent encounter",X78.9,2016,2027
+X78.9XXS,"Intentional self-harm by unspecified sharp object, sequela",X78.9,2016,2027
+X79,Intentional self-harm by blunt object,,2016,2027
+X79.XXXA,"Intentional self-harm by blunt object, initial encounter",X79,2016,2027
+X79.XXXD,"Intentional self-harm by blunt object, subsequent encounter",X79,2016,2027
+X79.XXXS,"Intentional self-harm by blunt object, sequela",X79,2016,2027
+X80,Intentional self-harm by jumping from a high place,,2016,2027
+X80.XXXA,"Intentional self-harm by jumping from a high place, initial encounter",X80,2016,2027
+X80.XXXD,"Intentional self-harm by jumping from a high place, subsequent encounter",X80,2016,2027
+X80.XXXS,"Intentional self-harm by jumping from a high place, sequela",X80,2016,2027
+X81,Intentional self-harm by jumping or lying in front of moving object,,2016,2027
+X81.0,Intentional self-harm by jumping or lying in front of motor vehicle,X81,2016,2027
+X81.0XXA,"Intentional self-harm by jumping or lying in front of motor vehicle, initial encounter",X81.0,2016,2027
+X81.0XXD,"Intentional self-harm by jumping or lying in front of motor vehicle, subsequent encounter",X81.0,2016,2027
+X81.0XXS,"Intentional self-harm by jumping or lying in front of motor vehicle, sequela",X81.0,2016,2027
+X81.1,Intentional self-harm by jumping or lying in front of (subway) train,X81,2016,2027
+X81.1XXA,"Intentional self-harm by jumping or lying in front of (subway) train, initial encounter",X81.1,2016,2027
+X81.1XXD,"Intentional self-harm by jumping or lying in front of (subway) train, subsequent encounter",X81.1,2016,2027
+X81.1XXS,"Intentional self-harm by jumping or lying in front of (subway) train, sequela",X81.1,2016,2027
+X81.8,Intentional self-harm by jumping or lying in front of other moving object,X81,2016,2027
+X81.8XXA,"Intentional self-harm by jumping or lying in front of other moving object, initial encounter",X81.8,2016,2027
+X81.8XXD,"Intentional self-harm by jumping or lying in front of other moving object, subsequent encounter",X81.8,2016,2027
+X81.8XXS,"Intentional self-harm by jumping or lying in front of other moving object, sequela",X81.8,2016,2027
+X82,Intentional self-harm by crashing of motor vehicle,,2016,2027
+X82.0,Intentional collision of motor vehicle with other motor vehicle,X82,2016,2027
+X82.0XXA,"Intentional collision of motor vehicle with other motor vehicle, initial encounter",X82.0,2016,2027
+X82.0XXD,"Intentional collision of motor vehicle with other motor vehicle, subsequent encounter",X82.0,2016,2027
+X82.0XXS,"Intentional collision of motor vehicle with other motor vehicle, sequela",X82.0,2016,2027
+X82.1,Intentional collision of motor vehicle with train,X82,2016,2027
+X82.1XXA,"Intentional collision of motor vehicle with train, initial encounter",X82.1,2016,2027
+X82.1XXD,"Intentional collision of motor vehicle with train, subsequent encounter",X82.1,2016,2027
+X82.1XXS,"Intentional collision of motor vehicle with train, sequela",X82.1,2016,2027
+X82.2,Intentional collision of motor vehicle with tree,X82,2016,2027
+X82.2XXA,"Intentional collision of motor vehicle with tree, initial encounter",X82.2,2016,2027
+X82.2XXD,"Intentional collision of motor vehicle with tree, subsequent encounter",X82.2,2016,2027
+X82.2XXS,"Intentional collision of motor vehicle with tree, sequela",X82.2,2016,2027
+X82.8,Other intentional self-harm by crashing of motor vehicle,X82,2016,2027
+X82.8XXA,"Other intentional self-harm by crashing of motor vehicle, initial encounter",X82.8,2016,2027
+X82.8XXD,"Other intentional self-harm by crashing of motor vehicle, subsequent encounter",X82.8,2016,2027
+X82.8XXS,"Other intentional self-harm by crashing of motor vehicle, sequela",X82.8,2016,2027
+X83,Intentional self-harm by other specified means,,2016,2027
+X83.0,Intentional self-harm by crashing of aircraft,X83,2016,2027
+X83.0XXA,"Intentional self-harm by crashing of aircraft, initial encounter",X83.0,2016,2027
+X83.0XXD,"Intentional self-harm by crashing of aircraft, subsequent encounter",X83.0,2016,2027
+X83.0XXS,"Intentional self-harm by crashing of aircraft, sequela",X83.0,2016,2027
+X83.1,Intentional self-harm by electrocution,X83,2016,2027
+X83.1XXA,"Intentional self-harm by electrocution, initial encounter",X83.1,2016,2027
+X83.1XXD,"Intentional self-harm by electrocution, subsequent encounter",X83.1,2016,2027
+X83.1XXS,"Intentional self-harm by electrocution, sequela",X83.1,2016,2027
+X83.2,Intentional self-harm by exposure to extremes of cold,X83,2016,2027
+X83.2XXA,"Intentional self-harm by exposure to extremes of cold, initial encounter",X83.2,2016,2027
+X83.2XXD,"Intentional self-harm by exposure to extremes of cold, subsequent encounter",X83.2,2016,2027
+X83.2XXS,"Intentional self-harm by exposure to extremes of cold, sequela",X83.2,2016,2027
+X83.8,Intentional self-harm by other specified means,X83,2016,2027
+X83.8XXA,"Intentional self-harm by other specified means, initial encounter",X83.8,2016,2027
+X83.8XXD,"Intentional self-harm by other specified means, subsequent encounter",X83.8,2016,2027
+X83.8XXS,"Intentional self-harm by other specified means, sequela",X83.8,2016,2027
+X92,Assault by drowning and submersion,,2016,2027
+X92.0,Assault by drowning and submersion while in bathtub,X92,2016,2027
+X92.0XXA,"Assault by drowning and submersion while in bathtub, initial encounter",X92.0,2016,2027
+X92.0XXD,"Assault by drowning and submersion while in bathtub, subsequent encounter",X92.0,2016,2027
+X92.0XXS,"Assault by drowning and submersion while in bathtub, sequela",X92.0,2016,2027
+X92.1,Assault by drowning and submersion while in swimming pool,X92,2016,2027
+X92.1XXA,"Assault by drowning and submersion while in swimming pool, initial encounter",X92.1,2016,2027
+X92.1XXD,"Assault by drowning and submersion while in swimming pool, subsequent encounter",X92.1,2016,2027
+X92.1XXS,"Assault by drowning and submersion while in swimming pool, sequela",X92.1,2016,2027
+X92.2,Assault by drowning and submersion after push into swimming pool,X92,2016,2027
+X92.2XXA,"Assault by drowning and submersion after push into swimming pool, initial encounter",X92.2,2016,2027
+X92.2XXD,"Assault by drowning and submersion after push into swimming pool, subsequent encounter",X92.2,2016,2027
+X92.2XXS,"Assault by drowning and submersion after push into swimming pool, sequela",X92.2,2016,2027
+X92.3,Assault by drowning and submersion in natural water,X92,2016,2027
+X92.3XXA,"Assault by drowning and submersion in natural water, initial encounter",X92.3,2016,2027
+X92.3XXD,"Assault by drowning and submersion in natural water, subsequent encounter",X92.3,2016,2027
+X92.3XXS,"Assault by drowning and submersion in natural water, sequela",X92.3,2016,2027
+X92.8,Other assault by drowning and submersion,X92,2016,2027
+X92.8XXA,"Other assault by drowning and submersion, initial encounter",X92.8,2016,2027
+X92.8XXD,"Other assault by drowning and submersion, subsequent encounter",X92.8,2016,2027
+X92.8XXS,"Other assault by drowning and submersion, sequela",X92.8,2016,2027
+X92.9,"Assault by drowning and submersion, unspecified",X92,2016,2027
+X92.9XXA,"Assault by drowning and submersion, unspecified, initial encounter",X92.9,2016,2027
+X92.9XXD,"Assault by drowning and submersion, unspecified, subsequent encounter",X92.9,2016,2027
+X92.9XXS,"Assault by drowning and submersion, unspecified, sequela",X92.9,2016,2027
+X93,Assault by handgun discharge,,2016,2027
+X93.XXXA,"Assault by handgun discharge, initial encounter",X93,2016,2027
+X93.XXXD,"Assault by handgun discharge, subsequent encounter",X93,2016,2027
+X93.XXXS,"Assault by handgun discharge, sequela",X93,2016,2027
+X94,"Assault by rifle, shotgun and larger firearm discharge",,2016,2027
+X94.0,Assault by shotgun,X94,2016,2027
+X94.0XXA,"Assault by shotgun, initial encounter",X94.0,2016,2027
+X94.0XXD,"Assault by shotgun, subsequent encounter",X94.0,2016,2027
+X94.0XXS,"Assault by shotgun, sequela",X94.0,2016,2027
+X94.1,Assault by hunting rifle,X94,2016,2027
+X94.1XXA,"Assault by hunting rifle, initial encounter",X94.1,2016,2027
+X94.1XXD,"Assault by hunting rifle, subsequent encounter",X94.1,2016,2027
+X94.1XXS,"Assault by hunting rifle, sequela",X94.1,2016,2027
+X94.2,Assault by machine gun,X94,2016,2027
+X94.2XXA,"Assault by machine gun, initial encounter",X94.2,2016,2027
+X94.2XXD,"Assault by machine gun, subsequent encounter",X94.2,2016,2027
+X94.2XXS,"Assault by machine gun, sequela",X94.2,2016,2027
+X94.8,Assault by other larger firearm discharge,X94,2016,2027
+X94.8XXA,"Assault by other larger firearm discharge, initial encounter",X94.8,2016,2027
+X94.8XXD,"Assault by other larger firearm discharge, subsequent encounter",X94.8,2016,2027
+X94.8XXS,"Assault by other larger firearm discharge, sequela",X94.8,2016,2027
+X94.9,Assault by unspecified larger firearm discharge,X94,2016,2027
+X94.9XXA,"Assault by unspecified larger firearm discharge, initial encounter",X94.9,2016,2027
+X94.9XXD,"Assault by unspecified larger firearm discharge, subsequent encounter",X94.9,2016,2027
+X94.9XXS,"Assault by unspecified larger firearm discharge, sequela",X94.9,2016,2027
+X95,Assault by other and unspecified firearm and gun discharge,,2016,2027
+X95.0,"Assault by gas, air or spring-operated guns",X95,2016,2027
+X95.01,Assault by airgun discharge,X95.0,2016,2027
+X95.01XA,"Assault by airgun discharge, initial encounter",X95.01,2016,2027
+X95.01XD,"Assault by airgun discharge, subsequent encounter",X95.01,2016,2027
+X95.01XS,"Assault by airgun discharge, sequela",X95.01,2016,2027
+X95.02,Assault by paintball gun discharge,X95.0,2016,2027
+X95.02XA,"Assault by paintball gun discharge, initial encounter",X95.02,2016,2027
+X95.02XD,"Assault by paintball gun discharge, subsequent encounter",X95.02,2016,2027
+X95.02XS,"Assault by paintball gun discharge, sequela",X95.02,2016,2027
+X95.09,"Assault by other gas, air or spring-operated gun",X95.0,2016,2027
+X95.09XA,"Assault by other gas, air or spring-operated gun, initial encounter",X95.09,2016,2027
+X95.09XD,"Assault by other gas, air or spring-operated gun, subsequent encounter",X95.09,2016,2027
+X95.09XS,"Assault by other gas, air or spring-operated gun, sequela",X95.09,2016,2027
+X95.8,Assault by other firearm discharge,X95,2016,2027
+X95.8XXA,"Assault by other firearm discharge, initial encounter",X95.8,2016,2027
+X95.8XXD,"Assault by other firearm discharge, subsequent encounter",X95.8,2016,2027
+X95.8XXS,"Assault by other firearm discharge, sequela",X95.8,2016,2027
+X95.9,Assault by unspecified firearm discharge,X95,2016,2027
+X95.9XXA,"Assault by unspecified firearm discharge, initial encounter",X95.9,2016,2027
+X95.9XXD,"Assault by unspecified firearm discharge, subsequent encounter",X95.9,2016,2027
+X95.9XXS,"Assault by unspecified firearm discharge, sequela",X95.9,2016,2027
+X96,Assault by explosive material,,2016,2027
+X96.0,Assault by antipersonnel bomb,X96,2016,2027
+X96.0XXA,"Assault by antipersonnel bomb, initial encounter",X96.0,2016,2027
+X96.0XXD,"Assault by antipersonnel bomb, subsequent encounter",X96.0,2016,2027
+X96.0XXS,"Assault by antipersonnel bomb, sequela",X96.0,2016,2027
+X96.1,Assault by gasoline bomb,X96,2016,2027
+X96.1XXA,"Assault by gasoline bomb, initial encounter",X96.1,2016,2027
+X96.1XXD,"Assault by gasoline bomb, subsequent encounter",X96.1,2016,2027
+X96.1XXS,"Assault by gasoline bomb, sequela",X96.1,2016,2027
+X96.2,Assault by letter bomb,X96,2016,2027
+X96.2XXA,"Assault by letter bomb, initial encounter",X96.2,2016,2027
+X96.2XXD,"Assault by letter bomb, subsequent encounter",X96.2,2016,2027
+X96.2XXS,"Assault by letter bomb, sequela",X96.2,2016,2027
+X96.3,Assault by fertilizer bomb,X96,2016,2027
+X96.3XXA,"Assault by fertilizer bomb, initial encounter",X96.3,2016,2027
+X96.3XXD,"Assault by fertilizer bomb, subsequent encounter",X96.3,2016,2027
+X96.3XXS,"Assault by fertilizer bomb, sequela",X96.3,2016,2027
+X96.4,Assault by pipe bomb,X96,2016,2027
+X96.4XXA,"Assault by pipe bomb, initial encounter",X96.4,2016,2027
+X96.4XXD,"Assault by pipe bomb, subsequent encounter",X96.4,2016,2027
+X96.4XXS,"Assault by pipe bomb, sequela",X96.4,2016,2027
+X96.8,Assault by other specified explosive,X96,2016,2027
+X96.8XXA,"Assault by other specified explosive, initial encounter",X96.8,2016,2027
+X96.8XXD,"Assault by other specified explosive, subsequent encounter",X96.8,2016,2027
+X96.8XXS,"Assault by other specified explosive, sequela",X96.8,2016,2027
+X96.9,Assault by unspecified explosive,X96,2016,2027
+X96.9XXA,"Assault by unspecified explosive, initial encounter",X96.9,2016,2027
+X96.9XXD,"Assault by unspecified explosive, subsequent encounter",X96.9,2016,2027
+X96.9XXS,"Assault by unspecified explosive, sequela",X96.9,2016,2027
+X97,"Assault by smoke, fire and flames",,2016,2027
+X97.XXXA,"Assault by smoke, fire and flames, initial encounter",X97,2016,2027
+X97.XXXD,"Assault by smoke, fire and flames, subsequent encounter",X97,2016,2027
+X97.XXXS,"Assault by smoke, fire and flames, sequela",X97,2016,2027
+X98,"Assault by steam, hot vapors and hot objects",,2016,2027
+X98.0,Assault by steam or hot vapors,X98,2016,2027
+X98.0XXA,"Assault by steam or hot vapors, initial encounter",X98.0,2016,2027
+X98.0XXD,"Assault by steam or hot vapors, subsequent encounter",X98.0,2016,2027
+X98.0XXS,"Assault by steam or hot vapors, sequela",X98.0,2016,2027
+X98.1,Assault by hot tap water,X98,2016,2027
+X98.1XXA,"Assault by hot tap water, initial encounter",X98.1,2016,2027
+X98.1XXD,"Assault by hot tap water, subsequent encounter",X98.1,2016,2027
+X98.1XXS,"Assault by hot tap water, sequela",X98.1,2016,2027
+X98.2,Assault by hot fluids,X98,2016,2027
+X98.2XXA,"Assault by hot fluids, initial encounter",X98.2,2016,2027
+X98.2XXD,"Assault by hot fluids, subsequent encounter",X98.2,2016,2027
+X98.2XXS,"Assault by hot fluids, sequela",X98.2,2016,2027
+X98.3,Assault by hot household appliances,X98,2016,2027
+X98.3XXA,"Assault by hot household appliances, initial encounter",X98.3,2016,2027
+X98.3XXD,"Assault by hot household appliances, subsequent encounter",X98.3,2016,2027
+X98.3XXS,"Assault by hot household appliances, sequela",X98.3,2016,2027
+X98.8,Assault by other hot objects,X98,2016,2027
+X98.8XXA,"Assault by other hot objects, initial encounter",X98.8,2016,2027
+X98.8XXD,"Assault by other hot objects, subsequent encounter",X98.8,2016,2027
+X98.8XXS,"Assault by other hot objects, sequela",X98.8,2016,2027
+X98.9,Assault by unspecified hot objects,X98,2016,2027
+X98.9XXA,"Assault by unspecified hot objects, initial encounter",X98.9,2016,2027
+X98.9XXD,"Assault by unspecified hot objects, subsequent encounter",X98.9,2016,2027
+X98.9XXS,"Assault by unspecified hot objects, sequela",X98.9,2016,2027
+X99,Assault by sharp object,,2016,2027
+X99.0,Assault by sharp glass,X99,2016,2027
+X99.0XXA,"Assault by sharp glass, initial encounter",X99.0,2016,2027
+X99.0XXD,"Assault by sharp glass, subsequent encounter",X99.0,2016,2027
+X99.0XXS,"Assault by sharp glass, sequela",X99.0,2016,2027
+X99.1,Assault by knife,X99,2016,2027
+X99.1XXA,"Assault by knife, initial encounter",X99.1,2016,2027
+X99.1XXD,"Assault by knife, subsequent encounter",X99.1,2016,2027
+X99.1XXS,"Assault by knife, sequela",X99.1,2016,2027
+X99.2,Assault by sword or dagger,X99,2016,2027
+X99.2XXA,"Assault by sword or dagger, initial encounter",X99.2,2016,2027
+X99.2XXD,"Assault by sword or dagger, subsequent encounter",X99.2,2016,2027
+X99.2XXS,"Assault by sword or dagger, sequela",X99.2,2016,2027
+X99.8,Assault by other sharp object,X99,2016,2027
+X99.8XXA,"Assault by other sharp object, initial encounter",X99.8,2016,2027
+X99.8XXD,"Assault by other sharp object, subsequent encounter",X99.8,2016,2027
+X99.8XXS,"Assault by other sharp object, sequela",X99.8,2016,2027
+X99.9,Assault by unspecified sharp object,X99,2016,2027
+X99.9XXA,"Assault by unspecified sharp object, initial encounter",X99.9,2016,2027
+X99.9XXD,"Assault by unspecified sharp object, subsequent encounter",X99.9,2016,2027
+X99.9XXS,"Assault by unspecified sharp object, sequela",X99.9,2016,2027

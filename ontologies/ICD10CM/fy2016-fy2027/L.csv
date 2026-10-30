@@ -1,0 +1,1208 @@
+code,description,parent,first_year,last_year
+L00,Staphylococcal scalded skin syndrome,,2016,2027
+L01,Impetigo,,2016,2027
+L01.0,Impetigo,L01,2016,2027
+L01.00,"Impetigo, unspecified",L01.0,2016,2027
+L01.01,Non-bullous impetigo,L01.0,2016,2027
+L01.02,Bockhart's impetigo,L01.0,2016,2027
+L01.03,Bullous impetigo,L01.0,2016,2027
+L01.09,Other impetigo,L01.0,2016,2027
+L01.1,Impetiginization of other dermatoses,L01,2016,2027
+L02,"Cutaneous abscess, furuncle and carbuncle",,2016,2027
+L02.0,"Cutaneous abscess, furuncle and carbuncle of face",L02,2016,2027
+L02.01,Cutaneous abscess of face,L02.0,2016,2027
+L02.02,Furuncle of face,L02.0,2016,2027
+L02.03,Carbuncle of face,L02.0,2016,2027
+L02.1,"Cutaneous abscess, furuncle and carbuncle of neck",L02,2016,2027
+L02.11,Cutaneous abscess of neck,L02.1,2016,2027
+L02.12,Furuncle of neck,L02.1,2016,2027
+L02.13,Carbuncle of neck,L02.1,2016,2027
+L02.2,"Cutaneous abscess, furuncle and carbuncle of trunk",L02,2016,2027
+L02.21,Cutaneous abscess of trunk,L02.2,2016,2027
+L02.211,Cutaneous abscess of abdominal wall,L02.21,2016,2027
+L02.212,"Cutaneous abscess of back [any part, except buttock and flank]",L02.21,2016,2027
+L02.213,Cutaneous abscess of chest wall,L02.21,2016,2027
+L02.214,Cutaneous abscess of groin,L02.21,2016,2027
+L02.215,Cutaneous abscess of perineum,L02.21,2016,2027
+L02.216,Cutaneous abscess of umbilicus,L02.21,2016,2027
+L02.217,Cutaneous abscess of flank,L02.21,2026,2027
+L02.219,"Cutaneous abscess of trunk, unspecified",L02.21,2016,2027
+L02.22,Furuncle of trunk,L02.2,2016,2027
+L02.221,Furuncle of abdominal wall,L02.22,2016,2027
+L02.222,"Furuncle of back [any part, except buttock and flank]",L02.22,2016,2027
+L02.223,Furuncle of chest wall,L02.22,2016,2027
+L02.224,Furuncle of groin,L02.22,2016,2027
+L02.225,Furuncle of perineum,L02.22,2016,2027
+L02.226,Furuncle of umbilicus,L02.22,2016,2027
+L02.227,Furuncle of flank,L02.22,2026,2027
+L02.229,"Furuncle of trunk, unspecified",L02.22,2016,2027
+L02.23,Carbuncle of trunk,L02.2,2016,2027
+L02.231,Carbuncle of abdominal wall,L02.23,2016,2027
+L02.232,"Carbuncle of back [any part, except buttock and flank]",L02.23,2016,2027
+L02.233,Carbuncle of chest wall,L02.23,2016,2027
+L02.234,Carbuncle of groin,L02.23,2016,2027
+L02.235,Carbuncle of perineum,L02.23,2016,2027
+L02.236,Carbuncle of umbilicus,L02.23,2016,2027
+L02.237,Carbuncle of flank,L02.23,2027,2027
+L02.239,"Carbuncle of trunk, unspecified",L02.23,2016,2027
+L02.3,"Cutaneous abscess, furuncle and carbuncle of buttock",L02,2016,2027
+L02.31,Cutaneous abscess of buttock,L02.3,2016,2027
+L02.32,Furuncle of buttock,L02.3,2016,2027
+L02.33,Carbuncle of buttock,L02.3,2016,2027
+L02.4,"Cutaneous abscess, furuncle and carbuncle of limb",L02,2016,2027
+L02.41,Cutaneous abscess of limb,L02.4,2016,2027
+L02.411,Cutaneous abscess of right axilla,L02.41,2016,2027
+L02.412,Cutaneous abscess of left axilla,L02.41,2016,2027
+L02.413,Cutaneous abscess of right upper limb,L02.41,2016,2027
+L02.414,Cutaneous abscess of left upper limb,L02.41,2016,2027
+L02.415,Cutaneous abscess of right lower limb,L02.41,2016,2027
+L02.416,Cutaneous abscess of left lower limb,L02.41,2016,2027
+L02.419,"Cutaneous abscess of limb, unspecified",L02.41,2016,2027
+L02.42,Furuncle of limb,L02.4,2016,2027
+L02.421,Furuncle of right axilla,L02.42,2016,2027
+L02.422,Furuncle of left axilla,L02.42,2016,2027
+L02.423,Furuncle of right upper limb,L02.42,2016,2027
+L02.424,Furuncle of left upper limb,L02.42,2016,2027
+L02.425,Furuncle of right lower limb,L02.42,2016,2027
+L02.426,Furuncle of left lower limb,L02.42,2016,2027
+L02.429,"Furuncle of limb, unspecified",L02.42,2016,2027
+L02.43,Carbuncle of limb,L02.4,2016,2027
+L02.431,Carbuncle of right axilla,L02.43,2016,2027
+L02.432,Carbuncle of left axilla,L02.43,2016,2027
+L02.433,Carbuncle of right upper limb,L02.43,2016,2027
+L02.434,Carbuncle of left upper limb,L02.43,2016,2027
+L02.435,Carbuncle of right lower limb,L02.43,2016,2027
+L02.436,Carbuncle of left lower limb,L02.43,2016,2027
+L02.439,"Carbuncle of limb, unspecified",L02.43,2016,2027
+L02.5,"Cutaneous abscess, furuncle and carbuncle of hand",L02,2016,2027
+L02.51,Cutaneous abscess of hand,L02.5,2016,2027
+L02.511,Cutaneous abscess of right hand,L02.51,2016,2027
+L02.512,Cutaneous abscess of left hand,L02.51,2016,2027
+L02.519,Cutaneous abscess of unspecified hand,L02.51,2016,2027
+L02.52,Furuncle hand,L02.5,2016,2027
+L02.521,Furuncle right hand,L02.52,2016,2027
+L02.522,Furuncle left hand,L02.52,2016,2027
+L02.529,Furuncle unspecified hand,L02.52,2016,2027
+L02.53,Carbuncle of hand,L02.5,2016,2027
+L02.531,Carbuncle of right hand,L02.53,2016,2027
+L02.532,Carbuncle of left hand,L02.53,2016,2027
+L02.539,Carbuncle of unspecified hand,L02.53,2016,2027
+L02.6,"Cutaneous abscess, furuncle and carbuncle of foot",L02,2016,2027
+L02.61,Cutaneous abscess of foot,L02.6,2016,2027
+L02.611,Cutaneous abscess of right foot,L02.61,2016,2027
+L02.612,Cutaneous abscess of left foot,L02.61,2016,2027
+L02.619,Cutaneous abscess of unspecified foot,L02.61,2016,2027
+L02.62,Furuncle of foot,L02.6,2016,2027
+L02.621,Furuncle of right foot,L02.62,2016,2027
+L02.622,Furuncle of left foot,L02.62,2016,2027
+L02.629,Furuncle of unspecified foot,L02.62,2016,2027
+L02.63,Carbuncle of foot,L02.6,2016,2027
+L02.631,Carbuncle of right foot,L02.63,2016,2027
+L02.632,Carbuncle of left foot,L02.63,2016,2027
+L02.639,Carbuncle of unspecified foot,L02.63,2016,2027
+L02.8,"Cutaneous abscess, furuncle and carbuncle of other sites",L02,2016,2027
+L02.81,Cutaneous abscess of other sites,L02.8,2016,2027
+L02.811,"Cutaneous abscess of head [any part, except face]",L02.81,2016,2027
+L02.818,Cutaneous abscess of other sites,L02.81,2016,2027
+L02.82,Furuncle of other sites,L02.8,2016,2027
+L02.821,"Furuncle of head [any part, except face]",L02.82,2016,2027
+L02.828,Furuncle of other sites,L02.82,2016,2027
+L02.83,Carbuncle of other sites,L02.8,2016,2027
+L02.831,"Carbuncle of head [any part, except face]",L02.83,2016,2027
+L02.838,Carbuncle of other sites,L02.83,2016,2027
+L02.9,"Cutaneous abscess, furuncle and carbuncle, unspecified",L02,2016,2027
+L02.91,"Cutaneous abscess, unspecified",L02.9,2016,2027
+L02.92,"Furuncle, unspecified",L02.9,2016,2027
+L02.93,"Carbuncle, unspecified",L02.9,2016,2027
+L03,Cellulitis and acute lymphangitis,,2016,2027
+L03.0,Cellulitis and acute lymphangitis of finger and toe,L03,2016,2027
+L03.01,Cellulitis of finger,L03.0,2016,2027
+L03.011,Cellulitis of right finger,L03.01,2016,2027
+L03.012,Cellulitis of left finger,L03.01,2016,2027
+L03.019,Cellulitis of unspecified finger,L03.01,2016,2027
+L03.02,Acute lymphangitis of finger,L03.0,2016,2027
+L03.021,Acute lymphangitis of right finger,L03.02,2016,2027
+L03.022,Acute lymphangitis of left finger,L03.02,2016,2027
+L03.029,Acute lymphangitis of unspecified finger,L03.02,2016,2027
+L03.03,Cellulitis of toe,L03.0,2016,2027
+L03.031,Cellulitis of right toe,L03.03,2016,2027
+L03.032,Cellulitis of left toe,L03.03,2016,2027
+L03.039,Cellulitis of unspecified toe,L03.03,2016,2027
+L03.04,Acute lymphangitis of toe,L03.0,2016,2027
+L03.041,Acute lymphangitis of right toe,L03.04,2016,2027
+L03.042,Acute lymphangitis of left toe,L03.04,2016,2027
+L03.049,Acute lymphangitis of unspecified toe,L03.04,2016,2027
+L03.1,Cellulitis and acute lymphangitis of other parts of limb,L03,2016,2027
+L03.11,Cellulitis of other parts of limb,L03.1,2016,2027
+L03.111,Cellulitis of right axilla,L03.11,2016,2027
+L03.112,Cellulitis of left axilla,L03.11,2016,2027
+L03.113,Cellulitis of right upper limb,L03.11,2016,2027
+L03.114,Cellulitis of left upper limb,L03.11,2016,2027
+L03.115,Cellulitis of right lower limb,L03.11,2016,2027
+L03.116,Cellulitis of left lower limb,L03.11,2016,2027
+L03.119,Cellulitis of unspecified part of limb,L03.11,2016,2027
+L03.12,Acute lymphangitis of other parts of limb,L03.1,2016,2027
+L03.121,Acute lymphangitis of right axilla,L03.12,2016,2027
+L03.122,Acute lymphangitis of left axilla,L03.12,2016,2027
+L03.123,Acute lymphangitis of right upper limb,L03.12,2016,2027
+L03.124,Acute lymphangitis of left upper limb,L03.12,2016,2027
+L03.125,Acute lymphangitis of right lower limb,L03.12,2016,2027
+L03.126,Acute lymphangitis of left lower limb,L03.12,2016,2027
+L03.129,Acute lymphangitis of unspecified part of limb,L03.12,2016,2027
+L03.2,Cellulitis and acute lymphangitis of face and neck,L03,2016,2027
+L03.21,Cellulitis and acute lymphangitis of face,L03.2,2016,2027
+L03.211,Cellulitis of face,L03.21,2016,2027
+L03.212,Acute lymphangitis of face,L03.21,2016,2027
+L03.213,Periorbital cellulitis,L03.21,2017,2027
+L03.22,Cellulitis and acute lymphangitis of neck,L03.2,2016,2027
+L03.221,Cellulitis of neck,L03.22,2016,2027
+L03.222,Acute lymphangitis of neck,L03.22,2016,2027
+L03.3,Cellulitis and acute lymphangitis of trunk,L03,2016,2027
+L03.31,Cellulitis of trunk,L03.3,2016,2027
+L03.311,Cellulitis of abdominal wall,L03.31,2016,2027
+L03.312,Cellulitis of back [any part except buttock and flank],L03.31,2016,2027
+L03.313,Cellulitis of chest wall,L03.31,2016,2027
+L03.314,Cellulitis of groin,L03.31,2016,2027
+L03.315,Cellulitis of perineum,L03.31,2016,2027
+L03.316,Cellulitis of umbilicus,L03.31,2016,2027
+L03.317,Cellulitis of buttock,L03.31,2016,2027
+L03.319,"Cellulitis of trunk, unspecified",L03.31,2016,2027
+L03.31A,Cellulitis of flank,L03.31,2026,2027
+L03.32,Acute lymphangitis of trunk,L03.3,2016,2027
+L03.321,Acute lymphangitis of abdominal wall,L03.32,2016,2027
+L03.322,Acute lymphangitis of back [any part except buttock and flank],L03.32,2016,2027
+L03.323,Acute lymphangitis of chest wall,L03.32,2016,2027
+L03.324,Acute lymphangitis of groin,L03.32,2016,2027
+L03.325,Acute lymphangitis of perineum,L03.32,2016,2027
+L03.326,Acute lymphangitis of umbilicus,L03.32,2016,2027
+L03.327,Acute lymphangitis of buttock,L03.32,2016,2027
+L03.329,"Acute lymphangitis of trunk, unspecified",L03.32,2016,2027
+L03.32A,Acute lymphangitis of flank,L03.32,2026,2027
+L03.8,Cellulitis and acute lymphangitis of other sites,L03,2016,2027
+L03.81,Cellulitis of other sites,L03.8,2016,2027
+L03.811,"Cellulitis of head [any part, except face]",L03.81,2016,2027
+L03.818,Cellulitis of other sites,L03.81,2016,2027
+L03.89,Acute lymphangitis of other sites,L03.8,2016,2027
+L03.891,"Acute lymphangitis of head [any part, except face]",L03.89,2016,2027
+L03.898,Acute lymphangitis of other sites,L03.89,2016,2027
+L03.9,"Cellulitis and acute lymphangitis, unspecified",L03,2016,2027
+L03.90,"Cellulitis, unspecified",L03.9,2016,2027
+L03.91,"Acute lymphangitis, unspecified",L03.9,2016,2027
+L04,Acute lymphadenitis,,2016,2027
+L04.0,"Acute lymphadenitis of face, head and neck",L04,2016,2027
+L04.1,Acute lymphadenitis of trunk,L04,2016,2027
+L04.2,Acute lymphadenitis of upper limb,L04,2016,2027
+L04.3,Acute lymphadenitis of lower limb,L04,2016,2027
+L04.8,Acute lymphadenitis of other sites,L04,2016,2027
+L04.9,"Acute lymphadenitis, unspecified",L04,2016,2027
+L05,Pilonidal cyst and sinus,,2016,2027
+L05.0,Pilonidal cyst and sinus with abscess,L05,2016,2027
+L05.01,Pilonidal cyst with abscess,L05.0,2016,2027
+L05.02,Pilonidal sinus with abscess,L05.0,2016,2027
+L05.9,Pilonidal cyst and sinus without abscess,L05,2016,2027
+L05.91,Pilonidal cyst without abscess,L05.9,2016,2027
+L05.92,Pilonidal sinus without abscess,L05.9,2016,2027
+L08,Other local infections of skin and subcutaneous tissue,,2016,2027
+L08.0,Pyoderma,L08,2016,2027
+L08.1,Erythrasma,L08,2016,2027
+L08.8,Other specified local infections of the skin and subcutaneous tissue,L08,2016,2027
+L08.81,Pyoderma vegetans,L08.8,2016,2027
+L08.82,Omphalitis not of newborn,L08.8,2016,2027
+L08.89,Other specified local infections of the skin and subcutaneous tissue,L08.8,2016,2027
+L08.9,"Local infection of the skin and subcutaneous tissue, unspecified",L08,2016,2027
+L10,Pemphigus,,2016,2027
+L10.0,Pemphigus vulgaris,L10,2016,2027
+L10.1,Pemphigus vegetans,L10,2016,2027
+L10.2,Pemphigus foliaceous,L10,2016,2027
+L10.3,Brazilian pemphigus [fogo selvagem],L10,2016,2027
+L10.4,Pemphigus erythematosus,L10,2016,2027
+L10.5,Drug-induced pemphigus,L10,2016,2027
+L10.8,Other pemphigus,L10,2016,2027
+L10.81,Paraneoplastic pemphigus,L10.8,2016,2027
+L10.89,Other pemphigus,L10.8,2016,2027
+L10.9,"Pemphigus, unspecified",L10,2016,2027
+L11,Other acantholytic disorders,,2016,2027
+L11.0,Acquired keratosis follicularis,L11,2016,2027
+L11.1,Transient acantholytic dermatosis [Grover],L11,2016,2027
+L11.8,Other specified acantholytic disorders,L11,2016,2027
+L11.9,"Acantholytic disorder, unspecified",L11,2016,2027
+L12,Pemphigoid,,2016,2027
+L12.0,Bullous pemphigoid,L12,2016,2027
+L12.1,Cicatricial pemphigoid,L12,2016,2027
+L12.2,Chronic bullous disease of childhood,L12,2016,2027
+L12.3,Acquired epidermolysis bullosa,L12,2016,2027
+L12.30,"Acquired epidermolysis bullosa, unspecified",L12.3,2016,2027
+L12.31,Epidermolysis bullosa due to drug,L12.3,2016,2027
+L12.35,Other acquired epidermolysis bullosa,L12.3,2016,2027
+L12.8,Other pemphigoid,L12,2016,2027
+L12.9,"Pemphigoid, unspecified",L12,2016,2027
+L13,Other bullous disorders,,2016,2027
+L13.0,Dermatitis herpetiformis,L13,2016,2027
+L13.1,Subcorneal pustular dermatitis,L13,2016,2027
+L13.8,Other specified bullous disorders,L13,2016,2027
+L13.9,"Bullous disorder, unspecified",L13,2016,2027
+L14,Bullous disorders in diseases classified elsewhere,,2016,2027
+L20,Atopic dermatitis,,2016,2027
+L20.0,Besnier's prurigo,L20,2016,2027
+L20.8,Other atopic dermatitis,L20,2016,2027
+L20.81,Atopic neurodermatitis,L20.8,2016,2027
+L20.82,Flexural eczema,L20.8,2016,2027
+L20.83,Infantile (acute) (chronic) eczema,L20.8,2016,2027
+L20.84,Intrinsic (allergic) eczema,L20.8,2016,2027
+L20.89,Other atopic dermatitis,L20.8,2016,2027
+L20.9,"Atopic dermatitis, unspecified",L20,2016,2027
+L21,Seborrheic dermatitis,,2016,2027
+L21.0,Seborrhea capitis,L21,2016,2027
+L21.1,Seborrheic infantile dermatitis,L21,2016,2027
+L21.8,Other seborrheic dermatitis,L21,2016,2027
+L21.9,"Seborrheic dermatitis, unspecified",L21,2016,2027
+L22,Diaper dermatitis,,2016,2027
+L23,Allergic contact dermatitis,,2016,2027
+L23.0,Allergic contact dermatitis due to metals,L23,2016,2027
+L23.1,Allergic contact dermatitis due to adhesives,L23,2016,2027
+L23.2,Allergic contact dermatitis due to cosmetics,L23,2016,2027
+L23.3,Allergic contact dermatitis due to drugs in contact with skin,L23,2016,2027
+L23.4,Allergic contact dermatitis due to dyes,L23,2016,2027
+L23.5,Allergic contact dermatitis due to other chemical products,L23,2016,2027
+L23.6,Allergic contact dermatitis due to food in contact with the skin,L23,2016,2027
+L23.7,"Allergic contact dermatitis due to plants, except food",L23,2016,2027
+L23.8,Allergic contact dermatitis due to other agents,L23,2016,2027
+L23.81,Allergic contact dermatitis due to animal (cat) (dog) dander,L23.8,2016,2027
+L23.89,Allergic contact dermatitis due to other agents,L23.8,2016,2027
+L23.9,"Allergic contact dermatitis, unspecified cause",L23,2016,2027
+L24,Irritant contact dermatitis,,2016,2027
+L24.0,Irritant contact dermatitis due to detergents,L24,2016,2027
+L24.1,Irritant contact dermatitis due to oils and greases,L24,2016,2027
+L24.2,Irritant contact dermatitis due to solvents,L24,2016,2027
+L24.3,Irritant contact dermatitis due to cosmetics,L24,2016,2027
+L24.4,Irritant contact dermatitis due to drugs in contact with skin,L24,2016,2027
+L24.5,Irritant contact dermatitis due to other chemical products,L24,2016,2027
+L24.6,Irritant contact dermatitis due to food in contact with skin,L24,2016,2027
+L24.7,"Irritant contact dermatitis due to plants, except food",L24,2016,2027
+L24.8,Irritant contact dermatitis due to other agents,L24,2016,2027
+L24.81,Irritant contact dermatitis due to metals,L24.8,2016,2027
+L24.89,Irritant contact dermatitis due to other agents,L24.8,2016,2027
+L24.9,"Irritant contact dermatitis, unspecified cause",L24,2016,2027
+L24.A,Irritant contact dermatitis due to friction or contact with body fluids,L24,2022,2027
+L24.A0,"Irritant contact dermatitis due to friction or contact with body fluids, unspecified",L24.A,2022,2027
+L24.A1,Irritant contact dermatitis due to saliva,L24.A,2022,2027
+L24.A2,"Irritant contact dermatitis due to fecal, urinary or dual incontinence",L24.A,2022,2027
+L24.A9,Irritant contact dermatitis due friction or contact with other specified body fluids,L24.A,2022,2027
+L24.B,Irritant contact dermatitis related to stoma or fistula,L24,2022,2027
+L24.B0,Irritant contact dermatitis related to unspecified stoma or fistula,L24.B,2022,2027
+L24.B1,Irritant contact dermatitis related to digestive stoma or fistula,L24.B,2022,2027
+L24.B2,Irritant contact dermatitis related to respiratory stoma or fistula,L24.B,2022,2027
+L24.B3,Irritant contact dermatitis related to fecal or urinary stoma or fistula,L24.B,2022,2027
+L25,Unspecified contact dermatitis,,2016,2027
+L25.0,Unspecified contact dermatitis due to cosmetics,L25,2016,2027
+L25.1,Unspecified contact dermatitis due to drugs in contact with skin,L25,2016,2027
+L25.2,Unspecified contact dermatitis due to dyes,L25,2016,2027
+L25.3,Unspecified contact dermatitis due to other chemical products,L25,2016,2027
+L25.4,Unspecified contact dermatitis due to food in contact with skin,L25,2016,2027
+L25.5,"Unspecified contact dermatitis due to plants, except food",L25,2016,2027
+L25.8,Unspecified contact dermatitis due to other agents,L25,2016,2027
+L25.9,"Unspecified contact dermatitis, unspecified cause",L25,2016,2027
+L26,Exfoliative dermatitis,,2016,2027
+L27,Dermatitis due to substances taken internally,,2016,2027
+L27.0,Generalized skin eruption due to drugs and medicaments taken internally,L27,2016,2027
+L27.1,Localized skin eruption due to drugs and medicaments taken internally,L27,2016,2027
+L27.2,Dermatitis due to ingested food,L27,2016,2027
+L27.8,Dermatitis due to other substances taken internally,L27,2016,2027
+L27.9,Dermatitis due to unspecified substance taken internally,L27,2016,2027
+L28,Lichen simplex chronicus and prurigo,,2016,2027
+L28.0,Lichen simplex chronicus,L28,2016,2027
+L28.1,Prurigo nodularis,L28,2016,2027
+L28.2,Other prurigo,L28,2016,2027
+L29,Pruritus,,2016,2027
+L29.0,Pruritus ani,L29,2016,2027
+L29.1,Pruritus scroti,L29,2016,2027
+L29.2,Pruritus vulvae,L29,2016,2027
+L29.3,"Anogenital pruritus, unspecified",L29,2016,2027
+L29.8,Other pruritus,L29,2016,2027
+L29.81,Cholestatic pruritus,L29.8,2025,2027
+L29.89,Other pruritus,L29.8,2025,2027
+L29.9,"Pruritus, unspecified",L29,2016,2027
+L30,Other and unspecified dermatitis,,2016,2027
+L30.0,Nummular dermatitis,L30,2016,2027
+L30.1,Dyshidrosis [pompholyx],L30,2016,2027
+L30.2,Cutaneous autosensitization,L30,2016,2027
+L30.3,Infective dermatitis,L30,2016,2027
+L30.4,Erythema intertrigo,L30,2016,2027
+L30.5,Pityriasis alba,L30,2016,2027
+L30.8,Other specified dermatitis,L30,2016,2027
+L30.9,"Dermatitis, unspecified",L30,2016,2027
+L40,Psoriasis,,2016,2027
+L40.0,Psoriasis vulgaris,L40,2016,2027
+L40.1,Generalized pustular psoriasis,L40,2016,2027
+L40.2,Acrodermatitis continua,L40,2016,2027
+L40.3,Pustulosis palmaris et plantaris,L40,2016,2027
+L40.4,Guttate psoriasis,L40,2016,2027
+L40.5,Arthropathic psoriasis,L40,2016,2027
+L40.50,"Arthropathic psoriasis, unspecified",L40.5,2016,2027
+L40.51,Distal interphalangeal psoriatic arthropathy,L40.5,2016,2027
+L40.52,Psoriatic arthritis mutilans,L40.5,2016,2027
+L40.53,Psoriatic spondylitis,L40.5,2016,2027
+L40.54,Psoriatic juvenile arthropathy,L40.5,2016,2027
+L40.59,Other psoriatic arthropathy,L40.5,2016,2027
+L40.8,Other psoriasis,L40,2016,2027
+L40.9,"Psoriasis, unspecified",L40,2016,2027
+L41,Parapsoriasis,,2016,2027
+L41.0,Pityriasis lichenoides et varioliformis acuta,L41,2016,2027
+L41.1,Pityriasis lichenoides chronica,L41,2016,2027
+L41.3,Small plaque parapsoriasis,L41,2016,2027
+L41.4,Large plaque parapsoriasis,L41,2016,2027
+L41.5,Retiform parapsoriasis,L41,2016,2027
+L41.8,Other parapsoriasis,L41,2016,2027
+L41.9,"Parapsoriasis, unspecified",L41,2016,2027
+L42,Pityriasis rosea,,2016,2027
+L43,Lichen planus,,2016,2027
+L43.0,Hypertrophic lichen planus,L43,2016,2027
+L43.1,Bullous lichen planus,L43,2016,2027
+L43.2,Lichenoid drug reaction,L43,2016,2027
+L43.3,Subacute (active) lichen planus,L43,2016,2027
+L43.8,Other lichen planus,L43,2016,2027
+L43.9,"Lichen planus, unspecified",L43,2016,2027
+L44,Other papulosquamous disorders,,2016,2027
+L44.0,Pityriasis rubra pilaris,L44,2016,2027
+L44.1,Lichen nitidus,L44,2016,2027
+L44.2,Lichen striatus,L44,2016,2027
+L44.3,Lichen ruber moniliformis,L44,2016,2027
+L44.4,Infantile papular acrodermatitis [Gianotti-Crosti],L44,2016,2027
+L44.8,Other specified papulosquamous disorders,L44,2016,2027
+L44.9,"Papulosquamous disorder, unspecified",L44,2016,2027
+L45,Papulosquamous disorders in diseases classified elsewhere,,2016,2027
+L49,Exfoliation due to erythematous conditions according to extent of body surface involved,,2016,2027
+L49.0,Exfoliation due to erythematous condition involving less than 10 percent of body surface,L49,2016,2027
+L49.1,Exfoliation due to erythematous condition involving 10-19 percent of body surface,L49,2016,2027
+L49.2,Exfoliation due to erythematous condition involving 20-29 percent of body surface,L49,2016,2027
+L49.3,Exfoliation due to erythematous condition involving 30-39 percent of body surface,L49,2016,2027
+L49.4,Exfoliation due to erythematous condition involving 40-49 percent of body surface,L49,2016,2027
+L49.5,Exfoliation due to erythematous condition involving 50-59 percent of body surface,L49,2016,2027
+L49.6,Exfoliation due to erythematous condition involving 60-69 percent of body surface,L49,2016,2027
+L49.7,Exfoliation due to erythematous condition involving 70-79 percent of body surface,L49,2016,2027
+L49.8,Exfoliation due to erythematous condition involving 80-89 percent of body surface,L49,2016,2027
+L49.9,Exfoliation due to erythematous condition involving 90 or more percent of body surface,L49,2016,2027
+L50,Urticaria,,2016,2027
+L50.0,Allergic urticaria,L50,2016,2027
+L50.1,Idiopathic urticaria,L50,2016,2027
+L50.2,Urticaria due to cold and heat,L50,2016,2027
+L50.3,Dermatographic urticaria,L50,2016,2027
+L50.4,Vibratory urticaria,L50,2016,2027
+L50.5,Cholinergic urticaria,L50,2016,2027
+L50.6,Contact urticaria,L50,2016,2027
+L50.8,Other urticaria,L50,2016,2027
+L50.9,"Urticaria, unspecified",L50,2016,2027
+L51,Erythema multiforme,,2016,2027
+L51.0,Nonbullous erythema multiforme,L51,2016,2027
+L51.1,Stevens-Johnson syndrome,L51,2016,2027
+L51.2,Toxic epidermal necrolysis [Lyell],L51,2016,2027
+L51.3,Stevens-Johnson syndrome-toxic epidermal necrolysis overlap syndrome,L51,2016,2027
+L51.8,Other erythema multiforme,L51,2016,2027
+L51.9,"Erythema multiforme, unspecified",L51,2016,2027
+L52,Erythema nodosum,,2016,2027
+L53,Other erythematous conditions,,2016,2027
+L53.0,Toxic erythema,L53,2016,2027
+L53.1,Erythema annulare centrifugum,L53,2016,2027
+L53.2,Erythema marginatum,L53,2016,2027
+L53.3,Other chronic figurate erythema,L53,2016,2027
+L53.8,Other specified erythematous conditions,L53,2016,2027
+L53.9,"Erythematous condition, unspecified",L53,2016,2027
+L54,Erythema in diseases classified elsewhere,,2016,2027
+L55,Sunburn,,2016,2027
+L55.0,Sunburn of first degree,L55,2016,2027
+L55.1,Sunburn of second degree,L55,2016,2027
+L55.2,Sunburn of third degree,L55,2016,2027
+L55.9,"Sunburn, unspecified",L55,2016,2027
+L56,Other acute skin changes due to ultraviolet radiation,,2016,2027
+L56.0,Drug phototoxic response,L56,2016,2027
+L56.1,Drug photoallergic response,L56,2016,2027
+L56.2,Photocontact dermatitis [berloque dermatitis],L56,2016,2027
+L56.3,Solar urticaria,L56,2016,2027
+L56.4,Polymorphous light eruption,L56,2016,2027
+L56.5,Disseminated superficial actinic porokeratosis (DSAP),L56,2016,2027
+L56.8,Other specified acute skin changes due to ultraviolet radiation,L56,2016,2027
+L56.9,"Acute skin change due to ultraviolet radiation, unspecified",L56,2016,2027
+L57,Skin changes due to chronic exposure to nonionizing radiation,,2016,2027
+L57.0,Actinic keratosis,L57,2016,2027
+L57.1,Actinic reticuloid,L57,2016,2027
+L57.2,Cutis rhomboidalis nuchae,L57,2016,2027
+L57.3,Poikiloderma of Civatte,L57,2016,2027
+L57.4,Cutis laxa senilis,L57,2016,2027
+L57.5,Actinic granuloma,L57,2016,2027
+L57.8,Other skin changes due to chronic exposure to nonionizing radiation,L57,2016,2027
+L57.9,"Skin changes due to chronic exposure to nonionizing radiation, unspecified",L57,2016,2027
+L58,Radiodermatitis,,2016,2027
+L58.0,Acute radiodermatitis,L58,2016,2027
+L58.1,Chronic radiodermatitis,L58,2016,2027
+L58.9,"Radiodermatitis, unspecified",L58,2016,2027
+L59,Other disorders of skin and subcutaneous tissue related to radiation,,2016,2027
+L59.0,Erythema ab igne [dermatitis ab igne],L59,2016,2027
+L59.8,Other specified disorders of the skin and subcutaneous tissue related to radiation,L59,2016,2027
+L59.9,"Disorder of the skin and subcutaneous tissue related to radiation, unspecified",L59,2016,2027
+L60,Nail disorders,,2016,2027
+L60.0,Ingrowing nail,L60,2016,2027
+L60.1,Onycholysis,L60,2016,2027
+L60.2,Onychogryphosis,L60,2016,2027
+L60.3,Nail dystrophy,L60,2016,2027
+L60.4,Beau's lines,L60,2016,2027
+L60.5,Yellow nail syndrome,L60,2016,2027
+L60.8,Other nail disorders,L60,2016,2027
+L60.9,"Nail disorder, unspecified",L60,2016,2027
+L62,Nail disorders in diseases classified elsewhere,,2016,2027
+L63,Alopecia areata,,2016,2027
+L63.0,Alopecia (capitis) totalis,L63,2016,2027
+L63.1,Alopecia universalis,L63,2016,2027
+L63.2,Ophiasis,L63,2016,2027
+L63.8,Other alopecia areata,L63,2016,2027
+L63.9,"Alopecia areata, unspecified",L63,2016,2027
+L64,Androgenic alopecia,,2016,2027
+L64.0,Drug-induced androgenic alopecia,L64,2016,2027
+L64.8,Other androgenic alopecia,L64,2016,2027
+L64.9,"Androgenic alopecia, unspecified",L64,2016,2027
+L65,Other nonscarring hair loss,,2016,2027
+L65.0,Telogen effluvium,L65,2016,2027
+L65.1,Anagen effluvium,L65,2016,2027
+L65.2,Alopecia mucinosa,L65,2016,2027
+L65.8,Other specified nonscarring hair loss,L65,2016,2027
+L65.9,"Nonscarring hair loss, unspecified",L65,2016,2027
+L66,Cicatricial alopecia [scarring hair loss],,2016,2027
+L66.0,Pseudopelade,L66,2016,2027
+L66.1,Lichen planopilaris,L66,2016,2027
+L66.10,"Lichen planopilaris, unspecified",L66.1,2025,2027
+L66.11,Classic lichen planopilaris,L66.1,2025,2027
+L66.12,Frontal fibrosing alopecia,L66.1,2025,2027
+L66.19,Other lichen planopilaris,L66.1,2025,2027
+L66.2,Folliculitis decalvans,L66,2016,2027
+L66.3,Perifolliculitis capitis abscedens,L66,2016,2027
+L66.4,Folliculitis ulerythematosa reticulata,L66,2016,2027
+L66.8,Other cicatricial alopecia,L66,2016,2027
+L66.81,Central centrifugal cicatricial alopecia,L66.8,2025,2027
+L66.89,Other cicatricial alopecia,L66.8,2025,2027
+L66.9,"Cicatricial alopecia, unspecified",L66,2016,2027
+L67,Hair color and hair shaft abnormalities,,2016,2027
+L67.0,Trichorrhexis nodosa,L67,2016,2027
+L67.1,Variations in hair color,L67,2016,2027
+L67.8,Other hair color and hair shaft abnormalities,L67,2016,2027
+L67.9,"Hair color and hair shaft abnormality, unspecified",L67,2016,2027
+L68,Hypertrichosis,,2016,2027
+L68.0,Hirsutism,L68,2016,2027
+L68.1,Acquired hypertrichosis lanuginosa,L68,2016,2027
+L68.2,Localized hypertrichosis,L68,2016,2027
+L68.3,Polytrichia,L68,2016,2027
+L68.8,Other hypertrichosis,L68,2016,2027
+L68.9,"Hypertrichosis, unspecified",L68,2016,2027
+L70,Acne,,2016,2027
+L70.0,Acne vulgaris,L70,2016,2027
+L70.1,Acne conglobata,L70,2016,2027
+L70.2,Acne varioliformis,L70,2016,2027
+L70.3,Acne tropica,L70,2016,2027
+L70.4,Infantile acne,L70,2016,2027
+L70.5,Acne excoriee,L70,2016,2027
+L70.8,Other acne,L70,2016,2027
+L70.9,"Acne, unspecified",L70,2016,2027
+L71,Rosacea,,2016,2027
+L71.0,Perioral dermatitis,L71,2016,2027
+L71.1,Rhinophyma,L71,2016,2027
+L71.8,Other rosacea,L71,2016,2027
+L71.9,"Rosacea, unspecified",L71,2016,2027
+L72,Follicular cysts of skin and subcutaneous tissue,,2016,2027
+L72.0,Epidermal cyst,L72,2016,2027
+L72.1,Pilar and trichodermal cyst,L72,2016,2027
+L72.11,Pilar cyst,L72.1,2016,2027
+L72.12,Trichodermal cyst,L72.1,2016,2027
+L72.2,Steatocystoma multiplex,L72,2016,2027
+L72.3,Sebaceous cyst,L72,2016,2027
+L72.8,Other follicular cysts of the skin and subcutaneous tissue,L72,2016,2027
+L72.9,"Follicular cyst of the skin and subcutaneous tissue, unspecified",L72,2016,2027
+L73,Other follicular disorders,,2016,2027
+L73.0,Acne keloid,L73,2016,2027
+L73.1,Pseudofolliculitis barbae,L73,2016,2027
+L73.2,Hidradenitis suppurativa,L73,2016,2027
+L73.8,Other specified follicular disorders,L73,2016,2027
+L73.9,"Follicular disorder, unspecified",L73,2016,2027
+L74,Eccrine sweat disorders,,2016,2027
+L74.0,Miliaria rubra,L74,2016,2027
+L74.1,Miliaria crystallina,L74,2016,2027
+L74.2,Miliaria profunda,L74,2016,2027
+L74.3,"Miliaria, unspecified",L74,2016,2027
+L74.4,Anhidrosis,L74,2016,2027
+L74.5,Focal hyperhidrosis,L74,2016,2027
+L74.51,Primary focal hyperhidrosis,L74.5,2016,2027
+L74.510,"Primary focal hyperhidrosis, axilla",L74.51,2016,2027
+L74.511,"Primary focal hyperhidrosis, face",L74.51,2016,2027
+L74.512,"Primary focal hyperhidrosis, palms",L74.51,2016,2027
+L74.513,"Primary focal hyperhidrosis, soles",L74.51,2016,2027
+L74.519,"Primary focal hyperhidrosis, unspecified",L74.51,2016,2027
+L74.52,Secondary focal hyperhidrosis,L74.5,2016,2027
+L74.8,Other eccrine sweat disorders,L74,2016,2027
+L74.9,"Eccrine sweat disorder, unspecified",L74,2016,2027
+L75,Apocrine sweat disorders,,2016,2027
+L75.0,Bromhidrosis,L75,2016,2027
+L75.1,Chromhidrosis,L75,2016,2027
+L75.2,Apocrine miliaria,L75,2016,2027
+L75.8,Other apocrine sweat disorders,L75,2016,2027
+L75.9,"Apocrine sweat disorder, unspecified",L75,2016,2027
+L76,Intraoperative and postprocedural complications of skin and subcutaneous tissue,,2016,2027
+L76.0,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating a procedure,L76,2016,2027
+L76.01,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating a dermatologic procedure,L76.0,2016,2027
+L76.02,Intraoperative hemorrhage and hematoma of skin and subcutaneous tissue complicating other procedure,L76.0,2016,2027
+L76.1,Accidental puncture and laceration of skin and subcutaneous tissue during a procedure,L76,2016,2027
+L76.11,Accidental puncture and laceration of skin and subcutaneous tissue during a dermatologic procedure,L76.1,2016,2027
+L76.12,Accidental puncture and laceration of skin and subcutaneous tissue during other procedure,L76.1,2016,2027
+L76.2,Postprocedural hemorrhage of skin and subcutaneous tissue following a procedure,L76,2016,2027
+L76.21,Postprocedural hemorrhage of skin and subcutaneous tissue following a dermatologic procedure,L76.2,2016,2027
+L76.22,Postprocedural hemorrhage of skin and subcutaneous tissue following other procedure,L76.2,2016,2027
+L76.3,Postprocedural hematoma and seroma of skin and subcutaneous tissue following a procedure,L76,2017,2027
+L76.31,Postprocedural hematoma of skin and subcutaneous tissue following a dermatologic procedure,L76.3,2017,2027
+L76.32,Postprocedural hematoma of skin and subcutaneous tissue following other procedure,L76.3,2017,2027
+L76.33,Postprocedural seroma of skin and subcutaneous tissue following a dermatologic procedure,L76.3,2017,2027
+L76.34,Postprocedural seroma of skin and subcutaneous tissue following other procedure,L76.3,2017,2027
+L76.8,Other intraoperative and postprocedural complications of skin and subcutaneous tissue,L76,2016,2027
+L76.81,Other intraoperative complications of skin and subcutaneous tissue,L76.8,2016,2027
+L76.82,Other postprocedural complications of skin and subcutaneous tissue,L76.8,2016,2027
+L80,Vitiligo,,2016,2027
+L81,Other disorders of pigmentation,,2016,2027
+L81.0,Postinflammatory hyperpigmentation,L81,2016,2027
+L81.1,Chloasma,L81,2016,2027
+L81.2,Freckles,L81,2016,2027
+L81.3,Cafe au lait spots,L81,2016,2027
+L81.4,Other melanin hyperpigmentation,L81,2016,2027
+L81.5,"Leukoderma, not elsewhere classified",L81,2016,2027
+L81.6,Other disorders of diminished melanin formation,L81,2016,2027
+L81.7,Pigmented purpuric dermatosis,L81,2016,2027
+L81.8,Other specified disorders of pigmentation,L81,2016,2027
+L81.9,"Disorder of pigmentation, unspecified",L81,2016,2027
+L82,Seborrheic keratosis,,2016,2027
+L82.0,Inflamed seborrheic keratosis,L82,2016,2027
+L82.1,Other seborrheic keratosis,L82,2016,2027
+L83,Acanthosis nigricans,,2016,2027
+L84,Corns and callosities,,2016,2027
+L85,Other epidermal thickening,,2016,2027
+L85.0,Acquired ichthyosis,L85,2016,2027
+L85.1,Acquired keratosis [keratoderma] palmaris et plantaris,L85,2016,2027
+L85.2,Keratosis punctata (palmaris et plantaris),L85,2016,2027
+L85.3,Xerosis cutis,L85,2016,2027
+L85.8,Other specified epidermal thickening,L85,2016,2027
+L85.9,"Epidermal thickening, unspecified",L85,2016,2027
+L86,Keratoderma in diseases classified elsewhere,,2016,2027
+L87,Transepidermal elimination disorders,,2016,2027
+L87.0,Keratosis follicularis et parafollicularis in cutem penetrans,L87,2016,2027
+L87.1,Reactive perforating collagenosis,L87,2016,2027
+L87.2,Elastosis perforans serpiginosa,L87,2016,2027
+L87.8,Other transepidermal elimination disorders,L87,2016,2027
+L87.9,"Transepidermal elimination disorder, unspecified",L87,2016,2027
+L88,Pyoderma gangrenosum,,2016,2027
+L89,Pressure ulcer,,2016,2027
+L89.0,Pressure ulcer of elbow,L89,2016,2027
+L89.00,Pressure ulcer of unspecified elbow,L89.0,2016,2027
+L89.000,"Pressure ulcer of unspecified elbow, unstageable",L89.00,2016,2027
+L89.001,"Pressure ulcer of unspecified elbow, stage 1",L89.00,2016,2027
+L89.002,"Pressure ulcer of unspecified elbow, stage 2",L89.00,2016,2027
+L89.003,"Pressure ulcer of unspecified elbow, stage 3",L89.00,2016,2027
+L89.004,"Pressure ulcer of unspecified elbow, stage 4",L89.00,2016,2027
+L89.006,Pressure-induced deep tissue damage of unspecified elbow,L89.00,2020,2027
+L89.009,"Pressure ulcer of unspecified elbow, unspecified stage",L89.00,2016,2027
+L89.01,Pressure ulcer of right elbow,L89.0,2016,2027
+L89.010,"Pressure ulcer of right elbow, unstageable",L89.01,2016,2027
+L89.011,"Pressure ulcer of right elbow, stage 1",L89.01,2016,2027
+L89.012,"Pressure ulcer of right elbow, stage 2",L89.01,2016,2027
+L89.013,"Pressure ulcer of right elbow, stage 3",L89.01,2016,2027
+L89.014,"Pressure ulcer of right elbow, stage 4",L89.01,2016,2027
+L89.016,Pressure-induced deep tissue damage of right elbow,L89.01,2020,2027
+L89.019,"Pressure ulcer of right elbow, unspecified stage",L89.01,2016,2027
+L89.02,Pressure ulcer of left elbow,L89.0,2016,2027
+L89.020,"Pressure ulcer of left elbow, unstageable",L89.02,2016,2027
+L89.021,"Pressure ulcer of left elbow, stage 1",L89.02,2016,2027
+L89.022,"Pressure ulcer of left elbow, stage 2",L89.02,2016,2027
+L89.023,"Pressure ulcer of left elbow, stage 3",L89.02,2016,2027
+L89.024,"Pressure ulcer of left elbow, stage 4",L89.02,2016,2027
+L89.026,Pressure-induced deep tissue damage of left elbow,L89.02,2020,2027
+L89.029,"Pressure ulcer of left elbow, unspecified stage",L89.02,2016,2027
+L89.1,Pressure ulcer of back,L89,2016,2027
+L89.10,Pressure ulcer of unspecified part of back,L89.1,2016,2027
+L89.100,"Pressure ulcer of unspecified part of back, unstageable",L89.10,2016,2027
+L89.101,"Pressure ulcer of unspecified part of back, stage 1",L89.10,2016,2027
+L89.102,"Pressure ulcer of unspecified part of back, stage 2",L89.10,2016,2027
+L89.103,"Pressure ulcer of unspecified part of back, stage 3",L89.10,2016,2027
+L89.104,"Pressure ulcer of unspecified part of back, stage 4",L89.10,2016,2027
+L89.106,Pressure-induced deep tissue damage of unspecified part of back,L89.10,2020,2027
+L89.109,"Pressure ulcer of unspecified part of back, unspecified stage",L89.10,2016,2027
+L89.11,Pressure ulcer of right upper back,L89.1,2016,2027
+L89.110,"Pressure ulcer of right upper back, unstageable",L89.11,2016,2027
+L89.111,"Pressure ulcer of right upper back, stage 1",L89.11,2016,2027
+L89.112,"Pressure ulcer of right upper back, stage 2",L89.11,2016,2027
+L89.113,"Pressure ulcer of right upper back, stage 3",L89.11,2016,2027
+L89.114,"Pressure ulcer of right upper back, stage 4",L89.11,2016,2027
+L89.116,Pressure-induced deep tissue damage of right upper back,L89.11,2020,2027
+L89.119,"Pressure ulcer of right upper back, unspecified stage",L89.11,2016,2027
+L89.12,Pressure ulcer of left upper back,L89.1,2016,2027
+L89.120,"Pressure ulcer of left upper back, unstageable",L89.12,2016,2027
+L89.121,"Pressure ulcer of left upper back, stage 1",L89.12,2016,2027
+L89.122,"Pressure ulcer of left upper back, stage 2",L89.12,2016,2027
+L89.123,"Pressure ulcer of left upper back, stage 3",L89.12,2016,2027
+L89.124,"Pressure ulcer of left upper back, stage 4",L89.12,2016,2027
+L89.126,Pressure-induced deep tissue damage of left upper back,L89.12,2020,2027
+L89.129,"Pressure ulcer of left upper back, unspecified stage",L89.12,2016,2027
+L89.13,Pressure ulcer of right lower back,L89.1,2016,2027
+L89.130,"Pressure ulcer of right lower back, unstageable",L89.13,2016,2027
+L89.131,"Pressure ulcer of right lower back, stage 1",L89.13,2016,2027
+L89.132,"Pressure ulcer of right lower back, stage 2",L89.13,2016,2027
+L89.133,"Pressure ulcer of right lower back, stage 3",L89.13,2016,2027
+L89.134,"Pressure ulcer of right lower back, stage 4",L89.13,2016,2027
+L89.136,Pressure-induced deep tissue damage of right lower back,L89.13,2020,2027
+L89.139,"Pressure ulcer of right lower back, unspecified stage",L89.13,2016,2027
+L89.14,Pressure ulcer of left lower back,L89.1,2016,2027
+L89.140,"Pressure ulcer of left lower back, unstageable",L89.14,2016,2027
+L89.141,"Pressure ulcer of left lower back, stage 1",L89.14,2016,2027
+L89.142,"Pressure ulcer of left lower back, stage 2",L89.14,2016,2027
+L89.143,"Pressure ulcer of left lower back, stage 3",L89.14,2016,2027
+L89.144,"Pressure ulcer of left lower back, stage 4",L89.14,2016,2027
+L89.146,Pressure-induced deep tissue damage of left lower back,L89.14,2020,2027
+L89.149,"Pressure ulcer of left lower back, unspecified stage",L89.14,2016,2027
+L89.15,Pressure ulcer of sacral region,L89.1,2016,2027
+L89.150,"Pressure ulcer of sacral region, unstageable",L89.15,2016,2027
+L89.151,"Pressure ulcer of sacral region, stage 1",L89.15,2016,2027
+L89.152,"Pressure ulcer of sacral region, stage 2",L89.15,2016,2027
+L89.153,"Pressure ulcer of sacral region, stage 3",L89.15,2016,2027
+L89.154,"Pressure ulcer of sacral region, stage 4",L89.15,2016,2027
+L89.156,Pressure-induced deep tissue damage of sacral region,L89.15,2020,2027
+L89.159,"Pressure ulcer of sacral region, unspecified stage",L89.15,2016,2027
+L89.2,Pressure ulcer of hip,L89,2016,2027
+L89.20,Pressure ulcer of unspecified hip,L89.2,2016,2027
+L89.200,"Pressure ulcer of unspecified hip, unstageable",L89.20,2016,2027
+L89.201,"Pressure ulcer of unspecified hip, stage 1",L89.20,2016,2027
+L89.202,"Pressure ulcer of unspecified hip, stage 2",L89.20,2016,2027
+L89.203,"Pressure ulcer of unspecified hip, stage 3",L89.20,2016,2027
+L89.204,"Pressure ulcer of unspecified hip, stage 4",L89.20,2016,2027
+L89.206,Pressure-induced deep tissue damage of unspecified hip,L89.20,2020,2027
+L89.209,"Pressure ulcer of unspecified hip, unspecified stage",L89.20,2016,2027
+L89.21,Pressure ulcer of right hip,L89.2,2016,2027
+L89.210,"Pressure ulcer of right hip, unstageable",L89.21,2016,2027
+L89.211,"Pressure ulcer of right hip, stage 1",L89.21,2016,2027
+L89.212,"Pressure ulcer of right hip, stage 2",L89.21,2016,2027
+L89.213,"Pressure ulcer of right hip, stage 3",L89.21,2016,2027
+L89.214,"Pressure ulcer of right hip, stage 4",L89.21,2016,2027
+L89.216,Pressure-induced deep tissue damage of right hip,L89.21,2020,2027
+L89.219,"Pressure ulcer of right hip, unspecified stage",L89.21,2016,2027
+L89.22,Pressure ulcer of left hip,L89.2,2016,2027
+L89.220,"Pressure ulcer of left hip, unstageable",L89.22,2016,2027
+L89.221,"Pressure ulcer of left hip, stage 1",L89.22,2016,2027
+L89.222,"Pressure ulcer of left hip, stage 2",L89.22,2016,2027
+L89.223,"Pressure ulcer of left hip, stage 3",L89.22,2016,2027
+L89.224,"Pressure ulcer of left hip, stage 4",L89.22,2016,2027
+L89.226,Pressure-induced deep tissue damage of left hip,L89.22,2020,2027
+L89.229,"Pressure ulcer of left hip, unspecified stage",L89.22,2016,2027
+L89.3,Pressure ulcer of buttock,L89,2016,2027
+L89.30,Pressure ulcer of unspecified buttock,L89.3,2016,2027
+L89.300,"Pressure ulcer of unspecified buttock, unstageable",L89.30,2016,2027
+L89.301,"Pressure ulcer of unspecified buttock, stage 1",L89.30,2016,2027
+L89.302,"Pressure ulcer of unspecified buttock, stage 2",L89.30,2016,2027
+L89.303,"Pressure ulcer of unspecified buttock, stage 3",L89.30,2016,2027
+L89.304,"Pressure ulcer of unspecified buttock, stage 4",L89.30,2016,2027
+L89.306,Pressure-induced deep tissue damage of unspecified buttock,L89.30,2020,2027
+L89.309,"Pressure ulcer of unspecified buttock, unspecified stage",L89.30,2016,2027
+L89.31,Pressure ulcer of right buttock,L89.3,2016,2027
+L89.310,"Pressure ulcer of right buttock, unstageable",L89.31,2016,2027
+L89.311,"Pressure ulcer of right buttock, stage 1",L89.31,2016,2027
+L89.312,"Pressure ulcer of right buttock, stage 2",L89.31,2016,2027
+L89.313,"Pressure ulcer of right buttock, stage 3",L89.31,2016,2027
+L89.314,"Pressure ulcer of right buttock, stage 4",L89.31,2016,2027
+L89.316,Pressure-induced deep tissue damage of right buttock,L89.31,2020,2027
+L89.319,"Pressure ulcer of right buttock, unspecified stage",L89.31,2016,2027
+L89.32,Pressure ulcer of left buttock,L89.3,2016,2027
+L89.320,"Pressure ulcer of left buttock, unstageable",L89.32,2016,2027
+L89.321,"Pressure ulcer of left buttock, stage 1",L89.32,2016,2027
+L89.322,"Pressure ulcer of left buttock, stage 2",L89.32,2016,2027
+L89.323,"Pressure ulcer of left buttock, stage 3",L89.32,2016,2027
+L89.324,"Pressure ulcer of left buttock, stage 4",L89.32,2016,2027
+L89.326,Pressure-induced deep tissue damage of left buttock,L89.32,2020,2027
+L89.329,"Pressure ulcer of left buttock, unspecified stage",L89.32,2016,2027
+L89.4,"Pressure ulcer of contiguous site of back, buttock and hip",L89,2016,2027
+L89.40,"Pressure ulcer of contiguous site of back, buttock and hip, unspecified stage",L89.4,2016,2027
+L89.41,"Pressure ulcer of contiguous site of back, buttock and hip, stage 1",L89.4,2016,2027
+L89.42,"Pressure ulcer of contiguous site of back, buttock and hip, stage 2",L89.4,2016,2027
+L89.43,"Pressure ulcer of contiguous site of back, buttock and hip, stage 3",L89.4,2016,2027
+L89.44,"Pressure ulcer of contiguous site of back, buttock and hip, stage 4",L89.4,2016,2027
+L89.45,"Pressure ulcer of contiguous site of back, buttock and hip, unstageable",L89.4,2016,2027
+L89.46,"Pressure-induced deep tissue damage of contiguous site of back, buttock and hip",L89.4,2020,2027
+L89.5,Pressure ulcer of ankle,L89,2016,2027
+L89.50,Pressure ulcer of unspecified ankle,L89.5,2016,2027
+L89.500,"Pressure ulcer of unspecified ankle, unstageable",L89.50,2016,2027
+L89.501,"Pressure ulcer of unspecified ankle, stage 1",L89.50,2016,2027
+L89.502,"Pressure ulcer of unspecified ankle, stage 2",L89.50,2016,2027
+L89.503,"Pressure ulcer of unspecified ankle, stage 3",L89.50,2016,2027
+L89.504,"Pressure ulcer of unspecified ankle, stage 4",L89.50,2016,2027
+L89.506,Pressure-induced deep tissue damage of unspecified ankle,L89.50,2020,2027
+L89.509,"Pressure ulcer of unspecified ankle, unspecified stage",L89.50,2016,2027
+L89.51,Pressure ulcer of right ankle,L89.5,2016,2027
+L89.510,"Pressure ulcer of right ankle, unstageable",L89.51,2016,2027
+L89.511,"Pressure ulcer of right ankle, stage 1",L89.51,2016,2027
+L89.512,"Pressure ulcer of right ankle, stage 2",L89.51,2016,2027
+L89.513,"Pressure ulcer of right ankle, stage 3",L89.51,2016,2027
+L89.514,"Pressure ulcer of right ankle, stage 4",L89.51,2016,2027
+L89.516,Pressure-induced deep tissue damage of right ankle,L89.51,2020,2027
+L89.519,"Pressure ulcer of right ankle, unspecified stage",L89.51,2016,2027
+L89.52,Pressure ulcer of left ankle,L89.5,2016,2027
+L89.520,"Pressure ulcer of left ankle, unstageable",L89.52,2016,2027
+L89.521,"Pressure ulcer of left ankle, stage 1",L89.52,2016,2027
+L89.522,"Pressure ulcer of left ankle, stage 2",L89.52,2016,2027
+L89.523,"Pressure ulcer of left ankle, stage 3",L89.52,2016,2027
+L89.524,"Pressure ulcer of left ankle, stage 4",L89.52,2016,2027
+L89.526,Pressure-induced deep tissue damage of left ankle,L89.52,2020,2027
+L89.529,"Pressure ulcer of left ankle, unspecified stage",L89.52,2016,2027
+L89.6,Pressure ulcer of heel,L89,2016,2027
+L89.60,Pressure ulcer of unspecified heel,L89.6,2016,2027
+L89.600,"Pressure ulcer of unspecified heel, unstageable",L89.60,2016,2027
+L89.601,"Pressure ulcer of unspecified heel, stage 1",L89.60,2016,2027
+L89.602,"Pressure ulcer of unspecified heel, stage 2",L89.60,2016,2027
+L89.603,"Pressure ulcer of unspecified heel, stage 3",L89.60,2016,2027
+L89.604,"Pressure ulcer of unspecified heel, stage 4",L89.60,2016,2027
+L89.606,Pressure-induced deep tissue damage of unspecified heel,L89.60,2020,2027
+L89.609,"Pressure ulcer of unspecified heel, unspecified stage",L89.60,2016,2027
+L89.61,Pressure ulcer of right heel,L89.6,2016,2027
+L89.610,"Pressure ulcer of right heel, unstageable",L89.61,2016,2027
+L89.611,"Pressure ulcer of right heel, stage 1",L89.61,2016,2027
+L89.612,"Pressure ulcer of right heel, stage 2",L89.61,2016,2027
+L89.613,"Pressure ulcer of right heel, stage 3",L89.61,2016,2027
+L89.614,"Pressure ulcer of right heel, stage 4",L89.61,2016,2027
+L89.616,Pressure-induced deep tissue damage of right heel,L89.61,2020,2027
+L89.619,"Pressure ulcer of right heel, unspecified stage",L89.61,2016,2027
+L89.62,Pressure ulcer of left heel,L89.6,2016,2027
+L89.620,"Pressure ulcer of left heel, unstageable",L89.62,2016,2027
+L89.621,"Pressure ulcer of left heel, stage 1",L89.62,2016,2027
+L89.622,"Pressure ulcer of left heel, stage 2",L89.62,2016,2027
+L89.623,"Pressure ulcer of left heel, stage 3",L89.62,2016,2027
+L89.624,"Pressure ulcer of left heel, stage 4",L89.62,2016,2027
+L89.626,Pressure-induced deep tissue damage of left heel,L89.62,2020,2027
+L89.629,"Pressure ulcer of left heel, unspecified stage",L89.62,2016,2027
+L89.8,Pressure ulcer of other site,L89,2016,2027
+L89.81,Pressure ulcer of head,L89.8,2016,2027
+L89.810,"Pressure ulcer of head, unstageable",L89.81,2016,2027
+L89.811,"Pressure ulcer of head, stage 1",L89.81,2016,2027
+L89.812,"Pressure ulcer of head, stage 2",L89.81,2016,2027
+L89.813,"Pressure ulcer of head, stage 3",L89.81,2016,2027
+L89.814,"Pressure ulcer of head, stage 4",L89.81,2016,2027
+L89.816,Pressure-induced deep tissue damage of head,L89.81,2020,2027
+L89.819,"Pressure ulcer of head, unspecified stage",L89.81,2016,2027
+L89.89,Pressure ulcer of other site,L89.8,2016,2027
+L89.890,"Pressure ulcer of other site, unstageable",L89.89,2016,2027
+L89.891,"Pressure ulcer of other site, stage 1",L89.89,2016,2027
+L89.892,"Pressure ulcer of other site, stage 2",L89.89,2016,2027
+L89.893,"Pressure ulcer of other site, stage 3",L89.89,2016,2027
+L89.894,"Pressure ulcer of other site, stage 4",L89.89,2016,2027
+L89.896,Pressure-induced deep tissue damage of other site,L89.89,2020,2027
+L89.899,"Pressure ulcer of other site, unspecified stage",L89.89,2016,2027
+L89.9,Pressure ulcer of unspecified site,L89,2016,2027
+L89.90,"Pressure ulcer of unspecified site, unspecified stage",L89.9,2016,2027
+L89.91,"Pressure ulcer of unspecified site, stage 1",L89.9,2016,2027
+L89.92,"Pressure ulcer of unspecified site, stage 2",L89.9,2016,2027
+L89.93,"Pressure ulcer of unspecified site, stage 3",L89.9,2016,2027
+L89.94,"Pressure ulcer of unspecified site, stage 4",L89.9,2016,2027
+L89.95,"Pressure ulcer of unspecified site, unstageable",L89.9,2016,2027
+L89.96,Pressure-induced deep tissue damage of unspecified site,L89.9,2020,2027
+L90,Atrophic disorders of skin,,2016,2027
+L90.0,Lichen sclerosus et atrophicus,L90,2016,2027
+L90.1,Anetoderma of Schweninger-Buzzi,L90,2016,2027
+L90.2,Anetoderma of Jadassohn-Pellizzari,L90,2016,2027
+L90.3,Atrophoderma of Pasini and Pierini,L90,2016,2027
+L90.4,Acrodermatitis chronica atrophicans,L90,2016,2027
+L90.5,Scar conditions and fibrosis of skin,L90,2016,2027
+L90.6,Striae atrophicae,L90,2016,2027
+L90.8,Other atrophic disorders of skin,L90,2016,2027
+L90.9,"Atrophic disorder of skin, unspecified",L90,2016,2027
+L91,Hypertrophic disorders of skin,,2016,2027
+L91.0,Hypertrophic scar,L91,2016,2027
+L91.8,Other hypertrophic disorders of the skin,L91,2016,2027
+L91.9,"Hypertrophic disorder of the skin, unspecified",L91,2016,2027
+L92,Granulomatous disorders of skin and subcutaneous tissue,,2016,2027
+L92.0,Granuloma annulare,L92,2016,2027
+L92.1,"Necrobiosis lipoidica, not elsewhere classified",L92,2016,2027
+L92.2,Granuloma faciale [eosinophilic granuloma of skin],L92,2016,2027
+L92.3,Foreign body granuloma of the skin and subcutaneous tissue,L92,2016,2027
+L92.8,Other granulomatous disorders of the skin and subcutaneous tissue,L92,2016,2027
+L92.9,"Granulomatous disorder of the skin and subcutaneous tissue, unspecified",L92,2016,2027
+L93,Lupus erythematosus,,2016,2027
+L93.0,Discoid lupus erythematosus,L93,2016,2027
+L93.1,Subacute cutaneous lupus erythematosus,L93,2016,2027
+L93.2,Other local lupus erythematosus,L93,2016,2027
+L94,Other localized connective tissue disorders,,2016,2027
+L94.0,Localized scleroderma [morphea],L94,2016,2027
+L94.1,Linear scleroderma,L94,2016,2027
+L94.2,Calcinosis cutis,L94,2016,2027
+L94.3,Sclerodactyly,L94,2016,2027
+L94.4,Gottron's papules,L94,2016,2027
+L94.5,Poikiloderma vasculare atrophicans,L94,2016,2027
+L94.6,Ainhum,L94,2016,2027
+L94.8,Other specified localized connective tissue disorders,L94,2016,2027
+L94.9,"Localized connective tissue disorder, unspecified",L94,2016,2027
+L95,"Vasculitis limited to skin, not elsewhere classified",,2016,2027
+L95.0,Livedoid vasculitis,L95,2016,2027
+L95.1,Erythema elevatum diutinum,L95,2016,2027
+L95.8,Other vasculitis limited to the skin,L95,2016,2027
+L95.9,"Vasculitis limited to the skin, unspecified",L95,2016,2027
+L97,"Non-pressure chronic ulcer of lower limb, not elsewhere classified",,2016,2027
+L97.1,Non-pressure chronic ulcer of thigh,L97,2016,2027
+L97.10,Non-pressure chronic ulcer of unspecified thigh,L97.1,2016,2027
+L97.101,Non-pressure chronic ulcer of unspecified thigh limited to breakdown of skin,L97.10,2016,2027
+L97.102,Non-pressure chronic ulcer of unspecified thigh with fat layer exposed,L97.10,2016,2027
+L97.103,Non-pressure chronic ulcer of unspecified thigh with necrosis of muscle,L97.10,2016,2027
+L97.104,Non-pressure chronic ulcer of unspecified thigh with necrosis of bone,L97.10,2016,2027
+L97.105,Non-pressure chronic ulcer of unspecified thigh with muscle involvement without evidence of necrosis,L97.10,2018,2027
+L97.106,Non-pressure chronic ulcer of unspecified thigh with bone involvement without evidence of necrosis,L97.10,2018,2027
+L97.108,Non-pressure chronic ulcer of unspecified thigh with other specified severity,L97.10,2018,2027
+L97.109,Non-pressure chronic ulcer of unspecified thigh with unspecified severity,L97.10,2016,2027
+L97.11,Non-pressure chronic ulcer of right thigh,L97.1,2016,2027
+L97.111,Non-pressure chronic ulcer of right thigh limited to breakdown of skin,L97.11,2016,2027
+L97.112,Non-pressure chronic ulcer of right thigh with fat layer exposed,L97.11,2016,2027
+L97.113,Non-pressure chronic ulcer of right thigh with necrosis of muscle,L97.11,2016,2027
+L97.114,Non-pressure chronic ulcer of right thigh with necrosis of bone,L97.11,2016,2027
+L97.115,Non-pressure chronic ulcer of right thigh with muscle involvement without evidence of necrosis,L97.11,2018,2027
+L97.116,Non-pressure chronic ulcer of right thigh with bone involvement without evidence of necrosis,L97.11,2018,2027
+L97.118,Non-pressure chronic ulcer of right thigh with other specified severity,L97.11,2018,2027
+L97.119,Non-pressure chronic ulcer of right thigh with unspecified severity,L97.11,2016,2027
+L97.12,Non-pressure chronic ulcer of left thigh,L97.1,2016,2027
+L97.121,Non-pressure chronic ulcer of left thigh limited to breakdown of skin,L97.12,2016,2027
+L97.122,Non-pressure chronic ulcer of left thigh with fat layer exposed,L97.12,2016,2027
+L97.123,Non-pressure chronic ulcer of left thigh with necrosis of muscle,L97.12,2016,2027
+L97.124,Non-pressure chronic ulcer of left thigh with necrosis of bone,L97.12,2016,2027
+L97.125,Non-pressure chronic ulcer of left thigh with muscle involvement without evidence of necrosis,L97.12,2018,2027
+L97.126,Non-pressure chronic ulcer of left thigh with bone involvement without evidence of necrosis,L97.12,2018,2027
+L97.128,Non-pressure chronic ulcer of left thigh with other specified severity,L97.12,2018,2027
+L97.129,Non-pressure chronic ulcer of left thigh with unspecified severity,L97.12,2016,2027
+L97.2,Non-pressure chronic ulcer of calf,L97,2016,2027
+L97.20,Non-pressure chronic ulcer of unspecified calf,L97.2,2016,2027
+L97.201,Non-pressure chronic ulcer of unspecified calf limited to breakdown of skin,L97.20,2016,2027
+L97.202,Non-pressure chronic ulcer of unspecified calf with fat layer exposed,L97.20,2016,2027
+L97.203,Non-pressure chronic ulcer of unspecified calf with necrosis of muscle,L97.20,2016,2027
+L97.204,Non-pressure chronic ulcer of unspecified calf with necrosis of bone,L97.20,2016,2027
+L97.205,Non-pressure chronic ulcer of unspecified calf with muscle involvement without evidence of necrosis,L97.20,2018,2027
+L97.206,Non-pressure chronic ulcer of unspecified calf with bone involvement without evidence of necrosis,L97.20,2018,2027
+L97.208,Non-pressure chronic ulcer of unspecified calf with other specified severity,L97.20,2018,2027
+L97.209,Non-pressure chronic ulcer of unspecified calf with unspecified severity,L97.20,2016,2027
+L97.21,Non-pressure chronic ulcer of right calf,L97.2,2016,2027
+L97.211,Non-pressure chronic ulcer of right calf limited to breakdown of skin,L97.21,2016,2027
+L97.212,Non-pressure chronic ulcer of right calf with fat layer exposed,L97.21,2016,2027
+L97.213,Non-pressure chronic ulcer of right calf with necrosis of muscle,L97.21,2016,2027
+L97.214,Non-pressure chronic ulcer of right calf with necrosis of bone,L97.21,2016,2027
+L97.215,Non-pressure chronic ulcer of right calf with muscle involvement without evidence of necrosis,L97.21,2018,2027
+L97.216,Non-pressure chronic ulcer of right calf with bone involvement without evidence of necrosis,L97.21,2018,2027
+L97.218,Non-pressure chronic ulcer of right calf with other specified severity,L97.21,2018,2027
+L97.219,Non-pressure chronic ulcer of right calf with unspecified severity,L97.21,2016,2027
+L97.22,Non-pressure chronic ulcer of left calf,L97.2,2016,2027
+L97.221,Non-pressure chronic ulcer of left calf limited to breakdown of skin,L97.22,2016,2027
+L97.222,Non-pressure chronic ulcer of left calf with fat layer exposed,L97.22,2016,2027
+L97.223,Non-pressure chronic ulcer of left calf with necrosis of muscle,L97.22,2016,2027
+L97.224,Non-pressure chronic ulcer of left calf with necrosis of bone,L97.22,2016,2027
+L97.225,Non-pressure chronic ulcer of left calf with muscle involvement without evidence of necrosis,L97.22,2018,2027
+L97.226,Non-pressure chronic ulcer of left calf with bone involvement without evidence of necrosis,L97.22,2018,2027
+L97.228,Non-pressure chronic ulcer of left calf with other specified severity,L97.22,2018,2027
+L97.229,Non-pressure chronic ulcer of left calf with unspecified severity,L97.22,2016,2027
+L97.3,Non-pressure chronic ulcer of ankle,L97,2016,2027
+L97.30,Non-pressure chronic ulcer of unspecified ankle,L97.3,2016,2027
+L97.301,Non-pressure chronic ulcer of unspecified ankle limited to breakdown of skin,L97.30,2016,2027
+L97.302,Non-pressure chronic ulcer of unspecified ankle with fat layer exposed,L97.30,2016,2027
+L97.303,Non-pressure chronic ulcer of unspecified ankle with necrosis of muscle,L97.30,2016,2027
+L97.304,Non-pressure chronic ulcer of unspecified ankle with necrosis of bone,L97.30,2016,2027
+L97.305,Non-pressure chronic ulcer of unspecified ankle with muscle involvement without evidence of necrosis,L97.30,2018,2027
+L97.306,Non-pressure chronic ulcer of unspecified ankle with bone involvement without evidence of necrosis,L97.30,2018,2027
+L97.308,Non-pressure chronic ulcer of unspecified ankle with other specified severity,L97.30,2018,2027
+L97.309,Non-pressure chronic ulcer of unspecified ankle with unspecified severity,L97.30,2016,2027
+L97.31,Non-pressure chronic ulcer of right ankle,L97.3,2016,2027
+L97.311,Non-pressure chronic ulcer of right ankle limited to breakdown of skin,L97.31,2016,2027
+L97.312,Non-pressure chronic ulcer of right ankle with fat layer exposed,L97.31,2016,2027
+L97.313,Non-pressure chronic ulcer of right ankle with necrosis of muscle,L97.31,2016,2027
+L97.314,Non-pressure chronic ulcer of right ankle with necrosis of bone,L97.31,2016,2027
+L97.315,Non-pressure chronic ulcer of right ankle with muscle involvement without evidence of necrosis,L97.31,2018,2027
+L97.316,Non-pressure chronic ulcer of right ankle with bone involvement without evidence of necrosis,L97.31,2018,2027
+L97.318,Non-pressure chronic ulcer of right ankle with other specified severity,L97.31,2018,2027
+L97.319,Non-pressure chronic ulcer of right ankle with unspecified severity,L97.31,2016,2027
+L97.32,Non-pressure chronic ulcer of left ankle,L97.3,2016,2027
+L97.321,Non-pressure chronic ulcer of left ankle limited to breakdown of skin,L97.32,2016,2027
+L97.322,Non-pressure chronic ulcer of left ankle with fat layer exposed,L97.32,2016,2027
+L97.323,Non-pressure chronic ulcer of left ankle with necrosis of muscle,L97.32,2016,2027
+L97.324,Non-pressure chronic ulcer of left ankle with necrosis of bone,L97.32,2016,2027
+L97.325,Non-pressure chronic ulcer of left ankle with muscle involvement without evidence of necrosis,L97.32,2018,2027
+L97.326,Non-pressure chronic ulcer of left ankle with bone involvement without evidence of necrosis,L97.32,2018,2027
+L97.328,Non-pressure chronic ulcer of left ankle with other specified severity,L97.32,2018,2027
+L97.329,Non-pressure chronic ulcer of left ankle with unspecified severity,L97.32,2016,2027
+L97.4,Non-pressure chronic ulcer of heel and midfoot,L97,2016,2027
+L97.40,Non-pressure chronic ulcer of unspecified heel and midfoot,L97.4,2016,2027
+L97.401,Non-pressure chronic ulcer of unspecified heel and midfoot limited to breakdown of skin,L97.40,2016,2027
+L97.402,Non-pressure chronic ulcer of unspecified heel and midfoot with fat layer exposed,L97.40,2016,2027
+L97.403,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of muscle,L97.40,2016,2027
+L97.404,Non-pressure chronic ulcer of unspecified heel and midfoot with necrosis of bone,L97.40,2016,2027
+L97.405,Non-pressure chronic ulcer of unspecified heel and midfoot with muscle involvement without evidence of necrosis,L97.40,2018,2027
+L97.406,Non-pressure chronic ulcer of unspecified heel and midfoot with bone involvement without evidence of necrosis,L97.40,2018,2027
+L97.408,Non-pressure chronic ulcer of unspecified heel and midfoot with other specified severity,L97.40,2018,2027
+L97.409,Non-pressure chronic ulcer of unspecified heel and midfoot with unspecified severity,L97.40,2016,2027
+L97.41,Non-pressure chronic ulcer of right heel and midfoot,L97.4,2016,2027
+L97.411,Non-pressure chronic ulcer of right heel and midfoot limited to breakdown of skin,L97.41,2016,2027
+L97.412,Non-pressure chronic ulcer of right heel and midfoot with fat layer exposed,L97.41,2016,2027
+L97.413,Non-pressure chronic ulcer of right heel and midfoot with necrosis of muscle,L97.41,2016,2027
+L97.414,Non-pressure chronic ulcer of right heel and midfoot with necrosis of bone,L97.41,2016,2027
+L97.415,Non-pressure chronic ulcer of right heel and midfoot with muscle involvement without evidence of necrosis,L97.41,2018,2027
+L97.416,Non-pressure chronic ulcer of right heel and midfoot with bone involvement without evidence of necrosis,L97.41,2018,2027
+L97.418,Non-pressure chronic ulcer of right heel and midfoot with other specified severity,L97.41,2018,2027
+L97.419,Non-pressure chronic ulcer of right heel and midfoot with unspecified severity,L97.41,2016,2027
+L97.42,Non-pressure chronic ulcer of left heel and midfoot,L97.4,2016,2027
+L97.421,Non-pressure chronic ulcer of left heel and midfoot limited to breakdown of skin,L97.42,2016,2027
+L97.422,Non-pressure chronic ulcer of left heel and midfoot with fat layer exposed,L97.42,2016,2027
+L97.423,Non-pressure chronic ulcer of left heel and midfoot with necrosis of muscle,L97.42,2016,2027
+L97.424,Non-pressure chronic ulcer of left heel and midfoot with necrosis of bone,L97.42,2016,2027
+L97.425,Non-pressure chronic ulcer of left heel and midfoot with muscle involvement without evidence of necrosis,L97.42,2018,2027
+L97.426,Non-pressure chronic ulcer of left heel and midfoot with bone involvement without evidence of necrosis,L97.42,2018,2027
+L97.428,Non-pressure chronic ulcer of left heel and midfoot with other specified severity,L97.42,2018,2027
+L97.429,Non-pressure chronic ulcer of left heel and midfoot with unspecified severity,L97.42,2016,2027
+L97.5,Non-pressure chronic ulcer of other part of foot,L97,2016,2027
+L97.50,Non-pressure chronic ulcer of other part of unspecified foot,L97.5,2016,2027
+L97.501,Non-pressure chronic ulcer of other part of unspecified foot limited to breakdown of skin,L97.50,2016,2027
+L97.502,Non-pressure chronic ulcer of other part of unspecified foot with fat layer exposed,L97.50,2016,2027
+L97.503,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of muscle,L97.50,2016,2027
+L97.504,Non-pressure chronic ulcer of other part of unspecified foot with necrosis of bone,L97.50,2016,2027
+L97.505,Non-pressure chronic ulcer of other part of unspecified foot with muscle involvement without evidence of necrosis,L97.50,2018,2027
+L97.506,Non-pressure chronic ulcer of other part of unspecified foot with bone involvement without evidence of necrosis,L97.50,2018,2027
+L97.508,Non-pressure chronic ulcer of other part of unspecified foot with other specified severity,L97.50,2018,2027
+L97.509,Non-pressure chronic ulcer of other part of unspecified foot with unspecified severity,L97.50,2016,2027
+L97.51,Non-pressure chronic ulcer of other part of right foot,L97.5,2016,2027
+L97.511,Non-pressure chronic ulcer of other part of right foot limited to breakdown of skin,L97.51,2016,2027
+L97.512,Non-pressure chronic ulcer of other part of right foot with fat layer exposed,L97.51,2016,2027
+L97.513,Non-pressure chronic ulcer of other part of right foot with necrosis of muscle,L97.51,2016,2027
+L97.514,Non-pressure chronic ulcer of other part of right foot with necrosis of bone,L97.51,2016,2027
+L97.515,Non-pressure chronic ulcer of other part of right foot with muscle involvement without evidence of necrosis,L97.51,2018,2027
+L97.516,Non-pressure chronic ulcer of other part of right foot with bone involvement without evidence of necrosis,L97.51,2018,2027
+L97.518,Non-pressure chronic ulcer of other part of right foot with other specified severity,L97.51,2018,2027
+L97.519,Non-pressure chronic ulcer of other part of right foot with unspecified severity,L97.51,2016,2027
+L97.52,Non-pressure chronic ulcer of other part of left foot,L97.5,2016,2027
+L97.521,Non-pressure chronic ulcer of other part of left foot limited to breakdown of skin,L97.52,2016,2027
+L97.522,Non-pressure chronic ulcer of other part of left foot with fat layer exposed,L97.52,2016,2027
+L97.523,Non-pressure chronic ulcer of other part of left foot with necrosis of muscle,L97.52,2016,2027
+L97.524,Non-pressure chronic ulcer of other part of left foot with necrosis of bone,L97.52,2016,2027
+L97.525,Non-pressure chronic ulcer of other part of left foot with muscle involvement without evidence of necrosis,L97.52,2018,2027
+L97.526,Non-pressure chronic ulcer of other part of left foot with bone involvement without evidence of necrosis,L97.52,2018,2027
+L97.528,Non-pressure chronic ulcer of other part of left foot with other specified severity,L97.52,2018,2027
+L97.529,Non-pressure chronic ulcer of other part of left foot with unspecified severity,L97.52,2016,2027
+L97.8,Non-pressure chronic ulcer of other part of lower leg,L97,2016,2027
+L97.80,Non-pressure chronic ulcer of other part of unspecified lower leg,L97.8,2016,2027
+L97.801,Non-pressure chronic ulcer of other part of unspecified lower leg limited to breakdown of skin,L97.80,2016,2027
+L97.802,Non-pressure chronic ulcer of other part of unspecified lower leg with fat layer exposed,L97.80,2016,2027
+L97.803,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of muscle,L97.80,2016,2027
+L97.804,Non-pressure chronic ulcer of other part of unspecified lower leg with necrosis of bone,L97.80,2016,2027
+L97.805,Non-pressure chronic ulcer of other part of unspecified lower leg with muscle involvement without evidence of necrosis,L97.80,2018,2027
+L97.806,Non-pressure chronic ulcer of other part of unspecified lower leg with bone involvement without evidence of necrosis,L97.80,2018,2027
+L97.808,Non-pressure chronic ulcer of other part of unspecified lower leg with other specified severity,L97.80,2018,2027
+L97.809,Non-pressure chronic ulcer of other part of unspecified lower leg with unspecified severity,L97.80,2016,2027
+L97.81,Non-pressure chronic ulcer of other part of right lower leg,L97.8,2016,2027
+L97.811,Non-pressure chronic ulcer of other part of right lower leg limited to breakdown of skin,L97.81,2016,2027
+L97.812,Non-pressure chronic ulcer of other part of right lower leg with fat layer exposed,L97.81,2016,2027
+L97.813,Non-pressure chronic ulcer of other part of right lower leg with necrosis of muscle,L97.81,2016,2027
+L97.814,Non-pressure chronic ulcer of other part of right lower leg with necrosis of bone,L97.81,2016,2027
+L97.815,Non-pressure chronic ulcer of other part of right lower leg with muscle involvement without evidence of necrosis,L97.81,2018,2027
+L97.816,Non-pressure chronic ulcer of other part of right lower leg with bone involvement without evidence of necrosis,L97.81,2018,2027
+L97.818,Non-pressure chronic ulcer of other part of right lower leg with other specified severity,L97.81,2018,2027
+L97.819,Non-pressure chronic ulcer of other part of right lower leg with unspecified severity,L97.81,2016,2027
+L97.82,Non-pressure chronic ulcer of other part of left lower leg,L97.8,2016,2027
+L97.821,Non-pressure chronic ulcer of other part of left lower leg limited to breakdown of skin,L97.82,2016,2027
+L97.822,Non-pressure chronic ulcer of other part of left lower leg with fat layer exposed,L97.82,2016,2027
+L97.823,Non-pressure chronic ulcer of other part of left lower leg with necrosis of muscle,L97.82,2016,2027
+L97.824,Non-pressure chronic ulcer of other part of left lower leg with necrosis of bone,L97.82,2016,2027
+L97.825,Non-pressure chronic ulcer of other part of left lower leg with muscle involvement without evidence of necrosis,L97.82,2018,2027
+L97.826,Non-pressure chronic ulcer of other part of left lower leg with bone involvement without evidence of necrosis,L97.82,2018,2027
+L97.828,Non-pressure chronic ulcer of other part of left lower leg with other specified severity,L97.82,2018,2027
+L97.829,Non-pressure chronic ulcer of other part of left lower leg with unspecified severity,L97.82,2016,2027
+L97.9,Non-pressure chronic ulcer of unspecified part of lower leg,L97,2016,2027
+L97.90,Non-pressure chronic ulcer of unspecified part of unspecified lower leg,L97.9,2016,2027
+L97.901,Non-pressure chronic ulcer of unspecified part of unspecified lower leg limited to breakdown of skin,L97.90,2016,2027
+L97.902,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with fat layer exposed,L97.90,2016,2027
+L97.903,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of muscle,L97.90,2016,2027
+L97.904,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with necrosis of bone,L97.90,2016,2027
+L97.905,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with muscle involvement without evidence of necrosis,L97.90,2018,2027
+L97.906,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with bone involvement without evidence of necrosis,L97.90,2018,2027
+L97.908,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with other specified severity,L97.90,2018,2027
+L97.909,Non-pressure chronic ulcer of unspecified part of unspecified lower leg with unspecified severity,L97.90,2016,2027
+L97.91,Non-pressure chronic ulcer of unspecified part of right lower leg,L97.9,2016,2027
+L97.911,Non-pressure chronic ulcer of unspecified part of right lower leg limited to breakdown of skin,L97.91,2016,2027
+L97.912,Non-pressure chronic ulcer of unspecified part of right lower leg with fat layer exposed,L97.91,2016,2027
+L97.913,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of muscle,L97.91,2016,2027
+L97.914,Non-pressure chronic ulcer of unspecified part of right lower leg with necrosis of bone,L97.91,2016,2027
+L97.915,Non-pressure chronic ulcer of unspecified part of right lower leg with muscle involvement without evidence of necrosis,L97.91,2018,2027
+L97.916,Non-pressure chronic ulcer of unspecified part of right lower leg with bone involvement without evidence of necrosis,L97.91,2018,2027
+L97.918,Non-pressure chronic ulcer of unspecified part of right lower leg with other specified severity,L97.91,2018,2027
+L97.919,Non-pressure chronic ulcer of unspecified part of right lower leg with unspecified severity,L97.91,2016,2027
+L97.92,Non-pressure chronic ulcer of unspecified part of left lower leg,L97.9,2016,2027
+L97.921,Non-pressure chronic ulcer of unspecified part of left lower leg limited to breakdown of skin,L97.92,2016,2027
+L97.922,Non-pressure chronic ulcer of unspecified part of left lower leg with fat layer exposed,L97.92,2016,2027
+L97.923,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of muscle,L97.92,2016,2027
+L97.924,Non-pressure chronic ulcer of unspecified part of left lower leg with necrosis of bone,L97.92,2016,2027
+L97.925,Non-pressure chronic ulcer of unspecified part of left lower leg with muscle involvement without evidence of necrosis,L97.92,2018,2027
+L97.926,Non-pressure chronic ulcer of unspecified part of left lower leg with bone involvement without evidence of necrosis,L97.92,2018,2027
+L97.928,Non-pressure chronic ulcer of unspecified part of left lower leg with other specified severity,L97.92,2018,2027
+L97.929,Non-pressure chronic ulcer of unspecified part of left lower leg with unspecified severity,L97.92,2016,2027
+L98,"Other disorders of skin and subcutaneous tissue, not elsewhere classified",,2016,2027
+L98.0,Pyogenic granuloma,L98,2016,2027
+L98.1,Factitial dermatitis,L98,2016,2027
+L98.2,Febrile neutrophilic dermatosis [Sweet],L98,2016,2027
+L98.3,Eosinophilic cellulitis [Wells],L98,2016,2027
+L98.4,"Non-pressure chronic ulcer of skin, not elsewhere classified",L98,2016,2027
+L98.41,Non-pressure chronic ulcer of buttock,L98.4,2016,2027
+L98.411,Non-pressure chronic ulcer of buttock limited to breakdown of skin,L98.41,2016,2027
+L98.412,Non-pressure chronic ulcer of buttock with fat layer exposed,L98.41,2016,2027
+L98.413,Non-pressure chronic ulcer of buttock with necrosis of muscle,L98.41,2016,2027
+L98.414,Non-pressure chronic ulcer of buttock with necrosis of bone,L98.41,2016,2027
+L98.415,Non-pressure chronic ulcer of buttock with muscle involvement without evidence of necrosis,L98.41,2018,2027
+L98.416,Non-pressure chronic ulcer of buttock with bone involvement without evidence of necrosis,L98.41,2018,2027
+L98.418,Non-pressure chronic ulcer of buttock with other specified severity,L98.41,2018,2027
+L98.419,Non-pressure chronic ulcer of buttock with unspecified severity,L98.41,2016,2027
+L98.42,Non-pressure chronic ulcer of back,L98.4,2016,2027
+L98.421,Non-pressure chronic ulcer of back limited to breakdown of skin,L98.42,2016,2027
+L98.422,Non-pressure chronic ulcer of back with fat layer exposed,L98.42,2016,2027
+L98.423,Non-pressure chronic ulcer of back with necrosis of muscle,L98.42,2016,2027
+L98.424,Non-pressure chronic ulcer of back with necrosis of bone,L98.42,2016,2027
+L98.425,Non-pressure chronic ulcer of back with muscle involvement without evidence of necrosis,L98.42,2018,2027
+L98.426,Non-pressure chronic ulcer of back with bone involvement without evidence of necrosis,L98.42,2018,2027
+L98.428,Non-pressure chronic ulcer of back with other specified severity,L98.42,2018,2027
+L98.429,Non-pressure chronic ulcer of back with unspecified severity,L98.42,2016,2027
+L98.43,Non-pressure chronic ulcer of abdomen,L98.4,2026,2027
+L98.431,Non-pressure chronic ulcer of abdomen limited to breakdown of skin,L98.43,2026,2027
+L98.432,Non-pressure chronic ulcer of abdomen with fat layer exposed,L98.43,2026,2027
+L98.433,Non-pressure chronic ulcer of abdomen with necrosis of muscle,L98.43,2026,2027
+L98.434,Non-pressure chronic ulcer of abdomen with necrosis of bone,L98.43,2026,2027
+L98.435,Non-pressure chronic ulcer of abdomen with muscle involvement without evidence of necrosis,L98.43,2026,2027
+L98.436,Non-pressure chronic ulcer of abdomen with bone involvement without evidence of necrosis,L98.43,2026,2027
+L98.438,Non-pressure chronic ulcer of abdomen with other specified severity,L98.43,2026,2027
+L98.439,Non-pressure chronic ulcer of abdomen with unspecified severity,L98.43,2026,2027
+L98.44,Non-pressure chronic ulcer of chest,L98.4,2026,2027
+L98.441,Non-pressure chronic ulcer of chest limited to breakdown of skin,L98.44,2026,2027
+L98.442,Non-pressure chronic ulcer of chest with fat layer exposed,L98.44,2026,2027
+L98.443,Non-pressure chronic ulcer of chest with necrosis of muscle,L98.44,2026,2027
+L98.444,Non-pressure chronic ulcer of chest with necrosis of bone,L98.44,2026,2027
+L98.445,Non-pressure chronic ulcer of chest with muscle involvement without evidence of necrosis,L98.44,2026,2027
+L98.446,Non-pressure chronic ulcer of chest with bone involvement without evidence of necrosis,L98.44,2026,2027
+L98.448,Non-pressure chronic ulcer of chest with other specified severity,L98.44,2026,2027
+L98.449,Non-pressure chronic ulcer of chest with unspecified severity,L98.44,2026,2027
+L98.45,Non-pressure chronic ulcer of neck,L98.4,2026,2027
+L98.451,Non-pressure chronic ulcer of neck limited to breakdown of skin,L98.45,2026,2027
+L98.452,Non-pressure chronic ulcer of neck with fat layer exposed,L98.45,2026,2027
+L98.453,Non-pressure chronic ulcer of neck with necrosis of muscle,L98.45,2026,2027
+L98.454,Non-pressure chronic ulcer of neck with necrosis of bone,L98.45,2026,2027
+L98.455,Non-pressure chronic ulcer of neck with muscle involvement without evidence of necrosis,L98.45,2026,2027
+L98.456,Non-pressure chronic ulcer of neck with bone involvement without evidence of necrosis,L98.45,2026,2027
+L98.458,Non-pressure chronic ulcer of neck with other specified severity,L98.45,2026,2027
+L98.459,Non-pressure chronic ulcer of neck with unspecified severity,L98.45,2026,2027
+L98.46,Non-pressure chronic ulcer of face,L98.4,2026,2027
+L98.461,Non-pressure chronic ulcer of face limited to breakdown of skin,L98.46,2026,2027
+L98.462,Non-pressure chronic ulcer of face with fat layer exposed,L98.46,2026,2027
+L98.463,Non-pressure chronic ulcer of face with necrosis of muscle,L98.46,2026,2027
+L98.464,Non-pressure chronic ulcer of face with necrosis of bone,L98.46,2026,2027
+L98.465,Non-pressure chronic ulcer of face with muscle involvement without evidence of necrosis,L98.46,2026,2027
+L98.466,Non-pressure chronic ulcer of face with bone involvement without evidence of necrosis,L98.46,2026,2027
+L98.468,Non-pressure chronic ulcer of face with other specified severity,L98.46,2026,2027
+L98.469,Non-pressure chronic ulcer of face with unspecified severity,L98.46,2026,2027
+L98.47,Non-pressure chronic ulcer of groin,L98.4,2026,2027
+L98.471,Non-pressure chronic ulcer of groin limited to breakdown of skin,L98.47,2026,2027
+L98.472,Non-pressure chronic ulcer of groin with fat layer exposed,L98.47,2026,2027
+L98.473,Non-pressure chronic ulcer of groin with necrosis of muscle,L98.47,2026,2027
+L98.474,Non-pressure chronic ulcer of groin with necrosis of bone,L98.47,2026,2027
+L98.475,Non-pressure chronic ulcer of groin with muscle involvement without evidence of necrosis,L98.47,2026,2027
+L98.476,Non-pressure chronic ulcer of groin with bone involvement without evidence of necrosis,L98.47,2026,2027
+L98.478,Non-pressure chronic ulcer of groin with other specified severity,L98.47,2026,2027
+L98.479,Non-pressure chronic ulcer of groin with unspecified severity,L98.47,2026,2027
+L98.49,Non-pressure chronic ulcer of skin of other sites,L98.4,2016,2027
+L98.491,Non-pressure chronic ulcer of skin of other sites limited to breakdown of skin,L98.49,2016,2027
+L98.492,Non-pressure chronic ulcer of skin of other sites with fat layer exposed,L98.49,2016,2027
+L98.493,Non-pressure chronic ulcer of skin of other sites with necrosis of muscle,L98.49,2016,2027
+L98.494,Non-pressure chronic ulcer of skin of other sites with necrosis of bone,L98.49,2016,2027
+L98.495,Non-pressure chronic ulcer of skin of other sites with muscle involvement without evidence of necrosis,L98.49,2018,2027
+L98.496,Non-pressure chronic ulcer of skin of other sites with bone involvement without evidence of necrosis,L98.49,2018,2027
+L98.498,Non-pressure chronic ulcer of skin of other sites with other specified severity,L98.49,2018,2027
+L98.499,Non-pressure chronic ulcer of skin of other sites with unspecified severity,L98.49,2016,2027
+L98.5,Mucinosis of the skin,L98,2016,2027
+L98.6,Other infiltrative disorders of the skin and subcutaneous tissue,L98,2016,2027
+L98.7,Excessive and redundant skin and subcutaneous tissue,L98,2017,2027
+L98.8,Other specified disorders of the skin and subcutaneous tissue,L98,2016,2027
+L98.9,"Disorder of the skin and subcutaneous tissue, unspecified",L98,2016,2027
+L98.A,"Non-pressure chronic ulcer of upper limb, not elsewhere classified",L98,2026,2027
+L98.A1,Non-pressure chronic ulcer of upper arm,L98.A,2026,2027
+L98.A11,Non-pressure chronic ulcer of right upper arm,L98.A1,2026,2027
+L98.A111,Non-pressure chronic ulcer of right upper arm limited to breakdown of skin,L98.A11,2026,2027
+L98.A112,Non-pressure chronic ulcer of right upper arm with fat layer exposed,L98.A11,2026,2027
+L98.A113,Non-pressure chronic ulcer of right upper arm with necrosis of muscle,L98.A11,2026,2027
+L98.A114,Non-pressure chronic ulcer of right upper arm with necrosis of bone,L98.A11,2026,2027
+L98.A115,Non-pressure chronic ulcer of right upper arm with muscle involvement without evidence of necrosis,L98.A11,2026,2027
+L98.A116,Non-pressure chronic ulcer of right upper arm with bone involvement without evidence of necrosis,L98.A11,2026,2027
+L98.A118,Non-pressure chronic ulcer of right upper arm with other specified severity,L98.A11,2026,2027
+L98.A119,Non-pressure chronic ulcer of right upper arm with unspecified severity,L98.A11,2026,2027
+L98.A12,Non-pressure chronic ulcer of left upper arm,L98.A1,2026,2027
+L98.A121,Non-pressure chronic ulcer of left upper arm limited to breakdown of skin,L98.A12,2026,2027
+L98.A122,Non-pressure chronic ulcer of left upper arm with fat layer exposed,L98.A12,2026,2027
+L98.A123,Non-pressure chronic ulcer of left upper arm with necrosis of muscle,L98.A12,2026,2027
+L98.A124,Non-pressure chronic ulcer of left upper arm with necrosis of bone,L98.A12,2026,2027
+L98.A125,Non-pressure chronic ulcer of left upper arm with muscle involvement without evidence of necrosis,L98.A12,2026,2027
+L98.A126,Non-pressure chronic ulcer of left upper arm with bone involvement without evidence of necrosis,L98.A12,2026,2027
+L98.A128,Non-pressure chronic ulcer of left upper arm with other specified severity,L98.A12,2026,2027
+L98.A129,Non-pressure chronic ulcer of left upper arm with unspecified severity,L98.A12,2026,2027
+L98.A19,Non-pressure chronic ulcer of unspecified upper arm,L98.A1,2026,2027
+L98.A191,Non-pressure chronic ulcer of unspecified upper arm limited to breakdown of skin,L98.A19,2026,2027
+L98.A192,Non-pressure chronic ulcer of unspecified upper arm with fat layer exposed,L98.A19,2026,2027
+L98.A193,Non-pressure chronic ulcer of unspecified upper arm with necrosis of muscle,L98.A19,2026,2027
+L98.A194,Non-pressure chronic ulcer of unspecified upper arm with necrosis of bone,L98.A19,2026,2027
+L98.A195,Non-pressure chronic ulcer of unspecified upper arm with muscle involvement without evidence of necrosis,L98.A19,2026,2027
+L98.A196,Non-pressure chronic ulcer of unspecified upper arm with bone involvement without evidence of necrosis,L98.A19,2026,2027
+L98.A198,Non-pressure chronic ulcer of unspecified upper arm with other specified severity,L98.A19,2026,2027
+L98.A199,Non-pressure chronic ulcer of unspecified upper arm with unspecified severity,L98.A19,2026,2027
+L98.A2,Non-pressure chronic ulcer of forearm,L98.A,2026,2027
+L98.A21,Non-pressure chronic ulcer of right forearm,L98.A2,2026,2027
+L98.A211,Non-pressure chronic ulcer of right forearm limited to breakdown of skin,L98.A21,2026,2027
+L98.A212,Non-pressure chronic ulcer of right forearm with fat layer exposed,L98.A21,2026,2027
+L98.A213,Non-pressure chronic ulcer of right forearm with necrosis of muscle,L98.A21,2026,2027
+L98.A214,Non-pressure chronic ulcer of right forearm with necrosis of bone,L98.A21,2026,2027
+L98.A215,Non-pressure chronic ulcer of right forearm with muscle involvement without evidence of necrosis,L98.A21,2026,2027
+L98.A216,Non-pressure chronic ulcer of right forearm with bone involvement without evidence of necrosis,L98.A21,2026,2027
+L98.A218,Non-pressure chronic ulcer of right forearm with other specified severity,L98.A21,2026,2027
+L98.A219,Non-pressure chronic ulcer of right forearm with unspecified severity,L98.A21,2026,2027
+L98.A22,Non-pressure chronic ulcer of left forearm,L98.A2,2026,2027
+L98.A221,Non-pressure chronic ulcer of left forearm limited to breakdown of skin,L98.A22,2026,2027
+L98.A222,Non-pressure chronic ulcer of left forearm with fat layer exposed,L98.A22,2026,2027
+L98.A223,Non-pressure chronic ulcer of left forearm with necrosis of muscle,L98.A22,2026,2027
+L98.A224,Non-pressure chronic ulcer of left forearm with necrosis of bone,L98.A22,2026,2027
+L98.A225,Non-pressure chronic ulcer of left forearm with muscle involvement without evidence of necrosis,L98.A22,2026,2027
+L98.A226,Non-pressure chronic ulcer of left forearm with bone involvement without evidence of necrosis,L98.A22,2026,2027
+L98.A228,Non-pressure chronic ulcer of left forearm with other specified severity,L98.A22,2026,2027
+L98.A229,Non-pressure chronic ulcer of left forearm with unspecified severity,L98.A22,2026,2027
+L98.A29,Non-pressure chronic ulcer of unspecified forearm,L98.A2,2026,2027
+L98.A291,Non-pressure chronic ulcer of unspecified forearm limited to breakdown of skin,L98.A29,2026,2027
+L98.A292,Non-pressure chronic ulcer of unspecified forearm with fat layer exposed,L98.A29,2026,2027
+L98.A293,Non-pressure chronic ulcer of unspecified forearm with necrosis of muscle,L98.A29,2026,2027
+L98.A294,Non-pressure chronic ulcer of unspecified forearm with necrosis of bone,L98.A29,2026,2027
+L98.A295,Non-pressure chronic ulcer of unspecified forearm with muscle involvement without evidence of necrosis,L98.A29,2026,2027
+L98.A296,Non-pressure chronic ulcer of unspecified forearm with bone involvement without evidence of necrosis,L98.A29,2026,2027
+L98.A298,Non-pressure chronic ulcer of unspecified forearm with other specified severity,L98.A29,2026,2027
+L98.A299,Non-pressure chronic ulcer of unspecified forearm with unspecified severity,L98.A29,2026,2027
+L98.A3,Non-pressure chronic ulcer of hand,L98.A,2026,2027
+L98.A31,Non-pressure chronic ulcer of right hand,L98.A3,2026,2027
+L98.A311,Non-pressure chronic ulcer of right hand limited to breakdown of skin,L98.A31,2026,2027
+L98.A312,Non-pressure chronic ulcer of right hand with fat layer exposed,L98.A31,2026,2027
+L98.A313,Non-pressure chronic ulcer of right hand with necrosis of muscle,L98.A31,2026,2027
+L98.A314,Non-pressure chronic ulcer of right hand with necrosis of bone,L98.A31,2026,2027
+L98.A315,Non-pressure chronic ulcer of right hand with muscle involvement without evidence of necrosis,L98.A31,2026,2027
+L98.A316,Non-pressure chronic ulcer of right hand with bone involvement without evidence of necrosis,L98.A31,2026,2027
+L98.A318,Non-pressure chronic ulcer of right hand with other specified severity,L98.A31,2026,2027
+L98.A319,Non-pressure chronic ulcer of right hand with unspecified severity,L98.A31,2026,2027
+L98.A32,Non-pressure chronic ulcer of left hand,L98.A3,2026,2027
+L98.A321,Non-pressure chronic ulcer of left hand limited to breakdown of skin,L98.A32,2026,2027
+L98.A322,Non-pressure chronic ulcer of left hand with fat layer exposed,L98.A32,2026,2027
+L98.A323,Non-pressure chronic ulcer of left hand with necrosis of muscle,L98.A32,2026,2027
+L98.A324,Non-pressure chronic ulcer of left hand with necrosis of bone,L98.A32,2026,2027
+L98.A325,Non-pressure chronic ulcer of left hand with muscle involvement without evidence of necrosis,L98.A32,2026,2027
+L98.A326,Non-pressure chronic ulcer of left hand with bone involvement without evidence of necrosis,L98.A32,2026,2027
+L98.A328,Non-pressure chronic ulcer of left hand with other specified severity,L98.A32,2026,2027
+L98.A329,Non-pressure chronic ulcer of left hand with unspecified severity,L98.A32,2026,2027
+L98.A39,Non-pressure chronic ulcer of unspecified hand,L98.A3,2026,2027
+L98.A391,Non-pressure chronic ulcer of unspecified hand limited to breakdown of skin,L98.A39,2026,2027
+L98.A392,Non-pressure chronic ulcer of unspecified hand with fat layer exposed,L98.A39,2026,2027
+L98.A393,Non-pressure chronic ulcer of unspecified hand with necrosis of muscle,L98.A39,2026,2027
+L98.A394,Non-pressure chronic ulcer of unspecified hand with necrosis of bone,L98.A39,2026,2027
+L98.A395,Non-pressure chronic ulcer of unspecified hand with muscle involvement without evidence of necrosis,L98.A39,2026,2027
+L98.A396,Non-pressure chronic ulcer of unspecified hand with bone involvement without evidence of necrosis,L98.A39,2026,2027
+L98.A398,Non-pressure chronic ulcer of unspecified hand with other specified severity,L98.A39,2026,2027
+L98.A399,Non-pressure chronic ulcer of unspecified hand with unspecified severity,L98.A39,2026,2027
+L99,Other disorders of skin and subcutaneous tissue in diseases classified elsewhere,,2016,2027

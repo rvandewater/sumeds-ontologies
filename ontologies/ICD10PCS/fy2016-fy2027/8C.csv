@@ -1,0 +1,13 @@
+code,description,parent,first_year,last_year
+8C,Indwelling Device,8,2016,2027
+8C0,Other Procedures,8C,2016,2027
+8C01,Nervous System,8C0,2016,2027
+8C01X,External,8C01,2016,2027
+8C01X6,Collection,8C01X,2016,2027
+8C01X6J,Collection of Cerebrospinal Fluid from Indwelling Device in Nervous System,8C01X6,2016,2027
+8C01X6L,Collection of Other Fluid from Indwelling Device in Nervous System,8C01X6,2016,2027
+8C02,Circulatory System,8C0,2016,2027
+8C02X,External,8C02,2016,2027
+8C02X6,Collection,8C02X,2016,2027
+8C02X6K,Collection of Blood from Indwelling Device in Circulatory System,8C02X6,2016,2027
+8C02X6L,Collection of Other Fluid from Indwelling Device in Circulatory System,8C02X6,2016,2027

@@ -1,0 +1,538 @@
+code,description,parent,first_year,last_year
+DB,Respiratory System,D,2016,2027
+DB0,Beam Radiation,DB,2016,2027
+DB00,Trachea,DB0,2016,2027
+DB000,Photons <1 MeV,DB00,2016,2027
+DB000Z,None,DB000,2016,2027
+DB000ZZ,Beam Radiation of Trachea using Photons <1 MeV,DB000Z,2016,2027
+DB001,Photons 1 - 10 MeV,DB00,2016,2027
+DB001Z,None,DB001,2016,2027
+DB001ZZ,Beam Radiation of Trachea using Photons 1 - 10 MeV,DB001Z,2016,2027
+DB002,Photons >10 MeV,DB00,2016,2027
+DB002Z,None,DB002,2016,2027
+DB002ZZ,Beam Radiation of Trachea using Photons >10 MeV,DB002Z,2016,2027
+DB003,Electrons,DB00,2016,2027
+DB003Z,None,DB003,2016,2027
+DB003Z0,"Beam Radiation of Trachea using Electrons, Intraoperative",DB003Z,2016,2027
+DB003ZZ,Beam Radiation of Trachea using Electrons,DB003Z,2016,2027
+DB004,"Heavy Particles (Protons,Ions)",DB00,2016,2027
+DB004Z,None,DB004,2016,2027
+DB004ZZ,"Beam Radiation of Trachea using Heavy Particles (Protons,Ions)",DB004Z,2016,2027
+DB005,Neutrons,DB00,2016,2027
+DB005Z,None,DB005,2016,2027
+DB005ZZ,Beam Radiation of Trachea using Neutrons,DB005Z,2016,2027
+DB006,Neutron Capture,DB00,2016,2027
+DB006Z,None,DB006,2016,2027
+DB006ZZ,Beam Radiation of Trachea using Neutron Capture,DB006Z,2016,2027
+DB01,Bronchus,DB0,2016,2027
+DB010,Photons <1 MeV,DB01,2016,2027
+DB010Z,None,DB010,2016,2027
+DB010ZZ,Beam Radiation of Bronchus using Photons <1 MeV,DB010Z,2016,2027
+DB011,Photons 1 - 10 MeV,DB01,2016,2027
+DB011Z,None,DB011,2016,2027
+DB011ZZ,Beam Radiation of Bronchus using Photons 1 - 10 MeV,DB011Z,2016,2027
+DB012,Photons >10 MeV,DB01,2016,2027
+DB012Z,None,DB012,2016,2027
+DB012ZZ,Beam Radiation of Bronchus using Photons >10 MeV,DB012Z,2016,2027
+DB013,Electrons,DB01,2016,2027
+DB013Z,None,DB013,2016,2027
+DB013Z0,"Beam Radiation of Bronchus using Electrons, Intraoperative",DB013Z,2016,2027
+DB013ZZ,Beam Radiation of Bronchus using Electrons,DB013Z,2016,2027
+DB014,"Heavy Particles (Protons,Ions)",DB01,2016,2027
+DB014Z,None,DB014,2016,2027
+DB014ZZ,"Beam Radiation of Bronchus using Heavy Particles (Protons,Ions)",DB014Z,2016,2027
+DB015,Neutrons,DB01,2016,2027
+DB015Z,None,DB015,2016,2027
+DB015ZZ,Beam Radiation of Bronchus using Neutrons,DB015Z,2016,2027
+DB016,Neutron Capture,DB01,2016,2027
+DB016Z,None,DB016,2016,2027
+DB016ZZ,Beam Radiation of Bronchus using Neutron Capture,DB016Z,2016,2027
+DB02,Lung,DB0,2016,2027
+DB020,Photons <1 MeV,DB02,2016,2027
+DB020Z,None,DB020,2016,2027
+DB020ZZ,Beam Radiation of Lung using Photons <1 MeV,DB020Z,2016,2027
+DB021,Photons 1 - 10 MeV,DB02,2016,2027
+DB021Z,None,DB021,2016,2027
+DB021ZZ,Beam Radiation of Lung using Photons 1 - 10 MeV,DB021Z,2016,2027
+DB022,Photons >10 MeV,DB02,2016,2027
+DB022Z,None,DB022,2016,2027
+DB022ZZ,Beam Radiation of Lung using Photons >10 MeV,DB022Z,2016,2027
+DB023,Electrons,DB02,2016,2027
+DB023Z,None,DB023,2016,2027
+DB023Z0,"Beam Radiation of Lung using Electrons, Intraoperative",DB023Z,2016,2027
+DB023ZZ,Beam Radiation of Lung using Electrons,DB023Z,2016,2027
+DB024,"Heavy Particles (Protons,Ions)",DB02,2016,2027
+DB024Z,None,DB024,2016,2027
+DB024ZZ,"Beam Radiation of Lung using Heavy Particles (Protons,Ions)",DB024Z,2016,2027
+DB025,Neutrons,DB02,2016,2027
+DB025Z,None,DB025,2016,2027
+DB025ZZ,Beam Radiation of Lung using Neutrons,DB025Z,2016,2027
+DB026,Neutron Capture,DB02,2016,2027
+DB026Z,None,DB026,2016,2027
+DB026ZZ,Beam Radiation of Lung using Neutron Capture,DB026Z,2016,2027
+DB05,Pleura,DB0,2016,2027
+DB050,Photons <1 MeV,DB05,2016,2027
+DB050Z,None,DB050,2016,2027
+DB050ZZ,Beam Radiation of Pleura using Photons <1 MeV,DB050Z,2016,2027
+DB051,Photons 1 - 10 MeV,DB05,2016,2027
+DB051Z,None,DB051,2016,2027
+DB051ZZ,Beam Radiation of Pleura using Photons 1 - 10 MeV,DB051Z,2016,2027
+DB052,Photons >10 MeV,DB05,2016,2027
+DB052Z,None,DB052,2016,2027
+DB052ZZ,Beam Radiation of Pleura using Photons >10 MeV,DB052Z,2016,2027
+DB053,Electrons,DB05,2016,2027
+DB053Z,None,DB053,2016,2027
+DB053Z0,"Beam Radiation of Pleura using Electrons, Intraoperative",DB053Z,2016,2027
+DB053ZZ,Beam Radiation of Pleura using Electrons,DB053Z,2016,2027
+DB054,"Heavy Particles (Protons,Ions)",DB05,2016,2027
+DB054Z,None,DB054,2016,2027
+DB054ZZ,"Beam Radiation of Pleura using Heavy Particles (Protons,Ions)",DB054Z,2016,2027
+DB055,Neutrons,DB05,2016,2027
+DB055Z,None,DB055,2016,2027
+DB055ZZ,Beam Radiation of Pleura using Neutrons,DB055Z,2016,2027
+DB056,Neutron Capture,DB05,2016,2027
+DB056Z,None,DB056,2016,2027
+DB056ZZ,Beam Radiation of Pleura using Neutron Capture,DB056Z,2016,2027
+DB06,Mediastinum,DB0,2016,2027
+DB060,Photons <1 MeV,DB06,2016,2027
+DB060Z,None,DB060,2016,2027
+DB060ZZ,Beam Radiation of Mediastinum using Photons <1 MeV,DB060Z,2016,2027
+DB061,Photons 1 - 10 MeV,DB06,2016,2027
+DB061Z,None,DB061,2016,2027
+DB061ZZ,Beam Radiation of Mediastinum using Photons 1 - 10 MeV,DB061Z,2016,2027
+DB062,Photons >10 MeV,DB06,2016,2027
+DB062Z,None,DB062,2016,2027
+DB062ZZ,Beam Radiation of Mediastinum using Photons >10 MeV,DB062Z,2016,2027
+DB063,Electrons,DB06,2016,2027
+DB063Z,None,DB063,2016,2027
+DB063Z0,"Beam Radiation of Mediastinum using Electrons, Intraoperative",DB063Z,2016,2027
+DB063ZZ,Beam Radiation of Mediastinum using Electrons,DB063Z,2016,2027
+DB064,"Heavy Particles (Protons,Ions)",DB06,2016,2027
+DB064Z,None,DB064,2016,2027
+DB064ZZ,"Beam Radiation of Mediastinum using Heavy Particles (Protons,Ions)",DB064Z,2016,2027
+DB065,Neutrons,DB06,2016,2027
+DB065Z,None,DB065,2016,2027
+DB065ZZ,Beam Radiation of Mediastinum using Neutrons,DB065Z,2016,2027
+DB066,Neutron Capture,DB06,2016,2027
+DB066Z,None,DB066,2016,2027
+DB066ZZ,Beam Radiation of Mediastinum using Neutron Capture,DB066Z,2016,2027
+DB07,Chest Wall,DB0,2016,2027
+DB070,Photons <1 MeV,DB07,2016,2027
+DB070Z,None,DB070,2016,2027
+DB070ZZ,Beam Radiation of Chest Wall using Photons <1 MeV,DB070Z,2016,2027
+DB071,Photons 1 - 10 MeV,DB07,2016,2027
+DB071Z,None,DB071,2016,2027
+DB071ZZ,Beam Radiation of Chest Wall using Photons 1 - 10 MeV,DB071Z,2016,2027
+DB072,Photons >10 MeV,DB07,2016,2027
+DB072Z,None,DB072,2016,2027
+DB072ZZ,Beam Radiation of Chest Wall using Photons >10 MeV,DB072Z,2016,2027
+DB073,Electrons,DB07,2016,2027
+DB073Z,None,DB073,2016,2027
+DB073Z0,"Beam Radiation of Chest Wall using Electrons, Intraoperative",DB073Z,2016,2027
+DB073ZZ,Beam Radiation of Chest Wall using Electrons,DB073Z,2016,2027
+DB074,"Heavy Particles (Protons,Ions)",DB07,2016,2027
+DB074Z,None,DB074,2016,2027
+DB074ZZ,"Beam Radiation of Chest Wall using Heavy Particles (Protons,Ions)",DB074Z,2016,2027
+DB075,Neutrons,DB07,2016,2027
+DB075Z,None,DB075,2016,2027
+DB075ZZ,Beam Radiation of Chest Wall using Neutrons,DB075Z,2016,2027
+DB076,Neutron Capture,DB07,2016,2027
+DB076Z,None,DB076,2016,2027
+DB076ZZ,Beam Radiation of Chest Wall using Neutron Capture,DB076Z,2016,2027
+DB08,Diaphragm,DB0,2016,2027
+DB080,Photons <1 MeV,DB08,2016,2027
+DB080Z,None,DB080,2016,2027
+DB080ZZ,Beam Radiation of Diaphragm using Photons <1 MeV,DB080Z,2016,2027
+DB081,Photons 1 - 10 MeV,DB08,2016,2027
+DB081Z,None,DB081,2016,2027
+DB081ZZ,Beam Radiation of Diaphragm using Photons 1 - 10 MeV,DB081Z,2016,2027
+DB082,Photons >10 MeV,DB08,2016,2027
+DB082Z,None,DB082,2016,2027
+DB082ZZ,Beam Radiation of Diaphragm using Photons >10 MeV,DB082Z,2016,2027
+DB083,Electrons,DB08,2016,2027
+DB083Z,None,DB083,2016,2027
+DB083Z0,"Beam Radiation of Diaphragm using Electrons, Intraoperative",DB083Z,2016,2027
+DB083ZZ,Beam Radiation of Diaphragm using Electrons,DB083Z,2016,2027
+DB084,"Heavy Particles (Protons,Ions)",DB08,2016,2027
+DB084Z,None,DB084,2016,2027
+DB084ZZ,"Beam Radiation of Diaphragm using Heavy Particles (Protons,Ions)",DB084Z,2016,2027
+DB085,Neutrons,DB08,2016,2027
+DB085Z,None,DB085,2016,2027
+DB085ZZ,Beam Radiation of Diaphragm using Neutrons,DB085Z,2016,2027
+DB086,Neutron Capture,DB08,2016,2027
+DB086Z,None,DB086,2016,2027
+DB086ZZ,Beam Radiation of Diaphragm using Neutron Capture,DB086Z,2016,2027
+DB1,Brachytherapy,DB,2016,2027
+DB10,Trachea,DB1,2016,2027
+DB109,High Dose Rate (HDR),DB10,2016,2027
+DB1097,Cesium 137 (Cs-137),DB109,2016,2027
+DB1097Z,High Dose Rate (HDR) Brachytherapy of Trachea using Cesium 137 (Cs-137),DB1097,2016,2027
+DB1098,Iridium 192 (Ir-192),DB109,2016,2027
+DB1098Z,High Dose Rate (HDR) Brachytherapy of Trachea using Iridium 192 (Ir-192),DB1098,2016,2027
+DB1099,Iodine 125 (I-125),DB109,2016,2027
+DB1099Z,High Dose Rate (HDR) Brachytherapy of Trachea using Iodine 125 (I-125),DB1099,2016,2027
+DB109B,Palladium 103 (Pd-103),DB109,2016,2027
+DB109BZ,High Dose Rate (HDR) Brachytherapy of Trachea using Palladium 103 (Pd-103),DB109B,2016,2027
+DB109C,Californium 252 (Cf-252),DB109,2016,2027
+DB109CZ,High Dose Rate (HDR) Brachytherapy of Trachea using Californium 252 (Cf-252),DB109C,2016,2027
+DB109Y,Other Isotope,DB109,2016,2027
+DB109YZ,High Dose Rate (HDR) Brachytherapy of Trachea using Other Isotope,DB109Y,2016,2027
+DB10B,Low Dose Rate (LDR),DB10,2016,2027
+DB10B6,Cesium 131 (Cs-131),DB10B,2021,2027
+DB10B6Z,Low Dose Rate (LDR) Brachytherapy of Trachea using Cesium 131 (Cs-131),DB10B6,2021,2027
+DB10B7,Cesium 137 (Cs-137),DB10B,2016,2027
+DB10B7Z,Low Dose Rate (LDR) Brachytherapy of Trachea using Cesium 137 (Cs-137),DB10B7,2016,2027
+DB10B8,Iridium 192 (Ir-192),DB10B,2016,2027
+DB10B8Z,Low Dose Rate (LDR) Brachytherapy of Trachea using Iridium 192 (Ir-192),DB10B8,2016,2027
+DB10B9,Iodine 125 (I-125),DB10B,2016,2027
+DB10B9Z,Low Dose Rate (LDR) Brachytherapy of Trachea using Iodine 125 (I-125),DB10B9,2016,2027
+DB10BB,Palladium 103 (Pd-103),DB10B,2016,2027
+DB10BB1,"Low Dose Rate (LDR) Brachytherapy of Trachea using Palladium 103 (Pd-103), Unidirectional Source",DB10BB,2020,2027
+DB10BBZ,Low Dose Rate (LDR) Brachytherapy of Trachea using Palladium 103 (Pd-103),DB10BB,2016,2027
+DB10BC,Californium 252 (Cf-252),DB10B,2016,2027
+DB10BCZ,Low Dose Rate (LDR) Brachytherapy of Trachea using Californium 252 (Cf-252),DB10BC,2016,2027
+DB10BY,Other Isotope,DB10B,2016,2027
+DB10BYZ,Low Dose Rate (LDR) Brachytherapy of Trachea using Other Isotope,DB10BY,2016,2027
+DB11,Bronchus,DB1,2016,2027
+DB119,High Dose Rate (HDR),DB11,2016,2027
+DB1197,Cesium 137 (Cs-137),DB119,2016,2027
+DB1197Z,High Dose Rate (HDR) Brachytherapy of Bronchus using Cesium 137 (Cs-137),DB1197,2016,2027
+DB1198,Iridium 192 (Ir-192),DB119,2016,2027
+DB1198Z,High Dose Rate (HDR) Brachytherapy of Bronchus using Iridium 192 (Ir-192),DB1198,2016,2027
+DB1199,Iodine 125 (I-125),DB119,2016,2027
+DB1199Z,High Dose Rate (HDR) Brachytherapy of Bronchus using Iodine 125 (I-125),DB1199,2016,2027
+DB119B,Palladium 103 (Pd-103),DB119,2016,2027
+DB119BZ,High Dose Rate (HDR) Brachytherapy of Bronchus using Palladium 103 (Pd-103),DB119B,2016,2027
+DB119C,Californium 252 (Cf-252),DB119,2016,2027
+DB119CZ,High Dose Rate (HDR) Brachytherapy of Bronchus using Californium 252 (Cf-252),DB119C,2016,2027
+DB119Y,Other Isotope,DB119,2016,2027
+DB119YZ,High Dose Rate (HDR) Brachytherapy of Bronchus using Other Isotope,DB119Y,2016,2027
+DB11B,Low Dose Rate (LDR),DB11,2016,2027
+DB11B6,Cesium 131 (Cs-131),DB11B,2021,2027
+DB11B6Z,Low Dose Rate (LDR) Brachytherapy of Bronchus using Cesium 131 (Cs-131),DB11B6,2021,2027
+DB11B7,Cesium 137 (Cs-137),DB11B,2016,2027
+DB11B7Z,Low Dose Rate (LDR) Brachytherapy of Bronchus using Cesium 137 (Cs-137),DB11B7,2016,2027
+DB11B8,Iridium 192 (Ir-192),DB11B,2016,2027
+DB11B8Z,Low Dose Rate (LDR) Brachytherapy of Bronchus using Iridium 192 (Ir-192),DB11B8,2016,2027
+DB11B9,Iodine 125 (I-125),DB11B,2016,2027
+DB11B9Z,Low Dose Rate (LDR) Brachytherapy of Bronchus using Iodine 125 (I-125),DB11B9,2016,2027
+DB11BB,Palladium 103 (Pd-103),DB11B,2016,2027
+DB11BB1,"Low Dose Rate (LDR) Brachytherapy of Bronchus using Palladium 103 (Pd-103), Unidirectional Source",DB11BB,2020,2027
+DB11BBZ,Low Dose Rate (LDR) Brachytherapy of Bronchus using Palladium 103 (Pd-103),DB11BB,2016,2027
+DB11BC,Californium 252 (Cf-252),DB11B,2016,2027
+DB11BCZ,Low Dose Rate (LDR) Brachytherapy of Bronchus using Californium 252 (Cf-252),DB11BC,2016,2027
+DB11BY,Other Isotope,DB11B,2016,2027
+DB11BYZ,Low Dose Rate (LDR) Brachytherapy of Bronchus using Other Isotope,DB11BY,2016,2027
+DB12,Lung,DB1,2016,2027
+DB129,High Dose Rate (HDR),DB12,2016,2027
+DB1297,Cesium 137 (Cs-137),DB129,2016,2027
+DB1297Z,High Dose Rate (HDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB1297,2016,2027
+DB1298,Iridium 192 (Ir-192),DB129,2016,2027
+DB1298Z,High Dose Rate (HDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB1298,2016,2027
+DB1299,Iodine 125 (I-125),DB129,2016,2027
+DB1299Z,High Dose Rate (HDR) Brachytherapy of Lung using Iodine 125 (I-125),DB1299,2016,2027
+DB129B,Palladium 103 (Pd-103),DB129,2016,2027
+DB129BZ,High Dose Rate (HDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB129B,2016,2027
+DB129C,Californium 252 (Cf-252),DB129,2016,2027
+DB129CZ,High Dose Rate (HDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB129C,2016,2027
+DB129Y,Other Isotope,DB129,2016,2027
+DB129YZ,High Dose Rate (HDR) Brachytherapy of Lung using Other Isotope,DB129Y,2016,2027
+DB12B,Low Dose Rate (LDR),DB12,2016,2027
+DB12B6,Cesium 131 (Cs-131),DB12B,2021,2027
+DB12B6Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 131 (Cs-131),DB12B6,2021,2027
+DB12B7,Cesium 137 (Cs-137),DB12B,2016,2027
+DB12B7Z,Low Dose Rate (LDR) Brachytherapy of Lung using Cesium 137 (Cs-137),DB12B7,2016,2027
+DB12B8,Iridium 192 (Ir-192),DB12B,2016,2027
+DB12B8Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iridium 192 (Ir-192),DB12B8,2016,2027
+DB12B9,Iodine 125 (I-125),DB12B,2016,2027
+DB12B9Z,Low Dose Rate (LDR) Brachytherapy of Lung using Iodine 125 (I-125),DB12B9,2016,2027
+DB12BB,Palladium 103 (Pd-103),DB12B,2016,2027
+DB12BB1,"Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103), Unidirectional Source",DB12BB,2020,2027
+DB12BBZ,Low Dose Rate (LDR) Brachytherapy of Lung using Palladium 103 (Pd-103),DB12BB,2016,2027
+DB12BC,Californium 252 (Cf-252),DB12B,2016,2027
+DB12BCZ,Low Dose Rate (LDR) Brachytherapy of Lung using Californium 252 (Cf-252),DB12BC,2016,2027
+DB12BY,Other Isotope,DB12B,2016,2027
+DB12BYZ,Low Dose Rate (LDR) Brachytherapy of Lung using Other Isotope,DB12BY,2016,2027
+DB15,Pleura,DB1,2016,2027
+DB159,High Dose Rate (HDR),DB15,2016,2027
+DB1597,Cesium 137 (Cs-137),DB159,2016,2027
+DB1597Z,High Dose Rate (HDR) Brachytherapy of Pleura using Cesium 137 (Cs-137),DB1597,2016,2027
+DB1598,Iridium 192 (Ir-192),DB159,2016,2027
+DB1598Z,High Dose Rate (HDR) Brachytherapy of Pleura using Iridium 192 (Ir-192),DB1598,2016,2027
+DB1599,Iodine 125 (I-125),DB159,2016,2027
+DB1599Z,High Dose Rate (HDR) Brachytherapy of Pleura using Iodine 125 (I-125),DB1599,2016,2027
+DB159B,Palladium 103 (Pd-103),DB159,2016,2027
+DB159BZ,High Dose Rate (HDR) Brachytherapy of Pleura using Palladium 103 (Pd-103),DB159B,2016,2027
+DB159C,Californium 252 (Cf-252),DB159,2016,2027
+DB159CZ,High Dose Rate (HDR) Brachytherapy of Pleura using Californium 252 (Cf-252),DB159C,2016,2027
+DB159Y,Other Isotope,DB159,2016,2027
+DB159YZ,High Dose Rate (HDR) Brachytherapy of Pleura using Other Isotope,DB159Y,2016,2027
+DB15B,Low Dose Rate (LDR),DB15,2016,2027
+DB15B6,Cesium 131 (Cs-131),DB15B,2021,2027
+DB15B6Z,Low Dose Rate (LDR) Brachytherapy of Pleura using Cesium 131 (Cs-131),DB15B6,2021,2027
+DB15B7,Cesium 137 (Cs-137),DB15B,2016,2027
+DB15B7Z,Low Dose Rate (LDR) Brachytherapy of Pleura using Cesium 137 (Cs-137),DB15B7,2016,2027
+DB15B8,Iridium 192 (Ir-192),DB15B,2016,2027
+DB15B8Z,Low Dose Rate (LDR) Brachytherapy of Pleura using Iridium 192 (Ir-192),DB15B8,2016,2027
+DB15B9,Iodine 125 (I-125),DB15B,2016,2027
+DB15B9Z,Low Dose Rate (LDR) Brachytherapy of Pleura using Iodine 125 (I-125),DB15B9,2016,2027
+DB15BB,Palladium 103 (Pd-103),DB15B,2016,2027
+DB15BB1,"Low Dose Rate (LDR) Brachytherapy of Pleura using Palladium 103 (Pd-103), Unidirectional Source",DB15BB,2020,2027
+DB15BBZ,Low Dose Rate (LDR) Brachytherapy of Pleura using Palladium 103 (Pd-103),DB15BB,2016,2027
+DB15BC,Californium 252 (Cf-252),DB15B,2016,2027
+DB15BCZ,Low Dose Rate (LDR) Brachytherapy of Pleura using Californium 252 (Cf-252),DB15BC,2016,2027
+DB15BY,Other Isotope,DB15B,2016,2027
+DB15BYZ,Low Dose Rate (LDR) Brachytherapy of Pleura using Other Isotope,DB15BY,2016,2027
+DB16,Mediastinum,DB1,2016,2027
+DB169,High Dose Rate (HDR),DB16,2016,2027
+DB1697,Cesium 137 (Cs-137),DB169,2016,2027
+DB1697Z,High Dose Rate (HDR) Brachytherapy of Mediastinum using Cesium 137 (Cs-137),DB1697,2016,2027
+DB1698,Iridium 192 (Ir-192),DB169,2016,2027
+DB1698Z,High Dose Rate (HDR) Brachytherapy of Mediastinum using Iridium 192 (Ir-192),DB1698,2016,2027
+DB1699,Iodine 125 (I-125),DB169,2016,2027
+DB1699Z,High Dose Rate (HDR) Brachytherapy of Mediastinum using Iodine 125 (I-125),DB1699,2016,2027
+DB169B,Palladium 103 (Pd-103),DB169,2016,2027
+DB169BZ,High Dose Rate (HDR) Brachytherapy of Mediastinum using Palladium 103 (Pd-103),DB169B,2016,2027
+DB169C,Californium 252 (Cf-252),DB169,2016,2027
+DB169CZ,High Dose Rate (HDR) Brachytherapy of Mediastinum using Californium 252 (Cf-252),DB169C,2016,2027
+DB169Y,Other Isotope,DB169,2016,2027
+DB169YZ,High Dose Rate (HDR) Brachytherapy of Mediastinum using Other Isotope,DB169Y,2016,2027
+DB16B,Low Dose Rate (LDR),DB16,2016,2027
+DB16B6,Cesium 131 (Cs-131),DB16B,2021,2027
+DB16B6Z,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Cesium 131 (Cs-131),DB16B6,2021,2027
+DB16B7,Cesium 137 (Cs-137),DB16B,2016,2027
+DB16B7Z,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Cesium 137 (Cs-137),DB16B7,2016,2027
+DB16B8,Iridium 192 (Ir-192),DB16B,2016,2027
+DB16B8Z,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Iridium 192 (Ir-192),DB16B8,2016,2027
+DB16B9,Iodine 125 (I-125),DB16B,2016,2027
+DB16B9Z,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Iodine 125 (I-125),DB16B9,2016,2027
+DB16BB,Palladium 103 (Pd-103),DB16B,2016,2027
+DB16BB1,"Low Dose Rate (LDR) Brachytherapy of Mediastinum using Palladium 103 (Pd-103), Unidirectional Source",DB16BB,2020,2027
+DB16BBZ,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Palladium 103 (Pd-103),DB16BB,2016,2027
+DB16BC,Californium 252 (Cf-252),DB16B,2016,2027
+DB16BCZ,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Californium 252 (Cf-252),DB16BC,2016,2027
+DB16BY,Other Isotope,DB16B,2016,2027
+DB16BYZ,Low Dose Rate (LDR) Brachytherapy of Mediastinum using Other Isotope,DB16BY,2016,2027
+DB17,Chest Wall,DB1,2016,2027
+DB179,High Dose Rate (HDR),DB17,2016,2027
+DB1797,Cesium 137 (Cs-137),DB179,2016,2027
+DB1797Z,High Dose Rate (HDR) Brachytherapy of Chest Wall using Cesium 137 (Cs-137),DB1797,2016,2027
+DB1798,Iridium 192 (Ir-192),DB179,2016,2027
+DB1798Z,High Dose Rate (HDR) Brachytherapy of Chest Wall using Iridium 192 (Ir-192),DB1798,2016,2027
+DB1799,Iodine 125 (I-125),DB179,2016,2027
+DB1799Z,High Dose Rate (HDR) Brachytherapy of Chest Wall using Iodine 125 (I-125),DB1799,2016,2027
+DB179B,Palladium 103 (Pd-103),DB179,2016,2027
+DB179BZ,High Dose Rate (HDR) Brachytherapy of Chest Wall using Palladium 103 (Pd-103),DB179B,2016,2027
+DB179C,Californium 252 (Cf-252),DB179,2016,2027
+DB179CZ,High Dose Rate (HDR) Brachytherapy of Chest Wall using Californium 252 (Cf-252),DB179C,2016,2027
+DB179Y,Other Isotope,DB179,2016,2027
+DB179YZ,High Dose Rate (HDR) Brachytherapy of Chest Wall using Other Isotope,DB179Y,2016,2027
+DB17B,Low Dose Rate (LDR),DB17,2016,2027
+DB17B6,Cesium 131 (Cs-131),DB17B,2021,2027
+DB17B6Z,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Cesium 131 (Cs-131),DB17B6,2021,2027
+DB17B7,Cesium 137 (Cs-137),DB17B,2016,2027
+DB17B7Z,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Cesium 137 (Cs-137),DB17B7,2016,2027
+DB17B8,Iridium 192 (Ir-192),DB17B,2016,2027
+DB17B8Z,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Iridium 192 (Ir-192),DB17B8,2016,2027
+DB17B9,Iodine 125 (I-125),DB17B,2016,2027
+DB17B9Z,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Iodine 125 (I-125),DB17B9,2016,2027
+DB17BB,Palladium 103 (Pd-103),DB17B,2016,2027
+DB17BB1,"Low Dose Rate (LDR) Brachytherapy of Chest Wall using Palladium 103 (Pd-103), Unidirectional Source",DB17BB,2020,2027
+DB17BBZ,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Palladium 103 (Pd-103),DB17BB,2016,2027
+DB17BC,Californium 252 (Cf-252),DB17B,2016,2027
+DB17BCZ,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Californium 252 (Cf-252),DB17BC,2016,2027
+DB17BY,Other Isotope,DB17B,2016,2027
+DB17BYZ,Low Dose Rate (LDR) Brachytherapy of Chest Wall using Other Isotope,DB17BY,2016,2027
+DB18,Diaphragm,DB1,2016,2027
+DB189,High Dose Rate (HDR),DB18,2016,2027
+DB1897,Cesium 137 (Cs-137),DB189,2016,2027
+DB1897Z,High Dose Rate (HDR) Brachytherapy of Diaphragm using Cesium 137 (Cs-137),DB1897,2016,2027
+DB1898,Iridium 192 (Ir-192),DB189,2016,2027
+DB1898Z,High Dose Rate (HDR) Brachytherapy of Diaphragm using Iridium 192 (Ir-192),DB1898,2016,2027
+DB1899,Iodine 125 (I-125),DB189,2016,2027
+DB1899Z,High Dose Rate (HDR) Brachytherapy of Diaphragm using Iodine 125 (I-125),DB1899,2016,2027
+DB189B,Palladium 103 (Pd-103),DB189,2016,2027
+DB189BZ,High Dose Rate (HDR) Brachytherapy of Diaphragm using Palladium 103 (Pd-103),DB189B,2016,2027
+DB189C,Californium 252 (Cf-252),DB189,2016,2027
+DB189CZ,High Dose Rate (HDR) Brachytherapy of Diaphragm using Californium 252 (Cf-252),DB189C,2016,2027
+DB189Y,Other Isotope,DB189,2016,2027
+DB189YZ,High Dose Rate (HDR) Brachytherapy of Diaphragm using Other Isotope,DB189Y,2016,2027
+DB18B,Low Dose Rate (LDR),DB18,2016,2027
+DB18B6,Cesium 131 (Cs-131),DB18B,2021,2027
+DB18B6Z,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Cesium 131 (Cs-131),DB18B6,2021,2027
+DB18B7,Cesium 137 (Cs-137),DB18B,2016,2027
+DB18B7Z,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Cesium 137 (Cs-137),DB18B7,2016,2027
+DB18B8,Iridium 192 (Ir-192),DB18B,2016,2027
+DB18B8Z,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Iridium 192 (Ir-192),DB18B8,2016,2027
+DB18B9,Iodine 125 (I-125),DB18B,2016,2027
+DB18B9Z,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Iodine 125 (I-125),DB18B9,2016,2027
+DB18BB,Palladium 103 (Pd-103),DB18B,2016,2027
+DB18BB1,"Low Dose Rate (LDR) Brachytherapy of Diaphragm using Palladium 103 (Pd-103), Unidirectional Source",DB18BB,2020,2027
+DB18BBZ,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Palladium 103 (Pd-103),DB18BB,2016,2027
+DB18BC,Californium 252 (Cf-252),DB18B,2016,2027
+DB18BCZ,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Californium 252 (Cf-252),DB18BC,2016,2027
+DB18BY,Other Isotope,DB18B,2016,2027
+DB18BYZ,Low Dose Rate (LDR) Brachytherapy of Diaphragm using Other Isotope,DB18BY,2016,2027
+DB2,Stereotactic Radiosurgery,DB,2016,2027
+DB20,Trachea,DB2,2016,2027
+DB20D,Stereotactic Other Photon Radiosurgery,DB20,2016,2027
+DB20DZ,None,DB20D,2016,2027
+DB20DZZ,Stereotactic Other Photon Radiosurgery of Trachea,DB20DZ,2016,2027
+DB20H,Stereotactic Particulate Radiosurgery,DB20,2016,2027
+DB20HZ,None,DB20H,2016,2027
+DB20HZZ,Stereotactic Particulate Radiosurgery of Trachea,DB20HZ,2016,2027
+DB20J,Stereotactic Gamma Beam Radiosurgery,DB20,2016,2027
+DB20JZ,None,DB20J,2016,2027
+DB20JZZ,Stereotactic Gamma Beam Radiosurgery of Trachea,DB20JZ,2016,2027
+DB21,Bronchus,DB2,2016,2027
+DB21D,Stereotactic Other Photon Radiosurgery,DB21,2016,2027
+DB21DZ,None,DB21D,2016,2027
+DB21DZZ,Stereotactic Other Photon Radiosurgery of Bronchus,DB21DZ,2016,2027
+DB21H,Stereotactic Particulate Radiosurgery,DB21,2016,2027
+DB21HZ,None,DB21H,2016,2027
+DB21HZZ,Stereotactic Particulate Radiosurgery of Bronchus,DB21HZ,2016,2027
+DB21J,Stereotactic Gamma Beam Radiosurgery,DB21,2016,2027
+DB21JZ,None,DB21J,2016,2027
+DB21JZZ,Stereotactic Gamma Beam Radiosurgery of Bronchus,DB21JZ,2016,2027
+DB22,Lung,DB2,2016,2027
+DB22D,Stereotactic Other Photon Radiosurgery,DB22,2016,2027
+DB22DZ,None,DB22D,2016,2027
+DB22DZZ,Stereotactic Other Photon Radiosurgery of Lung,DB22DZ,2016,2027
+DB22H,Stereotactic Particulate Radiosurgery,DB22,2016,2027
+DB22HZ,None,DB22H,2016,2027
+DB22HZZ,Stereotactic Particulate Radiosurgery of Lung,DB22HZ,2016,2027
+DB22J,Stereotactic Gamma Beam Radiosurgery,DB22,2016,2027
+DB22JZ,None,DB22J,2016,2027
+DB22JZZ,Stereotactic Gamma Beam Radiosurgery of Lung,DB22JZ,2016,2027
+DB25,Pleura,DB2,2016,2027
+DB25D,Stereotactic Other Photon Radiosurgery,DB25,2016,2027
+DB25DZ,None,DB25D,2016,2027
+DB25DZZ,Stereotactic Other Photon Radiosurgery of Pleura,DB25DZ,2016,2027
+DB25H,Stereotactic Particulate Radiosurgery,DB25,2016,2027
+DB25HZ,None,DB25H,2016,2027
+DB25HZZ,Stereotactic Particulate Radiosurgery of Pleura,DB25HZ,2016,2027
+DB25J,Stereotactic Gamma Beam Radiosurgery,DB25,2016,2027
+DB25JZ,None,DB25J,2016,2027
+DB25JZZ,Stereotactic Gamma Beam Radiosurgery of Pleura,DB25JZ,2016,2027
+DB26,Mediastinum,DB2,2016,2027
+DB26D,Stereotactic Other Photon Radiosurgery,DB26,2016,2027
+DB26DZ,None,DB26D,2016,2027
+DB26DZZ,Stereotactic Other Photon Radiosurgery of Mediastinum,DB26DZ,2016,2027
+DB26H,Stereotactic Particulate Radiosurgery,DB26,2016,2027
+DB26HZ,None,DB26H,2016,2027
+DB26HZZ,Stereotactic Particulate Radiosurgery of Mediastinum,DB26HZ,2016,2027
+DB26J,Stereotactic Gamma Beam Radiosurgery,DB26,2016,2027
+DB26JZ,None,DB26J,2016,2027
+DB26JZZ,Stereotactic Gamma Beam Radiosurgery of Mediastinum,DB26JZ,2016,2027
+DB27,Chest Wall,DB2,2016,2027
+DB27D,Stereotactic Other Photon Radiosurgery,DB27,2016,2027
+DB27DZ,None,DB27D,2016,2027
+DB27DZZ,Stereotactic Other Photon Radiosurgery of Chest Wall,DB27DZ,2016,2027
+DB27H,Stereotactic Particulate Radiosurgery,DB27,2016,2027
+DB27HZ,None,DB27H,2016,2027
+DB27HZZ,Stereotactic Particulate Radiosurgery of Chest Wall,DB27HZ,2016,2027
+DB27J,Stereotactic Gamma Beam Radiosurgery,DB27,2016,2027
+DB27JZ,None,DB27J,2016,2027
+DB27JZZ,Stereotactic Gamma Beam Radiosurgery of Chest Wall,DB27JZ,2016,2027
+DB28,Diaphragm,DB2,2016,2027
+DB28D,Stereotactic Other Photon Radiosurgery,DB28,2016,2027
+DB28DZ,None,DB28D,2016,2027
+DB28DZZ,Stereotactic Other Photon Radiosurgery of Diaphragm,DB28DZ,2016,2027
+DB28H,Stereotactic Particulate Radiosurgery,DB28,2016,2027
+DB28HZ,None,DB28H,2016,2027
+DB28HZZ,Stereotactic Particulate Radiosurgery of Diaphragm,DB28HZ,2016,2027
+DB28J,Stereotactic Gamma Beam Radiosurgery,DB28,2016,2027
+DB28JZ,None,DB28J,2016,2027
+DB28JZZ,Stereotactic Gamma Beam Radiosurgery of Diaphragm,DB28JZ,2016,2027
+DBY,Other Radiation,DB,2016,2027
+DBY0,Trachea,DBY,2016,2027
+DBY07,Contact Radiation,DBY0,2016,2027
+DBY07Z,None,DBY07,2016,2027
+DBY07ZZ,Contact Radiation of Trachea,DBY07Z,2016,2027
+DBY08,Hyperthermia,DBY0,2016,2027
+DBY08Z,None,DBY08,2016,2027
+DBY08ZZ,Hyperthermia of Trachea,DBY08Z,2016,2027
+DBY0F,Plaque Radiation,DBY0,2016,2027
+DBY0FZ,None,DBY0F,2016,2027
+DBY0FZZ,Plaque Radiation of Trachea,DBY0FZ,2016,2027
+DBY0K,Laser Interstitial Thermal Therapy,DBY0,2016,2022
+DBY0KZ,None,DBY0K,2016,2022
+DBY0KZZ,Laser Interstitial Thermal Therapy of Trachea,DBY0KZ,2016,2022
+DBY1,Bronchus,DBY,2016,2027
+DBY17,Contact Radiation,DBY1,2016,2027
+DBY17Z,None,DBY17,2016,2027
+DBY17ZZ,Contact Radiation of Bronchus,DBY17Z,2016,2027
+DBY18,Hyperthermia,DBY1,2016,2027
+DBY18Z,None,DBY18,2016,2027
+DBY18ZZ,Hyperthermia of Bronchus,DBY18Z,2016,2027
+DBY1F,Plaque Radiation,DBY1,2016,2027
+DBY1FZ,None,DBY1F,2016,2027
+DBY1FZZ,Plaque Radiation of Bronchus,DBY1FZ,2016,2027
+DBY1K,Laser Interstitial Thermal Therapy,DBY1,2016,2022
+DBY1KZ,None,DBY1K,2016,2022
+DBY1KZZ,Laser Interstitial Thermal Therapy of Bronchus,DBY1KZ,2016,2022
+DBY2,Lung,DBY,2016,2027
+DBY27,Contact Radiation,DBY2,2016,2027
+DBY27Z,None,DBY27,2016,2027
+DBY27ZZ,Contact Radiation of Lung,DBY27Z,2016,2027
+DBY28,Hyperthermia,DBY2,2016,2027
+DBY28Z,None,DBY28,2016,2027
+DBY28ZZ,Hyperthermia of Lung,DBY28Z,2016,2027
+DBY2F,Plaque Radiation,DBY2,2016,2027
+DBY2FZ,None,DBY2F,2016,2027
+DBY2FZZ,Plaque Radiation of Lung,DBY2FZ,2016,2027
+DBY2K,Laser Interstitial Thermal Therapy,DBY2,2016,2022
+DBY2KZ,None,DBY2K,2016,2022
+DBY2KZZ,Laser Interstitial Thermal Therapy of Lung,DBY2KZ,2016,2022
+DBY5,Pleura,DBY,2016,2027
+DBY57,Contact Radiation,DBY5,2016,2027
+DBY57Z,None,DBY57,2016,2027
+DBY57ZZ,Contact Radiation of Pleura,DBY57Z,2016,2027
+DBY58,Hyperthermia,DBY5,2016,2027
+DBY58Z,None,DBY58,2016,2027
+DBY58ZZ,Hyperthermia of Pleura,DBY58Z,2016,2027
+DBY5F,Plaque Radiation,DBY5,2016,2027
+DBY5FZ,None,DBY5F,2016,2027
+DBY5FZZ,Plaque Radiation of Pleura,DBY5FZ,2016,2027
+DBY5K,Laser Interstitial Thermal Therapy,DBY5,2016,2022
+DBY5KZ,None,DBY5K,2016,2022
+DBY5KZZ,Laser Interstitial Thermal Therapy of Pleura,DBY5KZ,2016,2022
+DBY6,Mediastinum,DBY,2016,2027
+DBY67,Contact Radiation,DBY6,2016,2027
+DBY67Z,None,DBY67,2016,2027
+DBY67ZZ,Contact Radiation of Mediastinum,DBY67Z,2016,2027
+DBY68,Hyperthermia,DBY6,2016,2027
+DBY68Z,None,DBY68,2016,2027
+DBY68ZZ,Hyperthermia of Mediastinum,DBY68Z,2016,2027
+DBY6F,Plaque Radiation,DBY6,2016,2027
+DBY6FZ,None,DBY6F,2016,2027
+DBY6FZZ,Plaque Radiation of Mediastinum,DBY6FZ,2016,2027
+DBY6K,Laser Interstitial Thermal Therapy,DBY6,2016,2022
+DBY6KZ,None,DBY6K,2016,2022
+DBY6KZZ,Laser Interstitial Thermal Therapy of Mediastinum,DBY6KZ,2016,2022
+DBY7,Chest Wall,DBY,2016,2027
+DBY77,Contact Radiation,DBY7,2016,2027
+DBY77Z,None,DBY77,2016,2027
+DBY77ZZ,Contact Radiation of Chest Wall,DBY77Z,2016,2027
+DBY78,Hyperthermia,DBY7,2016,2027
+DBY78Z,None,DBY78,2016,2027
+DBY78ZZ,Hyperthermia of Chest Wall,DBY78Z,2016,2027
+DBY7F,Plaque Radiation,DBY7,2016,2027
+DBY7FZ,None,DBY7F,2016,2027
+DBY7FZZ,Plaque Radiation of Chest Wall,DBY7FZ,2016,2027
+DBY7K,Laser Interstitial Thermal Therapy,DBY7,2016,2022
+DBY7KZ,None,DBY7K,2016,2022
+DBY7KZZ,Laser Interstitial Thermal Therapy of Chest Wall,DBY7KZ,2016,2022
+DBY8,Diaphragm,DBY,2016,2027
+DBY87,Contact Radiation,DBY8,2016,2027
+DBY87Z,None,DBY87,2016,2027
+DBY87ZZ,Contact Radiation of Diaphragm,DBY87Z,2016,2027
+DBY88,Hyperthermia,DBY8,2016,2027
+DBY88Z,None,DBY88,2016,2027
+DBY88ZZ,Hyperthermia of Diaphragm,DBY88Z,2016,2027
+DBY8F,Plaque Radiation,DBY8,2016,2027
+DBY8FZ,None,DBY8F,2016,2027
+DBY8FZZ,Plaque Radiation of Diaphragm,DBY8FZ,2016,2027
+DBY8K,Laser Interstitial Thermal Therapy,DBY8,2016,2022
+DBY8KZ,None,DBY8K,2016,2022
+DBY8KZZ,Laser Interstitial Thermal Therapy of Diaphragm,DBY8KZ,2016,2022

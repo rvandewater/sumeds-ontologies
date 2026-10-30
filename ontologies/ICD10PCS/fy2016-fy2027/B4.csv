@@ -1,0 +1,724 @@
+code,description,parent,first_year,last_year
+B4,Lower Arteries,B,2016,2027
+B40,Plain Radiography,B4,2016,2027
+B400,Abdominal Aorta,B40,2016,2027
+B4000,High Osmolar,B400,2016,2027
+B4000Z,None,B4000,2016,2027
+B4000ZZ,Plain Radiography of Abdominal Aorta using High Osmolar Contrast,B4000Z,2016,2027
+B4001,Low Osmolar,B400,2016,2027
+B4001Z,None,B4001,2016,2027
+B4001ZZ,Plain Radiography of Abdominal Aorta using Low Osmolar Contrast,B4001Z,2016,2027
+B400Y,Other Contrast,B400,2016,2027
+B400YZ,None,B400Y,2016,2027
+B400YZZ,Plain Radiography of Abdominal Aorta using Other Contrast,B400YZ,2016,2027
+B402,Hepatic Artery,B40,2016,2027
+B4020,High Osmolar,B402,2016,2027
+B4020Z,None,B4020,2016,2027
+B4020ZZ,Plain Radiography of Hepatic Artery using High Osmolar Contrast,B4020Z,2016,2027
+B4021,Low Osmolar,B402,2016,2027
+B4021Z,None,B4021,2016,2027
+B4021ZZ,Plain Radiography of Hepatic Artery using Low Osmolar Contrast,B4021Z,2016,2027
+B402Y,Other Contrast,B402,2016,2027
+B402YZ,None,B402Y,2016,2027
+B402YZZ,Plain Radiography of Hepatic Artery using Other Contrast,B402YZ,2016,2027
+B403,Splenic Arteries,B40,2016,2027
+B4030,High Osmolar,B403,2016,2027
+B4030Z,None,B4030,2016,2027
+B4030ZZ,Plain Radiography of Splenic Arteries using High Osmolar Contrast,B4030Z,2016,2027
+B4031,Low Osmolar,B403,2016,2027
+B4031Z,None,B4031,2016,2027
+B4031ZZ,Plain Radiography of Splenic Arteries using Low Osmolar Contrast,B4031Z,2016,2027
+B403Y,Other Contrast,B403,2016,2027
+B403YZ,None,B403Y,2016,2027
+B403YZZ,Plain Radiography of Splenic Arteries using Other Contrast,B403YZ,2016,2027
+B404,Superior Mesenteric Artery,B40,2016,2027
+B4040,High Osmolar,B404,2016,2027
+B4040Z,None,B4040,2016,2027
+B4040ZZ,Plain Radiography of Superior Mesenteric Artery using High Osmolar Contrast,B4040Z,2016,2027
+B4041,Low Osmolar,B404,2016,2027
+B4041Z,None,B4041,2016,2027
+B4041ZZ,Plain Radiography of Superior Mesenteric Artery using Low Osmolar Contrast,B4041Z,2016,2027
+B404Y,Other Contrast,B404,2016,2027
+B404YZ,None,B404Y,2016,2027
+B404YZZ,Plain Radiography of Superior Mesenteric Artery using Other Contrast,B404YZ,2016,2027
+B405,Inferior Mesenteric Artery,B40,2016,2027
+B4050,High Osmolar,B405,2016,2027
+B4050Z,None,B4050,2016,2027
+B4050ZZ,Plain Radiography of Inferior Mesenteric Artery using High Osmolar Contrast,B4050Z,2016,2027
+B4051,Low Osmolar,B405,2016,2027
+B4051Z,None,B4051,2016,2027
+B4051ZZ,Plain Radiography of Inferior Mesenteric Artery using Low Osmolar Contrast,B4051Z,2016,2027
+B405Y,Other Contrast,B405,2016,2027
+B405YZ,None,B405Y,2016,2027
+B405YZZ,Plain Radiography of Inferior Mesenteric Artery using Other Contrast,B405YZ,2016,2027
+B406,"Renal Artery, Right",B40,2016,2027
+B4060,High Osmolar,B406,2016,2027
+B4060Z,None,B4060,2016,2027
+B4060ZZ,Plain Radiography of Right Renal Artery using High Osmolar Contrast,B4060Z,2016,2027
+B4061,Low Osmolar,B406,2016,2027
+B4061Z,None,B4061,2016,2027
+B4061ZZ,Plain Radiography of Right Renal Artery using Low Osmolar Contrast,B4061Z,2016,2027
+B406Y,Other Contrast,B406,2016,2027
+B406YZ,None,B406Y,2016,2027
+B406YZZ,Plain Radiography of Right Renal Artery using Other Contrast,B406YZ,2016,2027
+B407,"Renal Artery, Left",B40,2016,2027
+B4070,High Osmolar,B407,2016,2027
+B4070Z,None,B4070,2016,2027
+B4070ZZ,Plain Radiography of Left Renal Artery using High Osmolar Contrast,B4070Z,2016,2027
+B4071,Low Osmolar,B407,2016,2027
+B4071Z,None,B4071,2016,2027
+B4071ZZ,Plain Radiography of Left Renal Artery using Low Osmolar Contrast,B4071Z,2016,2027
+B407Y,Other Contrast,B407,2016,2027
+B407YZ,None,B407Y,2016,2027
+B407YZZ,Plain Radiography of Left Renal Artery using Other Contrast,B407YZ,2016,2027
+B408,"Renal Arteries, Bilateral",B40,2016,2027
+B4080,High Osmolar,B408,2016,2027
+B4080Z,None,B4080,2016,2027
+B4080ZZ,Plain Radiography of Bilateral Renal Arteries using High Osmolar Contrast,B4080Z,2016,2027
+B4081,Low Osmolar,B408,2016,2027
+B4081Z,None,B4081,2016,2027
+B4081ZZ,Plain Radiography of Bilateral Renal Arteries using Low Osmolar Contrast,B4081Z,2016,2027
+B408Y,Other Contrast,B408,2016,2027
+B408YZ,None,B408Y,2016,2027
+B408YZZ,Plain Radiography of Bilateral Renal Arteries using Other Contrast,B408YZ,2016,2027
+B409,Lumbar Arteries,B40,2016,2027
+B4090,High Osmolar,B409,2016,2027
+B4090Z,None,B4090,2016,2027
+B4090ZZ,Plain Radiography of Lumbar Arteries using High Osmolar Contrast,B4090Z,2016,2027
+B4091,Low Osmolar,B409,2016,2027
+B4091Z,None,B4091,2016,2027
+B4091ZZ,Plain Radiography of Lumbar Arteries using Low Osmolar Contrast,B4091Z,2016,2027
+B409Y,Other Contrast,B409,2016,2027
+B409YZ,None,B409Y,2016,2027
+B409YZZ,Plain Radiography of Lumbar Arteries using Other Contrast,B409YZ,2016,2027
+B40B,"Intra-Abdominal Arteries, Other",B40,2016,2027
+B40B0,High Osmolar,B40B,2016,2027
+B40B0Z,None,B40B0,2016,2027
+B40B0ZZ,Plain Radiography of Other Intra-Abdominal Arteries using High Osmolar Contrast,B40B0Z,2016,2027
+B40B1,Low Osmolar,B40B,2016,2027
+B40B1Z,None,B40B1,2016,2027
+B40B1ZZ,Plain Radiography of Other Intra-Abdominal Arteries using Low Osmolar Contrast,B40B1Z,2016,2027
+B40BY,Other Contrast,B40B,2016,2027
+B40BYZ,None,B40BY,2016,2027
+B40BYZZ,Plain Radiography of Other Intra-Abdominal Arteries using Other Contrast,B40BYZ,2016,2027
+B40C,Pelvic Arteries,B40,2016,2027
+B40C0,High Osmolar,B40C,2016,2027
+B40C0Z,None,B40C0,2016,2027
+B40C0ZZ,Plain Radiography of Pelvic Arteries using High Osmolar Contrast,B40C0Z,2016,2027
+B40C1,Low Osmolar,B40C,2016,2027
+B40C1Z,None,B40C1,2016,2027
+B40C1ZZ,Plain Radiography of Pelvic Arteries using Low Osmolar Contrast,B40C1Z,2016,2027
+B40CY,Other Contrast,B40C,2016,2027
+B40CYZ,None,B40CY,2016,2027
+B40CYZZ,Plain Radiography of Pelvic Arteries using Other Contrast,B40CYZ,2016,2027
+B40D,Aorta and Bilateral Lower Extremity Arteries,B40,2016,2027
+B40D0,High Osmolar,B40D,2016,2027
+B40D0Z,None,B40D0,2016,2027
+B40D0ZZ,Plain Radiography of Aorta and Bilateral Lower Extremity Arteries using High Osmolar Contrast,B40D0Z,2016,2027
+B40D1,Low Osmolar,B40D,2016,2027
+B40D1Z,None,B40D1,2016,2027
+B40D1ZZ,Plain Radiography of Aorta and Bilateral Lower Extremity Arteries using Low Osmolar Contrast,B40D1Z,2016,2027
+B40DY,Other Contrast,B40D,2016,2027
+B40DYZ,None,B40DY,2016,2027
+B40DYZZ,Plain Radiography of Aorta and Bilateral Lower Extremity Arteries using Other Contrast,B40DYZ,2016,2027
+B40F,"Lower Extremity Arteries, Right",B40,2016,2027
+B40F0,High Osmolar,B40F,2016,2027
+B40F0Z,None,B40F0,2016,2027
+B40F0ZZ,Plain Radiography of Right Lower Extremity Arteries using High Osmolar Contrast,B40F0Z,2016,2027
+B40F1,Low Osmolar,B40F,2016,2027
+B40F1Z,None,B40F1,2016,2027
+B40F1ZZ,Plain Radiography of Right Lower Extremity Arteries using Low Osmolar Contrast,B40F1Z,2016,2027
+B40FY,Other Contrast,B40F,2016,2027
+B40FYZ,None,B40FY,2016,2027
+B40FYZZ,Plain Radiography of Right Lower Extremity Arteries using Other Contrast,B40FYZ,2016,2027
+B40G,"Lower Extremity Arteries, Left",B40,2016,2027
+B40G0,High Osmolar,B40G,2016,2027
+B40G0Z,None,B40G0,2016,2027
+B40G0ZZ,Plain Radiography of Left Lower Extremity Arteries using High Osmolar Contrast,B40G0Z,2016,2027
+B40G1,Low Osmolar,B40G,2016,2027
+B40G1Z,None,B40G1,2016,2027
+B40G1ZZ,Plain Radiography of Left Lower Extremity Arteries using Low Osmolar Contrast,B40G1Z,2016,2027
+B40GY,Other Contrast,B40G,2016,2027
+B40GYZ,None,B40GY,2016,2027
+B40GYZZ,Plain Radiography of Left Lower Extremity Arteries using Other Contrast,B40GYZ,2016,2027
+B40J,"Lower Arteries, Other",B40,2016,2027
+B40J0,High Osmolar,B40J,2016,2027
+B40J0Z,None,B40J0,2016,2027
+B40J0ZZ,Plain Radiography of Other Lower Arteries using High Osmolar Contrast,B40J0Z,2016,2027
+B40J1,Low Osmolar,B40J,2016,2027
+B40J1Z,None,B40J1,2016,2027
+B40J1ZZ,Plain Radiography of Other Lower Arteries using Low Osmolar Contrast,B40J1Z,2016,2027
+B40JY,Other Contrast,B40J,2016,2027
+B40JYZ,None,B40JY,2016,2027
+B40JYZZ,Plain Radiography of Other Lower Arteries using Other Contrast,B40JYZ,2016,2027
+B40M,Renal Artery Transplant,B40,2016,2027
+B40M0,High Osmolar,B40M,2016,2027
+B40M0Z,None,B40M0,2016,2027
+B40M0ZZ,Plain Radiography of Renal Artery Transplant using High Osmolar Contrast,B40M0Z,2016,2027
+B40M1,Low Osmolar,B40M,2016,2027
+B40M1Z,None,B40M1,2016,2027
+B40M1ZZ,Plain Radiography of Renal Artery Transplant using Low Osmolar Contrast,B40M1Z,2016,2027
+B40MY,Other Contrast,B40M,2016,2027
+B40MYZ,None,B40MY,2016,2027
+B40MYZZ,Plain Radiography of Renal Artery Transplant using Other Contrast,B40MYZ,2016,2027
+B41,Fluoroscopy,B4,2016,2027
+B410,Abdominal Aorta,B41,2016,2027
+B4100,High Osmolar,B410,2016,2027
+B41001,Laser,B4100,2016,2027
+B410010,"Fluoroscopy of Abdominal Aorta using High Osmolar Contrast, Laser Intraoperative",B41001,2016,2027
+B4100Z,None,B4100,2016,2027
+B4100ZZ,Fluoroscopy of Abdominal Aorta using High Osmolar Contrast,B4100Z,2016,2027
+B4101,Low Osmolar,B410,2016,2027
+B41011,Laser,B4101,2016,2027
+B410110,"Fluoroscopy of Abdominal Aorta using Low Osmolar Contrast, Laser Intraoperative",B41011,2016,2027
+B4101Z,None,B4101,2016,2027
+B4101ZZ,Fluoroscopy of Abdominal Aorta using Low Osmolar Contrast,B4101Z,2016,2027
+B410Y,Other Contrast,B410,2016,2027
+B410Y1,Laser,B410Y,2016,2027
+B410Y10,"Fluoroscopy of Abdominal Aorta using Other Contrast, Laser Intraoperative",B410Y1,2016,2027
+B410YZ,None,B410Y,2016,2027
+B410YZZ,Fluoroscopy of Abdominal Aorta using Other Contrast,B410YZ,2016,2027
+B410Z,None,B410,2016,2027
+B410ZZ,None,B410Z,2016,2027
+B410ZZZ,Fluoroscopy of Abdominal Aorta,B410ZZ,2016,2027
+B412,Hepatic Artery,B41,2016,2027
+B4120,High Osmolar,B412,2016,2027
+B41201,Laser,B4120,2016,2027
+B412010,"Fluoroscopy of Hepatic Artery using High Osmolar Contrast, Laser Intraoperative",B41201,2016,2027
+B4120Z,None,B4120,2016,2027
+B4120ZZ,Fluoroscopy of Hepatic Artery using High Osmolar Contrast,B4120Z,2016,2027
+B4121,Low Osmolar,B412,2016,2027
+B41211,Laser,B4121,2016,2027
+B412110,"Fluoroscopy of Hepatic Artery using Low Osmolar Contrast, Laser Intraoperative",B41211,2016,2027
+B4121Z,None,B4121,2016,2027
+B4121ZZ,Fluoroscopy of Hepatic Artery using Low Osmolar Contrast,B4121Z,2016,2027
+B412Y,Other Contrast,B412,2016,2027
+B412Y1,Laser,B412Y,2016,2027
+B412Y10,"Fluoroscopy of Hepatic Artery using Other Contrast, Laser Intraoperative",B412Y1,2016,2027
+B412YZ,None,B412Y,2016,2027
+B412YZZ,Fluoroscopy of Hepatic Artery using Other Contrast,B412YZ,2016,2027
+B412Z,None,B412,2016,2027
+B412ZZ,None,B412Z,2016,2027
+B412ZZZ,Fluoroscopy of Hepatic Artery,B412ZZ,2016,2027
+B413,Splenic Arteries,B41,2016,2027
+B4130,High Osmolar,B413,2016,2027
+B41301,Laser,B4130,2016,2027
+B413010,"Fluoroscopy of Splenic Arteries using High Osmolar Contrast, Laser Intraoperative",B41301,2016,2027
+B4130Z,None,B4130,2016,2027
+B4130ZZ,Fluoroscopy of Splenic Arteries using High Osmolar Contrast,B4130Z,2016,2027
+B4131,Low Osmolar,B413,2016,2027
+B41311,Laser,B4131,2016,2027
+B413110,"Fluoroscopy of Splenic Arteries using Low Osmolar Contrast, Laser Intraoperative",B41311,2016,2027
+B4131Z,None,B4131,2016,2027
+B4131ZZ,Fluoroscopy of Splenic Arteries using Low Osmolar Contrast,B4131Z,2016,2027
+B413Y,Other Contrast,B413,2016,2027
+B413Y1,Laser,B413Y,2016,2027
+B413Y10,"Fluoroscopy of Splenic Arteries using Other Contrast, Laser Intraoperative",B413Y1,2016,2027
+B413YZ,None,B413Y,2016,2027
+B413YZZ,Fluoroscopy of Splenic Arteries using Other Contrast,B413YZ,2016,2027
+B413Z,None,B413,2016,2027
+B413ZZ,None,B413Z,2016,2027
+B413ZZZ,Fluoroscopy of Splenic Arteries,B413ZZ,2016,2027
+B414,Superior Mesenteric Artery,B41,2016,2027
+B4140,High Osmolar,B414,2016,2027
+B41401,Laser,B4140,2016,2027
+B414010,"Fluoroscopy of Superior Mesenteric Artery using High Osmolar Contrast, Laser Intraoperative",B41401,2016,2027
+B4140Z,None,B4140,2016,2027
+B4140ZZ,Fluoroscopy of Superior Mesenteric Artery using High Osmolar Contrast,B4140Z,2016,2027
+B4141,Low Osmolar,B414,2016,2027
+B41411,Laser,B4141,2016,2027
+B414110,"Fluoroscopy of Superior Mesenteric Artery using Low Osmolar Contrast, Laser Intraoperative",B41411,2016,2027
+B4141Z,None,B4141,2016,2027
+B4141ZZ,Fluoroscopy of Superior Mesenteric Artery using Low Osmolar Contrast,B4141Z,2016,2027
+B414Y,Other Contrast,B414,2016,2027
+B414Y1,Laser,B414Y,2016,2027
+B414Y10,"Fluoroscopy of Superior Mesenteric Artery using Other Contrast, Laser Intraoperative",B414Y1,2016,2027
+B414YZ,None,B414Y,2016,2027
+B414YZZ,Fluoroscopy of Superior Mesenteric Artery using Other Contrast,B414YZ,2016,2027
+B414Z,None,B414,2016,2027
+B414ZZ,None,B414Z,2016,2027
+B414ZZZ,Fluoroscopy of Superior Mesenteric Artery,B414ZZ,2016,2027
+B415,Inferior Mesenteric Artery,B41,2016,2027
+B4150,High Osmolar,B415,2016,2027
+B41501,Laser,B4150,2016,2027
+B415010,"Fluoroscopy of Inferior Mesenteric Artery using High Osmolar Contrast, Laser Intraoperative",B41501,2016,2027
+B4150Z,None,B4150,2016,2027
+B4150ZZ,Fluoroscopy of Inferior Mesenteric Artery using High Osmolar Contrast,B4150Z,2016,2027
+B4151,Low Osmolar,B415,2016,2027
+B41511,Laser,B4151,2016,2027
+B415110,"Fluoroscopy of Inferior Mesenteric Artery using Low Osmolar Contrast, Laser Intraoperative",B41511,2016,2027
+B4151Z,None,B4151,2016,2027
+B4151ZZ,Fluoroscopy of Inferior Mesenteric Artery using Low Osmolar Contrast,B4151Z,2016,2027
+B415Y,Other Contrast,B415,2016,2027
+B415Y1,Laser,B415Y,2016,2027
+B415Y10,"Fluoroscopy of Inferior Mesenteric Artery using Other Contrast, Laser Intraoperative",B415Y1,2016,2027
+B415YZ,None,B415Y,2016,2027
+B415YZZ,Fluoroscopy of Inferior Mesenteric Artery using Other Contrast,B415YZ,2016,2027
+B415Z,None,B415,2016,2027
+B415ZZ,None,B415Z,2016,2027
+B415ZZZ,Fluoroscopy of Inferior Mesenteric Artery,B415ZZ,2016,2027
+B416,"Renal Artery, Right",B41,2016,2027
+B4160,High Osmolar,B416,2016,2027
+B41601,Laser,B4160,2016,2027
+B416010,"Fluoroscopy of Right Renal Artery using High Osmolar Contrast, Laser Intraoperative",B41601,2016,2027
+B4160Z,None,B4160,2016,2027
+B4160ZZ,Fluoroscopy of Right Renal Artery using High Osmolar Contrast,B4160Z,2016,2027
+B4161,Low Osmolar,B416,2016,2027
+B41611,Laser,B4161,2016,2027
+B416110,"Fluoroscopy of Right Renal Artery using Low Osmolar Contrast, Laser Intraoperative",B41611,2016,2027
+B4161Z,None,B4161,2016,2027
+B4161ZZ,Fluoroscopy of Right Renal Artery using Low Osmolar Contrast,B4161Z,2016,2027
+B416Y,Other Contrast,B416,2016,2027
+B416Y1,Laser,B416Y,2016,2027
+B416Y10,"Fluoroscopy of Right Renal Artery using Other Contrast, Laser Intraoperative",B416Y1,2016,2027
+B416YZ,None,B416Y,2016,2027
+B416YZZ,Fluoroscopy of Right Renal Artery using Other Contrast,B416YZ,2016,2027
+B416Z,None,B416,2016,2027
+B416ZZ,None,B416Z,2016,2027
+B416ZZZ,Fluoroscopy of Right Renal Artery,B416ZZ,2016,2027
+B417,"Renal Artery, Left",B41,2016,2027
+B4170,High Osmolar,B417,2016,2027
+B41701,Laser,B4170,2016,2027
+B417010,"Fluoroscopy of Left Renal Artery using High Osmolar Contrast, Laser Intraoperative",B41701,2016,2027
+B4170Z,None,B4170,2016,2027
+B4170ZZ,Fluoroscopy of Left Renal Artery using High Osmolar Contrast,B4170Z,2016,2027
+B4171,Low Osmolar,B417,2016,2027
+B41711,Laser,B4171,2016,2027
+B417110,"Fluoroscopy of Left Renal Artery using Low Osmolar Contrast, Laser Intraoperative",B41711,2016,2027
+B4171Z,None,B4171,2016,2027
+B4171ZZ,Fluoroscopy of Left Renal Artery using Low Osmolar Contrast,B4171Z,2016,2027
+B417Y,Other Contrast,B417,2016,2027
+B417Y1,Laser,B417Y,2016,2027
+B417Y10,"Fluoroscopy of Left Renal Artery using Other Contrast, Laser Intraoperative",B417Y1,2016,2027
+B417YZ,None,B417Y,2016,2027
+B417YZZ,Fluoroscopy of Left Renal Artery using Other Contrast,B417YZ,2016,2027
+B417Z,None,B417,2016,2027
+B417ZZ,None,B417Z,2016,2027
+B417ZZZ,Fluoroscopy of Left Renal Artery,B417ZZ,2016,2027
+B418,"Renal Arteries, Bilateral",B41,2016,2027
+B4180,High Osmolar,B418,2016,2027
+B41801,Laser,B4180,2016,2027
+B418010,"Fluoroscopy of Bilateral Renal Arteries using High Osmolar Contrast, Laser Intraoperative",B41801,2016,2027
+B4180Z,None,B4180,2016,2027
+B4180ZZ,Fluoroscopy of Bilateral Renal Arteries using High Osmolar Contrast,B4180Z,2016,2027
+B4181,Low Osmolar,B418,2016,2027
+B41811,Laser,B4181,2016,2027
+B418110,"Fluoroscopy of Bilateral Renal Arteries using Low Osmolar Contrast, Laser Intraoperative",B41811,2016,2027
+B4181Z,None,B4181,2016,2027
+B4181ZZ,Fluoroscopy of Bilateral Renal Arteries using Low Osmolar Contrast,B4181Z,2016,2027
+B418Y,Other Contrast,B418,2016,2027
+B418Y1,Laser,B418Y,2016,2027
+B418Y10,"Fluoroscopy of Bilateral Renal Arteries using Other Contrast, Laser Intraoperative",B418Y1,2016,2027
+B418YZ,None,B418Y,2016,2027
+B418YZZ,Fluoroscopy of Bilateral Renal Arteries using Other Contrast,B418YZ,2016,2027
+B418Z,None,B418,2016,2027
+B418ZZ,None,B418Z,2016,2027
+B418ZZZ,Fluoroscopy of Bilateral Renal Arteries,B418ZZ,2016,2027
+B419,Lumbar Arteries,B41,2016,2027
+B4190,High Osmolar,B419,2016,2027
+B41901,Laser,B4190,2016,2027
+B419010,"Fluoroscopy of Lumbar Arteries using High Osmolar Contrast, Laser Intraoperative",B41901,2016,2027
+B4190Z,None,B4190,2016,2027
+B4190ZZ,Fluoroscopy of Lumbar Arteries using High Osmolar Contrast,B4190Z,2016,2027
+B4191,Low Osmolar,B419,2016,2027
+B41911,Laser,B4191,2016,2027
+B419110,"Fluoroscopy of Lumbar Arteries using Low Osmolar Contrast, Laser Intraoperative",B41911,2016,2027
+B4191Z,None,B4191,2016,2027
+B4191ZZ,Fluoroscopy of Lumbar Arteries using Low Osmolar Contrast,B4191Z,2016,2027
+B419Y,Other Contrast,B419,2016,2027
+B419Y1,Laser,B419Y,2016,2027
+B419Y10,"Fluoroscopy of Lumbar Arteries using Other Contrast, Laser Intraoperative",B419Y1,2016,2027
+B419YZ,None,B419Y,2016,2027
+B419YZZ,Fluoroscopy of Lumbar Arteries using Other Contrast,B419YZ,2016,2027
+B419Z,None,B419,2016,2027
+B419ZZ,None,B419Z,2016,2027
+B419ZZZ,Fluoroscopy of Lumbar Arteries,B419ZZ,2016,2027
+B41B,"Intra-Abdominal Arteries, Other",B41,2016,2027
+B41B0,High Osmolar,B41B,2016,2027
+B41B01,Laser,B41B0,2016,2027
+B41B010,"Fluoroscopy of Other Intra-Abdominal Arteries using High Osmolar Contrast, Laser Intraoperative",B41B01,2016,2027
+B41B0Z,None,B41B0,2016,2027
+B41B0ZZ,Fluoroscopy of Other Intra-Abdominal Arteries using High Osmolar Contrast,B41B0Z,2016,2027
+B41B1,Low Osmolar,B41B,2016,2027
+B41B11,Laser,B41B1,2016,2027
+B41B110,"Fluoroscopy of Other Intra-Abdominal Arteries using Low Osmolar Contrast, Laser Intraoperative",B41B11,2016,2027
+B41B1Z,None,B41B1,2016,2027
+B41B1ZZ,Fluoroscopy of Other Intra-Abdominal Arteries using Low Osmolar Contrast,B41B1Z,2016,2027
+B41BY,Other Contrast,B41B,2016,2027
+B41BY1,Laser,B41BY,2016,2027
+B41BY10,"Fluoroscopy of Other Intra-Abdominal Arteries using Other Contrast, Laser Intraoperative",B41BY1,2016,2027
+B41BYZ,None,B41BY,2016,2027
+B41BYZZ,Fluoroscopy of Other Intra-Abdominal Arteries using Other Contrast,B41BYZ,2016,2027
+B41BZ,None,B41B,2016,2027
+B41BZZ,None,B41BZ,2016,2027
+B41BZZZ,Fluoroscopy of Other Intra-Abdominal Arteries,B41BZZ,2016,2027
+B41C,Pelvic Arteries,B41,2016,2027
+B41C0,High Osmolar,B41C,2016,2027
+B41C01,Laser,B41C0,2016,2027
+B41C010,"Fluoroscopy of Pelvic Arteries using High Osmolar Contrast, Laser Intraoperative",B41C01,2016,2027
+B41C0Z,None,B41C0,2016,2027
+B41C0ZZ,Fluoroscopy of Pelvic Arteries using High Osmolar Contrast,B41C0Z,2016,2027
+B41C1,Low Osmolar,B41C,2016,2027
+B41C11,Laser,B41C1,2016,2027
+B41C110,"Fluoroscopy of Pelvic Arteries using Low Osmolar Contrast, Laser Intraoperative",B41C11,2016,2027
+B41C1Z,None,B41C1,2016,2027
+B41C1ZZ,Fluoroscopy of Pelvic Arteries using Low Osmolar Contrast,B41C1Z,2016,2027
+B41CY,Other Contrast,B41C,2016,2027
+B41CY1,Laser,B41CY,2016,2027
+B41CY10,"Fluoroscopy of Pelvic Arteries using Other Contrast, Laser Intraoperative",B41CY1,2016,2027
+B41CYZ,None,B41CY,2016,2027
+B41CYZZ,Fluoroscopy of Pelvic Arteries using Other Contrast,B41CYZ,2016,2027
+B41CZ,None,B41C,2016,2027
+B41CZZ,None,B41CZ,2016,2027
+B41CZZZ,Fluoroscopy of Pelvic Arteries,B41CZZ,2016,2027
+B41D,Aorta and Bilateral Lower Extremity Arteries,B41,2016,2027
+B41D0,High Osmolar,B41D,2016,2027
+B41D01,Laser,B41D0,2016,2027
+B41D010,"Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries using High Osmolar Contrast, Laser Intraoperative",B41D01,2016,2027
+B41D0Z,None,B41D0,2016,2027
+B41D0ZZ,Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries using High Osmolar Contrast,B41D0Z,2016,2027
+B41D1,Low Osmolar,B41D,2016,2027
+B41D11,Laser,B41D1,2016,2027
+B41D110,"Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries using Low Osmolar Contrast, Laser Intraoperative",B41D11,2016,2027
+B41D1Z,None,B41D1,2016,2027
+B41D1ZZ,Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries using Low Osmolar Contrast,B41D1Z,2016,2027
+B41DY,Other Contrast,B41D,2016,2027
+B41DY1,Laser,B41DY,2016,2027
+B41DY10,"Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries using Other Contrast, Laser Intraoperative",B41DY1,2016,2027
+B41DYZ,None,B41DY,2016,2027
+B41DYZZ,Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries using Other Contrast,B41DYZ,2016,2027
+B41DZ,None,B41D,2016,2027
+B41DZZ,None,B41DZ,2016,2027
+B41DZZZ,Fluoroscopy of Aorta and Bilateral Lower Extremity Arteries,B41DZZ,2016,2027
+B41F,"Lower Extremity Arteries, Right",B41,2016,2027
+B41F0,High Osmolar,B41F,2016,2027
+B41F01,Laser,B41F0,2016,2027
+B41F010,"Fluoroscopy of Right Lower Extremity Arteries using High Osmolar Contrast, Laser Intraoperative",B41F01,2016,2027
+B41F0Z,None,B41F0,2016,2027
+B41F0ZZ,Fluoroscopy of Right Lower Extremity Arteries using High Osmolar Contrast,B41F0Z,2016,2027
+B41F1,Low Osmolar,B41F,2016,2027
+B41F11,Laser,B41F1,2016,2027
+B41F110,"Fluoroscopy of Right Lower Extremity Arteries using Low Osmolar Contrast, Laser Intraoperative",B41F11,2016,2027
+B41F1Z,None,B41F1,2016,2027
+B41F1ZZ,Fluoroscopy of Right Lower Extremity Arteries using Low Osmolar Contrast,B41F1Z,2016,2027
+B41FY,Other Contrast,B41F,2016,2027
+B41FY1,Laser,B41FY,2016,2027
+B41FY10,"Fluoroscopy of Right Lower Extremity Arteries using Other Contrast, Laser Intraoperative",B41FY1,2016,2027
+B41FYZ,None,B41FY,2016,2027
+B41FYZZ,Fluoroscopy of Right Lower Extremity Arteries using Other Contrast,B41FYZ,2016,2027
+B41FZ,None,B41F,2016,2027
+B41FZZ,None,B41FZ,2016,2027
+B41FZZZ,Fluoroscopy of Right Lower Extremity Arteries,B41FZZ,2016,2027
+B41G,"Lower Extremity Arteries, Left",B41,2016,2027
+B41G0,High Osmolar,B41G,2016,2027
+B41G01,Laser,B41G0,2016,2027
+B41G010,"Fluoroscopy of Left Lower Extremity Arteries using High Osmolar Contrast, Laser Intraoperative",B41G01,2016,2027
+B41G0Z,None,B41G0,2016,2027
+B41G0ZZ,Fluoroscopy of Left Lower Extremity Arteries using High Osmolar Contrast,B41G0Z,2016,2027
+B41G1,Low Osmolar,B41G,2016,2027
+B41G11,Laser,B41G1,2016,2027
+B41G110,"Fluoroscopy of Left Lower Extremity Arteries using Low Osmolar Contrast, Laser Intraoperative",B41G11,2016,2027
+B41G1Z,None,B41G1,2016,2027
+B41G1ZZ,Fluoroscopy of Left Lower Extremity Arteries using Low Osmolar Contrast,B41G1Z,2016,2027
+B41GY,Other Contrast,B41G,2016,2027
+B41GY1,Laser,B41GY,2016,2027
+B41GY10,"Fluoroscopy of Left Lower Extremity Arteries using Other Contrast, Laser Intraoperative",B41GY1,2016,2027
+B41GYZ,None,B41GY,2016,2027
+B41GYZZ,Fluoroscopy of Left Lower Extremity Arteries using Other Contrast,B41GYZ,2016,2027
+B41GZ,None,B41G,2016,2027
+B41GZZ,None,B41GZ,2016,2027
+B41GZZZ,Fluoroscopy of Left Lower Extremity Arteries,B41GZZ,2016,2027
+B41J,"Lower Arteries, Other",B41,2016,2027
+B41J0,High Osmolar,B41J,2016,2027
+B41J01,Laser,B41J0,2016,2027
+B41J010,"Fluoroscopy of Other Lower Arteries using High Osmolar Contrast, Laser Intraoperative",B41J01,2016,2027
+B41J0Z,None,B41J0,2016,2027
+B41J0ZZ,Fluoroscopy of Other Lower Arteries using High Osmolar Contrast,B41J0Z,2016,2027
+B41J1,Low Osmolar,B41J,2016,2027
+B41J11,Laser,B41J1,2016,2027
+B41J110,"Fluoroscopy of Other Lower Arteries using Low Osmolar Contrast, Laser Intraoperative",B41J11,2016,2027
+B41J1Z,None,B41J1,2016,2027
+B41J1ZZ,Fluoroscopy of Other Lower Arteries using Low Osmolar Contrast,B41J1Z,2016,2027
+B41JY,Other Contrast,B41J,2016,2027
+B41JY1,Laser,B41JY,2016,2027
+B41JY10,"Fluoroscopy of Other Lower Arteries using Other Contrast, Laser Intraoperative",B41JY1,2016,2027
+B41JYZ,None,B41JY,2016,2027
+B41JYZZ,Fluoroscopy of Other Lower Arteries using Other Contrast,B41JYZ,2016,2027
+B41JZ,None,B41J,2016,2027
+B41JZZ,None,B41JZ,2016,2027
+B41JZZZ,Fluoroscopy of Other Lower Arteries,B41JZZ,2016,2027
+B42,Computerized Tomography (CT Scan),B4,2016,2027
+B420,Abdominal Aorta,B42,2016,2027
+B4200,High Osmolar,B420,2016,2027
+B4200Z,None,B4200,2016,2027
+B4200ZZ,Computerized Tomography (CT Scan) of Abdominal Aorta using High Osmolar Contrast,B4200Z,2016,2027
+B4201,Low Osmolar,B420,2016,2027
+B4201Z,None,B4201,2016,2027
+B4201ZZ,Computerized Tomography (CT Scan) of Abdominal Aorta using Low Osmolar Contrast,B4201Z,2016,2027
+B420Y,Other Contrast,B420,2016,2027
+B420YZ,None,B420Y,2016,2027
+B420YZZ,Computerized Tomography (CT Scan) of Abdominal Aorta using Other Contrast,B420YZ,2016,2027
+B420Z,None,B420,2016,2027
+B420Z2,Intravascular Optical Coherence,B420Z,2016,2027
+B420Z2Z,Computerized Tomography (CT Scan) of Abdominal Aorta using Intravascular Optical Coherence,B420Z2,2016,2027
+B420ZZ,None,B420Z,2016,2027
+B420ZZZ,Computerized Tomography (CT Scan) of Abdominal Aorta,B420ZZ,2016,2027
+B421,Celiac Artery,B42,2016,2027
+B4210,High Osmolar,B421,2016,2027
+B4210Z,None,B4210,2016,2027
+B4210ZZ,Computerized Tomography (CT Scan) of Celiac Artery using High Osmolar Contrast,B4210Z,2016,2027
+B4211,Low Osmolar,B421,2016,2027
+B4211Z,None,B4211,2016,2027
+B4211ZZ,Computerized Tomography (CT Scan) of Celiac Artery using Low Osmolar Contrast,B4211Z,2016,2027
+B421Y,Other Contrast,B421,2016,2027
+B421YZ,None,B421Y,2016,2027
+B421YZZ,Computerized Tomography (CT Scan) of Celiac Artery using Other Contrast,B421YZ,2016,2027
+B421Z,None,B421,2016,2027
+B421Z2,Intravascular Optical Coherence,B421Z,2016,2027
+B421Z2Z,Computerized Tomography (CT Scan) of Celiac Artery using Intravascular Optical Coherence,B421Z2,2016,2027
+B421ZZ,None,B421Z,2016,2027
+B421ZZZ,Computerized Tomography (CT Scan) of Celiac Artery,B421ZZ,2016,2027
+B424,Superior Mesenteric Artery,B42,2016,2027
+B4240,High Osmolar,B424,2016,2027
+B4240Z,None,B4240,2016,2027
+B4240ZZ,Computerized Tomography (CT Scan) of Superior Mesenteric Artery using High Osmolar Contrast,B4240Z,2016,2027
+B4241,Low Osmolar,B424,2016,2027
+B4241Z,None,B4241,2016,2027
+B4241ZZ,Computerized Tomography (CT Scan) of Superior Mesenteric Artery using Low Osmolar Contrast,B4241Z,2016,2027
+B424Y,Other Contrast,B424,2016,2027
+B424YZ,None,B424Y,2016,2027
+B424YZZ,Computerized Tomography (CT Scan) of Superior Mesenteric Artery using Other Contrast,B424YZ,2016,2027
+B424Z,None,B424,2016,2027
+B424Z2,Intravascular Optical Coherence,B424Z,2016,2027
+B424Z2Z,Computerized Tomography (CT Scan) of Superior Mesenteric Artery using Intravascular Optical Coherence,B424Z2,2016,2027
+B424ZZ,None,B424Z,2016,2027
+B424ZZZ,Computerized Tomography (CT Scan) of Superior Mesenteric Artery,B424ZZ,2016,2027
+B428,"Renal Arteries, Bilateral",B42,2016,2027
+B4280,High Osmolar,B428,2016,2027
+B4280Z,None,B4280,2016,2027
+B4280ZZ,Computerized Tomography (CT Scan) of Bilateral Renal Arteries using High Osmolar Contrast,B4280Z,2016,2027
+B4281,Low Osmolar,B428,2016,2027
+B4281Z,None,B4281,2016,2027
+B4281ZZ,Computerized Tomography (CT Scan) of Bilateral Renal Arteries using Low Osmolar Contrast,B4281Z,2016,2027
+B428Y,Other Contrast,B428,2016,2027
+B428YZ,None,B428Y,2016,2027
+B428YZZ,Computerized Tomography (CT Scan) of Bilateral Renal Arteries using Other Contrast,B428YZ,2016,2027
+B428Z,None,B428,2016,2027
+B428Z2,Intravascular Optical Coherence,B428Z,2016,2027
+B428Z2Z,Computerized Tomography (CT Scan) of Bilateral Renal Arteries using Intravascular Optical Coherence,B428Z2,2016,2027
+B428ZZ,None,B428Z,2016,2027
+B428ZZZ,Computerized Tomography (CT Scan) of Bilateral Renal Arteries,B428ZZ,2016,2027
+B42C,Pelvic Arteries,B42,2016,2027
+B42C0,High Osmolar,B42C,2016,2027
+B42C0Z,None,B42C0,2016,2027
+B42C0ZZ,Computerized Tomography (CT Scan) of Pelvic Arteries using High Osmolar Contrast,B42C0Z,2016,2027
+B42C1,Low Osmolar,B42C,2016,2027
+B42C1Z,None,B42C1,2016,2027
+B42C1ZZ,Computerized Tomography (CT Scan) of Pelvic Arteries using Low Osmolar Contrast,B42C1Z,2016,2027
+B42CY,Other Contrast,B42C,2016,2027
+B42CYZ,None,B42CY,2016,2027
+B42CYZZ,Computerized Tomography (CT Scan) of Pelvic Arteries using Other Contrast,B42CYZ,2016,2027
+B42CZ,None,B42C,2016,2027
+B42CZ2,Intravascular Optical Coherence,B42CZ,2016,2027
+B42CZ2Z,Computerized Tomography (CT Scan) of Pelvic Arteries using Intravascular Optical Coherence,B42CZ2,2016,2027
+B42CZZ,None,B42CZ,2016,2027
+B42CZZZ,Computerized Tomography (CT Scan) of Pelvic Arteries,B42CZZ,2016,2027
+B42F,"Lower Extremity Arteries, Right",B42,2016,2027
+B42F0,High Osmolar,B42F,2016,2027
+B42F0Z,None,B42F0,2016,2027
+B42F0ZZ,Computerized Tomography (CT Scan) of Right Lower Extremity Arteries using High Osmolar Contrast,B42F0Z,2016,2027
+B42F1,Low Osmolar,B42F,2016,2027
+B42F1Z,None,B42F1,2016,2027
+B42F1ZZ,Computerized Tomography (CT Scan) of Right Lower Extremity Arteries using Low Osmolar Contrast,B42F1Z,2016,2027
+B42FY,Other Contrast,B42F,2016,2027
+B42FYZ,None,B42FY,2016,2027
+B42FYZZ,Computerized Tomography (CT Scan) of Right Lower Extremity Arteries using Other Contrast,B42FYZ,2016,2027
+B42FZ,None,B42F,2016,2027
+B42FZ2,Intravascular Optical Coherence,B42FZ,2016,2027
+B42FZ2Z,Computerized Tomography (CT Scan) of Right Lower Extremity Arteries using Intravascular Optical Coherence,B42FZ2,2016,2027
+B42FZZ,None,B42FZ,2016,2027
+B42FZZZ,Computerized Tomography (CT Scan) of Right Lower Extremity Arteries,B42FZZ,2016,2027
+B42G,"Lower Extremity Arteries, Left",B42,2016,2027
+B42G0,High Osmolar,B42G,2016,2027
+B42G0Z,None,B42G0,2016,2027
+B42G0ZZ,Computerized Tomography (CT Scan) of Left Lower Extremity Arteries using High Osmolar Contrast,B42G0Z,2016,2027
+B42G1,Low Osmolar,B42G,2016,2027
+B42G1Z,None,B42G1,2016,2027
+B42G1ZZ,Computerized Tomography (CT Scan) of Left Lower Extremity Arteries using Low Osmolar Contrast,B42G1Z,2016,2027
+B42GY,Other Contrast,B42G,2016,2027
+B42GYZ,None,B42GY,2016,2027
+B42GYZZ,Computerized Tomography (CT Scan) of Left Lower Extremity Arteries using Other Contrast,B42GYZ,2016,2027
+B42GZ,None,B42G,2016,2027
+B42GZ2,Intravascular Optical Coherence,B42GZ,2016,2027
+B42GZ2Z,Computerized Tomography (CT Scan) of Left Lower Extremity Arteries using Intravascular Optical Coherence,B42GZ2,2016,2027
+B42GZZ,None,B42GZ,2016,2027
+B42GZZZ,Computerized Tomography (CT Scan) of Left Lower Extremity Arteries,B42GZZ,2016,2027
+B42H,"Lower Extremity Arteries, Bilateral",B42,2016,2027
+B42H0,High Osmolar,B42H,2016,2027
+B42H0Z,None,B42H0,2016,2027
+B42H0ZZ,Computerized Tomography (CT Scan) of Bilateral Lower Extremity Arteries using High Osmolar Contrast,B42H0Z,2016,2027
+B42H1,Low Osmolar,B42H,2016,2027
+B42H1Z,None,B42H1,2016,2027
+B42H1ZZ,Computerized Tomography (CT Scan) of Bilateral Lower Extremity Arteries using Low Osmolar Contrast,B42H1Z,2016,2027
+B42HY,Other Contrast,B42H,2016,2027
+B42HYZ,None,B42HY,2016,2027
+B42HYZZ,Computerized Tomography (CT Scan) of Bilateral Lower Extremity Arteries using Other Contrast,B42HYZ,2016,2027
+B42HZ,None,B42H,2016,2027
+B42HZ2,Intravascular Optical Coherence,B42HZ,2016,2027
+B42HZ2Z,Computerized Tomography (CT Scan) of Bilateral Lower Extremity Arteries using Intravascular Optical Coherence,B42HZ2,2016,2027
+B42HZZ,None,B42HZ,2016,2027
+B42HZZZ,Computerized Tomography (CT Scan) of Bilateral Lower Extremity Arteries,B42HZZ,2016,2027
+B42M,Renal Artery Transplant,B42,2016,2027
+B42M0,High Osmolar,B42M,2016,2027
+B42M0Z,None,B42M0,2016,2027
+B42M0ZZ,Computerized Tomography (CT Scan) of Renal Artery Transplant using High Osmolar Contrast,B42M0Z,2016,2027
+B42M1,Low Osmolar,B42M,2016,2027
+B42M1Z,None,B42M1,2016,2027
+B42M1ZZ,Computerized Tomography (CT Scan) of Renal Artery Transplant using Low Osmolar Contrast,B42M1Z,2016,2027
+B42MY,Other Contrast,B42M,2016,2027
+B42MYZ,None,B42MY,2016,2027
+B42MYZZ,Computerized Tomography (CT Scan) of Renal Artery Transplant using Other Contrast,B42MYZ,2016,2027
+B42MZ,None,B42M,2016,2027
+B42MZ2,Intravascular Optical Coherence,B42MZ,2016,2027
+B42MZ2Z,Computerized Tomography (CT Scan) of Renal Artery Transplant using Intravascular Optical Coherence,B42MZ2,2016,2027
+B42MZZ,None,B42MZ,2016,2027
+B42MZZZ,Computerized Tomography (CT Scan) of Renal Artery Transplant,B42MZZ,2016,2027
+B43,Magnetic Resonance Imaging (MRI),B4,2016,2027
+B430,Abdominal Aorta,B43,2016,2027
+B430Y,Other Contrast,B430,2016,2027
+B430Y0,Unenhanced and Enhanced,B430Y,2016,2027
+B430Y0Z,"Magnetic Resonance Imaging (MRI) of Abdominal Aorta using Other Contrast, Unenhanced and Enhanced",B430Y0,2016,2027
+B430YZ,None,B430Y,2016,2027
+B430YZZ,Magnetic Resonance Imaging (MRI) of Abdominal Aorta using Other Contrast,B430YZ,2016,2027
+B430Z,None,B430,2016,2027
+B430ZZ,None,B430Z,2016,2027
+B430ZZZ,Magnetic Resonance Imaging (MRI) of Abdominal Aorta,B430ZZ,2016,2027
+B431,Celiac Artery,B43,2016,2027
+B431Y,Other Contrast,B431,2016,2027
+B431Y0,Unenhanced and Enhanced,B431Y,2016,2027
+B431Y0Z,"Magnetic Resonance Imaging (MRI) of Celiac Artery using Other Contrast, Unenhanced and Enhanced",B431Y0,2016,2027
+B431YZ,None,B431Y,2016,2027
+B431YZZ,Magnetic Resonance Imaging (MRI) of Celiac Artery using Other Contrast,B431YZ,2016,2027
+B431Z,None,B431,2016,2027
+B431ZZ,None,B431Z,2016,2027
+B431ZZZ,Magnetic Resonance Imaging (MRI) of Celiac Artery,B431ZZ,2016,2027
+B434,Superior Mesenteric Artery,B43,2016,2027
+B434Y,Other Contrast,B434,2016,2027
+B434Y0,Unenhanced and Enhanced,B434Y,2016,2027
+B434Y0Z,"Magnetic Resonance Imaging (MRI) of Superior Mesenteric Artery using Other Contrast, Unenhanced and Enhanced",B434Y0,2016,2027
+B434YZ,None,B434Y,2016,2027
+B434YZZ,Magnetic Resonance Imaging (MRI) of Superior Mesenteric Artery using Other Contrast,B434YZ,2016,2027
+B434Z,None,B434,2016,2027
+B434ZZ,None,B434Z,2016,2027
+B434ZZZ,Magnetic Resonance Imaging (MRI) of Superior Mesenteric Artery,B434ZZ,2016,2027
+B438,"Renal Arteries, Bilateral",B43,2016,2027
+B438Y,Other Contrast,B438,2016,2027
+B438Y0,Unenhanced and Enhanced,B438Y,2016,2027
+B438Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Renal Arteries using Other Contrast, Unenhanced and Enhanced",B438Y0,2016,2027
+B438YZ,None,B438Y,2016,2027
+B438YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Renal Arteries using Other Contrast,B438YZ,2016,2027
+B438Z,None,B438,2016,2027
+B438ZZ,None,B438Z,2016,2027
+B438ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Renal Arteries,B438ZZ,2016,2027
+B43C,Pelvic Arteries,B43,2016,2027
+B43CY,Other Contrast,B43C,2016,2027
+B43CY0,Unenhanced and Enhanced,B43CY,2016,2027
+B43CY0Z,"Magnetic Resonance Imaging (MRI) of Pelvic Arteries using Other Contrast, Unenhanced and Enhanced",B43CY0,2016,2027
+B43CYZ,None,B43CY,2016,2027
+B43CYZZ,Magnetic Resonance Imaging (MRI) of Pelvic Arteries using Other Contrast,B43CYZ,2016,2027
+B43CZ,None,B43C,2016,2027
+B43CZZ,None,B43CZ,2016,2027
+B43CZZZ,Magnetic Resonance Imaging (MRI) of Pelvic Arteries,B43CZZ,2016,2027
+B43F,"Lower Extremity Arteries, Right",B43,2016,2027
+B43FY,Other Contrast,B43F,2016,2027
+B43FY0,Unenhanced and Enhanced,B43FY,2016,2027
+B43FY0Z,"Magnetic Resonance Imaging (MRI) of Right Lower Extremity Arteries using Other Contrast, Unenhanced and Enhanced",B43FY0,2016,2027
+B43FYZ,None,B43FY,2016,2027
+B43FYZZ,Magnetic Resonance Imaging (MRI) of Right Lower Extremity Arteries using Other Contrast,B43FYZ,2016,2027
+B43FZ,None,B43F,2016,2027
+B43FZZ,None,B43FZ,2016,2027
+B43FZZZ,Magnetic Resonance Imaging (MRI) of Right Lower Extremity Arteries,B43FZZ,2016,2027
+B43G,"Lower Extremity Arteries, Left",B43,2016,2027
+B43GY,Other Contrast,B43G,2016,2027
+B43GY0,Unenhanced and Enhanced,B43GY,2016,2027
+B43GY0Z,"Magnetic Resonance Imaging (MRI) of Left Lower Extremity Arteries using Other Contrast, Unenhanced and Enhanced",B43GY0,2016,2027
+B43GYZ,None,B43GY,2016,2027
+B43GYZZ,Magnetic Resonance Imaging (MRI) of Left Lower Extremity Arteries using Other Contrast,B43GYZ,2016,2027
+B43GZ,None,B43G,2016,2027
+B43GZZ,None,B43GZ,2016,2027
+B43GZZZ,Magnetic Resonance Imaging (MRI) of Left Lower Extremity Arteries,B43GZZ,2016,2027
+B43H,"Lower Extremity Arteries, Bilateral",B43,2016,2027
+B43HY,Other Contrast,B43H,2016,2027
+B43HY0,Unenhanced and Enhanced,B43HY,2016,2027
+B43HY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Lower Extremity Arteries using Other Contrast, Unenhanced and Enhanced",B43HY0,2016,2027
+B43HYZ,None,B43HY,2016,2027
+B43HYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Lower Extremity Arteries using Other Contrast,B43HYZ,2016,2027
+B43HZ,None,B43H,2016,2027
+B43HZZ,None,B43HZ,2016,2027
+B43HZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Lower Extremity Arteries,B43HZZ,2016,2027
+B44,Ultrasonography,B4,2016,2027
+B440,Abdominal Aorta,B44,2016,2027
+B440Z,None,B440,2016,2027
+B440ZZ,None,B440Z,2016,2027
+B440ZZ3,"Ultrasonography of Abdominal Aorta, Intravascular",B440ZZ,2016,2027
+B440ZZZ,Ultrasonography of Abdominal Aorta,B440ZZ,2016,2027
+B444,Superior Mesenteric Artery,B44,2016,2027
+B444Z,None,B444,2016,2027
+B444ZZ,None,B444Z,2016,2027
+B444ZZ3,"Ultrasonography of Superior Mesenteric Artery, Intravascular",B444ZZ,2016,2027
+B444ZZZ,Ultrasonography of Superior Mesenteric Artery,B444ZZ,2016,2027
+B445,Inferior Mesenteric Artery,B44,2016,2027
+B445Z,None,B445,2016,2027
+B445ZZ,None,B445Z,2016,2027
+B445ZZ3,"Ultrasonography of Inferior Mesenteric Artery, Intravascular",B445ZZ,2016,2027
+B445ZZZ,Ultrasonography of Inferior Mesenteric Artery,B445ZZ,2016,2027
+B446,"Renal Artery, Right",B44,2016,2027
+B446Z,None,B446,2016,2027
+B446ZZ,None,B446Z,2016,2027
+B446ZZ3,"Ultrasonography of Right Renal Artery, Intravascular",B446ZZ,2016,2027
+B446ZZZ,Ultrasonography of Right Renal Artery,B446ZZ,2016,2027
+B447,"Renal Artery, Left",B44,2016,2027
+B447Z,None,B447,2016,2027
+B447ZZ,None,B447Z,2016,2027
+B447ZZ3,"Ultrasonography of Left Renal Artery, Intravascular",B447ZZ,2016,2027
+B447ZZZ,Ultrasonography of Left Renal Artery,B447ZZ,2016,2027
+B448,"Renal Arteries, Bilateral",B44,2016,2027
+B448Z,None,B448,2016,2027
+B448ZZ,None,B448Z,2016,2027
+B448ZZ3,"Ultrasonography of Bilateral Renal Arteries, Intravascular",B448ZZ,2016,2027
+B448ZZZ,Ultrasonography of Bilateral Renal Arteries,B448ZZ,2016,2027
+B44B,"Intra-Abdominal Arteries, Other",B44,2016,2027
+B44BZ,None,B44B,2016,2027
+B44BZZ,None,B44BZ,2016,2027
+B44BZZ3,"Ultrasonography of Other Intra-Abdominal Arteries, Intravascular",B44BZZ,2016,2027
+B44BZZZ,Ultrasonography of Other Intra-Abdominal Arteries,B44BZZ,2016,2027
+B44F,"Lower Extremity Arteries, Right",B44,2016,2027
+B44FZ,None,B44F,2016,2027
+B44FZZ,None,B44FZ,2016,2027
+B44FZZ3,"Ultrasonography of Right Lower Extremity Arteries, Intravascular",B44FZZ,2016,2027
+B44FZZZ,Ultrasonography of Right Lower Extremity Arteries,B44FZZ,2016,2027
+B44G,"Lower Extremity Arteries, Left",B44,2016,2027
+B44GZ,None,B44G,2016,2027
+B44GZZ,None,B44GZ,2016,2027
+B44GZZ3,"Ultrasonography of Left Lower Extremity Arteries, Intravascular",B44GZZ,2016,2027
+B44GZZZ,Ultrasonography of Left Lower Extremity Arteries,B44GZZ,2016,2027
+B44H,"Lower Extremity Arteries, Bilateral",B44,2016,2027
+B44HZ,None,B44H,2016,2027
+B44HZZ,None,B44HZ,2016,2027
+B44HZZ3,"Ultrasonography of Bilateral Lower Extremity Arteries, Intravascular",B44HZZ,2016,2027
+B44HZZZ,Ultrasonography of Bilateral Lower Extremity Arteries,B44HZZ,2016,2027
+B44K,Celiac and Mesenteric Arteries,B44,2016,2027
+B44KZ,None,B44K,2016,2027
+B44KZZ,None,B44KZ,2016,2027
+B44KZZ3,"Ultrasonography of Celiac and Mesenteric Arteries, Intravascular",B44KZZ,2016,2027
+B44KZZZ,Ultrasonography of Celiac and Mesenteric Arteries,B44KZZ,2016,2027
+B44L,Femoral Artery,B44,2016,2027
+B44LZ,None,B44L,2016,2027
+B44LZZ,None,B44LZ,2016,2027
+B44LZZ3,"Ultrasonography of Femoral Artery, Intravascular",B44LZZ,2016,2027
+B44LZZZ,Ultrasonography of Femoral Artery,B44LZZ,2016,2027
+B44N,Penile Arteries,B44,2016,2027
+B44NZ,None,B44N,2016,2027
+B44NZZ,None,B44NZ,2016,2027
+B44NZZ3,"Ultrasonography of Penile Arteries, Intravascular",B44NZZ,2016,2027
+B44NZZZ,Ultrasonography of Penile Arteries,B44NZZ,2016,2027

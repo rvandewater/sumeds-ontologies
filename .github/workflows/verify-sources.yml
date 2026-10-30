@@ -1,0 +1,19 @@
+name: verify-sources
+
+# Rebuild the public-domain packs from the official CMS and CDC/NCHS files
+# (sha256-pinned in the builder) and fail if any byte differs from the release.
+on:
+  push:
+    tags: ["v*"]
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/build_ontology_packs.py --output ontologies ICD10CM ICD10PCS ICD9CM ICD9Proc
+      - run: git status --short && git diff --exit-code ontologies

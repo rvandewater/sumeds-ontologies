@@ -1,0 +1,203 @@
+code,description,parent,first_year,last_year
+XN,Bones,X,2017,2027
+XNH,Insertion,XN,2023,2027
+XNH6,"Pelvic Bone, Right",XNH,2023,2027
+XNH60,Open,XNH6,2023,2027
+XNH605,Internal Fixation Device with Tulip Connector,XNH60,2023,2027
+XNH6058,"Insertion of Internal Fixation Device with Tulip Connector into Right Pelvic Bone, Open Approach, New Technology Group 8",XNH605,2023,2027
+XNH60H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNH60,2026,2027
+XNH60HB,"Insertion of Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device into Right Pelvic Bone, Open Approach, New Technology Group 11",XNH60H,2026,2027
+XNH63,Percutaneous,XNH6,2023,2027
+XNH635,Internal Fixation Device with Tulip Connector,XNH63,2023,2027
+XNH6358,"Insertion of Internal Fixation Device with Tulip Connector into Right Pelvic Bone, Percutaneous Approach, New Technology Group 8",XNH635,2023,2027
+XNH63H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNH63,2026,2027
+XNH63HB,"Insertion of Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device into Right Pelvic Bone, Percutaneous Approach, New Technology Group 11",XNH63H,2026,2027
+XNH7,"Pelvic Bone, Left",XNH,2023,2027
+XNH70,Open,XNH7,2023,2027
+XNH705,Internal Fixation Device with Tulip Connector,XNH70,2023,2027
+XNH7058,"Insertion of Internal Fixation Device with Tulip Connector into Left Pelvic Bone, Open Approach, New Technology Group 8",XNH705,2023,2027
+XNH70H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNH70,2026,2027
+XNH70HB,"Insertion of Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device into Left Pelvic Bone, Open Approach, New Technology Group 11",XNH70H,2026,2027
+XNH73,Percutaneous,XNH7,2023,2027
+XNH735,Internal Fixation Device with Tulip Connector,XNH73,2023,2027
+XNH7358,"Insertion of Internal Fixation Device with Tulip Connector into Left Pelvic Bone, Percutaneous Approach, New Technology Group 8",XNH735,2023,2027
+XNH73H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNH73,2026,2027
+XNH73HB,"Insertion of Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device into Left Pelvic Bone, Percutaneous Approach, New Technology Group 11",XNH73H,2026,2027
+XNHG,"Tibia, Right",XNH,2024,2027
+XNHG0,Open,XNHG,2024,2027
+XNHG0F,Tibial Extension with Motion Sensors,XNHG0,2024,2027
+XNHG0F9,"Insertion of Tibial Extension with Motion Sensors into Right Tibia, Open Approach, New Technology Group 9",XNHG0F,2024,2027
+XNHH,"Tibia, Left",XNH,2024,2027
+XNHH0,Open,XNHH,2024,2027
+XNHH0F,Tibial Extension with Motion Sensors,XNHH0,2024,2027
+XNHH0F9,"Insertion of Tibial Extension with Motion Sensors into Left Tibia, Open Approach, New Technology Group 9",XNHH0F,2024,2027
+XNR,Replacement,XN,2024,2027
+XNR8,Skull,XNR,2024,2027
+XNR80,Open,XNR8,2024,2027
+XNR80D,"Synthetic Substitute, Ultrasound Penetrable",XNR80,2024,2027
+XNR80D9,"Replacement of Skull with Ultrasound Penetrable Synthetic Substitute, Open Approach, New Technology Group 9",XNR80D,2024,2027
+XNRL,"Tarsal, Right",XNR,2024,2027
+XNRL0,Open,XNRL,2024,2027
+XNRL09,"Synthetic Substitute, Talar Prosthesis",XNRL0,2024,2027
+XNRL099,"Replacement of Right Tarsal with Talar Prosthesis Synthetic Substitute, Open Approach, New Technology Group 9",XNRL09,2024,2027
+XNRM,"Tarsal, Left",XNR,2024,2027
+XNRM0,Open,XNRM,2024,2027
+XNRM09,"Synthetic Substitute, Talar Prosthesis",XNRM0,2024,2027
+XNRM099,"Replacement of Left Tarsal with Talar Prosthesis Synthetic Substitute, Open Approach, New Technology Group 9",XNRM09,2024,2027
+XNS,Reposition,XN,2017,2027
+XNS0,Lumbar Vertebra,XNS,2017,2027
+XNS00,Open,XNS0,2017,2027
+XNS003,Magnetically Controlled Growth Rod(s),XNS00,2017,2027
+XNS0032,"Reposition of Lumbar Vertebra using Magnetically Controlled Growth Rod(s), Open Approach, New Technology Group 2",XNS003,2017,2027
+XNS00C,Posterior (Dynamic) Distraction Device,XNS00,2022,2027
+XNS00C7,"Reposition of Lumbar Vertebra using Posterior (Dynamic) Distraction Device, Open Approach, New Technology Group 7",XNS00C,2022,2027
+XNS03,Percutaneous,XNS0,2018,2027
+XNS033,Magnetically Controlled Growth Rod(s),XNS03,2018,2027
+XNS0332,"Reposition of Lumbar Vertebra using Magnetically Controlled Growth Rod(s), Percutaneous Approach, New Technology Group 2",XNS033,2018,2027
+XNS03C,Posterior (Dynamic) Distraction Device,XNS03,2022,2027
+XNS03C7,"Reposition of Lumbar Vertebra using Posterior (Dynamic) Distraction Device, Percutaneous Approach, New Technology Group 7",XNS03C,2022,2027
+XNS04,Percutaneous Endoscopic,XNS0,2017,2017
+XNS043,Magnetically Controlled Growth Rod(s),XNS04,2017,2017
+XNS0432,"Reposition of Lumbar Vertebra using Magnetically Controlled Growth Rod(s), Percutaneous Endoscopic Approach, New Technology Group 2",XNS043,2017,2017
+XNS3,Cervical Vertebra,XNS,2017,2027
+XNS30,Open,XNS3,2017,2027
+XNS303,Magnetically Controlled Growth Rod(s),XNS30,2017,2027
+XNS3032,"Reposition of Cervical Vertebra using Magnetically Controlled Growth Rod(s), Open Approach, New Technology Group 2",XNS303,2017,2027
+XNS33,Percutaneous,XNS3,2018,2027
+XNS333,Magnetically Controlled Growth Rod(s),XNS33,2018,2027
+XNS3332,"Reposition of Cervical Vertebra using Magnetically Controlled Growth Rod(s), Percutaneous Approach, New Technology Group 2",XNS333,2018,2027
+XNS34,Percutaneous Endoscopic,XNS3,2017,2017
+XNS343,Magnetically Controlled Growth Rod(s),XNS34,2017,2017
+XNS3432,"Reposition of Cervical Vertebra using Magnetically Controlled Growth Rod(s), Percutaneous Endoscopic Approach, New Technology Group 2",XNS343,2017,2017
+XNS4,"Humeral Shaft, Right",XNS,2017,2027
+XNS40,Open,XNS4,2017,2027
+XNS403,Magnetically Controlled Growth Rod(s),XNS40,2017,2027
+XNS4032,"Reposition of Thoracic Vertebra using Magnetically Controlled Growth Rod(s), Open Approach, New Technology Group 2",XNS403,2017,2027
+XNS40C,Posterior (Dynamic) Distraction Device,XNS40,2022,2027
+XNS40C7,"Reposition of Thoracic Vertebra using Posterior (Dynamic) Distraction Device, Open Approach, New Technology Group 7",XNS40C,2022,2027
+XNS40G,Ring External Fixation Device with Automated Strut Adjustment,XNS40,2025,2027
+XNS40GA,"Reposition Right Humeral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNS40G,2025,2027
+XNS43,Percutaneous,XNS4,2018,2027
+XNS433,Magnetically Controlled Growth Rod(s),XNS43,2018,2027
+XNS4332,"Reposition of Thoracic Vertebra using Magnetically Controlled Growth Rod(s), Percutaneous Approach, New Technology Group 2",XNS433,2018,2027
+XNS43C,Posterior (Dynamic) Distraction Device,XNS43,2022,2027
+XNS43C7,"Reposition of Thoracic Vertebra using Posterior (Dynamic) Distraction Device, Percutaneous Approach, New Technology Group 7",XNS43C,2022,2027
+XNS43G,Ring External Fixation Device with Automated Strut Adjustment,XNS43,2025,2027
+XNS43GA,"Reposition Right Humeral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNS43G,2025,2027
+XNS44,Percutaneous Endoscopic,XNS4,2017,2017
+XNS443,Magnetically Controlled Growth Rod(s),XNS44,2017,2017
+XNS4432,"Reposition of Thoracic Vertebra using Magnetically Controlled Growth Rod(s), Percutaneous Endoscopic Approach, New Technology Group 2",XNS443,2017,2017
+XNS5,"Humeral Shaft, Left",XNS,2025,2027
+XNS50,Open,XNS5,2025,2027
+XNS50G,Ring External Fixation Device with Automated Strut Adjustment,XNS50,2025,2027
+XNS50GA,"Reposition Left Humeral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNS50G,2025,2027
+XNS53,Percutaneous,XNS5,2025,2027
+XNS53G,Ring External Fixation Device with Automated Strut Adjustment,XNS53,2025,2027
+XNS53GA,"Reposition Left Humeral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNS53G,2025,2027
+XNS6,"Radius, Right",XNS,2025,2027
+XNS60,Open,XNS6,2025,2027
+XNS60G,Ring External Fixation Device with Automated Strut Adjustment,XNS60,2025,2027
+XNS60GA,"Reposition Right Radius with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNS60G,2025,2027
+XNS63,Percutaneous,XNS6,2025,2027
+XNS63G,Ring External Fixation Device with Automated Strut Adjustment,XNS63,2025,2027
+XNS63GA,"Reposition Right Radius with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNS63G,2025,2027
+XNS7,"Radius, Left",XNS,2025,2027
+XNS70,Open,XNS7,2025,2027
+XNS70G,Ring External Fixation Device with Automated Strut Adjustment,XNS70,2025,2027
+XNS70GA,"Reposition Left Radius with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNS70G,2025,2027
+XNS73,Percutaneous,XNS7,2025,2027
+XNS73G,Ring External Fixation Device with Automated Strut Adjustment,XNS73,2025,2027
+XNS73GA,"Reposition Left Radius with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNS73G,2025,2027
+XNS8,"Ulna, Right",XNS,2025,2027
+XNS80,Open,XNS8,2025,2027
+XNS80G,Ring External Fixation Device with Automated Strut Adjustment,XNS80,2025,2027
+XNS80GA,"Reposition Right Ulna with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNS80G,2025,2027
+XNS83,Percutaneous,XNS8,2025,2027
+XNS83G,Ring External Fixation Device with Automated Strut Adjustment,XNS83,2025,2027
+XNS83GA,"Reposition Right Ulna with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNS83G,2025,2027
+XNS9,"Ulna, Left",XNS,2025,2027
+XNS90,Open,XNS9,2025,2027
+XNS90G,Ring External Fixation Device with Automated Strut Adjustment,XNS90,2025,2027
+XNS90GA,"Reposition Left Ulna with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNS90G,2025,2027
+XNS93,Percutaneous,XNS9,2025,2027
+XNS93G,Ring External Fixation Device with Automated Strut Adjustment,XNS93,2025,2027
+XNS93GA,"Reposition Left Ulna with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNS93G,2025,2027
+XNSA,"Upper Femur, Right",XNS,2025,2027
+XNSA0,Open,XNSA,2025,2027
+XNSA0G,Ring External Fixation Device with Automated Strut Adjustment,XNSA0,2025,2027
+XNSA0GA,"Reposition Right Upper Femur with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSA0G,2025,2027
+XNSA3,Percutaneous,XNSA,2025,2027
+XNSA3G,Ring External Fixation Device with Automated Strut Adjustment,XNSA3,2025,2027
+XNSA3GA,"Reposition Right Upper Femur with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSA3G,2025,2027
+XNSB,"Upper Femur, Left",XNS,2025,2027
+XNSB0,Open,XNSB,2025,2027
+XNSB0G,Ring External Fixation Device with Automated Strut Adjustment,XNSB0,2025,2027
+XNSB0GA,"Reposition Left Upper Femur with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSB0G,2025,2027
+XNSB3,Percutaneous,XNSB,2025,2027
+XNSB3G,Ring External Fixation Device with Automated Strut Adjustment,XNSB3,2025,2027
+XNSB3GA,"Reposition Left Upper Femur with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSB3G,2025,2027
+XNSC,"Lower Femur, Right",XNS,2025,2027
+XNSC0,Open,XNSC,2025,2027
+XNSC0G,Ring External Fixation Device with Automated Strut Adjustment,XNSC0,2025,2027
+XNSC0GA,"Reposition Right Lower Femur with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSC0G,2025,2027
+XNSC3,Percutaneous,XNSC,2025,2027
+XNSC3G,Ring External Fixation Device with Automated Strut Adjustment,XNSC3,2025,2027
+XNSC3GA,"Reposition Right Lower Femur with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSC3G,2025,2027
+XNSD,"Lower Femur, Left",XNS,2025,2027
+XNSD0,Open,XNSD,2025,2027
+XNSD0G,Ring External Fixation Device with Automated Strut Adjustment,XNSD0,2025,2027
+XNSD0GA,"Reposition Left Lower Femur with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSD0G,2025,2027
+XNSD3,Percutaneous,XNSD,2025,2027
+XNSD3G,Ring External Fixation Device with Automated Strut Adjustment,XNSD3,2025,2027
+XNSD3GA,"Reposition Left Lower Femur with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSD3G,2025,2027
+XNSE,"Femoral Shaft, Right",XNS,2025,2027
+XNSE0,Open,XNSE,2025,2027
+XNSE0G,Ring External Fixation Device with Automated Strut Adjustment,XNSE0,2025,2027
+XNSE0GA,"Reposition Right Femoral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSE0G,2025,2027
+XNSE3,Percutaneous,XNSE,2025,2027
+XNSE3G,Ring External Fixation Device with Automated Strut Adjustment,XNSE3,2025,2027
+XNSE3GA,"Reposition Right Femoral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSE3G,2025,2027
+XNSF,"Femoral Shaft, Left",XNS,2025,2027
+XNSF0,Open,XNSF,2025,2027
+XNSF0G,Ring External Fixation Device with Automated Strut Adjustment,XNSF0,2025,2027
+XNSF0GA,"Reposition Left Femoral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSF0G,2025,2027
+XNSF3,Percutaneous,XNSF,2025,2027
+XNSF3G,Ring External Fixation Device with Automated Strut Adjustment,XNSF3,2025,2027
+XNSF3GA,"Reposition Left Femoral Shaft with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSF3G,2025,2027
+XNSG,"Tibia, Right",XNS,2025,2027
+XNSG0,Open,XNSG,2025,2027
+XNSG0G,Ring External Fixation Device with Automated Strut Adjustment,XNSG0,2025,2027
+XNSG0GA,"Reposition Right Tibia with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSG0G,2025,2027
+XNSG3,Percutaneous,XNSG,2025,2027
+XNSG3G,Ring External Fixation Device with Automated Strut Adjustment,XNSG3,2025,2027
+XNSG3GA,"Reposition Right Tibia with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSG3G,2025,2027
+XNSH,"Tibia, Left",XNS,2025,2027
+XNSH0,Open,XNSH,2025,2027
+XNSH0G,Ring External Fixation Device with Automated Strut Adjustment,XNSH0,2025,2027
+XNSH0GA,"Reposition Left Tibia with Ring External Fixation Device with Automated Strut Adjustment, Open Approach, New Technology Group 10",XNSH0G,2025,2027
+XNSH3,Percutaneous,XNSH,2025,2027
+XNSH3G,Ring External Fixation Device with Automated Strut Adjustment,XNSH3,2025,2027
+XNSH3GA,"Reposition Left Tibia with Ring External Fixation Device with Automated Strut Adjustment, Percutaneous Approach, New Technology Group 10",XNSH3G,2025,2027
+XNSN,"Pelvic Bone, Right",XNS,2026,2027
+XNSN0,Open,XNSN,2026,2027
+XNSN0H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNSN0,2026,2027
+XNSN0HB,"Reposition Right Pelvic Bone with Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Open Approach, New Technology Group 11",XNSN0H,2026,2027
+XNSN3,Percutaneous,XNSN,2026,2027
+XNSN3H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNSN3,2026,2027
+XNSN3HB,"Reposition Right Pelvic Bone with Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Percutaneous Approach, New Technology Group 11",XNSN3H,2026,2027
+XNSP,"Pelvic Bone, Left",XNS,2026,2027
+XNSP0,Open,XNSP,2026,2027
+XNSP0H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNSP0,2026,2027
+XNSP0HB,"Reposition Left Pelvic Bone with Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Open Approach, New Technology Group 11",XNSP0H,2026,2027
+XNSP3,Percutaneous,XNSP,2026,2027
+XNSP3H,"Internal Fixation Device, Bone-Density-Specific Thread and Porosity Pattern",XNSP3,2026,2027
+XNSP3HB,"Reposition Left Pelvic Bone with Bone-Density-Specific Thread and Porosity Pattern Internal Fixation Device, Percutaneous Approach, New Technology Group 11",XNSP3H,2026,2027
+XNU,Supplement,XN,2021,2027
+XNU0,Lumbar Vertebra,XNU,2021,2027
+XNU03,Percutaneous,XNU0,2021,2027
+XNU035,"Synthetic Substitute, Mechanically Expandable (Paired)",XNU03,2021,2027
+XNU0356,"Supplement Lumbar Vertebra with Mechanically Expandable (Paired) Synthetic Substitute, Percutaneous Approach, New Technology Group 6",XNU035,2021,2027
+XNU4,Thoracic Vertebra,XNU,2021,2027
+XNU43,Percutaneous,XNU4,2021,2027
+XNU435,"Synthetic Substitute, Mechanically Expandable (Paired)",XNU43,2021,2027
+XNU4356,"Supplement Thoracic Vertebra with Mechanically Expandable (Paired) Synthetic Substitute, Percutaneous Approach, New Technology Group 6",XNU435,2021,2027

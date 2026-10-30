@@ -1,0 +1,34 @@
+code,description,parent,first_year,last_year
+X0,Nervous System,X,2023,2027
+X05,Destruction,X0,2024,2027
+X051,Renal Sympathetic Nerve(s),X05,2024,2027
+X0513,Percutaneous,X051,2024,2027
+X05132,Ultrasound Ablation,X0513,2024,2027
+X051329,"Destruction of Renal Sympathetic Nerve(s) using Ultrasound Ablation, Percutaneous Approach, New Technology Group 9",X05132,2024,2027
+X05133,Radiofrequency Ablation,X0513,2025,2027
+X05133A,"Destruction of Renal Sympathetic Nerve(s) using Radiofrequency Ablation, Percutaneous Approach, New Technology Group 10",X05133,2025,2027
+X052,"Thoracic Sympathetic Nerve, Cardiac Plexus",X05,2026,2027
+X0523,Percutaneous,X052,2026,2027
+X05233,Radiofrequency Ablation,X0523,2026,2027
+X05233B,"Destruction of Thoracic Sympathetic Nerve, Cardiac Plexus using Radiofrequency Ablation, Percutaneous Approach, New Technology Group 11",X05233,2026,2027
+X053,Brain,X05,2026,2027
+X053X,External,X053,2026,2027
+X053X4,Focused Ultrasound Therapy,X053X,2026,2027
+X053X4B,"Destruction of Brain using Focused Ultrasound Therapy, External Approach, New Technology Group 11",X053X4,2026,2027
+X0H,Insertion,X0,2023,2027
+X0HK,Sphenopalatine Ganglion,X0H,2023,2027
+X0HK3,Percutaneous,X0HK,2023,2027
+X0HK3Q,Neurostimulator Lead,X0HK3,2023,2027
+X0HK3Q8,"Insertion of Neurostimulator Lead into Sphenopalatine Ganglion, Percutaneous Approach, New Technology Group 8",X0HK3Q,2023,2027
+X0HQ,Vagus Nerve,X0H,2023,2027
+X0HQ0,Open,X0HQ,2027,2027
+X0HQ05,Leadless Neurostimulator Generator,X0HQ0,2027,2027
+X0HQ05C,"Insertion of Leadless Neurostimulator Generator into Vagus Nerve, Open Approach, New Technology Group 12",X0HQ05,2027,2027
+X0HQ3,Percutaneous,X0HQ,2023,2027
+X0HQ3R,Neurostimulator Lead with Paired Stimulation System,X0HQ3,2023,2027
+X0HQ3R8,"Insertion of Neurostimulator Lead with Paired Stimulation System into Vagus Nerve, Percutaneous Approach, New Technology Group 8",X0HQ3R,2023,2027
+X0Z,Other Procedures,X0,2023,2027
+X0Z0,Prefrontal Cortex,X0Z,2023,2027
+X0Z0X,External,X0Z0,2023,2027
+X0Z0X1,Computer-assisted Transcranial Magnetic Stimulation,X0Z0X,2023,2027
+X0Z0X18,"Computer-assisted Transcranial Magnetic Stimulation of Prefrontal Cortex, New Technology Group 8",X0Z0X1,2023,2027

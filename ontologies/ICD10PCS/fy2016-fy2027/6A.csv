@@ -1,0 +1,135 @@
+code,description,parent,first_year,last_year
+6A,Physiological Systems,6,2016,2027
+6A0,Atmospheric Control,6A,2016,2027
+6A0Z,None,6A0,2016,2027
+6A0Z0,Single,6A0Z,2016,2027
+6A0Z0Z,No Qualifier,6A0Z0,2016,2027
+6A0Z0ZZ,"Atmospheric Control, Single",6A0Z0Z,2016,2027
+6A0Z1,Multiple,6A0Z,2016,2027
+6A0Z1Z,No Qualifier,6A0Z1,2016,2027
+6A0Z1ZZ,"Atmospheric Control, Multiple",6A0Z1Z,2016,2027
+6A1,Decompression,6A,2016,2027
+6A15,Circulatory,6A1,2016,2027
+6A150,Single,6A15,2016,2027
+6A150Z,No Qualifier,6A150,2016,2027
+6A150ZZ,"Decompression, Circulatory, Single",6A150Z,2016,2027
+6A151,Multiple,6A15,2016,2027
+6A151Z,No Qualifier,6A151,2016,2027
+6A151ZZ,"Decompression, Circulatory, Multiple",6A151Z,2016,2027
+6A2,Electromagnetic Therapy,6A,2016,2027
+6A21,Urinary,6A2,2016,2027
+6A210,Single,6A21,2016,2027
+6A210Z,No Qualifier,6A210,2016,2027
+6A210ZZ,"Electromagnetic Therapy, Urinary, Single",6A210Z,2016,2027
+6A211,Multiple,6A21,2016,2027
+6A211Z,No Qualifier,6A211,2016,2027
+6A211ZZ,"Electromagnetic Therapy, Urinary, Multiple",6A211Z,2016,2027
+6A22,Central Nervous,6A2,2016,2027
+6A220,Single,6A22,2016,2027
+6A220Z,No Qualifier,6A220,2016,2027
+6A220ZZ,"Electromagnetic Therapy, Central Nervous, Single",6A220Z,2016,2027
+6A221,Multiple,6A22,2016,2027
+6A221Z,No Qualifier,6A221,2016,2027
+6A221ZZ,"Electromagnetic Therapy, Central Nervous, Multiple",6A221Z,2016,2027
+6A3,Hyperthermia,6A,2016,2027
+6A3Z,None,6A3,2016,2027
+6A3Z0,Single,6A3Z,2016,2027
+6A3Z0Z,No Qualifier,6A3Z0,2016,2027
+6A3Z0ZZ,"Hyperthermia, Single",6A3Z0Z,2016,2027
+6A3Z1,Multiple,6A3Z,2016,2027
+6A3Z1Z,No Qualifier,6A3Z1,2016,2027
+6A3Z1ZZ,"Hyperthermia, Multiple",6A3Z1Z,2016,2027
+6A4,Hypothermia,6A,2016,2027
+6A4T,Urinary System,6A4,2026,2027
+6A4T0,Single,6A4T,2026,2027
+6A4T00,Donor Organ Protective Thermal Insulation,6A4T0,2026,2027
+6A4T00A,"Hypothermia of Urinary System using Donor Organ Protective Thermal Insulation, Single, Intraoperative",6A4T00,2026,2027
+6A4Z,None,6A4,2016,2027
+6A4Z0,Single,6A4Z,2016,2027
+6A4Z0Z,No Qualifier,6A4Z0,2016,2027
+6A4Z0ZZ,"Hypothermia, Single",6A4Z0Z,2016,2027
+6A4Z1,Multiple,6A4Z,2016,2027
+6A4Z1Z,No Qualifier,6A4Z1,2016,2027
+6A4Z1ZZ,"Hypothermia, Multiple",6A4Z1Z,2016,2027
+6A5,Pheresis,6A,2016,2027
+6A55,Circulatory,6A5,2016,2027
+6A550,Single,6A55,2016,2027
+6A550Z,No Qualifier,6A550,2016,2027
+6A550Z0,"Pheresis of Erythrocytes, Single",6A550Z,2016,2027
+6A550Z1,"Pheresis of Leukocytes, Single",6A550Z,2016,2027
+6A550Z2,"Pheresis of Platelets, Single",6A550Z,2016,2027
+6A550Z3,"Pheresis of Plasma, Single",6A550Z,2016,2027
+6A550ZT,"Pheresis of Cord Blood Stem Cells, Single",6A550Z,2016,2027
+6A550ZV,"Pheresis of Hematopoietic Stem Cells, Single",6A550Z,2016,2027
+6A551,Multiple,6A55,2016,2027
+6A551Z,No Qualifier,6A551,2016,2027
+6A551Z0,"Pheresis of Erythrocytes, Multiple",6A551Z,2016,2027
+6A551Z1,"Pheresis of Leukocytes, Multiple",6A551Z,2016,2027
+6A551Z2,"Pheresis of Platelets, Multiple",6A551Z,2016,2027
+6A551Z3,"Pheresis of Plasma, Multiple",6A551Z,2016,2027
+6A551ZT,"Pheresis of Cord Blood Stem Cells, Multiple",6A551Z,2016,2027
+6A551ZV,"Pheresis of Hematopoietic Stem Cells, Multiple",6A551Z,2016,2027
+6A6,Phototherapy,6A,2016,2027
+6A60,Skin,6A6,2016,2027
+6A600,Single,6A60,2016,2027
+6A600Z,No Qualifier,6A600,2016,2027
+6A600ZZ,"Phototherapy of Skin, Single",6A600Z,2016,2027
+6A601,Multiple,6A60,2016,2027
+6A601Z,No Qualifier,6A601,2016,2027
+6A601ZZ,"Phototherapy of Skin, Multiple",6A601Z,2016,2027
+6A65,Circulatory,6A6,2016,2027
+6A650,Single,6A65,2016,2027
+6A650Z,No Qualifier,6A650,2016,2027
+6A650ZZ,"Phototherapy, Circulatory, Single",6A650Z,2016,2027
+6A651,Multiple,6A65,2016,2027
+6A651Z,No Qualifier,6A651,2016,2027
+6A651ZZ,"Phototherapy, Circulatory, Multiple",6A651Z,2016,2027
+6A7,Ultrasound Therapy,6A,2016,2027
+6A75,Circulatory,6A7,2016,2027
+6A750,Single,6A75,2016,2027
+6A750Z,No Qualifier,6A750,2016,2027
+6A750Z4,"Ultrasound Therapy of Head and Neck Vessels, Single",6A750Z,2016,2027
+6A750Z5,"Ultrasound Therapy of Heart, Single",6A750Z,2016,2027
+6A750Z6,"Ultrasound Therapy of Peripheral Vessels, Single",6A750Z,2016,2027
+6A750Z7,"Ultrasound Therapy of Other Vessels, Single",6A750Z,2016,2027
+6A750ZZ,"Ultrasound Therapy, Circulatory, Single",6A750Z,2016,2027
+6A751,Multiple,6A75,2016,2027
+6A751Z,No Qualifier,6A751,2016,2027
+6A751Z4,"Ultrasound Therapy of Head and Neck Vessels, Multiple",6A751Z,2016,2027
+6A751Z5,"Ultrasound Therapy of Heart, Multiple",6A751Z,2016,2027
+6A751Z6,"Ultrasound Therapy of Peripheral Vessels, Multiple",6A751Z,2016,2027
+6A751Z7,"Ultrasound Therapy of Other Vessels, Multiple",6A751Z,2016,2027
+6A751ZZ,"Ultrasound Therapy, Circulatory, Multiple",6A751Z,2016,2027
+6A8,Ultraviolet Light Therapy,6A,2016,2027
+6A80,Skin,6A8,2016,2027
+6A800,Single,6A80,2016,2027
+6A800Z,No Qualifier,6A800,2016,2027
+6A800ZZ,"Ultraviolet Light Therapy of Skin, Single",6A800Z,2016,2027
+6A801,Multiple,6A80,2016,2027
+6A801Z,No Qualifier,6A801,2016,2027
+6A801ZZ,"Ultraviolet Light Therapy of Skin, Multiple",6A801Z,2016,2027
+6A9,Shock Wave Therapy,6A,2016,2027
+6A93,Musculoskeletal,6A9,2016,2027
+6A930,Single,6A93,2016,2027
+6A930Z,No Qualifier,6A930,2016,2027
+6A930ZZ,"Shock Wave Therapy, Musculoskeletal, Single",6A930Z,2016,2027
+6A931,Multiple,6A93,2016,2027
+6A931Z,No Qualifier,6A931,2016,2027
+6A931ZZ,"Shock Wave Therapy, Musculoskeletal, Multiple",6A931Z,2016,2027
+6AB,Perfusion,6A,2017,2027
+6AB5,Circulatory,6AB,2017,2027
+6AB50,Single,6AB5,2017,2027
+6AB50B,Donor Organ,6AB50,2017,2027
+6AB50BZ,"Perfusion of Circulatory Donor Organ, Single",6AB50B,2017,2027
+6ABB,Respiratory System,6AB,2017,2027
+6ABB0,Single,6ABB,2017,2027
+6ABB0B,Donor Organ,6ABB0,2017,2027
+6ABB0BZ,"Perfusion of Respiratory System Donor Organ, Single",6ABB0B,2017,2027
+6ABF,Hepatobiliary System and Pancreas,6AB,2017,2027
+6ABF0,Single,6ABF,2017,2027
+6ABF0B,Donor Organ,6ABF0,2017,2027
+6ABF0BZ,"Perfusion of Hepatobiliary System and Pancreas Donor Organ, Single",6ABF0B,2017,2027
+6ABT,Urinary System,6AB,2017,2027
+6ABT0,Single,6ABT,2017,2027
+6ABT0B,Donor Organ,6ABT0,2017,2027
+6ABT0BZ,"Perfusion of Urinary System Donor Organ, Single",6ABT0B,2017,2027

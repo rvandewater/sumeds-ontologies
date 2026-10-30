@@ -1,0 +1,1276 @@
+code,description,parent,first_year,last_year
+B5,Veins,B,2016,2027
+B50,Plain Radiography,B5,2016,2027
+B500,Epidural Veins,B50,2016,2027
+B5000,High Osmolar,B500,2016,2027
+B5000Z,None,B5000,2016,2027
+B5000ZZ,Plain Radiography of Epidural Veins using High Osmolar Contrast,B5000Z,2016,2027
+B5001,Low Osmolar,B500,2016,2027
+B5001Z,None,B5001,2016,2027
+B5001ZZ,Plain Radiography of Epidural Veins using Low Osmolar Contrast,B5001Z,2016,2027
+B500Y,Other Contrast,B500,2016,2027
+B500YZ,None,B500Y,2016,2027
+B500YZZ,Plain Radiography of Epidural Veins using Other Contrast,B500YZ,2016,2027
+B501,Cerebral and Cerebellar Veins,B50,2016,2027
+B5010,High Osmolar,B501,2016,2027
+B5010Z,None,B5010,2016,2027
+B5010ZZ,Plain Radiography of Cerebral and Cerebellar Veins using High Osmolar Contrast,B5010Z,2016,2027
+B5011,Low Osmolar,B501,2016,2027
+B5011Z,None,B5011,2016,2027
+B5011ZZ,Plain Radiography of Cerebral and Cerebellar Veins using Low Osmolar Contrast,B5011Z,2016,2027
+B501Y,Other Contrast,B501,2016,2027
+B501YZ,None,B501Y,2016,2027
+B501YZZ,Plain Radiography of Cerebral and Cerebellar Veins using Other Contrast,B501YZ,2016,2027
+B502,Intracranial Sinuses,B50,2016,2027
+B5020,High Osmolar,B502,2016,2027
+B5020Z,None,B5020,2016,2027
+B5020ZZ,Plain Radiography of Intracranial Sinuses using High Osmolar Contrast,B5020Z,2016,2027
+B5021,Low Osmolar,B502,2016,2027
+B5021Z,None,B5021,2016,2027
+B5021ZZ,Plain Radiography of Intracranial Sinuses using Low Osmolar Contrast,B5021Z,2016,2027
+B502Y,Other Contrast,B502,2016,2027
+B502YZ,None,B502Y,2016,2027
+B502YZZ,Plain Radiography of Intracranial Sinuses using Other Contrast,B502YZ,2016,2027
+B503,"Jugular Veins, Right",B50,2016,2027
+B5030,High Osmolar,B503,2016,2027
+B5030Z,None,B5030,2016,2027
+B5030ZZ,Plain Radiography of Right Jugular Veins using High Osmolar Contrast,B5030Z,2016,2027
+B5031,Low Osmolar,B503,2016,2027
+B5031Z,None,B5031,2016,2027
+B5031ZZ,Plain Radiography of Right Jugular Veins using Low Osmolar Contrast,B5031Z,2016,2027
+B503Y,Other Contrast,B503,2016,2027
+B503YZ,None,B503Y,2016,2027
+B503YZZ,Plain Radiography of Right Jugular Veins using Other Contrast,B503YZ,2016,2027
+B504,"Jugular Veins, Left",B50,2016,2027
+B5040,High Osmolar,B504,2016,2027
+B5040Z,None,B5040,2016,2027
+B5040ZZ,Plain Radiography of Left Jugular Veins using High Osmolar Contrast,B5040Z,2016,2027
+B5041,Low Osmolar,B504,2016,2027
+B5041Z,None,B5041,2016,2027
+B5041ZZ,Plain Radiography of Left Jugular Veins using Low Osmolar Contrast,B5041Z,2016,2027
+B504Y,Other Contrast,B504,2016,2027
+B504YZ,None,B504Y,2016,2027
+B504YZZ,Plain Radiography of Left Jugular Veins using Other Contrast,B504YZ,2016,2027
+B505,"Jugular Veins, Bilateral",B50,2016,2027
+B5050,High Osmolar,B505,2016,2027
+B5050Z,None,B5050,2016,2027
+B5050ZZ,Plain Radiography of Bilateral Jugular Veins using High Osmolar Contrast,B5050Z,2016,2027
+B5051,Low Osmolar,B505,2016,2027
+B5051Z,None,B5051,2016,2027
+B5051ZZ,Plain Radiography of Bilateral Jugular Veins using Low Osmolar Contrast,B5051Z,2016,2027
+B505Y,Other Contrast,B505,2016,2027
+B505YZ,None,B505Y,2016,2027
+B505YZZ,Plain Radiography of Bilateral Jugular Veins using Other Contrast,B505YZ,2016,2027
+B506,"Subclavian Vein, Right",B50,2016,2027
+B5060,High Osmolar,B506,2016,2027
+B5060Z,None,B5060,2016,2027
+B5060ZZ,Plain Radiography of Right Subclavian Vein using High Osmolar Contrast,B5060Z,2016,2027
+B5061,Low Osmolar,B506,2016,2027
+B5061Z,None,B5061,2016,2027
+B5061ZZ,Plain Radiography of Right Subclavian Vein using Low Osmolar Contrast,B5061Z,2016,2027
+B506Y,Other Contrast,B506,2016,2027
+B506YZ,None,B506Y,2016,2027
+B506YZZ,Plain Radiography of Right Subclavian Vein using Other Contrast,B506YZ,2016,2027
+B507,"Subclavian Vein, Left",B50,2016,2027
+B5070,High Osmolar,B507,2016,2027
+B5070Z,None,B5070,2016,2027
+B5070ZZ,Plain Radiography of Left Subclavian Vein using High Osmolar Contrast,B5070Z,2016,2027
+B5071,Low Osmolar,B507,2016,2027
+B5071Z,None,B5071,2016,2027
+B5071ZZ,Plain Radiography of Left Subclavian Vein using Low Osmolar Contrast,B5071Z,2016,2027
+B507Y,Other Contrast,B507,2016,2027
+B507YZ,None,B507Y,2016,2027
+B507YZZ,Plain Radiography of Left Subclavian Vein using Other Contrast,B507YZ,2016,2027
+B508,Superior Vena Cava,B50,2016,2027
+B5080,High Osmolar,B508,2016,2027
+B5080Z,None,B5080,2016,2027
+B5080ZZ,Plain Radiography of Superior Vena Cava using High Osmolar Contrast,B5080Z,2016,2027
+B5081,Low Osmolar,B508,2016,2027
+B5081Z,None,B5081,2016,2027
+B5081ZZ,Plain Radiography of Superior Vena Cava using Low Osmolar Contrast,B5081Z,2016,2027
+B508Y,Other Contrast,B508,2016,2027
+B508YZ,None,B508Y,2016,2027
+B508YZZ,Plain Radiography of Superior Vena Cava using Other Contrast,B508YZ,2016,2027
+B509,Inferior Vena Cava,B50,2016,2027
+B5090,High Osmolar,B509,2016,2027
+B5090Z,None,B5090,2016,2027
+B5090ZZ,Plain Radiography of Inferior Vena Cava using High Osmolar Contrast,B5090Z,2016,2027
+B5091,Low Osmolar,B509,2016,2027
+B5091Z,None,B5091,2016,2027
+B5091ZZ,Plain Radiography of Inferior Vena Cava using Low Osmolar Contrast,B5091Z,2016,2027
+B509Y,Other Contrast,B509,2016,2027
+B509YZ,None,B509Y,2016,2027
+B509YZZ,Plain Radiography of Inferior Vena Cava using Other Contrast,B509YZ,2016,2027
+B50B,"Lower Extremity Veins, Right",B50,2016,2027
+B50B0,High Osmolar,B50B,2016,2027
+B50B0Z,None,B50B0,2016,2027
+B50B0ZZ,Plain Radiography of Right Lower Extremity Veins using High Osmolar Contrast,B50B0Z,2016,2027
+B50B1,Low Osmolar,B50B,2016,2027
+B50B1Z,None,B50B1,2016,2027
+B50B1ZZ,Plain Radiography of Right Lower Extremity Veins using Low Osmolar Contrast,B50B1Z,2016,2027
+B50BY,Other Contrast,B50B,2016,2027
+B50BYZ,None,B50BY,2016,2027
+B50BYZZ,Plain Radiography of Right Lower Extremity Veins using Other Contrast,B50BYZ,2016,2027
+B50C,"Lower Extremity Veins, Left",B50,2016,2027
+B50C0,High Osmolar,B50C,2016,2027
+B50C0Z,None,B50C0,2016,2027
+B50C0ZZ,Plain Radiography of Left Lower Extremity Veins using High Osmolar Contrast,B50C0Z,2016,2027
+B50C1,Low Osmolar,B50C,2016,2027
+B50C1Z,None,B50C1,2016,2027
+B50C1ZZ,Plain Radiography of Left Lower Extremity Veins using Low Osmolar Contrast,B50C1Z,2016,2027
+B50CY,Other Contrast,B50C,2016,2027
+B50CYZ,None,B50CY,2016,2027
+B50CYZZ,Plain Radiography of Left Lower Extremity Veins using Other Contrast,B50CYZ,2016,2027
+B50D,"Lower Extremity Veins, Bilateral",B50,2016,2027
+B50D0,High Osmolar,B50D,2016,2027
+B50D0Z,None,B50D0,2016,2027
+B50D0ZZ,Plain Radiography of Bilateral Lower Extremity Veins using High Osmolar Contrast,B50D0Z,2016,2027
+B50D1,Low Osmolar,B50D,2016,2027
+B50D1Z,None,B50D1,2016,2027
+B50D1ZZ,Plain Radiography of Bilateral Lower Extremity Veins using Low Osmolar Contrast,B50D1Z,2016,2027
+B50DY,Other Contrast,B50D,2016,2027
+B50DYZ,None,B50DY,2016,2027
+B50DYZZ,Plain Radiography of Bilateral Lower Extremity Veins using Other Contrast,B50DYZ,2016,2027
+B50F,"Pelvic (Iliac) Veins, Right",B50,2016,2027
+B50F0,High Osmolar,B50F,2016,2027
+B50F0Z,None,B50F0,2016,2027
+B50F0ZZ,Plain Radiography of Right Pelvic (Iliac) Veins using High Osmolar Contrast,B50F0Z,2016,2027
+B50F1,Low Osmolar,B50F,2016,2027
+B50F1Z,None,B50F1,2016,2027
+B50F1ZZ,Plain Radiography of Right Pelvic (Iliac) Veins using Low Osmolar Contrast,B50F1Z,2016,2027
+B50FY,Other Contrast,B50F,2016,2027
+B50FYZ,None,B50FY,2016,2027
+B50FYZZ,Plain Radiography of Right Pelvic (Iliac) Veins using Other Contrast,B50FYZ,2016,2027
+B50G,"Pelvic (Iliac) Veins, Left",B50,2016,2027
+B50G0,High Osmolar,B50G,2016,2027
+B50G0Z,None,B50G0,2016,2027
+B50G0ZZ,Plain Radiography of Left Pelvic (Iliac) Veins using High Osmolar Contrast,B50G0Z,2016,2027
+B50G1,Low Osmolar,B50G,2016,2027
+B50G1Z,None,B50G1,2016,2027
+B50G1ZZ,Plain Radiography of Left Pelvic (Iliac) Veins using Low Osmolar Contrast,B50G1Z,2016,2027
+B50GY,Other Contrast,B50G,2016,2027
+B50GYZ,None,B50GY,2016,2027
+B50GYZZ,Plain Radiography of Left Pelvic (Iliac) Veins using Other Contrast,B50GYZ,2016,2027
+B50H,"Pelvic (Iliac) Veins, Bilateral",B50,2016,2027
+B50H0,High Osmolar,B50H,2016,2027
+B50H0Z,None,B50H0,2016,2027
+B50H0ZZ,Plain Radiography of Bilateral Pelvic (Iliac) Veins using High Osmolar Contrast,B50H0Z,2016,2027
+B50H1,Low Osmolar,B50H,2016,2027
+B50H1Z,None,B50H1,2016,2027
+B50H1ZZ,Plain Radiography of Bilateral Pelvic (Iliac) Veins using Low Osmolar Contrast,B50H1Z,2016,2027
+B50HY,Other Contrast,B50H,2016,2027
+B50HYZ,None,B50HY,2016,2027
+B50HYZZ,Plain Radiography of Bilateral Pelvic (Iliac) Veins using Other Contrast,B50HYZ,2016,2027
+B50J,"Renal Vein, Right",B50,2016,2027
+B50J0,High Osmolar,B50J,2016,2027
+B50J0Z,None,B50J0,2016,2027
+B50J0ZZ,Plain Radiography of Right Renal Vein using High Osmolar Contrast,B50J0Z,2016,2027
+B50J1,Low Osmolar,B50J,2016,2027
+B50J1Z,None,B50J1,2016,2027
+B50J1ZZ,Plain Radiography of Right Renal Vein using Low Osmolar Contrast,B50J1Z,2016,2027
+B50JY,Other Contrast,B50J,2016,2027
+B50JYZ,None,B50JY,2016,2027
+B50JYZZ,Plain Radiography of Right Renal Vein using Other Contrast,B50JYZ,2016,2027
+B50K,"Renal Vein, Left",B50,2016,2027
+B50K0,High Osmolar,B50K,2016,2027
+B50K0Z,None,B50K0,2016,2027
+B50K0ZZ,Plain Radiography of Left Renal Vein using High Osmolar Contrast,B50K0Z,2016,2027
+B50K1,Low Osmolar,B50K,2016,2027
+B50K1Z,None,B50K1,2016,2027
+B50K1ZZ,Plain Radiography of Left Renal Vein using Low Osmolar Contrast,B50K1Z,2016,2027
+B50KY,Other Contrast,B50K,2016,2027
+B50KYZ,None,B50KY,2016,2027
+B50KYZZ,Plain Radiography of Left Renal Vein using Other Contrast,B50KYZ,2016,2027
+B50L,"Renal Veins, Bilateral",B50,2016,2027
+B50L0,High Osmolar,B50L,2016,2027
+B50L0Z,None,B50L0,2016,2027
+B50L0ZZ,Plain Radiography of Bilateral Renal Veins using High Osmolar Contrast,B50L0Z,2016,2027
+B50L1,Low Osmolar,B50L,2016,2027
+B50L1Z,None,B50L1,2016,2027
+B50L1ZZ,Plain Radiography of Bilateral Renal Veins using Low Osmolar Contrast,B50L1Z,2016,2027
+B50LY,Other Contrast,B50L,2016,2027
+B50LYZ,None,B50LY,2016,2027
+B50LYZZ,Plain Radiography of Bilateral Renal Veins using Other Contrast,B50LYZ,2016,2027
+B50M,"Upper Extremity Veins, Right",B50,2016,2027
+B50M0,High Osmolar,B50M,2016,2027
+B50M0Z,None,B50M0,2016,2027
+B50M0ZZ,Plain Radiography of Right Upper Extremity Veins using High Osmolar Contrast,B50M0Z,2016,2027
+B50M1,Low Osmolar,B50M,2016,2027
+B50M1Z,None,B50M1,2016,2027
+B50M1ZZ,Plain Radiography of Right Upper Extremity Veins using Low Osmolar Contrast,B50M1Z,2016,2027
+B50MY,Other Contrast,B50M,2016,2027
+B50MYZ,None,B50MY,2016,2027
+B50MYZZ,Plain Radiography of Right Upper Extremity Veins using Other Contrast,B50MYZ,2016,2027
+B50N,"Upper Extremity Veins, Left",B50,2016,2027
+B50N0,High Osmolar,B50N,2016,2027
+B50N0Z,None,B50N0,2016,2027
+B50N0ZZ,Plain Radiography of Left Upper Extremity Veins using High Osmolar Contrast,B50N0Z,2016,2027
+B50N1,Low Osmolar,B50N,2016,2027
+B50N1Z,None,B50N1,2016,2027
+B50N1ZZ,Plain Radiography of Left Upper Extremity Veins using Low Osmolar Contrast,B50N1Z,2016,2027
+B50NY,Other Contrast,B50N,2016,2027
+B50NYZ,None,B50NY,2016,2027
+B50NYZZ,Plain Radiography of Left Upper Extremity Veins using Other Contrast,B50NYZ,2016,2027
+B50P,"Upper Extremity Veins, Bilateral",B50,2016,2027
+B50P0,High Osmolar,B50P,2016,2027
+B50P0Z,None,B50P0,2016,2027
+B50P0ZZ,Plain Radiography of Bilateral Upper Extremity Veins using High Osmolar Contrast,B50P0Z,2016,2027
+B50P1,Low Osmolar,B50P,2016,2027
+B50P1Z,None,B50P1,2016,2027
+B50P1ZZ,Plain Radiography of Bilateral Upper Extremity Veins using Low Osmolar Contrast,B50P1Z,2016,2027
+B50PY,Other Contrast,B50P,2016,2027
+B50PYZ,None,B50PY,2016,2027
+B50PYZZ,Plain Radiography of Bilateral Upper Extremity Veins using Other Contrast,B50PYZ,2016,2027
+B50Q,"Pulmonary Vein, Right",B50,2016,2027
+B50Q0,High Osmolar,B50Q,2016,2027
+B50Q0Z,None,B50Q0,2016,2027
+B50Q0ZZ,Plain Radiography of Right Pulmonary Vein using High Osmolar Contrast,B50Q0Z,2016,2027
+B50Q1,Low Osmolar,B50Q,2016,2027
+B50Q1Z,None,B50Q1,2016,2027
+B50Q1ZZ,Plain Radiography of Right Pulmonary Vein using Low Osmolar Contrast,B50Q1Z,2016,2027
+B50QY,Other Contrast,B50Q,2016,2027
+B50QYZ,None,B50QY,2016,2027
+B50QYZZ,Plain Radiography of Right Pulmonary Vein using Other Contrast,B50QYZ,2016,2027
+B50R,"Pulmonary Vein, Left",B50,2016,2027
+B50R0,High Osmolar,B50R,2016,2027
+B50R0Z,None,B50R0,2016,2027
+B50R0ZZ,Plain Radiography of Left Pulmonary Vein using High Osmolar Contrast,B50R0Z,2016,2027
+B50R1,Low Osmolar,B50R,2016,2027
+B50R1Z,None,B50R1,2016,2027
+B50R1ZZ,Plain Radiography of Left Pulmonary Vein using Low Osmolar Contrast,B50R1Z,2016,2027
+B50RY,Other Contrast,B50R,2016,2027
+B50RYZ,None,B50RY,2016,2027
+B50RYZZ,Plain Radiography of Left Pulmonary Vein using Other Contrast,B50RYZ,2016,2027
+B50S,"Pulmonary Veins, Bilateral",B50,2016,2027
+B50S0,High Osmolar,B50S,2016,2027
+B50S0Z,None,B50S0,2016,2027
+B50S0ZZ,Plain Radiography of Bilateral Pulmonary Veins using High Osmolar Contrast,B50S0Z,2016,2027
+B50S1,Low Osmolar,B50S,2016,2027
+B50S1Z,None,B50S1,2016,2027
+B50S1ZZ,Plain Radiography of Bilateral Pulmonary Veins using Low Osmolar Contrast,B50S1Z,2016,2027
+B50SY,Other Contrast,B50S,2016,2027
+B50SYZ,None,B50SY,2016,2027
+B50SYZZ,Plain Radiography of Bilateral Pulmonary Veins using Other Contrast,B50SYZ,2016,2027
+B50T,Portal and Splanchnic Veins,B50,2016,2027
+B50T0,High Osmolar,B50T,2016,2027
+B50T0Z,None,B50T0,2016,2027
+B50T0ZZ,Plain Radiography of Portal and Splanchnic Veins using High Osmolar Contrast,B50T0Z,2016,2027
+B50T1,Low Osmolar,B50T,2016,2027
+B50T1Z,None,B50T1,2016,2027
+B50T1ZZ,Plain Radiography of Portal and Splanchnic Veins using Low Osmolar Contrast,B50T1Z,2016,2027
+B50TY,Other Contrast,B50T,2016,2027
+B50TYZ,None,B50TY,2016,2027
+B50TYZZ,Plain Radiography of Portal and Splanchnic Veins using Other Contrast,B50TYZ,2016,2027
+B50V,"Veins, Other",B50,2016,2027
+B50V0,High Osmolar,B50V,2016,2027
+B50V0Z,None,B50V0,2016,2027
+B50V0ZZ,Plain Radiography of Other Veins using High Osmolar Contrast,B50V0Z,2016,2027
+B50V1,Low Osmolar,B50V,2016,2027
+B50V1Z,None,B50V1,2016,2027
+B50V1ZZ,Plain Radiography of Other Veins using Low Osmolar Contrast,B50V1Z,2016,2027
+B50VY,Other Contrast,B50V,2016,2027
+B50VYZ,None,B50VY,2016,2027
+B50VYZZ,Plain Radiography of Other Veins using Other Contrast,B50VYZ,2016,2027
+B50W,Dialysis Shunt/Fistula,B50,2016,2027
+B50W0,High Osmolar,B50W,2016,2027
+B50W0Z,None,B50W0,2016,2027
+B50W0ZZ,Plain Radiography of Dialysis Shunt/Fistula using High Osmolar Contrast,B50W0Z,2016,2027
+B50W1,Low Osmolar,B50W,2016,2027
+B50W1Z,None,B50W1,2016,2027
+B50W1ZZ,Plain Radiography of Dialysis Shunt/Fistula using Low Osmolar Contrast,B50W1Z,2016,2027
+B50WY,Other Contrast,B50W,2016,2027
+B50WYZ,None,B50WY,2016,2027
+B50WYZZ,Plain Radiography of Dialysis Shunt/Fistula using Other Contrast,B50WYZ,2016,2027
+B51,Fluoroscopy,B5,2016,2027
+B510,Epidural Veins,B51,2016,2027
+B5100,High Osmolar,B510,2016,2027
+B5100Z,None,B5100,2016,2027
+B5100ZA,"Fluoroscopy of Epidural Veins using High Osmolar Contrast, Guidance",B5100Z,2016,2027
+B5100ZZ,Fluoroscopy of Epidural Veins using High Osmolar Contrast,B5100Z,2016,2027
+B5101,Low Osmolar,B510,2016,2027
+B5101Z,None,B5101,2016,2027
+B5101ZA,"Fluoroscopy of Epidural Veins using Low Osmolar Contrast, Guidance",B5101Z,2016,2027
+B5101ZZ,Fluoroscopy of Epidural Veins using Low Osmolar Contrast,B5101Z,2016,2027
+B510Y,Other Contrast,B510,2016,2027
+B510YZ,None,B510Y,2016,2027
+B510YZA,"Fluoroscopy of Epidural Veins using Other Contrast, Guidance",B510YZ,2016,2027
+B510YZZ,Fluoroscopy of Epidural Veins using Other Contrast,B510YZ,2016,2027
+B510Z,None,B510,2016,2027
+B510ZZ,None,B510Z,2016,2027
+B510ZZA,"Fluoroscopy of Epidural Veins, Guidance",B510ZZ,2016,2027
+B510ZZZ,Fluoroscopy of Epidural Veins,B510ZZ,2016,2027
+B511,Cerebral and Cerebellar Veins,B51,2016,2027
+B5110,High Osmolar,B511,2016,2027
+B5110Z,None,B5110,2016,2027
+B5110ZA,"Fluoroscopy of Cerebral and Cerebellar Veins using High Osmolar Contrast, Guidance",B5110Z,2016,2027
+B5110ZZ,Fluoroscopy of Cerebral and Cerebellar Veins using High Osmolar Contrast,B5110Z,2016,2027
+B5111,Low Osmolar,B511,2016,2027
+B5111Z,None,B5111,2016,2027
+B5111ZA,"Fluoroscopy of Cerebral and Cerebellar Veins using Low Osmolar Contrast, Guidance",B5111Z,2016,2027
+B5111ZZ,Fluoroscopy of Cerebral and Cerebellar Veins using Low Osmolar Contrast,B5111Z,2016,2027
+B511Y,Other Contrast,B511,2016,2027
+B511YZ,None,B511Y,2016,2027
+B511YZA,"Fluoroscopy of Cerebral and Cerebellar Veins using Other Contrast, Guidance",B511YZ,2016,2027
+B511YZZ,Fluoroscopy of Cerebral and Cerebellar Veins using Other Contrast,B511YZ,2016,2027
+B511Z,None,B511,2016,2027
+B511ZZ,None,B511Z,2016,2027
+B511ZZA,"Fluoroscopy of Cerebral and Cerebellar Veins, Guidance",B511ZZ,2016,2027
+B511ZZZ,Fluoroscopy of Cerebral and Cerebellar Veins,B511ZZ,2016,2027
+B512,Intracranial Sinuses,B51,2016,2027
+B5120,High Osmolar,B512,2016,2027
+B5120Z,None,B5120,2016,2027
+B5120ZA,"Fluoroscopy of Intracranial Sinuses using High Osmolar Contrast, Guidance",B5120Z,2016,2027
+B5120ZZ,Fluoroscopy of Intracranial Sinuses using High Osmolar Contrast,B5120Z,2016,2027
+B5121,Low Osmolar,B512,2016,2027
+B5121Z,None,B5121,2016,2027
+B5121ZA,"Fluoroscopy of Intracranial Sinuses using Low Osmolar Contrast, Guidance",B5121Z,2016,2027
+B5121ZZ,Fluoroscopy of Intracranial Sinuses using Low Osmolar Contrast,B5121Z,2016,2027
+B512Y,Other Contrast,B512,2016,2027
+B512YZ,None,B512Y,2016,2027
+B512YZA,"Fluoroscopy of Intracranial Sinuses using Other Contrast, Guidance",B512YZ,2016,2027
+B512YZZ,Fluoroscopy of Intracranial Sinuses using Other Contrast,B512YZ,2016,2027
+B512Z,None,B512,2016,2027
+B512ZZ,None,B512Z,2016,2027
+B512ZZA,"Fluoroscopy of Intracranial Sinuses, Guidance",B512ZZ,2016,2027
+B512ZZZ,Fluoroscopy of Intracranial Sinuses,B512ZZ,2016,2027
+B513,"Jugular Veins, Right",B51,2016,2027
+B5130,High Osmolar,B513,2016,2027
+B5130Z,None,B5130,2016,2027
+B5130ZA,"Fluoroscopy of Right Jugular Veins using High Osmolar Contrast, Guidance",B5130Z,2016,2027
+B5130ZZ,Fluoroscopy of Right Jugular Veins using High Osmolar Contrast,B5130Z,2016,2027
+B5131,Low Osmolar,B513,2016,2027
+B5131Z,None,B5131,2016,2027
+B5131ZA,"Fluoroscopy of Right Jugular Veins using Low Osmolar Contrast, Guidance",B5131Z,2016,2027
+B5131ZZ,Fluoroscopy of Right Jugular Veins using Low Osmolar Contrast,B5131Z,2016,2027
+B513Y,Other Contrast,B513,2016,2027
+B513YZ,None,B513Y,2016,2027
+B513YZA,"Fluoroscopy of Right Jugular Veins using Other Contrast, Guidance",B513YZ,2016,2027
+B513YZZ,Fluoroscopy of Right Jugular Veins using Other Contrast,B513YZ,2016,2027
+B513Z,None,B513,2016,2027
+B513ZZ,None,B513Z,2016,2027
+B513ZZA,"Fluoroscopy of Right Jugular Veins, Guidance",B513ZZ,2016,2027
+B513ZZZ,Fluoroscopy of Right Jugular Veins,B513ZZ,2016,2027
+B514,"Jugular Veins, Left",B51,2016,2027
+B5140,High Osmolar,B514,2016,2027
+B5140Z,None,B5140,2016,2027
+B5140ZA,"Fluoroscopy of Left Jugular Veins using High Osmolar Contrast, Guidance",B5140Z,2016,2027
+B5140ZZ,Fluoroscopy of Left Jugular Veins using High Osmolar Contrast,B5140Z,2016,2027
+B5141,Low Osmolar,B514,2016,2027
+B5141Z,None,B5141,2016,2027
+B5141ZA,"Fluoroscopy of Left Jugular Veins using Low Osmolar Contrast, Guidance",B5141Z,2016,2027
+B5141ZZ,Fluoroscopy of Left Jugular Veins using Low Osmolar Contrast,B5141Z,2016,2027
+B514Y,Other Contrast,B514,2016,2027
+B514YZ,None,B514Y,2016,2027
+B514YZA,"Fluoroscopy of Left Jugular Veins using Other Contrast, Guidance",B514YZ,2016,2027
+B514YZZ,Fluoroscopy of Left Jugular Veins using Other Contrast,B514YZ,2016,2027
+B514Z,None,B514,2016,2027
+B514ZZ,None,B514Z,2016,2027
+B514ZZA,"Fluoroscopy of Left Jugular Veins, Guidance",B514ZZ,2016,2027
+B514ZZZ,Fluoroscopy of Left Jugular Veins,B514ZZ,2016,2027
+B515,"Jugular Veins, Bilateral",B51,2016,2027
+B5150,High Osmolar,B515,2016,2027
+B5150Z,None,B5150,2016,2027
+B5150ZA,"Fluoroscopy of Bilateral Jugular Veins using High Osmolar Contrast, Guidance",B5150Z,2016,2027
+B5150ZZ,Fluoroscopy of Bilateral Jugular Veins using High Osmolar Contrast,B5150Z,2016,2027
+B5151,Low Osmolar,B515,2016,2027
+B5151Z,None,B5151,2016,2027
+B5151ZA,"Fluoroscopy of Bilateral Jugular Veins using Low Osmolar Contrast, Guidance",B5151Z,2016,2027
+B5151ZZ,Fluoroscopy of Bilateral Jugular Veins using Low Osmolar Contrast,B5151Z,2016,2027
+B515Y,Other Contrast,B515,2016,2027
+B515YZ,None,B515Y,2016,2027
+B515YZA,"Fluoroscopy of Bilateral Jugular Veins using Other Contrast, Guidance",B515YZ,2016,2027
+B515YZZ,Fluoroscopy of Bilateral Jugular Veins using Other Contrast,B515YZ,2016,2027
+B515Z,None,B515,2016,2027
+B515ZZ,None,B515Z,2016,2027
+B515ZZA,"Fluoroscopy of Bilateral Jugular Veins, Guidance",B515ZZ,2016,2027
+B515ZZZ,Fluoroscopy of Bilateral Jugular Veins,B515ZZ,2016,2027
+B516,"Subclavian Vein, Right",B51,2016,2027
+B5160,High Osmolar,B516,2016,2027
+B5160Z,None,B5160,2016,2027
+B5160ZA,"Fluoroscopy of Right Subclavian Vein using High Osmolar Contrast, Guidance",B5160Z,2016,2027
+B5160ZZ,Fluoroscopy of Right Subclavian Vein using High Osmolar Contrast,B5160Z,2016,2027
+B5161,Low Osmolar,B516,2016,2027
+B5161Z,None,B5161,2016,2027
+B5161ZA,"Fluoroscopy of Right Subclavian Vein using Low Osmolar Contrast, Guidance",B5161Z,2016,2027
+B5161ZZ,Fluoroscopy of Right Subclavian Vein using Low Osmolar Contrast,B5161Z,2016,2027
+B516Y,Other Contrast,B516,2016,2027
+B516YZ,None,B516Y,2016,2027
+B516YZA,"Fluoroscopy of Right Subclavian Vein using Other Contrast, Guidance",B516YZ,2016,2027
+B516YZZ,Fluoroscopy of Right Subclavian Vein using Other Contrast,B516YZ,2016,2027
+B516Z,None,B516,2016,2027
+B516ZZ,None,B516Z,2016,2027
+B516ZZA,"Fluoroscopy of Right Subclavian Vein, Guidance",B516ZZ,2016,2027
+B516ZZZ,Fluoroscopy of Right Subclavian Vein,B516ZZ,2016,2027
+B517,"Subclavian Vein, Left",B51,2016,2027
+B5170,High Osmolar,B517,2016,2027
+B5170Z,None,B5170,2016,2027
+B5170ZA,"Fluoroscopy of Left Subclavian Vein using High Osmolar Contrast, Guidance",B5170Z,2016,2027
+B5170ZZ,Fluoroscopy of Left Subclavian Vein using High Osmolar Contrast,B5170Z,2016,2027
+B5171,Low Osmolar,B517,2016,2027
+B5171Z,None,B5171,2016,2027
+B5171ZA,"Fluoroscopy of Left Subclavian Vein using Low Osmolar Contrast, Guidance",B5171Z,2016,2027
+B5171ZZ,Fluoroscopy of Left Subclavian Vein using Low Osmolar Contrast,B5171Z,2016,2027
+B517Y,Other Contrast,B517,2016,2027
+B517YZ,None,B517Y,2016,2027
+B517YZA,"Fluoroscopy of Left Subclavian Vein using Other Contrast, Guidance",B517YZ,2016,2027
+B517YZZ,Fluoroscopy of Left Subclavian Vein using Other Contrast,B517YZ,2016,2027
+B517Z,None,B517,2016,2027
+B517ZZ,None,B517Z,2016,2027
+B517ZZA,"Fluoroscopy of Left Subclavian Vein, Guidance",B517ZZ,2016,2027
+B517ZZZ,Fluoroscopy of Left Subclavian Vein,B517ZZ,2016,2027
+B518,Superior Vena Cava,B51,2016,2027
+B5180,High Osmolar,B518,2016,2027
+B5180Z,None,B5180,2016,2027
+B5180ZA,"Fluoroscopy of Superior Vena Cava using High Osmolar Contrast, Guidance",B5180Z,2016,2027
+B5180ZZ,Fluoroscopy of Superior Vena Cava using High Osmolar Contrast,B5180Z,2016,2027
+B5181,Low Osmolar,B518,2016,2027
+B5181Z,None,B5181,2016,2027
+B5181ZA,"Fluoroscopy of Superior Vena Cava using Low Osmolar Contrast, Guidance",B5181Z,2016,2027
+B5181ZZ,Fluoroscopy of Superior Vena Cava using Low Osmolar Contrast,B5181Z,2016,2027
+B518Y,Other Contrast,B518,2016,2027
+B518YZ,None,B518Y,2016,2027
+B518YZA,"Fluoroscopy of Superior Vena Cava using Other Contrast, Guidance",B518YZ,2016,2027
+B518YZZ,Fluoroscopy of Superior Vena Cava using Other Contrast,B518YZ,2016,2027
+B518Z,None,B518,2016,2027
+B518ZZ,None,B518Z,2016,2027
+B518ZZA,"Fluoroscopy of Superior Vena Cava, Guidance",B518ZZ,2016,2027
+B518ZZZ,Fluoroscopy of Superior Vena Cava,B518ZZ,2016,2027
+B519,Inferior Vena Cava,B51,2016,2027
+B5190,High Osmolar,B519,2016,2027
+B5190Z,None,B5190,2016,2027
+B5190ZA,"Fluoroscopy of Inferior Vena Cava using High Osmolar Contrast, Guidance",B5190Z,2016,2027
+B5190ZZ,Fluoroscopy of Inferior Vena Cava using High Osmolar Contrast,B5190Z,2016,2027
+B5191,Low Osmolar,B519,2016,2027
+B5191Z,None,B5191,2016,2027
+B5191ZA,"Fluoroscopy of Inferior Vena Cava using Low Osmolar Contrast, Guidance",B5191Z,2016,2027
+B5191ZZ,Fluoroscopy of Inferior Vena Cava using Low Osmolar Contrast,B5191Z,2016,2027
+B519Y,Other Contrast,B519,2016,2027
+B519YZ,None,B519Y,2016,2027
+B519YZA,"Fluoroscopy of Inferior Vena Cava using Other Contrast, Guidance",B519YZ,2016,2027
+B519YZZ,Fluoroscopy of Inferior Vena Cava using Other Contrast,B519YZ,2016,2027
+B519Z,None,B519,2016,2027
+B519ZZ,None,B519Z,2016,2027
+B519ZZA,"Fluoroscopy of Inferior Vena Cava, Guidance",B519ZZ,2016,2027
+B519ZZZ,Fluoroscopy of Inferior Vena Cava,B519ZZ,2016,2027
+B51B,"Lower Extremity Veins, Right",B51,2016,2027
+B51B0,High Osmolar,B51B,2016,2027
+B51B0Z,None,B51B0,2016,2027
+B51B0ZA,"Fluoroscopy of Right Lower Extremity Veins using High Osmolar Contrast, Guidance",B51B0Z,2016,2027
+B51B0ZZ,Fluoroscopy of Right Lower Extremity Veins using High Osmolar Contrast,B51B0Z,2016,2027
+B51B1,Low Osmolar,B51B,2016,2027
+B51B1Z,None,B51B1,2016,2027
+B51B1ZA,"Fluoroscopy of Right Lower Extremity Veins using Low Osmolar Contrast, Guidance",B51B1Z,2016,2027
+B51B1ZZ,Fluoroscopy of Right Lower Extremity Veins using Low Osmolar Contrast,B51B1Z,2016,2027
+B51BY,Other Contrast,B51B,2016,2027
+B51BYZ,None,B51BY,2016,2027
+B51BYZA,"Fluoroscopy of Right Lower Extremity Veins using Other Contrast, Guidance",B51BYZ,2016,2027
+B51BYZZ,Fluoroscopy of Right Lower Extremity Veins using Other Contrast,B51BYZ,2016,2027
+B51BZ,None,B51B,2016,2027
+B51BZZ,None,B51BZ,2016,2027
+B51BZZA,"Fluoroscopy of Right Lower Extremity Veins, Guidance",B51BZZ,2016,2027
+B51BZZZ,Fluoroscopy of Right Lower Extremity Veins,B51BZZ,2016,2027
+B51C,"Lower Extremity Veins, Left",B51,2016,2027
+B51C0,High Osmolar,B51C,2016,2027
+B51C0Z,None,B51C0,2016,2027
+B51C0ZA,"Fluoroscopy of Left Lower Extremity Veins using High Osmolar Contrast, Guidance",B51C0Z,2016,2027
+B51C0ZZ,Fluoroscopy of Left Lower Extremity Veins using High Osmolar Contrast,B51C0Z,2016,2027
+B51C1,Low Osmolar,B51C,2016,2027
+B51C1Z,None,B51C1,2016,2027
+B51C1ZA,"Fluoroscopy of Left Lower Extremity Veins using Low Osmolar Contrast, Guidance",B51C1Z,2016,2027
+B51C1ZZ,Fluoroscopy of Left Lower Extremity Veins using Low Osmolar Contrast,B51C1Z,2016,2027
+B51CY,Other Contrast,B51C,2016,2027
+B51CYZ,None,B51CY,2016,2027
+B51CYZA,"Fluoroscopy of Left Lower Extremity Veins using Other Contrast, Guidance",B51CYZ,2016,2027
+B51CYZZ,Fluoroscopy of Left Lower Extremity Veins using Other Contrast,B51CYZ,2016,2027
+B51CZ,None,B51C,2016,2027
+B51CZZ,None,B51CZ,2016,2027
+B51CZZA,"Fluoroscopy of Left Lower Extremity Veins, Guidance",B51CZZ,2016,2027
+B51CZZZ,Fluoroscopy of Left Lower Extremity Veins,B51CZZ,2016,2027
+B51D,"Lower Extremity Veins, Bilateral",B51,2016,2027
+B51D0,High Osmolar,B51D,2016,2027
+B51D0Z,None,B51D0,2016,2027
+B51D0ZA,"Fluoroscopy of Bilateral Lower Extremity Veins using High Osmolar Contrast, Guidance",B51D0Z,2016,2027
+B51D0ZZ,Fluoroscopy of Bilateral Lower Extremity Veins using High Osmolar Contrast,B51D0Z,2016,2027
+B51D1,Low Osmolar,B51D,2016,2027
+B51D1Z,None,B51D1,2016,2027
+B51D1ZA,"Fluoroscopy of Bilateral Lower Extremity Veins using Low Osmolar Contrast, Guidance",B51D1Z,2016,2027
+B51D1ZZ,Fluoroscopy of Bilateral Lower Extremity Veins using Low Osmolar Contrast,B51D1Z,2016,2027
+B51DY,Other Contrast,B51D,2016,2027
+B51DYZ,None,B51DY,2016,2027
+B51DYZA,"Fluoroscopy of Bilateral Lower Extremity Veins using Other Contrast, Guidance",B51DYZ,2016,2027
+B51DYZZ,Fluoroscopy of Bilateral Lower Extremity Veins using Other Contrast,B51DYZ,2016,2027
+B51DZ,None,B51D,2016,2027
+B51DZZ,None,B51DZ,2016,2027
+B51DZZA,"Fluoroscopy of Bilateral Lower Extremity Veins, Guidance",B51DZZ,2016,2027
+B51DZZZ,Fluoroscopy of Bilateral Lower Extremity Veins,B51DZZ,2016,2027
+B51F,"Pelvic (Iliac) Veins, Right",B51,2016,2027
+B51F0,High Osmolar,B51F,2016,2027
+B51F0Z,None,B51F0,2016,2027
+B51F0ZA,"Fluoroscopy of Right Pelvic (Iliac) Veins using High Osmolar Contrast, Guidance",B51F0Z,2016,2027
+B51F0ZZ,Fluoroscopy of Right Pelvic (Iliac) Veins using High Osmolar Contrast,B51F0Z,2016,2027
+B51F1,Low Osmolar,B51F,2016,2027
+B51F1Z,None,B51F1,2016,2027
+B51F1ZA,"Fluoroscopy of Right Pelvic (Iliac) Veins using Low Osmolar Contrast, Guidance",B51F1Z,2016,2027
+B51F1ZZ,Fluoroscopy of Right Pelvic (Iliac) Veins using Low Osmolar Contrast,B51F1Z,2016,2027
+B51FY,Other Contrast,B51F,2016,2027
+B51FYZ,None,B51FY,2016,2027
+B51FYZA,"Fluoroscopy of Right Pelvic (Iliac) Veins using Other Contrast, Guidance",B51FYZ,2016,2027
+B51FYZZ,Fluoroscopy of Right Pelvic (Iliac) Veins using Other Contrast,B51FYZ,2016,2027
+B51FZ,None,B51F,2016,2027
+B51FZZ,None,B51FZ,2016,2027
+B51FZZA,"Fluoroscopy of Right Pelvic (Iliac) Veins, Guidance",B51FZZ,2016,2027
+B51FZZZ,Fluoroscopy of Right Pelvic (Iliac) Veins,B51FZZ,2016,2027
+B51G,"Pelvic (Iliac) Veins, Left",B51,2016,2027
+B51G0,High Osmolar,B51G,2016,2027
+B51G0Z,None,B51G0,2016,2027
+B51G0ZA,"Fluoroscopy of Left Pelvic (Iliac) Veins using High Osmolar Contrast, Guidance",B51G0Z,2016,2027
+B51G0ZZ,Fluoroscopy of Left Pelvic (Iliac) Veins using High Osmolar Contrast,B51G0Z,2016,2027
+B51G1,Low Osmolar,B51G,2016,2027
+B51G1Z,None,B51G1,2016,2027
+B51G1ZA,"Fluoroscopy of Left Pelvic (Iliac) Veins using Low Osmolar Contrast, Guidance",B51G1Z,2016,2027
+B51G1ZZ,Fluoroscopy of Left Pelvic (Iliac) Veins using Low Osmolar Contrast,B51G1Z,2016,2027
+B51GY,Other Contrast,B51G,2016,2027
+B51GYZ,None,B51GY,2016,2027
+B51GYZA,"Fluoroscopy of Left Pelvic (Iliac) Veins using Other Contrast, Guidance",B51GYZ,2016,2027
+B51GYZZ,Fluoroscopy of Left Pelvic (Iliac) Veins using Other Contrast,B51GYZ,2016,2027
+B51GZ,None,B51G,2016,2027
+B51GZZ,None,B51GZ,2016,2027
+B51GZZA,"Fluoroscopy of Left Pelvic (Iliac) Veins, Guidance",B51GZZ,2016,2027
+B51GZZZ,Fluoroscopy of Left Pelvic (Iliac) Veins,B51GZZ,2016,2027
+B51H,"Pelvic (Iliac) Veins, Bilateral",B51,2016,2027
+B51H0,High Osmolar,B51H,2016,2027
+B51H0Z,None,B51H0,2016,2027
+B51H0ZA,"Fluoroscopy of Bilateral Pelvic (Iliac) Veins using High Osmolar Contrast, Guidance",B51H0Z,2016,2027
+B51H0ZZ,Fluoroscopy of Bilateral Pelvic (Iliac) Veins using High Osmolar Contrast,B51H0Z,2016,2027
+B51H1,Low Osmolar,B51H,2016,2027
+B51H1Z,None,B51H1,2016,2027
+B51H1ZA,"Fluoroscopy of Bilateral Pelvic (Iliac) Veins using Low Osmolar Contrast, Guidance",B51H1Z,2016,2027
+B51H1ZZ,Fluoroscopy of Bilateral Pelvic (Iliac) Veins using Low Osmolar Contrast,B51H1Z,2016,2027
+B51HY,Other Contrast,B51H,2016,2027
+B51HYZ,None,B51HY,2016,2027
+B51HYZA,"Fluoroscopy of Bilateral Pelvic (Iliac) Veins using Other Contrast, Guidance",B51HYZ,2016,2027
+B51HYZZ,Fluoroscopy of Bilateral Pelvic (Iliac) Veins using Other Contrast,B51HYZ,2016,2027
+B51HZ,None,B51H,2016,2027
+B51HZZ,None,B51HZ,2016,2027
+B51HZZA,"Fluoroscopy of Bilateral Pelvic (Iliac) Veins, Guidance",B51HZZ,2016,2027
+B51HZZZ,Fluoroscopy of Bilateral Pelvic (Iliac) Veins,B51HZZ,2016,2027
+B51J,"Renal Vein, Right",B51,2016,2027
+B51J0,High Osmolar,B51J,2016,2027
+B51J0Z,None,B51J0,2016,2027
+B51J0ZA,"Fluoroscopy of Right Renal Vein using High Osmolar Contrast, Guidance",B51J0Z,2016,2027
+B51J0ZZ,Fluoroscopy of Right Renal Vein using High Osmolar Contrast,B51J0Z,2016,2027
+B51J1,Low Osmolar,B51J,2016,2027
+B51J1Z,None,B51J1,2016,2027
+B51J1ZA,"Fluoroscopy of Right Renal Vein using Low Osmolar Contrast, Guidance",B51J1Z,2016,2027
+B51J1ZZ,Fluoroscopy of Right Renal Vein using Low Osmolar Contrast,B51J1Z,2016,2027
+B51JY,Other Contrast,B51J,2016,2027
+B51JYZ,None,B51JY,2016,2027
+B51JYZA,"Fluoroscopy of Right Renal Vein using Other Contrast, Guidance",B51JYZ,2016,2027
+B51JYZZ,Fluoroscopy of Right Renal Vein using Other Contrast,B51JYZ,2016,2027
+B51JZ,None,B51J,2016,2027
+B51JZZ,None,B51JZ,2016,2027
+B51JZZA,"Fluoroscopy of Right Renal Vein, Guidance",B51JZZ,2016,2027
+B51JZZZ,Fluoroscopy of Right Renal Vein,B51JZZ,2016,2027
+B51K,"Renal Vein, Left",B51,2016,2027
+B51K0,High Osmolar,B51K,2016,2027
+B51K0Z,None,B51K0,2016,2027
+B51K0ZA,"Fluoroscopy of Left Renal Vein using High Osmolar Contrast, Guidance",B51K0Z,2016,2027
+B51K0ZZ,Fluoroscopy of Left Renal Vein using High Osmolar Contrast,B51K0Z,2016,2027
+B51K1,Low Osmolar,B51K,2016,2027
+B51K1Z,None,B51K1,2016,2027
+B51K1ZA,"Fluoroscopy of Left Renal Vein using Low Osmolar Contrast, Guidance",B51K1Z,2016,2027
+B51K1ZZ,Fluoroscopy of Left Renal Vein using Low Osmolar Contrast,B51K1Z,2016,2027
+B51KY,Other Contrast,B51K,2016,2027
+B51KYZ,None,B51KY,2016,2027
+B51KYZA,"Fluoroscopy of Left Renal Vein using Other Contrast, Guidance",B51KYZ,2016,2027
+B51KYZZ,Fluoroscopy of Left Renal Vein using Other Contrast,B51KYZ,2016,2027
+B51KZ,None,B51K,2016,2027
+B51KZZ,None,B51KZ,2016,2027
+B51KZZA,"Fluoroscopy of Left Renal Vein, Guidance",B51KZZ,2016,2027
+B51KZZZ,Fluoroscopy of Left Renal Vein,B51KZZ,2016,2027
+B51L,"Renal Veins, Bilateral",B51,2016,2027
+B51L0,High Osmolar,B51L,2016,2027
+B51L0Z,None,B51L0,2016,2027
+B51L0ZA,"Fluoroscopy of Bilateral Renal Veins using High Osmolar Contrast, Guidance",B51L0Z,2016,2027
+B51L0ZZ,Fluoroscopy of Bilateral Renal Veins using High Osmolar Contrast,B51L0Z,2016,2027
+B51L1,Low Osmolar,B51L,2016,2027
+B51L1Z,None,B51L1,2016,2027
+B51L1ZA,"Fluoroscopy of Bilateral Renal Veins using Low Osmolar Contrast, Guidance",B51L1Z,2016,2027
+B51L1ZZ,Fluoroscopy of Bilateral Renal Veins using Low Osmolar Contrast,B51L1Z,2016,2027
+B51LY,Other Contrast,B51L,2016,2027
+B51LYZ,None,B51LY,2016,2027
+B51LYZA,"Fluoroscopy of Bilateral Renal Veins using Other Contrast, Guidance",B51LYZ,2016,2027
+B51LYZZ,Fluoroscopy of Bilateral Renal Veins using Other Contrast,B51LYZ,2016,2027
+B51LZ,None,B51L,2016,2027
+B51LZZ,None,B51LZ,2016,2027
+B51LZZA,"Fluoroscopy of Bilateral Renal Veins, Guidance",B51LZZ,2016,2027
+B51LZZZ,Fluoroscopy of Bilateral Renal Veins,B51LZZ,2016,2027
+B51M,"Upper Extremity Veins, Right",B51,2016,2027
+B51M0,High Osmolar,B51M,2016,2027
+B51M0Z,None,B51M0,2016,2027
+B51M0ZA,"Fluoroscopy of Right Upper Extremity Veins using High Osmolar Contrast, Guidance",B51M0Z,2016,2027
+B51M0ZZ,Fluoroscopy of Right Upper Extremity Veins using High Osmolar Contrast,B51M0Z,2016,2027
+B51M1,Low Osmolar,B51M,2016,2027
+B51M1Z,None,B51M1,2016,2027
+B51M1ZA,"Fluoroscopy of Right Upper Extremity Veins using Low Osmolar Contrast, Guidance",B51M1Z,2016,2027
+B51M1ZZ,Fluoroscopy of Right Upper Extremity Veins using Low Osmolar Contrast,B51M1Z,2016,2027
+B51MY,Other Contrast,B51M,2016,2027
+B51MYZ,None,B51MY,2016,2027
+B51MYZA,"Fluoroscopy of Right Upper Extremity Veins using Other Contrast, Guidance",B51MYZ,2016,2027
+B51MYZZ,Fluoroscopy of Right Upper Extremity Veins using Other Contrast,B51MYZ,2016,2027
+B51MZ,None,B51M,2016,2027
+B51MZZ,None,B51MZ,2016,2027
+B51MZZA,"Fluoroscopy of Right Upper Extremity Veins, Guidance",B51MZZ,2016,2027
+B51MZZZ,Fluoroscopy of Right Upper Extremity Veins,B51MZZ,2016,2027
+B51N,"Upper Extremity Veins, Left",B51,2016,2027
+B51N0,High Osmolar,B51N,2016,2027
+B51N0Z,None,B51N0,2016,2027
+B51N0ZA,"Fluoroscopy of Left Upper Extremity Veins using High Osmolar Contrast, Guidance",B51N0Z,2016,2027
+B51N0ZZ,Fluoroscopy of Left Upper Extremity Veins using High Osmolar Contrast,B51N0Z,2016,2027
+B51N1,Low Osmolar,B51N,2016,2027
+B51N1Z,None,B51N1,2016,2027
+B51N1ZA,"Fluoroscopy of Left Upper Extremity Veins using Low Osmolar Contrast, Guidance",B51N1Z,2016,2027
+B51N1ZZ,Fluoroscopy of Left Upper Extremity Veins using Low Osmolar Contrast,B51N1Z,2016,2027
+B51NY,Other Contrast,B51N,2016,2027
+B51NYZ,None,B51NY,2016,2027
+B51NYZA,"Fluoroscopy of Left Upper Extremity Veins using Other Contrast, Guidance",B51NYZ,2016,2027
+B51NYZZ,Fluoroscopy of Left Upper Extremity Veins using Other Contrast,B51NYZ,2016,2027
+B51NZ,None,B51N,2016,2027
+B51NZZ,None,B51NZ,2016,2027
+B51NZZA,"Fluoroscopy of Left Upper Extremity Veins, Guidance",B51NZZ,2016,2027
+B51NZZZ,Fluoroscopy of Left Upper Extremity Veins,B51NZZ,2016,2027
+B51P,"Upper Extremity Veins, Bilateral",B51,2016,2027
+B51P0,High Osmolar,B51P,2016,2027
+B51P0Z,None,B51P0,2016,2027
+B51P0ZA,"Fluoroscopy of Bilateral Upper Extremity Veins using High Osmolar Contrast, Guidance",B51P0Z,2016,2027
+B51P0ZZ,Fluoroscopy of Bilateral Upper Extremity Veins using High Osmolar Contrast,B51P0Z,2016,2027
+B51P1,Low Osmolar,B51P,2016,2027
+B51P1Z,None,B51P1,2016,2027
+B51P1ZA,"Fluoroscopy of Bilateral Upper Extremity Veins using Low Osmolar Contrast, Guidance",B51P1Z,2016,2027
+B51P1ZZ,Fluoroscopy of Bilateral Upper Extremity Veins using Low Osmolar Contrast,B51P1Z,2016,2027
+B51PY,Other Contrast,B51P,2016,2027
+B51PYZ,None,B51PY,2016,2027
+B51PYZA,"Fluoroscopy of Bilateral Upper Extremity Veins using Other Contrast, Guidance",B51PYZ,2016,2027
+B51PYZZ,Fluoroscopy of Bilateral Upper Extremity Veins using Other Contrast,B51PYZ,2016,2027
+B51PZ,None,B51P,2016,2027
+B51PZZ,None,B51PZ,2016,2027
+B51PZZA,"Fluoroscopy of Bilateral Upper Extremity Veins, Guidance",B51PZZ,2016,2027
+B51PZZZ,Fluoroscopy of Bilateral Upper Extremity Veins,B51PZZ,2016,2027
+B51Q,"Pulmonary Vein, Right",B51,2016,2027
+B51Q0,High Osmolar,B51Q,2016,2027
+B51Q0Z,None,B51Q0,2016,2027
+B51Q0ZA,"Fluoroscopy of Right Pulmonary Vein using High Osmolar Contrast, Guidance",B51Q0Z,2016,2027
+B51Q0ZZ,Fluoroscopy of Right Pulmonary Vein using High Osmolar Contrast,B51Q0Z,2016,2027
+B51Q1,Low Osmolar,B51Q,2016,2027
+B51Q1Z,None,B51Q1,2016,2027
+B51Q1ZA,"Fluoroscopy of Right Pulmonary Vein using Low Osmolar Contrast, Guidance",B51Q1Z,2016,2027
+B51Q1ZZ,Fluoroscopy of Right Pulmonary Vein using Low Osmolar Contrast,B51Q1Z,2016,2027
+B51QY,Other Contrast,B51Q,2016,2027
+B51QYZ,None,B51QY,2016,2027
+B51QYZA,"Fluoroscopy of Right Pulmonary Vein using Other Contrast, Guidance",B51QYZ,2016,2027
+B51QYZZ,Fluoroscopy of Right Pulmonary Vein using Other Contrast,B51QYZ,2016,2027
+B51QZ,None,B51Q,2016,2027
+B51QZZ,None,B51QZ,2016,2027
+B51QZZA,"Fluoroscopy of Right Pulmonary Vein, Guidance",B51QZZ,2016,2027
+B51QZZZ,Fluoroscopy of Right Pulmonary Vein,B51QZZ,2016,2027
+B51R,"Pulmonary Vein, Left",B51,2016,2027
+B51R0,High Osmolar,B51R,2016,2027
+B51R0Z,None,B51R0,2016,2027
+B51R0ZA,"Fluoroscopy of Left Pulmonary Vein using High Osmolar Contrast, Guidance",B51R0Z,2016,2027
+B51R0ZZ,Fluoroscopy of Left Pulmonary Vein using High Osmolar Contrast,B51R0Z,2016,2027
+B51R1,Low Osmolar,B51R,2016,2027
+B51R1Z,None,B51R1,2016,2027
+B51R1ZA,"Fluoroscopy of Left Pulmonary Vein using Low Osmolar Contrast, Guidance",B51R1Z,2016,2027
+B51R1ZZ,Fluoroscopy of Left Pulmonary Vein using Low Osmolar Contrast,B51R1Z,2016,2027
+B51RY,Other Contrast,B51R,2016,2027
+B51RYZ,None,B51RY,2016,2027
+B51RYZA,"Fluoroscopy of Left Pulmonary Vein using Other Contrast, Guidance",B51RYZ,2016,2027
+B51RYZZ,Fluoroscopy of Left Pulmonary Vein using Other Contrast,B51RYZ,2016,2027
+B51RZ,None,B51R,2016,2027
+B51RZZ,None,B51RZ,2016,2027
+B51RZZA,"Fluoroscopy of Left Pulmonary Vein, Guidance",B51RZZ,2016,2027
+B51RZZZ,Fluoroscopy of Left Pulmonary Vein,B51RZZ,2016,2027
+B51S,"Pulmonary Veins, Bilateral",B51,2016,2027
+B51S0,High Osmolar,B51S,2016,2027
+B51S0Z,None,B51S0,2016,2027
+B51S0ZA,"Fluoroscopy of Bilateral Pulmonary Veins using High Osmolar Contrast, Guidance",B51S0Z,2016,2027
+B51S0ZZ,Fluoroscopy of Bilateral Pulmonary Veins using High Osmolar Contrast,B51S0Z,2016,2027
+B51S1,Low Osmolar,B51S,2016,2027
+B51S1Z,None,B51S1,2016,2027
+B51S1ZA,"Fluoroscopy of Bilateral Pulmonary Veins using Low Osmolar Contrast, Guidance",B51S1Z,2016,2027
+B51S1ZZ,Fluoroscopy of Bilateral Pulmonary Veins using Low Osmolar Contrast,B51S1Z,2016,2027
+B51SY,Other Contrast,B51S,2016,2027
+B51SYZ,None,B51SY,2016,2027
+B51SYZA,"Fluoroscopy of Bilateral Pulmonary Veins using Other Contrast, Guidance",B51SYZ,2016,2027
+B51SYZZ,Fluoroscopy of Bilateral Pulmonary Veins using Other Contrast,B51SYZ,2016,2027
+B51SZ,None,B51S,2016,2027
+B51SZZ,None,B51SZ,2016,2027
+B51SZZA,"Fluoroscopy of Bilateral Pulmonary Veins, Guidance",B51SZZ,2016,2027
+B51SZZZ,Fluoroscopy of Bilateral Pulmonary Veins,B51SZZ,2016,2027
+B51T,Portal and Splanchnic Veins,B51,2016,2027
+B51T0,High Osmolar,B51T,2016,2027
+B51T0Z,None,B51T0,2016,2027
+B51T0ZA,"Fluoroscopy of Portal and Splanchnic Veins using High Osmolar Contrast, Guidance",B51T0Z,2016,2027
+B51T0ZZ,Fluoroscopy of Portal and Splanchnic Veins using High Osmolar Contrast,B51T0Z,2016,2027
+B51T1,Low Osmolar,B51T,2016,2027
+B51T1Z,None,B51T1,2016,2027
+B51T1ZA,"Fluoroscopy of Portal and Splanchnic Veins using Low Osmolar Contrast, Guidance",B51T1Z,2016,2027
+B51T1ZZ,Fluoroscopy of Portal and Splanchnic Veins using Low Osmolar Contrast,B51T1Z,2016,2027
+B51TY,Other Contrast,B51T,2016,2027
+B51TYZ,None,B51TY,2016,2027
+B51TYZA,"Fluoroscopy of Portal and Splanchnic Veins using Other Contrast, Guidance",B51TYZ,2016,2027
+B51TYZZ,Fluoroscopy of Portal and Splanchnic Veins using Other Contrast,B51TYZ,2016,2027
+B51TZ,None,B51T,2016,2027
+B51TZZ,None,B51TZ,2016,2027
+B51TZZA,"Fluoroscopy of Portal and Splanchnic Veins, Guidance",B51TZZ,2016,2027
+B51TZZZ,Fluoroscopy of Portal and Splanchnic Veins,B51TZZ,2016,2027
+B51V,"Veins, Other",B51,2016,2027
+B51V0,High Osmolar,B51V,2016,2027
+B51V0Z,None,B51V0,2016,2027
+B51V0ZA,"Fluoroscopy of Other Veins using High Osmolar Contrast, Guidance",B51V0Z,2016,2027
+B51V0ZZ,Fluoroscopy of Other Veins using High Osmolar Contrast,B51V0Z,2016,2027
+B51V1,Low Osmolar,B51V,2016,2027
+B51V1Z,None,B51V1,2016,2027
+B51V1ZA,"Fluoroscopy of Other Veins using Low Osmolar Contrast, Guidance",B51V1Z,2016,2027
+B51V1ZZ,Fluoroscopy of Other Veins using Low Osmolar Contrast,B51V1Z,2016,2027
+B51VY,Other Contrast,B51V,2016,2027
+B51VYZ,None,B51VY,2016,2027
+B51VYZA,"Fluoroscopy of Other Veins using Other Contrast, Guidance",B51VYZ,2016,2027
+B51VYZZ,Fluoroscopy of Other Veins using Other Contrast,B51VYZ,2016,2027
+B51VZ,None,B51V,2016,2027
+B51VZZ,None,B51VZ,2016,2027
+B51VZZA,"Fluoroscopy of Other Veins, Guidance",B51VZZ,2016,2027
+B51VZZZ,Fluoroscopy of Other Veins,B51VZZ,2016,2027
+B51W,Dialysis Shunt/Fistula,B51,2016,2027
+B51W0,High Osmolar,B51W,2016,2027
+B51W0Z,None,B51W0,2016,2027
+B51W0ZA,"Fluoroscopy of Dialysis Shunt/Fistula using High Osmolar Contrast, Guidance",B51W0Z,2016,2027
+B51W0ZZ,Fluoroscopy of Dialysis Shunt/Fistula using High Osmolar Contrast,B51W0Z,2016,2027
+B51W1,Low Osmolar,B51W,2016,2027
+B51W1Z,None,B51W1,2016,2027
+B51W1ZA,"Fluoroscopy of Dialysis Shunt/Fistula using Low Osmolar Contrast, Guidance",B51W1Z,2016,2027
+B51W1ZZ,Fluoroscopy of Dialysis Shunt/Fistula using Low Osmolar Contrast,B51W1Z,2016,2027
+B51WY,Other Contrast,B51W,2016,2027
+B51WYZ,None,B51WY,2016,2027
+B51WYZA,"Fluoroscopy of Dialysis Shunt/Fistula using Other Contrast, Guidance",B51WYZ,2016,2027
+B51WYZZ,Fluoroscopy of Dialysis Shunt/Fistula using Other Contrast,B51WYZ,2016,2027
+B51WZ,None,B51W,2016,2027
+B51WZZ,None,B51WZ,2016,2027
+B51WZZA,"Fluoroscopy of Dialysis Shunt/Fistula, Guidance",B51WZZ,2016,2027
+B51WZZZ,Fluoroscopy of Dialysis Shunt/Fistula,B51WZZ,2016,2027
+B52,Computerized Tomography (CT Scan),B5,2016,2027
+B522,Intracranial Sinuses,B52,2016,2027
+B5220,High Osmolar,B522,2016,2027
+B52200,Unenhanced and Enhanced,B5220,2016,2027
+B52200Z,"Computerized Tomography (CT Scan) of Intracranial Sinuses using High Osmolar Contrast, Unenhanced and Enhanced",B52200,2016,2027
+B5220Z,None,B5220,2016,2027
+B5220ZZ,Computerized Tomography (CT Scan) of Intracranial Sinuses using High Osmolar Contrast,B5220Z,2016,2027
+B5221,Low Osmolar,B522,2016,2027
+B52210,Unenhanced and Enhanced,B5221,2016,2027
+B52210Z,"Computerized Tomography (CT Scan) of Intracranial Sinuses using Low Osmolar Contrast, Unenhanced and Enhanced",B52210,2016,2027
+B5221Z,None,B5221,2016,2027
+B5221ZZ,Computerized Tomography (CT Scan) of Intracranial Sinuses using Low Osmolar Contrast,B5221Z,2016,2027
+B522Y,Other Contrast,B522,2016,2027
+B522Y0,Unenhanced and Enhanced,B522Y,2016,2027
+B522Y0Z,"Computerized Tomography (CT Scan) of Intracranial Sinuses using Other Contrast, Unenhanced and Enhanced",B522Y0,2016,2027
+B522YZ,None,B522Y,2016,2027
+B522YZZ,Computerized Tomography (CT Scan) of Intracranial Sinuses using Other Contrast,B522YZ,2016,2027
+B522Z,None,B522,2016,2027
+B522Z2,Intravascular Optical Coherence,B522Z,2016,2027
+B522Z2Z,Computerized Tomography (CT Scan) of Intracranial Sinuses using Intravascular Optical Coherence,B522Z2,2016,2027
+B522ZZ,None,B522Z,2016,2027
+B522ZZZ,Computerized Tomography (CT Scan) of Intracranial Sinuses,B522ZZ,2016,2027
+B528,Superior Vena Cava,B52,2016,2027
+B5280,High Osmolar,B528,2016,2027
+B52800,Unenhanced and Enhanced,B5280,2016,2027
+B52800Z,"Computerized Tomography (CT Scan) of Superior Vena Cava using High Osmolar Contrast, Unenhanced and Enhanced",B52800,2016,2027
+B5280Z,None,B5280,2016,2027
+B5280ZZ,Computerized Tomography (CT Scan) of Superior Vena Cava using High Osmolar Contrast,B5280Z,2016,2027
+B5281,Low Osmolar,B528,2016,2027
+B52810,Unenhanced and Enhanced,B5281,2016,2027
+B52810Z,"Computerized Tomography (CT Scan) of Superior Vena Cava using Low Osmolar Contrast, Unenhanced and Enhanced",B52810,2016,2027
+B5281Z,None,B5281,2016,2027
+B5281ZZ,Computerized Tomography (CT Scan) of Superior Vena Cava using Low Osmolar Contrast,B5281Z,2016,2027
+B528Y,Other Contrast,B528,2016,2027
+B528Y0,Unenhanced and Enhanced,B528Y,2016,2027
+B528Y0Z,"Computerized Tomography (CT Scan) of Superior Vena Cava using Other Contrast, Unenhanced and Enhanced",B528Y0,2016,2027
+B528YZ,None,B528Y,2016,2027
+B528YZZ,Computerized Tomography (CT Scan) of Superior Vena Cava using Other Contrast,B528YZ,2016,2027
+B528Z,None,B528,2016,2027
+B528Z2,Intravascular Optical Coherence,B528Z,2016,2027
+B528Z2Z,Computerized Tomography (CT Scan) of Superior Vena Cava using Intravascular Optical Coherence,B528Z2,2016,2027
+B528ZZ,None,B528Z,2016,2027
+B528ZZZ,Computerized Tomography (CT Scan) of Superior Vena Cava,B528ZZ,2016,2027
+B529,Inferior Vena Cava,B52,2016,2027
+B5290,High Osmolar,B529,2016,2027
+B52900,Unenhanced and Enhanced,B5290,2016,2027
+B52900Z,"Computerized Tomography (CT Scan) of Inferior Vena Cava using High Osmolar Contrast, Unenhanced and Enhanced",B52900,2016,2027
+B5290Z,None,B5290,2016,2027
+B5290ZZ,Computerized Tomography (CT Scan) of Inferior Vena Cava using High Osmolar Contrast,B5290Z,2016,2027
+B5291,Low Osmolar,B529,2016,2027
+B52910,Unenhanced and Enhanced,B5291,2016,2027
+B52910Z,"Computerized Tomography (CT Scan) of Inferior Vena Cava using Low Osmolar Contrast, Unenhanced and Enhanced",B52910,2016,2027
+B5291Z,None,B5291,2016,2027
+B5291ZZ,Computerized Tomography (CT Scan) of Inferior Vena Cava using Low Osmolar Contrast,B5291Z,2016,2027
+B529Y,Other Contrast,B529,2016,2027
+B529Y0,Unenhanced and Enhanced,B529Y,2016,2027
+B529Y0Z,"Computerized Tomography (CT Scan) of Inferior Vena Cava using Other Contrast, Unenhanced and Enhanced",B529Y0,2016,2027
+B529YZ,None,B529Y,2016,2027
+B529YZZ,Computerized Tomography (CT Scan) of Inferior Vena Cava using Other Contrast,B529YZ,2016,2027
+B529Z,None,B529,2016,2027
+B529Z2,Intravascular Optical Coherence,B529Z,2016,2027
+B529Z2Z,Computerized Tomography (CT Scan) of Inferior Vena Cava using Intravascular Optical Coherence,B529Z2,2016,2027
+B529ZZ,None,B529Z,2016,2027
+B529ZZZ,Computerized Tomography (CT Scan) of Inferior Vena Cava,B529ZZ,2016,2027
+B52F,"Pelvic (Iliac) Veins, Right",B52,2016,2027
+B52F0,High Osmolar,B52F,2016,2027
+B52F00,Unenhanced and Enhanced,B52F0,2016,2027
+B52F00Z,"Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using High Osmolar Contrast, Unenhanced and Enhanced",B52F00,2016,2027
+B52F0Z,None,B52F0,2016,2027
+B52F0ZZ,Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using High Osmolar Contrast,B52F0Z,2016,2027
+B52F1,Low Osmolar,B52F,2016,2027
+B52F10,Unenhanced and Enhanced,B52F1,2016,2027
+B52F10Z,"Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using Low Osmolar Contrast, Unenhanced and Enhanced",B52F10,2016,2027
+B52F1Z,None,B52F1,2016,2027
+B52F1ZZ,Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using Low Osmolar Contrast,B52F1Z,2016,2027
+B52FY,Other Contrast,B52F,2016,2027
+B52FY0,Unenhanced and Enhanced,B52FY,2016,2027
+B52FY0Z,"Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using Other Contrast, Unenhanced and Enhanced",B52FY0,2016,2027
+B52FYZ,None,B52FY,2016,2027
+B52FYZZ,Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using Other Contrast,B52FYZ,2016,2027
+B52FZ,None,B52F,2016,2027
+B52FZ2,Intravascular Optical Coherence,B52FZ,2016,2027
+B52FZ2Z,Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins using Intravascular Optical Coherence,B52FZ2,2016,2027
+B52FZZ,None,B52FZ,2016,2027
+B52FZZZ,Computerized Tomography (CT Scan) of Right Pelvic (Iliac) Veins,B52FZZ,2016,2027
+B52G,"Pelvic (Iliac) Veins, Left",B52,2016,2027
+B52G0,High Osmolar,B52G,2016,2027
+B52G00,Unenhanced and Enhanced,B52G0,2016,2027
+B52G00Z,"Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using High Osmolar Contrast, Unenhanced and Enhanced",B52G00,2016,2027
+B52G0Z,None,B52G0,2016,2027
+B52G0ZZ,Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using High Osmolar Contrast,B52G0Z,2016,2027
+B52G1,Low Osmolar,B52G,2016,2027
+B52G10,Unenhanced and Enhanced,B52G1,2016,2027
+B52G10Z,"Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using Low Osmolar Contrast, Unenhanced and Enhanced",B52G10,2016,2027
+B52G1Z,None,B52G1,2016,2027
+B52G1ZZ,Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using Low Osmolar Contrast,B52G1Z,2016,2027
+B52GY,Other Contrast,B52G,2016,2027
+B52GY0,Unenhanced and Enhanced,B52GY,2016,2027
+B52GY0Z,"Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using Other Contrast, Unenhanced and Enhanced",B52GY0,2016,2027
+B52GYZ,None,B52GY,2016,2027
+B52GYZZ,Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using Other Contrast,B52GYZ,2016,2027
+B52GZ,None,B52G,2016,2027
+B52GZ2,Intravascular Optical Coherence,B52GZ,2016,2027
+B52GZ2Z,Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins using Intravascular Optical Coherence,B52GZ2,2016,2027
+B52GZZ,None,B52GZ,2016,2027
+B52GZZZ,Computerized Tomography (CT Scan) of Left Pelvic (Iliac) Veins,B52GZZ,2016,2027
+B52H,"Pelvic (Iliac) Veins, Bilateral",B52,2016,2027
+B52H0,High Osmolar,B52H,2016,2027
+B52H00,Unenhanced and Enhanced,B52H0,2016,2027
+B52H00Z,"Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using High Osmolar Contrast, Unenhanced and Enhanced",B52H00,2016,2027
+B52H0Z,None,B52H0,2016,2027
+B52H0ZZ,Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using High Osmolar Contrast,B52H0Z,2016,2027
+B52H1,Low Osmolar,B52H,2016,2027
+B52H10,Unenhanced and Enhanced,B52H1,2016,2027
+B52H10Z,"Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using Low Osmolar Contrast, Unenhanced and Enhanced",B52H10,2016,2027
+B52H1Z,None,B52H1,2016,2027
+B52H1ZZ,Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using Low Osmolar Contrast,B52H1Z,2016,2027
+B52HY,Other Contrast,B52H,2016,2027
+B52HY0,Unenhanced and Enhanced,B52HY,2016,2027
+B52HY0Z,"Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using Other Contrast, Unenhanced and Enhanced",B52HY0,2016,2027
+B52HYZ,None,B52HY,2016,2027
+B52HYZZ,Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using Other Contrast,B52HYZ,2016,2027
+B52HZ,None,B52H,2016,2027
+B52HZ2,Intravascular Optical Coherence,B52HZ,2016,2027
+B52HZ2Z,Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins using Intravascular Optical Coherence,B52HZ2,2016,2027
+B52HZZ,None,B52HZ,2016,2027
+B52HZZZ,Computerized Tomography (CT Scan) of Bilateral Pelvic (Iliac) Veins,B52HZZ,2016,2027
+B52J,"Renal Vein, Right",B52,2016,2027
+B52J0,High Osmolar,B52J,2016,2027
+B52J00,Unenhanced and Enhanced,B52J0,2016,2027
+B52J00Z,"Computerized Tomography (CT Scan) of Right Renal Vein using High Osmolar Contrast, Unenhanced and Enhanced",B52J00,2016,2027
+B52J0Z,None,B52J0,2016,2027
+B52J0ZZ,Computerized Tomography (CT Scan) of Right Renal Vein using High Osmolar Contrast,B52J0Z,2016,2027
+B52J1,Low Osmolar,B52J,2016,2027
+B52J10,Unenhanced and Enhanced,B52J1,2016,2027
+B52J10Z,"Computerized Tomography (CT Scan) of Right Renal Vein using Low Osmolar Contrast, Unenhanced and Enhanced",B52J10,2016,2027
+B52J1Z,None,B52J1,2016,2027
+B52J1ZZ,Computerized Tomography (CT Scan) of Right Renal Vein using Low Osmolar Contrast,B52J1Z,2016,2027
+B52JY,Other Contrast,B52J,2016,2027
+B52JY0,Unenhanced and Enhanced,B52JY,2016,2027
+B52JY0Z,"Computerized Tomography (CT Scan) of Right Renal Vein using Other Contrast, Unenhanced and Enhanced",B52JY0,2016,2027
+B52JYZ,None,B52JY,2016,2027
+B52JYZZ,Computerized Tomography (CT Scan) of Right Renal Vein using Other Contrast,B52JYZ,2016,2027
+B52JZ,None,B52J,2016,2027
+B52JZ2,Intravascular Optical Coherence,B52JZ,2016,2027
+B52JZ2Z,Computerized Tomography (CT Scan) of Right Renal Vein using Intravascular Optical Coherence,B52JZ2,2016,2027
+B52JZZ,None,B52JZ,2016,2027
+B52JZZZ,Computerized Tomography (CT Scan) of Right Renal Vein,B52JZZ,2016,2027
+B52K,"Renal Vein, Left",B52,2016,2027
+B52K0,High Osmolar,B52K,2016,2027
+B52K00,Unenhanced and Enhanced,B52K0,2016,2027
+B52K00Z,"Computerized Tomography (CT Scan) of Left Renal Vein using High Osmolar Contrast, Unenhanced and Enhanced",B52K00,2016,2027
+B52K0Z,None,B52K0,2016,2027
+B52K0ZZ,Computerized Tomography (CT Scan) of Left Renal Vein using High Osmolar Contrast,B52K0Z,2016,2027
+B52K1,Low Osmolar,B52K,2016,2027
+B52K10,Unenhanced and Enhanced,B52K1,2016,2027
+B52K10Z,"Computerized Tomography (CT Scan) of Left Renal Vein using Low Osmolar Contrast, Unenhanced and Enhanced",B52K10,2016,2027
+B52K1Z,None,B52K1,2016,2027
+B52K1ZZ,Computerized Tomography (CT Scan) of Left Renal Vein using Low Osmolar Contrast,B52K1Z,2016,2027
+B52KY,Other Contrast,B52K,2016,2027
+B52KY0,Unenhanced and Enhanced,B52KY,2016,2027
+B52KY0Z,"Computerized Tomography (CT Scan) of Left Renal Vein using Other Contrast, Unenhanced and Enhanced",B52KY0,2016,2027
+B52KYZ,None,B52KY,2016,2027
+B52KYZZ,Computerized Tomography (CT Scan) of Left Renal Vein using Other Contrast,B52KYZ,2016,2027
+B52KZ,None,B52K,2016,2027
+B52KZ2,Intravascular Optical Coherence,B52KZ,2016,2027
+B52KZ2Z,Computerized Tomography (CT Scan) of Left Renal Vein using Intravascular Optical Coherence,B52KZ2,2016,2027
+B52KZZ,None,B52KZ,2016,2027
+B52KZZZ,Computerized Tomography (CT Scan) of Left Renal Vein,B52KZZ,2016,2027
+B52L,"Renal Veins, Bilateral",B52,2016,2027
+B52L0,High Osmolar,B52L,2016,2027
+B52L00,Unenhanced and Enhanced,B52L0,2016,2027
+B52L00Z,"Computerized Tomography (CT Scan) of Bilateral Renal Veins using High Osmolar Contrast, Unenhanced and Enhanced",B52L00,2016,2027
+B52L0Z,None,B52L0,2016,2027
+B52L0ZZ,Computerized Tomography (CT Scan) of Bilateral Renal Veins using High Osmolar Contrast,B52L0Z,2016,2027
+B52L1,Low Osmolar,B52L,2016,2027
+B52L10,Unenhanced and Enhanced,B52L1,2016,2027
+B52L10Z,"Computerized Tomography (CT Scan) of Bilateral Renal Veins using Low Osmolar Contrast, Unenhanced and Enhanced",B52L10,2016,2027
+B52L1Z,None,B52L1,2016,2027
+B52L1ZZ,Computerized Tomography (CT Scan) of Bilateral Renal Veins using Low Osmolar Contrast,B52L1Z,2016,2027
+B52LY,Other Contrast,B52L,2016,2027
+B52LY0,Unenhanced and Enhanced,B52LY,2016,2027
+B52LY0Z,"Computerized Tomography (CT Scan) of Bilateral Renal Veins using Other Contrast, Unenhanced and Enhanced",B52LY0,2016,2027
+B52LYZ,None,B52LY,2016,2027
+B52LYZZ,Computerized Tomography (CT Scan) of Bilateral Renal Veins using Other Contrast,B52LYZ,2016,2027
+B52LZ,None,B52L,2016,2027
+B52LZ2,Intravascular Optical Coherence,B52LZ,2016,2027
+B52LZ2Z,Computerized Tomography (CT Scan) of Bilateral Renal Veins using Intravascular Optical Coherence,B52LZ2,2016,2027
+B52LZZ,None,B52LZ,2016,2027
+B52LZZZ,Computerized Tomography (CT Scan) of Bilateral Renal Veins,B52LZZ,2016,2027
+B52Q,"Pulmonary Vein, Right",B52,2016,2027
+B52Q0,High Osmolar,B52Q,2016,2027
+B52Q00,Unenhanced and Enhanced,B52Q0,2016,2027
+B52Q00Z,"Computerized Tomography (CT Scan) of Right Pulmonary Vein using High Osmolar Contrast, Unenhanced and Enhanced",B52Q00,2016,2027
+B52Q0Z,None,B52Q0,2016,2027
+B52Q0ZZ,Computerized Tomography (CT Scan) of Right Pulmonary Vein using High Osmolar Contrast,B52Q0Z,2016,2027
+B52Q1,Low Osmolar,B52Q,2016,2027
+B52Q10,Unenhanced and Enhanced,B52Q1,2016,2027
+B52Q10Z,"Computerized Tomography (CT Scan) of Right Pulmonary Vein using Low Osmolar Contrast, Unenhanced and Enhanced",B52Q10,2016,2027
+B52Q1Z,None,B52Q1,2016,2027
+B52Q1ZZ,Computerized Tomography (CT Scan) of Right Pulmonary Vein using Low Osmolar Contrast,B52Q1Z,2016,2027
+B52QY,Other Contrast,B52Q,2016,2027
+B52QY0,Unenhanced and Enhanced,B52QY,2016,2027
+B52QY0Z,"Computerized Tomography (CT Scan) of Right Pulmonary Vein using Other Contrast, Unenhanced and Enhanced",B52QY0,2016,2027
+B52QYZ,None,B52QY,2016,2027
+B52QYZZ,Computerized Tomography (CT Scan) of Right Pulmonary Vein using Other Contrast,B52QYZ,2016,2027
+B52QZ,None,B52Q,2016,2027
+B52QZ2,Intravascular Optical Coherence,B52QZ,2016,2027
+B52QZ2Z,Computerized Tomography (CT Scan) of Right Pulmonary Vein using Intravascular Optical Coherence,B52QZ2,2016,2027
+B52QZZ,None,B52QZ,2016,2027
+B52QZZZ,Computerized Tomography (CT Scan) of Right Pulmonary Vein,B52QZZ,2016,2027
+B52R,"Pulmonary Vein, Left",B52,2016,2027
+B52R0,High Osmolar,B52R,2016,2027
+B52R00,Unenhanced and Enhanced,B52R0,2016,2027
+B52R00Z,"Computerized Tomography (CT Scan) of Left Pulmonary Vein using High Osmolar Contrast, Unenhanced and Enhanced",B52R00,2016,2027
+B52R0Z,None,B52R0,2016,2027
+B52R0ZZ,Computerized Tomography (CT Scan) of Left Pulmonary Vein using High Osmolar Contrast,B52R0Z,2016,2027
+B52R1,Low Osmolar,B52R,2016,2027
+B52R10,Unenhanced and Enhanced,B52R1,2016,2027
+B52R10Z,"Computerized Tomography (CT Scan) of Left Pulmonary Vein using Low Osmolar Contrast, Unenhanced and Enhanced",B52R10,2016,2027
+B52R1Z,None,B52R1,2016,2027
+B52R1ZZ,Computerized Tomography (CT Scan) of Left Pulmonary Vein using Low Osmolar Contrast,B52R1Z,2016,2027
+B52RY,Other Contrast,B52R,2016,2027
+B52RY0,Unenhanced and Enhanced,B52RY,2016,2027
+B52RY0Z,"Computerized Tomography (CT Scan) of Left Pulmonary Vein using Other Contrast, Unenhanced and Enhanced",B52RY0,2016,2027
+B52RYZ,None,B52RY,2016,2027
+B52RYZZ,Computerized Tomography (CT Scan) of Left Pulmonary Vein using Other Contrast,B52RYZ,2016,2027
+B52RZ,None,B52R,2016,2027
+B52RZ2,Intravascular Optical Coherence,B52RZ,2016,2027
+B52RZ2Z,Computerized Tomography (CT Scan) of Left Pulmonary Vein using Intravascular Optical Coherence,B52RZ2,2016,2027
+B52RZZ,None,B52RZ,2016,2027
+B52RZZZ,Computerized Tomography (CT Scan) of Left Pulmonary Vein,B52RZZ,2016,2027
+B52S,"Pulmonary Veins, Bilateral",B52,2016,2027
+B52S0,High Osmolar,B52S,2016,2027
+B52S00,Unenhanced and Enhanced,B52S0,2016,2027
+B52S00Z,"Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using High Osmolar Contrast, Unenhanced and Enhanced",B52S00,2016,2027
+B52S0Z,None,B52S0,2016,2027
+B52S0ZZ,Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using High Osmolar Contrast,B52S0Z,2016,2027
+B52S1,Low Osmolar,B52S,2016,2027
+B52S10,Unenhanced and Enhanced,B52S1,2016,2027
+B52S10Z,"Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using Low Osmolar Contrast, Unenhanced and Enhanced",B52S10,2016,2027
+B52S1Z,None,B52S1,2016,2027
+B52S1ZZ,Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using Low Osmolar Contrast,B52S1Z,2016,2027
+B52SY,Other Contrast,B52S,2016,2027
+B52SY0,Unenhanced and Enhanced,B52SY,2016,2027
+B52SY0Z,"Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using Other Contrast, Unenhanced and Enhanced",B52SY0,2016,2027
+B52SYZ,None,B52SY,2016,2027
+B52SYZZ,Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using Other Contrast,B52SYZ,2016,2027
+B52SZ,None,B52S,2016,2027
+B52SZ2,Intravascular Optical Coherence,B52SZ,2016,2027
+B52SZ2Z,Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins using Intravascular Optical Coherence,B52SZ2,2016,2027
+B52SZZ,None,B52SZ,2016,2027
+B52SZZZ,Computerized Tomography (CT Scan) of Bilateral Pulmonary Veins,B52SZZ,2016,2027
+B52T,Portal and Splanchnic Veins,B52,2016,2027
+B52T0,High Osmolar,B52T,2016,2027
+B52T00,Unenhanced and Enhanced,B52T0,2016,2027
+B52T00Z,"Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using High Osmolar Contrast, Unenhanced and Enhanced",B52T00,2016,2027
+B52T0Z,None,B52T0,2016,2027
+B52T0ZZ,Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using High Osmolar Contrast,B52T0Z,2016,2027
+B52T1,Low Osmolar,B52T,2016,2027
+B52T10,Unenhanced and Enhanced,B52T1,2016,2027
+B52T10Z,"Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using Low Osmolar Contrast, Unenhanced and Enhanced",B52T10,2016,2027
+B52T1Z,None,B52T1,2016,2027
+B52T1ZZ,Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using Low Osmolar Contrast,B52T1Z,2016,2027
+B52TY,Other Contrast,B52T,2016,2027
+B52TY0,Unenhanced and Enhanced,B52TY,2016,2027
+B52TY0Z,"Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using Other Contrast, Unenhanced and Enhanced",B52TY0,2016,2027
+B52TYZ,None,B52TY,2016,2027
+B52TYZZ,Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using Other Contrast,B52TYZ,2016,2027
+B52TZ,None,B52T,2016,2027
+B52TZ2,Intravascular Optical Coherence,B52TZ,2016,2027
+B52TZ2Z,Computerized Tomography (CT Scan) of Portal and Splanchnic Veins using Intravascular Optical Coherence,B52TZ2,2016,2027
+B52TZZ,None,B52TZ,2016,2027
+B52TZZZ,Computerized Tomography (CT Scan) of Portal and Splanchnic Veins,B52TZZ,2016,2027
+B53,Magnetic Resonance Imaging (MRI),B5,2016,2027
+B531,Cerebral and Cerebellar Veins,B53,2016,2027
+B531Y,Other Contrast,B531,2016,2027
+B531Y0,Unenhanced and Enhanced,B531Y,2016,2027
+B531Y0Z,"Magnetic Resonance Imaging (MRI) of Cerebral and Cerebellar Veins using Other Contrast, Unenhanced and Enhanced",B531Y0,2016,2027
+B531YZ,None,B531Y,2016,2027
+B531YZZ,Magnetic Resonance Imaging (MRI) of Cerebral and Cerebellar Veins using Other Contrast,B531YZ,2016,2027
+B531Z,None,B531,2016,2027
+B531ZZ,None,B531Z,2016,2027
+B531ZZZ,Magnetic Resonance Imaging (MRI) of Cerebral and Cerebellar Veins,B531ZZ,2016,2027
+B532,Intracranial Sinuses,B53,2016,2027
+B532Y,Other Contrast,B532,2016,2027
+B532Y0,Unenhanced and Enhanced,B532Y,2016,2027
+B532Y0Z,"Magnetic Resonance Imaging (MRI) of Intracranial Sinuses using Other Contrast, Unenhanced and Enhanced",B532Y0,2016,2027
+B532YZ,None,B532Y,2016,2027
+B532YZZ,Magnetic Resonance Imaging (MRI) of Intracranial Sinuses using Other Contrast,B532YZ,2016,2027
+B532Z,None,B532,2016,2027
+B532ZZ,None,B532Z,2016,2027
+B532ZZZ,Magnetic Resonance Imaging (MRI) of Intracranial Sinuses,B532ZZ,2016,2027
+B535,"Jugular Veins, Bilateral",B53,2016,2027
+B535Y,Other Contrast,B535,2016,2027
+B535Y0,Unenhanced and Enhanced,B535Y,2016,2027
+B535Y0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Jugular Veins using Other Contrast, Unenhanced and Enhanced",B535Y0,2016,2027
+B535YZ,None,B535Y,2016,2027
+B535YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Jugular Veins using Other Contrast,B535YZ,2016,2027
+B535Z,None,B535,2016,2027
+B535ZZ,None,B535Z,2016,2027
+B535ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Jugular Veins,B535ZZ,2016,2027
+B538,Superior Vena Cava,B53,2016,2027
+B538Y,Other Contrast,B538,2016,2027
+B538Y0,Unenhanced and Enhanced,B538Y,2016,2027
+B538Y0Z,"Magnetic Resonance Imaging (MRI) of Superior Vena Cava using Other Contrast, Unenhanced and Enhanced",B538Y0,2016,2027
+B538YZ,None,B538Y,2016,2027
+B538YZZ,Magnetic Resonance Imaging (MRI) of Superior Vena Cava using Other Contrast,B538YZ,2016,2027
+B538Z,None,B538,2016,2027
+B538ZZ,None,B538Z,2016,2027
+B538ZZZ,Magnetic Resonance Imaging (MRI) of Superior Vena Cava,B538ZZ,2016,2027
+B539,Inferior Vena Cava,B53,2016,2027
+B539Y,Other Contrast,B539,2016,2027
+B539Y0,Unenhanced and Enhanced,B539Y,2016,2027
+B539Y0Z,"Magnetic Resonance Imaging (MRI) of Inferior Vena Cava using Other Contrast, Unenhanced and Enhanced",B539Y0,2016,2027
+B539YZ,None,B539Y,2016,2027
+B539YZZ,Magnetic Resonance Imaging (MRI) of Inferior Vena Cava using Other Contrast,B539YZ,2016,2027
+B539Z,None,B539,2016,2027
+B539ZZ,None,B539Z,2016,2027
+B539ZZZ,Magnetic Resonance Imaging (MRI) of Inferior Vena Cava,B539ZZ,2016,2027
+B53B,"Lower Extremity Veins, Right",B53,2016,2027
+B53BY,Other Contrast,B53B,2016,2027
+B53BY0,Unenhanced and Enhanced,B53BY,2016,2027
+B53BY0Z,"Magnetic Resonance Imaging (MRI) of Right Lower Extremity Veins using Other Contrast, Unenhanced and Enhanced",B53BY0,2016,2027
+B53BYZ,None,B53BY,2016,2027
+B53BYZZ,Magnetic Resonance Imaging (MRI) of Right Lower Extremity Veins using Other Contrast,B53BYZ,2016,2027
+B53BZ,None,B53B,2016,2027
+B53BZZ,None,B53BZ,2016,2027
+B53BZZZ,Magnetic Resonance Imaging (MRI) of Right Lower Extremity Veins,B53BZZ,2016,2027
+B53C,"Lower Extremity Veins, Left",B53,2016,2027
+B53CY,Other Contrast,B53C,2016,2027
+B53CY0,Unenhanced and Enhanced,B53CY,2016,2027
+B53CY0Z,"Magnetic Resonance Imaging (MRI) of Left Lower Extremity Veins using Other Contrast, Unenhanced and Enhanced",B53CY0,2016,2027
+B53CYZ,None,B53CY,2016,2027
+B53CYZZ,Magnetic Resonance Imaging (MRI) of Left Lower Extremity Veins using Other Contrast,B53CYZ,2016,2027
+B53CZ,None,B53C,2016,2027
+B53CZZ,None,B53CZ,2016,2027
+B53CZZZ,Magnetic Resonance Imaging (MRI) of Left Lower Extremity Veins,B53CZZ,2016,2027
+B53D,"Lower Extremity Veins, Bilateral",B53,2016,2027
+B53DY,Other Contrast,B53D,2016,2027
+B53DY0,Unenhanced and Enhanced,B53DY,2016,2027
+B53DY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Lower Extremity Veins using Other Contrast, Unenhanced and Enhanced",B53DY0,2016,2027
+B53DYZ,None,B53DY,2016,2027
+B53DYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Lower Extremity Veins using Other Contrast,B53DYZ,2016,2027
+B53DZ,None,B53D,2016,2027
+B53DZZ,None,B53DZ,2016,2027
+B53DZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Lower Extremity Veins,B53DZZ,2016,2027
+B53H,"Pelvic (Iliac) Veins, Bilateral",B53,2016,2027
+B53HY,Other Contrast,B53H,2016,2027
+B53HY0,Unenhanced and Enhanced,B53HY,2016,2027
+B53HY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Pelvic (Iliac) Veins using Other Contrast, Unenhanced and Enhanced",B53HY0,2016,2027
+B53HYZ,None,B53HY,2016,2027
+B53HYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Pelvic (Iliac) Veins using Other Contrast,B53HYZ,2016,2027
+B53HZ,None,B53H,2016,2027
+B53HZZ,None,B53HZ,2016,2027
+B53HZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Pelvic (Iliac) Veins,B53HZZ,2016,2027
+B53L,"Renal Veins, Bilateral",B53,2016,2027
+B53LY,Other Contrast,B53L,2016,2027
+B53LY0,Unenhanced and Enhanced,B53LY,2016,2027
+B53LY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Renal Veins using Other Contrast, Unenhanced and Enhanced",B53LY0,2016,2027
+B53LYZ,None,B53LY,2016,2027
+B53LYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Renal Veins using Other Contrast,B53LYZ,2016,2027
+B53LZ,None,B53L,2016,2027
+B53LZZ,None,B53LZ,2016,2027
+B53LZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Renal Veins,B53LZZ,2016,2027
+B53M,"Upper Extremity Veins, Right",B53,2016,2027
+B53MY,Other Contrast,B53M,2016,2027
+B53MY0,Unenhanced and Enhanced,B53MY,2016,2027
+B53MY0Z,"Magnetic Resonance Imaging (MRI) of Right Upper Extremity Veins using Other Contrast, Unenhanced and Enhanced",B53MY0,2016,2027
+B53MYZ,None,B53MY,2016,2027
+B53MYZZ,Magnetic Resonance Imaging (MRI) of Right Upper Extremity Veins using Other Contrast,B53MYZ,2016,2027
+B53MZ,None,B53M,2016,2027
+B53MZZ,None,B53MZ,2016,2027
+B53MZZZ,Magnetic Resonance Imaging (MRI) of Right Upper Extremity Veins,B53MZZ,2016,2027
+B53N,"Upper Extremity Veins, Left",B53,2016,2027
+B53NY,Other Contrast,B53N,2016,2027
+B53NY0,Unenhanced and Enhanced,B53NY,2016,2027
+B53NY0Z,"Magnetic Resonance Imaging (MRI) of Left Upper Extremity Veins using Other Contrast, Unenhanced and Enhanced",B53NY0,2016,2027
+B53NYZ,None,B53NY,2016,2027
+B53NYZZ,Magnetic Resonance Imaging (MRI) of Left Upper Extremity Veins using Other Contrast,B53NYZ,2016,2027
+B53NZ,None,B53N,2016,2027
+B53NZZ,None,B53NZ,2016,2027
+B53NZZZ,Magnetic Resonance Imaging (MRI) of Left Upper Extremity Veins,B53NZZ,2016,2027
+B53P,"Upper Extremity Veins, Bilateral",B53,2016,2027
+B53PY,Other Contrast,B53P,2016,2027
+B53PY0,Unenhanced and Enhanced,B53PY,2016,2027
+B53PY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Upper Extremity Veins using Other Contrast, Unenhanced and Enhanced",B53PY0,2016,2027
+B53PYZ,None,B53PY,2016,2027
+B53PYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Upper Extremity Veins using Other Contrast,B53PYZ,2016,2027
+B53PZ,None,B53P,2016,2027
+B53PZZ,None,B53PZ,2016,2027
+B53PZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Upper Extremity Veins,B53PZZ,2016,2027
+B53S,"Pulmonary Veins, Bilateral",B53,2016,2027
+B53SY,Other Contrast,B53S,2016,2027
+B53SY0,Unenhanced and Enhanced,B53SY,2016,2027
+B53SY0Z,"Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins using Other Contrast, Unenhanced and Enhanced",B53SY0,2016,2027
+B53SYZ,None,B53SY,2016,2027
+B53SYZZ,Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins using Other Contrast,B53SYZ,2016,2027
+B53SZ,None,B53S,2016,2027
+B53SZZ,None,B53SZ,2016,2027
+B53SZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Pulmonary Veins,B53SZZ,2016,2027
+B53T,Portal and Splanchnic Veins,B53,2016,2027
+B53TY,Other Contrast,B53T,2016,2027
+B53TY0,Unenhanced and Enhanced,B53TY,2016,2027
+B53TY0Z,"Magnetic Resonance Imaging (MRI) of Portal and Splanchnic Veins using Other Contrast, Unenhanced and Enhanced",B53TY0,2016,2027
+B53TYZ,None,B53TY,2016,2027
+B53TYZZ,Magnetic Resonance Imaging (MRI) of Portal and Splanchnic Veins using Other Contrast,B53TYZ,2016,2027
+B53TZ,None,B53T,2016,2027
+B53TZZ,None,B53TZ,2016,2027
+B53TZZZ,Magnetic Resonance Imaging (MRI) of Portal and Splanchnic Veins,B53TZZ,2016,2027
+B53V,"Veins, Other",B53,2016,2027
+B53VY,Other Contrast,B53V,2016,2027
+B53VY0,Unenhanced and Enhanced,B53VY,2016,2027
+B53VY0Z,"Magnetic Resonance Imaging (MRI) of Other Veins using Other Contrast, Unenhanced and Enhanced",B53VY0,2016,2027
+B53VYZ,None,B53VY,2016,2027
+B53VYZZ,Magnetic Resonance Imaging (MRI) of Other Veins using Other Contrast,B53VYZ,2016,2027
+B53VZ,None,B53V,2016,2027
+B53VZZ,None,B53VZ,2016,2027
+B53VZZZ,Magnetic Resonance Imaging (MRI) of Other Veins,B53VZZ,2016,2027
+B54,Ultrasonography,B5,2016,2027
+B543,"Jugular Veins, Right",B54,2016,2027
+B543Z,None,B543,2016,2027
+B543ZZ,None,B543Z,2016,2027
+B543ZZ3,"Ultrasonography of Right Jugular Veins, Intravascular",B543ZZ,2016,2027
+B543ZZA,"Ultrasonography of Right Jugular Veins, Guidance",B543ZZ,2016,2027
+B543ZZZ,Ultrasonography of Right Jugular Veins,B543ZZ,2016,2027
+B544,"Jugular Veins, Left",B54,2016,2027
+B544Z,None,B544,2016,2027
+B544ZZ,None,B544Z,2016,2027
+B544ZZ3,"Ultrasonography of Left Jugular Veins, Intravascular",B544ZZ,2016,2027
+B544ZZA,"Ultrasonography of Left Jugular Veins, Guidance",B544ZZ,2016,2027
+B544ZZZ,Ultrasonography of Left Jugular Veins,B544ZZ,2016,2027
+B546,"Subclavian Vein, Right",B54,2016,2027
+B546Z,None,B546,2016,2027
+B546ZZ,None,B546Z,2016,2027
+B546ZZ3,"Ultrasonography of Right Subclavian Vein, Intravascular",B546ZZ,2016,2027
+B546ZZA,"Ultrasonography of Right Subclavian Vein, Guidance",B546ZZ,2016,2027
+B546ZZZ,Ultrasonography of Right Subclavian Vein,B546ZZ,2016,2027
+B547,"Subclavian Vein, Left",B54,2016,2027
+B547Z,None,B547,2016,2027
+B547ZZ,None,B547Z,2016,2027
+B547ZZ3,"Ultrasonography of Left Subclavian Vein, Intravascular",B547ZZ,2016,2027
+B547ZZA,"Ultrasonography of Left Subclavian Vein, Guidance",B547ZZ,2016,2027
+B547ZZZ,Ultrasonography of Left Subclavian Vein,B547ZZ,2016,2027
+B548,Superior Vena Cava,B54,2016,2027
+B548Z,None,B548,2016,2027
+B548ZZ,None,B548Z,2016,2027
+B548ZZ3,"Ultrasonography of Superior Vena Cava, Intravascular",B548ZZ,2016,2027
+B548ZZA,"Ultrasonography of Superior Vena Cava, Guidance",B548ZZ,2016,2027
+B548ZZZ,Ultrasonography of Superior Vena Cava,B548ZZ,2016,2027
+B549,Inferior Vena Cava,B54,2016,2027
+B549Z,None,B549,2016,2027
+B549ZZ,None,B549Z,2016,2027
+B549ZZ3,"Ultrasonography of Inferior Vena Cava, Intravascular",B549ZZ,2016,2027
+B549ZZA,"Ultrasonography of Inferior Vena Cava, Guidance",B549ZZ,2016,2027
+B549ZZZ,Ultrasonography of Inferior Vena Cava,B549ZZ,2016,2027
+B54B,"Lower Extremity Veins, Right",B54,2016,2027
+B54BZ,None,B54B,2016,2027
+B54BZZ,None,B54BZ,2016,2027
+B54BZZ3,"Ultrasonography of Right Lower Extremity Veins, Intravascular",B54BZZ,2016,2027
+B54BZZA,"Ultrasonography of Right Lower Extremity Veins, Guidance",B54BZZ,2016,2027
+B54BZZZ,Ultrasonography of Right Lower Extremity Veins,B54BZZ,2016,2027
+B54C,"Lower Extremity Veins, Left",B54,2016,2027
+B54CZ,None,B54C,2016,2027
+B54CZZ,None,B54CZ,2016,2027
+B54CZZ3,"Ultrasonography of Left Lower Extremity Veins, Intravascular",B54CZZ,2016,2027
+B54CZZA,"Ultrasonography of Left Lower Extremity Veins, Guidance",B54CZZ,2016,2027
+B54CZZZ,Ultrasonography of Left Lower Extremity Veins,B54CZZ,2016,2027
+B54D,"Lower Extremity Veins, Bilateral",B54,2016,2027
+B54DZ,None,B54D,2016,2027
+B54DZZ,None,B54DZ,2016,2027
+B54DZZ3,"Ultrasonography of Bilateral Lower Extremity Veins, Intravascular",B54DZZ,2016,2027
+B54DZZA,"Ultrasonography of Bilateral Lower Extremity Veins, Guidance",B54DZZ,2016,2027
+B54DZZZ,Ultrasonography of Bilateral Lower Extremity Veins,B54DZZ,2016,2027
+B54J,"Renal Vein, Right",B54,2016,2027
+B54JZ,None,B54J,2016,2027
+B54JZZ,None,B54JZ,2016,2027
+B54JZZ3,"Ultrasonography of Right Renal Vein, Intravascular",B54JZZ,2016,2027
+B54JZZA,"Ultrasonography of Right Renal Vein, Guidance",B54JZZ,2016,2027
+B54JZZZ,Ultrasonography of Right Renal Vein,B54JZZ,2016,2027
+B54K,"Renal Vein, Left",B54,2016,2027
+B54KZ,None,B54K,2016,2027
+B54KZZ,None,B54KZ,2016,2027
+B54KZZ3,"Ultrasonography of Left Renal Vein, Intravascular",B54KZZ,2016,2027
+B54KZZA,"Ultrasonography of Left Renal Vein, Guidance",B54KZZ,2016,2027
+B54KZZZ,Ultrasonography of Left Renal Vein,B54KZZ,2016,2027
+B54L,"Renal Veins, Bilateral",B54,2016,2027
+B54LZ,None,B54L,2016,2027
+B54LZZ,None,B54LZ,2016,2027
+B54LZZ3,"Ultrasonography of Bilateral Renal Veins, Intravascular",B54LZZ,2016,2027
+B54LZZA,"Ultrasonography of Bilateral Renal Veins, Guidance",B54LZZ,2016,2027
+B54LZZZ,Ultrasonography of Bilateral Renal Veins,B54LZZ,2016,2027
+B54M,"Upper Extremity Veins, Right",B54,2016,2027
+B54MZ,None,B54M,2016,2027
+B54MZZ,None,B54MZ,2016,2027
+B54MZZ3,"Ultrasonography of Right Upper Extremity Veins, Intravascular",B54MZZ,2016,2027
+B54MZZA,"Ultrasonography of Right Upper Extremity Veins, Guidance",B54MZZ,2016,2027
+B54MZZZ,Ultrasonography of Right Upper Extremity Veins,B54MZZ,2016,2027
+B54N,"Upper Extremity Veins, Left",B54,2016,2027
+B54NZ,None,B54N,2016,2027
+B54NZZ,None,B54NZ,2016,2027
+B54NZZ3,"Ultrasonography of Left Upper Extremity Veins, Intravascular",B54NZZ,2016,2027
+B54NZZA,"Ultrasonography of Left Upper Extremity Veins, Guidance",B54NZZ,2016,2027
+B54NZZZ,Ultrasonography of Left Upper Extremity Veins,B54NZZ,2016,2027
+B54P,"Upper Extremity Veins, Bilateral",B54,2016,2027
+B54PZ,None,B54P,2016,2027
+B54PZZ,None,B54PZ,2016,2027
+B54PZZ3,"Ultrasonography of Bilateral Upper Extremity Veins, Intravascular",B54PZZ,2016,2027
+B54PZZA,"Ultrasonography of Bilateral Upper Extremity Veins, Guidance",B54PZZ,2016,2027
+B54PZZZ,Ultrasonography of Bilateral Upper Extremity Veins,B54PZZ,2016,2027
+B54T,Portal and Splanchnic Veins,B54,2016,2027
+B54TZ,None,B54T,2016,2027
+B54TZZ,None,B54TZ,2016,2027
+B54TZZ3,"Ultrasonography of Portal and Splanchnic Veins, Intravascular",B54TZZ,2016,2027
+B54TZZA,"Ultrasonography of Portal and Splanchnic Veins, Guidance",B54TZZ,2016,2027
+B54TZZZ,Ultrasonography of Portal and Splanchnic Veins,B54TZZ,2016,2027

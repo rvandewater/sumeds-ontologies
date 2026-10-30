@@ -1,0 +1,104 @@
+code,description,parent,first_year,last_year
+BD,Gastrointestinal System,B,2016,2027
+BD1,Fluoroscopy,BD,2016,2027
+BD11,Esophagus,BD1,2016,2027
+BD11Y,Other Contrast,BD11,2016,2027
+BD11YZ,None,BD11Y,2016,2027
+BD11YZZ,Fluoroscopy of Esophagus using Other Contrast,BD11YZ,2016,2027
+BD11Z,None,BD11,2016,2027
+BD11ZZ,None,BD11Z,2016,2027
+BD11ZZZ,Fluoroscopy of Esophagus,BD11ZZ,2016,2027
+BD12,Stomach,BD1,2016,2027
+BD12Y,Other Contrast,BD12,2016,2027
+BD12YZ,None,BD12Y,2016,2027
+BD12YZZ,Fluoroscopy of Stomach using Other Contrast,BD12YZ,2016,2027
+BD12Z,None,BD12,2016,2027
+BD12ZZ,None,BD12Z,2016,2027
+BD12ZZZ,Fluoroscopy of Stomach,BD12ZZ,2016,2027
+BD13,Small Bowel,BD1,2016,2027
+BD13Y,Other Contrast,BD13,2016,2027
+BD13YZ,None,BD13Y,2016,2027
+BD13YZZ,Fluoroscopy of Small Bowel using Other Contrast,BD13YZ,2016,2027
+BD13Z,None,BD13,2016,2027
+BD13ZZ,None,BD13Z,2016,2027
+BD13ZZZ,Fluoroscopy of Small Bowel,BD13ZZ,2016,2027
+BD14,Colon,BD1,2016,2027
+BD14Y,Other Contrast,BD14,2016,2027
+BD14YZ,None,BD14Y,2016,2027
+BD14YZZ,Fluoroscopy of Colon using Other Contrast,BD14YZ,2016,2027
+BD14Z,None,BD14,2016,2027
+BD14ZZ,None,BD14Z,2016,2027
+BD14ZZZ,Fluoroscopy of Colon,BD14ZZ,2016,2027
+BD15,Upper GI,BD1,2016,2027
+BD15Y,Other Contrast,BD15,2016,2027
+BD15YZ,None,BD15Y,2016,2027
+BD15YZZ,Fluoroscopy of Upper GI using Other Contrast,BD15YZ,2016,2027
+BD15Z,None,BD15,2016,2027
+BD15ZZ,None,BD15Z,2016,2027
+BD15ZZZ,Fluoroscopy of Upper GI,BD15ZZ,2016,2027
+BD16,Upper GI and Small Bowel,BD1,2016,2027
+BD16Y,Other Contrast,BD16,2016,2027
+BD16YZ,None,BD16Y,2016,2027
+BD16YZZ,Fluoroscopy of Upper GI and Small Bowel using Other Contrast,BD16YZ,2016,2027
+BD16Z,None,BD16,2016,2027
+BD16ZZ,None,BD16Z,2016,2027
+BD16ZZZ,Fluoroscopy of Upper GI and Small Bowel,BD16ZZ,2016,2027
+BD19,Duodenum,BD1,2016,2027
+BD19Y,Other Contrast,BD19,2016,2027
+BD19YZ,None,BD19Y,2016,2027
+BD19YZZ,Fluoroscopy of Duodenum using Other Contrast,BD19YZ,2016,2027
+BD19Z,None,BD19,2016,2027
+BD19ZZ,None,BD19Z,2016,2027
+BD19ZZZ,Fluoroscopy of Duodenum,BD19ZZ,2016,2027
+BD1B,Mouth/Oropharynx,BD1,2016,2027
+BD1BY,Other Contrast,BD1B,2016,2027
+BD1BYZ,None,BD1BY,2016,2027
+BD1BYZZ,Fluoroscopy of Mouth/Oropharynx using Other Contrast,BD1BYZ,2016,2027
+BD1BZ,None,BD1B,2016,2027
+BD1BZZ,None,BD1BZ,2016,2027
+BD1BZZZ,Fluoroscopy of Mouth/Oropharynx,BD1BZZ,2016,2027
+BD2,Computerized Tomography (CT Scan),BD,2016,2027
+BD24,Colon,BD2,2016,2027
+BD240,High Osmolar,BD24,2016,2027
+BD2400,Unenhanced and Enhanced,BD240,2016,2027
+BD2400Z,"Computerized Tomography (CT Scan) of Colon using High Osmolar Contrast, Unenhanced and Enhanced",BD2400,2016,2027
+BD240Z,None,BD240,2016,2027
+BD240ZZ,Computerized Tomography (CT Scan) of Colon using High Osmolar Contrast,BD240Z,2016,2027
+BD241,Low Osmolar,BD24,2016,2027
+BD2410,Unenhanced and Enhanced,BD241,2016,2027
+BD2410Z,"Computerized Tomography (CT Scan) of Colon using Low Osmolar Contrast, Unenhanced and Enhanced",BD2410,2016,2027
+BD241Z,None,BD241,2016,2027
+BD241ZZ,Computerized Tomography (CT Scan) of Colon using Low Osmolar Contrast,BD241Z,2016,2027
+BD24Y,Other Contrast,BD24,2016,2027
+BD24Y0,Unenhanced and Enhanced,BD24Y,2016,2027
+BD24Y0Z,"Computerized Tomography (CT Scan) of Colon using Other Contrast, Unenhanced and Enhanced",BD24Y0,2016,2027
+BD24YZ,None,BD24Y,2016,2027
+BD24YZZ,Computerized Tomography (CT Scan) of Colon using Other Contrast,BD24YZ,2016,2027
+BD24Z,None,BD24,2016,2027
+BD24ZZ,None,BD24Z,2016,2027
+BD24ZZZ,Computerized Tomography (CT Scan) of Colon,BD24ZZ,2016,2027
+BD4,Ultrasonography,BD,2016,2027
+BD41,Esophagus,BD4,2016,2027
+BD41Z,None,BD41,2016,2027
+BD41ZZ,None,BD41Z,2016,2027
+BD41ZZZ,Ultrasonography of Esophagus,BD41ZZ,2016,2027
+BD42,Stomach,BD4,2016,2027
+BD42Z,None,BD42,2016,2027
+BD42ZZ,None,BD42Z,2016,2027
+BD42ZZZ,Ultrasonography of Stomach,BD42ZZ,2016,2027
+BD47,Gastrointestinal Tract,BD4,2016,2027
+BD47Z,None,BD47,2016,2027
+BD47ZZ,None,BD47Z,2016,2027
+BD47ZZZ,Ultrasonography of Gastrointestinal Tract,BD47ZZ,2016,2027
+BD48,Appendix,BD4,2016,2027
+BD48Z,None,BD48,2016,2027
+BD48ZZ,None,BD48Z,2016,2027
+BD48ZZZ,Ultrasonography of Appendix,BD48ZZ,2016,2027
+BD49,Duodenum,BD4,2016,2027
+BD49Z,None,BD49,2016,2027
+BD49ZZ,None,BD49Z,2016,2027
+BD49ZZZ,Ultrasonography of Duodenum,BD49ZZ,2016,2027
+BD4C,Rectum,BD4,2016,2027
+BD4CZ,None,BD4C,2016,2027
+BD4CZZ,None,BD4CZ,2016,2027
+BD4CZZZ,Ultrasonography of Rectum,BD4CZZ,2016,2027

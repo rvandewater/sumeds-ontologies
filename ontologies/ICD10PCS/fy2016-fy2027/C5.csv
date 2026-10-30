@@ -1,0 +1,56 @@
+code,description,parent,first_year,last_year
+C5,Veins,C,2016,2027
+C51,Planar Nuclear Medicine Imaging,C5,2016,2027
+C51B,"Lower Extremity Veins, Right",C51,2016,2027
+C51B1,Technetium 99m (Tc-99m),C51B,2016,2027
+C51B1Z,None,C51B1,2016,2027
+C51B1ZZ,Planar Nuclear Medicine Imaging of Right Lower Extremity Veins using Technetium 99m (Tc-99m),C51B1Z,2016,2027
+C51BY,Other Radionuclide,C51B,2016,2027
+C51BYZ,None,C51BY,2016,2027
+C51BYZZ,Planar Nuclear Medicine Imaging of Right Lower Extremity Veins using Other Radionuclide,C51BYZ,2016,2027
+C51C,"Lower Extremity Veins, Left",C51,2016,2027
+C51C1,Technetium 99m (Tc-99m),C51C,2016,2027
+C51C1Z,None,C51C1,2016,2027
+C51C1ZZ,Planar Nuclear Medicine Imaging of Left Lower Extremity Veins using Technetium 99m (Tc-99m),C51C1Z,2016,2027
+C51CY,Other Radionuclide,C51C,2016,2027
+C51CYZ,None,C51CY,2016,2027
+C51CYZZ,Planar Nuclear Medicine Imaging of Left Lower Extremity Veins using Other Radionuclide,C51CYZ,2016,2027
+C51D,"Lower Extremity Veins, Bilateral",C51,2016,2027
+C51D1,Technetium 99m (Tc-99m),C51D,2016,2027
+C51D1Z,None,C51D1,2016,2027
+C51D1ZZ,Planar Nuclear Medicine Imaging of Bilateral Lower Extremity Veins using Technetium 99m (Tc-99m),C51D1Z,2016,2027
+C51DY,Other Radionuclide,C51D,2016,2027
+C51DYZ,None,C51DY,2016,2027
+C51DYZZ,Planar Nuclear Medicine Imaging of Bilateral Lower Extremity Veins using Other Radionuclide,C51DYZ,2016,2027
+C51N,"Upper Extremity Veins, Right",C51,2016,2027
+C51N1,Technetium 99m (Tc-99m),C51N,2016,2027
+C51N1Z,None,C51N1,2016,2027
+C51N1ZZ,Planar Nuclear Medicine Imaging of Right Upper Extremity Veins using Technetium 99m (Tc-99m),C51N1Z,2016,2027
+C51NY,Other Radionuclide,C51N,2016,2027
+C51NYZ,None,C51NY,2016,2027
+C51NYZZ,Planar Nuclear Medicine Imaging of Right Upper Extremity Veins using Other Radionuclide,C51NYZ,2016,2027
+C51P,"Upper Extremity Veins, Left",C51,2016,2027
+C51P1,Technetium 99m (Tc-99m),C51P,2016,2027
+C51P1Z,None,C51P1,2016,2027
+C51P1ZZ,Planar Nuclear Medicine Imaging of Left Upper Extremity Veins using Technetium 99m (Tc-99m),C51P1Z,2016,2027
+C51PY,Other Radionuclide,C51P,2016,2027
+C51PYZ,None,C51PY,2016,2027
+C51PYZZ,Planar Nuclear Medicine Imaging of Left Upper Extremity Veins using Other Radionuclide,C51PYZ,2016,2027
+C51Q,"Upper Extremity Veins, Bilateral",C51,2016,2027
+C51Q1,Technetium 99m (Tc-99m),C51Q,2016,2027
+C51Q1Z,None,C51Q1,2016,2027
+C51Q1ZZ,Planar Nuclear Medicine Imaging of Bilateral Upper Extremity Veins using Technetium 99m (Tc-99m),C51Q1Z,2016,2027
+C51QY,Other Radionuclide,C51Q,2016,2027
+C51QYZ,None,C51QY,2016,2027
+C51QYZZ,Planar Nuclear Medicine Imaging of Bilateral Upper Extremity Veins using Other Radionuclide,C51QYZ,2016,2027
+C51R,Central Veins,C51,2016,2027
+C51R1,Technetium 99m (Tc-99m),C51R,2016,2027
+C51R1Z,None,C51R1,2016,2027
+C51R1ZZ,Planar Nuclear Medicine Imaging of Central Veins using Technetium 99m (Tc-99m),C51R1Z,2016,2027
+C51RY,Other Radionuclide,C51R,2016,2027
+C51RYZ,None,C51RY,2016,2027
+C51RYZZ,Planar Nuclear Medicine Imaging of Central Veins using Other Radionuclide,C51RYZ,2016,2027
+C51Y,Veins,C51,2016,2027
+C51YY,Other Radionuclide,C51Y,2016,2027
+C51YYZ,None,C51YY,2016,2027
+C51YYZZ,Planar Nuclear Medicine Imaging of Veins using Other Radionuclide,C51YYZ,2016,2027

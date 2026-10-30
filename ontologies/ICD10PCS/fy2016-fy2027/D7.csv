@@ -1,0 +1,636 @@
+code,description,parent,first_year,last_year
+D7,Lymphatic and Hematologic System,D,2016,2027
+D70,Beam Radiation,D7,2016,2027
+D700,Bone Marrow,D70,2016,2027
+D7000,Photons <1 MeV,D700,2016,2027
+D7000Z,None,D7000,2016,2027
+D7000ZZ,Beam Radiation of Bone Marrow using Photons <1 MeV,D7000Z,2016,2027
+D7001,Photons 1 - 10 MeV,D700,2016,2027
+D7001Z,None,D7001,2016,2027
+D7001ZZ,Beam Radiation of Bone Marrow using Photons 1 - 10 MeV,D7001Z,2016,2027
+D7002,Photons >10 MeV,D700,2016,2027
+D7002Z,None,D7002,2016,2027
+D7002ZZ,Beam Radiation of Bone Marrow using Photons >10 MeV,D7002Z,2016,2027
+D7003,Electrons,D700,2016,2027
+D7003Z,None,D7003,2016,2027
+D7003Z0,"Beam Radiation of Bone Marrow using Electrons, Intraoperative",D7003Z,2016,2027
+D7003ZZ,Beam Radiation of Bone Marrow using Electrons,D7003Z,2016,2027
+D7004,"Heavy Particles (Protons,Ions)",D700,2016,2027
+D7004Z,None,D7004,2016,2027
+D7004ZZ,"Beam Radiation of Bone Marrow using Heavy Particles (Protons,Ions)",D7004Z,2016,2027
+D7005,Neutrons,D700,2016,2027
+D7005Z,None,D7005,2016,2027
+D7005ZZ,Beam Radiation of Bone Marrow using Neutrons,D7005Z,2016,2027
+D7006,Neutron Capture,D700,2016,2027
+D7006Z,None,D7006,2016,2027
+D7006ZZ,Beam Radiation of Bone Marrow using Neutron Capture,D7006Z,2016,2027
+D701,Thymus,D70,2016,2027
+D7010,Photons <1 MeV,D701,2016,2027
+D7010Z,None,D7010,2016,2027
+D7010ZZ,Beam Radiation of Thymus using Photons <1 MeV,D7010Z,2016,2027
+D7011,Photons 1 - 10 MeV,D701,2016,2027
+D7011Z,None,D7011,2016,2027
+D7011ZZ,Beam Radiation of Thymus using Photons 1 - 10 MeV,D7011Z,2016,2027
+D7012,Photons >10 MeV,D701,2016,2027
+D7012Z,None,D7012,2016,2027
+D7012ZZ,Beam Radiation of Thymus using Photons >10 MeV,D7012Z,2016,2027
+D7013,Electrons,D701,2016,2027
+D7013Z,None,D7013,2016,2027
+D7013Z0,"Beam Radiation of Thymus using Electrons, Intraoperative",D7013Z,2016,2027
+D7013ZZ,Beam Radiation of Thymus using Electrons,D7013Z,2016,2027
+D7014,"Heavy Particles (Protons,Ions)",D701,2016,2027
+D7014Z,None,D7014,2016,2027
+D7014ZZ,"Beam Radiation of Thymus using Heavy Particles (Protons,Ions)",D7014Z,2016,2027
+D7015,Neutrons,D701,2016,2027
+D7015Z,None,D7015,2016,2027
+D7015ZZ,Beam Radiation of Thymus using Neutrons,D7015Z,2016,2027
+D7016,Neutron Capture,D701,2016,2027
+D7016Z,None,D7016,2016,2027
+D7016ZZ,Beam Radiation of Thymus using Neutron Capture,D7016Z,2016,2027
+D702,Spleen,D70,2016,2027
+D7020,Photons <1 MeV,D702,2016,2027
+D7020Z,None,D7020,2016,2027
+D7020ZZ,Beam Radiation of Spleen using Photons <1 MeV,D7020Z,2016,2027
+D7021,Photons 1 - 10 MeV,D702,2016,2027
+D7021Z,None,D7021,2016,2027
+D7021ZZ,Beam Radiation of Spleen using Photons 1 - 10 MeV,D7021Z,2016,2027
+D7022,Photons >10 MeV,D702,2016,2027
+D7022Z,None,D7022,2016,2027
+D7022ZZ,Beam Radiation of Spleen using Photons >10 MeV,D7022Z,2016,2027
+D7023,Electrons,D702,2016,2027
+D7023Z,None,D7023,2016,2027
+D7023Z0,"Beam Radiation of Spleen using Electrons, Intraoperative",D7023Z,2016,2027
+D7023ZZ,Beam Radiation of Spleen using Electrons,D7023Z,2016,2027
+D7024,"Heavy Particles (Protons,Ions)",D702,2016,2027
+D7024Z,None,D7024,2016,2027
+D7024ZZ,"Beam Radiation of Spleen using Heavy Particles (Protons,Ions)",D7024Z,2016,2027
+D7025,Neutrons,D702,2016,2027
+D7025Z,None,D7025,2016,2027
+D7025ZZ,Beam Radiation of Spleen using Neutrons,D7025Z,2016,2027
+D7026,Neutron Capture,D702,2016,2027
+D7026Z,None,D7026,2016,2027
+D7026ZZ,Beam Radiation of Spleen using Neutron Capture,D7026Z,2016,2027
+D703,"Lymphatics, Neck",D70,2016,2027
+D7030,Photons <1 MeV,D703,2016,2027
+D7030Z,None,D7030,2016,2027
+D7030ZZ,Beam Radiation of Neck Lymphatics using Photons <1 MeV,D7030Z,2016,2027
+D7031,Photons 1 - 10 MeV,D703,2016,2027
+D7031Z,None,D7031,2016,2027
+D7031ZZ,Beam Radiation of Neck Lymphatics using Photons 1 - 10 MeV,D7031Z,2016,2027
+D7032,Photons >10 MeV,D703,2016,2027
+D7032Z,None,D7032,2016,2027
+D7032ZZ,Beam Radiation of Neck Lymphatics using Photons >10 MeV,D7032Z,2016,2027
+D7033,Electrons,D703,2016,2027
+D7033Z,None,D7033,2016,2027
+D7033Z0,"Beam Radiation of Neck Lymphatics using Electrons, Intraoperative",D7033Z,2016,2027
+D7033ZZ,Beam Radiation of Neck Lymphatics using Electrons,D7033Z,2016,2027
+D7034,"Heavy Particles (Protons,Ions)",D703,2016,2027
+D7034Z,None,D7034,2016,2027
+D7034ZZ,"Beam Radiation of Neck Lymphatics using Heavy Particles (Protons,Ions)",D7034Z,2016,2027
+D7035,Neutrons,D703,2016,2027
+D7035Z,None,D7035,2016,2027
+D7035ZZ,Beam Radiation of Neck Lymphatics using Neutrons,D7035Z,2016,2027
+D7036,Neutron Capture,D703,2016,2027
+D7036Z,None,D7036,2016,2027
+D7036ZZ,Beam Radiation of Neck Lymphatics using Neutron Capture,D7036Z,2016,2027
+D704,"Lymphatics, Axillary",D70,2016,2027
+D7040,Photons <1 MeV,D704,2016,2027
+D7040Z,None,D7040,2016,2027
+D7040ZZ,Beam Radiation of Axillary Lymphatics using Photons <1 MeV,D7040Z,2016,2027
+D7041,Photons 1 - 10 MeV,D704,2016,2027
+D7041Z,None,D7041,2016,2027
+D7041ZZ,Beam Radiation of Axillary Lymphatics using Photons 1 - 10 MeV,D7041Z,2016,2027
+D7042,Photons >10 MeV,D704,2016,2027
+D7042Z,None,D7042,2016,2027
+D7042ZZ,Beam Radiation of Axillary Lymphatics using Photons >10 MeV,D7042Z,2016,2027
+D7043,Electrons,D704,2016,2027
+D7043Z,None,D7043,2016,2027
+D7043Z0,"Beam Radiation of Axillary Lymphatics using Electrons, Intraoperative",D7043Z,2016,2027
+D7043ZZ,Beam Radiation of Axillary Lymphatics using Electrons,D7043Z,2016,2027
+D7044,"Heavy Particles (Protons,Ions)",D704,2016,2027
+D7044Z,None,D7044,2016,2027
+D7044ZZ,"Beam Radiation of Axillary Lymphatics using Heavy Particles (Protons,Ions)",D7044Z,2016,2027
+D7045,Neutrons,D704,2016,2027
+D7045Z,None,D7045,2016,2027
+D7045ZZ,Beam Radiation of Axillary Lymphatics using Neutrons,D7045Z,2016,2027
+D7046,Neutron Capture,D704,2016,2027
+D7046Z,None,D7046,2016,2027
+D7046ZZ,Beam Radiation of Axillary Lymphatics using Neutron Capture,D7046Z,2016,2027
+D705,"Lymphatics, Thorax",D70,2016,2027
+D7050,Photons <1 MeV,D705,2016,2027
+D7050Z,None,D7050,2016,2027
+D7050ZZ,Beam Radiation of Thorax Lymphatics using Photons <1 MeV,D7050Z,2016,2027
+D7051,Photons 1 - 10 MeV,D705,2016,2027
+D7051Z,None,D7051,2016,2027
+D7051ZZ,Beam Radiation of Thorax Lymphatics using Photons 1 - 10 MeV,D7051Z,2016,2027
+D7052,Photons >10 MeV,D705,2016,2027
+D7052Z,None,D7052,2016,2027
+D7052ZZ,Beam Radiation of Thorax Lymphatics using Photons >10 MeV,D7052Z,2016,2027
+D7053,Electrons,D705,2016,2027
+D7053Z,None,D7053,2016,2027
+D7053Z0,"Beam Radiation of Thorax Lymphatics using Electrons, Intraoperative",D7053Z,2016,2027
+D7053ZZ,Beam Radiation of Thorax Lymphatics using Electrons,D7053Z,2016,2027
+D7054,"Heavy Particles (Protons,Ions)",D705,2016,2027
+D7054Z,None,D7054,2016,2027
+D7054ZZ,"Beam Radiation of Thorax Lymphatics using Heavy Particles (Protons,Ions)",D7054Z,2016,2027
+D7055,Neutrons,D705,2016,2027
+D7055Z,None,D7055,2016,2027
+D7055ZZ,Beam Radiation of Thorax Lymphatics using Neutrons,D7055Z,2016,2027
+D7056,Neutron Capture,D705,2016,2027
+D7056Z,None,D7056,2016,2027
+D7056ZZ,Beam Radiation of Thorax Lymphatics using Neutron Capture,D7056Z,2016,2027
+D706,"Lymphatics, Abdomen",D70,2016,2027
+D7060,Photons <1 MeV,D706,2016,2027
+D7060Z,None,D7060,2016,2027
+D7060ZZ,Beam Radiation of Abdomen Lymphatics using Photons <1 MeV,D7060Z,2016,2027
+D7061,Photons 1 - 10 MeV,D706,2016,2027
+D7061Z,None,D7061,2016,2027
+D7061ZZ,Beam Radiation of Abdomen Lymphatics using Photons 1 - 10 MeV,D7061Z,2016,2027
+D7062,Photons >10 MeV,D706,2016,2027
+D7062Z,None,D7062,2016,2027
+D7062ZZ,Beam Radiation of Abdomen Lymphatics using Photons >10 MeV,D7062Z,2016,2027
+D7063,Electrons,D706,2016,2027
+D7063Z,None,D7063,2016,2027
+D7063Z0,"Beam Radiation of Abdomen Lymphatics using Electrons, Intraoperative",D7063Z,2016,2027
+D7063ZZ,Beam Radiation of Abdomen Lymphatics using Electrons,D7063Z,2016,2027
+D7064,"Heavy Particles (Protons,Ions)",D706,2016,2027
+D7064Z,None,D7064,2016,2027
+D7064ZZ,"Beam Radiation of Abdomen Lymphatics using Heavy Particles (Protons,Ions)",D7064Z,2016,2027
+D7065,Neutrons,D706,2016,2027
+D7065Z,None,D7065,2016,2027
+D7065ZZ,Beam Radiation of Abdomen Lymphatics using Neutrons,D7065Z,2016,2027
+D7066,Neutron Capture,D706,2016,2027
+D7066Z,None,D7066,2016,2027
+D7066ZZ,Beam Radiation of Abdomen Lymphatics using Neutron Capture,D7066Z,2016,2027
+D707,"Lymphatics, Pelvis",D70,2016,2027
+D7070,Photons <1 MeV,D707,2016,2027
+D7070Z,None,D7070,2016,2027
+D7070ZZ,Beam Radiation of Pelvis Lymphatics using Photons <1 MeV,D7070Z,2016,2027
+D7071,Photons 1 - 10 MeV,D707,2016,2027
+D7071Z,None,D7071,2016,2027
+D7071ZZ,Beam Radiation of Pelvis Lymphatics using Photons 1 - 10 MeV,D7071Z,2016,2027
+D7072,Photons >10 MeV,D707,2016,2027
+D7072Z,None,D7072,2016,2027
+D7072ZZ,Beam Radiation of Pelvis Lymphatics using Photons >10 MeV,D7072Z,2016,2027
+D7073,Electrons,D707,2016,2027
+D7073Z,None,D7073,2016,2027
+D7073Z0,"Beam Radiation of Pelvis Lymphatics using Electrons, Intraoperative",D7073Z,2016,2027
+D7073ZZ,Beam Radiation of Pelvis Lymphatics using Electrons,D7073Z,2016,2027
+D7074,"Heavy Particles (Protons,Ions)",D707,2016,2027
+D7074Z,None,D7074,2016,2027
+D7074ZZ,"Beam Radiation of Pelvis Lymphatics using Heavy Particles (Protons,Ions)",D7074Z,2016,2027
+D7075,Neutrons,D707,2016,2027
+D7075Z,None,D7075,2016,2027
+D7075ZZ,Beam Radiation of Pelvis Lymphatics using Neutrons,D7075Z,2016,2027
+D7076,Neutron Capture,D707,2016,2027
+D7076Z,None,D7076,2016,2027
+D7076ZZ,Beam Radiation of Pelvis Lymphatics using Neutron Capture,D7076Z,2016,2027
+D708,"Lymphatics, Inguinal",D70,2016,2027
+D7080,Photons <1 MeV,D708,2016,2027
+D7080Z,None,D7080,2016,2027
+D7080ZZ,Beam Radiation of Inguinal Lymphatics using Photons <1 MeV,D7080Z,2016,2027
+D7081,Photons 1 - 10 MeV,D708,2016,2027
+D7081Z,None,D7081,2016,2027
+D7081ZZ,Beam Radiation of Inguinal Lymphatics using Photons 1 - 10 MeV,D7081Z,2016,2027
+D7082,Photons >10 MeV,D708,2016,2027
+D7082Z,None,D7082,2016,2027
+D7082ZZ,Beam Radiation of Inguinal Lymphatics using Photons >10 MeV,D7082Z,2016,2027
+D7083,Electrons,D708,2016,2027
+D7083Z,None,D7083,2016,2027
+D7083Z0,"Beam Radiation of Inguinal Lymphatics using Electrons, Intraoperative",D7083Z,2016,2027
+D7083ZZ,Beam Radiation of Inguinal Lymphatics using Electrons,D7083Z,2016,2027
+D7084,"Heavy Particles (Protons,Ions)",D708,2016,2027
+D7084Z,None,D7084,2016,2027
+D7084ZZ,"Beam Radiation of Inguinal Lymphatics using Heavy Particles (Protons,Ions)",D7084Z,2016,2027
+D7085,Neutrons,D708,2016,2027
+D7085Z,None,D7085,2016,2027
+D7085ZZ,Beam Radiation of Inguinal Lymphatics using Neutrons,D7085Z,2016,2027
+D7086,Neutron Capture,D708,2016,2027
+D7086Z,None,D7086,2016,2027
+D7086ZZ,Beam Radiation of Inguinal Lymphatics using Neutron Capture,D7086Z,2016,2027
+D71,Brachytherapy,D7,2016,2027
+D710,Bone Marrow,D71,2016,2027
+D7109,High Dose Rate (HDR),D710,2016,2027
+D71097,Cesium 137 (Cs-137),D7109,2016,2027
+D71097Z,High Dose Rate (HDR) Brachytherapy of Bone Marrow using Cesium 137 (Cs-137),D71097,2016,2027
+D71098,Iridium 192 (Ir-192),D7109,2016,2027
+D71098Z,High Dose Rate (HDR) Brachytherapy of Bone Marrow using Iridium 192 (Ir-192),D71098,2016,2027
+D71099,Iodine 125 (I-125),D7109,2016,2027
+D71099Z,High Dose Rate (HDR) Brachytherapy of Bone Marrow using Iodine 125 (I-125),D71099,2016,2027
+D7109B,Palladium 103 (Pd-103),D7109,2016,2027
+D7109BZ,High Dose Rate (HDR) Brachytherapy of Bone Marrow using Palladium 103 (Pd-103),D7109B,2016,2027
+D7109C,Californium 252 (Cf-252),D7109,2016,2027
+D7109CZ,High Dose Rate (HDR) Brachytherapy of Bone Marrow using Californium 252 (Cf-252),D7109C,2016,2027
+D7109Y,Other Isotope,D7109,2016,2027
+D7109YZ,High Dose Rate (HDR) Brachytherapy of Bone Marrow using Other Isotope,D7109Y,2016,2027
+D710B,Low Dose Rate (LDR),D710,2016,2027
+D710B6,Cesium 131 (Cs-131),D710B,2021,2027
+D710B6Z,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Cesium 131 (Cs-131),D710B6,2021,2027
+D710B7,Cesium 137 (Cs-137),D710B,2016,2027
+D710B7Z,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Cesium 137 (Cs-137),D710B7,2016,2027
+D710B8,Iridium 192 (Ir-192),D710B,2016,2027
+D710B8Z,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Iridium 192 (Ir-192),D710B8,2016,2027
+D710B9,Iodine 125 (I-125),D710B,2016,2027
+D710B9Z,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Iodine 125 (I-125),D710B9,2016,2027
+D710BB,Palladium 103 (Pd-103),D710B,2016,2027
+D710BB1,"Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Palladium 103 (Pd-103), Unidirectional Source",D710BB,2020,2027
+D710BBZ,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Palladium 103 (Pd-103),D710BB,2016,2027
+D710BC,Californium 252 (Cf-252),D710B,2016,2027
+D710BCZ,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Californium 252 (Cf-252),D710BC,2016,2027
+D710BY,Other Isotope,D710B,2016,2027
+D710BYZ,Low Dose Rate (LDR) Brachytherapy of Bone Marrow using Other Isotope,D710BY,2016,2027
+D711,Thymus,D71,2016,2027
+D7119,High Dose Rate (HDR),D711,2016,2027
+D71197,Cesium 137 (Cs-137),D7119,2016,2027
+D71197Z,High Dose Rate (HDR) Brachytherapy of Thymus using Cesium 137 (Cs-137),D71197,2016,2027
+D71198,Iridium 192 (Ir-192),D7119,2016,2027
+D71198Z,High Dose Rate (HDR) Brachytherapy of Thymus using Iridium 192 (Ir-192),D71198,2016,2027
+D71199,Iodine 125 (I-125),D7119,2016,2027
+D71199Z,High Dose Rate (HDR) Brachytherapy of Thymus using Iodine 125 (I-125),D71199,2016,2027
+D7119B,Palladium 103 (Pd-103),D7119,2016,2027
+D7119BZ,High Dose Rate (HDR) Brachytherapy of Thymus using Palladium 103 (Pd-103),D7119B,2016,2027
+D7119C,Californium 252 (Cf-252),D7119,2016,2027
+D7119CZ,High Dose Rate (HDR) Brachytherapy of Thymus using Californium 252 (Cf-252),D7119C,2016,2027
+D7119Y,Other Isotope,D7119,2016,2027
+D7119YZ,High Dose Rate (HDR) Brachytherapy of Thymus using Other Isotope,D7119Y,2016,2027
+D711B,Low Dose Rate (LDR),D711,2016,2027
+D711B6,Cesium 131 (Cs-131),D711B,2021,2027
+D711B6Z,Low Dose Rate (LDR) Brachytherapy of Thymus using Cesium 131 (Cs-131),D711B6,2021,2027
+D711B7,Cesium 137 (Cs-137),D711B,2016,2027
+D711B7Z,Low Dose Rate (LDR) Brachytherapy of Thymus using Cesium 137 (Cs-137),D711B7,2016,2027
+D711B8,Iridium 192 (Ir-192),D711B,2016,2027
+D711B8Z,Low Dose Rate (LDR) Brachytherapy of Thymus using Iridium 192 (Ir-192),D711B8,2016,2027
+D711B9,Iodine 125 (I-125),D711B,2016,2027
+D711B9Z,Low Dose Rate (LDR) Brachytherapy of Thymus using Iodine 125 (I-125),D711B9,2016,2027
+D711BB,Palladium 103 (Pd-103),D711B,2016,2027
+D711BB1,"Low Dose Rate (LDR) Brachytherapy of Thymus using Palladium 103 (Pd-103), Unidirectional Source",D711BB,2020,2027
+D711BBZ,Low Dose Rate (LDR) Brachytherapy of Thymus using Palladium 103 (Pd-103),D711BB,2016,2027
+D711BC,Californium 252 (Cf-252),D711B,2016,2027
+D711BCZ,Low Dose Rate (LDR) Brachytherapy of Thymus using Californium 252 (Cf-252),D711BC,2016,2027
+D711BY,Other Isotope,D711B,2016,2027
+D711BYZ,Low Dose Rate (LDR) Brachytherapy of Thymus using Other Isotope,D711BY,2016,2027
+D712,Spleen,D71,2016,2027
+D7129,High Dose Rate (HDR),D712,2016,2027
+D71297,Cesium 137 (Cs-137),D7129,2016,2027
+D71297Z,High Dose Rate (HDR) Brachytherapy of Spleen using Cesium 137 (Cs-137),D71297,2016,2027
+D71298,Iridium 192 (Ir-192),D7129,2016,2027
+D71298Z,High Dose Rate (HDR) Brachytherapy of Spleen using Iridium 192 (Ir-192),D71298,2016,2027
+D71299,Iodine 125 (I-125),D7129,2016,2027
+D71299Z,High Dose Rate (HDR) Brachytherapy of Spleen using Iodine 125 (I-125),D71299,2016,2027
+D7129B,Palladium 103 (Pd-103),D7129,2016,2027
+D7129BZ,High Dose Rate (HDR) Brachytherapy of Spleen using Palladium 103 (Pd-103),D7129B,2016,2027
+D7129C,Californium 252 (Cf-252),D7129,2016,2027
+D7129CZ,High Dose Rate (HDR) Brachytherapy of Spleen using Californium 252 (Cf-252),D7129C,2016,2027
+D7129Y,Other Isotope,D7129,2016,2027
+D7129YZ,High Dose Rate (HDR) Brachytherapy of Spleen using Other Isotope,D7129Y,2016,2027
+D712B,Low Dose Rate (LDR),D712,2016,2027
+D712B6,Cesium 131 (Cs-131),D712B,2021,2027
+D712B6Z,Low Dose Rate (LDR) Brachytherapy of Spleen using Cesium 131 (Cs-131),D712B6,2021,2027
+D712B7,Cesium 137 (Cs-137),D712B,2016,2027
+D712B7Z,Low Dose Rate (LDR) Brachytherapy of Spleen using Cesium 137 (Cs-137),D712B7,2016,2027
+D712B8,Iridium 192 (Ir-192),D712B,2016,2027
+D712B8Z,Low Dose Rate (LDR) Brachytherapy of Spleen using Iridium 192 (Ir-192),D712B8,2016,2027
+D712B9,Iodine 125 (I-125),D712B,2016,2027
+D712B9Z,Low Dose Rate (LDR) Brachytherapy of Spleen using Iodine 125 (I-125),D712B9,2016,2027
+D712BB,Palladium 103 (Pd-103),D712B,2016,2027
+D712BB1,"Low Dose Rate (LDR) Brachytherapy of Spleen using Palladium 103 (Pd-103), Unidirectional Source",D712BB,2020,2027
+D712BBZ,Low Dose Rate (LDR) Brachytherapy of Spleen using Palladium 103 (Pd-103),D712BB,2016,2027
+D712BC,Californium 252 (Cf-252),D712B,2016,2027
+D712BCZ,Low Dose Rate (LDR) Brachytherapy of Spleen using Californium 252 (Cf-252),D712BC,2016,2027
+D712BY,Other Isotope,D712B,2016,2027
+D712BYZ,Low Dose Rate (LDR) Brachytherapy of Spleen using Other Isotope,D712BY,2016,2027
+D713,"Lymphatics, Neck",D71,2016,2027
+D7139,High Dose Rate (HDR),D713,2016,2027
+D71397,Cesium 137 (Cs-137),D7139,2016,2027
+D71397Z,High Dose Rate (HDR) Brachytherapy of Neck Lymphatics using Cesium 137 (Cs-137),D71397,2016,2027
+D71398,Iridium 192 (Ir-192),D7139,2016,2027
+D71398Z,High Dose Rate (HDR) Brachytherapy of Neck Lymphatics using Iridium 192 (Ir-192),D71398,2016,2027
+D71399,Iodine 125 (I-125),D7139,2016,2027
+D71399Z,High Dose Rate (HDR) Brachytherapy of Neck Lymphatics using Iodine 125 (I-125),D71399,2016,2027
+D7139B,Palladium 103 (Pd-103),D7139,2016,2027
+D7139BZ,High Dose Rate (HDR) Brachytherapy of Neck Lymphatics using Palladium 103 (Pd-103),D7139B,2016,2027
+D7139C,Californium 252 (Cf-252),D7139,2016,2027
+D7139CZ,High Dose Rate (HDR) Brachytherapy of Neck Lymphatics using Californium 252 (Cf-252),D7139C,2016,2027
+D7139Y,Other Isotope,D7139,2016,2027
+D7139YZ,High Dose Rate (HDR) Brachytherapy of Neck Lymphatics using Other Isotope,D7139Y,2016,2027
+D713B,Low Dose Rate (LDR),D713,2016,2027
+D713B6,Cesium 131 (Cs-131),D713B,2021,2027
+D713B6Z,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Cesium 131 (Cs-131),D713B6,2021,2027
+D713B7,Cesium 137 (Cs-137),D713B,2016,2027
+D713B7Z,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Cesium 137 (Cs-137),D713B7,2016,2027
+D713B8,Iridium 192 (Ir-192),D713B,2016,2027
+D713B8Z,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Iridium 192 (Ir-192),D713B8,2016,2027
+D713B9,Iodine 125 (I-125),D713B,2016,2027
+D713B9Z,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Iodine 125 (I-125),D713B9,2016,2027
+D713BB,Palladium 103 (Pd-103),D713B,2016,2027
+D713BB1,"Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Palladium 103 (Pd-103), Unidirectional Source",D713BB,2020,2027
+D713BBZ,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Palladium 103 (Pd-103),D713BB,2016,2027
+D713BC,Californium 252 (Cf-252),D713B,2016,2027
+D713BCZ,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Californium 252 (Cf-252),D713BC,2016,2027
+D713BY,Other Isotope,D713B,2016,2027
+D713BYZ,Low Dose Rate (LDR) Brachytherapy of Neck Lymphatics using Other Isotope,D713BY,2016,2027
+D714,"Lymphatics, Axillary",D71,2016,2027
+D7149,High Dose Rate (HDR),D714,2016,2027
+D71497,Cesium 137 (Cs-137),D7149,2016,2027
+D71497Z,High Dose Rate (HDR) Brachytherapy of Axillary Lymphatics using Cesium 137 (Cs-137),D71497,2016,2027
+D71498,Iridium 192 (Ir-192),D7149,2016,2027
+D71498Z,High Dose Rate (HDR) Brachytherapy of Axillary Lymphatics using Iridium 192 (Ir-192),D71498,2016,2027
+D71499,Iodine 125 (I-125),D7149,2016,2027
+D71499Z,High Dose Rate (HDR) Brachytherapy of Axillary Lymphatics using Iodine 125 (I-125),D71499,2016,2027
+D7149B,Palladium 103 (Pd-103),D7149,2016,2027
+D7149BZ,High Dose Rate (HDR) Brachytherapy of Axillary Lymphatics using Palladium 103 (Pd-103),D7149B,2016,2027
+D7149C,Californium 252 (Cf-252),D7149,2016,2027
+D7149CZ,High Dose Rate (HDR) Brachytherapy of Axillary Lymphatics using Californium 252 (Cf-252),D7149C,2016,2027
+D7149Y,Other Isotope,D7149,2016,2027
+D7149YZ,High Dose Rate (HDR) Brachytherapy of Axillary Lymphatics using Other Isotope,D7149Y,2016,2027
+D714B,Low Dose Rate (LDR),D714,2016,2027
+D714B6,Cesium 131 (Cs-131),D714B,2021,2027
+D714B6Z,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Cesium 131 (Cs-131),D714B6,2021,2027
+D714B7,Cesium 137 (Cs-137),D714B,2016,2027
+D714B7Z,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Cesium 137 (Cs-137),D714B7,2016,2027
+D714B8,Iridium 192 (Ir-192),D714B,2016,2027
+D714B8Z,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Iridium 192 (Ir-192),D714B8,2016,2027
+D714B9,Iodine 125 (I-125),D714B,2016,2027
+D714B9Z,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Iodine 125 (I-125),D714B9,2016,2027
+D714BB,Palladium 103 (Pd-103),D714B,2016,2027
+D714BB1,"Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Palladium 103 (Pd-103), Unidirectional Source",D714BB,2020,2027
+D714BBZ,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Palladium 103 (Pd-103),D714BB,2016,2027
+D714BC,Californium 252 (Cf-252),D714B,2016,2027
+D714BCZ,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Californium 252 (Cf-252),D714BC,2016,2027
+D714BY,Other Isotope,D714B,2016,2027
+D714BYZ,Low Dose Rate (LDR) Brachytherapy of Axillary Lymphatics using Other Isotope,D714BY,2016,2027
+D715,"Lymphatics, Thorax",D71,2016,2027
+D7159,High Dose Rate (HDR),D715,2016,2027
+D71597,Cesium 137 (Cs-137),D7159,2016,2027
+D71597Z,High Dose Rate (HDR) Brachytherapy of Thorax Lymphatics using Cesium 137 (Cs-137),D71597,2016,2027
+D71598,Iridium 192 (Ir-192),D7159,2016,2027
+D71598Z,High Dose Rate (HDR) Brachytherapy of Thorax Lymphatics using Iridium 192 (Ir-192),D71598,2016,2027
+D71599,Iodine 125 (I-125),D7159,2016,2027
+D71599Z,High Dose Rate (HDR) Brachytherapy of Thorax Lymphatics using Iodine 125 (I-125),D71599,2016,2027
+D7159B,Palladium 103 (Pd-103),D7159,2016,2027
+D7159BZ,High Dose Rate (HDR) Brachytherapy of Thorax Lymphatics using Palladium 103 (Pd-103),D7159B,2016,2027
+D7159C,Californium 252 (Cf-252),D7159,2016,2027
+D7159CZ,High Dose Rate (HDR) Brachytherapy of Thorax Lymphatics using Californium 252 (Cf-252),D7159C,2016,2027
+D7159Y,Other Isotope,D7159,2016,2027
+D7159YZ,High Dose Rate (HDR) Brachytherapy of Thorax Lymphatics using Other Isotope,D7159Y,2016,2027
+D715B,Low Dose Rate (LDR),D715,2016,2027
+D715B6,Cesium 131 (Cs-131),D715B,2021,2027
+D715B6Z,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Cesium 131 (Cs-131),D715B6,2021,2027
+D715B7,Cesium 137 (Cs-137),D715B,2016,2027
+D715B7Z,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Cesium 137 (Cs-137),D715B7,2016,2027
+D715B8,Iridium 192 (Ir-192),D715B,2016,2027
+D715B8Z,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Iridium 192 (Ir-192),D715B8,2016,2027
+D715B9,Iodine 125 (I-125),D715B,2016,2027
+D715B9Z,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Iodine 125 (I-125),D715B9,2016,2027
+D715BB,Palladium 103 (Pd-103),D715B,2016,2027
+D715BB1,"Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Palladium 103 (Pd-103), Unidirectional Source",D715BB,2020,2027
+D715BBZ,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Palladium 103 (Pd-103),D715BB,2016,2027
+D715BC,Californium 252 (Cf-252),D715B,2016,2027
+D715BCZ,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Californium 252 (Cf-252),D715BC,2016,2027
+D715BY,Other Isotope,D715B,2016,2027
+D715BYZ,Low Dose Rate (LDR) Brachytherapy of Thorax Lymphatics using Other Isotope,D715BY,2016,2027
+D716,"Lymphatics, Abdomen",D71,2016,2027
+D7169,High Dose Rate (HDR),D716,2016,2027
+D71697,Cesium 137 (Cs-137),D7169,2016,2027
+D71697Z,High Dose Rate (HDR) Brachytherapy of Abdomen Lymphatics using Cesium 137 (Cs-137),D71697,2016,2027
+D71698,Iridium 192 (Ir-192),D7169,2016,2027
+D71698Z,High Dose Rate (HDR) Brachytherapy of Abdomen Lymphatics using Iridium 192 (Ir-192),D71698,2016,2027
+D71699,Iodine 125 (I-125),D7169,2016,2027
+D71699Z,High Dose Rate (HDR) Brachytherapy of Abdomen Lymphatics using Iodine 125 (I-125),D71699,2016,2027
+D7169B,Palladium 103 (Pd-103),D7169,2016,2027
+D7169BZ,High Dose Rate (HDR) Brachytherapy of Abdomen Lymphatics using Palladium 103 (Pd-103),D7169B,2016,2027
+D7169C,Californium 252 (Cf-252),D7169,2016,2027
+D7169CZ,High Dose Rate (HDR) Brachytherapy of Abdomen Lymphatics using Californium 252 (Cf-252),D7169C,2016,2027
+D7169Y,Other Isotope,D7169,2016,2027
+D7169YZ,High Dose Rate (HDR) Brachytherapy of Abdomen Lymphatics using Other Isotope,D7169Y,2016,2027
+D716B,Low Dose Rate (LDR),D716,2016,2027
+D716B6,Cesium 131 (Cs-131),D716B,2021,2027
+D716B6Z,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Cesium 131 (Cs-131),D716B6,2021,2027
+D716B7,Cesium 137 (Cs-137),D716B,2016,2027
+D716B7Z,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Cesium 137 (Cs-137),D716B7,2016,2027
+D716B8,Iridium 192 (Ir-192),D716B,2016,2027
+D716B8Z,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Iridium 192 (Ir-192),D716B8,2016,2027
+D716B9,Iodine 125 (I-125),D716B,2016,2027
+D716B9Z,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Iodine 125 (I-125),D716B9,2016,2027
+D716BB,Palladium 103 (Pd-103),D716B,2016,2027
+D716BB1,"Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Palladium 103 (Pd-103), Unidirectional Source",D716BB,2020,2027
+D716BBZ,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Palladium 103 (Pd-103),D716BB,2016,2027
+D716BC,Californium 252 (Cf-252),D716B,2016,2027
+D716BCZ,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Californium 252 (Cf-252),D716BC,2016,2027
+D716BY,Other Isotope,D716B,2016,2027
+D716BYZ,Low Dose Rate (LDR) Brachytherapy of Abdomen Lymphatics using Other Isotope,D716BY,2016,2027
+D717,"Lymphatics, Pelvis",D71,2016,2027
+D7179,High Dose Rate (HDR),D717,2016,2027
+D71797,Cesium 137 (Cs-137),D7179,2016,2027
+D71797Z,High Dose Rate (HDR) Brachytherapy of Pelvis Lymphatics using Cesium 137 (Cs-137),D71797,2016,2027
+D71798,Iridium 192 (Ir-192),D7179,2016,2027
+D71798Z,High Dose Rate (HDR) Brachytherapy of Pelvis Lymphatics using Iridium 192 (Ir-192),D71798,2016,2027
+D71799,Iodine 125 (I-125),D7179,2016,2027
+D71799Z,High Dose Rate (HDR) Brachytherapy of Pelvis Lymphatics using Iodine 125 (I-125),D71799,2016,2027
+D7179B,Palladium 103 (Pd-103),D7179,2016,2027
+D7179BZ,High Dose Rate (HDR) Brachytherapy of Pelvis Lymphatics using Palladium 103 (Pd-103),D7179B,2016,2027
+D7179C,Californium 252 (Cf-252),D7179,2016,2027
+D7179CZ,High Dose Rate (HDR) Brachytherapy of Pelvis Lymphatics using Californium 252 (Cf-252),D7179C,2016,2027
+D7179Y,Other Isotope,D7179,2016,2027
+D7179YZ,High Dose Rate (HDR) Brachytherapy of Pelvis Lymphatics using Other Isotope,D7179Y,2016,2027
+D717B,Low Dose Rate (LDR),D717,2016,2027
+D717B6,Cesium 131 (Cs-131),D717B,2021,2027
+D717B6Z,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Cesium 131 (Cs-131),D717B6,2021,2027
+D717B7,Cesium 137 (Cs-137),D717B,2016,2027
+D717B7Z,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Cesium 137 (Cs-137),D717B7,2016,2027
+D717B8,Iridium 192 (Ir-192),D717B,2016,2027
+D717B8Z,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Iridium 192 (Ir-192),D717B8,2016,2027
+D717B9,Iodine 125 (I-125),D717B,2016,2027
+D717B9Z,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Iodine 125 (I-125),D717B9,2016,2027
+D717BB,Palladium 103 (Pd-103),D717B,2016,2027
+D717BB1,"Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Palladium 103 (Pd-103), Unidirectional Source",D717BB,2020,2027
+D717BBZ,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Palladium 103 (Pd-103),D717BB,2016,2027
+D717BC,Californium 252 (Cf-252),D717B,2016,2027
+D717BCZ,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Californium 252 (Cf-252),D717BC,2016,2027
+D717BY,Other Isotope,D717B,2016,2027
+D717BYZ,Low Dose Rate (LDR) Brachytherapy of Pelvis Lymphatics using Other Isotope,D717BY,2016,2027
+D718,"Lymphatics, Inguinal",D71,2016,2027
+D7189,High Dose Rate (HDR),D718,2016,2027
+D71897,Cesium 137 (Cs-137),D7189,2016,2027
+D71897Z,High Dose Rate (HDR) Brachytherapy of Inguinal Lymphatics using Cesium 137 (Cs-137),D71897,2016,2027
+D71898,Iridium 192 (Ir-192),D7189,2016,2027
+D71898Z,High Dose Rate (HDR) Brachytherapy of Inguinal Lymphatics using Iridium 192 (Ir-192),D71898,2016,2027
+D71899,Iodine 125 (I-125),D7189,2016,2027
+D71899Z,High Dose Rate (HDR) Brachytherapy of Inguinal Lymphatics using Iodine 125 (I-125),D71899,2016,2027
+D7189B,Palladium 103 (Pd-103),D7189,2016,2027
+D7189BZ,High Dose Rate (HDR) Brachytherapy of Inguinal Lymphatics using Palladium 103 (Pd-103),D7189B,2016,2027
+D7189C,Californium 252 (Cf-252),D7189,2016,2027
+D7189CZ,High Dose Rate (HDR) Brachytherapy of Inguinal Lymphatics using Californium 252 (Cf-252),D7189C,2016,2027
+D7189Y,Other Isotope,D7189,2016,2027
+D7189YZ,High Dose Rate (HDR) Brachytherapy of Inguinal Lymphatics using Other Isotope,D7189Y,2016,2027
+D718B,Low Dose Rate (LDR),D718,2016,2027
+D718B6,Cesium 131 (Cs-131),D718B,2021,2027
+D718B6Z,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Cesium 131 (Cs-131),D718B6,2021,2027
+D718B7,Cesium 137 (Cs-137),D718B,2016,2027
+D718B7Z,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Cesium 137 (Cs-137),D718B7,2016,2027
+D718B8,Iridium 192 (Ir-192),D718B,2016,2027
+D718B8Z,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Iridium 192 (Ir-192),D718B8,2016,2027
+D718B9,Iodine 125 (I-125),D718B,2016,2027
+D718B9Z,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Iodine 125 (I-125),D718B9,2016,2027
+D718BB,Palladium 103 (Pd-103),D718B,2016,2027
+D718BB1,"Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Palladium 103 (Pd-103), Unidirectional Source",D718BB,2020,2027
+D718BBZ,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Palladium 103 (Pd-103),D718BB,2016,2027
+D718BC,Californium 252 (Cf-252),D718B,2016,2027
+D718BCZ,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Californium 252 (Cf-252),D718BC,2016,2027
+D718BY,Other Isotope,D718B,2016,2027
+D718BYZ,Low Dose Rate (LDR) Brachytherapy of Inguinal Lymphatics using Other Isotope,D718BY,2016,2027
+D72,Stereotactic Radiosurgery,D7,2016,2027
+D720,Bone Marrow,D72,2016,2027
+D720D,Stereotactic Other Photon Radiosurgery,D720,2016,2027
+D720DZ,None,D720D,2016,2027
+D720DZZ,Stereotactic Other Photon Radiosurgery of Bone Marrow,D720DZ,2016,2027
+D720H,Stereotactic Particulate Radiosurgery,D720,2016,2027
+D720HZ,None,D720H,2016,2027
+D720HZZ,Stereotactic Particulate Radiosurgery of Bone Marrow,D720HZ,2016,2027
+D720J,Stereotactic Gamma Beam Radiosurgery,D720,2016,2027
+D720JZ,None,D720J,2016,2027
+D720JZZ,Stereotactic Gamma Beam Radiosurgery of Bone Marrow,D720JZ,2016,2027
+D721,Thymus,D72,2016,2027
+D721D,Stereotactic Other Photon Radiosurgery,D721,2016,2027
+D721DZ,None,D721D,2016,2027
+D721DZZ,Stereotactic Other Photon Radiosurgery of Thymus,D721DZ,2016,2027
+D721H,Stereotactic Particulate Radiosurgery,D721,2016,2027
+D721HZ,None,D721H,2016,2027
+D721HZZ,Stereotactic Particulate Radiosurgery of Thymus,D721HZ,2016,2027
+D721J,Stereotactic Gamma Beam Radiosurgery,D721,2016,2027
+D721JZ,None,D721J,2016,2027
+D721JZZ,Stereotactic Gamma Beam Radiosurgery of Thymus,D721JZ,2016,2027
+D722,Spleen,D72,2016,2027
+D722D,Stereotactic Other Photon Radiosurgery,D722,2016,2027
+D722DZ,None,D722D,2016,2027
+D722DZZ,Stereotactic Other Photon Radiosurgery of Spleen,D722DZ,2016,2027
+D722H,Stereotactic Particulate Radiosurgery,D722,2016,2027
+D722HZ,None,D722H,2016,2027
+D722HZZ,Stereotactic Particulate Radiosurgery of Spleen,D722HZ,2016,2027
+D722J,Stereotactic Gamma Beam Radiosurgery,D722,2016,2027
+D722JZ,None,D722J,2016,2027
+D722JZZ,Stereotactic Gamma Beam Radiosurgery of Spleen,D722JZ,2016,2027
+D723,"Lymphatics, Neck",D72,2016,2027
+D723D,Stereotactic Other Photon Radiosurgery,D723,2016,2027
+D723DZ,None,D723D,2016,2027
+D723DZZ,Stereotactic Other Photon Radiosurgery of Neck Lymphatics,D723DZ,2016,2027
+D723H,Stereotactic Particulate Radiosurgery,D723,2016,2027
+D723HZ,None,D723H,2016,2027
+D723HZZ,Stereotactic Particulate Radiosurgery of Neck Lymphatics,D723HZ,2016,2027
+D723J,Stereotactic Gamma Beam Radiosurgery,D723,2016,2027
+D723JZ,None,D723J,2016,2027
+D723JZZ,Stereotactic Gamma Beam Radiosurgery of Neck Lymphatics,D723JZ,2016,2027
+D724,"Lymphatics, Axillary",D72,2016,2027
+D724D,Stereotactic Other Photon Radiosurgery,D724,2016,2027
+D724DZ,None,D724D,2016,2027
+D724DZZ,Stereotactic Other Photon Radiosurgery of Axillary Lymphatics,D724DZ,2016,2027
+D724H,Stereotactic Particulate Radiosurgery,D724,2016,2027
+D724HZ,None,D724H,2016,2027
+D724HZZ,Stereotactic Particulate Radiosurgery of Axillary Lymphatics,D724HZ,2016,2027
+D724J,Stereotactic Gamma Beam Radiosurgery,D724,2016,2027
+D724JZ,None,D724J,2016,2027
+D724JZZ,Stereotactic Gamma Beam Radiosurgery of Axillary Lymphatics,D724JZ,2016,2027
+D725,"Lymphatics, Thorax",D72,2016,2027
+D725D,Stereotactic Other Photon Radiosurgery,D725,2016,2027
+D725DZ,None,D725D,2016,2027
+D725DZZ,Stereotactic Other Photon Radiosurgery of Thorax Lymphatics,D725DZ,2016,2027
+D725H,Stereotactic Particulate Radiosurgery,D725,2016,2027
+D725HZ,None,D725H,2016,2027
+D725HZZ,Stereotactic Particulate Radiosurgery of Thorax Lymphatics,D725HZ,2016,2027
+D725J,Stereotactic Gamma Beam Radiosurgery,D725,2016,2027
+D725JZ,None,D725J,2016,2027
+D725JZZ,Stereotactic Gamma Beam Radiosurgery of Thorax Lymphatics,D725JZ,2016,2027
+D726,"Lymphatics, Abdomen",D72,2016,2027
+D726D,Stereotactic Other Photon Radiosurgery,D726,2016,2027
+D726DZ,None,D726D,2016,2027
+D726DZZ,Stereotactic Other Photon Radiosurgery of Abdomen Lymphatics,D726DZ,2016,2027
+D726H,Stereotactic Particulate Radiosurgery,D726,2016,2027
+D726HZ,None,D726H,2016,2027
+D726HZZ,Stereotactic Particulate Radiosurgery of Abdomen Lymphatics,D726HZ,2016,2027
+D726J,Stereotactic Gamma Beam Radiosurgery,D726,2016,2027
+D726JZ,None,D726J,2016,2027
+D726JZZ,Stereotactic Gamma Beam Radiosurgery of Abdomen Lymphatics,D726JZ,2016,2027
+D727,"Lymphatics, Pelvis",D72,2016,2027
+D727D,Stereotactic Other Photon Radiosurgery,D727,2016,2027
+D727DZ,None,D727D,2016,2027
+D727DZZ,Stereotactic Other Photon Radiosurgery of Pelvis Lymphatics,D727DZ,2016,2027
+D727H,Stereotactic Particulate Radiosurgery,D727,2016,2027
+D727HZ,None,D727H,2016,2027
+D727HZZ,Stereotactic Particulate Radiosurgery of Pelvis Lymphatics,D727HZ,2016,2027
+D727J,Stereotactic Gamma Beam Radiosurgery,D727,2016,2027
+D727JZ,None,D727J,2016,2027
+D727JZZ,Stereotactic Gamma Beam Radiosurgery of Pelvis Lymphatics,D727JZ,2016,2027
+D728,"Lymphatics, Inguinal",D72,2016,2027
+D728D,Stereotactic Other Photon Radiosurgery,D728,2016,2027
+D728DZ,None,D728D,2016,2027
+D728DZZ,Stereotactic Other Photon Radiosurgery of Inguinal Lymphatics,D728DZ,2016,2027
+D728H,Stereotactic Particulate Radiosurgery,D728,2016,2027
+D728HZ,None,D728H,2016,2027
+D728HZZ,Stereotactic Particulate Radiosurgery of Inguinal Lymphatics,D728HZ,2016,2027
+D728J,Stereotactic Gamma Beam Radiosurgery,D728,2016,2027
+D728JZ,None,D728J,2016,2027
+D728JZZ,Stereotactic Gamma Beam Radiosurgery of Inguinal Lymphatics,D728JZ,2016,2027
+D7Y,Other Radiation,D7,2016,2027
+D7Y0,Bone Marrow,D7Y,2016,2027
+D7Y08,Hyperthermia,D7Y0,2016,2027
+D7Y08Z,None,D7Y08,2016,2027
+D7Y08ZZ,Hyperthermia of Bone Marrow,D7Y08Z,2016,2027
+D7Y0F,Plaque Radiation,D7Y0,2016,2027
+D7Y0FZ,None,D7Y0F,2016,2027
+D7Y0FZZ,Plaque Radiation of Bone Marrow,D7Y0FZ,2016,2027
+D7Y1,Thymus,D7Y,2016,2027
+D7Y18,Hyperthermia,D7Y1,2016,2027
+D7Y18Z,None,D7Y18,2016,2027
+D7Y18ZZ,Hyperthermia of Thymus,D7Y18Z,2016,2027
+D7Y1F,Plaque Radiation,D7Y1,2016,2027
+D7Y1FZ,None,D7Y1F,2016,2027
+D7Y1FZZ,Plaque Radiation of Thymus,D7Y1FZ,2016,2027
+D7Y2,Spleen,D7Y,2016,2027
+D7Y28,Hyperthermia,D7Y2,2016,2027
+D7Y28Z,None,D7Y28,2016,2027
+D7Y28ZZ,Hyperthermia of Spleen,D7Y28Z,2016,2027
+D7Y2F,Plaque Radiation,D7Y2,2016,2027
+D7Y2FZ,None,D7Y2F,2016,2027
+D7Y2FZZ,Plaque Radiation of Spleen,D7Y2FZ,2016,2027
+D7Y3,"Lymphatics, Neck",D7Y,2016,2027
+D7Y38,Hyperthermia,D7Y3,2016,2027
+D7Y38Z,None,D7Y38,2016,2027
+D7Y38ZZ,Hyperthermia of Neck Lymphatics,D7Y38Z,2016,2027
+D7Y3F,Plaque Radiation,D7Y3,2016,2027
+D7Y3FZ,None,D7Y3F,2016,2027
+D7Y3FZZ,Plaque Radiation of Neck Lymphatics,D7Y3FZ,2016,2027
+D7Y4,"Lymphatics, Axillary",D7Y,2016,2027
+D7Y48,Hyperthermia,D7Y4,2016,2027
+D7Y48Z,None,D7Y48,2016,2027
+D7Y48ZZ,Hyperthermia of Axillary Lymphatics,D7Y48Z,2016,2027
+D7Y4F,Plaque Radiation,D7Y4,2016,2027
+D7Y4FZ,None,D7Y4F,2016,2027
+D7Y4FZZ,Plaque Radiation of Axillary Lymphatics,D7Y4FZ,2016,2027
+D7Y5,"Lymphatics, Thorax",D7Y,2016,2027
+D7Y58,Hyperthermia,D7Y5,2016,2027
+D7Y58Z,None,D7Y58,2016,2027
+D7Y58ZZ,Hyperthermia of Thorax Lymphatics,D7Y58Z,2016,2027
+D7Y5F,Plaque Radiation,D7Y5,2016,2027
+D7Y5FZ,None,D7Y5F,2016,2027
+D7Y5FZZ,Plaque Radiation of Thorax Lymphatics,D7Y5FZ,2016,2027
+D7Y6,"Lymphatics, Abdomen",D7Y,2016,2027
+D7Y68,Hyperthermia,D7Y6,2016,2027
+D7Y68Z,None,D7Y68,2016,2027
+D7Y68ZZ,Hyperthermia of Abdomen Lymphatics,D7Y68Z,2016,2027
+D7Y6F,Plaque Radiation,D7Y6,2016,2027
+D7Y6FZ,None,D7Y6F,2016,2027
+D7Y6FZZ,Plaque Radiation of Abdomen Lymphatics,D7Y6FZ,2016,2027
+D7Y7,"Lymphatics, Pelvis",D7Y,2016,2027
+D7Y78,Hyperthermia,D7Y7,2016,2027
+D7Y78Z,None,D7Y78,2016,2027
+D7Y78ZZ,Hyperthermia of Pelvis Lymphatics,D7Y78Z,2016,2027
+D7Y7F,Plaque Radiation,D7Y7,2016,2027
+D7Y7FZ,None,D7Y7F,2016,2027
+D7Y7FZZ,Plaque Radiation of Pelvis Lymphatics,D7Y7FZ,2016,2027
+D7Y8,"Lymphatics, Inguinal",D7Y,2016,2027
+D7Y88,Hyperthermia,D7Y8,2016,2027
+D7Y88Z,None,D7Y88,2016,2027
+D7Y88ZZ,Hyperthermia of Inguinal Lymphatics,D7Y88Z,2016,2027
+D7Y8F,Plaque Radiation,D7Y8,2016,2027
+D7Y8FZ,None,D7Y8F,2016,2027
+D7Y8FZZ,Plaque Radiation of Inguinal Lymphatics,D7Y8FZ,2016,2027

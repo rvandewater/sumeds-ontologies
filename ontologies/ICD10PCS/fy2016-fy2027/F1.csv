@@ -1,0 +1,344 @@
+code,description,parent,first_year,last_year
+F1,Diagnostic Audiology,F,2016,2027
+F13,Hearing Assessment,F1,2016,2027
+F13Z,None,F13,2016,2027
+F13Z0,Hearing Screening,F13Z,2016,2027
+F13Z00,Occupational Hearing,F13Z0,2016,2027
+F13Z00Z,Hearing Screening Assessment using Occupational Hearing Equipment,F13Z00,2016,2027
+F13Z01,Audiometer,F13Z0,2016,2027
+F13Z01Z,Hearing Screening Assessment using Audiometer,F13Z01,2016,2027
+F13Z02,Sound Field / Booth,F13Z0,2016,2027
+F13Z02Z,Hearing Screening Assessment using Sound Field / Booth,F13Z02,2016,2027
+F13Z03,Tympanometer,F13Z0,2016,2027
+F13Z03Z,Hearing Screening Assessment using Tympanometer,F13Z03,2016,2027
+F13Z08,Vestibular / Balance,F13Z0,2016,2027
+F13Z08Z,Hearing Screening Assessment using Vestibular / Balance Equipment,F13Z08,2016,2027
+F13Z09,Cochlear Implant,F13Z0,2016,2027
+F13Z09Z,Hearing Screening Assessment using Cochlear Implant Equipment,F13Z09,2016,2027
+F13Z0Z,None,F13Z0,2016,2027
+F13Z0ZZ,Hearing Screening Assessment,F13Z0Z,2016,2027
+F13Z1,"Pure Tone Audiometry, Air",F13Z,2016,2027
+F13Z10,Occupational Hearing,F13Z1,2016,2027
+F13Z10Z,"Pure Tone Audiometry, Air Assessment using Occupational Hearing Equipment",F13Z10,2016,2027
+F13Z11,Audiometer,F13Z1,2016,2027
+F13Z11Z,"Pure Tone Audiometry, Air Assessment using Audiometer",F13Z11,2016,2027
+F13Z12,Sound Field / Booth,F13Z1,2016,2027
+F13Z12Z,"Pure Tone Audiometry, Air Assessment using Sound Field / Booth",F13Z12,2016,2027
+F13Z1Z,None,F13Z1,2016,2027
+F13Z1ZZ,"Pure Tone Audiometry, Air Assessment",F13Z1Z,2016,2027
+F13Z2,"Pure Tone Audiometry, Air and Bone",F13Z,2016,2027
+F13Z20,Occupational Hearing,F13Z2,2016,2027
+F13Z20Z,"Pure Tone Audiometry, Air and Bone Assessment using Occupational Hearing Equipment",F13Z20,2016,2027
+F13Z21,Audiometer,F13Z2,2016,2027
+F13Z21Z,"Pure Tone Audiometry, Air and Bone Assessment using Audiometer",F13Z21,2016,2027
+F13Z22,Sound Field / Booth,F13Z2,2016,2027
+F13Z22Z,"Pure Tone Audiometry, Air and Bone Assessment using Sound Field / Booth",F13Z22,2016,2027
+F13Z2Z,None,F13Z2,2016,2027
+F13Z2ZZ,"Pure Tone Audiometry, Air and Bone Assessment",F13Z2Z,2016,2027
+F13Z3,Bekesy Audiometry,F13Z,2016,2027
+F13Z31,Audiometer,F13Z3,2016,2027
+F13Z31Z,Bekesy Audiometry Assessment using Audiometer,F13Z31,2016,2027
+F13Z32,Sound Field / Booth,F13Z3,2016,2027
+F13Z32Z,Bekesy Audiometry Assessment using Sound Field / Booth,F13Z32,2016,2027
+F13Z3Z,None,F13Z3,2016,2027
+F13Z3ZZ,Bekesy Audiometry Assessment,F13Z3Z,2016,2027
+F13Z4,Conditioned Play Audiometry,F13Z,2016,2027
+F13Z41,Audiometer,F13Z4,2016,2027
+F13Z41Z,Conditioned Play Audiometry Assessment using Audiometer,F13Z41,2016,2027
+F13Z42,Sound Field / Booth,F13Z4,2016,2027
+F13Z42Z,Conditioned Play Audiometry Assessment using Sound Field / Booth,F13Z42,2016,2027
+F13Z4K,Audiovisual,F13Z4,2016,2027
+F13Z4KZ,Conditioned Play Audiometry Assessment using Audiovisual Equipment,F13Z4K,2016,2027
+F13Z4Z,None,F13Z4,2016,2027
+F13Z4ZZ,Conditioned Play Audiometry Assessment,F13Z4Z,2016,2027
+F13Z5,Select Picture Audiometry,F13Z,2016,2027
+F13Z51,Audiometer,F13Z5,2016,2027
+F13Z51Z,Select Picture Audiometry Assessment using Audiometer,F13Z51,2016,2027
+F13Z52,Sound Field / Booth,F13Z5,2016,2027
+F13Z52Z,Select Picture Audiometry Assessment using Sound Field / Booth,F13Z52,2016,2027
+F13Z5K,Audiovisual,F13Z5,2016,2027
+F13Z5KZ,Select Picture Audiometry Assessment using Audiovisual Equipment,F13Z5K,2016,2027
+F13Z5Z,None,F13Z5,2016,2027
+F13Z5ZZ,Select Picture Audiometry Assessment,F13Z5Z,2016,2027
+F13Z6,Visual Reinforcement Audiometry,F13Z,2016,2027
+F13Z61,Audiometer,F13Z6,2016,2027
+F13Z61Z,Visual Reinforcement Audiometry Assessment using Audiometer,F13Z61,2016,2027
+F13Z62,Sound Field / Booth,F13Z6,2016,2027
+F13Z62Z,Visual Reinforcement Audiometry Assessment using Sound Field / Booth,F13Z62,2016,2027
+F13Z6Z,None,F13Z6,2016,2027
+F13Z6ZZ,Visual Reinforcement Audiometry Assessment,F13Z6Z,2016,2027
+F13Z7,Alternate Binaural or Monaural Loudness Balance,F13Z,2016,2027
+F13Z71,Audiometer,F13Z7,2016,2027
+F13Z71Z,Alternate Binaural or Monaural Loudness Balance Assessment using Audiometer,F13Z71,2016,2027
+F13Z7K,Audiovisual,F13Z7,2016,2027
+F13Z7KZ,Alternate Binaural or Monaural Loudness Balance Assessment using Audiovisual Equipment,F13Z7K,2016,2027
+F13Z7Z,None,F13Z7,2016,2027
+F13Z7ZZ,Alternate Binaural or Monaural Loudness Balance Assessment,F13Z7Z,2016,2027
+F13Z8,Tone Decay,F13Z,2016,2027
+F13Z83,Tympanometer,F13Z8,2016,2027
+F13Z83Z,Tone Decay Assessment using Tympanometer,F13Z83,2016,2027
+F13Z84,Electroacoustic Immitance / Acoustic Reflex,F13Z8,2016,2027
+F13Z84Z,Tone Decay Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13Z84,2016,2027
+F13Z8Z,None,F13Z8,2016,2027
+F13Z8ZZ,Tone Decay Assessment,F13Z8Z,2016,2027
+F13Z9,Short Increment Sensitivity Index,F13Z,2016,2027
+F13Z91,Audiometer,F13Z9,2016,2027
+F13Z91Z,Short Increment Sensitivity Index Assessment using Audiometer,F13Z91,2016,2027
+F13Z92,Sound Field / Booth,F13Z9,2016,2027
+F13Z92Z,Short Increment Sensitivity Index Assessment using Sound Field / Booth,F13Z92,2016,2027
+F13Z9Z,None,F13Z9,2016,2027
+F13Z9ZZ,Short Increment Sensitivity Index Assessment,F13Z9Z,2016,2027
+F13ZB,Stenger,F13Z,2016,2027
+F13ZB1,Audiometer,F13ZB,2016,2027
+F13ZB1Z,Stenger Assessment using Audiometer,F13ZB1,2016,2027
+F13ZB2,Sound Field / Booth,F13ZB,2016,2027
+F13ZB2Z,Stenger Assessment using Sound Field / Booth,F13ZB2,2016,2027
+F13ZBZ,None,F13ZB,2016,2027
+F13ZBZZ,Stenger Assessment,F13ZBZ,2016,2027
+F13ZC,Pure Tone Stenger,F13Z,2016,2027
+F13ZC1,Audiometer,F13ZC,2016,2027
+F13ZC1Z,Pure Tone Stenger Assessment using Audiometer,F13ZC1,2016,2027
+F13ZC2,Sound Field / Booth,F13ZC,2016,2027
+F13ZC2Z,Pure Tone Stenger Assessment using Sound Field / Booth,F13ZC2,2016,2027
+F13ZCZ,None,F13ZC,2016,2027
+F13ZCZZ,Pure Tone Stenger Assessment,F13ZCZ,2016,2027
+F13ZD,Tympanometry,F13Z,2016,2027
+F13ZD3,Tympanometer,F13ZD,2016,2027
+F13ZD3Z,Tympanometry Assessment using Tympanometer,F13ZD3,2016,2027
+F13ZD4,Electroacoustic Immitance / Acoustic Reflex,F13ZD,2016,2027
+F13ZD4Z,Tympanometry Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13ZD4,2016,2027
+F13ZDZ,None,F13ZD,2016,2027
+F13ZDZZ,Tympanometry Assessment,F13ZDZ,2016,2027
+F13ZF,Eustachian Tube Function,F13Z,2016,2027
+F13ZF3,Tympanometer,F13ZF,2016,2027
+F13ZF3Z,Eustachian Tube Function Assessment using Tympanometer,F13ZF3,2016,2027
+F13ZF4,Electroacoustic Immitance / Acoustic Reflex,F13ZF,2016,2027
+F13ZF4Z,Eustachian Tube Function Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13ZF4,2016,2027
+F13ZFZ,None,F13ZF,2016,2027
+F13ZFZZ,Eustachian Tube Function Assessment,F13ZFZ,2016,2027
+F13ZG,Acoustic Reflex Patterns,F13Z,2016,2027
+F13ZG3,Tympanometer,F13ZG,2016,2027
+F13ZG3Z,Acoustic Reflex Patterns Assessment using Tympanometer,F13ZG3,2016,2027
+F13ZG4,Electroacoustic Immitance / Acoustic Reflex,F13ZG,2016,2027
+F13ZG4Z,Acoustic Reflex Patterns Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13ZG4,2016,2027
+F13ZGZ,None,F13ZG,2016,2027
+F13ZGZZ,Acoustic Reflex Patterns Assessment,F13ZGZ,2016,2027
+F13ZH,Acoustic Reflex Threshold,F13Z,2016,2027
+F13ZH3,Tympanometer,F13ZH,2016,2027
+F13ZH3Z,Acoustic Reflex Threshold Assessment using Tympanometer,F13ZH3,2016,2027
+F13ZH4,Electroacoustic Immitance / Acoustic Reflex,F13ZH,2016,2027
+F13ZH4Z,Acoustic Reflex Threshold Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13ZH4,2016,2027
+F13ZHZ,None,F13ZH,2016,2027
+F13ZHZZ,Acoustic Reflex Threshold Assessment,F13ZHZ,2016,2027
+F13ZJ,Acoustic Reflex Decay,F13Z,2016,2027
+F13ZJ3,Tympanometer,F13ZJ,2016,2027
+F13ZJ3Z,Acoustic Reflex Decay Assessment using Tympanometer,F13ZJ3,2016,2027
+F13ZJ4,Electroacoustic Immitance / Acoustic Reflex,F13ZJ,2016,2027
+F13ZJ4Z,Acoustic Reflex Decay Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13ZJ4,2016,2027
+F13ZJZ,None,F13ZJ,2016,2027
+F13ZJZZ,Acoustic Reflex Decay Assessment,F13ZJZ,2016,2027
+F13ZK,Electrocochleography,F13Z,2016,2027
+F13ZK7,Electrophysiologic,F13ZK,2016,2027
+F13ZK7Z,Electrocochleography Assessment using Electrophysiologic Equipment,F13ZK7,2016,2027
+F13ZKZ,None,F13ZK,2016,2027
+F13ZKZZ,Electrocochleography Assessment,F13ZKZ,2016,2027
+F13ZL,Auditory Evoked Potentials,F13Z,2016,2027
+F13ZL7,Electrophysiologic,F13ZL,2016,2027
+F13ZL7Z,Auditory Evoked Potentials Assessment using Electrophysiologic Equipment,F13ZL7,2016,2027
+F13ZLZ,None,F13ZL,2016,2027
+F13ZLZZ,Auditory Evoked Potentials Assessment,F13ZLZ,2016,2027
+F13ZM,"Evoked Otoacoustic Emissions, Screening",F13Z,2016,2027
+F13ZM6,Otoacoustic Emission (OAE),F13ZM,2016,2027
+F13ZM6Z,"Evoked Otoacoustic Emissions, Screening Assessment using Otoacoustic Emission (OAE) Equipment",F13ZM6,2016,2027
+F13ZMZ,None,F13ZM,2016,2027
+F13ZMZZ,"Evoked Otoacoustic Emissions, Screening Assessment",F13ZMZ,2016,2027
+F13ZN,"Evoked Otoacoustic Emissions, Diagnostic",F13Z,2016,2027
+F13ZN6,Otoacoustic Emission (OAE),F13ZN,2016,2027
+F13ZN6Z,"Evoked Otoacoustic Emissions, Diagnostic Assessment using Otoacoustic Emission (OAE) Equipment",F13ZN6,2016,2027
+F13ZNZ,None,F13ZN,2016,2027
+F13ZNZZ,"Evoked Otoacoustic Emissions, Diagnostic Assessment",F13ZNZ,2016,2027
+F13ZP,Aural Rehabilitation Status,F13Z,2016,2027
+F13ZP1,Audiometer,F13ZP,2016,2027
+F13ZP1Z,Aural Rehabilitation Status Assessment using Audiometer,F13ZP1,2016,2027
+F13ZP2,Sound Field / Booth,F13ZP,2016,2027
+F13ZP2Z,Aural Rehabilitation Status Assessment using Sound Field / Booth,F13ZP2,2016,2027
+F13ZP4,Electroacoustic Immitance / Acoustic Reflex,F13ZP,2016,2027
+F13ZP4Z,Aural Rehabilitation Status Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F13ZP4,2016,2027
+F13ZP9,Cochlear Implant,F13ZP,2016,2027
+F13ZP9Z,Aural Rehabilitation Status Assessment using Cochlear Implant Equipment,F13ZP9,2016,2027
+F13ZPK,Audiovisual,F13ZP,2016,2027
+F13ZPKZ,Aural Rehabilitation Status Assessment using Audiovisual Equipment,F13ZPK,2016,2027
+F13ZPL,Assistive Listening,F13ZP,2016,2027
+F13ZPLZ,Aural Rehabilitation Status Assessment using Assistive Listening Equipment,F13ZPL,2016,2027
+F13ZPP,Computer,F13ZP,2016,2027
+F13ZPPZ,Aural Rehabilitation Status Assessment using Computer,F13ZPP,2016,2027
+F13ZPZ,None,F13ZP,2016,2027
+F13ZPZZ,Aural Rehabilitation Status Assessment,F13ZPZ,2016,2027
+F13ZQ,Auditory Processing,F13Z,2016,2027
+F13ZQK,Audiovisual,F13ZQ,2016,2027
+F13ZQKZ,Auditory Processing Assessment using Audiovisual Equipment,F13ZQK,2016,2027
+F13ZQP,Computer,F13ZQ,2016,2027
+F13ZQPZ,Auditory Processing Assessment using Computer,F13ZQP,2016,2027
+F13ZQY,Other Equipment,F13ZQ,2016,2027
+F13ZQYZ,Auditory Processing Assessment using Other Equipment,F13ZQY,2016,2027
+F13ZQZ,None,F13ZQ,2016,2027
+F13ZQZZ,Auditory Processing Assessment,F13ZQZ,2016,2027
+F14,Hearing Aid Assessment,F1,2016,2027
+F14Z,None,F14,2016,2027
+F14Z0,Cochlear Implant,F14Z,2016,2027
+F14Z01,Audiometer,F14Z0,2016,2027
+F14Z01Z,Cochlear Implant Assessment using Audiometer,F14Z01,2016,2027
+F14Z02,Sound Field / Booth,F14Z0,2016,2027
+F14Z02Z,Cochlear Implant Assessment using Sound Field / Booth,F14Z02,2016,2027
+F14Z03,Tympanometer,F14Z0,2016,2027
+F14Z03Z,Cochlear Implant Assessment using Tympanometer,F14Z03,2016,2027
+F14Z04,Electroacoustic Immitance / Acoustic Reflex,F14Z0,2016,2027
+F14Z04Z,Cochlear Implant Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F14Z04,2016,2027
+F14Z05,Hearing Aid Selection / Fitting / Test,F14Z0,2016,2027
+F14Z05Z,Cochlear Implant Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z05,2016,2027
+F14Z07,Electrophysiologic,F14Z0,2016,2027
+F14Z07Z,Cochlear Implant Assessment using Electrophysiologic Equipment,F14Z07,2016,2027
+F14Z09,Cochlear Implant,F14Z0,2016,2027
+F14Z09Z,Cochlear Implant Assessment using Cochlear Implant Equipment,F14Z09,2016,2027
+F14Z0K,Audiovisual,F14Z0,2016,2027
+F14Z0KZ,Cochlear Implant Assessment using Audiovisual Equipment,F14Z0K,2016,2027
+F14Z0L,Assistive Listening,F14Z0,2016,2027
+F14Z0LZ,Cochlear Implant Assessment using Assistive Listening Equipment,F14Z0L,2016,2027
+F14Z0P,Computer,F14Z0,2016,2027
+F14Z0PZ,Cochlear Implant Assessment using Computer,F14Z0P,2016,2027
+F14Z0Y,Other Equipment,F14Z0,2016,2027
+F14Z0YZ,Cochlear Implant Assessment using Other Equipment,F14Z0Y,2016,2027
+F14Z0Z,None,F14Z0,2016,2027
+F14Z0ZZ,Cochlear Implant Assessment,F14Z0Z,2016,2027
+F14Z1,Ear Canal Probe Microphone,F14Z,2016,2027
+F14Z15,Hearing Aid Selection / Fitting / Test,F14Z1,2016,2027
+F14Z15Z,Ear Canal Probe Microphone Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z15,2016,2027
+F14Z1Z,None,F14Z1,2016,2027
+F14Z1ZZ,Ear Canal Probe Microphone Assessment,F14Z1Z,2016,2027
+F14Z2,Monaural Hearing Aid,F14Z,2016,2027
+F14Z21,Audiometer,F14Z2,2016,2027
+F14Z21Z,Monaural Hearing Aid Assessment using Audiometer,F14Z21,2016,2027
+F14Z22,Sound Field / Booth,F14Z2,2016,2027
+F14Z22Z,Monaural Hearing Aid Assessment using Sound Field / Booth,F14Z22,2016,2027
+F14Z23,Tympanometer,F14Z2,2016,2027
+F14Z23Z,Monaural Hearing Aid Assessment using Tympanometer,F14Z23,2016,2027
+F14Z24,Electroacoustic Immitance / Acoustic Reflex,F14Z2,2016,2027
+F14Z24Z,Monaural Hearing Aid Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F14Z24,2016,2027
+F14Z25,Hearing Aid Selection / Fitting / Test,F14Z2,2016,2027
+F14Z25Z,Monaural Hearing Aid Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z25,2016,2027
+F14Z2K,Audiovisual,F14Z2,2016,2027
+F14Z2KZ,Monaural Hearing Aid Assessment using Audiovisual Equipment,F14Z2K,2016,2027
+F14Z2L,Assistive Listening,F14Z2,2016,2027
+F14Z2LZ,Monaural Hearing Aid Assessment using Assistive Listening Equipment,F14Z2L,2016,2027
+F14Z2P,Computer,F14Z2,2016,2027
+F14Z2PZ,Monaural Hearing Aid Assessment using Computer,F14Z2P,2016,2027
+F14Z2Z,None,F14Z2,2016,2027
+F14Z2ZZ,Monaural Hearing Aid Assessment,F14Z2Z,2016,2027
+F14Z3,Binaural Hearing Aid,F14Z,2016,2027
+F14Z31,Audiometer,F14Z3,2016,2027
+F14Z31Z,Binaural Hearing Aid Assessment using Audiometer,F14Z31,2016,2027
+F14Z32,Sound Field / Booth,F14Z3,2016,2027
+F14Z32Z,Binaural Hearing Aid Assessment using Sound Field / Booth,F14Z32,2016,2027
+F14Z33,Tympanometer,F14Z3,2016,2027
+F14Z33Z,Binaural Hearing Aid Assessment using Tympanometer,F14Z33,2016,2027
+F14Z34,Electroacoustic Immitance / Acoustic Reflex,F14Z3,2016,2027
+F14Z34Z,Binaural Hearing Aid Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F14Z34,2016,2027
+F14Z35,Hearing Aid Selection / Fitting / Test,F14Z3,2016,2027
+F14Z35Z,Binaural Hearing Aid Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z35,2016,2027
+F14Z3K,Audiovisual,F14Z3,2016,2027
+F14Z3KZ,Binaural Hearing Aid Assessment using Audiovisual Equipment,F14Z3K,2016,2027
+F14Z3L,Assistive Listening,F14Z3,2016,2027
+F14Z3LZ,Binaural Hearing Aid Assessment using Assistive Listening Equipment,F14Z3L,2016,2027
+F14Z3P,Computer,F14Z3,2016,2027
+F14Z3PZ,Binaural Hearing Aid Assessment using Computer,F14Z3P,2016,2027
+F14Z3Z,None,F14Z3,2016,2027
+F14Z3ZZ,Binaural Hearing Aid Assessment,F14Z3Z,2016,2027
+F14Z4,Assistive Listening System/Device Selection,F14Z,2016,2027
+F14Z41,Audiometer,F14Z4,2016,2027
+F14Z41Z,Assistive Listening System/Device Selection Assessment using Audiometer,F14Z41,2016,2027
+F14Z42,Sound Field / Booth,F14Z4,2016,2027
+F14Z42Z,Assistive Listening System/Device Selection Assessment using Sound Field / Booth,F14Z42,2016,2027
+F14Z43,Tympanometer,F14Z4,2016,2027
+F14Z43Z,Assistive Listening System/Device Selection Assessment using Tympanometer,F14Z43,2016,2027
+F14Z44,Electroacoustic Immitance / Acoustic Reflex,F14Z4,2016,2027
+F14Z44Z,Assistive Listening System/Device Selection Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F14Z44,2016,2027
+F14Z4K,Audiovisual,F14Z4,2016,2027
+F14Z4KZ,Assistive Listening System/Device Selection Assessment using Audiovisual Equipment,F14Z4K,2016,2027
+F14Z4L,Assistive Listening,F14Z4,2016,2027
+F14Z4LZ,Assistive Listening System/Device Selection Assessment using Assistive Listening Equipment,F14Z4L,2016,2027
+F14Z4Z,None,F14Z4,2016,2027
+F14Z4ZZ,Assistive Listening System/Device Selection Assessment,F14Z4Z,2016,2027
+F14Z5,Sensory Aids,F14Z,2016,2027
+F14Z51,Audiometer,F14Z5,2016,2027
+F14Z51Z,Sensory Aids Assessment using Audiometer,F14Z51,2016,2027
+F14Z52,Sound Field / Booth,F14Z5,2016,2027
+F14Z52Z,Sensory Aids Assessment using Sound Field / Booth,F14Z52,2016,2027
+F14Z53,Tympanometer,F14Z5,2016,2027
+F14Z53Z,Sensory Aids Assessment using Tympanometer,F14Z53,2016,2027
+F14Z54,Electroacoustic Immitance / Acoustic Reflex,F14Z5,2016,2027
+F14Z54Z,Sensory Aids Assessment using Electroacoustic Immitance / Acoustic Reflex Equipment,F14Z54,2016,2027
+F14Z55,Hearing Aid Selection / Fitting / Test,F14Z5,2016,2027
+F14Z55Z,Sensory Aids Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z55,2016,2027
+F14Z5K,Audiovisual,F14Z5,2016,2027
+F14Z5KZ,Sensory Aids Assessment using Audiovisual Equipment,F14Z5K,2016,2027
+F14Z5L,Assistive Listening,F14Z5,2016,2027
+F14Z5LZ,Sensory Aids Assessment using Assistive Listening Equipment,F14Z5L,2016,2027
+F14Z5Z,None,F14Z5,2016,2027
+F14Z5ZZ,Sensory Aids Assessment,F14Z5Z,2016,2027
+F14Z6,Binaural Electroacoustic Hearing Aid Check,F14Z,2016,2027
+F14Z65,Hearing Aid Selection / Fitting / Test,F14Z6,2016,2027
+F14Z65Z,Binaural Electroacoustic Hearing Aid Check Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z65,2016,2027
+F14Z6Z,None,F14Z6,2016,2027
+F14Z6ZZ,Binaural Electroacoustic Hearing Aid Check Assessment,F14Z6Z,2016,2027
+F14Z7,Ear Protector Attentuation,F14Z,2016,2027
+F14Z70,Occupational Hearing,F14Z7,2016,2027
+F14Z70Z,Ear Protector Attentuation Assessment using Occupational Hearing Equipment,F14Z70,2016,2027
+F14Z7Z,None,F14Z7,2016,2027
+F14Z7ZZ,Ear Protector Attentuation Assessment,F14Z7Z,2016,2027
+F14Z8,Monaural Electroacoustic Hearing Aid Check,F14Z,2016,2027
+F14Z85,Hearing Aid Selection / Fitting / Test,F14Z8,2016,2027
+F14Z85Z,Monaural Electroacoustic Hearing Aid Check Assessment using Hearing Aid Selection / Fitting / Test Equipment,F14Z85,2016,2027
+F14Z8Z,None,F14Z8,2016,2027
+F14Z8ZZ,Monaural Electroacoustic Hearing Aid Check Assessment,F14Z8Z,2016,2027
+F15,Vestibular Assessment,F1,2016,2027
+F15Z,None,F15,2016,2027
+F15Z0,"Bithermal, Binaural Caloric Irrigation",F15Z,2016,2027
+F15Z08,Vestibular / Balance,F15Z0,2016,2027
+F15Z08Z,"Bithermal, Binaural Caloric Irrigation Assessment using Vestibular / Balance Equipment",F15Z08,2016,2027
+F15Z0Z,None,F15Z0,2016,2027
+F15Z0ZZ,"Bithermal, Binaural Caloric Irrigation Assessment",F15Z0Z,2016,2027
+F15Z1,"Bithermal, Monaural Caloric Irrigation",F15Z,2016,2027
+F15Z18,Vestibular / Balance,F15Z1,2016,2027
+F15Z18Z,"Bithermal, Monaural Caloric Irrigation Assessment using Vestibular / Balance Equipment",F15Z18,2016,2027
+F15Z1Z,None,F15Z1,2016,2027
+F15Z1ZZ,"Bithermal, Monaural Caloric Irrigation Assessment",F15Z1Z,2016,2027
+F15Z2,Unithermal Binaural Screen,F15Z,2016,2027
+F15Z28,Vestibular / Balance,F15Z2,2016,2027
+F15Z28Z,Unithermal Binaural Screen Assessment using Vestibular / Balance Equipment,F15Z28,2016,2027
+F15Z2Z,None,F15Z2,2016,2027
+F15Z2ZZ,Unithermal Binaural Screen Assessment,F15Z2Z,2016,2027
+F15Z3,Oscillating Tracking,F15Z,2016,2027
+F15Z38,Vestibular / Balance,F15Z3,2016,2027
+F15Z38Z,Oscillating Tracking Assessment using Vestibular / Balance Equipment,F15Z38,2016,2027
+F15Z3Z,None,F15Z3,2016,2027
+F15Z3ZZ,Oscillating Tracking Assessment,F15Z3Z,2016,2027
+F15Z4,Sinusoidal Vertical Axis Rotational,F15Z,2016,2027
+F15Z48,Vestibular / Balance,F15Z4,2016,2027
+F15Z48Z,Sinusoidal Vertical Axis Rotational Assessment using Vestibular / Balance Equipment,F15Z48,2016,2027
+F15Z4Z,None,F15Z4,2016,2027
+F15Z4ZZ,Sinusoidal Vertical Axis Rotational Assessment,F15Z4Z,2016,2027
+F15Z5,Dix-Hallpike Dynamic,F15Z,2016,2027
+F15Z58,Vestibular / Balance,F15Z5,2016,2027
+F15Z58Z,Dix-Hallpike Dynamic Assessment using Vestibular / Balance Equipment,F15Z58,2016,2027
+F15Z5Z,None,F15Z5,2016,2027
+F15Z5ZZ,Dix-Hallpike Dynamic Assessment,F15Z5Z,2016,2027
+F15Z6,Computerized Dynamic Posturography,F15Z,2016,2027
+F15Z68,Vestibular / Balance,F15Z6,2016,2027
+F15Z68Z,Computerized Dynamic Posturography Assessment using Vestibular / Balance Equipment,F15Z68,2016,2027
+F15Z6Z,None,F15Z6,2016,2027
+F15Z6ZZ,Computerized Dynamic Posturography Assessment,F15Z6Z,2016,2027
+F15Z7,Tinnitus Masker,F15Z,2016,2027
+F15Z75,Hearing Aid Selection / Fitting / Test,F15Z7,2016,2027
+F15Z75Z,Tinnitus Masker Assessment using Hearing Aid Selection / Fitting / Test Equipment,F15Z75,2016,2027
+F15Z7Z,None,F15Z7,2016,2027
+F15Z7ZZ,Tinnitus Masker Assessment,F15Z7Z,2016,2027

@@ -1,0 +1,1048 @@
+code,description,parent,first_year,last_year
+N00,Acute nephritic syndrome,,2016,2027
+N00.0,Acute nephritic syndrome with minor glomerular abnormality,N00,2016,2027
+N00.1,Acute nephritic syndrome with focal and segmental glomerular lesions,N00,2016,2027
+N00.2,Acute nephritic syndrome with diffuse membranous glomerulonephritis,N00,2016,2027
+N00.3,Acute nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,N00,2016,2027
+N00.4,Acute nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,N00,2016,2027
+N00.5,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,N00,2016,2027
+N00.6,Acute nephritic syndrome with dense deposit disease,N00,2016,2027
+N00.7,Acute nephritic syndrome with diffuse crescentic glomerulonephritis,N00,2016,2027
+N00.8,Acute nephritic syndrome with other morphologic changes,N00,2016,2027
+N00.9,Acute nephritic syndrome with unspecified morphologic changes,N00,2016,2027
+N00.A,Acute nephritic syndrome with C3 glomerulonephritis,N00,2021,2027
+N00.B,Acute nephritic syndrome with immune complex membranoproliferative glomerulonephritis,N00,2026,2027
+N00.B1,Acute nephritic syndrome with idiopathic immune membranoproliferative glomerulonephritis (IC-MPGN),N00.B,2026,2027
+N00.B2,Acute nephritic syndrome with secondary immune complex membranoproliferative glomerulonephritis (IC-MPGN),N00.B,2026,2027
+N01,Rapidly progressive nephritic syndrome,,2016,2027
+N01.0,Rapidly progressive nephritic syndrome with minor glomerular abnormality,N01,2016,2027
+N01.1,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions,N01,2016,2027
+N01.2,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis,N01,2016,2027
+N01.3,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,N01,2016,2027
+N01.4,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,N01,2016,2027
+N01.5,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,N01,2016,2027
+N01.6,Rapidly progressive nephritic syndrome with dense deposit disease,N01,2016,2027
+N01.7,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis,N01,2016,2027
+N01.8,Rapidly progressive nephritic syndrome with other morphologic changes,N01,2016,2027
+N01.9,Rapidly progressive nephritic syndrome with unspecified morphologic changes,N01,2016,2027
+N01.A,Rapidly progressive nephritic syndrome with C3 glomerulonephritis,N01,2021,2027
+N02,Recurrent and persistent hematuria,,2016,2027
+N02.0,Recurrent and persistent hematuria with minor glomerular abnormality,N02,2016,2027
+N02.1,Recurrent and persistent hematuria with focal and segmental glomerular lesions,N02,2016,2027
+N02.2,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis,N02,2016,2027
+N02.3,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis,N02,2016,2027
+N02.4,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis,N02,2016,2027
+N02.5,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis,N02,2016,2027
+N02.6,Recurrent and persistent hematuria with dense deposit disease,N02,2016,2027
+N02.7,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis,N02,2016,2027
+N02.8,Recurrent and persistent hematuria with other morphologic changes,N02,2016,2027
+N02.9,Recurrent and persistent hematuria with unspecified morphologic changes,N02,2016,2027
+N02.A,Recurrent and persistent hematuria with C3 glomerulonephritis,N02,2021,2027
+N02.B,Recurrent and persistent immunoglobulin A nephropathy,N02,2024,2027
+N02.B1,Recurrent and persistent immunoglobulin A nephropathy with glomerular lesion,N02.B,2024,2027
+N02.B2,Recurrent and persistent immunoglobulin A nephropathy with focal and segmental glomerular lesion,N02.B,2024,2027
+N02.B3,Recurrent and persistent immunoglobulin A nephropathy with diffuse membranoproliferative glomerulonephritis,N02.B,2024,2027
+N02.B4,Recurrent and persistent immunoglobulin A nephropathy with diffuse membranous glomerulonephritis,N02.B,2024,2027
+N02.B5,Recurrent and persistent immunoglobulin A nephropathy with diffuse mesangial proliferative glomerulonephritis,N02.B,2024,2027
+N02.B6,Recurrent and persistent immunoglobulin A nephropathy with diffuse mesangiocapillary glomerulonephritis,N02.B,2024,2027
+N02.B9,Other recurrent and persistent immunoglobulin A nephropathy,N02.B,2024,2027
+N03,Chronic nephritic syndrome,,2016,2027
+N03.0,Chronic nephritic syndrome with minor glomerular abnormality,N03,2016,2027
+N03.1,Chronic nephritic syndrome with focal and segmental glomerular lesions,N03,2016,2027
+N03.2,Chronic nephritic syndrome with diffuse membranous glomerulonephritis,N03,2016,2027
+N03.3,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,N03,2016,2027
+N03.4,Chronic nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,N03,2016,2027
+N03.5,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,N03,2016,2027
+N03.6,Chronic nephritic syndrome with dense deposit disease,N03,2016,2027
+N03.7,Chronic nephritic syndrome with diffuse crescentic glomerulonephritis,N03,2016,2027
+N03.8,Chronic nephritic syndrome with other morphologic changes,N03,2016,2027
+N03.9,Chronic nephritic syndrome with unspecified morphologic changes,N03,2016,2027
+N03.A,Chronic nephritic syndrome with C3 glomerulonephritis,N03,2021,2027
+N04,Nephrotic syndrome,,2016,2027
+N04.0,Nephrotic syndrome with minor glomerular abnormality,N04,2016,2027
+N04.1,Nephrotic syndrome with focal and segmental glomerular lesions,N04,2016,2027
+N04.2,Nephrotic syndrome with diffuse membranous glomerulonephritis,N04,2016,2027
+N04.20,"Nephrotic syndrome with diffuse membranous glomerulonephritis, unspecified",N04.2,2024,2027
+N04.21,Primary membranous nephropathy with nephrotic syndrome,N04.2,2024,2027
+N04.22,Secondary membranous nephropathy with nephrotic syndrome,N04.2,2024,2027
+N04.29,Other nephrotic syndrome with diffuse membranous glomerulonephritis,N04.2,2024,2027
+N04.3,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis,N04,2016,2027
+N04.4,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis,N04,2016,2027
+N04.5,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis,N04,2016,2027
+N04.6,Nephrotic syndrome with dense deposit disease,N04,2016,2027
+N04.7,Nephrotic syndrome with diffuse crescentic glomerulonephritis,N04,2016,2027
+N04.8,Nephrotic syndrome with other morphologic changes,N04,2016,2027
+N04.9,Nephrotic syndrome with unspecified morphologic changes,N04,2016,2027
+N04.A,Nephrotic syndrome with C3 glomerulonephritis,N04,2021,2027
+N04.B,Nephrotic syndrome with immune complex membranoproliferative glomerulonephritis (IC-MPGN),N04,2026,2027
+N04.B1,Nephrotic syndrome with idiopathic immune complex membranoproliferative glomerulonephritis (IC-MPGN),N04.B,2026,2027
+N04.B2,Nephrotic syndrome with secondary immune complex membranoproliferative glomerulonephritis (IC-MPGN),N04.B,2026,2027
+N05,Unspecified nephritic syndrome,,2016,2027
+N05.0,Unspecified nephritic syndrome with minor glomerular abnormality,N05,2016,2027
+N05.1,Unspecified nephritic syndrome with focal and segmental glomerular lesions,N05,2016,2027
+N05.2,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis,N05,2016,2027
+N05.3,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,N05,2016,2027
+N05.4,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,N05,2016,2027
+N05.5,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,N05,2016,2027
+N05.6,Unspecified nephritic syndrome with dense deposit disease,N05,2016,2027
+N05.7,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis,N05,2016,2027
+N05.8,Unspecified nephritic syndrome with other morphologic changes,N05,2016,2027
+N05.9,Unspecified nephritic syndrome with unspecified morphologic changes,N05,2016,2027
+N05.A,Unspecified nephritic syndrome with C3 glomerulonephritis,N05,2021,2027
+N06,Isolated proteinuria with specified morphological lesion,,2016,2027
+N06.0,Isolated proteinuria with minor glomerular abnormality,N06,2016,2027
+N06.1,Isolated proteinuria with focal and segmental glomerular lesions,N06,2016,2027
+N06.2,Isolated proteinuria with diffuse membranous glomerulonephritis,N06,2016,2027
+N06.20,"Isolated proteinuria with diffuse membranous glomerulonephritis, unspecified",N06.2,2024,2027
+N06.21,Primary membranous nephropathy with isolated proteinuria,N06.2,2024,2027
+N06.22,Secondary membranous nephropathy with isolated proteinuria,N06.2,2024,2027
+N06.29,Other isolated proteinuria with diffuse membranous glomerulonephritis,N06.2,2024,2027
+N06.3,Isolated proteinuria with diffuse mesangial proliferative glomerulonephritis,N06,2016,2027
+N06.4,Isolated proteinuria with diffuse endocapillary proliferative glomerulonephritis,N06,2016,2027
+N06.5,Isolated proteinuria with diffuse mesangiocapillary glomerulonephritis,N06,2016,2027
+N06.6,Isolated proteinuria with dense deposit disease,N06,2016,2027
+N06.7,Isolated proteinuria with diffuse crescentic glomerulonephritis,N06,2016,2027
+N06.8,Isolated proteinuria with other morphologic lesion,N06,2016,2027
+N06.9,Isolated proteinuria with unspecified morphologic lesion,N06,2016,2027
+N06.A,Isolated proteinuria with C3 glomerulonephritis,N06,2021,2027
+N07,"Hereditary nephropathy, not elsewhere classified",,2016,2027
+N07.0,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality",N07,2016,2027
+N07.1,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions",N07,2016,2027
+N07.2,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis",N07,2016,2027
+N07.3,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis",N07,2016,2027
+N07.4,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis",N07,2016,2027
+N07.5,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis",N07,2016,2027
+N07.6,"Hereditary nephropathy, not elsewhere classified with dense deposit disease",N07,2016,2027
+N07.7,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis",N07,2016,2027
+N07.8,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions",N07,2016,2027
+N07.9,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions",N07,2016,2027
+N07.A,"Hereditary nephropathy, not elsewhere classified with C3 glomerulonephritis",N07,2021,2027
+N07.B,"Hereditary nephropathy, not elsewhere classified with APOL1-mediated kidney disease [AMKD]",N07,2026,2027
+N08,Glomerular disorders in diseases classified elsewhere,,2016,2027
+N10,Acute pyelonephritis,,2016,2027
+N11,Chronic tubulo-interstitial nephritis,,2016,2027
+N11.0,Nonobstructive reflux-associated chronic pyelonephritis,N11,2016,2027
+N11.1,Chronic obstructive pyelonephritis,N11,2016,2027
+N11.8,Other chronic tubulo-interstitial nephritis,N11,2016,2027
+N11.9,"Chronic tubulo-interstitial nephritis, unspecified",N11,2016,2027
+N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",,2016,2027
+N13,Obstructive and reflux uropathy,,2016,2027
+N13.0,Hydronephrosis with ureteropelvic junction obstruction,N13,2017,2027
+N13.1,"Hydronephrosis with ureteral stricture, not elsewhere classified",N13,2016,2027
+N13.2,Hydronephrosis with renal and ureteral calculous obstruction,N13,2016,2027
+N13.3,Other and unspecified hydronephrosis,N13,2016,2027
+N13.30,Unspecified hydronephrosis,N13.3,2016,2027
+N13.39,Other hydronephrosis,N13.3,2016,2027
+N13.4,Hydroureter,N13,2016,2027
+N13.5,Crossing vessel and stricture of ureter without hydronephrosis,N13,2016,2027
+N13.6,Pyonephrosis,N13,2016,2027
+N13.7,Vesicoureteral-reflux,N13,2016,2027
+N13.70,"Vesicoureteral-reflux, unspecified",N13.7,2016,2027
+N13.71,Vesicoureteral-reflux without reflux nephropathy,N13.7,2016,2027
+N13.72,Vesicoureteral-reflux with reflux nephropathy without hydroureter,N13.7,2016,2027
+N13.721,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, unilateral",N13.72,2016,2027
+N13.722,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, bilateral",N13.72,2016,2027
+N13.729,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, unspecified",N13.72,2016,2027
+N13.73,Vesicoureteral-reflux with reflux nephropathy with hydroureter,N13.7,2016,2027
+N13.731,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, unilateral",N13.73,2016,2027
+N13.732,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, bilateral",N13.73,2016,2027
+N13.739,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, unspecified",N13.73,2016,2027
+N13.8,Other obstructive and reflux uropathy,N13,2016,2027
+N13.9,"Obstructive and reflux uropathy, unspecified",N13,2016,2027
+N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,,2016,2027
+N14.0,Analgesic nephropathy,N14,2016,2027
+N14.1,"Nephropathy induced by other drugs, medicaments and biological substances",N14,2016,2027
+N14.11,Contrast-induced nephropathy,N14.1,2023,2027
+N14.19,"Nephropathy induced by other drugs, medicaments and biological substances",N14.1,2023,2027
+N14.2,"Nephropathy induced by unspecified drug, medicament or biological substance",N14,2016,2027
+N14.3,Nephropathy induced by heavy metals,N14,2016,2027
+N14.4,"Toxic nephropathy, not elsewhere classified",N14,2016,2027
+N15,Other renal tubulo-interstitial diseases,,2016,2027
+N15.0,Balkan nephropathy,N15,2016,2027
+N15.1,Renal and perinephric abscess,N15,2016,2027
+N15.8,Other specified renal tubulo-interstitial diseases,N15,2016,2027
+N15.9,"Renal tubulo-interstitial disease, unspecified",N15,2016,2027
+N16,Renal tubulo-interstitial disorders in diseases classified elsewhere,,2016,2027
+N17,Acute kidney failure,,2016,2027
+N17.0,Acute kidney failure with tubular necrosis,N17,2016,2027
+N17.1,Acute kidney failure with acute cortical necrosis,N17,2016,2027
+N17.2,Acute kidney failure with medullary necrosis,N17,2016,2027
+N17.8,Other acute kidney failure,N17,2016,2027
+N17.9,"Acute kidney failure, unspecified",N17,2016,2027
+N18,Chronic kidney disease (CKD),,2016,2027
+N18.1,"Chronic kidney disease, stage 1",N18,2016,2027
+N18.2,"Chronic kidney disease, stage 2 (mild)",N18,2016,2027
+N18.3,"Chronic kidney disease, stage 3 (moderate)",N18,2016,2027
+N18.30,"Chronic kidney disease, stage 3 unspecified",N18.3,2021,2027
+N18.31,"Chronic kidney disease, stage 3a",N18.3,2021,2027
+N18.32,"Chronic kidney disease, stage 3b",N18.3,2021,2027
+N18.4,"Chronic kidney disease, stage 4 (severe)",N18,2016,2027
+N18.5,"Chronic kidney disease, stage 5",N18,2016,2027
+N18.6,End stage renal disease,N18,2016,2027
+N18.9,"Chronic kidney disease, unspecified",N18,2016,2027
+N19,Unspecified kidney failure,,2016,2027
+N20,Calculus of kidney and ureter,,2016,2027
+N20.0,Calculus of kidney,N20,2016,2027
+N20.1,Calculus of ureter,N20,2016,2027
+N20.2,Calculus of kidney with calculus of ureter,N20,2016,2027
+N20.9,"Urinary calculus, unspecified",N20,2016,2027
+N21,Calculus of lower urinary tract,,2016,2027
+N21.0,Calculus in bladder,N21,2016,2027
+N21.1,Calculus in urethra,N21,2016,2027
+N21.8,Other lower urinary tract calculus,N21,2016,2027
+N21.9,"Calculus of lower urinary tract, unspecified",N21,2016,2027
+N22,Calculus of urinary tract in diseases classified elsewhere,,2016,2027
+N23,Unspecified renal colic,,2016,2027
+N25,Disorders resulting from impaired renal tubular function,,2016,2027
+N25.0,Renal osteodystrophy,N25,2016,2027
+N25.1,Nephrogenic diabetes insipidus,N25,2016,2027
+N25.8,Other disorders resulting from impaired renal tubular function,N25,2016,2027
+N25.81,Secondary hyperparathyroidism of renal origin,N25.8,2016,2027
+N25.89,Other disorders resulting from impaired renal tubular function,N25.8,2016,2027
+N25.9,"Disorder resulting from impaired renal tubular function, unspecified",N25,2016,2027
+N26,Unspecified contracted kidney,,2016,2027
+N26.1,Atrophy of kidney (terminal),N26,2016,2027
+N26.2,Page kidney,N26,2016,2027
+N26.9,"Renal sclerosis, unspecified",N26,2016,2027
+N27,Small kidney of unknown cause,,2016,2027
+N27.0,"Small kidney, unilateral",N27,2016,2027
+N27.1,"Small kidney, bilateral",N27,2016,2027
+N27.9,"Small kidney, unspecified",N27,2016,2027
+N28,"Other disorders of kidney and ureter, not elsewhere classified",,2016,2027
+N28.0,Ischemia and infarction of kidney,N28,2016,2027
+N28.1,"Cyst of kidney, acquired",N28,2016,2027
+N28.8,Other specified disorders of kidney and ureter,N28,2016,2027
+N28.81,Hypertrophy of kidney,N28.8,2016,2027
+N28.82,Megaloureter,N28.8,2016,2027
+N28.83,Nephroptosis,N28.8,2016,2027
+N28.84,Pyelitis cystica,N28.8,2016,2027
+N28.85,Pyeloureteritis cystica,N28.8,2016,2027
+N28.86,Ureteritis cystica,N28.8,2016,2027
+N28.89,Other specified disorders of kidney and ureter,N28.8,2016,2027
+N28.9,"Disorder of kidney and ureter, unspecified",N28,2016,2027
+N29,Other disorders of kidney and ureter in diseases classified elsewhere,,2016,2027
+N30,Cystitis,,2016,2027
+N30.0,Acute cystitis,N30,2016,2027
+N30.00,Acute cystitis without hematuria,N30.0,2016,2027
+N30.01,Acute cystitis with hematuria,N30.0,2016,2027
+N30.1,Interstitial cystitis (chronic),N30,2016,2027
+N30.10,Interstitial cystitis (chronic) without hematuria,N30.1,2016,2027
+N30.11,Interstitial cystitis (chronic) with hematuria,N30.1,2016,2027
+N30.2,Other chronic cystitis,N30,2016,2027
+N30.20,Other chronic cystitis without hematuria,N30.2,2016,2027
+N30.21,Other chronic cystitis with hematuria,N30.2,2016,2027
+N30.3,Trigonitis,N30,2016,2027
+N30.30,Trigonitis without hematuria,N30.3,2016,2027
+N30.31,Trigonitis with hematuria,N30.3,2016,2027
+N30.4,Irradiation cystitis,N30,2016,2027
+N30.40,Irradiation cystitis without hematuria,N30.4,2016,2027
+N30.41,Irradiation cystitis with hematuria,N30.4,2016,2027
+N30.8,Other cystitis,N30,2016,2027
+N30.80,Other cystitis without hematuria,N30.8,2016,2027
+N30.81,Other cystitis with hematuria,N30.8,2016,2027
+N30.9,"Cystitis, unspecified",N30,2016,2027
+N30.90,"Cystitis, unspecified without hematuria",N30.9,2016,2027
+N30.91,"Cystitis, unspecified with hematuria",N30.9,2016,2027
+N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",,2016,2027
+N31.0,"Uninhibited neuropathic bladder, not elsewhere classified",N31,2016,2027
+N31.1,"Reflex neuropathic bladder, not elsewhere classified",N31,2016,2027
+N31.2,"Flaccid neuropathic bladder, not elsewhere classified",N31,2016,2027
+N31.8,Other neuromuscular dysfunction of bladder,N31,2016,2027
+N31.9,"Neuromuscular dysfunction of bladder, unspecified",N31,2016,2027
+N32,Other disorders of bladder,,2016,2027
+N32.0,Bladder-neck obstruction,N32,2016,2027
+N32.1,Vesicointestinal fistula,N32,2016,2027
+N32.2,"Vesical fistula, not elsewhere classified",N32,2016,2027
+N32.3,Diverticulum of bladder,N32,2016,2027
+N32.8,Other specified disorders of bladder,N32,2016,2027
+N32.81,Overactive bladder,N32.8,2016,2027
+N32.89,Other specified disorders of bladder,N32.8,2016,2027
+N32.9,"Bladder disorder, unspecified",N32,2016,2027
+N33,Bladder disorders in diseases classified elsewhere,,2016,2027
+N34,Urethritis and urethral syndrome,,2016,2027
+N34.0,Urethral abscess,N34,2016,2027
+N34.1,Nonspecific urethritis,N34,2016,2027
+N34.2,Other urethritis,N34,2016,2027
+N34.3,"Urethral syndrome, unspecified",N34,2016,2027
+N35,Urethral stricture,,2016,2027
+N35.0,Post-traumatic urethral stricture,N35,2016,2027
+N35.01,"Post-traumatic urethral stricture, male",N35.0,2016,2027
+N35.010,"Post-traumatic urethral stricture, male, meatal",N35.01,2016,2027
+N35.011,Post-traumatic bulbous urethral stricture,N35.01,2016,2027
+N35.012,Post-traumatic membranous urethral stricture,N35.01,2016,2027
+N35.013,Post-traumatic anterior urethral stricture,N35.01,2016,2027
+N35.014,"Post-traumatic urethral stricture, male, unspecified",N35.01,2016,2027
+N35.016,"Post-traumatic urethral stricture, male, overlapping sites",N35.01,2019,2027
+N35.02,"Post-traumatic urethral stricture, female",N35.0,2016,2027
+N35.021,Urethral stricture due to childbirth,N35.02,2016,2027
+N35.028,"Other post-traumatic urethral stricture, female",N35.02,2016,2027
+N35.1,"Postinfective urethral stricture, not elsewhere classified",N35,2016,2027
+N35.11,"Postinfective urethral stricture, not elsewhere classified, male",N35.1,2016,2027
+N35.111,"Postinfective urethral stricture, not elsewhere classified, male, meatal",N35.11,2016,2027
+N35.112,"Postinfective bulbous urethral stricture, not elsewhere classified, male",N35.11,2016,2027
+N35.113,"Postinfective membranous urethral stricture, not elsewhere classified, male",N35.11,2016,2027
+N35.114,"Postinfective anterior urethral stricture, not elsewhere classified, male",N35.11,2016,2027
+N35.116,"Postinfective urethral stricture, not elsewhere classified, male, overlapping sites",N35.11,2019,2027
+N35.119,"Postinfective urethral stricture, not elsewhere classified, male, unspecified",N35.11,2016,2027
+N35.12,"Postinfective urethral stricture, not elsewhere classified, female",N35.1,2016,2027
+N35.8,Other urethral stricture,N35,2016,2027
+N35.81,"Other urethral stricture, male",N35.8,2019,2027
+N35.811,"Other urethral stricture, male, meatal",N35.81,2019,2027
+N35.812,"Other bulbous urethral stricture, male",N35.81,2019,2027
+N35.813,"Other membranous urethral stricture, male",N35.81,2019,2027
+N35.814,"Other anterior urethral stricture, male",N35.81,2019,2027
+N35.816,"Other urethral stricture, male, overlapping sites",N35.81,2019,2027
+N35.819,"Other urethral stricture, male, unspecified site",N35.81,2019,2027
+N35.82,"Other urethral stricture, female",N35.8,2019,2027
+N35.9,"Urethral stricture, unspecified",N35,2016,2027
+N35.91,"Urethral stricture, unspecified, male",N35.9,2019,2027
+N35.911,"Unspecified urethral stricture, male, meatal",N35.91,2019,2027
+N35.912,"Unspecified bulbous urethral stricture, male",N35.91,2019,2027
+N35.913,"Unspecified membranous urethral stricture, male",N35.91,2019,2027
+N35.914,"Unspecified anterior urethral stricture, male",N35.91,2019,2027
+N35.916,"Unspecified urethral stricture, male, overlapping sites",N35.91,2019,2027
+N35.919,"Unspecified urethral stricture, male, unspecified site",N35.91,2019,2027
+N35.92,"Unspecified urethral stricture, female",N35.9,2019,2027
+N36,Other disorders of urethra,,2016,2027
+N36.0,Urethral fistula,N36,2016,2027
+N36.1,Urethral diverticulum,N36,2016,2027
+N36.2,Urethral caruncle,N36,2016,2027
+N36.4,Urethral functional and muscular disorders,N36,2016,2027
+N36.41,Hypermobility of urethra,N36.4,2016,2027
+N36.42,Intrinsic sphincter deficiency (ISD),N36.4,2016,2027
+N36.43,Combined hypermobility of urethra and intrinsic sphincter deficiency,N36.4,2016,2027
+N36.44,Muscular disorders of urethra,N36.4,2016,2027
+N36.5,Urethral false passage,N36,2016,2027
+N36.8,Other specified disorders of urethra,N36,2016,2027
+N36.9,"Urethral disorder, unspecified",N36,2016,2027
+N37,Urethral disorders in diseases classified elsewhere,,2016,2027
+N39,Other disorders of urinary system,,2016,2027
+N39.0,"Urinary tract infection, site not specified",N39,2016,2027
+N39.3,Stress incontinence (female) (male),N39,2016,2027
+N39.4,Other specified urinary incontinence,N39,2016,2027
+N39.41,Urge incontinence,N39.4,2016,2027
+N39.42,Incontinence without sensory awareness,N39.4,2016,2027
+N39.43,Post-void dribbling,N39.4,2016,2027
+N39.44,Nocturnal enuresis,N39.4,2016,2027
+N39.45,Continuous leakage,N39.4,2016,2027
+N39.46,Mixed incontinence,N39.4,2016,2027
+N39.49,Other specified urinary incontinence,N39.4,2016,2027
+N39.490,Overflow incontinence,N39.49,2016,2027
+N39.491,Coital incontinence,N39.49,2017,2027
+N39.492,Postural (urinary) incontinence,N39.49,2017,2027
+N39.498,Other specified urinary incontinence,N39.49,2016,2027
+N39.8,Other specified disorders of urinary system,N39,2016,2027
+N39.9,"Disorder of urinary system, unspecified",N39,2016,2027
+N40,Benign prostatic hyperplasia,,2016,2027
+N40.0,Benign prostatic hyperplasia without lower urinary tract symptoms,N40,2016,2027
+N40.1,Benign prostatic hyperplasia with lower urinary tract symptoms,N40,2016,2027
+N40.2,Nodular prostate without lower urinary tract symptoms,N40,2016,2027
+N40.3,Nodular prostate with lower urinary tract symptoms,N40,2016,2027
+N41,Inflammatory diseases of prostate,,2016,2027
+N41.0,Acute prostatitis,N41,2016,2027
+N41.1,Chronic prostatitis,N41,2016,2027
+N41.2,Abscess of prostate,N41,2016,2027
+N41.3,Prostatocystitis,N41,2016,2027
+N41.4,Granulomatous prostatitis,N41,2016,2027
+N41.8,Other inflammatory diseases of prostate,N41,2016,2027
+N41.9,"Inflammatory disease of prostate, unspecified",N41,2016,2027
+N42,Other and unspecified disorders of prostate,,2016,2027
+N42.0,Calculus of prostate,N42,2016,2027
+N42.1,Congestion and hemorrhage of prostate,N42,2016,2027
+N42.3,Dysplasia of prostate,N42,2016,2027
+N42.30,Unspecified dysplasia of prostate,N42.3,2017,2027
+N42.31,Prostatic intraepithelial neoplasia,N42.3,2017,2027
+N42.32,Atypical small acinar proliferation of prostate,N42.3,2017,2027
+N42.39,Other dysplasia of prostate,N42.3,2017,2027
+N42.8,Other specified disorders of prostate,N42,2016,2027
+N42.81,Prostatodynia syndrome,N42.8,2016,2027
+N42.82,Prostatosis syndrome,N42.8,2016,2027
+N42.83,Cyst of prostate,N42.8,2016,2027
+N42.89,Other specified disorders of prostate,N42.8,2016,2027
+N42.9,"Disorder of prostate, unspecified",N42,2016,2027
+N43,Hydrocele and spermatocele,,2016,2027
+N43.0,Encysted hydrocele,N43,2016,2027
+N43.1,Infected hydrocele,N43,2016,2027
+N43.2,Other hydrocele,N43,2016,2027
+N43.3,"Hydrocele, unspecified",N43,2016,2027
+N43.4,Spermatocele of epididymis,N43,2016,2027
+N43.40,"Spermatocele of epididymis, unspecified",N43.4,2016,2027
+N43.41,"Spermatocele of epididymis, single",N43.4,2016,2027
+N43.42,"Spermatocele of epididymis, multiple",N43.4,2016,2027
+N44,Noninflammatory disorders of testis,,2016,2027
+N44.0,Torsion of testis,N44,2016,2027
+N44.00,"Torsion of testis, unspecified",N44.0,2016,2027
+N44.01,Extravaginal torsion of spermatic cord,N44.0,2016,2027
+N44.02,Intravaginal torsion of spermatic cord,N44.0,2016,2027
+N44.03,Torsion of appendix testis,N44.0,2016,2027
+N44.04,Torsion of appendix epididymis,N44.0,2016,2027
+N44.1,Cyst of tunica albuginea testis,N44,2016,2027
+N44.2,Benign cyst of testis,N44,2016,2027
+N44.8,Other noninflammatory disorders of the testis,N44,2016,2027
+N45,Orchitis and epididymitis,,2016,2027
+N45.1,Epididymitis,N45,2016,2027
+N45.2,Orchitis,N45,2016,2027
+N45.3,Epididymo-orchitis,N45,2016,2027
+N45.4,Abscess of epididymis or testis,N45,2016,2027
+N46,Male infertility,,2016,2027
+N46.0,Azoospermia,N46,2016,2027
+N46.01,Organic azoospermia,N46.0,2016,2027
+N46.02,Azoospermia due to extratesticular causes,N46.0,2016,2027
+N46.021,Azoospermia due to drug therapy,N46.02,2016,2027
+N46.022,Azoospermia due to infection,N46.02,2016,2027
+N46.023,Azoospermia due to obstruction of efferent ducts,N46.02,2016,2027
+N46.024,Azoospermia due to radiation,N46.02,2016,2027
+N46.025,Azoospermia due to systemic disease,N46.02,2016,2027
+N46.029,Azoospermia due to other extratesticular causes,N46.02,2016,2027
+N46.1,Oligospermia,N46,2016,2027
+N46.11,Organic oligospermia,N46.1,2016,2027
+N46.12,Oligospermia due to extratesticular causes,N46.1,2016,2027
+N46.121,Oligospermia due to drug therapy,N46.12,2016,2027
+N46.122,Oligospermia due to infection,N46.12,2016,2027
+N46.123,Oligospermia due to obstruction of efferent ducts,N46.12,2016,2027
+N46.124,Oligospermia due to radiation,N46.12,2016,2027
+N46.125,Oligospermia due to systemic disease,N46.12,2016,2027
+N46.129,Oligospermia due to other extratesticular causes,N46.12,2016,2027
+N46.8,Other male infertility,N46,2016,2027
+N46.9,"Male infertility, unspecified",N46,2016,2027
+N47,Disorders of prepuce,,2016,2027
+N47.0,"Adherent prepuce, newborn",N47,2016,2027
+N47.1,Phimosis,N47,2016,2027
+N47.2,Paraphimosis,N47,2016,2027
+N47.3,Deficient foreskin,N47,2016,2027
+N47.4,Benign cyst of prepuce,N47,2016,2027
+N47.5,Adhesions of prepuce and glans penis,N47,2016,2027
+N47.6,Balanoposthitis,N47,2016,2027
+N47.7,Other inflammatory diseases of prepuce,N47,2016,2027
+N47.8,Other disorders of prepuce,N47,2016,2027
+N48,Other disorders of penis,,2016,2027
+N48.0,Leukoplakia of penis,N48,2016,2027
+N48.1,Balanitis,N48,2016,2027
+N48.2,Other inflammatory disorders of penis,N48,2016,2027
+N48.21,Abscess of corpus cavernosum and penis,N48.2,2016,2027
+N48.22,Cellulitis of corpus cavernosum and penis,N48.2,2016,2027
+N48.29,Other inflammatory disorders of penis,N48.2,2016,2027
+N48.3,Priapism,N48,2016,2027
+N48.30,"Priapism, unspecified",N48.3,2016,2027
+N48.31,Priapism due to trauma,N48.3,2016,2027
+N48.32,Priapism due to disease classified elsewhere,N48.3,2016,2027
+N48.33,"Priapism, drug-induced",N48.3,2016,2027
+N48.39,Other priapism,N48.3,2016,2027
+N48.5,Ulcer of penis,N48,2016,2027
+N48.6,Induration penis plastica,N48,2016,2027
+N48.8,Other specified disorders of penis,N48,2016,2027
+N48.81,Thrombosis of superficial vein of penis,N48.8,2016,2027
+N48.82,Acquired torsion of penis,N48.8,2016,2027
+N48.83,Acquired buried penis,N48.8,2016,2027
+N48.89,Other specified disorders of penis,N48.8,2016,2027
+N48.9,"Disorder of penis, unspecified",N48,2016,2027
+N49,"Inflammatory disorders of male genital organs, not elsewhere classified",,2016,2027
+N49.0,Inflammatory disorders of seminal vesicle,N49,2016,2027
+N49.1,"Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens",N49,2016,2027
+N49.2,Inflammatory disorders of scrotum,N49,2016,2027
+N49.3,Fournier gangrene,N49,2016,2027
+N49.8,Inflammatory disorders of other specified male genital organs,N49,2016,2027
+N49.9,Inflammatory disorder of unspecified male genital organ,N49,2016,2027
+N50,Other and unspecified disorders of male genital organs,,2016,2027
+N50.0,Atrophy of testis,N50,2016,2027
+N50.1,Vascular disorders of male genital organs,N50,2016,2027
+N50.3,Cyst of epididymis,N50,2016,2027
+N50.8,Other specified disorders of male genital organs,N50,2016,2027
+N50.81,Testicular pain,N50.8,2017,2027
+N50.811,Right testicular pain,N50.81,2017,2027
+N50.812,Left testicular pain,N50.81,2017,2027
+N50.819,"Testicular pain, unspecified",N50.81,2017,2027
+N50.82,Scrotal pain,N50.8,2017,2027
+N50.89,Other specified disorders of the male genital organs,N50.8,2017,2027
+N50.9,"Disorder of male genital organs, unspecified",N50,2016,2027
+N51,Disorders of male genital organs in diseases classified elsewhere,,2016,2027
+N52,Male erectile dysfunction,,2016,2027
+N52.0,Vasculogenic erectile dysfunction,N52,2016,2027
+N52.01,Erectile dysfunction due to arterial insufficiency,N52.0,2016,2027
+N52.02,Corporo-venous occlusive erectile dysfunction,N52.0,2016,2027
+N52.03,Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction,N52.0,2016,2027
+N52.1,Erectile dysfunction due to diseases classified elsewhere,N52,2016,2027
+N52.2,Drug-induced erectile dysfunction,N52,2016,2027
+N52.3,Postprocedural erectile dysfunction,N52,2016,2027
+N52.31,Erectile dysfunction following radical prostatectomy,N52.3,2016,2027
+N52.32,Erectile dysfunction following radical cystectomy,N52.3,2016,2027
+N52.33,Erectile dysfunction following urethral surgery,N52.3,2016,2027
+N52.34,Erectile dysfunction following simple prostatectomy,N52.3,2016,2027
+N52.35,Erectile dysfunction following radiation therapy,N52.3,2017,2027
+N52.36,Erectile dysfunction following interstitial seed therapy,N52.3,2017,2027
+N52.37,Erectile dysfunction following prostate ablative therapy,N52.3,2017,2027
+N52.39,Other and unspecified postprocedural erectile dysfunction,N52.3,2016,2027
+N52.8,Other male erectile dysfunction,N52,2016,2027
+N52.9,"Male erectile dysfunction, unspecified",N52,2016,2027
+N53,Other male sexual dysfunction,,2016,2027
+N53.1,Ejaculatory dysfunction,N53,2016,2027
+N53.11,Retarded ejaculation,N53.1,2016,2027
+N53.12,Painful ejaculation,N53.1,2016,2027
+N53.13,Anejaculatory orgasm,N53.1,2016,2027
+N53.14,Retrograde ejaculation,N53.1,2016,2027
+N53.19,Other ejaculatory dysfunction,N53.1,2016,2027
+N53.8,Other male sexual dysfunction,N53,2016,2027
+N53.9,Unspecified male sexual dysfunction,N53,2016,2027
+N60,Benign mammary dysplasia,,2016,2027
+N60.0,Solitary cyst of breast,N60,2016,2027
+N60.01,Solitary cyst of right breast,N60.0,2016,2027
+N60.02,Solitary cyst of left breast,N60.0,2016,2027
+N60.09,Solitary cyst of unspecified breast,N60.0,2016,2027
+N60.1,Diffuse cystic mastopathy,N60,2016,2027
+N60.11,Diffuse cystic mastopathy of right breast,N60.1,2016,2027
+N60.12,Diffuse cystic mastopathy of left breast,N60.1,2016,2027
+N60.19,Diffuse cystic mastopathy of unspecified breast,N60.1,2016,2027
+N60.2,Fibroadenosis of breast,N60,2016,2027
+N60.21,Fibroadenosis of right breast,N60.2,2016,2027
+N60.22,Fibroadenosis of left breast,N60.2,2016,2027
+N60.29,Fibroadenosis of unspecified breast,N60.2,2016,2027
+N60.3,Fibrosclerosis of breast,N60,2016,2027
+N60.31,Fibrosclerosis of right breast,N60.3,2016,2027
+N60.32,Fibrosclerosis of left breast,N60.3,2016,2027
+N60.39,Fibrosclerosis of unspecified breast,N60.3,2016,2027
+N60.4,Mammary duct ectasia,N60,2016,2027
+N60.41,Mammary duct ectasia of right breast,N60.4,2016,2027
+N60.42,Mammary duct ectasia of left breast,N60.4,2016,2027
+N60.49,Mammary duct ectasia of unspecified breast,N60.4,2016,2027
+N60.8,Other benign mammary dysplasias,N60,2016,2027
+N60.81,Other benign mammary dysplasias of right breast,N60.8,2016,2027
+N60.82,Other benign mammary dysplasias of left breast,N60.8,2016,2027
+N60.89,Other benign mammary dysplasias of unspecified breast,N60.8,2016,2027
+N60.9,Unspecified benign mammary dysplasia,N60,2016,2027
+N60.91,Unspecified benign mammary dysplasia of right breast,N60.9,2016,2027
+N60.92,Unspecified benign mammary dysplasia of left breast,N60.9,2016,2027
+N60.99,Unspecified benign mammary dysplasia of unspecified breast,N60.9,2016,2027
+N61,Inflammatory disorders of breast,,2016,2027
+N61.0,Mastitis without abscess,N61,2017,2027
+N61.1,Abscess of the breast and nipple,N61,2017,2027
+N61.2,Granulomatous mastitis,N61,2021,2027
+N61.20,"Granulomatous mastitis, unspecified breast",N61.2,2021,2027
+N61.21,"Granulomatous mastitis, right breast",N61.2,2021,2027
+N61.22,"Granulomatous mastitis, left breast",N61.2,2021,2027
+N61.23,"Granulomatous mastitis, bilateral breast",N61.2,2021,2027
+N62,Hypertrophy of breast,,2016,2027
+N63,Unspecified lump in breast,,2016,2027
+N63.0,Unspecified lump in unspecified breast,N63,2018,2027
+N63.1,Unspecified lump in the right breast,N63,2018,2027
+N63.10,"Unspecified lump in the right breast, unspecified quadrant",N63.1,2018,2027
+N63.11,"Unspecified lump in the right breast, upper outer quadrant",N63.1,2018,2027
+N63.12,"Unspecified lump in the right breast, upper inner quadrant",N63.1,2018,2027
+N63.13,"Unspecified lump in the right breast, lower outer quadrant",N63.1,2018,2027
+N63.14,"Unspecified lump in the right breast, lower inner quadrant",N63.1,2018,2027
+N63.15,"Unspecified lump in the right breast, overlapping quadrants",N63.1,2020,2027
+N63.2,Unspecified lump in the left breast,N63,2018,2027
+N63.20,"Unspecified lump in the left breast, unspecified quadrant",N63.2,2018,2027
+N63.21,"Unspecified lump in the left breast, upper outer quadrant",N63.2,2018,2027
+N63.22,"Unspecified lump in the left breast, upper inner quadrant",N63.2,2018,2027
+N63.23,"Unspecified lump in the left breast, lower outer quadrant",N63.2,2018,2027
+N63.24,"Unspecified lump in the left breast, lower inner quadrant",N63.2,2018,2027
+N63.25,"Unspecified lump in the left breast, overlapping quadrants",N63.2,2020,2027
+N63.3,Unspecified lump in axillary tail,N63,2018,2027
+N63.31,Unspecified lump in axillary tail of the right breast,N63.3,2018,2027
+N63.32,Unspecified lump in axillary tail of the left breast,N63.3,2018,2027
+N63.4,"Unspecified lump in breast, subareolar",N63,2018,2027
+N63.41,"Unspecified lump in right breast, subareolar",N63.4,2018,2027
+N63.42,"Unspecified lump in left breast, subareolar",N63.4,2018,2027
+N64,Other disorders of breast,,2016,2027
+N64.0,Fissure and fistula of nipple,N64,2016,2027
+N64.1,Fat necrosis of breast,N64,2016,2027
+N64.2,Atrophy of breast,N64,2016,2027
+N64.3,Galactorrhea not associated with childbirth,N64,2016,2027
+N64.4,Mastodynia,N64,2016,2027
+N64.5,Other signs and symptoms in breast,N64,2016,2027
+N64.51,Induration of breast,N64.5,2016,2027
+N64.52,Nipple discharge,N64.5,2016,2027
+N64.53,Retraction of nipple,N64.5,2016,2027
+N64.59,Other signs and symptoms in breast,N64.5,2016,2027
+N64.8,Other specified disorders of breast,N64,2016,2027
+N64.81,Ptosis of breast,N64.8,2016,2027
+N64.82,Hypoplasia of breast,N64.8,2016,2027
+N64.89,Other specified disorders of breast,N64.8,2016,2027
+N64.9,"Disorder of breast, unspecified",N64,2016,2027
+N65,Deformity and disproportion of reconstructed breast,,2016,2027
+N65.0,Deformity of reconstructed breast,N65,2016,2027
+N65.1,Disproportion of reconstructed breast,N65,2016,2027
+N70,Salpingitis and oophoritis,,2016,2027
+N70.0,Acute salpingitis and oophoritis,N70,2016,2027
+N70.01,Acute salpingitis,N70.0,2016,2027
+N70.02,Acute oophoritis,N70.0,2016,2027
+N70.03,Acute salpingitis and oophoritis,N70.0,2016,2027
+N70.1,Chronic salpingitis and oophoritis,N70,2016,2027
+N70.11,Chronic salpingitis,N70.1,2016,2027
+N70.12,Chronic oophoritis,N70.1,2016,2027
+N70.13,Chronic salpingitis and oophoritis,N70.1,2016,2027
+N70.9,"Salpingitis and oophoritis, unspecified",N70,2016,2027
+N70.91,"Salpingitis, unspecified",N70.9,2016,2027
+N70.92,"Oophoritis, unspecified",N70.9,2016,2027
+N70.93,"Salpingitis and oophoritis, unspecified",N70.9,2016,2027
+N71,"Inflammatory disease of uterus, except cervix",,2016,2027
+N71.0,Acute inflammatory disease of uterus,N71,2016,2027
+N71.1,Chronic inflammatory disease of uterus,N71,2016,2027
+N71.9,"Inflammatory disease of uterus, unspecified",N71,2016,2027
+N72,Inflammatory disease of cervix uteri,,2016,2027
+N73,Other female pelvic inflammatory diseases,,2016,2027
+N73.0,Acute parametritis and pelvic cellulitis,N73,2016,2027
+N73.1,Chronic parametritis and pelvic cellulitis,N73,2016,2027
+N73.2,Unspecified parametritis and pelvic cellulitis,N73,2016,2027
+N73.3,Female acute pelvic peritonitis,N73,2016,2027
+N73.4,Female chronic pelvic peritonitis,N73,2016,2027
+N73.5,"Female pelvic peritonitis, unspecified",N73,2016,2027
+N73.6,Female pelvic peritoneal adhesions (postinfective),N73,2016,2027
+N73.8,Other specified female pelvic inflammatory diseases,N73,2016,2027
+N73.9,"Female pelvic inflammatory disease, unspecified",N73,2016,2027
+N74,Female pelvic inflammatory disorders in diseases classified elsewhere,,2016,2027
+N75,Diseases of Bartholin's gland,,2016,2027
+N75.0,Cyst of Bartholin's gland,N75,2016,2027
+N75.1,Abscess of Bartholin's gland,N75,2016,2027
+N75.8,Other diseases of Bartholin's gland,N75,2016,2027
+N75.9,"Disease of Bartholin's gland, unspecified",N75,2016,2027
+N76,Other inflammation of vagina and vulva,,2016,2027
+N76.0,Acute vaginitis,N76,2016,2027
+N76.1,Subacute and chronic vaginitis,N76,2016,2027
+N76.2,Acute vulvitis,N76,2016,2027
+N76.3,Subacute and chronic vulvitis,N76,2016,2027
+N76.4,Abscess of vulva,N76,2016,2027
+N76.5,Ulceration of vagina,N76,2016,2027
+N76.6,Ulceration of vulva,N76,2016,2027
+N76.8,Other specified inflammation of vagina and vulva,N76,2016,2027
+N76.81,Mucositis (ulcerative) of vagina and vulva,N76.8,2016,2027
+N76.82,Fournier disease of vagina and vulva,N76.8,2023,2027
+N76.89,Other specified inflammation of vagina and vulva,N76.8,2016,2027
+N77,Vulvovaginal ulceration and inflammation in diseases classified elsewhere,,2016,2027
+N77.0,Ulceration of vulva in diseases classified elsewhere,N77,2016,2027
+N77.1,"Vaginitis, vulvitis and vulvovaginitis in diseases classified elsewhere",N77,2016,2027
+N80,Endometriosis,,2016,2027
+N80.0,Endometriosis of uterus,N80,2016,2027
+N80.00,"Endometriosis of the uterus, unspecified",N80.0,2023,2027
+N80.01,Superficial endometriosis of the uterus,N80.0,2023,2027
+N80.02,Deep endometriosis of the uterus,N80.0,2023,2027
+N80.03,Adenomyosis of the uterus,N80.0,2023,2027
+N80.1,Endometriosis of ovary,N80,2016,2027
+N80.10,"Endometriosis of ovary, unspecified depth",N80.1,2023,2027
+N80.101,"Endometriosis of right ovary, unspecified depth",N80.10,2023,2027
+N80.102,"Endometriosis of left ovary, unspecified depth",N80.10,2023,2027
+N80.103,"Endometriosis of bilateral ovaries, unspecified depth",N80.10,2023,2027
+N80.109,"Endometriosis of ovary, unspecified side, unspecified depth",N80.10,2023,2027
+N80.11,Superficial endometriosis of the ovary,N80.1,2023,2027
+N80.111,Superficial endometriosis of right ovary,N80.11,2023,2027
+N80.112,Superficial endometriosis of left ovary,N80.11,2023,2027
+N80.113,Superficial endometriosis of bilateral ovaries,N80.11,2023,2027
+N80.119,"Superficial endometriosis of ovary, unspecified ovary",N80.11,2023,2027
+N80.12,Deep endometriosis of ovary,N80.1,2023,2027
+N80.121,Deep endometriosis of right ovary,N80.12,2023,2027
+N80.122,Deep endometriosis of left ovary,N80.12,2023,2027
+N80.123,Deep endometriosis of bilateral ovaries,N80.12,2023,2027
+N80.129,"Deep endometriosis of ovary, unspecified ovary",N80.12,2023,2027
+N80.2,Endometriosis of fallopian tube,N80,2016,2027
+N80.20,"Endometriosis of fallopian tube, unspecified depth",N80.2,2023,2027
+N80.201,"Endometriosis of right fallopian tube, unspecified depth",N80.20,2023,2027
+N80.202,"Endometriosis of left fallopian tube, unspecified depth",N80.20,2023,2027
+N80.203,"Endometriosis of bilateral fallopian tubes, unspecified depth",N80.20,2023,2027
+N80.209,"Endometriosis of unspecified fallopian tube, unspecified depth",N80.20,2023,2027
+N80.21,Superficial endometriosis of fallopian tube,N80.2,2023,2027
+N80.211,Superficial endometriosis of right fallopian tube,N80.21,2023,2027
+N80.212,Superficial endometriosis of left fallopian tube,N80.21,2023,2027
+N80.213,Superficial endometriosis of bilateral fallopian tubes,N80.21,2023,2027
+N80.219,Superficial endometriosis of unspecified fallopian tube,N80.21,2023,2027
+N80.22,Deep endometriosis of the fallopian tube,N80.2,2023,2027
+N80.221,Deep endometriosis of right fallopian tube,N80.22,2023,2027
+N80.222,Deep endometriosis of left fallopian tube,N80.22,2023,2027
+N80.223,Deep endometriosis of bilateral fallopian tubes,N80.22,2023,2027
+N80.229,Deep endometriosis of unspecified fallopian tube,N80.22,2023,2027
+N80.3,Endometriosis of pelvic peritoneum,N80,2016,2027
+N80.30,"Endometriosis of pelvic peritoneum, unspecified",N80.3,2023,2027
+N80.31,Endometriosis of the anterior cul-de-sac,N80.3,2023,2027
+N80.311,Superficial endometriosis of the anterior cul-de-sac,N80.31,2023,2027
+N80.312,Deep endometriosis of the anterior cul-de-sac,N80.31,2023,2027
+N80.319,"Endometriosis of the anterior cul-de-sac, unspecified depth",N80.31,2023,2027
+N80.32,Endometriosis of the posterior cul-de-sac,N80.3,2023,2027
+N80.321,Superficial endometriosis of the posterior cul-de-sac,N80.32,2023,2027
+N80.322,Deep endometriosis of the posterior cul-de-sac,N80.32,2023,2027
+N80.329,"Endometriosis of the posterior cul-de-sac, unspecified depth",N80.32,2023,2027
+N80.33,Superficial endometriosis of the pelvic sidewall,N80.3,2023,2027
+N80.331,Superficial endometriosis of the right pelvic sidewall,N80.33,2023,2027
+N80.332,Superficial endometriosis of the left pelvic sidewall,N80.33,2023,2027
+N80.333,Superficial endometriosis of bilateral pelvic sidewall,N80.33,2023,2027
+N80.339,"Superficial endometriosis of pelvic sidewall, unspecified side",N80.33,2023,2027
+N80.34,Deep endometriosis of the pelvic sidewall,N80.3,2023,2027
+N80.341,Deep endometriosis of the right pelvic sidewall,N80.34,2023,2027
+N80.342,Deep endometriosis of the left pelvic sidewall,N80.34,2023,2027
+N80.343,Deep endometriosis of the bilateral pelvic sidewall,N80.34,2023,2027
+N80.349,"Deep endometriosis of the pelvic sidewall, unspecified side",N80.34,2023,2027
+N80.35,"Endometriosis of the pelvic sidewall, unspecified depth",N80.3,2023,2027
+N80.351,"Endometriosis of the right pelvic sidewall, unspecified depth",N80.35,2023,2027
+N80.352,"Endometriosis of the left pelvic sidewall, unspecified depth",N80.35,2023,2027
+N80.353,"Endometriosis of bilateral pelvic sidewall, unspecified depth",N80.35,2023,2027
+N80.359,"Endometriosis of pelvic sidewall, unspecified side, unspecified depth",N80.35,2023,2027
+N80.36,Superficial endometriosis of the pelvic brim,N80.3,2023,2027
+N80.361,Superficial endometriosis of the right pelvic brim,N80.36,2023,2027
+N80.362,Superficial endometriosis of the left pelvic brim,N80.36,2023,2027
+N80.363,Superficial endometriosis of bilateral pelvic brim,N80.36,2023,2027
+N80.369,"Superficial endometriosis of the pelvic brim, unspecified side",N80.36,2023,2027
+N80.37,Deep endometriosis of the pelvic brim,N80.3,2023,2027
+N80.371,Deep endometriosis of the right pelvic brim,N80.37,2023,2027
+N80.372,Deep endometriosis of the left pelvic brim,N80.37,2023,2027
+N80.373,Deep endometriosis of bilateral pelvic brim,N80.37,2023,2027
+N80.379,"Deep endometriosis of the pelvic brim, unspecified side",N80.37,2023,2027
+N80.38,"Endometriosis of the pelvic brim, unspecified depth",N80.3,2023,2027
+N80.381,"Endometriosis of the right pelvic brim, unspecified depth",N80.38,2023,2027
+N80.382,"Endometriosis of the left pelvic brim, unspecified depth",N80.38,2023,2027
+N80.383,"Endometriosis of bilateral pelvic brim, unspecified depth",N80.38,2023,2027
+N80.389,"Endometriosis of the pelvic brim, unspecified side, unspecified depth",N80.38,2023,2027
+N80.39,Endometriosis of other pelvic peritoneum,N80.3,2023,2027
+N80.391,"Superficial endometriosis of the pelvic peritoneum, other specified sites",N80.39,2023,2027
+N80.392,"Deep endometriosis of the pelvic peritoneum, other specified sites",N80.39,2023,2027
+N80.399,"Endometriosis of the pelvic peritoneum, other specified sites, unspecified depth",N80.39,2023,2027
+N80.3A,Superficial endometriosis of the uterosacral ligament(s),N80.3,2023,2027
+N80.3A1,Superficial endometriosis of the right uterosacral ligament,N80.3A,2023,2027
+N80.3A2,Superficial endometriosis of the left uterosacral ligament,N80.3A,2023,2027
+N80.3A3,Superficial endometriosis of the bilateral uterosacral ligament(s),N80.3A,2023,2027
+N80.3A9,"Superficial endometriosis of the uterosacral ligament(s), unspecified side",N80.3A,2023,2027
+N80.3B,Deep endometriosis of the uterosacral ligament(s),N80.3,2023,2027
+N80.3B1,Deep endometriosis of the right uterosacral ligament,N80.3B,2023,2027
+N80.3B2,Deep endometriosis of the left uterosacral ligament,N80.3B,2023,2027
+N80.3B3,Deep endometriosis of bilateral uterosacral ligament(s),N80.3B,2023,2027
+N80.3B9,"Deep endometriosis of the uterosacral ligament(s), unspecified side",N80.3B,2023,2027
+N80.3C,"Endometriosis of the uterosacral ligament(s), unspecified depth",N80.3,2023,2027
+N80.3C1,"Endometriosis of the right uterosacral ligament, unspecified depth",N80.3C,2023,2027
+N80.3C2,"Endometriosis of the left uterosacral ligament, unspecified depth",N80.3C,2023,2027
+N80.3C3,"Endometriosis of bilateral uterosacral ligament(s), unspecified depth",N80.3C,2023,2027
+N80.3C9,"Endometriosis of the uterosacral ligament(s), unspecified side, unspecified depth",N80.3C,2023,2027
+N80.4,Endometriosis of rectovaginal septum and vagina,N80,2016,2027
+N80.40,"Endometriosis of rectovaginal septum, unspecified involvement of vagina",N80.4,2023,2027
+N80.41,Endometriosis of rectovaginal septum without involvement of vagina,N80.4,2023,2027
+N80.42,Endometriosis of rectovaginal septum with involvement of vagina,N80.4,2023,2027
+N80.5,Endometriosis of intestine,N80,2016,2027
+N80.50,"Endometriosis of intestine, unspecified",N80.5,2023,2027
+N80.51,Endometriosis of the rectum,N80.5,2023,2027
+N80.511,Superficial endometriosis of the rectum,N80.51,2023,2027
+N80.512,Deep endometriosis of the rectum,N80.51,2023,2027
+N80.519,"Endometriosis of the rectum, unspecified depth",N80.51,2023,2027
+N80.52,Endometriosis of the sigmoid colon,N80.5,2023,2027
+N80.521,Superficial endometriosis of the sigmoid colon,N80.52,2023,2027
+N80.522,Deep endometriosis of the sigmoid colon,N80.52,2023,2027
+N80.529,"Endometriosis of the sigmoid colon, unspecified depth",N80.52,2023,2027
+N80.53,Endometriosis of the cecum,N80.5,2023,2027
+N80.531,Superficial endometriosis of the cecum,N80.53,2023,2027
+N80.532,Deep endometriosis of the cecum,N80.53,2023,2027
+N80.539,"Endometriosis of the cecum, unspecified depth",N80.53,2023,2027
+N80.54,Endometriosis of the appendix,N80.5,2023,2027
+N80.541,Superficial endometriosis of the appendix,N80.54,2023,2027
+N80.542,Deep endometriosis of the appendix,N80.54,2023,2027
+N80.549,"Endometriosis of the appendix, unspecified depth",N80.54,2023,2027
+N80.55,Endometriosis of other parts of the colon,N80.5,2023,2027
+N80.551,Superficial endometriosis of other parts of the colon,N80.55,2023,2027
+N80.552,Deep endometriosis of other parts of the colon,N80.55,2023,2027
+N80.559,"Endometriosis of other parts of the colon, unspecified depth",N80.55,2023,2027
+N80.56,Endometriosis of the small intestine,N80.5,2023,2027
+N80.561,Superficial endometriosis of the small intestine,N80.56,2023,2027
+N80.562,Deep endometriosis of the small intestine,N80.56,2023,2027
+N80.569,"Endometriosis of the small intestine, unspecified depth",N80.56,2023,2027
+N80.6,Endometriosis in cutaneous scar,N80,2016,2027
+N80.8,Other endometriosis,N80,2016,2027
+N80.9,"Endometriosis, unspecified",N80,2016,2027
+N80.A,Endometriosis of bladder and ureters,N80,2023,2027
+N80.A0,"Endometriosis of bladder, unspecified depth",N80.A,2023,2027
+N80.A1,Superficial endometriosis of bladder,N80.A,2023,2027
+N80.A2,Deep endometriosis of bladder,N80.A,2023,2027
+N80.A4,Superficial endometriosis of ureter,N80.A,2023,2027
+N80.A41,Superficial endometriosis of right ureter,N80.A4,2023,2027
+N80.A42,Superficial endometriosis of left ureter,N80.A4,2023,2027
+N80.A43,Superficial endometriosis of bilateral ureters,N80.A4,2023,2027
+N80.A49,Superficial endometriosis of unspecified ureter,N80.A4,2023,2027
+N80.A5,Deep endometriosis of ureter,N80.A,2023,2027
+N80.A51,Deep endometriosis of right ureter,N80.A5,2023,2027
+N80.A52,Deep endometriosis of left ureter,N80.A5,2023,2027
+N80.A53,Deep endometriosis of bilateral ureters,N80.A5,2023,2027
+N80.A59,Deep endometriosis of unspecified ureter,N80.A5,2023,2027
+N80.A6,"Endometriosis of ureter, unspecified depth",N80.A,2023,2027
+N80.A61,"Endometriosis of right ureter, unspecified depth",N80.A6,2023,2027
+N80.A62,"Endometriosis of left ureter, unspecified depth",N80.A6,2023,2027
+N80.A63,"Endometriosis of bilateral ureters, unspecified depth",N80.A6,2023,2027
+N80.A69,"Endometriosis of unspecified ureter, unspecified depth",N80.A6,2023,2027
+N80.B,Endometriosis of cardiothoracic space,N80,2023,2027
+N80.B1,Endometriosis of pleura,N80.B,2023,2027
+N80.B2,Endometriosis of lung,N80.B,2023,2027
+N80.B3,Endometriosis of diaphragm,N80.B,2023,2027
+N80.B31,Superficial endometriosis of diaphragm,N80.B3,2023,2027
+N80.B32,Deep endometriosis of diaphragm,N80.B3,2023,2027
+N80.B39,"Endometriosis of diaphragm, unspecified depth",N80.B3,2023,2027
+N80.B4,Endometriosis of the pericardial space,N80.B,2023,2027
+N80.B5,Endometriosis of the mediastinal space,N80.B,2023,2027
+N80.B6,Endometriosis of cardiothoracic space,N80.B,2023,2027
+N80.C,Endometriosis of the abdomen,N80,2023,2027
+N80.C0,"Endometriosis of the abdomen, unspecified",N80.C,2023,2027
+N80.C1,Endometriosis of the anterior abdominal wall,N80.C,2023,2027
+N80.C10,"Endometriosis of the anterior abdominal wall, subcutaneous tissue",N80.C1,2023,2027
+N80.C11,"Endometriosis of the anterior abdominal wall, fascia and muscular layers",N80.C1,2023,2027
+N80.C19,"Endometriosis of the anterior abdominal wall, unspecified depth",N80.C1,2023,2027
+N80.C2,Endometriosis of the umbilicus,N80.C,2023,2027
+N80.C3,Endometriosis of the inguinal canal,N80.C,2023,2027
+N80.C4,Endometriosis of extra-pelvic abdominal peritoneum,N80.C,2023,2027
+N80.C9,Endometriosis of other site of abdomen,N80.C,2023,2027
+N80.D,Endometriosis of the pelvic nerves,N80,2023,2027
+N80.D0,"Endometriosis of the pelvic nerves, unspecified",N80.D,2023,2027
+N80.D1,Endometriosis of the sacral splanchnic nerves,N80.D,2023,2027
+N80.D2,Endometriosis of the sacral nerve roots,N80.D,2023,2027
+N80.D3,Endometriosis of the obturator nerve,N80.D,2023,2027
+N80.D4,Endometriosis of the sciatic nerve,N80.D,2023,2027
+N80.D5,Endometriosis of the pudendal nerve,N80.D,2023,2027
+N80.D6,Endometriosis of the femoral nerve,N80.D,2023,2027
+N80.D9,Endometriosis of other pelvic nerve,N80.D,2023,2027
+N81,Female genital prolapse,,2016,2027
+N81.0,Urethrocele,N81,2016,2027
+N81.1,Cystocele,N81,2016,2027
+N81.10,"Cystocele, unspecified",N81.1,2016,2027
+N81.11,"Cystocele, midline",N81.1,2016,2027
+N81.12,"Cystocele, lateral",N81.1,2016,2027
+N81.2,Incomplete uterovaginal prolapse,N81,2016,2027
+N81.3,Complete uterovaginal prolapse,N81,2016,2027
+N81.4,"Uterovaginal prolapse, unspecified",N81,2016,2027
+N81.5,Vaginal enterocele,N81,2016,2027
+N81.6,Rectocele,N81,2016,2027
+N81.8,Other female genital prolapse,N81,2016,2027
+N81.81,Perineocele,N81.8,2016,2027
+N81.82,Incompetence or weakening of pubocervical tissue,N81.8,2016,2027
+N81.83,Incompetence or weakening of rectovaginal tissue,N81.8,2016,2027
+N81.84,Pelvic muscle wasting,N81.8,2016,2027
+N81.85,Cervical stump prolapse,N81.8,2016,2027
+N81.89,Other female genital prolapse,N81.8,2016,2027
+N81.9,"Female genital prolapse, unspecified",N81,2016,2027
+N82,Fistulae involving female genital tract,,2016,2027
+N82.0,Vesicovaginal fistula,N82,2016,2027
+N82.1,Other female urinary-genital tract fistulae,N82,2016,2027
+N82.2,Fistula of vagina to small intestine,N82,2016,2027
+N82.3,Fistula of vagina to large intestine,N82,2016,2027
+N82.4,Other female intestinal-genital tract fistulae,N82,2016,2027
+N82.5,Female genital tract-skin fistulae,N82,2016,2027
+N82.8,Other female genital tract fistulae,N82,2016,2027
+N82.9,"Female genital tract fistula, unspecified",N82,2016,2027
+N83,"Noninflammatory disorders of ovary, fallopian tube and broad ligament",,2016,2027
+N83.0,Follicular cyst of ovary,N83,2016,2027
+N83.00,"Follicular cyst of ovary, unspecified side",N83.0,2017,2027
+N83.01,Follicular cyst of right ovary,N83.0,2017,2027
+N83.02,Follicular cyst of left ovary,N83.0,2017,2027
+N83.1,Corpus luteum cyst,N83,2016,2027
+N83.10,"Corpus luteum cyst of ovary, unspecified side",N83.1,2017,2027
+N83.11,Corpus luteum cyst of right ovary,N83.1,2017,2027
+N83.12,Corpus luteum cyst of left ovary,N83.1,2017,2027
+N83.2,Other and unspecified ovarian cysts,N83,2016,2027
+N83.20,Unspecified ovarian cysts,N83.2,2016,2027
+N83.201,"Unspecified ovarian cyst, right side",N83.20,2017,2027
+N83.202,"Unspecified ovarian cyst, left side",N83.20,2017,2027
+N83.209,"Unspecified ovarian cyst, unspecified side",N83.20,2017,2027
+N83.29,Other ovarian cysts,N83.2,2016,2027
+N83.291,"Other ovarian cyst, right side",N83.29,2017,2027
+N83.292,"Other ovarian cyst, left side",N83.29,2017,2027
+N83.299,"Other ovarian cyst, unspecified side",N83.29,2017,2027
+N83.3,Acquired atrophy of ovary and fallopian tube,N83,2016,2027
+N83.31,Acquired atrophy of ovary,N83.3,2016,2027
+N83.311,Acquired atrophy of right ovary,N83.31,2017,2027
+N83.312,Acquired atrophy of left ovary,N83.31,2017,2027
+N83.319,"Acquired atrophy of ovary, unspecified side",N83.31,2017,2027
+N83.32,Acquired atrophy of fallopian tube,N83.3,2016,2027
+N83.321,Acquired atrophy of right fallopian tube,N83.32,2017,2027
+N83.322,Acquired atrophy of left fallopian tube,N83.32,2017,2027
+N83.329,"Acquired atrophy of fallopian tube, unspecified side",N83.32,2017,2027
+N83.33,Acquired atrophy of ovary and fallopian tube,N83.3,2016,2027
+N83.331,Acquired atrophy of right ovary and fallopian tube,N83.33,2017,2027
+N83.332,Acquired atrophy of left ovary and fallopian tube,N83.33,2017,2027
+N83.339,"Acquired atrophy of ovary and fallopian tube, unspecified side",N83.33,2017,2027
+N83.4,Prolapse and hernia of ovary and fallopian tube,N83,2016,2027
+N83.40,"Prolapse and hernia of ovary and fallopian tube, unspecified side",N83.4,2017,2027
+N83.41,Prolapse and hernia of right ovary and fallopian tube,N83.4,2017,2027
+N83.42,Prolapse and hernia of left ovary and fallopian tube,N83.4,2017,2027
+N83.5,"Torsion of ovary, ovarian pedicle and fallopian tube",N83,2016,2027
+N83.51,Torsion of ovary and ovarian pedicle,N83.5,2016,2027
+N83.511,Torsion of right ovary and ovarian pedicle,N83.51,2017,2027
+N83.512,Torsion of left ovary and ovarian pedicle,N83.51,2017,2027
+N83.519,"Torsion of ovary and ovarian pedicle, unspecified side",N83.51,2017,2027
+N83.52,Torsion of fallopian tube,N83.5,2016,2027
+N83.521,Torsion of right fallopian tube,N83.52,2017,2027
+N83.522,Torsion of left fallopian tube,N83.52,2017,2027
+N83.529,"Torsion of fallopian tube, unspecified side",N83.52,2017,2027
+N83.53,"Torsion of ovary, ovarian pedicle and fallopian tube",N83.5,2016,2027
+N83.6,Hematosalpinx,N83,2016,2027
+N83.7,Hematoma of broad ligament,N83,2016,2027
+N83.8,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament",N83,2016,2027
+N83.9,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified",N83,2016,2027
+N84,Polyp of female genital tract,,2016,2027
+N84.0,Polyp of corpus uteri,N84,2016,2027
+N84.1,Polyp of cervix uteri,N84,2016,2027
+N84.2,Polyp of vagina,N84,2016,2027
+N84.3,Polyp of vulva,N84,2016,2027
+N84.8,Polyp of other parts of female genital tract,N84,2016,2027
+N84.9,"Polyp of female genital tract, unspecified",N84,2016,2027
+N85,"Other noninflammatory disorders of uterus, except cervix",,2016,2027
+N85.0,Endometrial hyperplasia,N85,2016,2027
+N85.00,"Endometrial hyperplasia, unspecified",N85.0,2016,2027
+N85.01,Benign endometrial hyperplasia,N85.0,2016,2027
+N85.02,Endometrial intraepithelial neoplasia [EIN],N85.0,2016,2027
+N85.2,Hypertrophy of uterus,N85,2016,2027
+N85.3,Subinvolution of uterus,N85,2016,2027
+N85.4,Malposition of uterus,N85,2016,2027
+N85.5,Inversion of uterus,N85,2016,2027
+N85.6,Intrauterine synechiae,N85,2016,2027
+N85.7,Hematometra,N85,2016,2027
+N85.8,Other specified noninflammatory disorders of uterus,N85,2016,2027
+N85.9,"Noninflammatory disorder of uterus, unspecified",N85,2016,2027
+N85.A,Isthmocele,N85,2023,2027
+N86,Erosion and ectropion of cervix uteri,,2016,2027
+N87,Dysplasia of cervix uteri,,2016,2027
+N87.0,Mild cervical dysplasia,N87,2016,2027
+N87.1,Moderate cervical dysplasia,N87,2016,2027
+N87.9,"Dysplasia of cervix uteri, unspecified",N87,2016,2027
+N88,Other noninflammatory disorders of cervix uteri,,2016,2027
+N88.0,Leukoplakia of cervix uteri,N88,2016,2027
+N88.1,Old laceration of cervix uteri,N88,2016,2027
+N88.2,Stricture and stenosis of cervix uteri,N88,2016,2027
+N88.3,Incompetence of cervix uteri,N88,2016,2027
+N88.4,Hypertrophic elongation of cervix uteri,N88,2016,2027
+N88.8,Other specified noninflammatory disorders of cervix uteri,N88,2016,2027
+N88.9,"Noninflammatory disorder of cervix uteri, unspecified",N88,2016,2027
+N89,Other noninflammatory disorders of vagina,,2016,2027
+N89.0,Mild vaginal dysplasia,N89,2016,2027
+N89.1,Moderate vaginal dysplasia,N89,2016,2027
+N89.3,"Dysplasia of vagina, unspecified",N89,2016,2027
+N89.4,Leukoplakia of vagina,N89,2016,2027
+N89.5,Stricture and atresia of vagina,N89,2016,2027
+N89.6,Tight hymenal ring,N89,2016,2027
+N89.7,Hematocolpos,N89,2016,2027
+N89.8,Other specified noninflammatory disorders of vagina,N89,2016,2027
+N89.9,"Noninflammatory disorder of vagina, unspecified",N89,2016,2027
+N90,Other noninflammatory disorders of vulva and perineum,,2016,2027
+N90.0,Mild vulvar dysplasia,N90,2016,2027
+N90.1,Moderate vulvar dysplasia,N90,2016,2027
+N90.3,"Dysplasia of vulva, unspecified",N90,2016,2027
+N90.4,Leukoplakia of vulva,N90,2016,2027
+N90.5,Atrophy of vulva,N90,2016,2027
+N90.6,Hypertrophy of vulva,N90,2016,2027
+N90.60,Unspecified hypertrophy of vulva,N90.6,2017,2027
+N90.61,Childhood asymmetric labium majus enlargement,N90.6,2017,2027
+N90.69,Other specified hypertrophy of vulva,N90.6,2017,2027
+N90.7,Vulvar cyst,N90,2016,2027
+N90.8,Other specified noninflammatory disorders of vulva and perineum,N90,2016,2027
+N90.81,Female genital mutilation status,N90.8,2016,2027
+N90.810,"Female genital mutilation status, unspecified",N90.81,2016,2027
+N90.811,Female genital mutilation Type I status,N90.81,2016,2027
+N90.812,Female genital mutilation Type II status,N90.81,2016,2027
+N90.813,Female genital mutilation Type III status,N90.81,2016,2027
+N90.818,Other female genital mutilation status,N90.81,2016,2027
+N90.89,Other specified noninflammatory disorders of vulva and perineum,N90.8,2016,2027
+N90.9,"Noninflammatory disorder of vulva and perineum, unspecified",N90,2016,2027
+N91,"Absent, scanty and rare menstruation",,2016,2027
+N91.0,Primary amenorrhea,N91,2016,2027
+N91.1,Secondary amenorrhea,N91,2016,2027
+N91.2,"Amenorrhea, unspecified",N91,2016,2027
+N91.3,Primary oligomenorrhea,N91,2016,2027
+N91.4,Secondary oligomenorrhea,N91,2016,2027
+N91.5,"Oligomenorrhea, unspecified",N91,2016,2027
+N92,"Excessive, frequent and irregular menstruation",,2016,2027
+N92.0,Excessive and frequent menstruation with regular cycle,N92,2016,2027
+N92.1,Excessive and frequent menstruation with irregular cycle,N92,2016,2027
+N92.2,Excessive menstruation at puberty,N92,2016,2027
+N92.3,Ovulation bleeding,N92,2016,2027
+N92.4,Excessive bleeding in the premenopausal period,N92,2016,2027
+N92.5,Other specified irregular menstruation,N92,2016,2027
+N92.6,"Irregular menstruation, unspecified",N92,2016,2027
+N93,Other abnormal uterine and vaginal bleeding,,2016,2027
+N93.0,Postcoital and contact bleeding,N93,2016,2027
+N93.1,Pre-pubertal vaginal bleeding,N93,2017,2027
+N93.8,Other specified abnormal uterine and vaginal bleeding,N93,2016,2027
+N93.9,"Abnormal uterine and vaginal bleeding, unspecified",N93,2016,2027
+N94,Pain and other conditions associated with female genital organs and menstrual cycle,,2016,2027
+N94.0,Mittelschmerz,N94,2016,2027
+N94.1,Dyspareunia,N94,2016,2027
+N94.10,Unspecified dyspareunia,N94.1,2017,2027
+N94.11,Superficial (introital) dyspareunia,N94.1,2017,2027
+N94.12,Deep dyspareunia,N94.1,2017,2027
+N94.19,Other specified dyspareunia,N94.1,2017,2027
+N94.2,Vaginismus,N94,2016,2027
+N94.3,Premenstrual tension syndrome,N94,2016,2027
+N94.4,Primary dysmenorrhea,N94,2016,2027
+N94.5,Secondary dysmenorrhea,N94,2016,2027
+N94.6,"Dysmenorrhea, unspecified",N94,2016,2027
+N94.8,Other specified conditions associated with female genital organs and menstrual cycle,N94,2016,2027
+N94.81,Vulvodynia,N94.8,2016,2027
+N94.810,Vulvar vestibulitis,N94.81,2016,2027
+N94.818,Other vulvodynia,N94.81,2016,2027
+N94.819,"Vulvodynia, unspecified",N94.81,2016,2027
+N94.89,Other specified conditions associated with female genital organs and menstrual cycle,N94.8,2016,2027
+N94.9,Unspecified condition associated with female genital organs and menstrual cycle,N94,2016,2027
+N95,Menopausal and other perimenopausal disorders,,2016,2027
+N95.0,Postmenopausal bleeding,N95,2016,2027
+N95.1,Menopausal and female climacteric states,N95,2016,2027
+N95.2,Postmenopausal atrophic vaginitis,N95,2016,2027
+N95.8,Other specified menopausal and perimenopausal disorders,N95,2016,2027
+N95.9,Unspecified menopausal and perimenopausal disorder,N95,2016,2027
+N96,Recurrent pregnancy loss,,2016,2027
+N97,Female infertility,,2016,2027
+N97.0,Female infertility associated with anovulation,N97,2016,2027
+N97.1,Female infertility of tubal origin,N97,2016,2027
+N97.2,Female infertility of uterine origin,N97,2016,2027
+N97.8,Female infertility of other origin,N97,2016,2027
+N97.9,"Female infertility, unspecified",N97,2016,2027
+N98,Complications associated with artificial fertilization,,2016,2027
+N98.0,Infection associated with artificial insemination,N98,2016,2027
+N98.1,Hyperstimulation of ovaries,N98,2016,2027
+N98.2,Complications of attempted introduction of fertilized ovum following in vitro fertilization,N98,2016,2027
+N98.3,Complications of attempted introduction of embryo in embryo transfer,N98,2016,2027
+N98.8,Other complications associated with artificial fertilization,N98,2016,2027
+N98.9,"Complication associated with artificial fertilization, unspecified",N98,2016,2027
+N99,"Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified",,2016,2027
+N99.0,Postprocedural (acute) (chronic) kidney failure,N99,2016,2027
+N99.1,Postprocedural urethral stricture,N99,2016,2027
+N99.11,"Postprocedural urethral stricture, male",N99.1,2016,2027
+N99.110,"Postprocedural urethral stricture, male, meatal",N99.11,2016,2027
+N99.111,"Postprocedural bulbous urethral stricture, male",N99.11,2016,2027
+N99.112,"Postprocedural membranous urethral stricture, male",N99.11,2016,2027
+N99.113,"Postprocedural anterior bulbous urethral stricture, male",N99.11,2016,2027
+N99.114,"Postprocedural urethral stricture, male, unspecified",N99.11,2016,2027
+N99.115,Postprocedural fossa navicularis urethral stricture,N99.11,2017,2027
+N99.116,"Postprocedural urethral stricture, male, overlapping sites",N99.11,2019,2027
+N99.12,"Postprocedural urethral stricture, female",N99.1,2016,2027
+N99.2,Postprocedural adhesions of vagina,N99,2016,2027
+N99.3,Prolapse of vaginal vault after hysterectomy,N99,2016,2027
+N99.4,Postprocedural pelvic peritoneal adhesions,N99,2016,2027
+N99.5,Complications of stoma of urinary tract,N99,2016,2027
+N99.51,Complication of cystostomy,N99.5,2016,2027
+N99.510,Cystostomy hemorrhage,N99.51,2016,2027
+N99.511,Cystostomy infection,N99.51,2016,2027
+N99.512,Cystostomy malfunction,N99.51,2016,2027
+N99.518,Other cystostomy complication,N99.51,2016,2027
+N99.52,Complication of incontinent external stoma of urinary tract,N99.5,2016,2027
+N99.520,Hemorrhage of incontinent external stoma of urinary tract,N99.52,2016,2027
+N99.521,Infection of incontinent external stoma of urinary tract,N99.52,2016,2027
+N99.522,Malfunction of incontinent external stoma of urinary tract,N99.52,2016,2027
+N99.523,Herniation of incontinent stoma of urinary tract,N99.52,2017,2027
+N99.524,Stenosis of incontinent stoma of urinary tract,N99.52,2017,2027
+N99.528,Other complication of incontinent external stoma of urinary tract,N99.52,2016,2027
+N99.53,Complication of continent stoma of urinary tract,N99.5,2016,2027
+N99.530,Hemorrhage of continent stoma of urinary tract,N99.53,2016,2027
+N99.531,Infection of continent stoma of urinary tract,N99.53,2016,2027
+N99.532,Malfunction of continent stoma of urinary tract,N99.53,2016,2027
+N99.533,Herniation of continent stoma of urinary tract,N99.53,2017,2027
+N99.534,Stenosis of continent stoma of urinary tract,N99.53,2017,2027
+N99.538,Other complication of continent stoma of urinary tract,N99.53,2016,2027
+N99.6,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating a procedure,N99,2016,2027
+N99.61,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating a genitourinary system procedure,N99.6,2016,2027
+N99.62,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating other procedure,N99.6,2016,2027
+N99.7,Accidental puncture and laceration of a genitourinary system organ or structure during a procedure,N99,2016,2027
+N99.71,Accidental puncture and laceration of a genitourinary system organ or structure during a genitourinary system procedure,N99.7,2016,2027
+N99.72,Accidental puncture and laceration of a genitourinary system organ or structure during other procedure,N99.7,2016,2027
+N99.8,Other intraoperative and postprocedural complications and disorders of genitourinary system,N99,2016,2027
+N99.81,Other intraoperative complications of genitourinary system,N99.8,2016,2027
+N99.82,Postprocedural hemorrhage of a genitourinary system organ or structure following a procedure,N99.8,2016,2027
+N99.820,Postprocedural hemorrhage of a genitourinary system organ or structure following a genitourinary system procedure,N99.82,2016,2027
+N99.821,Postprocedural hemorrhage of a genitourinary system organ or structure following other procedure,N99.82,2016,2027
+N99.83,Residual ovary syndrome,N99.8,2016,2027
+N99.84,Postprocedural hematoma and seroma of a genitourinary system organ or structure following a procedure,N99.8,2017,2027
+N99.840,Postprocedural hematoma of a genitourinary system organ or structure following a genitourinary system procedure,N99.84,2017,2027
+N99.841,Postprocedural hematoma of a genitourinary system organ or structure following other procedure,N99.84,2017,2027
+N99.842,Postprocedural seroma of a genitourinary system organ or structure following a genitourinary system procedure,N99.84,2017,2027
+N99.843,Postprocedural seroma of a genitourinary system organ or structure following other procedure,N99.84,2017,2027
+N99.85,Post endometrial ablation syndrome,N99.8,2020,2027
+N99.86,Intraoperative and postprocedural complications and disorders of breast,N99.8,2027,2027
+N99.860,Intraoperative and postprocedural nipple ischemia,N99.86,2027,2027
+N99.861,Intraoperative and postprocedural nipple necrosis,N99.86,2027,2027
+N99.89,Other postprocedural complications and disorders of genitourinary system,N99.8,2016,2027

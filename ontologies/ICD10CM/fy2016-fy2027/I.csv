@@ -1,0 +1,1811 @@
+code,description,parent,first_year,last_year
+I00,Rheumatic fever without heart involvement,,2016,2027
+I01,Rheumatic fever with heart involvement,,2016,2027
+I01.0,Acute rheumatic pericarditis,I01,2016,2027
+I01.1,Acute rheumatic endocarditis,I01,2016,2027
+I01.2,Acute rheumatic myocarditis,I01,2016,2027
+I01.8,Other acute rheumatic heart disease,I01,2016,2027
+I01.9,"Acute rheumatic heart disease, unspecified",I01,2016,2027
+I02,Rheumatic chorea,,2016,2027
+I02.0,Rheumatic chorea with heart involvement,I02,2016,2027
+I02.9,Rheumatic chorea without heart involvement,I02,2016,2027
+I05,Rheumatic mitral valve diseases,,2016,2027
+I05.0,Rheumatic mitral stenosis,I05,2016,2027
+I05.1,Rheumatic mitral insufficiency,I05,2016,2027
+I05.2,Rheumatic mitral stenosis with insufficiency,I05,2016,2027
+I05.8,Other rheumatic mitral valve diseases,I05,2016,2027
+I05.9,"Rheumatic mitral valve disease, unspecified",I05,2016,2027
+I06,Rheumatic aortic valve diseases,,2016,2027
+I06.0,Rheumatic aortic stenosis,I06,2016,2027
+I06.1,Rheumatic aortic insufficiency,I06,2016,2027
+I06.2,Rheumatic aortic stenosis with insufficiency,I06,2016,2027
+I06.8,Other rheumatic aortic valve diseases,I06,2016,2027
+I06.9,"Rheumatic aortic valve disease, unspecified",I06,2016,2027
+I07,Rheumatic tricuspid valve diseases,,2016,2027
+I07.0,Rheumatic tricuspid stenosis,I07,2016,2027
+I07.1,Rheumatic tricuspid insufficiency,I07,2016,2027
+I07.2,Rheumatic tricuspid stenosis and insufficiency,I07,2016,2027
+I07.8,Other rheumatic tricuspid valve diseases,I07,2016,2027
+I07.9,"Rheumatic tricuspid valve disease, unspecified",I07,2016,2027
+I08,Multiple valve diseases,,2016,2027
+I08.0,Rheumatic disorders of both mitral and aortic valves,I08,2016,2027
+I08.1,Rheumatic disorders of both mitral and tricuspid valves,I08,2016,2027
+I08.2,Rheumatic disorders of both aortic and tricuspid valves,I08,2016,2027
+I08.3,"Combined rheumatic disorders of mitral, aortic and tricuspid valves",I08,2016,2027
+I08.8,Other rheumatic multiple valve diseases,I08,2016,2027
+I08.9,"Rheumatic multiple valve disease, unspecified",I08,2016,2027
+I09,Other rheumatic heart diseases,,2016,2027
+I09.0,Rheumatic myocarditis,I09,2016,2027
+I09.1,"Rheumatic diseases of endocardium, valve unspecified",I09,2016,2027
+I09.2,Chronic rheumatic pericarditis,I09,2016,2027
+I09.8,Other specified rheumatic heart diseases,I09,2016,2027
+I09.81,Rheumatic heart failure,I09.8,2016,2027
+I09.89,Other specified rheumatic heart diseases,I09.8,2016,2027
+I09.9,"Rheumatic heart disease, unspecified",I09,2016,2027
+I10,Essential (primary) hypertension,,2016,2027
+I11,Hypertensive heart disease,,2016,2027
+I11.0,Hypertensive heart disease with heart failure,I11,2016,2027
+I11.9,Hypertensive heart disease without heart failure,I11,2016,2027
+I12,Hypertensive chronic kidney disease,,2016,2027
+I12.0,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,I12,2016,2027
+I12.9,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",I12,2016,2027
+I13,Hypertensive heart and chronic kidney disease,,2016,2027
+I13.0,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",I13,2016,2027
+I13.1,Hypertensive heart and chronic kidney disease without heart failure,I13,2016,2027
+I13.10,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",I13.1,2016,2027
+I13.11,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease",I13.1,2016,2027
+I13.2,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",I13,2016,2027
+I15,Secondary hypertension,,2016,2027
+I15.0,Renovascular hypertension,I15,2016,2027
+I15.1,Hypertension secondary to other renal disorders,I15,2016,2027
+I15.2,Hypertension secondary to endocrine disorders,I15,2016,2027
+I15.8,Other secondary hypertension,I15,2016,2027
+I15.9,"Secondary hypertension, unspecified",I15,2016,2027
+I16,Hypertensive crisis,,2017,2027
+I16.0,Hypertensive urgency,I16,2017,2027
+I16.1,Hypertensive emergency,I16,2017,2027
+I16.9,"Hypertensive crisis, unspecified",I16,2017,2027
+I1A,Other hypertension,,2024,2027
+I1A.0,Resistant hypertension,I1A,2024,2027
+I20,Angina pectoris,,2016,2027
+I20.0,Unstable angina,I20,2016,2027
+I20.1,Angina pectoris with documented spasm,I20,2016,2027
+I20.2,Refractory angina pectoris,I20,2023,2027
+I20.8,Other forms of angina pectoris,I20,2016,2027
+I20.81,Angina pectoris with coronary microvascular dysfunction,I20.8,2024,2027
+I20.89,Other forms of angina pectoris,I20.8,2024,2027
+I20.9,"Angina pectoris, unspecified",I20,2016,2027
+I21,Acute myocardial infarction,,2016,2027
+I21.0,ST elevation (STEMI) myocardial infarction of anterior wall,I21,2016,2027
+I21.01,ST elevation (STEMI) myocardial infarction involving left main coronary artery,I21.0,2016,2027
+I21.02,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery,I21.0,2016,2027
+I21.09,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall,I21.0,2016,2027
+I21.1,ST elevation (STEMI) myocardial infarction of inferior wall,I21,2016,2027
+I21.11,ST elevation (STEMI) myocardial infarction involving right coronary artery,I21.1,2016,2027
+I21.19,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall,I21.1,2016,2027
+I21.2,ST elevation (STEMI) myocardial infarction of other sites,I21,2016,2027
+I21.21,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery,I21.2,2016,2027
+I21.29,ST elevation (STEMI) myocardial infarction involving other sites,I21.2,2016,2027
+I21.3,ST elevation (STEMI) myocardial infarction of unspecified site,I21,2016,2027
+I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I21,2016,2027
+I21.9,"Acute myocardial infarction, unspecified",I21,2018,2027
+I21.A,Other type of myocardial infarction,I21,2018,2027
+I21.A1,Myocardial infarction type 2,I21.A,2018,2027
+I21.A9,Other myocardial infarction type,I21.A,2018,2027
+I21.B,Myocardial infarction with coronary microvascular dysfunction,I21,2024,2027
+I22,Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction,,2016,2027
+I22.0,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall,I22,2016,2027
+I22.1,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall,I22,2016,2027
+I22.2,Subsequent non-ST elevation (NSTEMI) myocardial infarction,I22,2016,2027
+I22.8,Subsequent ST elevation (STEMI) myocardial infarction of other sites,I22,2016,2027
+I22.9,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site,I22,2016,2027
+I23,Certain current complications following ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction (within the 28 day period),,2016,2027
+I23.0,Hemopericardium as current complication following acute myocardial infarction,I23,2016,2027
+I23.1,Atrial septal defect as current complication following acute myocardial infarction,I23,2016,2027
+I23.2,Ventricular septal defect as current complication following acute myocardial infarction,I23,2016,2027
+I23.3,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,I23,2016,2027
+I23.4,Rupture of chordae tendineae as current complication following acute myocardial infarction,I23,2016,2027
+I23.5,Rupture of papillary muscle as current complication following acute myocardial infarction,I23,2016,2027
+I23.6,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",I23,2016,2027
+I23.7,Postinfarction angina,I23,2016,2027
+I23.8,Other current complications following acute myocardial infarction,I23,2016,2027
+I24,Other acute ischemic heart diseases,,2016,2027
+I24.0,Acute coronary thrombosis not resulting in myocardial infarction,I24,2016,2027
+I24.1,Dressler's syndrome,I24,2016,2027
+I24.8,Other forms of acute ischemic heart disease,I24,2016,2027
+I24.81,Acute coronary microvascular dysfunction,I24.8,2024,2027
+I24.89,Other forms of acute ischemic heart disease,I24.8,2024,2027
+I24.9,"Acute ischemic heart disease, unspecified",I24,2016,2027
+I25,Chronic ischemic heart disease,,2016,2027
+I25.1,Atherosclerotic heart disease of native coronary artery,I25,2016,2027
+I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I25.1,2016,2027
+I25.11,Atherosclerotic heart disease of native coronary artery with angina pectoris,I25.1,2016,2027
+I25.110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,I25.11,2016,2027
+I25.111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm,I25.11,2016,2027
+I25.112,Atherosclerotic heart disease of native coronary artery with refractory angina pectoris,I25.11,2023,2027
+I25.118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris,I25.11,2016,2027
+I25.119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,I25.11,2016,2027
+I25.2,Old myocardial infarction,I25,2016,2027
+I25.3,Aneurysm of heart,I25,2016,2027
+I25.4,Coronary artery aneurysm and dissection,I25,2016,2027
+I25.41,Coronary artery aneurysm,I25.4,2016,2027
+I25.42,Coronary artery dissection,I25.4,2016,2027
+I25.5,Ischemic cardiomyopathy,I25,2016,2027
+I25.6,Silent myocardial ischemia,I25,2016,2027
+I25.7,Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris,I25,2016,2027
+I25.70,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris",I25.7,2016,2027
+I25.700,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris",I25.70,2016,2027
+I25.701,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm",I25.70,2016,2027
+I25.702,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with refractory angina pectoris",I25.70,2023,2027
+I25.708,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris",I25.70,2016,2027
+I25.709,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris",I25.70,2016,2027
+I25.71,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris,I25.7,2016,2027
+I25.710,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris,I25.71,2016,2027
+I25.711,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm,I25.71,2016,2027
+I25.712,Atherosclerosis of autologous vein coronary artery bypass graft(s) with refractory angina pectoris,I25.71,2023,2027
+I25.718,Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris,I25.71,2016,2027
+I25.719,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris,I25.71,2016,2027
+I25.72,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris,I25.7,2016,2027
+I25.720,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris,I25.72,2016,2027
+I25.721,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm,I25.72,2016,2027
+I25.722,Atherosclerosis of autologous artery coronary artery bypass graft(s) with refractory angina pectoris,I25.72,2023,2027
+I25.728,Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris,I25.72,2016,2027
+I25.729,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris,I25.72,2016,2027
+I25.73,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris,I25.7,2016,2027
+I25.730,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris,I25.73,2016,2027
+I25.731,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm,I25.73,2016,2027
+I25.732,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with refractory angina pectoris,I25.73,2023,2027
+I25.738,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris,I25.73,2016,2027
+I25.739,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris,I25.73,2016,2027
+I25.75,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris,I25.7,2016,2027
+I25.750,Atherosclerosis of native coronary artery of transplanted heart with unstable angina,I25.75,2016,2027
+I25.751,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm,I25.75,2016,2027
+I25.752,Atherosclerosis of native coronary artery of transplanted heart with refractory angina pectoris,I25.75,2023,2027
+I25.758,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris,I25.75,2016,2027
+I25.759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris,I25.75,2016,2027
+I25.76,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris,I25.7,2016,2027
+I25.760,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina,I25.76,2016,2027
+I25.761,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm,I25.76,2016,2027
+I25.762,Atherosclerosis of bypass graft of coronary artery of transplanted heart with refractory angina pectoris,I25.76,2023,2027
+I25.768,Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris,I25.76,2016,2027
+I25.769,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris,I25.76,2016,2027
+I25.79,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris,I25.7,2016,2027
+I25.790,Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris,I25.79,2016,2027
+I25.791,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm,I25.79,2016,2027
+I25.792,Atherosclerosis of other coronary artery bypass graft(s) with refractory angina pectoris,I25.79,2023,2027
+I25.798,Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris,I25.79,2016,2027
+I25.799,Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris,I25.79,2016,2027
+I25.8,Other forms of chronic ischemic heart disease,I25,2016,2027
+I25.81,Atherosclerosis of other coronary vessels without angina pectoris,I25.8,2016,2027
+I25.810,Atherosclerosis of coronary artery bypass graft(s) without angina pectoris,I25.81,2016,2027
+I25.811,Atherosclerosis of native coronary artery of transplanted heart without angina pectoris,I25.81,2016,2027
+I25.812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris,I25.81,2016,2027
+I25.82,Chronic total occlusion of coronary artery,I25.8,2016,2027
+I25.83,Coronary atherosclerosis due to lipid rich plaque,I25.8,2016,2027
+I25.84,Coronary atherosclerosis due to calcified coronary lesion,I25.8,2016,2027
+I25.85,Chronic coronary microvascular dysfunction,I25.8,2024,2027
+I25.89,Other forms of chronic ischemic heart disease,I25.8,2016,2027
+I25.9,"Chronic ischemic heart disease, unspecified",I25,2016,2027
+I26,Pulmonary embolism,,2016,2027
+I26.0,Pulmonary embolism with acute cor pulmonale,I26,2016,2027
+I26.01,Septic pulmonary embolism with acute cor pulmonale,I26.0,2016,2027
+I26.02,Saddle embolus of pulmonary artery with acute cor pulmonale,I26.0,2016,2027
+I26.03,Cement embolism of pulmonary artery with acute cor pulmonale,I26.0,2025,2027
+I26.04,Fat embolism of pulmonary artery with acute cor pulmonale,I26.0,2025,2027
+I26.09,Other pulmonary embolism with acute cor pulmonale,I26.0,2016,2027
+I26.9,Pulmonary embolism without acute cor pulmonale,I26,2016,2027
+I26.90,Septic pulmonary embolism without acute cor pulmonale,I26.9,2016,2027
+I26.92,Saddle embolus of pulmonary artery without acute cor pulmonale,I26.9,2016,2027
+I26.93,Single subsegmental thrombotic pulmonary embolism without acute cor pulmonale,I26.9,2020,2027
+I26.94,Multiple subsegmental thrombotic pulmonary emboli without acute cor pulmonale,I26.9,2020,2027
+I26.95,Cement embolism of pulmonary artery without acute cor pulmonale,I26.9,2025,2027
+I26.96,Fat embolism of pulmonary artery without acute cor pulmonale,I26.9,2025,2027
+I26.99,Other pulmonary embolism without acute cor pulmonale,I26.9,2016,2027
+I27,Other pulmonary heart diseases,,2016,2027
+I27.0,Primary pulmonary hypertension,I27,2016,2027
+I27.1,Kyphoscoliotic heart disease,I27,2016,2027
+I27.2,Other secondary pulmonary hypertension,I27,2016,2027
+I27.20,"Pulmonary hypertension, unspecified",I27.2,2018,2027
+I27.21,Secondary pulmonary arterial hypertension,I27.2,2018,2027
+I27.22,Pulmonary hypertension due to left heart disease,I27.2,2018,2027
+I27.23,Pulmonary hypertension due to lung diseases and hypoxia,I27.2,2018,2027
+I27.24,Chronic thromboembolic pulmonary hypertension,I27.2,2018,2027
+I27.29,Other secondary pulmonary hypertension,I27.2,2018,2027
+I27.8,Other specified pulmonary heart diseases,I27,2016,2027
+I27.81,Cor pulmonale (chronic),I27.8,2016,2027
+I27.82,Chronic pulmonary embolism,I27.8,2016,2027
+I27.83,Eisenmenger's syndrome,I27.8,2018,2027
+I27.84,Fontan related circulation,I27.8,2026,2027
+I27.840,Fontan-associated liver disease [FALD],I27.84,2026,2027
+I27.841,Fontan-associated lymphatic dysfunction,I27.84,2026,2027
+I27.848,Other Fontan-associated condition,I27.84,2026,2027
+I27.849,"Fontan related circulation, unspecified",I27.84,2026,2027
+I27.89,Other specified pulmonary heart diseases,I27.8,2016,2027
+I27.9,"Pulmonary heart disease, unspecified",I27,2016,2027
+I28,Other diseases of pulmonary vessels,,2016,2027
+I28.0,Arteriovenous fistula of pulmonary vessels,I28,2016,2027
+I28.1,Aneurysm of pulmonary artery,I28,2016,2027
+I28.8,Other diseases of pulmonary vessels,I28,2016,2027
+I28.9,"Disease of pulmonary vessels, unspecified",I28,2016,2027
+I30,Acute pericarditis,,2016,2027
+I30.0,Acute nonspecific idiopathic pericarditis,I30,2016,2027
+I30.1,Infective pericarditis,I30,2016,2027
+I30.8,Other forms of acute pericarditis,I30,2016,2027
+I30.9,"Acute pericarditis, unspecified",I30,2016,2027
+I31,Other diseases of pericardium,,2016,2027
+I31.0,Chronic adhesive pericarditis,I31,2016,2027
+I31.1,Chronic constrictive pericarditis,I31,2016,2027
+I31.2,"Hemopericardium, not elsewhere classified",I31,2016,2027
+I31.3,Pericardial effusion (noninflammatory),I31,2016,2027
+I31.31,Malignant pericardial effusion in diseases classified elsewhere,I31.3,2023,2027
+I31.39,Other pericardial effusion (noninflammatory),I31.3,2023,2027
+I31.4,Cardiac tamponade,I31,2016,2027
+I31.8,Other specified diseases of pericardium,I31,2016,2027
+I31.9,"Disease of pericardium, unspecified",I31,2016,2027
+I32,Pericarditis in diseases classified elsewhere,,2016,2027
+I33,Acute and subacute endocarditis,,2016,2027
+I33.0,Acute and subacute infective endocarditis,I33,2016,2027
+I33.9,"Acute and subacute endocarditis, unspecified",I33,2016,2027
+I34,Nonrheumatic mitral valve disorders,,2016,2027
+I34.0,Nonrheumatic mitral (valve) insufficiency,I34,2016,2027
+I34.1,Nonrheumatic mitral (valve) prolapse,I34,2016,2027
+I34.2,Nonrheumatic mitral (valve) stenosis,I34,2016,2027
+I34.8,Other nonrheumatic mitral valve disorders,I34,2016,2027
+I34.81,Nonrheumatic mitral (valve) annulus calcification,I34.8,2023,2027
+I34.89,Other nonrheumatic mitral valve disorders,I34.8,2023,2027
+I34.9,"Nonrheumatic mitral valve disorder, unspecified",I34,2016,2027
+I35,Nonrheumatic aortic valve disorders,,2016,2027
+I35.0,Nonrheumatic aortic (valve) stenosis,I35,2016,2027
+I35.1,Nonrheumatic aortic (valve) insufficiency,I35,2016,2027
+I35.2,Nonrheumatic aortic (valve) stenosis with insufficiency,I35,2016,2027
+I35.8,Other nonrheumatic aortic valve disorders,I35,2016,2027
+I35.9,"Nonrheumatic aortic valve disorder, unspecified",I35,2016,2027
+I36,Nonrheumatic tricuspid valve disorders,,2016,2027
+I36.0,Nonrheumatic tricuspid (valve) stenosis,I36,2016,2027
+I36.1,Nonrheumatic tricuspid (valve) insufficiency,I36,2016,2027
+I36.2,Nonrheumatic tricuspid (valve) stenosis with insufficiency,I36,2016,2027
+I36.8,Other nonrheumatic tricuspid valve disorders,I36,2016,2027
+I36.9,"Nonrheumatic tricuspid valve disorder, unspecified",I36,2016,2027
+I37,Nonrheumatic pulmonary valve disorders,,2016,2027
+I37.0,Nonrheumatic pulmonary valve stenosis,I37,2016,2027
+I37.1,Nonrheumatic pulmonary valve insufficiency,I37,2016,2027
+I37.2,Nonrheumatic pulmonary valve stenosis with insufficiency,I37,2016,2027
+I37.8,Other nonrheumatic pulmonary valve disorders,I37,2016,2027
+I37.9,"Nonrheumatic pulmonary valve disorder, unspecified",I37,2016,2027
+I38,"Endocarditis, valve unspecified",,2016,2027
+I39,Endocarditis and heart valve disorders in diseases classified elsewhere,,2016,2027
+I40,Acute myocarditis,,2016,2027
+I40.0,Infective myocarditis,I40,2016,2027
+I40.1,Isolated myocarditis,I40,2016,2027
+I40.8,Other acute myocarditis,I40,2016,2027
+I40.9,"Acute myocarditis, unspecified",I40,2016,2027
+I41,Myocarditis in diseases classified elsewhere,,2016,2027
+I42,Cardiomyopathy,,2016,2027
+I42.0,Dilated cardiomyopathy,I42,2016,2027
+I42.00,"Dilated cardiomyopathy, unspecified",I42.0,2027,2027
+I42.01,Familial-genetic dilated cardiomyopathy,I42.0,2027,2027
+I42.09,Other dilated cardiomyopathy,I42.0,2027,2027
+I42.1,Obstructive hypertrophic cardiomyopathy,I42,2016,2027
+I42.2,Other hypertrophic cardiomyopathy,I42,2016,2027
+I42.3,Endomyocardial (eosinophilic) disease,I42,2016,2027
+I42.4,Endocardial fibroelastosis,I42,2016,2027
+I42.5,Other restrictive cardiomyopathy,I42,2016,2027
+I42.6,Alcoholic cardiomyopathy,I42,2016,2027
+I42.7,Cardiomyopathy due to drug and external agent,I42,2016,2027
+I42.8,Other cardiomyopathies,I42,2016,2027
+I42.81,Arrhythmogenic cardiomyopathy,I42.8,2027,2027
+I42.89,Other cardiomyopathies not elsewhere classified,I42.8,2027,2027
+I42.9,"Cardiomyopathy, unspecified",I42,2016,2027
+I43,Cardiomyopathy in diseases classified elsewhere,,2016,2027
+I44,Atrioventricular and left bundle-branch block,,2016,2027
+I44.0,"Atrioventricular block, first degree",I44,2016,2027
+I44.1,"Atrioventricular block, second degree",I44,2016,2027
+I44.2,"Atrioventricular block, complete",I44,2016,2027
+I44.3,Other and unspecified atrioventricular block,I44,2016,2027
+I44.30,Unspecified atrioventricular block,I44.3,2016,2027
+I44.39,Other atrioventricular block,I44.3,2016,2027
+I44.4,Left anterior fascicular block,I44,2016,2027
+I44.5,Left posterior fascicular block,I44,2016,2027
+I44.6,Other and unspecified fascicular block,I44,2016,2027
+I44.60,Unspecified fascicular block,I44.6,2016,2027
+I44.69,Other fascicular block,I44.6,2016,2027
+I44.7,"Left bundle-branch block, unspecified",I44,2016,2027
+I45,Other conduction disorders,,2016,2027
+I45.0,Right fascicular block,I45,2016,2027
+I45.1,Other and unspecified right bundle-branch block,I45,2016,2027
+I45.10,Unspecified right bundle-branch block,I45.1,2016,2027
+I45.19,Other right bundle-branch block,I45.1,2016,2027
+I45.2,Bifascicular block,I45,2016,2027
+I45.3,Trifascicular block,I45,2016,2027
+I45.4,Nonspecific intraventricular block,I45,2016,2027
+I45.5,Other specified heart block,I45,2016,2027
+I45.6,Pre-excitation syndrome,I45,2016,2027
+I45.8,Other specified conduction disorders,I45,2016,2027
+I45.81,Long QT syndrome,I45.8,2016,2027
+I45.89,Other specified conduction disorders,I45.8,2016,2027
+I45.9,"Conduction disorder, unspecified",I45,2016,2027
+I46,Cardiac arrest,,2016,2027
+I46.2,Cardiac arrest due to underlying cardiac condition,I46,2016,2027
+I46.8,Cardiac arrest due to other underlying condition,I46,2016,2027
+I46.9,"Cardiac arrest, cause unspecified",I46,2016,2027
+I47,Paroxysmal tachycardia,,2016,2027
+I47.0,Re-entry ventricular arrhythmia,I47,2016,2027
+I47.1,Supraventricular tachycardia,I47,2016,2027
+I47.10,"Supraventricular tachycardia, unspecified",I47.1,2024,2027
+I47.11,"Inappropriate sinus tachycardia, so stated",I47.1,2024,2027
+I47.19,Other supraventricular tachycardia,I47.1,2024,2027
+I47.2,Ventricular tachycardia,I47,2016,2027
+I47.20,"Ventricular tachycardia, unspecified",I47.2,2023,2027
+I47.21,Torsades de pointes,I47.2,2023,2027
+I47.22,Catecholaminergic polymorphic ventricular tachycardia [CPVT],I47.2,2027,2027
+I47.29,Other ventricular tachycardia,I47.2,2023,2027
+I47.9,"Paroxysmal tachycardia, unspecified",I47,2016,2027
+I48,Atrial fibrillation and flutter,,2016,2027
+I48.0,Paroxysmal atrial fibrillation,I48,2016,2027
+I48.1,Persistent atrial fibrillation,I48,2016,2027
+I48.11,Longstanding persistent atrial fibrillation,I48.1,2020,2027
+I48.19,Other persistent atrial fibrillation,I48.1,2020,2027
+I48.2,Chronic atrial fibrillation,I48,2016,2027
+I48.20,"Chronic atrial fibrillation, unspecified",I48.2,2020,2027
+I48.21,Permanent atrial fibrillation,I48.2,2020,2027
+I48.3,Typical atrial flutter,I48,2016,2027
+I48.4,Atypical atrial flutter,I48,2016,2027
+I48.9,Unspecified atrial fibrillation and atrial flutter,I48,2016,2027
+I48.91,Unspecified atrial fibrillation,I48.9,2016,2027
+I48.92,Unspecified atrial flutter,I48.9,2016,2027
+I49,Other cardiac arrhythmias,,2016,2027
+I49.0,Ventricular fibrillation and flutter,I49,2016,2027
+I49.01,Ventricular fibrillation,I49.0,2016,2027
+I49.02,Ventricular flutter,I49.0,2016,2027
+I49.1,Atrial premature depolarization,I49,2016,2027
+I49.2,Junctional premature depolarization,I49,2016,2027
+I49.3,Ventricular premature depolarization,I49,2016,2027
+I49.4,Other and unspecified premature depolarization,I49,2016,2027
+I49.40,Unspecified premature depolarization,I49.4,2016,2027
+I49.49,Other premature depolarization,I49.4,2016,2027
+I49.5,Sick sinus syndrome,I49,2016,2027
+I49.8,Other specified cardiac arrhythmias,I49,2016,2027
+I49.81,Brugada syndrome,I49.8,2027,2027
+I49.82,Ventricular bigeminy,I49.8,2027,2027
+I49.89,Other specified cardiac arrhythmias not elsewhere classified,I49.8,2027,2027
+I49.9,"Cardiac arrhythmia, unspecified",I49,2016,2027
+I50,Heart failure,,2016,2027
+I50.1,"Left ventricular failure, unspecified",I50,2016,2027
+I50.2,Systolic (congestive) heart failure,I50,2016,2027
+I50.20,Unspecified systolic (congestive) heart failure,I50.2,2016,2027
+I50.21,Acute systolic (congestive) heart failure,I50.2,2016,2027
+I50.22,Chronic systolic (congestive) heart failure,I50.2,2016,2027
+I50.23,Acute on chronic systolic (congestive) heart failure,I50.2,2016,2027
+I50.3,Diastolic (congestive) heart failure,I50,2016,2027
+I50.30,Unspecified diastolic (congestive) heart failure,I50.3,2016,2027
+I50.31,Acute diastolic (congestive) heart failure,I50.3,2016,2027
+I50.32,Chronic diastolic (congestive) heart failure,I50.3,2016,2027
+I50.33,Acute on chronic diastolic (congestive) heart failure,I50.3,2016,2027
+I50.4,Combined systolic (congestive) and diastolic (congestive) heart failure,I50,2016,2027
+I50.40,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure,I50.4,2016,2027
+I50.41,Acute combined systolic (congestive) and diastolic (congestive) heart failure,I50.4,2016,2027
+I50.42,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,I50.4,2016,2027
+I50.43,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,I50.4,2016,2027
+I50.8,Other heart failure,I50,2018,2027
+I50.81,Right heart failure,I50.8,2018,2027
+I50.810,"Right heart failure, unspecified",I50.81,2018,2027
+I50.811,Acute right heart failure,I50.81,2018,2027
+I50.812,Chronic right heart failure,I50.81,2018,2027
+I50.813,Acute on chronic right heart failure,I50.81,2018,2027
+I50.814,Right heart failure due to left heart failure,I50.81,2018,2027
+I50.82,Biventricular heart failure,I50.8,2018,2027
+I50.83,High output heart failure,I50.8,2018,2027
+I50.84,End stage heart failure,I50.8,2018,2027
+I50.89,Other heart failure,I50.8,2018,2027
+I50.9,"Heart failure, unspecified",I50,2016,2027
+I51,Complications and ill-defined descriptions of heart disease,,2016,2027
+I51.0,"Cardiac septal defect, acquired",I51,2016,2027
+I51.1,"Rupture of chordae tendineae, not elsewhere classified",I51,2016,2027
+I51.2,"Rupture of papillary muscle, not elsewhere classified",I51,2016,2027
+I51.3,"Intracardiac thrombosis, not elsewhere classified",I51,2016,2027
+I51.4,"Myocarditis, unspecified",I51,2016,2027
+I51.5,Myocardial degeneration,I51,2016,2027
+I51.7,Cardiomegaly,I51,2016,2027
+I51.8,Other ill-defined heart diseases,I51,2016,2027
+I51.81,Takotsubo syndrome,I51.8,2016,2027
+I51.89,Other ill-defined heart diseases,I51.8,2016,2027
+I51.9,"Heart disease, unspecified",I51,2016,2027
+I52,Other heart disorders in diseases classified elsewhere,,2016,2027
+I5A,Non-ischemic myocardial injury (non-traumatic),,2022,2027
+I60,Nontraumatic subarachnoid hemorrhage,,2016,2027
+I60.0,Nontraumatic subarachnoid hemorrhage from carotid siphon and bifurcation,I60,2016,2027
+I60.00,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation,I60.0,2016,2027
+I60.01,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation,I60.0,2016,2027
+I60.02,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation,I60.0,2016,2027
+I60.1,Nontraumatic subarachnoid hemorrhage from middle cerebral artery,I60,2016,2027
+I60.10,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery,I60.1,2016,2027
+I60.11,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery,I60.1,2016,2027
+I60.12,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery,I60.1,2016,2027
+I60.2,Nontraumatic subarachnoid hemorrhage from anterior communicating artery,I60,2016,2027
+I60.20,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery,I60.2,2016,2016
+I60.21,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery,I60.2,2016,2016
+I60.22,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery,I60.2,2016,2016
+I60.3,Nontraumatic subarachnoid hemorrhage from posterior communicating artery,I60,2016,2027
+I60.30,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery,I60.3,2016,2027
+I60.31,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery,I60.3,2016,2027
+I60.32,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery,I60.3,2016,2027
+I60.4,Nontraumatic subarachnoid hemorrhage from basilar artery,I60,2016,2027
+I60.5,Nontraumatic subarachnoid hemorrhage from vertebral artery,I60,2016,2027
+I60.50,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery,I60.5,2016,2027
+I60.51,Nontraumatic subarachnoid hemorrhage from right vertebral artery,I60.5,2016,2027
+I60.52,Nontraumatic subarachnoid hemorrhage from left vertebral artery,I60.5,2016,2027
+I60.6,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,I60,2016,2027
+I60.7,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,I60,2016,2027
+I60.8,Other nontraumatic subarachnoid hemorrhage,I60,2016,2027
+I60.9,"Nontraumatic subarachnoid hemorrhage, unspecified",I60,2016,2027
+I61,Nontraumatic intracerebral hemorrhage,,2016,2027
+I61.0,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",I61,2016,2027
+I61.1,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical",I61,2016,2027
+I61.2,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified",I61,2016,2027
+I61.3,Nontraumatic intracerebral hemorrhage in brain stem,I61,2016,2027
+I61.4,Nontraumatic intracerebral hemorrhage in cerebellum,I61,2016,2027
+I61.5,"Nontraumatic intracerebral hemorrhage, intraventricular",I61,2016,2027
+I61.6,"Nontraumatic intracerebral hemorrhage, multiple localized",I61,2016,2027
+I61.8,Other nontraumatic intracerebral hemorrhage,I61,2016,2027
+I61.9,"Nontraumatic intracerebral hemorrhage, unspecified",I61,2016,2027
+I62,Other and unspecified nontraumatic intracranial hemorrhage,,2016,2027
+I62.0,Nontraumatic subdural hemorrhage,I62,2016,2027
+I62.00,"Nontraumatic subdural hemorrhage, unspecified",I62.0,2016,2027
+I62.01,Nontraumatic acute subdural hemorrhage,I62.0,2016,2027
+I62.02,Nontraumatic subacute subdural hemorrhage,I62.0,2016,2027
+I62.03,Nontraumatic chronic subdural hemorrhage,I62.0,2016,2027
+I62.1,Nontraumatic extradural hemorrhage,I62,2016,2027
+I62.9,"Nontraumatic intracranial hemorrhage, unspecified",I62,2016,2027
+I63,Cerebral infarction,,2016,2027
+I63.0,Cerebral infarction due to thrombosis of precerebral arteries,I63,2016,2027
+I63.00,Cerebral infarction due to thrombosis of unspecified precerebral artery,I63.0,2016,2027
+I63.01,Cerebral infarction due to thrombosis of vertebral artery,I63.0,2016,2027
+I63.011,Cerebral infarction due to thrombosis of right vertebral artery,I63.01,2016,2027
+I63.012,Cerebral infarction due to thrombosis of left vertebral artery,I63.01,2016,2027
+I63.013,Cerebral infarction due to thrombosis of bilateral vertebral arteries,I63.01,2017,2027
+I63.019,Cerebral infarction due to thrombosis of unspecified vertebral artery,I63.01,2016,2027
+I63.02,Cerebral infarction due to thrombosis of basilar artery,I63.0,2016,2027
+I63.03,Cerebral infarction due to thrombosis of carotid artery,I63.0,2016,2027
+I63.031,Cerebral infarction due to thrombosis of right carotid artery,I63.03,2016,2027
+I63.032,Cerebral infarction due to thrombosis of left carotid artery,I63.03,2016,2027
+I63.033,Cerebral infarction due to thrombosis of bilateral carotid arteries,I63.03,2017,2027
+I63.039,Cerebral infarction due to thrombosis of unspecified carotid artery,I63.03,2016,2027
+I63.09,Cerebral infarction due to thrombosis of other precerebral artery,I63.0,2016,2027
+I63.1,Cerebral infarction due to embolism of precerebral arteries,I63,2016,2027
+I63.10,Cerebral infarction due to embolism of unspecified precerebral artery,I63.1,2016,2027
+I63.11,Cerebral infarction due to embolism of vertebral artery,I63.1,2016,2027
+I63.111,Cerebral infarction due to embolism of right vertebral artery,I63.11,2016,2027
+I63.112,Cerebral infarction due to embolism of left vertebral artery,I63.11,2016,2027
+I63.113,Cerebral infarction due to embolism of bilateral vertebral arteries,I63.11,2017,2027
+I63.119,Cerebral infarction due to embolism of unspecified vertebral artery,I63.11,2016,2027
+I63.12,Cerebral infarction due to embolism of basilar artery,I63.1,2016,2027
+I63.13,Cerebral infarction due to embolism of carotid artery,I63.1,2016,2027
+I63.131,Cerebral infarction due to embolism of right carotid artery,I63.13,2016,2027
+I63.132,Cerebral infarction due to embolism of left carotid artery,I63.13,2016,2027
+I63.133,Cerebral infarction due to embolism of bilateral carotid arteries,I63.13,2017,2027
+I63.139,Cerebral infarction due to embolism of unspecified carotid artery,I63.13,2016,2027
+I63.19,Cerebral infarction due to embolism of other precerebral artery,I63.1,2016,2027
+I63.2,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,I63,2016,2027
+I63.20,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,I63.2,2016,2027
+I63.21,Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries,I63.2,2016,2027
+I63.211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral artery,I63.21,2016,2027
+I63.212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral artery,I63.21,2016,2027
+I63.213,Cerebral infarction due to unspecified occlusion or stenosis of bilateral vertebral arteries,I63.21,2017,2027
+I63.219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral artery,I63.21,2016,2027
+I63.22,Cerebral infarction due to unspecified occlusion or stenosis of basilar artery,I63.2,2016,2027
+I63.23,Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries,I63.2,2016,2027
+I63.231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,I63.23,2016,2027
+I63.232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,I63.23,2016,2027
+I63.233,Cerebral infarction due to unspecified occlusion or stenosis of bilateral carotid arteries,I63.23,2017,2027
+I63.239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid artery,I63.23,2016,2027
+I63.29,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,I63.2,2016,2027
+I63.3,Cerebral infarction due to thrombosis of cerebral arteries,I63,2016,2027
+I63.30,Cerebral infarction due to thrombosis of unspecified cerebral artery,I63.3,2016,2027
+I63.31,Cerebral infarction due to thrombosis of middle cerebral artery,I63.3,2016,2027
+I63.311,Cerebral infarction due to thrombosis of right middle cerebral artery,I63.31,2016,2027
+I63.312,Cerebral infarction due to thrombosis of left middle cerebral artery,I63.31,2016,2027
+I63.313,Cerebral infarction due to thrombosis of bilateral middle cerebral arteries,I63.31,2017,2027
+I63.319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery,I63.31,2016,2027
+I63.32,Cerebral infarction due to thrombosis of anterior cerebral artery,I63.3,2016,2027
+I63.321,Cerebral infarction due to thrombosis of right anterior cerebral artery,I63.32,2016,2027
+I63.322,Cerebral infarction due to thrombosis of left anterior cerebral artery,I63.32,2016,2027
+I63.323,Cerebral infarction due to thrombosis of bilateral anterior cerebral arteries,I63.32,2017,2027
+I63.329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery,I63.32,2016,2027
+I63.33,Cerebral infarction due to thrombosis of posterior cerebral artery,I63.3,2016,2027
+I63.331,Cerebral infarction due to thrombosis of right posterior cerebral artery,I63.33,2016,2027
+I63.332,Cerebral infarction due to thrombosis of left posterior cerebral artery,I63.33,2016,2027
+I63.333,Cerebral infarction due to thrombosis of bilateral posterior cerebral arteries,I63.33,2017,2027
+I63.339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery,I63.33,2016,2027
+I63.34,Cerebral infarction due to thrombosis of cerebellar artery,I63.3,2016,2027
+I63.341,Cerebral infarction due to thrombosis of right cerebellar artery,I63.34,2016,2027
+I63.342,Cerebral infarction due to thrombosis of left cerebellar artery,I63.34,2016,2027
+I63.343,Cerebral infarction due to thrombosis of bilateral cerebellar arteries,I63.34,2017,2027
+I63.349,Cerebral infarction due to thrombosis of unspecified cerebellar artery,I63.34,2016,2027
+I63.39,Cerebral infarction due to thrombosis of other cerebral artery,I63.3,2016,2027
+I63.4,Cerebral infarction due to embolism of cerebral arteries,I63,2016,2027
+I63.40,Cerebral infarction due to embolism of unspecified cerebral artery,I63.4,2016,2027
+I63.41,Cerebral infarction due to embolism of middle cerebral artery,I63.4,2016,2027
+I63.411,Cerebral infarction due to embolism of right middle cerebral artery,I63.41,2016,2027
+I63.412,Cerebral infarction due to embolism of left middle cerebral artery,I63.41,2016,2027
+I63.413,Cerebral infarction due to embolism of bilateral middle cerebral arteries,I63.41,2017,2027
+I63.419,Cerebral infarction due to embolism of unspecified middle cerebral artery,I63.41,2016,2027
+I63.42,Cerebral infarction due to embolism of anterior cerebral artery,I63.4,2016,2027
+I63.421,Cerebral infarction due to embolism of right anterior cerebral artery,I63.42,2016,2027
+I63.422,Cerebral infarction due to embolism of left anterior cerebral artery,I63.42,2016,2027
+I63.423,Cerebral infarction due to embolism of bilateral anterior cerebral arteries,I63.42,2017,2027
+I63.429,Cerebral infarction due to embolism of unspecified anterior cerebral artery,I63.42,2016,2027
+I63.43,Cerebral infarction due to embolism of posterior cerebral artery,I63.4,2016,2027
+I63.431,Cerebral infarction due to embolism of right posterior cerebral artery,I63.43,2016,2027
+I63.432,Cerebral infarction due to embolism of left posterior cerebral artery,I63.43,2016,2027
+I63.433,Cerebral infarction due to embolism of bilateral posterior cerebral arteries,I63.43,2017,2027
+I63.439,Cerebral infarction due to embolism of unspecified posterior cerebral artery,I63.43,2016,2027
+I63.44,Cerebral infarction due to embolism of cerebellar artery,I63.4,2016,2027
+I63.441,Cerebral infarction due to embolism of right cerebellar artery,I63.44,2016,2027
+I63.442,Cerebral infarction due to embolism of left cerebellar artery,I63.44,2016,2027
+I63.443,Cerebral infarction due to embolism of bilateral cerebellar arteries,I63.44,2017,2027
+I63.449,Cerebral infarction due to embolism of unspecified cerebellar artery,I63.44,2016,2027
+I63.49,Cerebral infarction due to embolism of other cerebral artery,I63.4,2016,2027
+I63.5,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,I63,2016,2027
+I63.50,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,I63.5,2016,2027
+I63.51,Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery,I63.5,2016,2027
+I63.511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery,I63.51,2016,2027
+I63.512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,I63.51,2016,2027
+I63.513,Cerebral infarction due to unspecified occlusion or stenosis of bilateral middle cerebral arteries,I63.51,2017,2027
+I63.519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,I63.51,2016,2027
+I63.52,Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery,I63.5,2016,2027
+I63.521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery,I63.52,2016,2027
+I63.522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery,I63.52,2016,2027
+I63.523,Cerebral infarction due to unspecified occlusion or stenosis of bilateral anterior cerebral arteries,I63.52,2017,2027
+I63.529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,I63.52,2016,2027
+I63.53,Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery,I63.5,2016,2027
+I63.531,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,I63.53,2016,2027
+I63.532,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,I63.53,2016,2027
+I63.533,Cerebral infarction due to unspecified occlusion or stenosis of bilateral posterior cerebral arteries,I63.53,2017,2027
+I63.539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,I63.53,2016,2027
+I63.54,Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery,I63.5,2016,2027
+I63.541,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,I63.54,2016,2027
+I63.542,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,I63.54,2016,2027
+I63.543,Cerebral infarction due to unspecified occlusion or stenosis of bilateral cerebellar arteries,I63.54,2017,2027
+I63.549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,I63.54,2016,2027
+I63.59,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,I63.5,2016,2027
+I63.6,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",I63,2016,2027
+I63.8,Other cerebral infarction,I63,2016,2027
+I63.81,Other cerebral infarction due to occlusion or stenosis of small artery,I63.8,2019,2027
+I63.89,Other cerebral infarction,I63.8,2019,2027
+I63.9,"Cerebral infarction, unspecified",I63,2016,2027
+I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",,2016,2027
+I65.0,Occlusion and stenosis of vertebral artery,I65,2016,2027
+I65.01,Occlusion and stenosis of right vertebral artery,I65.0,2016,2027
+I65.02,Occlusion and stenosis of left vertebral artery,I65.0,2016,2027
+I65.03,Occlusion and stenosis of bilateral vertebral arteries,I65.0,2016,2027
+I65.09,Occlusion and stenosis of unspecified vertebral artery,I65.0,2016,2027
+I65.1,Occlusion and stenosis of basilar artery,I65,2016,2027
+I65.2,Occlusion and stenosis of carotid artery,I65,2016,2027
+I65.21,Occlusion and stenosis of right carotid artery,I65.2,2016,2027
+I65.22,Occlusion and stenosis of left carotid artery,I65.2,2016,2027
+I65.23,Occlusion and stenosis of bilateral carotid arteries,I65.2,2016,2027
+I65.29,Occlusion and stenosis of unspecified carotid artery,I65.2,2016,2027
+I65.8,Occlusion and stenosis of other precerebral arteries,I65,2016,2027
+I65.9,Occlusion and stenosis of unspecified precerebral artery,I65,2016,2027
+I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",,2016,2027
+I66.0,Occlusion and stenosis of middle cerebral artery,I66,2016,2027
+I66.01,Occlusion and stenosis of right middle cerebral artery,I66.0,2016,2027
+I66.02,Occlusion and stenosis of left middle cerebral artery,I66.0,2016,2027
+I66.03,Occlusion and stenosis of bilateral middle cerebral arteries,I66.0,2016,2027
+I66.09,Occlusion and stenosis of unspecified middle cerebral artery,I66.0,2016,2027
+I66.1,Occlusion and stenosis of anterior cerebral artery,I66,2016,2027
+I66.11,Occlusion and stenosis of right anterior cerebral artery,I66.1,2016,2027
+I66.12,Occlusion and stenosis of left anterior cerebral artery,I66.1,2016,2027
+I66.13,Occlusion and stenosis of bilateral anterior cerebral arteries,I66.1,2016,2027
+I66.19,Occlusion and stenosis of unspecified anterior cerebral artery,I66.1,2016,2027
+I66.2,Occlusion and stenosis of posterior cerebral artery,I66,2016,2027
+I66.21,Occlusion and stenosis of right posterior cerebral artery,I66.2,2016,2027
+I66.22,Occlusion and stenosis of left posterior cerebral artery,I66.2,2016,2027
+I66.23,Occlusion and stenosis of bilateral posterior cerebral arteries,I66.2,2016,2027
+I66.29,Occlusion and stenosis of unspecified posterior cerebral artery,I66.2,2016,2027
+I66.3,Occlusion and stenosis of cerebellar arteries,I66,2016,2027
+I66.8,Occlusion and stenosis of other cerebral arteries,I66,2016,2027
+I66.9,Occlusion and stenosis of unspecified cerebral artery,I66,2016,2027
+I67,Other cerebrovascular diseases,,2016,2027
+I67.0,"Dissection of cerebral arteries, nonruptured",I67,2016,2027
+I67.1,"Cerebral aneurysm, nonruptured",I67,2016,2027
+I67.2,Cerebral atherosclerosis,I67,2016,2027
+I67.3,Progressive vascular leukoencephalopathy,I67,2016,2027
+I67.4,Hypertensive encephalopathy,I67,2016,2027
+I67.5,Moyamoya disease,I67,2016,2027
+I67.6,Nonpyogenic thrombosis of intracranial venous system,I67,2016,2027
+I67.7,"Cerebral arteritis, not elsewhere classified",I67,2016,2027
+I67.8,Other specified cerebrovascular diseases,I67,2016,2027
+I67.81,Acute cerebrovascular insufficiency,I67.8,2016,2027
+I67.82,Cerebral ischemia,I67.8,2016,2027
+I67.83,Posterior reversible encephalopathy syndrome,I67.8,2016,2027
+I67.84,Cerebral vasospasm and vasoconstriction,I67.8,2016,2027
+I67.841,Reversible cerebrovascular vasoconstriction syndrome,I67.84,2016,2027
+I67.848,Other cerebrovascular vasospasm and vasoconstriction,I67.84,2016,2027
+I67.85,Hereditary cerebrovascular diseases,I67.8,2019,2027
+I67.850,Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy,I67.85,2019,2027
+I67.858,Other hereditary cerebrovascular disease,I67.85,2019,2027
+I67.89,Other cerebrovascular disease,I67.8,2016,2027
+I67.9,"Cerebrovascular disease, unspecified",I67,2016,2027
+I68,Cerebrovascular disorders in diseases classified elsewhere,,2016,2027
+I68.0,Cerebral amyloid angiopathy,I68,2016,2027
+I68.2,Cerebral arteritis in other diseases classified elsewhere,I68,2016,2027
+I68.8,Other cerebrovascular disorders in diseases classified elsewhere,I68,2016,2027
+I69,Sequelae of cerebrovascular disease,,2016,2027
+I69.0,Sequelae of nontraumatic subarachnoid hemorrhage,I69,2016,2027
+I69.00,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.01,Cognitive deficits following nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.010,Attention and concentration deficit following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.011,Memory deficit following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.012,Visuospatial deficit and spatial neglect following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.013,Psychomotor deficit following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.014,Frontal lobe and executive function deficit following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.015,Cognitive social or emotional deficit following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.018,Other symptoms and signs involving cognitive functions following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.019,Unspecified symptoms and signs involving cognitive functions following nontraumatic subarachnoid hemorrhage,I69.01,2017,2027
+I69.02,Speech and language deficits following nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.020,Aphasia following nontraumatic subarachnoid hemorrhage,I69.02,2016,2027
+I69.021,Dysphasia following nontraumatic subarachnoid hemorrhage,I69.02,2016,2027
+I69.022,Dysarthria following nontraumatic subarachnoid hemorrhage,I69.02,2016,2027
+I69.023,Fluency disorder following nontraumatic subarachnoid hemorrhage,I69.02,2016,2027
+I69.028,Other speech and language deficits following nontraumatic subarachnoid hemorrhage,I69.02,2016,2027
+I69.03,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.031,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting right dominant side,I69.03,2016,2027
+I69.032,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting left dominant side,I69.03,2016,2027
+I69.033,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,I69.03,2016,2027
+I69.034,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,I69.03,2016,2027
+I69.039,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting unspecified side,I69.03,2016,2027
+I69.04,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.041,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting right dominant side,I69.04,2016,2027
+I69.042,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left dominant side,I69.04,2016,2027
+I69.043,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,I69.04,2016,2027
+I69.044,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,I69.04,2016,2027
+I69.049,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting unspecified side,I69.04,2016,2027
+I69.05,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.051,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right dominant side,I69.05,2016,2027
+I69.052,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left dominant side,I69.05,2016,2027
+I69.053,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,I69.05,2016,2027
+I69.054,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,I69.05,2016,2027
+I69.059,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting unspecified side,I69.05,2016,2027
+I69.06,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.061,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right dominant side,I69.06,2016,2027
+I69.062,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting left dominant side,I69.06,2016,2027
+I69.063,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,I69.06,2016,2027
+I69.064,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,I69.06,2016,2027
+I69.065,"Other paralytic syndrome following nontraumatic subarachnoid hemorrhage, bilateral",I69.06,2016,2027
+I69.069,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting unspecified side,I69.06,2016,2027
+I69.09,Other sequelae of nontraumatic subarachnoid hemorrhage,I69.0,2016,2027
+I69.090,Apraxia following nontraumatic subarachnoid hemorrhage,I69.09,2016,2027
+I69.091,Dysphagia following nontraumatic subarachnoid hemorrhage,I69.09,2016,2027
+I69.092,Facial weakness following nontraumatic subarachnoid hemorrhage,I69.09,2016,2027
+I69.093,Ataxia following nontraumatic subarachnoid hemorrhage,I69.09,2016,2027
+I69.098,Other sequelae following nontraumatic subarachnoid hemorrhage,I69.09,2016,2027
+I69.1,Sequelae of nontraumatic intracerebral hemorrhage,I69,2016,2027
+I69.10,Unspecified sequelae of nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.11,Cognitive deficits following nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.110,Attention and concentration deficit following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.111,Memory deficit following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.112,Visuospatial deficit and spatial neglect following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.113,Psychomotor deficit following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.114,Frontal lobe and executive function deficit following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.115,Cognitive social or emotional deficit following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.118,Other symptoms and signs involving cognitive functions following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.119,Unspecified symptoms and signs involving cognitive functions following nontraumatic intracerebral hemorrhage,I69.11,2017,2027
+I69.12,Speech and language deficits following nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.120,Aphasia following nontraumatic intracerebral hemorrhage,I69.12,2016,2027
+I69.121,Dysphasia following nontraumatic intracerebral hemorrhage,I69.12,2016,2027
+I69.122,Dysarthria following nontraumatic intracerebral hemorrhage,I69.12,2016,2027
+I69.123,Fluency disorder following nontraumatic intracerebral hemorrhage,I69.12,2016,2027
+I69.128,Other speech and language deficits following nontraumatic intracerebral hemorrhage,I69.12,2016,2027
+I69.13,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.131,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting right dominant side,I69.13,2016,2027
+I69.132,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting left dominant side,I69.13,2016,2027
+I69.133,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side,I69.13,2016,2027
+I69.134,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting left non-dominant side,I69.13,2016,2027
+I69.139,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting unspecified side,I69.13,2016,2027
+I69.14,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.141,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right dominant side,I69.14,2016,2027
+I69.142,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting left dominant side,I69.14,2016,2027
+I69.143,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side,I69.14,2016,2027
+I69.144,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting left non-dominant side,I69.14,2016,2027
+I69.149,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting unspecified side,I69.14,2016,2027
+I69.15,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.151,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right dominant side,I69.15,2016,2027
+I69.152,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left dominant side,I69.15,2016,2027
+I69.153,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right non-dominant side,I69.15,2016,2027
+I69.154,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left non-dominant side,I69.15,2016,2027
+I69.159,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting unspecified side,I69.15,2016,2027
+I69.16,Other paralytic syndrome following nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.161,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right dominant side,I69.16,2016,2027
+I69.162,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left dominant side,I69.16,2016,2027
+I69.163,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right non-dominant side,I69.16,2016,2027
+I69.164,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left non-dominant side,I69.16,2016,2027
+I69.165,"Other paralytic syndrome following nontraumatic intracerebral hemorrhage, bilateral",I69.16,2016,2027
+I69.169,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting unspecified side,I69.16,2016,2027
+I69.19,Other sequelae of nontraumatic intracerebral hemorrhage,I69.1,2016,2027
+I69.190,Apraxia following nontraumatic intracerebral hemorrhage,I69.19,2016,2027
+I69.191,Dysphagia following nontraumatic intracerebral hemorrhage,I69.19,2016,2027
+I69.192,Facial weakness following nontraumatic intracerebral hemorrhage,I69.19,2016,2027
+I69.193,Ataxia following nontraumatic intracerebral hemorrhage,I69.19,2016,2027
+I69.198,Other sequelae of nontraumatic intracerebral hemorrhage,I69.19,2016,2027
+I69.2,Sequelae of other nontraumatic intracranial hemorrhage,I69,2016,2027
+I69.20,Unspecified sequelae of other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.21,Cognitive deficits following other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.210,Attention and concentration deficit following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.211,Memory deficit following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.212,Visuospatial deficit and spatial neglect following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.213,Psychomotor deficit following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.214,Frontal lobe and executive function deficit following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.215,Cognitive social or emotional deficit following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.218,Other symptoms and signs involving cognitive functions following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.219,Unspecified symptoms and signs involving cognitive functions following other nontraumatic intracranial hemorrhage,I69.21,2017,2027
+I69.22,Speech and language deficits following other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.220,Aphasia following other nontraumatic intracranial hemorrhage,I69.22,2016,2027
+I69.221,Dysphasia following other nontraumatic intracranial hemorrhage,I69.22,2016,2027
+I69.222,Dysarthria following other nontraumatic intracranial hemorrhage,I69.22,2016,2027
+I69.223,Fluency disorder following other nontraumatic intracranial hemorrhage,I69.22,2016,2027
+I69.228,Other speech and language deficits following other nontraumatic intracranial hemorrhage,I69.22,2016,2027
+I69.23,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.231,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting right dominant side,I69.23,2016,2027
+I69.232,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting left dominant side,I69.23,2016,2027
+I69.233,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting right non-dominant side,I69.23,2016,2027
+I69.234,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting left non-dominant side,I69.23,2016,2027
+I69.239,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting unspecified side,I69.23,2016,2027
+I69.24,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.241,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting right dominant side,I69.24,2016,2027
+I69.242,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting left dominant side,I69.24,2016,2027
+I69.243,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting right non-dominant side,I69.24,2016,2027
+I69.244,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting left non-dominant side,I69.24,2016,2027
+I69.249,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting unspecified side,I69.24,2016,2027
+I69.25,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.251,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right dominant side,I69.25,2016,2027
+I69.252,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left dominant side,I69.25,2016,2027
+I69.253,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right non-dominant side,I69.25,2016,2027
+I69.254,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side,I69.25,2016,2027
+I69.259,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting unspecified side,I69.25,2016,2027
+I69.26,Other paralytic syndrome following other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.261,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting right dominant side,I69.26,2016,2027
+I69.262,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting left dominant side,I69.26,2016,2027
+I69.263,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting right non-dominant side,I69.26,2016,2027
+I69.264,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting left non-dominant side,I69.26,2016,2027
+I69.265,"Other paralytic syndrome following other nontraumatic intracranial hemorrhage, bilateral",I69.26,2016,2027
+I69.269,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting unspecified side,I69.26,2016,2027
+I69.29,Other sequelae of other nontraumatic intracranial hemorrhage,I69.2,2016,2027
+I69.290,Apraxia following other nontraumatic intracranial hemorrhage,I69.29,2016,2027
+I69.291,Dysphagia following other nontraumatic intracranial hemorrhage,I69.29,2016,2027
+I69.292,Facial weakness following other nontraumatic intracranial hemorrhage,I69.29,2016,2027
+I69.293,Ataxia following other nontraumatic intracranial hemorrhage,I69.29,2016,2027
+I69.298,Other sequelae of other nontraumatic intracranial hemorrhage,I69.29,2016,2027
+I69.3,Sequelae of cerebral infarction,I69,2016,2027
+I69.30,Unspecified sequelae of cerebral infarction,I69.3,2016,2027
+I69.31,Cognitive deficits following cerebral infarction,I69.3,2016,2027
+I69.310,Attention and concentration deficit following cerebral infarction,I69.31,2017,2027
+I69.311,Memory deficit following cerebral infarction,I69.31,2017,2027
+I69.312,Visuospatial deficit and spatial neglect following cerebral infarction,I69.31,2017,2027
+I69.313,Psychomotor deficit following cerebral infarction,I69.31,2017,2027
+I69.314,Frontal lobe and executive function deficit following cerebral infarction,I69.31,2017,2027
+I69.315,Cognitive social or emotional deficit following cerebral infarction,I69.31,2017,2027
+I69.318,Other symptoms and signs involving cognitive functions following cerebral infarction,I69.31,2017,2027
+I69.319,Unspecified symptoms and signs involving cognitive functions following cerebral infarction,I69.31,2017,2027
+I69.32,Speech and language deficits following cerebral infarction,I69.3,2016,2027
+I69.320,Aphasia following cerebral infarction,I69.32,2016,2027
+I69.321,Dysphasia following cerebral infarction,I69.32,2016,2027
+I69.322,Dysarthria following cerebral infarction,I69.32,2016,2027
+I69.323,Fluency disorder following cerebral infarction,I69.32,2016,2027
+I69.328,Other speech and language deficits following cerebral infarction,I69.32,2016,2027
+I69.33,Monoplegia of upper limb following cerebral infarction,I69.3,2016,2027
+I69.331,Monoplegia of upper limb following cerebral infarction affecting right dominant side,I69.33,2016,2027
+I69.332,Monoplegia of upper limb following cerebral infarction affecting left dominant side,I69.33,2016,2027
+I69.333,Monoplegia of upper limb following cerebral infarction affecting right non-dominant side,I69.33,2016,2027
+I69.334,Monoplegia of upper limb following cerebral infarction affecting left non-dominant side,I69.33,2016,2027
+I69.339,Monoplegia of upper limb following cerebral infarction affecting unspecified side,I69.33,2016,2027
+I69.34,Monoplegia of lower limb following cerebral infarction,I69.3,2016,2027
+I69.341,Monoplegia of lower limb following cerebral infarction affecting right dominant side,I69.34,2016,2027
+I69.342,Monoplegia of lower limb following cerebral infarction affecting left dominant side,I69.34,2016,2027
+I69.343,Monoplegia of lower limb following cerebral infarction affecting right non-dominant side,I69.34,2016,2027
+I69.344,Monoplegia of lower limb following cerebral infarction affecting left non-dominant side,I69.34,2016,2027
+I69.349,Monoplegia of lower limb following cerebral infarction affecting unspecified side,I69.34,2016,2027
+I69.35,Hemiplegia and hemiparesis following cerebral infarction,I69.3,2016,2027
+I69.351,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,I69.35,2016,2027
+I69.352,Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side,I69.35,2016,2027
+I69.353,Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side,I69.35,2016,2027
+I69.354,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,I69.35,2016,2027
+I69.359,Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side,I69.35,2016,2027
+I69.36,Other paralytic syndrome following cerebral infarction,I69.3,2016,2027
+I69.361,Other paralytic syndrome following cerebral infarction affecting right dominant side,I69.36,2016,2027
+I69.362,Other paralytic syndrome following cerebral infarction affecting left dominant side,I69.36,2016,2027
+I69.363,Other paralytic syndrome following cerebral infarction affecting right non-dominant side,I69.36,2016,2027
+I69.364,Other paralytic syndrome following cerebral infarction affecting left non-dominant side,I69.36,2016,2027
+I69.365,"Other paralytic syndrome following cerebral infarction, bilateral",I69.36,2016,2027
+I69.369,Other paralytic syndrome following cerebral infarction affecting unspecified side,I69.36,2016,2027
+I69.39,Other sequelae of cerebral infarction,I69.3,2016,2027
+I69.390,Apraxia following cerebral infarction,I69.39,2016,2027
+I69.391,Dysphagia following cerebral infarction,I69.39,2016,2027
+I69.392,Facial weakness following cerebral infarction,I69.39,2016,2027
+I69.393,Ataxia following cerebral infarction,I69.39,2016,2027
+I69.398,Other sequelae of cerebral infarction,I69.39,2016,2027
+I69.8,Sequelae of other cerebrovascular diseases,I69,2016,2027
+I69.80,Unspecified sequelae of other cerebrovascular disease,I69.8,2016,2027
+I69.81,Cognitive deficits following other cerebrovascular disease,I69.8,2016,2027
+I69.810,Attention and concentration deficit following other cerebrovascular disease,I69.81,2017,2027
+I69.811,Memory deficit following other cerebrovascular disease,I69.81,2017,2027
+I69.812,Visuospatial deficit and spatial neglect following other cerebrovascular disease,I69.81,2017,2027
+I69.813,Psychomotor deficit following other cerebrovascular disease,I69.81,2017,2027
+I69.814,Frontal lobe and executive function deficit following other cerebrovascular disease,I69.81,2017,2027
+I69.815,Cognitive social or emotional deficit following other cerebrovascular disease,I69.81,2017,2027
+I69.818,Other symptoms and signs involving cognitive functions following other cerebrovascular disease,I69.81,2017,2027
+I69.819,Unspecified symptoms and signs involving cognitive functions following other cerebrovascular disease,I69.81,2017,2027
+I69.82,Speech and language deficits following other cerebrovascular disease,I69.8,2016,2027
+I69.820,Aphasia following other cerebrovascular disease,I69.82,2016,2027
+I69.821,Dysphasia following other cerebrovascular disease,I69.82,2016,2027
+I69.822,Dysarthria following other cerebrovascular disease,I69.82,2016,2027
+I69.823,Fluency disorder following other cerebrovascular disease,I69.82,2016,2027
+I69.828,Other speech and language deficits following other cerebrovascular disease,I69.82,2016,2027
+I69.83,Monoplegia of upper limb following other cerebrovascular disease,I69.8,2016,2027
+I69.831,Monoplegia of upper limb following other cerebrovascular disease affecting right dominant side,I69.83,2016,2027
+I69.832,Monoplegia of upper limb following other cerebrovascular disease affecting left dominant side,I69.83,2016,2027
+I69.833,Monoplegia of upper limb following other cerebrovascular disease affecting right non-dominant side,I69.83,2016,2027
+I69.834,Monoplegia of upper limb following other cerebrovascular disease affecting left non-dominant side,I69.83,2016,2027
+I69.839,Monoplegia of upper limb following other cerebrovascular disease affecting unspecified side,I69.83,2016,2027
+I69.84,Monoplegia of lower limb following other cerebrovascular disease,I69.8,2016,2027
+I69.841,Monoplegia of lower limb following other cerebrovascular disease affecting right dominant side,I69.84,2016,2027
+I69.842,Monoplegia of lower limb following other cerebrovascular disease affecting left dominant side,I69.84,2016,2027
+I69.843,Monoplegia of lower limb following other cerebrovascular disease affecting right non-dominant side,I69.84,2016,2027
+I69.844,Monoplegia of lower limb following other cerebrovascular disease affecting left non-dominant side,I69.84,2016,2027
+I69.849,Monoplegia of lower limb following other cerebrovascular disease affecting unspecified side,I69.84,2016,2027
+I69.85,Hemiplegia and hemiparesis following other cerebrovascular disease,I69.8,2016,2027
+I69.851,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right dominant side,I69.85,2016,2027
+I69.852,Hemiplegia and hemiparesis following other cerebrovascular disease affecting left dominant side,I69.85,2016,2027
+I69.853,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right non-dominant side,I69.85,2016,2027
+I69.854,Hemiplegia and hemiparesis following other cerebrovascular disease affecting left non-dominant side,I69.85,2016,2027
+I69.859,Hemiplegia and hemiparesis following other cerebrovascular disease affecting unspecified side,I69.85,2016,2027
+I69.86,Other paralytic syndrome following other cerebrovascular disease,I69.8,2016,2027
+I69.861,Other paralytic syndrome following other cerebrovascular disease affecting right dominant side,I69.86,2016,2027
+I69.862,Other paralytic syndrome following other cerebrovascular disease affecting left dominant side,I69.86,2016,2027
+I69.863,Other paralytic syndrome following other cerebrovascular disease affecting right non-dominant side,I69.86,2016,2027
+I69.864,Other paralytic syndrome following other cerebrovascular disease affecting left non-dominant side,I69.86,2016,2027
+I69.865,"Other paralytic syndrome following other cerebrovascular disease, bilateral",I69.86,2016,2027
+I69.869,Other paralytic syndrome following other cerebrovascular disease affecting unspecified side,I69.86,2016,2027
+I69.89,Other sequelae of other cerebrovascular disease,I69.8,2016,2027
+I69.890,Apraxia following other cerebrovascular disease,I69.89,2016,2027
+I69.891,Dysphagia following other cerebrovascular disease,I69.89,2016,2027
+I69.892,Facial weakness following other cerebrovascular disease,I69.89,2016,2027
+I69.893,Ataxia following other cerebrovascular disease,I69.89,2016,2027
+I69.898,Other sequelae of other cerebrovascular disease,I69.89,2016,2027
+I69.9,Sequelae of unspecified cerebrovascular diseases,I69,2016,2027
+I69.90,Unspecified sequelae of unspecified cerebrovascular disease,I69.9,2016,2027
+I69.91,Cognitive deficits following unspecified cerebrovascular disease,I69.9,2016,2027
+I69.910,Attention and concentration deficit following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.911,Memory deficit following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.912,Visuospatial deficit and spatial neglect following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.913,Psychomotor deficit following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.914,Frontal lobe and executive function deficit following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.915,Cognitive social or emotional deficit following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.918,Other symptoms and signs involving cognitive functions following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.919,Unspecified symptoms and signs involving cognitive functions following unspecified cerebrovascular disease,I69.91,2017,2027
+I69.92,Speech and language deficits following unspecified cerebrovascular disease,I69.9,2016,2027
+I69.920,Aphasia following unspecified cerebrovascular disease,I69.92,2016,2027
+I69.921,Dysphasia following unspecified cerebrovascular disease,I69.92,2016,2027
+I69.922,Dysarthria following unspecified cerebrovascular disease,I69.92,2016,2027
+I69.923,Fluency disorder following unspecified cerebrovascular disease,I69.92,2016,2027
+I69.928,Other speech and language deficits following unspecified cerebrovascular disease,I69.92,2016,2027
+I69.93,Monoplegia of upper limb following unspecified cerebrovascular disease,I69.9,2016,2027
+I69.931,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right dominant side,I69.93,2016,2027
+I69.932,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left dominant side,I69.93,2016,2027
+I69.933,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right non-dominant side,I69.93,2016,2027
+I69.934,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left non-dominant side,I69.93,2016,2027
+I69.939,Monoplegia of upper limb following unspecified cerebrovascular disease affecting unspecified side,I69.93,2016,2027
+I69.94,Monoplegia of lower limb following unspecified cerebrovascular disease,I69.9,2016,2027
+I69.941,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right dominant side,I69.94,2016,2027
+I69.942,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left dominant side,I69.94,2016,2027
+I69.943,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right non-dominant side,I69.94,2016,2027
+I69.944,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left non-dominant side,I69.94,2016,2027
+I69.949,Monoplegia of lower limb following unspecified cerebrovascular disease affecting unspecified side,I69.94,2016,2027
+I69.95,Hemiplegia and hemiparesis following unspecified cerebrovascular disease,I69.9,2016,2027
+I69.951,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right dominant side,I69.95,2016,2027
+I69.952,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left dominant side,I69.95,2016,2027
+I69.953,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right non-dominant side,I69.95,2016,2027
+I69.954,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left non-dominant side,I69.95,2016,2027
+I69.959,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting unspecified side,I69.95,2016,2027
+I69.96,Other paralytic syndrome following unspecified cerebrovascular disease,I69.9,2016,2027
+I69.961,Other paralytic syndrome following unspecified cerebrovascular disease affecting right dominant side,I69.96,2016,2027
+I69.962,Other paralytic syndrome following unspecified cerebrovascular disease affecting left dominant side,I69.96,2016,2027
+I69.963,Other paralytic syndrome following unspecified cerebrovascular disease affecting right non-dominant side,I69.96,2016,2027
+I69.964,Other paralytic syndrome following unspecified cerebrovascular disease affecting left non-dominant side,I69.96,2016,2027
+I69.965,"Other paralytic syndrome following unspecified cerebrovascular disease, bilateral",I69.96,2016,2027
+I69.969,Other paralytic syndrome following unspecified cerebrovascular disease affecting unspecified side,I69.96,2016,2027
+I69.99,Other sequelae of unspecified cerebrovascular disease,I69.9,2016,2027
+I69.990,Apraxia following unspecified cerebrovascular disease,I69.99,2016,2027
+I69.991,Dysphagia following unspecified cerebrovascular disease,I69.99,2016,2027
+I69.992,Facial weakness following unspecified cerebrovascular disease,I69.99,2016,2027
+I69.993,Ataxia following unspecified cerebrovascular disease,I69.99,2016,2027
+I69.998,Other sequelae following unspecified cerebrovascular disease,I69.99,2016,2027
+I70,Atherosclerosis,,2016,2027
+I70.0,Atherosclerosis of aorta,I70,2016,2027
+I70.1,Atherosclerosis of renal artery,I70,2016,2027
+I70.2,Atherosclerosis of native arteries of the extremities,I70,2016,2027
+I70.20,Unspecified atherosclerosis of native arteries of extremities,I70.2,2016,2027
+I70.201,"Unspecified atherosclerosis of native arteries of extremities, right leg",I70.20,2016,2027
+I70.202,"Unspecified atherosclerosis of native arteries of extremities, left leg",I70.20,2016,2027
+I70.203,"Unspecified atherosclerosis of native arteries of extremities, bilateral legs",I70.20,2016,2027
+I70.208,"Unspecified atherosclerosis of native arteries of extremities, other extremity",I70.20,2016,2027
+I70.209,"Unspecified atherosclerosis of native arteries of extremities, unspecified extremity",I70.20,2016,2027
+I70.21,Atherosclerosis of native arteries of extremities with intermittent claudication,I70.2,2016,2027
+I70.211,"Atherosclerosis of native arteries of extremities with intermittent claudication, right leg",I70.21,2016,2027
+I70.212,"Atherosclerosis of native arteries of extremities with intermittent claudication, left leg",I70.21,2016,2027
+I70.213,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs",I70.21,2016,2027
+I70.218,"Atherosclerosis of native arteries of extremities with intermittent claudication, other extremity",I70.21,2016,2027
+I70.219,"Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity",I70.21,2016,2027
+I70.22,Atherosclerosis of native arteries of extremities with rest pain,I70.2,2016,2027
+I70.221,"Atherosclerosis of native arteries of extremities with rest pain, right leg",I70.22,2016,2027
+I70.222,"Atherosclerosis of native arteries of extremities with rest pain, left leg",I70.22,2016,2027
+I70.223,"Atherosclerosis of native arteries of extremities with rest pain, bilateral legs",I70.22,2016,2027
+I70.228,"Atherosclerosis of native arteries of extremities with rest pain, other extremity",I70.22,2016,2027
+I70.229,"Atherosclerosis of native arteries of extremities with rest pain, unspecified extremity",I70.22,2016,2027
+I70.23,Atherosclerosis of native arteries of right leg with ulceration,I70.2,2016,2027
+I70.231,Atherosclerosis of native arteries of right leg with ulceration of thigh,I70.23,2016,2027
+I70.232,Atherosclerosis of native arteries of right leg with ulceration of calf,I70.23,2016,2027
+I70.233,Atherosclerosis of native arteries of right leg with ulceration of ankle,I70.23,2016,2027
+I70.234,Atherosclerosis of native arteries of right leg with ulceration of heel and midfoot,I70.23,2016,2027
+I70.235,Atherosclerosis of native arteries of right leg with ulceration of other part of foot,I70.23,2016,2027
+I70.238,Atherosclerosis of native arteries of right leg with ulceration of other part of lower leg,I70.23,2016,2027
+I70.239,Atherosclerosis of native arteries of right leg with ulceration of unspecified site,I70.23,2016,2027
+I70.24,Atherosclerosis of native arteries of left leg with ulceration,I70.2,2016,2027
+I70.241,Atherosclerosis of native arteries of left leg with ulceration of thigh,I70.24,2016,2027
+I70.242,Atherosclerosis of native arteries of left leg with ulceration of calf,I70.24,2016,2027
+I70.243,Atherosclerosis of native arteries of left leg with ulceration of ankle,I70.24,2016,2027
+I70.244,Atherosclerosis of native arteries of left leg with ulceration of heel and midfoot,I70.24,2016,2027
+I70.245,Atherosclerosis of native arteries of left leg with ulceration of other part of foot,I70.24,2016,2027
+I70.248,Atherosclerosis of native arteries of left leg with ulceration of other part of lower leg,I70.24,2016,2027
+I70.249,Atherosclerosis of native arteries of left leg with ulceration of unspecified site,I70.24,2016,2027
+I70.25,Atherosclerosis of native arteries of other extremities with ulceration,I70.2,2016,2027
+I70.26,Atherosclerosis of native arteries of extremities with gangrene,I70.2,2016,2027
+I70.261,"Atherosclerosis of native arteries of extremities with gangrene, right leg",I70.26,2016,2027
+I70.262,"Atherosclerosis of native arteries of extremities with gangrene, left leg",I70.26,2016,2027
+I70.263,"Atherosclerosis of native arteries of extremities with gangrene, bilateral legs",I70.26,2016,2027
+I70.268,"Atherosclerosis of native arteries of extremities with gangrene, other extremity",I70.26,2016,2027
+I70.269,"Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity",I70.26,2016,2027
+I70.29,Other atherosclerosis of native arteries of extremities,I70.2,2016,2027
+I70.291,"Other atherosclerosis of native arteries of extremities, right leg",I70.29,2016,2027
+I70.292,"Other atherosclerosis of native arteries of extremities, left leg",I70.29,2016,2027
+I70.293,"Other atherosclerosis of native arteries of extremities, bilateral legs",I70.29,2016,2027
+I70.298,"Other atherosclerosis of native arteries of extremities, other extremity",I70.29,2016,2027
+I70.299,"Other atherosclerosis of native arteries of extremities, unspecified extremity",I70.29,2016,2027
+I70.3,Atherosclerosis of unspecified type of bypass graft(s) of the extremities,I70,2016,2027
+I70.30,Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities,I70.3,2016,2027
+I70.301,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg",I70.30,2016,2027
+I70.302,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg",I70.30,2016,2027
+I70.303,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs",I70.30,2016,2027
+I70.308,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity",I70.30,2016,2027
+I70.309,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity",I70.30,2016,2027
+I70.31,Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication,I70.3,2016,2027
+I70.311,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, right leg",I70.31,2016,2027
+I70.312,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, left leg",I70.31,2016,2027
+I70.313,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs",I70.31,2016,2027
+I70.318,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, other extremity",I70.31,2016,2027
+I70.319,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",I70.31,2016,2027
+I70.32,Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain,I70.3,2016,2027
+I70.321,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, right leg",I70.32,2016,2027
+I70.322,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, left leg",I70.32,2016,2027
+I70.323,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, bilateral legs",I70.32,2016,2027
+I70.328,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, other extremity",I70.32,2016,2027
+I70.329,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, unspecified extremity",I70.32,2016,2027
+I70.33,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration,I70.3,2016,2027
+I70.331,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of thigh,I70.33,2016,2027
+I70.332,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of calf,I70.33,2016,2027
+I70.333,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of ankle,I70.33,2016,2027
+I70.334,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of heel and midfoot,I70.33,2016,2027
+I70.335,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of foot,I70.33,2016,2027
+I70.338,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of lower leg,I70.33,2016,2027
+I70.339,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of unspecified site,I70.33,2016,2027
+I70.34,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration,I70.3,2016,2027
+I70.341,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of thigh,I70.34,2016,2027
+I70.342,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of calf,I70.34,2016,2027
+I70.343,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of ankle,I70.34,2016,2027
+I70.344,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of heel and midfoot,I70.34,2016,2027
+I70.345,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of foot,I70.34,2016,2027
+I70.348,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of lower leg,I70.34,2016,2027
+I70.349,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of unspecified site,I70.34,2016,2027
+I70.35,Atherosclerosis of unspecified type of bypass graft(s) of other extremity with ulceration,I70.3,2016,2027
+I70.36,Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene,I70.3,2016,2027
+I70.361,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg",I70.36,2016,2027
+I70.362,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg",I70.36,2016,2027
+I70.363,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs",I70.36,2016,2027
+I70.368,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity",I70.36,2016,2027
+I70.369,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity",I70.36,2016,2027
+I70.39,Other atherosclerosis of unspecified type of bypass graft(s) of the extremities,I70.3,2016,2027
+I70.391,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg",I70.39,2016,2027
+I70.392,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg",I70.39,2016,2027
+I70.393,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs",I70.39,2016,2027
+I70.398,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity",I70.39,2016,2027
+I70.399,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity",I70.39,2016,2027
+I70.4,Atherosclerosis of autologous vein bypass graft(s) of the extremities,I70,2016,2027
+I70.40,Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities,I70.4,2016,2027
+I70.401,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg",I70.40,2016,2027
+I70.402,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg",I70.40,2016,2027
+I70.403,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs",I70.40,2016,2027
+I70.408,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity",I70.40,2016,2027
+I70.409,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity",I70.40,2016,2027
+I70.41,Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication,I70.4,2016,2027
+I70.411,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, right leg",I70.41,2016,2027
+I70.412,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, left leg",I70.41,2016,2027
+I70.413,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, bilateral legs",I70.41,2016,2027
+I70.418,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, other extremity",I70.41,2016,2027
+I70.419,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",I70.41,2016,2027
+I70.42,Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain,I70.4,2016,2027
+I70.421,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, right leg",I70.42,2016,2027
+I70.422,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, left leg",I70.42,2016,2027
+I70.423,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, bilateral legs",I70.42,2016,2027
+I70.428,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity",I70.42,2016,2027
+I70.429,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, unspecified extremity",I70.42,2016,2027
+I70.43,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration,I70.4,2016,2027
+I70.431,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of thigh,I70.43,2016,2027
+I70.432,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of calf,I70.43,2016,2027
+I70.433,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of ankle,I70.43,2016,2027
+I70.434,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of heel and midfoot,I70.43,2016,2027
+I70.435,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of foot,I70.43,2016,2027
+I70.438,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of lower leg,I70.43,2016,2027
+I70.439,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of unspecified site,I70.43,2016,2027
+I70.44,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration,I70.4,2016,2027
+I70.441,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of thigh,I70.44,2016,2027
+I70.442,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of calf,I70.44,2016,2027
+I70.443,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of ankle,I70.44,2016,2027
+I70.444,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of heel and midfoot,I70.44,2016,2027
+I70.445,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of foot,I70.44,2016,2027
+I70.448,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of lower leg,I70.44,2016,2027
+I70.449,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of unspecified site,I70.44,2016,2027
+I70.45,Atherosclerosis of autologous vein bypass graft(s) of other extremity with ulceration,I70.4,2016,2027
+I70.46,Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene,I70.4,2016,2027
+I70.461,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg",I70.46,2016,2027
+I70.462,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg",I70.46,2016,2027
+I70.463,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs",I70.46,2016,2027
+I70.468,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity",I70.46,2016,2027
+I70.469,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity",I70.46,2016,2027
+I70.49,Other atherosclerosis of autologous vein bypass graft(s) of the extremities,I70.4,2016,2027
+I70.491,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg",I70.49,2016,2027
+I70.492,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg",I70.49,2016,2027
+I70.493,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs",I70.49,2016,2027
+I70.498,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity",I70.49,2016,2027
+I70.499,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity",I70.49,2016,2027
+I70.5,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities,I70,2016,2027
+I70.50,Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities,I70.5,2016,2027
+I70.501,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg",I70.50,2016,2027
+I70.502,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg",I70.50,2016,2027
+I70.503,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs",I70.50,2016,2027
+I70.508,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity",I70.50,2016,2027
+I70.509,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity",I70.50,2016,2027
+I70.51,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication,I70.5,2016,2027
+I70.511,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, right leg",I70.51,2016,2027
+I70.512,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, left leg",I70.51,2016,2027
+I70.513,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, bilateral legs",I70.51,2016,2027
+I70.518,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, other extremity",I70.51,2016,2027
+I70.519,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",I70.51,2016,2027
+I70.52,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain,I70.5,2016,2027
+I70.521,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, right leg",I70.52,2016,2027
+I70.522,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, left leg",I70.52,2016,2027
+I70.523,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, bilateral legs",I70.52,2016,2027
+I70.528,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, other extremity",I70.52,2016,2027
+I70.529,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, unspecified extremity",I70.52,2016,2027
+I70.53,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration,I70.5,2016,2027
+I70.531,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of thigh,I70.53,2016,2027
+I70.532,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of calf,I70.53,2016,2027
+I70.533,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of ankle,I70.53,2016,2027
+I70.534,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of heel and midfoot,I70.53,2016,2027
+I70.535,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of foot,I70.53,2016,2027
+I70.538,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of lower leg,I70.53,2016,2027
+I70.539,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of unspecified site,I70.53,2016,2027
+I70.54,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration,I70.5,2016,2027
+I70.541,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of thigh,I70.54,2016,2027
+I70.542,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of calf,I70.54,2016,2027
+I70.543,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of ankle,I70.54,2016,2027
+I70.544,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of heel and midfoot,I70.54,2016,2027
+I70.545,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of foot,I70.54,2016,2027
+I70.548,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of lower leg,I70.54,2016,2027
+I70.549,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of unspecified site,I70.54,2016,2027
+I70.55,Atherosclerosis of nonautologous biological bypass graft(s) of other extremity with ulceration,I70.5,2016,2027
+I70.56,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene,I70.5,2016,2027
+I70.561,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg",I70.56,2016,2027
+I70.562,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg",I70.56,2016,2027
+I70.563,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs",I70.56,2016,2027
+I70.568,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity",I70.56,2016,2027
+I70.569,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity",I70.56,2016,2027
+I70.59,Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities,I70.5,2016,2027
+I70.591,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg",I70.59,2016,2027
+I70.592,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg",I70.59,2016,2027
+I70.593,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs",I70.59,2016,2027
+I70.598,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity",I70.59,2016,2027
+I70.599,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity",I70.59,2016,2027
+I70.6,Atherosclerosis of nonbiological bypass graft(s) of the extremities,I70,2016,2027
+I70.60,Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities,I70.6,2016,2027
+I70.601,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg",I70.60,2016,2027
+I70.602,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg",I70.60,2016,2027
+I70.603,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs",I70.60,2016,2027
+I70.608,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity",I70.60,2016,2027
+I70.609,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity",I70.60,2016,2027
+I70.61,Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication,I70.6,2016,2027
+I70.611,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, right leg",I70.61,2016,2027
+I70.612,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, left leg",I70.61,2016,2027
+I70.613,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, bilateral legs",I70.61,2016,2027
+I70.618,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, other extremity",I70.61,2016,2027
+I70.619,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",I70.61,2016,2027
+I70.62,Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain,I70.6,2016,2027
+I70.621,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, right leg",I70.62,2016,2027
+I70.622,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, left leg",I70.62,2016,2027
+I70.623,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, bilateral legs",I70.62,2016,2027
+I70.628,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, other extremity",I70.62,2016,2027
+I70.629,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, unspecified extremity",I70.62,2016,2027
+I70.63,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration,I70.6,2016,2027
+I70.631,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of thigh,I70.63,2016,2027
+I70.632,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of calf,I70.63,2016,2027
+I70.633,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of ankle,I70.63,2016,2027
+I70.634,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of heel and midfoot,I70.63,2016,2027
+I70.635,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of foot,I70.63,2016,2027
+I70.638,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of lower leg,I70.63,2016,2027
+I70.639,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of unspecified site,I70.63,2016,2027
+I70.64,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration,I70.6,2016,2027
+I70.641,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of thigh,I70.64,2016,2027
+I70.642,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of calf,I70.64,2016,2027
+I70.643,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of ankle,I70.64,2016,2027
+I70.644,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of heel and midfoot,I70.64,2016,2027
+I70.645,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of foot,I70.64,2016,2027
+I70.648,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of lower leg,I70.64,2016,2027
+I70.649,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of unspecified site,I70.64,2016,2027
+I70.65,Atherosclerosis of nonbiological bypass graft(s) of other extremity with ulceration,I70.6,2016,2027
+I70.66,Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene,I70.6,2016,2027
+I70.661,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg",I70.66,2016,2027
+I70.662,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg",I70.66,2016,2027
+I70.663,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs",I70.66,2016,2027
+I70.668,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity",I70.66,2016,2027
+I70.669,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity",I70.66,2016,2027
+I70.69,Other atherosclerosis of nonbiological bypass graft(s) of the extremities,I70.6,2016,2027
+I70.691,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg",I70.69,2016,2027
+I70.692,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg",I70.69,2016,2027
+I70.693,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs",I70.69,2016,2027
+I70.698,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity",I70.69,2016,2027
+I70.699,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity",I70.69,2016,2027
+I70.7,Atherosclerosis of other type of bypass graft(s) of the extremities,I70,2016,2027
+I70.70,Unspecified atherosclerosis of other type of bypass graft(s) of the extremities,I70.7,2016,2027
+I70.701,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, right leg",I70.70,2016,2027
+I70.702,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, left leg",I70.70,2016,2027
+I70.703,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs",I70.70,2016,2027
+I70.708,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, other extremity",I70.70,2016,2027
+I70.709,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity",I70.70,2016,2027
+I70.71,Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication,I70.7,2016,2027
+I70.711,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, right leg",I70.71,2016,2027
+I70.712,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, left leg",I70.71,2016,2027
+I70.713,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs",I70.71,2016,2027
+I70.718,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, other extremity",I70.71,2016,2027
+I70.719,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",I70.71,2016,2027
+I70.72,Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain,I70.7,2016,2027
+I70.721,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, right leg",I70.72,2016,2027
+I70.722,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, left leg",I70.72,2016,2027
+I70.723,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, bilateral legs",I70.72,2016,2027
+I70.728,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, other extremity",I70.72,2016,2027
+I70.729,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, unspecified extremity",I70.72,2016,2027
+I70.73,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration,I70.7,2016,2027
+I70.731,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of thigh,I70.73,2016,2027
+I70.732,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of calf,I70.73,2016,2027
+I70.733,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of ankle,I70.73,2016,2027
+I70.734,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of heel and midfoot,I70.73,2016,2027
+I70.735,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of foot,I70.73,2016,2027
+I70.738,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of lower leg,I70.73,2016,2027
+I70.739,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of unspecified site,I70.73,2016,2027
+I70.74,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration,I70.7,2016,2027
+I70.741,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of thigh,I70.74,2016,2027
+I70.742,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of calf,I70.74,2016,2027
+I70.743,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of ankle,I70.74,2016,2027
+I70.744,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of heel and midfoot,I70.74,2016,2027
+I70.745,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of foot,I70.74,2016,2027
+I70.748,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of lower leg,I70.74,2016,2027
+I70.749,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of unspecified site,I70.74,2016,2027
+I70.75,Atherosclerosis of other type of bypass graft(s) of other extremity with ulceration,I70.7,2016,2027
+I70.76,Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene,I70.7,2016,2027
+I70.761,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg",I70.76,2016,2027
+I70.762,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg",I70.76,2016,2027
+I70.763,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs",I70.76,2016,2027
+I70.768,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity",I70.76,2016,2027
+I70.769,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity",I70.76,2016,2027
+I70.79,Other atherosclerosis of other type of bypass graft(s) of the extremities,I70.7,2016,2027
+I70.791,"Other atherosclerosis of other type of bypass graft(s) of the extremities, right leg",I70.79,2016,2027
+I70.792,"Other atherosclerosis of other type of bypass graft(s) of the extremities, left leg",I70.79,2016,2027
+I70.793,"Other atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs",I70.79,2016,2027
+I70.798,"Other atherosclerosis of other type of bypass graft(s) of the extremities, other extremity",I70.79,2016,2027
+I70.799,"Other atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity",I70.79,2016,2027
+I70.8,Atherosclerosis of other arteries,I70,2016,2027
+I70.9,Other and unspecified atherosclerosis,I70,2016,2027
+I70.90,Unspecified atherosclerosis,I70.9,2016,2027
+I70.91,Generalized atherosclerosis,I70.9,2016,2027
+I70.92,Chronic total occlusion of artery of the extremities,I70.9,2016,2027
+I71,Aortic aneurysm and dissection,,2016,2027
+I71.0,Dissection of aorta,I71,2016,2027
+I71.00,Dissection of unspecified site of aorta,I71.0,2016,2027
+I71.01,Dissection of thoracic aorta,I71.0,2016,2027
+I71.010,Dissection of ascending aorta,I71.01,2023,2027
+I71.011,Dissection of aortic arch,I71.01,2023,2027
+I71.012,Dissection of descending thoracic aorta,I71.01,2023,2027
+I71.019,"Dissection of thoracic aorta, unspecified",I71.01,2023,2027
+I71.02,Dissection of abdominal aorta,I71.0,2016,2027
+I71.03,Dissection of thoracoabdominal aorta,I71.0,2016,2027
+I71.1,"Thoracic aortic aneurysm, ruptured",I71,2016,2027
+I71.10,"Thoracic aortic aneurysm, ruptured, unspecified",I71.1,2023,2027
+I71.11,"Aneurysm of the ascending aorta, ruptured",I71.1,2023,2027
+I71.12,"Aneurysm of the aortic arch, ruptured",I71.1,2023,2027
+I71.13,"Aneurysm of the descending thoracic aorta, ruptured",I71.1,2023,2027
+I71.2,"Thoracic aortic aneurysm, without rupture",I71,2016,2027
+I71.20,"Thoracic aortic aneurysm, without rupture, unspecified",I71.2,2023,2027
+I71.21,"Aneurysm of the ascending aorta, without rupture",I71.2,2023,2027
+I71.22,"Aneurysm of the aortic arch, without rupture",I71.2,2023,2027
+I71.23,"Aneurysm of the descending thoracic aorta, without rupture",I71.2,2023,2027
+I71.3,"Abdominal aortic aneurysm, ruptured",I71,2016,2027
+I71.30,"Abdominal aortic aneurysm, ruptured, unspecified",I71.3,2023,2027
+I71.31,"Pararenal abdominal aortic aneurysm, ruptured",I71.3,2023,2027
+I71.32,"Juxtarenal abdominal aortic aneurysm, ruptured",I71.3,2023,2027
+I71.33,"Infrarenal abdominal aortic aneurysm, ruptured",I71.3,2023,2027
+I71.4,"Abdominal aortic aneurysm, without rupture",I71,2016,2027
+I71.40,"Abdominal aortic aneurysm, without rupture, unspecified",I71.4,2023,2027
+I71.41,"Pararenal abdominal aortic aneurysm, without rupture",I71.4,2023,2027
+I71.42,"Juxtarenal abdominal aortic aneurysm, without rupture",I71.4,2023,2027
+I71.43,"Infrarenal abdominal aortic aneurysm, without rupture",I71.4,2023,2027
+I71.5,"Thoracoabdominal aortic aneurysm, ruptured",I71,2016,2027
+I71.50,"Thoracoabdominal aortic aneurysm, ruptured, unspecified",I71.5,2023,2027
+I71.51,"Supraceliac aneurysm of the thoracoabdominal aorta, ruptured",I71.5,2023,2027
+I71.52,"Paravisceral aneurysm of the thoracoabdominal aorta, ruptured",I71.5,2023,2027
+I71.6,"Thoracoabdominal aortic aneurysm, without rupture",I71,2016,2027
+I71.60,"Thoracoabdominal aortic aneurysm, without rupture, unspecified",I71.6,2023,2027
+I71.61,"Supraceliac aneurysm of the thoracoabdominal aorta, without rupture",I71.6,2023,2027
+I71.62,"Paravisceral aneurysm of the thoracoabdominal aorta, without rupture",I71.6,2023,2027
+I71.8,"Aortic aneurysm of unspecified site, ruptured",I71,2016,2027
+I71.9,"Aortic aneurysm of unspecified site, without rupture",I71,2016,2027
+I72,Other aneurysm,,2016,2027
+I72.0,Aneurysm of carotid artery,I72,2016,2027
+I72.1,Aneurysm of artery of upper extremity,I72,2016,2027
+I72.2,Aneurysm of renal artery,I72,2016,2027
+I72.3,Aneurysm of iliac artery,I72,2016,2027
+I72.4,Aneurysm of artery of lower extremity,I72,2016,2027
+I72.5,Aneurysm of other precerebral arteries,I72,2017,2027
+I72.6,Aneurysm of vertebral artery,I72,2017,2027
+I72.8,Aneurysm of other specified arteries,I72,2016,2027
+I72.9,Aneurysm of unspecified site,I72,2016,2027
+I73,Other peripheral vascular diseases,,2016,2027
+I73.0,Raynaud's syndrome,I73,2016,2027
+I73.00,Raynaud's syndrome without gangrene,I73.0,2016,2027
+I73.01,Raynaud's syndrome with gangrene,I73.0,2016,2027
+I73.1,Thromboangiitis obliterans [Buerger's disease],I73,2016,2027
+I73.8,Other specified peripheral vascular diseases,I73,2016,2027
+I73.81,Erythromelalgia,I73.8,2016,2027
+I73.89,Other specified peripheral vascular diseases,I73.8,2016,2027
+I73.9,"Peripheral vascular disease, unspecified",I73,2016,2027
+I74,Arterial embolism and thrombosis,,2016,2027
+I74.0,Embolism and thrombosis of abdominal aorta,I74,2016,2027
+I74.01,Saddle embolus of abdominal aorta,I74.0,2016,2027
+I74.09,Other arterial embolism and thrombosis of abdominal aorta,I74.0,2016,2027
+I74.1,Embolism and thrombosis of other and unspecified parts of aorta,I74,2016,2027
+I74.10,Embolism and thrombosis of unspecified parts of aorta,I74.1,2016,2027
+I74.11,Embolism and thrombosis of thoracic aorta,I74.1,2016,2027
+I74.19,Embolism and thrombosis of other parts of aorta,I74.1,2016,2027
+I74.2,Embolism and thrombosis of arteries of the upper extremities,I74,2016,2027
+I74.3,Embolism and thrombosis of arteries of the lower extremities,I74,2016,2027
+I74.4,"Embolism and thrombosis of arteries of extremities, unspecified",I74,2016,2027
+I74.5,Embolism and thrombosis of iliac artery,I74,2016,2027
+I74.8,Embolism and thrombosis of other arteries,I74,2016,2027
+I74.9,Embolism and thrombosis of unspecified artery,I74,2016,2027
+I75,Atheroembolism,,2016,2027
+I75.0,Atheroembolism of extremities,I75,2016,2027
+I75.01,Atheroembolism of upper extremity,I75.0,2016,2027
+I75.011,Atheroembolism of right upper extremity,I75.01,2016,2027
+I75.012,Atheroembolism of left upper extremity,I75.01,2016,2027
+I75.013,Atheroembolism of bilateral upper extremities,I75.01,2016,2027
+I75.019,Atheroembolism of unspecified upper extremity,I75.01,2016,2027
+I75.02,Atheroembolism of lower extremity,I75.0,2016,2027
+I75.021,Atheroembolism of right lower extremity,I75.02,2016,2027
+I75.022,Atheroembolism of left lower extremity,I75.02,2016,2027
+I75.023,Atheroembolism of bilateral lower extremities,I75.02,2016,2027
+I75.029,Atheroembolism of unspecified lower extremity,I75.02,2016,2027
+I75.8,Atheroembolism of other sites,I75,2016,2027
+I75.81,Atheroembolism of kidney,I75.8,2016,2027
+I75.89,Atheroembolism of other site,I75.8,2016,2027
+I76,Septic arterial embolism,,2016,2027
+I77,Other disorders of arteries and arterioles,,2016,2027
+I77.0,"Arteriovenous fistula, acquired",I77,2016,2027
+I77.1,Stricture of artery,I77,2016,2027
+I77.2,Rupture of artery,I77,2016,2027
+I77.3,Arterial fibromuscular dysplasia,I77,2016,2027
+I77.4,Celiac artery compression syndrome,I77,2016,2027
+I77.5,Necrosis of artery,I77,2016,2027
+I77.6,"Arteritis, unspecified",I77,2016,2027
+I77.7,Other arterial dissection,I77,2016,2027
+I77.70,Dissection of unspecified artery,I77.7,2017,2027
+I77.71,Dissection of carotid artery,I77.7,2016,2027
+I77.72,Dissection of iliac artery,I77.7,2016,2027
+I77.73,Dissection of renal artery,I77.7,2016,2027
+I77.74,Dissection of vertebral artery,I77.7,2016,2027
+I77.75,Dissection of other precerebral arteries,I77.7,2017,2027
+I77.76,Dissection of artery of upper extremity,I77.7,2017,2027
+I77.77,Dissection of artery of lower extremity,I77.7,2017,2027
+I77.79,Dissection of other specified artery,I77.7,2016,2027
+I77.8,Other specified disorders of arteries and arterioles,I77,2016,2027
+I77.81,Aortic ectasia,I77.8,2016,2027
+I77.810,Thoracic aortic ectasia,I77.81,2016,2027
+I77.811,Abdominal aortic ectasia,I77.81,2016,2027
+I77.812,Thoracoabdominal aortic ectasia,I77.81,2016,2027
+I77.819,"Aortic ectasia, unspecified site",I77.81,2016,2027
+I77.82,Antineutrophilic cytoplasmic antibody [ANCA] vasculitis,I77.8,2023,2027
+I77.89,Other specified disorders of arteries and arterioles,I77.8,2016,2027
+I77.9,"Disorder of arteries and arterioles, unspecified",I77,2016,2027
+I78,Diseases of capillaries,,2016,2027
+I78.0,Hereditary hemorrhagic telangiectasia,I78,2016,2027
+I78.1,"Nevus, non-neoplastic",I78,2016,2027
+I78.8,Other diseases of capillaries,I78,2016,2027
+I78.9,"Disease of capillaries, unspecified",I78,2016,2027
+I79,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",,2016,2027
+I79.0,Aneurysm of aorta in diseases classified elsewhere,I79,2016,2027
+I79.1,Aortitis in diseases classified elsewhere,I79,2016,2027
+I79.8,"Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere",I79,2016,2027
+I80,Phlebitis and thrombophlebitis,,2016,2027
+I80.0,Phlebitis and thrombophlebitis of superficial vessels of lower extremities,I80,2016,2027
+I80.00,Phlebitis and thrombophlebitis of superficial vessels of unspecified lower extremity,I80.0,2016,2027
+I80.01,Phlebitis and thrombophlebitis of superficial vessels of right lower extremity,I80.0,2016,2027
+I80.02,Phlebitis and thrombophlebitis of superficial vessels of left lower extremity,I80.0,2016,2027
+I80.03,"Phlebitis and thrombophlebitis of superficial vessels of lower extremities, bilateral",I80.0,2016,2027
+I80.1,Phlebitis and thrombophlebitis of femoral vein,I80,2016,2027
+I80.10,Phlebitis and thrombophlebitis of unspecified femoral vein,I80.1,2016,2027
+I80.11,Phlebitis and thrombophlebitis of right femoral vein,I80.1,2016,2027
+I80.12,Phlebitis and thrombophlebitis of left femoral vein,I80.1,2016,2027
+I80.13,"Phlebitis and thrombophlebitis of femoral vein, bilateral",I80.1,2016,2027
+I80.2,Phlebitis and thrombophlebitis of other and unspecified deep vessels of lower extremities,I80,2016,2027
+I80.20,Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities,I80.2,2016,2027
+I80.201,Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity,I80.20,2016,2027
+I80.202,Phlebitis and thrombophlebitis of unspecified deep vessels of left lower extremity,I80.20,2016,2027
+I80.203,"Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities, bilateral",I80.20,2016,2027
+I80.209,Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified lower extremity,I80.20,2016,2027
+I80.21,Phlebitis and thrombophlebitis of iliac vein,I80.2,2016,2027
+I80.211,Phlebitis and thrombophlebitis of right iliac vein,I80.21,2016,2027
+I80.212,Phlebitis and thrombophlebitis of left iliac vein,I80.21,2016,2027
+I80.213,"Phlebitis and thrombophlebitis of iliac vein, bilateral",I80.21,2016,2027
+I80.219,Phlebitis and thrombophlebitis of unspecified iliac vein,I80.21,2016,2027
+I80.22,Phlebitis and thrombophlebitis of popliteal vein,I80.2,2016,2027
+I80.221,Phlebitis and thrombophlebitis of right popliteal vein,I80.22,2016,2027
+I80.222,Phlebitis and thrombophlebitis of left popliteal vein,I80.22,2016,2027
+I80.223,"Phlebitis and thrombophlebitis of popliteal vein, bilateral",I80.22,2016,2027
+I80.229,Phlebitis and thrombophlebitis of unspecified popliteal vein,I80.22,2016,2027
+I80.23,Phlebitis and thrombophlebitis of tibial vein,I80.2,2016,2027
+I80.231,Phlebitis and thrombophlebitis of right tibial vein,I80.23,2016,2027
+I80.232,Phlebitis and thrombophlebitis of left tibial vein,I80.23,2016,2027
+I80.233,"Phlebitis and thrombophlebitis of tibial vein, bilateral",I80.23,2016,2027
+I80.239,Phlebitis and thrombophlebitis of unspecified tibial vein,I80.23,2016,2027
+I80.24,Phlebitis and thrombophlebitis of peroneal vein,I80.2,2020,2027
+I80.241,Phlebitis and thrombophlebitis of right peroneal vein,I80.24,2020,2027
+I80.242,Phlebitis and thrombophlebitis of left peroneal vein,I80.24,2020,2027
+I80.243,"Phlebitis and thrombophlebitis of peroneal vein, bilateral",I80.24,2020,2027
+I80.249,Phlebitis and thrombophlebitis of unspecified peroneal vein,I80.24,2020,2027
+I80.25,Phlebitis and thrombophlebitis of calf muscular vein,I80.2,2020,2027
+I80.251,Phlebitis and thrombophlebitis of right calf muscular vein,I80.25,2020,2027
+I80.252,Phlebitis and thrombophlebitis of left calf muscular vein,I80.25,2020,2027
+I80.253,"Phlebitis and thrombophlebitis of calf muscular vein, bilateral",I80.25,2020,2027
+I80.259,Phlebitis and thrombophlebitis of unspecified calf muscular vein,I80.25,2020,2027
+I80.29,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,I80.2,2016,2027
+I80.291,Phlebitis and thrombophlebitis of other deep vessels of right lower extremity,I80.29,2016,2027
+I80.292,Phlebitis and thrombophlebitis of other deep vessels of left lower extremity,I80.29,2016,2027
+I80.293,"Phlebitis and thrombophlebitis of other deep vessels of lower extremity, bilateral",I80.29,2016,2027
+I80.299,Phlebitis and thrombophlebitis of other deep vessels of unspecified lower extremity,I80.29,2016,2027
+I80.3,"Phlebitis and thrombophlebitis of lower extremities, unspecified",I80,2016,2027
+I80.8,Phlebitis and thrombophlebitis of other sites,I80,2016,2027
+I80.9,Phlebitis and thrombophlebitis of unspecified site,I80,2016,2027
+I81,Portal vein thrombosis,,2016,2027
+I82,Other venous embolism and thrombosis,,2016,2027
+I82.0,Budd-Chiari syndrome,I82,2016,2027
+I82.1,Thrombophlebitis migrans,I82,2016,2027
+I82.2,Embolism and thrombosis of vena cava and other thoracic veins,I82,2016,2027
+I82.21,Embolism and thrombosis of superior vena cava,I82.2,2016,2027
+I82.210,Acute embolism and thrombosis of superior vena cava,I82.21,2016,2027
+I82.211,Chronic embolism and thrombosis of superior vena cava,I82.21,2016,2027
+I82.22,Embolism and thrombosis of inferior vena cava,I82.2,2016,2027
+I82.220,Acute embolism and thrombosis of inferior vena cava,I82.22,2016,2027
+I82.221,Chronic embolism and thrombosis of inferior vena cava,I82.22,2016,2027
+I82.29,Embolism and thrombosis of other thoracic veins,I82.2,2016,2027
+I82.290,Acute embolism and thrombosis of other thoracic veins,I82.29,2016,2027
+I82.291,Chronic embolism and thrombosis of other thoracic veins,I82.29,2016,2027
+I82.3,Embolism and thrombosis of renal vein,I82,2016,2027
+I82.4,Acute embolism and thrombosis of deep veins of lower extremity,I82,2016,2027
+I82.40,Acute embolism and thrombosis of unspecified deep veins of lower extremity,I82.4,2016,2027
+I82.401,Acute embolism and thrombosis of unspecified deep veins of right lower extremity,I82.40,2016,2027
+I82.402,Acute embolism and thrombosis of unspecified deep veins of left lower extremity,I82.40,2016,2027
+I82.403,"Acute embolism and thrombosis of unspecified deep veins of lower extremity, bilateral",I82.40,2016,2027
+I82.409,Acute embolism and thrombosis of unspecified deep veins of unspecified lower extremity,I82.40,2016,2027
+I82.41,Acute embolism and thrombosis of femoral vein,I82.4,2016,2027
+I82.411,Acute embolism and thrombosis of right femoral vein,I82.41,2016,2027
+I82.412,Acute embolism and thrombosis of left femoral vein,I82.41,2016,2027
+I82.413,"Acute embolism and thrombosis of femoral vein, bilateral",I82.41,2016,2027
+I82.419,Acute embolism and thrombosis of unspecified femoral vein,I82.41,2016,2027
+I82.42,Acute embolism and thrombosis of iliac vein,I82.4,2016,2027
+I82.421,Acute embolism and thrombosis of right iliac vein,I82.42,2016,2027
+I82.422,Acute embolism and thrombosis of left iliac vein,I82.42,2016,2027
+I82.423,"Acute embolism and thrombosis of iliac vein, bilateral",I82.42,2016,2027
+I82.429,Acute embolism and thrombosis of unspecified iliac vein,I82.42,2016,2027
+I82.43,Acute embolism and thrombosis of popliteal vein,I82.4,2016,2027
+I82.431,Acute embolism and thrombosis of right popliteal vein,I82.43,2016,2027
+I82.432,Acute embolism and thrombosis of left popliteal vein,I82.43,2016,2027
+I82.433,"Acute embolism and thrombosis of popliteal vein, bilateral",I82.43,2016,2027
+I82.439,Acute embolism and thrombosis of unspecified popliteal vein,I82.43,2016,2027
+I82.44,Acute embolism and thrombosis of tibial vein,I82.4,2016,2027
+I82.441,Acute embolism and thrombosis of right tibial vein,I82.44,2016,2027
+I82.442,Acute embolism and thrombosis of left tibial vein,I82.44,2016,2027
+I82.443,"Acute embolism and thrombosis of tibial vein, bilateral",I82.44,2016,2027
+I82.449,Acute embolism and thrombosis of unspecified tibial vein,I82.44,2016,2027
+I82.45,Acute embolism and thrombosis of peroneal vein,I82.4,2020,2027
+I82.451,Acute embolism and thrombosis of right peroneal vein,I82.45,2020,2027
+I82.452,Acute embolism and thrombosis of left peroneal vein,I82.45,2020,2027
+I82.453,"Acute embolism and thrombosis of peroneal vein, bilateral",I82.45,2020,2027
+I82.459,Acute embolism and thrombosis of unspecified peroneal vein,I82.45,2020,2027
+I82.46,Acute embolism and thrombosis of calf muscular vein,I82.4,2020,2027
+I82.461,Acute embolism and thrombosis of right calf muscular vein,I82.46,2020,2027
+I82.462,Acute embolism and thrombosis of left calf muscular vein,I82.46,2020,2027
+I82.463,"Acute embolism and thrombosis of calf muscular vein, bilateral",I82.46,2020,2027
+I82.469,Acute embolism and thrombosis of unspecified calf muscular vein,I82.46,2020,2027
+I82.49,Acute embolism and thrombosis of other specified deep vein of lower extremity,I82.4,2016,2027
+I82.491,Acute embolism and thrombosis of other specified deep vein of right lower extremity,I82.49,2016,2027
+I82.492,Acute embolism and thrombosis of other specified deep vein of left lower extremity,I82.49,2016,2027
+I82.493,"Acute embolism and thrombosis of other specified deep vein of lower extremity, bilateral",I82.49,2016,2027
+I82.499,Acute embolism and thrombosis of other specified deep vein of unspecified lower extremity,I82.49,2016,2027
+I82.4Y,Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity,I82.4,2016,2027
+I82.4Y1,Acute embolism and thrombosis of unspecified deep veins of right proximal lower extremity,I82.4Y,2016,2027
+I82.4Y2,Acute embolism and thrombosis of unspecified deep veins of left proximal lower extremity,I82.4Y,2016,2027
+I82.4Y3,"Acute embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral",I82.4Y,2016,2027
+I82.4Y9,Acute embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity,I82.4Y,2016,2027
+I82.4Z,Acute embolism and thrombosis of unspecified deep veins of distal lower extremity,I82.4,2016,2027
+I82.4Z1,Acute embolism and thrombosis of unspecified deep veins of right distal lower extremity,I82.4Z,2016,2027
+I82.4Z2,Acute embolism and thrombosis of unspecified deep veins of left distal lower extremity,I82.4Z,2016,2027
+I82.4Z3,"Acute embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral",I82.4Z,2016,2027
+I82.4Z9,Acute embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity,I82.4Z,2016,2027
+I82.5,Chronic embolism and thrombosis of deep veins of lower extremity,I82,2016,2027
+I82.50,Chronic embolism and thrombosis of unspecified deep veins of lower extremity,I82.5,2016,2027
+I82.501,Chronic embolism and thrombosis of unspecified deep veins of right lower extremity,I82.50,2016,2027
+I82.502,Chronic embolism and thrombosis of unspecified deep veins of left lower extremity,I82.50,2016,2027
+I82.503,"Chronic embolism and thrombosis of unspecified deep veins of lower extremity, bilateral",I82.50,2016,2027
+I82.509,Chronic embolism and thrombosis of unspecified deep veins of unspecified lower extremity,I82.50,2016,2027
+I82.51,Chronic embolism and thrombosis of femoral vein,I82.5,2016,2027
+I82.511,Chronic embolism and thrombosis of right femoral vein,I82.51,2016,2027
+I82.512,Chronic embolism and thrombosis of left femoral vein,I82.51,2016,2027
+I82.513,"Chronic embolism and thrombosis of femoral vein, bilateral",I82.51,2016,2027
+I82.519,Chronic embolism and thrombosis of unspecified femoral vein,I82.51,2016,2027
+I82.52,Chronic embolism and thrombosis of iliac vein,I82.5,2016,2027
+I82.521,Chronic embolism and thrombosis of right iliac vein,I82.52,2016,2027
+I82.522,Chronic embolism and thrombosis of left iliac vein,I82.52,2016,2027
+I82.523,"Chronic embolism and thrombosis of iliac vein, bilateral",I82.52,2016,2027
+I82.529,Chronic embolism and thrombosis of unspecified iliac vein,I82.52,2016,2027
+I82.53,Chronic embolism and thrombosis of popliteal vein,I82.5,2016,2027
+I82.531,Chronic embolism and thrombosis of right popliteal vein,I82.53,2016,2027
+I82.532,Chronic embolism and thrombosis of left popliteal vein,I82.53,2016,2027
+I82.533,"Chronic embolism and thrombosis of popliteal vein, bilateral",I82.53,2016,2027
+I82.539,Chronic embolism and thrombosis of unspecified popliteal vein,I82.53,2016,2027
+I82.54,Chronic embolism and thrombosis of tibial vein,I82.5,2016,2027
+I82.541,Chronic embolism and thrombosis of right tibial vein,I82.54,2016,2027
+I82.542,Chronic embolism and thrombosis of left tibial vein,I82.54,2016,2027
+I82.543,"Chronic embolism and thrombosis of tibial vein, bilateral",I82.54,2016,2027
+I82.549,Chronic embolism and thrombosis of unspecified tibial vein,I82.54,2016,2027
+I82.55,Chronic embolism and thrombosis of peroneal vein,I82.5,2020,2027
+I82.551,Chronic embolism and thrombosis of right peroneal vein,I82.55,2020,2027
+I82.552,Chronic embolism and thrombosis of left peroneal vein,I82.55,2020,2027
+I82.553,"Chronic embolism and thrombosis of peroneal vein, bilateral",I82.55,2020,2027
+I82.559,Chronic embolism and thrombosis of unspecified peroneal vein,I82.55,2020,2027
+I82.56,Chronic embolism and thrombosis of calf muscular vein,I82.5,2020,2027
+I82.561,Chronic embolism and thrombosis of right calf muscular vein,I82.56,2020,2027
+I82.562,Chronic embolism and thrombosis of left calf muscular vein,I82.56,2020,2027
+I82.563,"Chronic embolism and thrombosis of calf muscular vein, bilateral",I82.56,2020,2027
+I82.569,Chronic embolism and thrombosis of unspecified calf muscular vein,I82.56,2020,2027
+I82.59,Chronic embolism and thrombosis of other specified deep vein of lower extremity,I82.5,2016,2027
+I82.591,Chronic embolism and thrombosis of other specified deep vein of right lower extremity,I82.59,2016,2027
+I82.592,Chronic embolism and thrombosis of other specified deep vein of left lower extremity,I82.59,2016,2027
+I82.593,"Chronic embolism and thrombosis of other specified deep vein of lower extremity, bilateral",I82.59,2016,2027
+I82.599,Chronic embolism and thrombosis of other specified deep vein of unspecified lower extremity,I82.59,2016,2027
+I82.5Y,Chronic embolism and thrombosis of unspecified deep veins of proximal lower extremity,I82.5,2016,2027
+I82.5Y1,Chronic embolism and thrombosis of unspecified deep veins of right proximal lower extremity,I82.5Y,2016,2027
+I82.5Y2,Chronic embolism and thrombosis of unspecified deep veins of left proximal lower extremity,I82.5Y,2016,2027
+I82.5Y3,"Chronic embolism and thrombosis of unspecified deep veins of proximal lower extremity, bilateral",I82.5Y,2016,2027
+I82.5Y9,Chronic embolism and thrombosis of unspecified deep veins of unspecified proximal lower extremity,I82.5Y,2016,2027
+I82.5Z,Chronic embolism and thrombosis of unspecified deep veins of distal lower extremity,I82.5,2016,2027
+I82.5Z1,Chronic embolism and thrombosis of unspecified deep veins of right distal lower extremity,I82.5Z,2016,2027
+I82.5Z2,Chronic embolism and thrombosis of unspecified deep veins of left distal lower extremity,I82.5Z,2016,2027
+I82.5Z3,"Chronic embolism and thrombosis of unspecified deep veins of distal lower extremity, bilateral",I82.5Z,2016,2027
+I82.5Z9,Chronic embolism and thrombosis of unspecified deep veins of unspecified distal lower extremity,I82.5Z,2016,2027
+I82.6,Acute embolism and thrombosis of veins of upper extremity,I82,2016,2027
+I82.60,Acute embolism and thrombosis of unspecified veins of upper extremity,I82.6,2016,2027
+I82.601,Acute embolism and thrombosis of unspecified veins of right upper extremity,I82.60,2016,2027
+I82.602,Acute embolism and thrombosis of unspecified veins of left upper extremity,I82.60,2016,2027
+I82.603,"Acute embolism and thrombosis of unspecified veins of upper extremity, bilateral",I82.60,2016,2027
+I82.609,Acute embolism and thrombosis of unspecified veins of unspecified upper extremity,I82.60,2016,2027
+I82.61,Acute embolism and thrombosis of superficial veins of upper extremity,I82.6,2016,2027
+I82.611,Acute embolism and thrombosis of superficial veins of right upper extremity,I82.61,2016,2027
+I82.612,Acute embolism and thrombosis of superficial veins of left upper extremity,I82.61,2016,2027
+I82.613,"Acute embolism and thrombosis of superficial veins of upper extremity, bilateral",I82.61,2016,2027
+I82.619,Acute embolism and thrombosis of superficial veins of unspecified upper extremity,I82.61,2016,2027
+I82.62,Acute embolism and thrombosis of deep veins of upper extremity,I82.6,2016,2027
+I82.621,Acute embolism and thrombosis of deep veins of right upper extremity,I82.62,2016,2027
+I82.622,Acute embolism and thrombosis of deep veins of left upper extremity,I82.62,2016,2027
+I82.623,"Acute embolism and thrombosis of deep veins of upper extremity, bilateral",I82.62,2016,2027
+I82.629,Acute embolism and thrombosis of deep veins of unspecified upper extremity,I82.62,2016,2027
+I82.7,Chronic embolism and thrombosis of veins of upper extremity,I82,2016,2027
+I82.70,Chronic embolism and thrombosis of unspecified veins of upper extremity,I82.7,2016,2027
+I82.701,Chronic embolism and thrombosis of unspecified veins of right upper extremity,I82.70,2016,2027
+I82.702,Chronic embolism and thrombosis of unspecified veins of left upper extremity,I82.70,2016,2027
+I82.703,"Chronic embolism and thrombosis of unspecified veins of upper extremity, bilateral",I82.70,2016,2027
+I82.709,Chronic embolism and thrombosis of unspecified veins of unspecified upper extremity,I82.70,2016,2027
+I82.71,Chronic embolism and thrombosis of superficial veins of upper extremity,I82.7,2016,2027
+I82.711,Chronic embolism and thrombosis of superficial veins of right upper extremity,I82.71,2016,2027
+I82.712,Chronic embolism and thrombosis of superficial veins of left upper extremity,I82.71,2016,2027
+I82.713,"Chronic embolism and thrombosis of superficial veins of upper extremity, bilateral",I82.71,2016,2027
+I82.719,Chronic embolism and thrombosis of superficial veins of unspecified upper extremity,I82.71,2016,2027
+I82.72,Chronic embolism and thrombosis of deep veins of upper extremity,I82.7,2016,2027
+I82.721,Chronic embolism and thrombosis of deep veins of right upper extremity,I82.72,2016,2027
+I82.722,Chronic embolism and thrombosis of deep veins of left upper extremity,I82.72,2016,2027
+I82.723,"Chronic embolism and thrombosis of deep veins of upper extremity, bilateral",I82.72,2016,2027
+I82.729,Chronic embolism and thrombosis of deep veins of unspecified upper extremity,I82.72,2016,2027
+I82.8,Embolism and thrombosis of other specified veins,I82,2016,2027
+I82.81,Embolism and thrombosis of superficial veins of lower extremities,I82.8,2016,2027
+I82.811,Embolism and thrombosis of superficial veins of right lower extremity,I82.81,2016,2027
+I82.812,Embolism and thrombosis of superficial veins of left lower extremity,I82.81,2016,2027
+I82.813,"Embolism and thrombosis of superficial veins of lower extremities, bilateral",I82.81,2016,2027
+I82.819,Embolism and thrombosis of superficial veins of unspecified lower extremity,I82.81,2016,2027
+I82.89,Embolism and thrombosis of other specified veins,I82.8,2016,2027
+I82.890,Acute embolism and thrombosis of other specified veins,I82.89,2016,2027
+I82.891,Chronic embolism and thrombosis of other specified veins,I82.89,2016,2027
+I82.9,Embolism and thrombosis of unspecified vein,I82,2016,2027
+I82.90,Acute embolism and thrombosis of unspecified vein,I82.9,2016,2027
+I82.91,Chronic embolism and thrombosis of unspecified vein,I82.9,2016,2027
+I82.A,Embolism and thrombosis of axillary vein,I82,2016,2027
+I82.A1,Acute embolism and thrombosis of axillary vein,I82.A,2016,2027
+I82.A11,Acute embolism and thrombosis of right axillary vein,I82.A1,2016,2027
+I82.A12,Acute embolism and thrombosis of left axillary vein,I82.A1,2016,2027
+I82.A13,"Acute embolism and thrombosis of axillary vein, bilateral",I82.A1,2016,2027
+I82.A19,Acute embolism and thrombosis of unspecified axillary vein,I82.A1,2016,2027
+I82.A2,Chronic embolism and thrombosis of axillary vein,I82.A,2016,2027
+I82.A21,Chronic embolism and thrombosis of right axillary vein,I82.A2,2016,2027
+I82.A22,Chronic embolism and thrombosis of left axillary vein,I82.A2,2016,2027
+I82.A23,"Chronic embolism and thrombosis of axillary vein, bilateral",I82.A2,2016,2027
+I82.A29,Chronic embolism and thrombosis of unspecified axillary vein,I82.A2,2016,2027
+I82.B,Embolism and thrombosis of subclavian vein,I82,2016,2027
+I82.B1,Acute embolism and thrombosis of subclavian vein,I82.B,2016,2027
+I82.B11,Acute embolism and thrombosis of right subclavian vein,I82.B1,2016,2027
+I82.B12,Acute embolism and thrombosis of left subclavian vein,I82.B1,2016,2027
+I82.B13,"Acute embolism and thrombosis of subclavian vein, bilateral",I82.B1,2016,2027
+I82.B19,Acute embolism and thrombosis of unspecified subclavian vein,I82.B1,2016,2027
+I82.B2,Chronic embolism and thrombosis of subclavian vein,I82.B,2016,2027
+I82.B21,Chronic embolism and thrombosis of right subclavian vein,I82.B2,2016,2027
+I82.B22,Chronic embolism and thrombosis of left subclavian vein,I82.B2,2016,2027
+I82.B23,"Chronic embolism and thrombosis of subclavian vein, bilateral",I82.B2,2016,2027
+I82.B29,Chronic embolism and thrombosis of unspecified subclavian vein,I82.B2,2016,2027
+I82.C,Embolism and thrombosis of internal jugular vein,I82,2016,2027
+I82.C1,Acute embolism and thrombosis of internal jugular vein,I82.C,2016,2027
+I82.C11,Acute embolism and thrombosis of right internal jugular vein,I82.C1,2016,2027
+I82.C12,Acute embolism and thrombosis of left internal jugular vein,I82.C1,2016,2027
+I82.C13,"Acute embolism and thrombosis of internal jugular vein, bilateral",I82.C1,2016,2027
+I82.C19,Acute embolism and thrombosis of unspecified internal jugular vein,I82.C1,2016,2027
+I82.C2,Chronic embolism and thrombosis of internal jugular vein,I82.C,2016,2027
+I82.C21,Chronic embolism and thrombosis of right internal jugular vein,I82.C2,2016,2027
+I82.C22,Chronic embolism and thrombosis of left internal jugular vein,I82.C2,2016,2027
+I82.C23,"Chronic embolism and thrombosis of internal jugular vein, bilateral",I82.C2,2016,2027
+I82.C29,Chronic embolism and thrombosis of unspecified internal jugular vein,I82.C2,2016,2027
+I83,Varicose veins of lower extremities,,2016,2027
+I83.0,Varicose veins of lower extremities with ulcer,I83,2016,2027
+I83.00,Varicose veins of unspecified lower extremity with ulcer,I83.0,2016,2027
+I83.001,Varicose veins of unspecified lower extremity with ulcer of thigh,I83.00,2016,2027
+I83.002,Varicose veins of unspecified lower extremity with ulcer of calf,I83.00,2016,2027
+I83.003,Varicose veins of unspecified lower extremity with ulcer of ankle,I83.00,2016,2027
+I83.004,Varicose veins of unspecified lower extremity with ulcer of heel and midfoot,I83.00,2016,2027
+I83.005,Varicose veins of unspecified lower extremity with ulcer other part of foot,I83.00,2016,2027
+I83.008,Varicose veins of unspecified lower extremity with ulcer other part of lower leg,I83.00,2016,2027
+I83.009,Varicose veins of unspecified lower extremity with ulcer of unspecified site,I83.00,2016,2027
+I83.01,Varicose veins of right lower extremity with ulcer,I83.0,2016,2027
+I83.011,Varicose veins of right lower extremity with ulcer of thigh,I83.01,2016,2027
+I83.012,Varicose veins of right lower extremity with ulcer of calf,I83.01,2016,2027
+I83.013,Varicose veins of right lower extremity with ulcer of ankle,I83.01,2016,2027
+I83.014,Varicose veins of right lower extremity with ulcer of heel and midfoot,I83.01,2016,2027
+I83.015,Varicose veins of right lower extremity with ulcer other part of foot,I83.01,2016,2027
+I83.018,Varicose veins of right lower extremity with ulcer other part of lower leg,I83.01,2016,2027
+I83.019,Varicose veins of right lower extremity with ulcer of unspecified site,I83.01,2016,2027
+I83.02,Varicose veins of left lower extremity with ulcer,I83.0,2016,2027
+I83.021,Varicose veins of left lower extremity with ulcer of thigh,I83.02,2016,2027
+I83.022,Varicose veins of left lower extremity with ulcer of calf,I83.02,2016,2027
+I83.023,Varicose veins of left lower extremity with ulcer of ankle,I83.02,2016,2027
+I83.024,Varicose veins of left lower extremity with ulcer of heel and midfoot,I83.02,2016,2027
+I83.025,Varicose veins of left lower extremity with ulcer other part of foot,I83.02,2016,2027
+I83.028,Varicose veins of left lower extremity with ulcer other part of lower leg,I83.02,2016,2027
+I83.029,Varicose veins of left lower extremity with ulcer of unspecified site,I83.02,2016,2027
+I83.1,Varicose veins of lower extremities with inflammation,I83,2016,2027
+I83.10,Varicose veins of unspecified lower extremity with inflammation,I83.1,2016,2027
+I83.11,Varicose veins of right lower extremity with inflammation,I83.1,2016,2027
+I83.12,Varicose veins of left lower extremity with inflammation,I83.1,2016,2027
+I83.2,Varicose veins of lower extremities with both ulcer and inflammation,I83,2016,2027
+I83.20,Varicose veins of unspecified lower extremity with both ulcer and inflammation,I83.2,2016,2027
+I83.201,Varicose veins of unspecified lower extremity with both ulcer of thigh and inflammation,I83.20,2016,2027
+I83.202,Varicose veins of unspecified lower extremity with both ulcer of calf and inflammation,I83.20,2016,2027
+I83.203,Varicose veins of unspecified lower extremity with both ulcer of ankle and inflammation,I83.20,2016,2027
+I83.204,Varicose veins of unspecified lower extremity with both ulcer of heel and midfoot and inflammation,I83.20,2016,2027
+I83.205,Varicose veins of unspecified lower extremity with both ulcer other part of foot and inflammation,I83.20,2016,2027
+I83.208,Varicose veins of unspecified lower extremity with both ulcer of other part of lower extremity and inflammation,I83.20,2016,2027
+I83.209,Varicose veins of unspecified lower extremity with both ulcer of unspecified site and inflammation,I83.20,2016,2027
+I83.21,Varicose veins of right lower extremity with both ulcer and inflammation,I83.2,2016,2027
+I83.211,Varicose veins of right lower extremity with both ulcer of thigh and inflammation,I83.21,2016,2027
+I83.212,Varicose veins of right lower extremity with both ulcer of calf and inflammation,I83.21,2016,2027
+I83.213,Varicose veins of right lower extremity with both ulcer of ankle and inflammation,I83.21,2016,2027
+I83.214,Varicose veins of right lower extremity with both ulcer of heel and midfoot and inflammation,I83.21,2016,2027
+I83.215,Varicose veins of right lower extremity with both ulcer other part of foot and inflammation,I83.21,2016,2027
+I83.218,Varicose veins of right lower extremity with both ulcer of other part of lower extremity and inflammation,I83.21,2016,2027
+I83.219,Varicose veins of right lower extremity with both ulcer of unspecified site and inflammation,I83.21,2016,2027
+I83.22,Varicose veins of left lower extremity with both ulcer and inflammation,I83.2,2016,2027
+I83.221,Varicose veins of left lower extremity with both ulcer of thigh and inflammation,I83.22,2016,2027
+I83.222,Varicose veins of left lower extremity with both ulcer of calf and inflammation,I83.22,2016,2027
+I83.223,Varicose veins of left lower extremity with both ulcer of ankle and inflammation,I83.22,2016,2027
+I83.224,Varicose veins of left lower extremity with both ulcer of heel and midfoot and inflammation,I83.22,2016,2027
+I83.225,Varicose veins of left lower extremity with both ulcer other part of foot and inflammation,I83.22,2016,2027
+I83.228,Varicose veins of left lower extremity with both ulcer of other part of lower extremity and inflammation,I83.22,2016,2027
+I83.229,Varicose veins of left lower extremity with both ulcer of unspecified site and inflammation,I83.22,2016,2027
+I83.8,Varicose veins of lower extremities with other complications,I83,2016,2027
+I83.81,Varicose veins of lower extremities with pain,I83.8,2016,2027
+I83.811,Varicose veins of right lower extremity with pain,I83.81,2016,2027
+I83.812,Varicose veins of left lower extremity with pain,I83.81,2016,2027
+I83.813,Varicose veins of bilateral lower extremities with pain,I83.81,2016,2027
+I83.819,Varicose veins of unspecified lower extremity with pain,I83.81,2016,2027
+I83.89,Varicose veins of lower extremities with other complications,I83.8,2016,2027
+I83.891,Varicose veins of right lower extremity with other complications,I83.89,2016,2027
+I83.892,Varicose veins of left lower extremity with other complications,I83.89,2016,2027
+I83.893,Varicose veins of bilateral lower extremities with other complications,I83.89,2016,2027
+I83.899,Varicose veins of unspecified lower extremity with other complications,I83.89,2016,2027
+I83.9,Asymptomatic varicose veins of lower extremities,I83,2016,2027
+I83.90,Asymptomatic varicose veins of unspecified lower extremity,I83.9,2016,2027
+I83.91,Asymptomatic varicose veins of right lower extremity,I83.9,2016,2027
+I83.92,Asymptomatic varicose veins of left lower extremity,I83.9,2016,2027
+I83.93,Asymptomatic varicose veins of bilateral lower extremities,I83.9,2016,2027
+I85,Esophageal varices,,2016,2027
+I85.0,Esophageal varices,I85,2016,2027
+I85.00,Esophageal varices without bleeding,I85.0,2016,2027
+I85.01,Esophageal varices with bleeding,I85.0,2016,2027
+I85.1,Secondary esophageal varices,I85,2016,2027
+I85.10,Secondary esophageal varices without bleeding,I85.1,2016,2027
+I85.11,Secondary esophageal varices with bleeding,I85.1,2016,2027
+I86,Varicose veins of other sites,,2016,2027
+I86.0,Sublingual varices,I86,2016,2027
+I86.1,Scrotal varices,I86,2016,2027
+I86.2,Pelvic varices,I86,2016,2027
+I86.3,Vulval varices,I86,2016,2027
+I86.4,Gastric varices,I86,2016,2027
+I86.8,Varicose veins of other specified sites,I86,2016,2027
+I87,Other disorders of veins,,2016,2027
+I87.0,Postthrombotic syndrome,I87,2016,2027
+I87.00,Postthrombotic syndrome without complications,I87.0,2016,2027
+I87.001,Postthrombotic syndrome without complications of right lower extremity,I87.00,2016,2027
+I87.002,Postthrombotic syndrome without complications of left lower extremity,I87.00,2016,2027
+I87.003,Postthrombotic syndrome without complications of bilateral lower extremity,I87.00,2016,2027
+I87.009,Postthrombotic syndrome without complications of unspecified extremity,I87.00,2016,2027
+I87.01,Postthrombotic syndrome with ulcer,I87.0,2016,2027
+I87.011,Postthrombotic syndrome with ulcer of right lower extremity,I87.01,2016,2027
+I87.012,Postthrombotic syndrome with ulcer of left lower extremity,I87.01,2016,2027
+I87.013,Postthrombotic syndrome with ulcer of bilateral lower extremity,I87.01,2016,2027
+I87.019,Postthrombotic syndrome with ulcer of unspecified lower extremity,I87.01,2016,2027
+I87.02,Postthrombotic syndrome with inflammation,I87.0,2016,2027
+I87.021,Postthrombotic syndrome with inflammation of right lower extremity,I87.02,2016,2027
+I87.022,Postthrombotic syndrome with inflammation of left lower extremity,I87.02,2016,2027
+I87.023,Postthrombotic syndrome with inflammation of bilateral lower extremity,I87.02,2016,2027
+I87.029,Postthrombotic syndrome with inflammation of unspecified lower extremity,I87.02,2016,2027
+I87.03,Postthrombotic syndrome with ulcer and inflammation,I87.0,2016,2027
+I87.031,Postthrombotic syndrome with ulcer and inflammation of right lower extremity,I87.03,2016,2027
+I87.032,Postthrombotic syndrome with ulcer and inflammation of left lower extremity,I87.03,2016,2027
+I87.033,Postthrombotic syndrome with ulcer and inflammation of bilateral lower extremity,I87.03,2016,2027
+I87.039,Postthrombotic syndrome with ulcer and inflammation of unspecified lower extremity,I87.03,2016,2027
+I87.09,Postthrombotic syndrome with other complications,I87.0,2016,2027
+I87.091,Postthrombotic syndrome with other complications of right lower extremity,I87.09,2016,2027
+I87.092,Postthrombotic syndrome with other complications of left lower extremity,I87.09,2016,2027
+I87.093,Postthrombotic syndrome with other complications of bilateral lower extremity,I87.09,2016,2027
+I87.099,Postthrombotic syndrome with other complications of unspecified lower extremity,I87.09,2016,2027
+I87.1,Compression of vein,I87,2016,2027
+I87.2,Venous insufficiency (chronic) (peripheral),I87,2016,2027
+I87.3,Chronic venous hypertension (idiopathic),I87,2016,2027
+I87.30,Chronic venous hypertension (idiopathic) without complications,I87.3,2016,2027
+I87.301,Chronic venous hypertension (idiopathic) without complications of right lower extremity,I87.30,2016,2027
+I87.302,Chronic venous hypertension (idiopathic) without complications of left lower extremity,I87.30,2016,2027
+I87.303,Chronic venous hypertension (idiopathic) without complications of bilateral lower extremity,I87.30,2016,2027
+I87.309,Chronic venous hypertension (idiopathic) without complications of unspecified lower extremity,I87.30,2016,2027
+I87.31,Chronic venous hypertension (idiopathic) with ulcer,I87.3,2016,2027
+I87.311,Chronic venous hypertension (idiopathic) with ulcer of right lower extremity,I87.31,2016,2027
+I87.312,Chronic venous hypertension (idiopathic) with ulcer of left lower extremity,I87.31,2016,2027
+I87.313,Chronic venous hypertension (idiopathic) with ulcer of bilateral lower extremity,I87.31,2016,2027
+I87.319,Chronic venous hypertension (idiopathic) with ulcer of unspecified lower extremity,I87.31,2016,2027
+I87.32,Chronic venous hypertension (idiopathic) with inflammation,I87.3,2016,2027
+I87.321,Chronic venous hypertension (idiopathic) with inflammation of right lower extremity,I87.32,2016,2027
+I87.322,Chronic venous hypertension (idiopathic) with inflammation of left lower extremity,I87.32,2016,2027
+I87.323,Chronic venous hypertension (idiopathic) with inflammation of bilateral lower extremity,I87.32,2016,2027
+I87.329,Chronic venous hypertension (idiopathic) with inflammation of unspecified lower extremity,I87.32,2016,2027
+I87.33,Chronic venous hypertension (idiopathic) with ulcer and inflammation,I87.3,2016,2027
+I87.331,Chronic venous hypertension (idiopathic) with ulcer and inflammation of right lower extremity,I87.33,2016,2027
+I87.332,Chronic venous hypertension (idiopathic) with ulcer and inflammation of left lower extremity,I87.33,2016,2027
+I87.333,Chronic venous hypertension (idiopathic) with ulcer and inflammation of bilateral lower extremity,I87.33,2016,2027
+I87.339,Chronic venous hypertension (idiopathic) with ulcer and inflammation of unspecified lower extremity,I87.33,2016,2027
+I87.39,Chronic venous hypertension (idiopathic) with other complications,I87.3,2016,2027
+I87.391,Chronic venous hypertension (idiopathic) with other complications of right lower extremity,I87.39,2016,2027
+I87.392,Chronic venous hypertension (idiopathic) with other complications of left lower extremity,I87.39,2016,2027
+I87.393,Chronic venous hypertension (idiopathic) with other complications of bilateral lower extremity,I87.39,2016,2027
+I87.399,Chronic venous hypertension (idiopathic) with other complications of unspecified lower extremity,I87.39,2016,2027
+I87.8,Other specified disorders of veins,I87,2016,2027
+I87.9,"Disorder of vein, unspecified",I87,2016,2027
+I88,Nonspecific lymphadenitis,,2016,2027
+I88.0,Nonspecific mesenteric lymphadenitis,I88,2016,2027
+I88.1,"Chronic lymphadenitis, except mesenteric",I88,2016,2027
+I88.8,Other nonspecific lymphadenitis,I88,2016,2027
+I88.9,"Nonspecific lymphadenitis, unspecified",I88,2016,2027
+I89,Other noninfective disorders of lymphatic vessels and lymph nodes,,2016,2027
+I89.0,"Lymphedema, not elsewhere classified",I89,2016,2027
+I89.1,Lymphangitis,I89,2016,2027
+I89.8,Other specified noninfective disorders of lymphatic vessels and lymph nodes,I89,2016,2027
+I89.9,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified",I89,2016,2027
+I95,Hypotension,,2016,2027
+I95.0,Idiopathic hypotension,I95,2016,2027
+I95.1,Orthostatic hypotension,I95,2016,2027
+I95.2,Hypotension due to drugs,I95,2016,2027
+I95.3,Hypotension of hemodialysis,I95,2016,2027
+I95.8,Other hypotension,I95,2016,2027
+I95.81,Postprocedural hypotension,I95.8,2016,2027
+I95.89,Other hypotension,I95.8,2016,2027
+I95.9,"Hypotension, unspecified",I95,2016,2027
+I96,"Gangrene, not elsewhere classified",,2016,2027
+I97,"Intraoperative and postprocedural complications and disorders of circulatory system, not elsewhere classified",,2016,2027
+I97.0,Postcardiotomy syndrome,I97,2016,2027
+I97.1,Other postprocedural cardiac functional disturbances,I97,2016,2027
+I97.11,Postprocedural cardiac insufficiency,I97.1,2016,2027
+I97.110,Postprocedural cardiac insufficiency following cardiac surgery,I97.11,2016,2027
+I97.111,Postprocedural cardiac insufficiency following other surgery,I97.11,2016,2027
+I97.12,Postprocedural cardiac arrest,I97.1,2016,2027
+I97.120,Postprocedural cardiac arrest following cardiac surgery,I97.12,2016,2027
+I97.121,Postprocedural cardiac arrest following other surgery,I97.12,2016,2027
+I97.13,Postprocedural heart failure,I97.1,2016,2027
+I97.130,Postprocedural heart failure following cardiac surgery,I97.13,2016,2027
+I97.131,Postprocedural heart failure following other surgery,I97.13,2016,2027
+I97.19,Other postprocedural cardiac functional disturbances,I97.1,2016,2027
+I97.190,Other postprocedural cardiac functional disturbances following cardiac surgery,I97.19,2016,2027
+I97.191,Other postprocedural cardiac functional disturbances following other surgery,I97.19,2016,2027
+I97.2,Postmastectomy lymphedema syndrome,I97,2016,2027
+I97.3,Postprocedural hypertension,I97,2016,2027
+I97.4,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a procedure,I97,2016,2027
+I97.41,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a circulatory system procedure,I97.4,2016,2027
+I97.410,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac catheterization,I97.41,2016,2027
+I97.411,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac bypass,I97.41,2016,2027
+I97.418,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other circulatory system procedure,I97.41,2016,2027
+I97.42,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other procedure,I97.4,2016,2027
+I97.5,Accidental puncture and laceration of a circulatory system organ or structure during a procedure,I97,2016,2027
+I97.51,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure,I97.5,2016,2027
+I97.52,Accidental puncture and laceration of a circulatory system organ or structure during other procedure,I97.5,2016,2027
+I97.6,"Postprocedural hemorrhage, hematoma and seroma of a circulatory system organ or structure following a procedure",I97,2016,2027
+I97.61,Postprocedural hemorrhage of a circulatory system organ or structure following a circulatory system procedure,I97.6,2016,2027
+I97.610,Postprocedural hemorrhage of a circulatory system organ or structure following a cardiac catheterization,I97.61,2016,2027
+I97.611,Postprocedural hemorrhage of a circulatory system organ or structure following cardiac bypass,I97.61,2016,2027
+I97.618,Postprocedural hemorrhage of a circulatory system organ or structure following other circulatory system procedure,I97.61,2016,2027
+I97.62,"Postprocedural hemorrhage, hematoma and seroma of a circulatory system organ or structure following other procedure",I97.6,2016,2027
+I97.620,Postprocedural hemorrhage of a circulatory system organ or structure following other procedure,I97.62,2017,2027
+I97.621,Postprocedural hematoma of a circulatory system organ or structure following other procedure,I97.62,2017,2027
+I97.622,Postprocedural seroma of a circulatory system organ or structure following other procedure,I97.62,2017,2027
+I97.63,Postprocedural hematoma of a circulatory system organ or structure following a circulatory system procedure,I97.6,2017,2027
+I97.630,Postprocedural hematoma of a circulatory system organ or structure following a cardiac catheterization,I97.63,2017,2027
+I97.631,Postprocedural hematoma of a circulatory system organ or structure following cardiac bypass,I97.63,2017,2027
+I97.638,Postprocedural hematoma of a circulatory system organ or structure following other circulatory system procedure,I97.63,2017,2027
+I97.64,Postprocedural seroma of a circulatory system organ or structure following a circulatory system procedure,I97.6,2017,2027
+I97.640,Postprocedural seroma of a circulatory system organ or structure following a cardiac catheterization,I97.64,2017,2027
+I97.641,Postprocedural seroma of a circulatory system organ or structure following cardiac bypass,I97.64,2017,2027
+I97.648,Postprocedural seroma of a circulatory system organ or structure following other circulatory system procedure,I97.64,2017,2027
+I97.7,Intraoperative cardiac functional disturbances,I97,2016,2027
+I97.71,Intraoperative cardiac arrest,I97.7,2016,2027
+I97.710,Intraoperative cardiac arrest during cardiac surgery,I97.71,2016,2027
+I97.711,Intraoperative cardiac arrest during other surgery,I97.71,2016,2027
+I97.79,Other intraoperative cardiac functional disturbances,I97.7,2016,2027
+I97.790,Other intraoperative cardiac functional disturbances during cardiac surgery,I97.79,2016,2027
+I97.791,Other intraoperative cardiac functional disturbances during other surgery,I97.79,2016,2027
+I97.8,"Other intraoperative and postprocedural complications and disorders of the circulatory system, not elsewhere classified",I97,2016,2027
+I97.81,Intraoperative cerebrovascular infarction,I97.8,2016,2027
+I97.810,Intraoperative cerebrovascular infarction during cardiac surgery,I97.81,2016,2027
+I97.811,Intraoperative cerebrovascular infarction during other surgery,I97.81,2016,2027
+I97.82,Postprocedural cerebrovascular infarction,I97.8,2016,2027
+I97.820,Postprocedural cerebrovascular infarction following cardiac surgery,I97.82,2016,2027
+I97.821,Postprocedural cerebrovascular infarction following other surgery,I97.82,2016,2027
+I97.88,"Other intraoperative complications of the circulatory system, not elsewhere classified",I97.8,2016,2027
+I97.89,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified",I97.8,2016,2027
+I99,Other and unspecified disorders of circulatory system,,2016,2027
+I99.8,Other disorder of circulatory system,I99,2016,2027
+I99.9,Unspecified disorder of circulatory system,I99,2016,2027

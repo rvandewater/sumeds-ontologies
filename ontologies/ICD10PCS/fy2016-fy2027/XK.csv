@@ -1,0 +1,16 @@
+code,description,parent,first_year,last_year
+XK,"Muscles, Tendons, Bursae and Ligaments",X,2018,2027
+XK0,Introduction,XK,2018,2022
+XK02,Muscle,XK0,2018,2022
+XK023,Percutaneous,XK02,2018,2022
+XK0230,Concentrated Bone Marrow Aspirate,XK023,2018,2022
+XK02303,"Introduction of Concentrated Bone Marrow Aspirate into Muscle, Percutaneous Approach, New Technology Group 3",XK0230,2018,2022
+XKU,Supplement,XK,2023,2027
+XKUC,Upper Spine Bursa and Ligament,XKU,2023,2027
+XKUC0,Open,XKUC,2023,2027
+XKUC06,Posterior Vertebral Tether,XKUC0,2023,2027
+XKUC068,"Supplement Upper Spine Bursa and Ligament with Posterior Vertebral Tether, Open Approach, New Technology Group 8",XKUC06,2023,2027
+XKUD,Lower Spine Bursa and Ligament,XKU,2023,2027
+XKUD0,Open,XKUD,2023,2027
+XKUD06,Posterior Vertebral Tether,XKUD0,2023,2027
+XKUD068,"Supplement Lower Spine Bursa and Ligament with Posterior Vertebral Tether, Open Approach, New Technology Group 8",XKUD06,2023,2027

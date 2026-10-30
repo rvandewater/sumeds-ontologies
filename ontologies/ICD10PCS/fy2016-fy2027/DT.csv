@@ -1,0 +1,310 @@
+code,description,parent,first_year,last_year
+DT,Urinary System,D,2016,2027
+DT0,Beam Radiation,DT,2016,2027
+DT00,Kidney,DT0,2016,2027
+DT000,Photons <1 MeV,DT00,2016,2027
+DT000Z,None,DT000,2016,2027
+DT000ZZ,Beam Radiation of Kidney using Photons <1 MeV,DT000Z,2016,2027
+DT001,Photons 1 - 10 MeV,DT00,2016,2027
+DT001Z,None,DT001,2016,2027
+DT001ZZ,Beam Radiation of Kidney using Photons 1 - 10 MeV,DT001Z,2016,2027
+DT002,Photons >10 MeV,DT00,2016,2027
+DT002Z,None,DT002,2016,2027
+DT002ZZ,Beam Radiation of Kidney using Photons >10 MeV,DT002Z,2016,2027
+DT003,Electrons,DT00,2016,2027
+DT003Z,None,DT003,2016,2027
+DT003Z0,"Beam Radiation of Kidney using Electrons, Intraoperative",DT003Z,2016,2027
+DT003ZZ,Beam Radiation of Kidney using Electrons,DT003Z,2016,2027
+DT004,"Heavy Particles (Protons,Ions)",DT00,2016,2027
+DT004Z,None,DT004,2016,2027
+DT004ZZ,"Beam Radiation of Kidney using Heavy Particles (Protons,Ions)",DT004Z,2016,2027
+DT005,Neutrons,DT00,2016,2027
+DT005Z,None,DT005,2016,2027
+DT005ZZ,Beam Radiation of Kidney using Neutrons,DT005Z,2016,2027
+DT006,Neutron Capture,DT00,2016,2027
+DT006Z,None,DT006,2016,2027
+DT006ZZ,Beam Radiation of Kidney using Neutron Capture,DT006Z,2016,2027
+DT01,Ureter,DT0,2016,2027
+DT010,Photons <1 MeV,DT01,2016,2027
+DT010Z,None,DT010,2016,2027
+DT010ZZ,Beam Radiation of Ureter using Photons <1 MeV,DT010Z,2016,2027
+DT011,Photons 1 - 10 MeV,DT01,2016,2027
+DT011Z,None,DT011,2016,2027
+DT011ZZ,Beam Radiation of Ureter using Photons 1 - 10 MeV,DT011Z,2016,2027
+DT012,Photons >10 MeV,DT01,2016,2027
+DT012Z,None,DT012,2016,2027
+DT012ZZ,Beam Radiation of Ureter using Photons >10 MeV,DT012Z,2016,2027
+DT013,Electrons,DT01,2016,2027
+DT013Z,None,DT013,2016,2027
+DT013Z0,"Beam Radiation of Ureter using Electrons, Intraoperative",DT013Z,2016,2027
+DT013ZZ,Beam Radiation of Ureter using Electrons,DT013Z,2016,2027
+DT014,"Heavy Particles (Protons,Ions)",DT01,2016,2027
+DT014Z,None,DT014,2016,2027
+DT014ZZ,"Beam Radiation of Ureter using Heavy Particles (Protons,Ions)",DT014Z,2016,2027
+DT015,Neutrons,DT01,2016,2027
+DT015Z,None,DT015,2016,2027
+DT015ZZ,Beam Radiation of Ureter using Neutrons,DT015Z,2016,2027
+DT016,Neutron Capture,DT01,2016,2027
+DT016Z,None,DT016,2016,2027
+DT016ZZ,Beam Radiation of Ureter using Neutron Capture,DT016Z,2016,2027
+DT02,Bladder,DT0,2016,2027
+DT020,Photons <1 MeV,DT02,2016,2027
+DT020Z,None,DT020,2016,2027
+DT020ZZ,Beam Radiation of Bladder using Photons <1 MeV,DT020Z,2016,2027
+DT021,Photons 1 - 10 MeV,DT02,2016,2027
+DT021Z,None,DT021,2016,2027
+DT021ZZ,Beam Radiation of Bladder using Photons 1 - 10 MeV,DT021Z,2016,2027
+DT022,Photons >10 MeV,DT02,2016,2027
+DT022Z,None,DT022,2016,2027
+DT022ZZ,Beam Radiation of Bladder using Photons >10 MeV,DT022Z,2016,2027
+DT023,Electrons,DT02,2016,2027
+DT023Z,None,DT023,2016,2027
+DT023Z0,"Beam Radiation of Bladder using Electrons, Intraoperative",DT023Z,2016,2027
+DT023ZZ,Beam Radiation of Bladder using Electrons,DT023Z,2016,2027
+DT024,"Heavy Particles (Protons,Ions)",DT02,2016,2027
+DT024Z,None,DT024,2016,2027
+DT024ZZ,"Beam Radiation of Bladder using Heavy Particles (Protons,Ions)",DT024Z,2016,2027
+DT025,Neutrons,DT02,2016,2027
+DT025Z,None,DT025,2016,2027
+DT025ZZ,Beam Radiation of Bladder using Neutrons,DT025Z,2016,2027
+DT026,Neutron Capture,DT02,2016,2027
+DT026Z,None,DT026,2016,2027
+DT026ZZ,Beam Radiation of Bladder using Neutron Capture,DT026Z,2016,2027
+DT03,Urethra,DT0,2016,2027
+DT030,Photons <1 MeV,DT03,2016,2027
+DT030Z,None,DT030,2016,2027
+DT030ZZ,Beam Radiation of Urethra using Photons <1 MeV,DT030Z,2016,2027
+DT031,Photons 1 - 10 MeV,DT03,2016,2027
+DT031Z,None,DT031,2016,2027
+DT031ZZ,Beam Radiation of Urethra using Photons 1 - 10 MeV,DT031Z,2016,2027
+DT032,Photons >10 MeV,DT03,2016,2027
+DT032Z,None,DT032,2016,2027
+DT032ZZ,Beam Radiation of Urethra using Photons >10 MeV,DT032Z,2016,2027
+DT033,Electrons,DT03,2016,2027
+DT033Z,None,DT033,2016,2027
+DT033Z0,"Beam Radiation of Urethra using Electrons, Intraoperative",DT033Z,2016,2027
+DT033ZZ,Beam Radiation of Urethra using Electrons,DT033Z,2016,2027
+DT034,"Heavy Particles (Protons,Ions)",DT03,2016,2027
+DT034Z,None,DT034,2016,2027
+DT034ZZ,"Beam Radiation of Urethra using Heavy Particles (Protons,Ions)",DT034Z,2016,2027
+DT035,Neutrons,DT03,2016,2027
+DT035Z,None,DT035,2016,2027
+DT035ZZ,Beam Radiation of Urethra using Neutrons,DT035Z,2016,2027
+DT036,Neutron Capture,DT03,2016,2027
+DT036Z,None,DT036,2016,2027
+DT036ZZ,Beam Radiation of Urethra using Neutron Capture,DT036Z,2016,2027
+DT1,Brachytherapy,DT,2016,2027
+DT10,Kidney,DT1,2016,2027
+DT109,High Dose Rate (HDR),DT10,2016,2027
+DT1097,Cesium 137 (Cs-137),DT109,2016,2027
+DT1097Z,High Dose Rate (HDR) Brachytherapy of Kidney using Cesium 137 (Cs-137),DT1097,2016,2027
+DT1098,Iridium 192 (Ir-192),DT109,2016,2027
+DT1098Z,High Dose Rate (HDR) Brachytherapy of Kidney using Iridium 192 (Ir-192),DT1098,2016,2027
+DT1099,Iodine 125 (I-125),DT109,2016,2027
+DT1099Z,High Dose Rate (HDR) Brachytherapy of Kidney using Iodine 125 (I-125),DT1099,2016,2027
+DT109B,Palladium 103 (Pd-103),DT109,2016,2027
+DT109BZ,High Dose Rate (HDR) Brachytherapy of Kidney using Palladium 103 (Pd-103),DT109B,2016,2027
+DT109C,Californium 252 (Cf-252),DT109,2016,2027
+DT109CZ,High Dose Rate (HDR) Brachytherapy of Kidney using Californium 252 (Cf-252),DT109C,2016,2027
+DT109Y,Other Isotope,DT109,2016,2027
+DT109YZ,High Dose Rate (HDR) Brachytherapy of Kidney using Other Isotope,DT109Y,2016,2027
+DT10B,Low Dose Rate (LDR),DT10,2016,2027
+DT10B6,Cesium 131 (Cs-131),DT10B,2021,2027
+DT10B6Z,Low Dose Rate (LDR) Brachytherapy of Kidney using Cesium 131 (Cs-131),DT10B6,2021,2027
+DT10B7,Cesium 137 (Cs-137),DT10B,2016,2027
+DT10B7Z,Low Dose Rate (LDR) Brachytherapy of Kidney using Cesium 137 (Cs-137),DT10B7,2016,2027
+DT10B8,Iridium 192 (Ir-192),DT10B,2016,2027
+DT10B8Z,Low Dose Rate (LDR) Brachytherapy of Kidney using Iridium 192 (Ir-192),DT10B8,2016,2027
+DT10B9,Iodine 125 (I-125),DT10B,2016,2027
+DT10B9Z,Low Dose Rate (LDR) Brachytherapy of Kidney using Iodine 125 (I-125),DT10B9,2016,2027
+DT10BB,Palladium 103 (Pd-103),DT10B,2016,2027
+DT10BB1,"Low Dose Rate (LDR) Brachytherapy of Kidney using Palladium 103 (Pd-103), Unidirectional Source",DT10BB,2020,2027
+DT10BBZ,Low Dose Rate (LDR) Brachytherapy of Kidney using Palladium 103 (Pd-103),DT10BB,2016,2027
+DT10BC,Californium 252 (Cf-252),DT10B,2016,2027
+DT10BCZ,Low Dose Rate (LDR) Brachytherapy of Kidney using Californium 252 (Cf-252),DT10BC,2016,2027
+DT10BY,Other Isotope,DT10B,2016,2027
+DT10BYZ,Low Dose Rate (LDR) Brachytherapy of Kidney using Other Isotope,DT10BY,2016,2027
+DT11,Ureter,DT1,2016,2027
+DT119,High Dose Rate (HDR),DT11,2016,2027
+DT1197,Cesium 137 (Cs-137),DT119,2016,2027
+DT1197Z,High Dose Rate (HDR) Brachytherapy of Ureter using Cesium 137 (Cs-137),DT1197,2016,2027
+DT1198,Iridium 192 (Ir-192),DT119,2016,2027
+DT1198Z,High Dose Rate (HDR) Brachytherapy of Ureter using Iridium 192 (Ir-192),DT1198,2016,2027
+DT1199,Iodine 125 (I-125),DT119,2016,2027
+DT1199Z,High Dose Rate (HDR) Brachytherapy of Ureter using Iodine 125 (I-125),DT1199,2016,2027
+DT119B,Palladium 103 (Pd-103),DT119,2016,2027
+DT119BZ,High Dose Rate (HDR) Brachytherapy of Ureter using Palladium 103 (Pd-103),DT119B,2016,2027
+DT119C,Californium 252 (Cf-252),DT119,2016,2027
+DT119CZ,High Dose Rate (HDR) Brachytherapy of Ureter using Californium 252 (Cf-252),DT119C,2016,2027
+DT119Y,Other Isotope,DT119,2016,2027
+DT119YZ,High Dose Rate (HDR) Brachytherapy of Ureter using Other Isotope,DT119Y,2016,2027
+DT11B,Low Dose Rate (LDR),DT11,2016,2027
+DT11B6,Cesium 131 (Cs-131),DT11B,2021,2027
+DT11B6Z,Low Dose Rate (LDR) Brachytherapy of Ureter using Cesium 131 (Cs-131),DT11B6,2021,2027
+DT11B7,Cesium 137 (Cs-137),DT11B,2016,2027
+DT11B7Z,Low Dose Rate (LDR) Brachytherapy of Ureter using Cesium 137 (Cs-137),DT11B7,2016,2027
+DT11B8,Iridium 192 (Ir-192),DT11B,2016,2027
+DT11B8Z,Low Dose Rate (LDR) Brachytherapy of Ureter using Iridium 192 (Ir-192),DT11B8,2016,2027
+DT11B9,Iodine 125 (I-125),DT11B,2016,2027
+DT11B9Z,Low Dose Rate (LDR) Brachytherapy of Ureter using Iodine 125 (I-125),DT11B9,2016,2027
+DT11BB,Palladium 103 (Pd-103),DT11B,2016,2027
+DT11BB1,"Low Dose Rate (LDR) Brachytherapy of Ureter using Palladium 103 (Pd-103), Unidirectional Source",DT11BB,2020,2027
+DT11BBZ,Low Dose Rate (LDR) Brachytherapy of Ureter using Palladium 103 (Pd-103),DT11BB,2016,2027
+DT11BC,Californium 252 (Cf-252),DT11B,2016,2027
+DT11BCZ,Low Dose Rate (LDR) Brachytherapy of Ureter using Californium 252 (Cf-252),DT11BC,2016,2027
+DT11BY,Other Isotope,DT11B,2016,2027
+DT11BYZ,Low Dose Rate (LDR) Brachytherapy of Ureter using Other Isotope,DT11BY,2016,2027
+DT12,Bladder,DT1,2016,2027
+DT129,High Dose Rate (HDR),DT12,2016,2027
+DT1297,Cesium 137 (Cs-137),DT129,2016,2027
+DT1297Z,High Dose Rate (HDR) Brachytherapy of Bladder using Cesium 137 (Cs-137),DT1297,2016,2027
+DT1298,Iridium 192 (Ir-192),DT129,2016,2027
+DT1298Z,High Dose Rate (HDR) Brachytherapy of Bladder using Iridium 192 (Ir-192),DT1298,2016,2027
+DT1299,Iodine 125 (I-125),DT129,2016,2027
+DT1299Z,High Dose Rate (HDR) Brachytherapy of Bladder using Iodine 125 (I-125),DT1299,2016,2027
+DT129B,Palladium 103 (Pd-103),DT129,2016,2027
+DT129BZ,High Dose Rate (HDR) Brachytherapy of Bladder using Palladium 103 (Pd-103),DT129B,2016,2027
+DT129C,Californium 252 (Cf-252),DT129,2016,2027
+DT129CZ,High Dose Rate (HDR) Brachytherapy of Bladder using Californium 252 (Cf-252),DT129C,2016,2027
+DT129Y,Other Isotope,DT129,2016,2027
+DT129YZ,High Dose Rate (HDR) Brachytherapy of Bladder using Other Isotope,DT129Y,2016,2027
+DT12B,Low Dose Rate (LDR),DT12,2016,2027
+DT12B6,Cesium 131 (Cs-131),DT12B,2021,2027
+DT12B6Z,Low Dose Rate (LDR) Brachytherapy of Bladder using Cesium 131 (Cs-131),DT12B6,2021,2027
+DT12B7,Cesium 137 (Cs-137),DT12B,2016,2027
+DT12B7Z,Low Dose Rate (LDR) Brachytherapy of Bladder using Cesium 137 (Cs-137),DT12B7,2016,2027
+DT12B8,Iridium 192 (Ir-192),DT12B,2016,2027
+DT12B8Z,Low Dose Rate (LDR) Brachytherapy of Bladder using Iridium 192 (Ir-192),DT12B8,2016,2027
+DT12B9,Iodine 125 (I-125),DT12B,2016,2027
+DT12B9Z,Low Dose Rate (LDR) Brachytherapy of Bladder using Iodine 125 (I-125),DT12B9,2016,2027
+DT12BB,Palladium 103 (Pd-103),DT12B,2016,2027
+DT12BB1,"Low Dose Rate (LDR) Brachytherapy of Bladder using Palladium 103 (Pd-103), Unidirectional Source",DT12BB,2020,2027
+DT12BBZ,Low Dose Rate (LDR) Brachytherapy of Bladder using Palladium 103 (Pd-103),DT12BB,2016,2027
+DT12BC,Californium 252 (Cf-252),DT12B,2016,2027
+DT12BCZ,Low Dose Rate (LDR) Brachytherapy of Bladder using Californium 252 (Cf-252),DT12BC,2016,2027
+DT12BY,Other Isotope,DT12B,2016,2027
+DT12BYZ,Low Dose Rate (LDR) Brachytherapy of Bladder using Other Isotope,DT12BY,2016,2027
+DT13,Urethra,DT1,2016,2027
+DT139,High Dose Rate (HDR),DT13,2016,2027
+DT1397,Cesium 137 (Cs-137),DT139,2016,2027
+DT1397Z,High Dose Rate (HDR) Brachytherapy of Urethra using Cesium 137 (Cs-137),DT1397,2016,2027
+DT1398,Iridium 192 (Ir-192),DT139,2016,2027
+DT1398Z,High Dose Rate (HDR) Brachytherapy of Urethra using Iridium 192 (Ir-192),DT1398,2016,2027
+DT1399,Iodine 125 (I-125),DT139,2016,2027
+DT1399Z,High Dose Rate (HDR) Brachytherapy of Urethra using Iodine 125 (I-125),DT1399,2016,2027
+DT139B,Palladium 103 (Pd-103),DT139,2016,2027
+DT139BZ,High Dose Rate (HDR) Brachytherapy of Urethra using Palladium 103 (Pd-103),DT139B,2016,2027
+DT139C,Californium 252 (Cf-252),DT139,2016,2027
+DT139CZ,High Dose Rate (HDR) Brachytherapy of Urethra using Californium 252 (Cf-252),DT139C,2016,2027
+DT139Y,Other Isotope,DT139,2016,2027
+DT139YZ,High Dose Rate (HDR) Brachytherapy of Urethra using Other Isotope,DT139Y,2016,2027
+DT13B,Low Dose Rate (LDR),DT13,2016,2027
+DT13B6,Cesium 131 (Cs-131),DT13B,2021,2027
+DT13B6Z,Low Dose Rate (LDR) Brachytherapy of Urethra using Cesium 131 (Cs-131),DT13B6,2021,2027
+DT13B7,Cesium 137 (Cs-137),DT13B,2016,2027
+DT13B7Z,Low Dose Rate (LDR) Brachytherapy of Urethra using Cesium 137 (Cs-137),DT13B7,2016,2027
+DT13B8,Iridium 192 (Ir-192),DT13B,2016,2027
+DT13B8Z,Low Dose Rate (LDR) Brachytherapy of Urethra using Iridium 192 (Ir-192),DT13B8,2016,2027
+DT13B9,Iodine 125 (I-125),DT13B,2016,2027
+DT13B9Z,Low Dose Rate (LDR) Brachytherapy of Urethra using Iodine 125 (I-125),DT13B9,2016,2027
+DT13BB,Palladium 103 (Pd-103),DT13B,2016,2027
+DT13BB1,"Low Dose Rate (LDR) Brachytherapy of Urethra using Palladium 103 (Pd-103), Unidirectional Source",DT13BB,2020,2027
+DT13BBZ,Low Dose Rate (LDR) Brachytherapy of Urethra using Palladium 103 (Pd-103),DT13BB,2016,2027
+DT13BC,Californium 252 (Cf-252),DT13B,2016,2027
+DT13BCZ,Low Dose Rate (LDR) Brachytherapy of Urethra using Californium 252 (Cf-252),DT13BC,2016,2027
+DT13BY,Other Isotope,DT13B,2016,2027
+DT13BYZ,Low Dose Rate (LDR) Brachytherapy of Urethra using Other Isotope,DT13BY,2016,2027
+DT2,Stereotactic Radiosurgery,DT,2016,2027
+DT20,Kidney,DT2,2016,2027
+DT20D,Stereotactic Other Photon Radiosurgery,DT20,2016,2027
+DT20DZ,None,DT20D,2016,2027
+DT20DZZ,Stereotactic Other Photon Radiosurgery of Kidney,DT20DZ,2016,2027
+DT20H,Stereotactic Particulate Radiosurgery,DT20,2016,2027
+DT20HZ,None,DT20H,2016,2027
+DT20HZZ,Stereotactic Particulate Radiosurgery of Kidney,DT20HZ,2016,2027
+DT20J,Stereotactic Gamma Beam Radiosurgery,DT20,2016,2027
+DT20JZ,None,DT20J,2016,2027
+DT20JZZ,Stereotactic Gamma Beam Radiosurgery of Kidney,DT20JZ,2016,2027
+DT21,Ureter,DT2,2016,2027
+DT21D,Stereotactic Other Photon Radiosurgery,DT21,2016,2027
+DT21DZ,None,DT21D,2016,2027
+DT21DZZ,Stereotactic Other Photon Radiosurgery of Ureter,DT21DZ,2016,2027
+DT21H,Stereotactic Particulate Radiosurgery,DT21,2016,2027
+DT21HZ,None,DT21H,2016,2027
+DT21HZZ,Stereotactic Particulate Radiosurgery of Ureter,DT21HZ,2016,2027
+DT21J,Stereotactic Gamma Beam Radiosurgery,DT21,2016,2027
+DT21JZ,None,DT21J,2016,2027
+DT21JZZ,Stereotactic Gamma Beam Radiosurgery of Ureter,DT21JZ,2016,2027
+DT22,Bladder,DT2,2016,2027
+DT22D,Stereotactic Other Photon Radiosurgery,DT22,2016,2027
+DT22DZ,None,DT22D,2016,2027
+DT22DZZ,Stereotactic Other Photon Radiosurgery of Bladder,DT22DZ,2016,2027
+DT22H,Stereotactic Particulate Radiosurgery,DT22,2016,2027
+DT22HZ,None,DT22H,2016,2027
+DT22HZZ,Stereotactic Particulate Radiosurgery of Bladder,DT22HZ,2016,2027
+DT22J,Stereotactic Gamma Beam Radiosurgery,DT22,2016,2027
+DT22JZ,None,DT22J,2016,2027
+DT22JZZ,Stereotactic Gamma Beam Radiosurgery of Bladder,DT22JZ,2016,2027
+DT23,Urethra,DT2,2016,2027
+DT23D,Stereotactic Other Photon Radiosurgery,DT23,2016,2027
+DT23DZ,None,DT23D,2016,2027
+DT23DZZ,Stereotactic Other Photon Radiosurgery of Urethra,DT23DZ,2016,2027
+DT23H,Stereotactic Particulate Radiosurgery,DT23,2016,2027
+DT23HZ,None,DT23H,2016,2027
+DT23HZZ,Stereotactic Particulate Radiosurgery of Urethra,DT23HZ,2016,2027
+DT23J,Stereotactic Gamma Beam Radiosurgery,DT23,2016,2027
+DT23JZ,None,DT23J,2016,2027
+DT23JZZ,Stereotactic Gamma Beam Radiosurgery of Urethra,DT23JZ,2016,2027
+DTY,Other Radiation,DT,2016,2027
+DTY0,Kidney,DTY,2016,2027
+DTY07,Contact Radiation,DTY0,2016,2027
+DTY07Z,None,DTY07,2016,2027
+DTY07ZZ,Contact Radiation of Kidney,DTY07Z,2016,2027
+DTY08,Hyperthermia,DTY0,2016,2027
+DTY08Z,None,DTY08,2016,2027
+DTY08ZZ,Hyperthermia of Kidney,DTY08Z,2016,2027
+DTY0C,Intraoperative Radiation Therapy (IORT),DTY0,2016,2027
+DTY0CZ,None,DTY0C,2016,2027
+DTY0CZZ,Intraoperative Radiation Therapy (IORT) of Kidney,DTY0CZ,2016,2027
+DTY0F,Plaque Radiation,DTY0,2016,2027
+DTY0FZ,None,DTY0F,2016,2027
+DTY0FZZ,Plaque Radiation of Kidney,DTY0FZ,2016,2027
+DTY1,Ureter,DTY,2016,2027
+DTY17,Contact Radiation,DTY1,2016,2027
+DTY17Z,None,DTY17,2016,2027
+DTY17ZZ,Contact Radiation of Ureter,DTY17Z,2016,2027
+DTY18,Hyperthermia,DTY1,2016,2027
+DTY18Z,None,DTY18,2016,2027
+DTY18ZZ,Hyperthermia of Ureter,DTY18Z,2016,2027
+DTY1C,Intraoperative Radiation Therapy (IORT),DTY1,2016,2027
+DTY1CZ,None,DTY1C,2016,2027
+DTY1CZZ,Intraoperative Radiation Therapy (IORT) of Ureter,DTY1CZ,2016,2027
+DTY1F,Plaque Radiation,DTY1,2016,2027
+DTY1FZ,None,DTY1F,2016,2027
+DTY1FZZ,Plaque Radiation of Ureter,DTY1FZ,2016,2027
+DTY2,Bladder,DTY,2016,2027
+DTY27,Contact Radiation,DTY2,2016,2027
+DTY27Z,None,DTY27,2016,2027
+DTY27ZZ,Contact Radiation of Bladder,DTY27Z,2016,2027
+DTY28,Hyperthermia,DTY2,2016,2027
+DTY28Z,None,DTY28,2016,2027
+DTY28ZZ,Hyperthermia of Bladder,DTY28Z,2016,2027
+DTY2C,Intraoperative Radiation Therapy (IORT),DTY2,2016,2027
+DTY2CZ,None,DTY2C,2016,2027
+DTY2CZZ,Intraoperative Radiation Therapy (IORT) of Bladder,DTY2CZ,2016,2027
+DTY2F,Plaque Radiation,DTY2,2016,2027
+DTY2FZ,None,DTY2F,2016,2027
+DTY2FZZ,Plaque Radiation of Bladder,DTY2FZ,2016,2027
+DTY3,Urethra,DTY,2016,2027
+DTY37,Contact Radiation,DTY3,2016,2027
+DTY37Z,None,DTY37,2016,2027
+DTY37ZZ,Contact Radiation of Urethra,DTY37Z,2016,2027
+DTY38,Hyperthermia,DTY3,2016,2027
+DTY38Z,None,DTY38,2016,2027
+DTY38ZZ,Hyperthermia of Urethra,DTY38Z,2016,2027
+DTY3C,Intraoperative Radiation Therapy (IORT),DTY3,2016,2027
+DTY3CZ,None,DTY3C,2016,2027
+DTY3CZZ,Intraoperative Radiation Therapy (IORT) of Urethra,DTY3CZ,2016,2027
+DTY3F,Plaque Radiation,DTY3,2016,2027
+DTY3FZ,None,DTY3F,2016,2027
+DTY3FZZ,Plaque Radiation of Urethra,DTY3FZ,2016,2027

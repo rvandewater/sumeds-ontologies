@@ -1,0 +1,61 @@
+code,description,parent,first_year,last_year
+CF,Hepatobiliary System and Pancreas,C,2016,2027
+CF1,Planar Nuclear Medicine Imaging,CF,2016,2027
+CF14,Gallbladder,CF1,2016,2027
+CF141,Technetium 99m (Tc-99m),CF14,2016,2027
+CF141Z,None,CF141,2016,2027
+CF141ZZ,Planar Nuclear Medicine Imaging of Gallbladder using Technetium 99m (Tc-99m),CF141Z,2016,2027
+CF14Y,Other Radionuclide,CF14,2016,2027
+CF14YZ,None,CF14Y,2016,2027
+CF14YZZ,Planar Nuclear Medicine Imaging of Gallbladder using Other Radionuclide,CF14YZ,2016,2027
+CF15,Liver,CF1,2016,2027
+CF151,Technetium 99m (Tc-99m),CF15,2016,2027
+CF151Z,None,CF151,2016,2027
+CF151ZZ,Planar Nuclear Medicine Imaging of Liver using Technetium 99m (Tc-99m),CF151Z,2016,2027
+CF15Y,Other Radionuclide,CF15,2016,2027
+CF15YZ,None,CF15Y,2016,2027
+CF15YZZ,Planar Nuclear Medicine Imaging of Liver using Other Radionuclide,CF15YZ,2016,2027
+CF16,Liver and Spleen,CF1,2016,2027
+CF161,Technetium 99m (Tc-99m),CF16,2016,2027
+CF161Z,None,CF161,2016,2027
+CF161ZZ,Planar Nuclear Medicine Imaging of Liver and Spleen using Technetium 99m (Tc-99m),CF161Z,2016,2027
+CF16Y,Other Radionuclide,CF16,2016,2027
+CF16YZ,None,CF16Y,2016,2027
+CF16YZZ,Planar Nuclear Medicine Imaging of Liver and Spleen using Other Radionuclide,CF16YZ,2016,2027
+CF1C,"Hepatobiliary System, All",CF1,2016,2027
+CF1C1,Technetium 99m (Tc-99m),CF1C,2016,2027
+CF1C1Z,None,CF1C1,2016,2027
+CF1C1ZZ,"Planar Nuclear Medicine Imaging of Hepatobiliary System, All using Technetium 99m (Tc-99m)",CF1C1Z,2016,2027
+CF1CY,Other Radionuclide,CF1C,2016,2027
+CF1CYZ,None,CF1CY,2016,2027
+CF1CYZZ,"Planar Nuclear Medicine Imaging of Hepatobiliary System, All using Other Radionuclide",CF1CYZ,2016,2027
+CF1Y,Hepatobiliary System and Pancreas,CF1,2016,2027
+CF1YY,Other Radionuclide,CF1Y,2016,2027
+CF1YYZ,None,CF1YY,2016,2027
+CF1YYZZ,Planar Nuclear Medicine Imaging of Hepatobiliary System and Pancreas using Other Radionuclide,CF1YYZ,2016,2027
+CF2,Tomographic (Tomo) Nuclear Medicine Imaging,CF,2016,2027
+CF24,Gallbladder,CF2,2016,2027
+CF241,Technetium 99m (Tc-99m),CF24,2016,2027
+CF241Z,None,CF241,2016,2027
+CF241ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Gallbladder using Technetium 99m (Tc-99m),CF241Z,2016,2027
+CF24Y,Other Radionuclide,CF24,2016,2027
+CF24YZ,None,CF24Y,2016,2027
+CF24YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Gallbladder using Other Radionuclide,CF24YZ,2016,2027
+CF25,Liver,CF2,2016,2027
+CF251,Technetium 99m (Tc-99m),CF25,2016,2027
+CF251Z,None,CF251,2016,2027
+CF251ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Liver using Technetium 99m (Tc-99m),CF251Z,2016,2027
+CF25Y,Other Radionuclide,CF25,2016,2027
+CF25YZ,None,CF25Y,2016,2027
+CF25YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Liver using Other Radionuclide,CF25YZ,2016,2027
+CF26,Liver and Spleen,CF2,2016,2027
+CF261,Technetium 99m (Tc-99m),CF26,2016,2027
+CF261Z,None,CF261,2016,2027
+CF261ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Liver and Spleen using Technetium 99m (Tc-99m),CF261Z,2016,2027
+CF26Y,Other Radionuclide,CF26,2016,2027
+CF26YZ,None,CF26Y,2016,2027
+CF26YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Liver and Spleen using Other Radionuclide,CF26YZ,2016,2027
+CF2Y,Hepatobiliary System and Pancreas,CF2,2016,2027
+CF2YY,Other Radionuclide,CF2Y,2016,2027
+CF2YYZ,None,CF2YY,2016,2027
+CF2YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Hepatobiliary System and Pancreas using Other Radionuclide,CF2YYZ,2016,2027

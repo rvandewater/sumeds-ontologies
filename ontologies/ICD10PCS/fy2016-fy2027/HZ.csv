@@ -1,0 +1,245 @@
+code,description,parent,first_year,last_year
+HZ,None,H,2016,2027
+HZ2,Detoxification Services,HZ,2016,2027
+HZ2Z,None,HZ2,2016,2027
+HZ2ZZ,None,HZ2Z,2016,2027
+HZ2ZZZ,None,HZ2ZZ,2016,2027
+HZ2ZZZZ,Detoxification Services for Substance Abuse Treatment,HZ2ZZZ,2016,2027
+HZ3,Individual Counseling,HZ,2016,2027
+HZ30,Cognitive,HZ3,2016,2027
+HZ30Z,None,HZ30,2016,2027
+HZ30ZZ,None,HZ30Z,2016,2027
+HZ30ZZZ,"Individual Counseling for Substance Abuse Treatment, Cognitive",HZ30ZZ,2016,2027
+HZ31,Behavioral,HZ3,2016,2027
+HZ31Z,None,HZ31,2016,2027
+HZ31ZZ,None,HZ31Z,2016,2027
+HZ31ZZZ,"Individual Counseling for Substance Abuse Treatment, Behavioral",HZ31ZZ,2016,2027
+HZ32,Cognitive-Behavioral,HZ3,2016,2027
+HZ32Z,None,HZ32,2016,2027
+HZ32ZZ,None,HZ32Z,2016,2027
+HZ32ZZZ,"Individual Counseling for Substance Abuse Treatment, Cognitive-Behavioral",HZ32ZZ,2016,2027
+HZ33,12-Step,HZ3,2016,2027
+HZ33Z,None,HZ33,2016,2027
+HZ33ZZ,None,HZ33Z,2016,2027
+HZ33ZZZ,"Individual Counseling for Substance Abuse Treatment, 12-Step",HZ33ZZ,2016,2027
+HZ34,Interpersonal,HZ3,2016,2027
+HZ34Z,None,HZ34,2016,2027
+HZ34ZZ,None,HZ34Z,2016,2027
+HZ34ZZZ,"Individual Counseling for Substance Abuse Treatment, Interpersonal",HZ34ZZ,2016,2027
+HZ35,Vocational,HZ3,2016,2027
+HZ35Z,None,HZ35,2016,2027
+HZ35ZZ,None,HZ35Z,2016,2027
+HZ35ZZZ,"Individual Counseling for Substance Abuse Treatment, Vocational",HZ35ZZ,2016,2027
+HZ36,Psychoeducation,HZ3,2016,2027
+HZ36Z,None,HZ36,2016,2027
+HZ36ZZ,None,HZ36Z,2016,2027
+HZ36ZZZ,"Individual Counseling for Substance Abuse Treatment, Psychoeducation",HZ36ZZ,2016,2027
+HZ37,Motivational Enhancement,HZ3,2016,2027
+HZ37Z,None,HZ37,2016,2027
+HZ37ZZ,None,HZ37Z,2016,2027
+HZ37ZZZ,"Individual Counseling for Substance Abuse Treatment, Motivational Enhancement",HZ37ZZ,2016,2027
+HZ38,Confrontational,HZ3,2016,2027
+HZ38Z,None,HZ38,2016,2027
+HZ38ZZ,None,HZ38Z,2016,2027
+HZ38ZZZ,"Individual Counseling for Substance Abuse Treatment, Confrontational",HZ38ZZ,2016,2027
+HZ39,Continuing Care,HZ3,2016,2027
+HZ39Z,None,HZ39,2016,2027
+HZ39ZZ,None,HZ39Z,2016,2027
+HZ39ZZZ,"Individual Counseling for Substance Abuse Treatment, Continuing Care",HZ39ZZ,2016,2027
+HZ3B,Spiritual,HZ3,2016,2027
+HZ3BZ,None,HZ3B,2016,2027
+HZ3BZZ,None,HZ3BZ,2016,2027
+HZ3BZZZ,"Individual Counseling for Substance Abuse Treatment, Spiritual",HZ3BZZ,2016,2027
+HZ3C,Pre/Post-Test Infectious Disease,HZ3,2016,2027
+HZ3CZ,None,HZ3C,2016,2027
+HZ3CZZ,None,HZ3CZ,2016,2027
+HZ3CZZZ,"Individual Counseling for Substance Abuse Treatment, Pre/Post-Test Infectious Disease",HZ3CZZ,2016,2027
+HZ4,Group Counseling,HZ,2016,2027
+HZ40,Cognitive,HZ4,2016,2027
+HZ40Z,None,HZ40,2016,2027
+HZ40ZZ,None,HZ40Z,2016,2027
+HZ40ZZZ,"Group Counseling for Substance Abuse Treatment, Cognitive",HZ40ZZ,2016,2027
+HZ41,Behavioral,HZ4,2016,2027
+HZ41Z,None,HZ41,2016,2027
+HZ41ZZ,None,HZ41Z,2016,2027
+HZ41ZZZ,"Group Counseling for Substance Abuse Treatment, Behavioral",HZ41ZZ,2016,2027
+HZ42,Cognitive-Behavioral,HZ4,2016,2027
+HZ42Z,None,HZ42,2016,2027
+HZ42ZZ,None,HZ42Z,2016,2027
+HZ42ZZZ,"Group Counseling for Substance Abuse Treatment, Cognitive-Behavioral",HZ42ZZ,2016,2027
+HZ43,12-Step,HZ4,2016,2027
+HZ43Z,None,HZ43,2016,2027
+HZ43ZZ,None,HZ43Z,2016,2027
+HZ43ZZZ,"Group Counseling for Substance Abuse Treatment, 12-Step",HZ43ZZ,2016,2027
+HZ44,Interpersonal,HZ4,2016,2027
+HZ44Z,None,HZ44,2016,2027
+HZ44ZZ,None,HZ44Z,2016,2027
+HZ44ZZZ,"Group Counseling for Substance Abuse Treatment, Interpersonal",HZ44ZZ,2016,2027
+HZ45,Vocational,HZ4,2016,2027
+HZ45Z,None,HZ45,2016,2027
+HZ45ZZ,None,HZ45Z,2016,2027
+HZ45ZZZ,"Group Counseling for Substance Abuse Treatment, Vocational",HZ45ZZ,2016,2027
+HZ46,Psychoeducation,HZ4,2016,2027
+HZ46Z,None,HZ46,2016,2027
+HZ46ZZ,None,HZ46Z,2016,2027
+HZ46ZZZ,"Group Counseling for Substance Abuse Treatment, Psychoeducation",HZ46ZZ,2016,2027
+HZ47,Motivational Enhancement,HZ4,2016,2027
+HZ47Z,None,HZ47,2016,2027
+HZ47ZZ,None,HZ47Z,2016,2027
+HZ47ZZZ,"Group Counseling for Substance Abuse Treatment, Motivational Enhancement",HZ47ZZ,2016,2027
+HZ48,Confrontational,HZ4,2016,2027
+HZ48Z,None,HZ48,2016,2027
+HZ48ZZ,None,HZ48Z,2016,2027
+HZ48ZZZ,"Group Counseling for Substance Abuse Treatment, Confrontational",HZ48ZZ,2016,2027
+HZ49,Continuing Care,HZ4,2016,2027
+HZ49Z,None,HZ49,2016,2027
+HZ49ZZ,None,HZ49Z,2016,2027
+HZ49ZZZ,"Group Counseling for Substance Abuse Treatment, Continuing Care",HZ49ZZ,2016,2027
+HZ4B,Spiritual,HZ4,2016,2027
+HZ4BZ,None,HZ4B,2016,2027
+HZ4BZZ,None,HZ4BZ,2016,2027
+HZ4BZZZ,"Group Counseling for Substance Abuse Treatment, Spiritual",HZ4BZZ,2016,2027
+HZ4C,Pre/Post-Test Infectious Disease,HZ4,2016,2027
+HZ4CZ,None,HZ4C,2016,2027
+HZ4CZZ,None,HZ4CZ,2016,2027
+HZ4CZZZ,"Group Counseling for Substance Abuse Treatment, Pre/Post-Test Infectious Disease",HZ4CZZ,2016,2027
+HZ5,Individual Psychotherapy,HZ,2016,2027
+HZ50,Cognitive,HZ5,2016,2027
+HZ50Z,None,HZ50,2016,2027
+HZ50ZZ,None,HZ50Z,2016,2027
+HZ50ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Cognitive",HZ50ZZ,2016,2027
+HZ51,Behavioral,HZ5,2016,2027
+HZ51Z,None,HZ51,2016,2027
+HZ51ZZ,None,HZ51Z,2016,2027
+HZ51ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Behavioral",HZ51ZZ,2016,2027
+HZ52,Cognitive-Behavioral,HZ5,2016,2027
+HZ52Z,None,HZ52,2016,2027
+HZ52ZZ,None,HZ52Z,2016,2027
+HZ52ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Cognitive-Behavioral",HZ52ZZ,2016,2027
+HZ53,12-Step,HZ5,2016,2027
+HZ53Z,None,HZ53,2016,2027
+HZ53ZZ,None,HZ53Z,2016,2027
+HZ53ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, 12-Step",HZ53ZZ,2016,2027
+HZ54,Interpersonal,HZ5,2016,2027
+HZ54Z,None,HZ54,2016,2027
+HZ54ZZ,None,HZ54Z,2016,2027
+HZ54ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Interpersonal",HZ54ZZ,2016,2027
+HZ55,Interactive,HZ5,2016,2027
+HZ55Z,None,HZ55,2016,2027
+HZ55ZZ,None,HZ55Z,2016,2027
+HZ55ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Interactive",HZ55ZZ,2016,2027
+HZ56,Psychoeducation,HZ5,2016,2027
+HZ56Z,None,HZ56,2016,2027
+HZ56ZZ,None,HZ56Z,2016,2027
+HZ56ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Psychoeducation",HZ56ZZ,2016,2027
+HZ57,Motivational Enhancement,HZ5,2016,2027
+HZ57Z,None,HZ57,2016,2027
+HZ57ZZ,None,HZ57Z,2016,2027
+HZ57ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Motivational Enhancement",HZ57ZZ,2016,2027
+HZ58,Confrontational,HZ5,2016,2027
+HZ58Z,None,HZ58,2016,2027
+HZ58ZZ,None,HZ58Z,2016,2027
+HZ58ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Confrontational",HZ58ZZ,2016,2027
+HZ59,Supportive,HZ5,2016,2027
+HZ59Z,None,HZ59,2016,2027
+HZ59ZZ,None,HZ59Z,2016,2027
+HZ59ZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Supportive",HZ59ZZ,2016,2027
+HZ5B,Psychoanalysis,HZ5,2016,2027
+HZ5BZ,None,HZ5B,2016,2027
+HZ5BZZ,None,HZ5BZ,2016,2027
+HZ5BZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Psychoanalysis",HZ5BZZ,2016,2027
+HZ5C,Psychodynamic,HZ5,2016,2027
+HZ5CZ,None,HZ5C,2016,2027
+HZ5CZZ,None,HZ5CZ,2016,2027
+HZ5CZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Psychodynamic",HZ5CZZ,2016,2027
+HZ5D,Psychophysiological,HZ5,2016,2027
+HZ5DZ,None,HZ5D,2016,2027
+HZ5DZZ,None,HZ5DZ,2016,2027
+HZ5DZZZ,"Individual Psychotherapy for Substance Abuse Treatment, Psychophysiological",HZ5DZZ,2016,2027
+HZ6,Family Counseling,HZ,2016,2027
+HZ63,Other Family Counseling,HZ6,2016,2027
+HZ63Z,None,HZ63,2016,2027
+HZ63ZZ,None,HZ63Z,2016,2027
+HZ63ZZZ,Family Counseling for Substance Abuse Treatment,HZ63ZZ,2016,2027
+HZ8,Medication Management,HZ,2016,2027
+HZ80,Nicotine Replacement,HZ8,2016,2027
+HZ80Z,None,HZ80,2016,2027
+HZ80ZZ,None,HZ80Z,2016,2027
+HZ80ZZZ,"Medication Management for Substance Abuse Treatment, Nicotine Replacement",HZ80ZZ,2016,2027
+HZ81,Methadone Maintenance,HZ8,2016,2027
+HZ81Z,None,HZ81,2016,2027
+HZ81ZZ,None,HZ81Z,2016,2027
+HZ81ZZZ,"Medication Management for Substance Abuse Treatment, Methadone Maintenance",HZ81ZZ,2016,2027
+HZ82,Levo-alpha-acetyl-methadol (LAAM),HZ8,2016,2027
+HZ82Z,None,HZ82,2016,2027
+HZ82ZZ,None,HZ82Z,2016,2027
+HZ82ZZZ,"Medication Management for Substance Abuse Treatment, Levo-alpha-acetyl-methadol (LAAM)",HZ82ZZ,2016,2027
+HZ83,Antabuse,HZ8,2016,2027
+HZ83Z,None,HZ83,2016,2027
+HZ83ZZ,None,HZ83Z,2016,2027
+HZ83ZZZ,"Medication Management for Substance Abuse Treatment, Antabuse",HZ83ZZ,2016,2027
+HZ84,Naltrexone,HZ8,2016,2027
+HZ84Z,None,HZ84,2016,2027
+HZ84ZZ,None,HZ84Z,2016,2027
+HZ84ZZZ,"Medication Management for Substance Abuse Treatment, Naltrexone",HZ84ZZ,2016,2027
+HZ85,Naloxone,HZ8,2016,2027
+HZ85Z,None,HZ85,2016,2027
+HZ85ZZ,None,HZ85Z,2016,2027
+HZ85ZZZ,"Medication Management for Substance Abuse Treatment, Naloxone",HZ85ZZ,2016,2027
+HZ86,Clonidine,HZ8,2016,2027
+HZ86Z,None,HZ86,2016,2027
+HZ86ZZ,None,HZ86Z,2016,2027
+HZ86ZZZ,"Medication Management for Substance Abuse Treatment, Clonidine",HZ86ZZ,2016,2027
+HZ87,Bupropion,HZ8,2016,2027
+HZ87Z,None,HZ87,2016,2027
+HZ87ZZ,None,HZ87Z,2016,2027
+HZ87ZZZ,"Medication Management for Substance Abuse Treatment, Bupropion",HZ87ZZ,2016,2027
+HZ88,Psychiatric Medication,HZ8,2016,2027
+HZ88Z,None,HZ88,2016,2027
+HZ88ZZ,None,HZ88Z,2016,2027
+HZ88ZZZ,"Medication Management for Substance Abuse Treatment, Psychiatric Medication",HZ88ZZ,2016,2027
+HZ89,Other Replacement Medication,HZ8,2016,2027
+HZ89Z,None,HZ89,2016,2027
+HZ89ZZ,None,HZ89Z,2016,2027
+HZ89ZZZ,"Medication Management for Substance Abuse Treatment, Other Replacement Medication",HZ89ZZ,2016,2027
+HZ9,Pharmacotherapy,HZ,2016,2027
+HZ90,Nicotine Replacement,HZ9,2016,2027
+HZ90Z,None,HZ90,2016,2027
+HZ90ZZ,None,HZ90Z,2016,2027
+HZ90ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Nicotine Replacement",HZ90ZZ,2016,2027
+HZ91,Methadone Maintenance,HZ9,2016,2027
+HZ91Z,None,HZ91,2016,2027
+HZ91ZZ,None,HZ91Z,2016,2027
+HZ91ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Methadone Maintenance",HZ91ZZ,2016,2027
+HZ92,Levo-alpha-acetyl-methadol (LAAM),HZ9,2016,2027
+HZ92Z,None,HZ92,2016,2027
+HZ92ZZ,None,HZ92Z,2016,2027
+HZ92ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Levo-alpha-acetyl-methadol (LAAM)",HZ92ZZ,2016,2027
+HZ93,Antabuse,HZ9,2016,2027
+HZ93Z,None,HZ93,2016,2027
+HZ93ZZ,None,HZ93Z,2016,2027
+HZ93ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Antabuse",HZ93ZZ,2016,2027
+HZ94,Naltrexone,HZ9,2016,2027
+HZ94Z,None,HZ94,2016,2027
+HZ94ZZ,None,HZ94Z,2016,2027
+HZ94ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Naltrexone",HZ94ZZ,2016,2027
+HZ95,Naloxone,HZ9,2016,2027
+HZ95Z,None,HZ95,2016,2027
+HZ95ZZ,None,HZ95Z,2016,2027
+HZ95ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Naloxone",HZ95ZZ,2016,2027
+HZ96,Clonidine,HZ9,2016,2027
+HZ96Z,None,HZ96,2016,2027
+HZ96ZZ,None,HZ96Z,2016,2027
+HZ96ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Clonidine",HZ96ZZ,2016,2027
+HZ97,Bupropion,HZ9,2016,2027
+HZ97Z,None,HZ97,2016,2027
+HZ97ZZ,None,HZ97Z,2016,2027
+HZ97ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Bupropion",HZ97ZZ,2016,2027
+HZ98,Psychiatric Medication,HZ9,2016,2027
+HZ98Z,None,HZ98,2016,2027
+HZ98ZZ,None,HZ98Z,2016,2027
+HZ98ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Psychiatric Medication",HZ98ZZ,2016,2027
+HZ99,Other Replacement Medication,HZ9,2016,2027
+HZ99Z,None,HZ99,2016,2027
+HZ99ZZ,None,HZ99Z,2016,2027
+HZ99ZZZ,"Pharmacotherapy for Substance Abuse Treatment, Other Replacement Medication",HZ99ZZ,2016,2027

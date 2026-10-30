@@ -1,0 +1,41 @@
+{
+ "schema": "sumeds-crosswalk/0.1",
+ "dataset": "nwicu",
+ "tables": {
+  "loinc_parents": {
+   "file": "loinc_parents.csv",
+   "rows": 50,
+   "bytes": 18705,
+   "sha256": "a5f4fb49afd0cf0c2e79c58c6100ee32f3e844b0f2fcd445dd2ec96af319555e",
+   "columns": [
+    "itemid",
+    "source_table",
+    "loinc_code",
+    "source",
+    "source_detail",
+    "loinc_long_common_name"
+   ],
+   "key_column": "itemid",
+   "code_column": "loinc_code",
+   "vocabulary": "LOINC",
+   "description": "NWICU d_labitems/d_items itemid -> LOINC (inferred bridge)",
+   "origin": {
+    "repository": "https://github.com/rvandewater/NWICU_MEDS",
+    "branch": "metadata-descriptions",
+    "commit": "8f3e6ef4527a6f70c43d63005874b18ca1365f78",
+    "path": "src/NWICU_MEDS/metadata/loinc_parents.csv"
+   },
+   "sources": "aidh-ms/WeavEHR (MIT), commit 210a539 configs/datasets/nwicu/0.1.0/mappings and mimic-iv/2.2/mappings; MIT-LCP/mimic-code (MIT), v2.4.0 (570ef01) d_labitems_to_loinc.csv and meas_chartevents_main.csv; per-row provenance in source/source_detail",
+   "license": "MIT (suMEDS); built from MIT-licensed public sources",
+   "notes": "labevents and chartevents items both give LAB//{itemid}//{unit} codes and their itemids do not overlap, so no where filter is needed; source_table holds labevents or chartevents.",
+   "suggested_pattern": "^LAB//(?P<key>[0-9]+)//",
+   "loinc_check": {
+    "found": 50,
+    "deprecated": [],
+    "missing": []
+   }
+  }
+ },
+ "notice": "This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.",
+ "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the suMEDS LOINC pack built from the official LOINC Table; it is empty until that pack is built"
+}

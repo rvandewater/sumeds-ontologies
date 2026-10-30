@@ -1,0 +1,27 @@
+code,description,parent,first_year,last_year
+4B,Physiological Devices,4,2016,2027
+4B0,Measurement,4B,2016,2027
+4B00,Central Nervous,4B0,2016,2027
+4B00X,External,4B00,2016,2027
+4B00XV,Stimulator,4B00X,2016,2027
+4B00XVZ,"Measurement of Central Nervous Stimulator, External Approach",4B00XV,2016,2027
+4B00XW,Cerebrospinal Fluid Shunt,4B00X,2022,2027
+4B00XW0,"Measurement of Central Nervous Cerebrospinal Fluid Shunt using Wireless Sensor, External Approach",4B00XW,2022,2027
+4B01,Peripheral Nervous,4B0,2016,2027
+4B01X,External,4B01,2016,2027
+4B01XV,Stimulator,4B01X,2016,2027
+4B01XVZ,"Measurement of Peripheral Nervous Stimulator, External Approach",4B01XV,2016,2027
+4B02,Cardiac,4B0,2016,2027
+4B02X,External,4B02,2016,2027
+4B02XS,Pacemaker,4B02X,2016,2027
+4B02XSZ,"Measurement of Cardiac Pacemaker, External Approach",4B02XS,2016,2027
+4B02XT,Defibrillator,4B02X,2016,2027
+4B02XTZ,"Measurement of Cardiac Defibrillator, External Approach",4B02XT,2016,2027
+4B09,Respiratory,4B0,2016,2027
+4B09X,External,4B09,2016,2027
+4B09XS,Pacemaker,4B09X,2016,2027
+4B09XSZ,"Measurement of Respiratory Pacemaker, External Approach",4B09XS,2016,2027
+4B0F,Musculoskeletal,4B0,2016,2027
+4B0FX,External,4B0F,2016,2027
+4B0FXV,Stimulator,4B0FX,2016,2027
+4B0FXVZ,"Measurement of Musculoskeletal Stimulator, External Approach",4B0FXV,2016,2027

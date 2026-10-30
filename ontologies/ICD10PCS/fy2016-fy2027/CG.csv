@@ -1,0 +1,70 @@
+code,description,parent,first_year,last_year
+CG,Endocrine System,C,2016,2027
+CG1,Planar Nuclear Medicine Imaging,CG,2016,2027
+CG11,Parathyroid Glands,CG1,2016,2027
+CG111,Technetium 99m (Tc-99m),CG11,2016,2027
+CG111Z,None,CG111,2016,2027
+CG111ZZ,Planar Nuclear Medicine Imaging of Parathyroid Glands using Technetium 99m (Tc-99m),CG111Z,2016,2027
+CG11S,Thallium 201 (Tl-201),CG11,2016,2027
+CG11SZ,None,CG11S,2016,2027
+CG11SZZ,Planar Nuclear Medicine Imaging of Parathyroid Glands using Thallium 201 (Tl-201),CG11SZ,2016,2027
+CG11Y,Other Radionuclide,CG11,2016,2027
+CG11YZ,None,CG11Y,2016,2027
+CG11YZZ,Planar Nuclear Medicine Imaging of Parathyroid Glands using Other Radionuclide,CG11YZ,2016,2027
+CG12,Thyroid Gland,CG1,2016,2027
+CG121,Technetium 99m (Tc-99m),CG12,2016,2027
+CG121Z,None,CG121,2016,2027
+CG121ZZ,Planar Nuclear Medicine Imaging of Thyroid Gland using Technetium 99m (Tc-99m),CG121Z,2016,2027
+CG12F,Iodine 123 (I-123),CG12,2016,2027
+CG12FZ,None,CG12F,2016,2027
+CG12FZZ,Planar Nuclear Medicine Imaging of Thyroid Gland using Iodine 123 (I-123),CG12FZ,2016,2027
+CG12G,Iodine 131 (I-131),CG12,2016,2027
+CG12GZ,None,CG12G,2016,2027
+CG12GZZ,Planar Nuclear Medicine Imaging of Thyroid Gland using Iodine 131 (I-131),CG12GZ,2016,2027
+CG12Y,Other Radionuclide,CG12,2016,2027
+CG12YZ,None,CG12Y,2016,2027
+CG12YZZ,Planar Nuclear Medicine Imaging of Thyroid Gland using Other Radionuclide,CG12YZ,2016,2027
+CG14,"Adrenal Glands, Bilateral",CG1,2016,2027
+CG14G,Iodine 131 (I-131),CG14,2016,2027
+CG14GZ,None,CG14G,2016,2027
+CG14GZZ,Planar Nuclear Medicine Imaging of Bilateral Adrenal Glands using Iodine 131 (I-131),CG14GZ,2016,2027
+CG14Y,Other Radionuclide,CG14,2016,2027
+CG14YZ,None,CG14Y,2016,2027
+CG14YZZ,Planar Nuclear Medicine Imaging of Bilateral Adrenal Glands using Other Radionuclide,CG14YZ,2016,2027
+CG1Y,Endocrine System,CG1,2016,2027
+CG1YY,Other Radionuclide,CG1Y,2016,2027
+CG1YYZ,None,CG1YY,2016,2027
+CG1YYZZ,Planar Nuclear Medicine Imaging of Endocrine System using Other Radionuclide,CG1YYZ,2016,2027
+CG2,Tomographic (Tomo) Nuclear Medicine Imaging,CG,2016,2027
+CG21,Parathyroid Glands,CG2,2016,2027
+CG211,Technetium 99m (Tc-99m),CG21,2016,2027
+CG211Z,None,CG211,2016,2027
+CG211ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Parathyroid Glands using Technetium 99m (Tc-99m),CG211Z,2016,2027
+CG21S,Thallium 201 (Tl-201),CG21,2016,2027
+CG21SZ,None,CG21S,2016,2027
+CG21SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Parathyroid Glands using Thallium 201 (Tl-201),CG21SZ,2016,2027
+CG21Y,Other Radionuclide,CG21,2016,2027
+CG21YZ,None,CG21Y,2016,2027
+CG21YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Parathyroid Glands using Other Radionuclide,CG21YZ,2016,2027
+CG2Y,Endocrine System,CG2,2016,2027
+CG2YY,Other Radionuclide,CG2Y,2016,2027
+CG2YYZ,None,CG2YY,2016,2027
+CG2YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Endocrine System using Other Radionuclide,CG2YYZ,2016,2027
+CG4,Nonimaging Nuclear Medicine Uptake,CG,2016,2027
+CG42,Thyroid Gland,CG4,2016,2027
+CG421,Technetium 99m (Tc-99m),CG42,2016,2027
+CG421Z,None,CG421,2016,2027
+CG421ZZ,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Technetium 99m (Tc-99m),CG421Z,2016,2027
+CG42F,Iodine 123 (I-123),CG42,2016,2027
+CG42FZ,None,CG42F,2016,2027
+CG42FZZ,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 123 (I-123),CG42FZ,2016,2027
+CG42G,Iodine 131 (I-131),CG42,2016,2027
+CG42GZ,None,CG42G,2016,2027
+CG42GZZ,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Iodine 131 (I-131),CG42GZ,2016,2027
+CG42Y,Other Radionuclide,CG42,2016,2027
+CG42YZ,None,CG42Y,2016,2027
+CG42YZZ,Nonimaging Nuclear Medicine Uptake of Thyroid Gland using Other Radionuclide,CG42YZ,2016,2027
+CG4Y,Endocrine System,CG4,2016,2027
+CG4YY,Other Radionuclide,CG4Y,2016,2027
+CG4YYZ,None,CG4YY,2016,2027
+CG4YYZZ,Nonimaging Nuclear Medicine Uptake of Endocrine System using Other Radionuclide,CG4YYZ,2016,2027

@@ -1,0 +1,39 @@
+{
+ "schema": "sumeds-crosswalk/0.1",
+ "dataset": "zigong",
+ "tables": {
+  "nursing_vitals_loinc": {
+   "file": "nursing_vitals_loinc.csv",
+   "rows": 6,
+   "bytes": 1240,
+   "sha256": "951d692c7d336e285712b671476d258da21501e5694662518049127553b305b1",
+   "columns": [
+    "code",
+    "loinc_code",
+    "source",
+    "loinc_long_common_name"
+   ],
+   "key_column": "code",
+   "code_column": "loinc_code",
+   "vocabulary": "LOINC",
+   "description": "Zigong NURSING// vital-sign codes -> LOINC",
+   "origin": {
+    "repository": "https://github.com/rvandewater/ZIGONG_MEDS",
+    "branch": "metadata-descriptions",
+    "commit": "f1f11bacbb37f43c5772d0687e65edcdfb9db6de",
+    "path": "src/Zigong_MEDS/event_configs.yaml (dtNursingChart codes)"
+   },
+   "sources": "HL7 FHIR R4 vital-signs profile (https://hl7.org/fhir/R4/observation-vitalsigns.html, CC0)",
+   "license": "MIT (suMEDS); codes from a CC0 specification",
+   "notes": "Oxygen saturation uses 59408-5 (by pulse oximetry), which the profile lists as an additional code next to 2708-6.",
+   "suggested_pattern": "^(?P<key>NURSING//[A-Z_]+)$",
+   "loinc_check": {
+    "found": 6,
+    "deprecated": [],
+    "missing": []
+   }
+  }
+ },
+ "notice": "This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.",
+ "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the suMEDS LOINC pack built from the official LOINC Table; it is empty until that pack is built"
+}

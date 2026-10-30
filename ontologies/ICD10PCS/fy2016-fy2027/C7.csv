@@ -1,0 +1,187 @@
+code,description,parent,first_year,last_year
+C7,Lymphatic and Hematologic System,C,2016,2027
+C71,Planar Nuclear Medicine Imaging,C7,2016,2027
+C710,Bone Marrow,C71,2016,2027
+C7101,Technetium 99m (Tc-99m),C710,2016,2027
+C7101Z,None,C7101,2016,2027
+C7101ZZ,Planar Nuclear Medicine Imaging of Bone Marrow using Technetium 99m (Tc-99m),C7101Z,2016,2027
+C710D,Indium 111 (In-111),C710,2016,2027
+C710DZ,None,C710D,2016,2027
+C710DZZ,Planar Nuclear Medicine Imaging of Bone Marrow using Indium 111 (In-111),C710DZ,2016,2027
+C710Y,Other Radionuclide,C710,2016,2027
+C710YZ,None,C710Y,2016,2027
+C710YZZ,Planar Nuclear Medicine Imaging of Bone Marrow using Other Radionuclide,C710YZ,2016,2027
+C712,Spleen,C71,2016,2027
+C7121,Technetium 99m (Tc-99m),C712,2016,2027
+C7121Z,None,C7121,2016,2027
+C7121ZZ,Planar Nuclear Medicine Imaging of Spleen using Technetium 99m (Tc-99m),C7121Z,2016,2027
+C712Y,Other Radionuclide,C712,2016,2027
+C712YZ,None,C712Y,2016,2027
+C712YZZ,Planar Nuclear Medicine Imaging of Spleen using Other Radionuclide,C712YZ,2016,2027
+C713,Blood,C71,2016,2027
+C713D,Indium 111 (In-111),C713,2016,2027
+C713DZ,None,C713D,2016,2027
+C713DZZ,Planar Nuclear Medicine Imaging of Blood using Indium 111 (In-111),C713DZ,2016,2027
+C713Y,Other Radionuclide,C713,2016,2027
+C713YZ,None,C713Y,2016,2027
+C713YZZ,Planar Nuclear Medicine Imaging of Blood using Other Radionuclide,C713YZ,2016,2027
+C715,"Lymphatics, Head and Neck",C71,2016,2027
+C7151,Technetium 99m (Tc-99m),C715,2016,2027
+C7151Z,None,C7151,2016,2027
+C7151ZZ,Planar Nuclear Medicine Imaging of Head and Neck Lymphatics using Technetium 99m (Tc-99m),C7151Z,2016,2027
+C715Y,Other Radionuclide,C715,2016,2027
+C715YZ,None,C715Y,2016,2027
+C715YZZ,Planar Nuclear Medicine Imaging of Head and Neck Lymphatics using Other Radionuclide,C715YZ,2016,2027
+C71D,"Lymphatics, Pelvic",C71,2016,2027
+C71D1,Technetium 99m (Tc-99m),C71D,2016,2027
+C71D1Z,None,C71D1,2016,2027
+C71D1ZZ,Planar Nuclear Medicine Imaging of Pelvic Lymphatics using Technetium 99m (Tc-99m),C71D1Z,2016,2027
+C71DY,Other Radionuclide,C71D,2016,2027
+C71DYZ,None,C71DY,2016,2027
+C71DYZZ,Planar Nuclear Medicine Imaging of Pelvic Lymphatics using Other Radionuclide,C71DYZ,2016,2027
+C71J,"Lymphatics, Head",C71,2016,2027
+C71J1,Technetium 99m (Tc-99m),C71J,2016,2027
+C71J1Z,None,C71J1,2016,2027
+C71J1ZZ,Planar Nuclear Medicine Imaging of Head Lymphatics using Technetium 99m (Tc-99m),C71J1Z,2016,2027
+C71JY,Other Radionuclide,C71J,2016,2027
+C71JYZ,None,C71JY,2016,2027
+C71JYZZ,Planar Nuclear Medicine Imaging of Head Lymphatics using Other Radionuclide,C71JYZ,2016,2027
+C71K,"Lymphatics, Neck",C71,2016,2027
+C71K1,Technetium 99m (Tc-99m),C71K,2016,2027
+C71K1Z,None,C71K1,2016,2027
+C71K1ZZ,Planar Nuclear Medicine Imaging of Neck Lymphatics using Technetium 99m (Tc-99m),C71K1Z,2016,2027
+C71KY,Other Radionuclide,C71K,2016,2027
+C71KYZ,None,C71KY,2016,2027
+C71KYZZ,Planar Nuclear Medicine Imaging of Neck Lymphatics using Other Radionuclide,C71KYZ,2016,2027
+C71L,"Lymphatics, Upper Chest",C71,2016,2027
+C71L1,Technetium 99m (Tc-99m),C71L,2016,2027
+C71L1Z,None,C71L1,2016,2027
+C71L1ZZ,Planar Nuclear Medicine Imaging of Upper Chest Lymphatics using Technetium 99m (Tc-99m),C71L1Z,2016,2027
+C71LY,Other Radionuclide,C71L,2016,2027
+C71LYZ,None,C71LY,2016,2027
+C71LYZZ,Planar Nuclear Medicine Imaging of Upper Chest Lymphatics using Other Radionuclide,C71LYZ,2016,2027
+C71M,"Lymphatics, Trunk",C71,2016,2027
+C71M1,Technetium 99m (Tc-99m),C71M,2016,2027
+C71M1Z,None,C71M1,2016,2027
+C71M1ZZ,Planar Nuclear Medicine Imaging of Trunk Lymphatics using Technetium 99m (Tc-99m),C71M1Z,2016,2027
+C71MY,Other Radionuclide,C71M,2016,2027
+C71MYZ,None,C71MY,2016,2027
+C71MYZZ,Planar Nuclear Medicine Imaging of Trunk Lymphatics using Other Radionuclide,C71MYZ,2016,2027
+C71N,"Lymphatics, Upper Extremity",C71,2016,2027
+C71N1,Technetium 99m (Tc-99m),C71N,2016,2027
+C71N1Z,None,C71N1,2016,2027
+C71N1ZZ,Planar Nuclear Medicine Imaging of Upper Extremity Lymphatics using Technetium 99m (Tc-99m),C71N1Z,2016,2027
+C71NY,Other Radionuclide,C71N,2016,2027
+C71NYZ,None,C71NY,2016,2027
+C71NYZZ,Planar Nuclear Medicine Imaging of Upper Extremity Lymphatics using Other Radionuclide,C71NYZ,2016,2027
+C71P,"Lymphatics, Lower Extremity",C71,2016,2027
+C71P1,Technetium 99m (Tc-99m),C71P,2016,2027
+C71P1Z,None,C71P1,2016,2027
+C71P1ZZ,Planar Nuclear Medicine Imaging of Lower Extremity Lymphatics using Technetium 99m (Tc-99m),C71P1Z,2016,2027
+C71PY,Other Radionuclide,C71P,2016,2027
+C71PYZ,None,C71PY,2016,2027
+C71PYZZ,Planar Nuclear Medicine Imaging of Lower Extremity Lymphatics using Other Radionuclide,C71PYZ,2016,2027
+C71Y,Lymphatic and Hematologic System,C71,2016,2027
+C71YY,Other Radionuclide,C71Y,2016,2027
+C71YYZ,None,C71YY,2016,2027
+C71YYZZ,Planar Nuclear Medicine Imaging of Lymphatic and Hematologic System using Other Radionuclide,C71YYZ,2016,2027
+C72,Tomographic (Tomo) Nuclear Medicine Imaging,C7,2016,2027
+C722,Spleen,C72,2016,2027
+C7221,Technetium 99m (Tc-99m),C722,2016,2027
+C7221Z,None,C7221,2016,2027
+C7221ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Spleen using Technetium 99m (Tc-99m),C7221Z,2016,2027
+C722Y,Other Radionuclide,C722,2016,2027
+C722YZ,None,C722Y,2016,2027
+C722YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Spleen using Other Radionuclide,C722YZ,2016,2027
+C72Y,Lymphatic and Hematologic System,C72,2016,2027
+C72YY,Other Radionuclide,C72Y,2016,2027
+C72YYZ,None,C72YY,2016,2027
+C72YYZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Lymphatic and Hematologic System using Other Radionuclide,C72YYZ,2016,2027
+C75,Nonimaging Nuclear Medicine Probe,C7,2016,2027
+C755,"Lymphatics, Head and Neck",C75,2016,2027
+C7551,Technetium 99m (Tc-99m),C755,2016,2027
+C7551Z,None,C7551,2016,2027
+C7551ZZ,Nonimaging Nuclear Medicine Probe of Head and Neck Lymphatics using Technetium 99m (Tc-99m),C7551Z,2016,2027
+C755Y,Other Radionuclide,C755,2016,2027
+C755YZ,None,C755Y,2016,2027
+C755YZZ,Nonimaging Nuclear Medicine Probe of Head and Neck Lymphatics using Other Radionuclide,C755YZ,2016,2027
+C75D,"Lymphatics, Pelvic",C75,2016,2027
+C75D1,Technetium 99m (Tc-99m),C75D,2016,2027
+C75D1Z,None,C75D1,2016,2027
+C75D1ZZ,Nonimaging Nuclear Medicine Probe of Pelvic Lymphatics using Technetium 99m (Tc-99m),C75D1Z,2016,2027
+C75DY,Other Radionuclide,C75D,2016,2027
+C75DYZ,None,C75DY,2016,2027
+C75DYZZ,Nonimaging Nuclear Medicine Probe of Pelvic Lymphatics using Other Radionuclide,C75DYZ,2016,2027
+C75J,"Lymphatics, Head",C75,2016,2027
+C75J1,Technetium 99m (Tc-99m),C75J,2016,2027
+C75J1Z,None,C75J1,2016,2027
+C75J1ZZ,Nonimaging Nuclear Medicine Probe of Head Lymphatics using Technetium 99m (Tc-99m),C75J1Z,2016,2027
+C75JY,Other Radionuclide,C75J,2016,2027
+C75JYZ,None,C75JY,2016,2027
+C75JYZZ,Nonimaging Nuclear Medicine Probe of Head Lymphatics using Other Radionuclide,C75JYZ,2016,2027
+C75K,"Lymphatics, Neck",C75,2016,2027
+C75K1,Technetium 99m (Tc-99m),C75K,2016,2027
+C75K1Z,None,C75K1,2016,2027
+C75K1ZZ,Nonimaging Nuclear Medicine Probe of Neck Lymphatics using Technetium 99m (Tc-99m),C75K1Z,2016,2027
+C75KY,Other Radionuclide,C75K,2016,2027
+C75KYZ,None,C75KY,2016,2027
+C75KYZZ,Nonimaging Nuclear Medicine Probe of Neck Lymphatics using Other Radionuclide,C75KYZ,2016,2027
+C75L,"Lymphatics, Upper Chest",C75,2016,2027
+C75L1,Technetium 99m (Tc-99m),C75L,2016,2027
+C75L1Z,None,C75L1,2016,2027
+C75L1ZZ,Nonimaging Nuclear Medicine Probe of Upper Chest Lymphatics using Technetium 99m (Tc-99m),C75L1Z,2016,2027
+C75LY,Other Radionuclide,C75L,2016,2027
+C75LYZ,None,C75LY,2016,2027
+C75LYZZ,Nonimaging Nuclear Medicine Probe of Upper Chest Lymphatics using Other Radionuclide,C75LYZ,2016,2027
+C75M,"Lymphatics, Trunk",C75,2016,2027
+C75M1,Technetium 99m (Tc-99m),C75M,2016,2027
+C75M1Z,None,C75M1,2016,2027
+C75M1ZZ,Nonimaging Nuclear Medicine Probe of Trunk Lymphatics using Technetium 99m (Tc-99m),C75M1Z,2016,2027
+C75MY,Other Radionuclide,C75M,2016,2027
+C75MYZ,None,C75MY,2016,2027
+C75MYZZ,Nonimaging Nuclear Medicine Probe of Trunk Lymphatics using Other Radionuclide,C75MYZ,2016,2027
+C75N,"Lymphatics, Upper Extremity",C75,2016,2027
+C75N1,Technetium 99m (Tc-99m),C75N,2016,2027
+C75N1Z,None,C75N1,2016,2027
+C75N1ZZ,Nonimaging Nuclear Medicine Probe of Upper Extremity Lymphatics using Technetium 99m (Tc-99m),C75N1Z,2016,2027
+C75NY,Other Radionuclide,C75N,2016,2027
+C75NYZ,None,C75NY,2016,2027
+C75NYZZ,Nonimaging Nuclear Medicine Probe of Upper Extremity Lymphatics using Other Radionuclide,C75NYZ,2016,2027
+C75P,"Lymphatics, Lower Extremity",C75,2016,2027
+C75P1,Technetium 99m (Tc-99m),C75P,2016,2027
+C75P1Z,None,C75P1,2016,2027
+C75P1ZZ,Nonimaging Nuclear Medicine Probe of Lower Extremity Lymphatics using Technetium 99m (Tc-99m),C75P1Z,2016,2027
+C75PY,Other Radionuclide,C75P,2016,2027
+C75PYZ,None,C75PY,2016,2027
+C75PYZZ,Nonimaging Nuclear Medicine Probe of Lower Extremity Lymphatics using Other Radionuclide,C75PYZ,2016,2027
+C75Y,Lymphatic and Hematologic System,C75,2016,2027
+C75YY,Other Radionuclide,C75Y,2016,2027
+C75YYZ,None,C75YY,2016,2027
+C75YYZZ,Nonimaging Nuclear Medicine Probe of Lymphatic and Hematologic System using Other Radionuclide,C75YYZ,2016,2027
+C76,Nonimaging Nuclear Medicine Assay,C7,2016,2027
+C763,Blood,C76,2016,2027
+C7631,Technetium 99m (Tc-99m),C763,2016,2027
+C7631Z,None,C7631,2016,2027
+C7631ZZ,Nonimaging Nuclear Medicine Assay of Blood using Technetium 99m (Tc-99m),C7631Z,2016,2027
+C7637,Cobalt 58 (Co-58),C763,2016,2027
+C7637Z,None,C7637,2016,2027
+C7637ZZ,Nonimaging Nuclear Medicine Assay of Blood using Cobalt 58 (Co-58),C7637Z,2016,2027
+C763C,Cobalt 57 (Co-57),C763,2016,2027
+C763CZ,None,C763C,2016,2027
+C763CZZ,Nonimaging Nuclear Medicine Assay of Blood using Cobalt 57 (Co-57),C763CZ,2016,2027
+C763D,Indium 111 (In-111),C763,2016,2027
+C763DZ,None,C763D,2016,2027
+C763DZZ,Nonimaging Nuclear Medicine Assay of Blood using Indium 111 (In-111),C763DZ,2016,2027
+C763H,Iodine 125 (I-125),C763,2016,2027
+C763HZ,None,C763H,2016,2027
+C763HZZ,Nonimaging Nuclear Medicine Assay of Blood using Iodine 125 (I-125),C763HZ,2016,2027
+C763W,Chromium (Cr-51),C763,2016,2027
+C763WZ,None,C763W,2016,2027
+C763WZZ,Nonimaging Nuclear Medicine Assay of Blood using Chromium (Cr-51),C763WZ,2016,2027
+C763Y,Other Radionuclide,C763,2016,2027
+C763YZ,None,C763Y,2016,2027
+C763YZZ,Nonimaging Nuclear Medicine Assay of Blood using Other Radionuclide,C763YZ,2016,2027
+C76Y,Lymphatic and Hematologic System,C76,2016,2027
+C76YY,Other Radionuclide,C76Y,2016,2027
+C76YYZ,None,C76YY,2016,2027
+C76YYZZ,Nonimaging Nuclear Medicine Assay of Lymphatic and Hematologic System using Other Radionuclide,C76YYZ,2016,2027

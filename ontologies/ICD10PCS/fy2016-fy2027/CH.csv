@@ -1,0 +1,72 @@
+code,description,parent,first_year,last_year
+CH,"Skin, Subcutaneous Tissue and Breast",C,2016,2027
+CH1,Planar Nuclear Medicine Imaging,CH,2016,2027
+CH10,"Breast, Right",CH1,2016,2027
+CH101,Technetium 99m (Tc-99m),CH10,2016,2027
+CH101Z,None,CH101,2016,2027
+CH101ZZ,Planar Nuclear Medicine Imaging of Right Breast using Technetium 99m (Tc-99m),CH101Z,2016,2027
+CH10S,Thallium 201 (Tl-201),CH10,2016,2027
+CH10SZ,None,CH10S,2016,2027
+CH10SZZ,Planar Nuclear Medicine Imaging of Right Breast using Thallium 201 (Tl-201),CH10SZ,2016,2027
+CH10Y,Other Radionuclide,CH10,2016,2027
+CH10YZ,None,CH10Y,2016,2027
+CH10YZZ,Planar Nuclear Medicine Imaging of Right Breast using Other Radionuclide,CH10YZ,2016,2027
+CH11,"Breast, Left",CH1,2016,2027
+CH111,Technetium 99m (Tc-99m),CH11,2016,2027
+CH111Z,None,CH111,2016,2027
+CH111ZZ,Planar Nuclear Medicine Imaging of Left Breast using Technetium 99m (Tc-99m),CH111Z,2016,2027
+CH11S,Thallium 201 (Tl-201),CH11,2016,2027
+CH11SZ,None,CH11S,2016,2027
+CH11SZZ,Planar Nuclear Medicine Imaging of Left Breast using Thallium 201 (Tl-201),CH11SZ,2016,2027
+CH11Y,Other Radionuclide,CH11,2016,2027
+CH11YZ,None,CH11Y,2016,2027
+CH11YZZ,Planar Nuclear Medicine Imaging of Left Breast using Other Radionuclide,CH11YZ,2016,2027
+CH12,"Breasts, Bilateral",CH1,2016,2027
+CH121,Technetium 99m (Tc-99m),CH12,2016,2027
+CH121Z,None,CH121,2016,2027
+CH121ZZ,Planar Nuclear Medicine Imaging of Bilateral Breasts using Technetium 99m (Tc-99m),CH121Z,2016,2027
+CH12S,Thallium 201 (Tl-201),CH12,2016,2027
+CH12SZ,None,CH12S,2016,2027
+CH12SZZ,Planar Nuclear Medicine Imaging of Bilateral Breasts using Thallium 201 (Tl-201),CH12SZ,2016,2027
+CH12Y,Other Radionuclide,CH12,2016,2027
+CH12YZ,None,CH12Y,2016,2027
+CH12YZZ,Planar Nuclear Medicine Imaging of Bilateral Breasts using Other Radionuclide,CH12YZ,2016,2027
+CH1Y,"Skin, Subcutaneous Tissue and Breast",CH1,2016,2027
+CH1YY,Other Radionuclide,CH1Y,2016,2027
+CH1YYZ,None,CH1YY,2016,2027
+CH1YYZZ,"Planar Nuclear Medicine Imaging of Skin, Subcutaneous Tissue and Breast using Other Radionuclide",CH1YYZ,2016,2027
+CH2,Tomographic (Tomo) Nuclear Medicine Imaging,CH,2016,2027
+CH20,"Breast, Right",CH2,2016,2027
+CH201,Technetium 99m (Tc-99m),CH20,2016,2027
+CH201Z,None,CH201,2016,2027
+CH201ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Breast using Technetium 99m (Tc-99m),CH201Z,2016,2027
+CH20S,Thallium 201 (Tl-201),CH20,2016,2027
+CH20SZ,None,CH20S,2016,2027
+CH20SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Breast using Thallium 201 (Tl-201),CH20SZ,2016,2027
+CH20Y,Other Radionuclide,CH20,2016,2027
+CH20YZ,None,CH20Y,2016,2027
+CH20YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Right Breast using Other Radionuclide,CH20YZ,2016,2027
+CH21,"Breast, Left",CH2,2016,2027
+CH211,Technetium 99m (Tc-99m),CH21,2016,2027
+CH211Z,None,CH211,2016,2027
+CH211ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Breast using Technetium 99m (Tc-99m),CH211Z,2016,2027
+CH21S,Thallium 201 (Tl-201),CH21,2016,2027
+CH21SZ,None,CH21S,2016,2027
+CH21SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Breast using Thallium 201 (Tl-201),CH21SZ,2016,2027
+CH21Y,Other Radionuclide,CH21,2016,2027
+CH21YZ,None,CH21Y,2016,2027
+CH21YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Left Breast using Other Radionuclide,CH21YZ,2016,2027
+CH22,"Breasts, Bilateral",CH2,2016,2027
+CH221,Technetium 99m (Tc-99m),CH22,2016,2027
+CH221Z,None,CH221,2016,2027
+CH221ZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Breasts using Technetium 99m (Tc-99m),CH221Z,2016,2027
+CH22S,Thallium 201 (Tl-201),CH22,2016,2027
+CH22SZ,None,CH22S,2016,2027
+CH22SZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Breasts using Thallium 201 (Tl-201),CH22SZ,2016,2027
+CH22Y,Other Radionuclide,CH22,2016,2027
+CH22YZ,None,CH22Y,2016,2027
+CH22YZZ,Tomographic (Tomo) Nuclear Medicine Imaging of Bilateral Breasts using Other Radionuclide,CH22YZ,2016,2027
+CH2Y,"Skin, Subcutaneous Tissue and Breast",CH2,2016,2027
+CH2YY,Other Radionuclide,CH2Y,2016,2027
+CH2YYZ,None,CH2YY,2016,2027
+CH2YYZZ,"Tomographic (Tomo) Nuclear Medicine Imaging of Skin, Subcutaneous Tissue and Breast using Other Radionuclide",CH2YYZ,2016,2027

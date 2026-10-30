@@ -1,0 +1,221 @@
+code,description,parent,first_year,last_year
+BN,Skull and Facial Bones,B,2016,2027
+BN0,Plain Radiography,BN,2016,2027
+BN00,Skull,BN0,2016,2027
+BN00Z,None,BN00,2016,2027
+BN00ZZ,None,BN00Z,2016,2027
+BN00ZZZ,Plain Radiography of Skull,BN00ZZ,2016,2027
+BN01,"Orbit, Right",BN0,2016,2027
+BN01Z,None,BN01,2016,2027
+BN01ZZ,None,BN01Z,2016,2027
+BN01ZZZ,Plain Radiography of Right Orbit,BN01ZZ,2016,2027
+BN02,"Orbit, Left",BN0,2016,2027
+BN02Z,None,BN02,2016,2027
+BN02ZZ,None,BN02Z,2016,2027
+BN02ZZZ,Plain Radiography of Left Orbit,BN02ZZ,2016,2027
+BN03,"Orbits, Bilateral",BN0,2016,2027
+BN03Z,None,BN03,2016,2027
+BN03ZZ,None,BN03Z,2016,2027
+BN03ZZZ,Plain Radiography of Bilateral Orbits,BN03ZZ,2016,2027
+BN04,Nasal Bones,BN0,2016,2027
+BN04Z,None,BN04,2016,2027
+BN04ZZ,None,BN04Z,2016,2027
+BN04ZZZ,Plain Radiography of Nasal Bones,BN04ZZ,2016,2027
+BN05,Facial Bones,BN0,2016,2027
+BN05Z,None,BN05,2016,2027
+BN05ZZ,None,BN05Z,2016,2027
+BN05ZZZ,Plain Radiography of Facial Bones,BN05ZZ,2016,2027
+BN06,Mandible,BN0,2016,2027
+BN06Z,None,BN06,2016,2027
+BN06ZZ,None,BN06Z,2016,2027
+BN06ZZZ,Plain Radiography of Mandible,BN06ZZ,2016,2027
+BN07,"Temporomandibular Joint, Right",BN0,2016,2027
+BN070,High Osmolar,BN07,2016,2027
+BN070Z,None,BN070,2016,2027
+BN070ZZ,Plain Radiography of Right Temporomandibular Joint using High Osmolar Contrast,BN070Z,2016,2027
+BN071,Low Osmolar,BN07,2016,2027
+BN071Z,None,BN071,2016,2027
+BN071ZZ,Plain Radiography of Right Temporomandibular Joint using Low Osmolar Contrast,BN071Z,2016,2027
+BN07Y,Other Contrast,BN07,2016,2027
+BN07YZ,None,BN07Y,2016,2027
+BN07YZZ,Plain Radiography of Right Temporomandibular Joint using Other Contrast,BN07YZ,2016,2027
+BN07Z,None,BN07,2016,2027
+BN07ZZ,None,BN07Z,2016,2027
+BN07ZZZ,Plain Radiography of Right Temporomandibular Joint,BN07ZZ,2016,2027
+BN08,"Temporomandibular Joint, Left",BN0,2016,2027
+BN080,High Osmolar,BN08,2016,2027
+BN080Z,None,BN080,2016,2027
+BN080ZZ,Plain Radiography of Left Temporomandibular Joint using High Osmolar Contrast,BN080Z,2016,2027
+BN081,Low Osmolar,BN08,2016,2027
+BN081Z,None,BN081,2016,2027
+BN081ZZ,Plain Radiography of Left Temporomandibular Joint using Low Osmolar Contrast,BN081Z,2016,2027
+BN08Y,Other Contrast,BN08,2016,2027
+BN08YZ,None,BN08Y,2016,2027
+BN08YZZ,Plain Radiography of Left Temporomandibular Joint using Other Contrast,BN08YZ,2016,2027
+BN08Z,None,BN08,2016,2027
+BN08ZZ,None,BN08Z,2016,2027
+BN08ZZZ,Plain Radiography of Left Temporomandibular Joint,BN08ZZ,2016,2027
+BN09,"Temporomandibular Joints, Bilateral",BN0,2016,2027
+BN090,High Osmolar,BN09,2016,2027
+BN090Z,None,BN090,2016,2027
+BN090ZZ,Plain Radiography of Bilateral Temporomandibular Joints using High Osmolar Contrast,BN090Z,2016,2027
+BN091,Low Osmolar,BN09,2016,2027
+BN091Z,None,BN091,2016,2027
+BN091ZZ,Plain Radiography of Bilateral Temporomandibular Joints using Low Osmolar Contrast,BN091Z,2016,2027
+BN09Y,Other Contrast,BN09,2016,2027
+BN09YZ,None,BN09Y,2016,2027
+BN09YZZ,Plain Radiography of Bilateral Temporomandibular Joints using Other Contrast,BN09YZ,2016,2027
+BN09Z,None,BN09,2016,2027
+BN09ZZ,None,BN09Z,2016,2027
+BN09ZZZ,Plain Radiography of Bilateral Temporomandibular Joints,BN09ZZ,2016,2027
+BN0B,"Zygomatic Arch, Right",BN0,2016,2027
+BN0BZ,None,BN0B,2016,2027
+BN0BZZ,None,BN0BZ,2016,2027
+BN0BZZZ,Plain Radiography of Right Zygomatic Arch,BN0BZZ,2016,2027
+BN0C,"Zygomatic Arch, Left",BN0,2016,2027
+BN0CZ,None,BN0C,2016,2027
+BN0CZZ,None,BN0CZ,2016,2027
+BN0CZZZ,Plain Radiography of Left Zygomatic Arch,BN0CZZ,2016,2027
+BN0D,"Zygomatic Arches, Bilateral",BN0,2016,2027
+BN0DZ,None,BN0D,2016,2027
+BN0DZZ,None,BN0DZ,2016,2027
+BN0DZZZ,Plain Radiography of Bilateral Zygomatic Arches,BN0DZZ,2016,2027
+BN0G,"Tooth, Single",BN0,2016,2027
+BN0GZ,None,BN0G,2016,2027
+BN0GZZ,None,BN0GZ,2016,2027
+BN0GZZZ,Plain Radiography of Single Tooth,BN0GZZ,2016,2027
+BN0H,"Teeth, Multiple",BN0,2016,2027
+BN0HZ,None,BN0H,2016,2027
+BN0HZZ,None,BN0HZ,2016,2027
+BN0HZZZ,Plain Radiography of Multiple Teeth,BN0HZZ,2016,2027
+BN0J,"Teeth, All",BN0,2016,2027
+BN0JZ,None,BN0J,2016,2027
+BN0JZZ,None,BN0JZ,2016,2027
+BN0JZZZ,Plain Radiography of All Teeth,BN0JZZ,2016,2027
+BN1,Fluoroscopy,BN,2016,2027
+BN17,"Temporomandibular Joint, Right",BN1,2016,2027
+BN170,High Osmolar,BN17,2016,2027
+BN170Z,None,BN170,2016,2027
+BN170ZZ,Fluoroscopy of Right Temporomandibular Joint using High Osmolar Contrast,BN170Z,2016,2027
+BN171,Low Osmolar,BN17,2016,2027
+BN171Z,None,BN171,2016,2027
+BN171ZZ,Fluoroscopy of Right Temporomandibular Joint using Low Osmolar Contrast,BN171Z,2016,2027
+BN17Y,Other Contrast,BN17,2016,2027
+BN17YZ,None,BN17Y,2016,2027
+BN17YZZ,Fluoroscopy of Right Temporomandibular Joint using Other Contrast,BN17YZ,2016,2027
+BN17Z,None,BN17,2016,2027
+BN17ZZ,None,BN17Z,2016,2027
+BN17ZZZ,Fluoroscopy of Right Temporomandibular Joint,BN17ZZ,2016,2027
+BN18,"Temporomandibular Joint, Left",BN1,2016,2027
+BN180,High Osmolar,BN18,2016,2027
+BN180Z,None,BN180,2016,2027
+BN180ZZ,Fluoroscopy of Left Temporomandibular Joint using High Osmolar Contrast,BN180Z,2016,2027
+BN181,Low Osmolar,BN18,2016,2027
+BN181Z,None,BN181,2016,2027
+BN181ZZ,Fluoroscopy of Left Temporomandibular Joint using Low Osmolar Contrast,BN181Z,2016,2027
+BN18Y,Other Contrast,BN18,2016,2027
+BN18YZ,None,BN18Y,2016,2027
+BN18YZZ,Fluoroscopy of Left Temporomandibular Joint using Other Contrast,BN18YZ,2016,2027
+BN18Z,None,BN18,2016,2027
+BN18ZZ,None,BN18Z,2016,2027
+BN18ZZZ,Fluoroscopy of Left Temporomandibular Joint,BN18ZZ,2016,2027
+BN19,"Temporomandibular Joints, Bilateral",BN1,2016,2027
+BN190,High Osmolar,BN19,2016,2027
+BN190Z,None,BN190,2016,2027
+BN190ZZ,Fluoroscopy of Bilateral Temporomandibular Joints using High Osmolar Contrast,BN190Z,2016,2027
+BN191,Low Osmolar,BN19,2016,2027
+BN191Z,None,BN191,2016,2027
+BN191ZZ,Fluoroscopy of Bilateral Temporomandibular Joints using Low Osmolar Contrast,BN191Z,2016,2027
+BN19Y,Other Contrast,BN19,2016,2027
+BN19YZ,None,BN19Y,2016,2027
+BN19YZZ,Fluoroscopy of Bilateral Temporomandibular Joints using Other Contrast,BN19YZ,2016,2027
+BN19Z,None,BN19,2016,2027
+BN19ZZ,None,BN19Z,2016,2027
+BN19ZZZ,Fluoroscopy of Bilateral Temporomandibular Joints,BN19ZZ,2016,2027
+BN2,Computerized Tomography (CT Scan),BN,2016,2027
+BN20,Skull,BN2,2016,2027
+BN200,High Osmolar,BN20,2016,2027
+BN200Z,None,BN200,2016,2027
+BN200ZZ,Computerized Tomography (CT Scan) of Skull using High Osmolar Contrast,BN200Z,2016,2027
+BN201,Low Osmolar,BN20,2016,2027
+BN201Z,None,BN201,2016,2027
+BN201ZZ,Computerized Tomography (CT Scan) of Skull using Low Osmolar Contrast,BN201Z,2016,2027
+BN20Y,Other Contrast,BN20,2016,2027
+BN20YZ,None,BN20Y,2016,2027
+BN20YZZ,Computerized Tomography (CT Scan) of Skull using Other Contrast,BN20YZ,2016,2027
+BN20Z,None,BN20,2016,2027
+BN20ZZ,None,BN20Z,2016,2027
+BN20ZZZ,Computerized Tomography (CT Scan) of Skull,BN20ZZ,2016,2027
+BN23,"Orbits, Bilateral",BN2,2016,2027
+BN230,High Osmolar,BN23,2016,2027
+BN230Z,None,BN230,2016,2027
+BN230ZZ,Computerized Tomography (CT Scan) of Bilateral Orbits using High Osmolar Contrast,BN230Z,2016,2027
+BN231,Low Osmolar,BN23,2016,2027
+BN231Z,None,BN231,2016,2027
+BN231ZZ,Computerized Tomography (CT Scan) of Bilateral Orbits using Low Osmolar Contrast,BN231Z,2016,2027
+BN23Y,Other Contrast,BN23,2016,2027
+BN23YZ,None,BN23Y,2016,2027
+BN23YZZ,Computerized Tomography (CT Scan) of Bilateral Orbits using Other Contrast,BN23YZ,2016,2027
+BN23Z,None,BN23,2016,2027
+BN23ZZ,None,BN23Z,2016,2027
+BN23ZZZ,Computerized Tomography (CT Scan) of Bilateral Orbits,BN23ZZ,2016,2027
+BN25,Facial Bones,BN2,2016,2027
+BN250,High Osmolar,BN25,2016,2027
+BN250Z,None,BN250,2016,2027
+BN250ZZ,Computerized Tomography (CT Scan) of Facial Bones using High Osmolar Contrast,BN250Z,2016,2027
+BN251,Low Osmolar,BN25,2016,2027
+BN251Z,None,BN251,2016,2027
+BN251ZZ,Computerized Tomography (CT Scan) of Facial Bones using Low Osmolar Contrast,BN251Z,2016,2027
+BN25Y,Other Contrast,BN25,2016,2027
+BN25YZ,None,BN25Y,2016,2027
+BN25YZZ,Computerized Tomography (CT Scan) of Facial Bones using Other Contrast,BN25YZ,2016,2027
+BN25Z,None,BN25,2016,2027
+BN25ZZ,None,BN25Z,2016,2027
+BN25ZZZ,Computerized Tomography (CT Scan) of Facial Bones,BN25ZZ,2016,2027
+BN26,Mandible,BN2,2016,2027
+BN260,High Osmolar,BN26,2016,2027
+BN260Z,None,BN260,2016,2027
+BN260ZZ,Computerized Tomography (CT Scan) of Mandible using High Osmolar Contrast,BN260Z,2016,2027
+BN261,Low Osmolar,BN26,2016,2027
+BN261Z,None,BN261,2016,2027
+BN261ZZ,Computerized Tomography (CT Scan) of Mandible using Low Osmolar Contrast,BN261Z,2016,2027
+BN26Y,Other Contrast,BN26,2016,2027
+BN26YZ,None,BN26Y,2016,2027
+BN26YZZ,Computerized Tomography (CT Scan) of Mandible using Other Contrast,BN26YZ,2016,2027
+BN26Z,None,BN26,2016,2027
+BN26ZZ,None,BN26Z,2016,2027
+BN26ZZZ,Computerized Tomography (CT Scan) of Mandible,BN26ZZ,2016,2027
+BN29,"Temporomandibular Joints, Bilateral",BN2,2016,2027
+BN290,High Osmolar,BN29,2016,2027
+BN290Z,None,BN290,2016,2027
+BN290ZZ,Computerized Tomography (CT Scan) of Bilateral Temporomandibular Joints using High Osmolar Contrast,BN290Z,2016,2027
+BN291,Low Osmolar,BN29,2016,2027
+BN291Z,None,BN291,2016,2027
+BN291ZZ,Computerized Tomography (CT Scan) of Bilateral Temporomandibular Joints using Low Osmolar Contrast,BN291Z,2016,2027
+BN29Y,Other Contrast,BN29,2016,2027
+BN29YZ,None,BN29Y,2016,2027
+BN29YZZ,Computerized Tomography (CT Scan) of Bilateral Temporomandibular Joints using Other Contrast,BN29YZ,2016,2027
+BN29Z,None,BN29,2016,2027
+BN29ZZ,None,BN29Z,2016,2027
+BN29ZZZ,Computerized Tomography (CT Scan) of Bilateral Temporomandibular Joints,BN29ZZ,2016,2027
+BN2F,Temporal Bones,BN2,2016,2027
+BN2F0,High Osmolar,BN2F,2016,2027
+BN2F0Z,None,BN2F0,2016,2027
+BN2F0ZZ,Computerized Tomography (CT Scan) of Temporal Bones using High Osmolar Contrast,BN2F0Z,2016,2027
+BN2F1,Low Osmolar,BN2F,2016,2027
+BN2F1Z,None,BN2F1,2016,2027
+BN2F1ZZ,Computerized Tomography (CT Scan) of Temporal Bones using Low Osmolar Contrast,BN2F1Z,2016,2027
+BN2FY,Other Contrast,BN2F,2016,2027
+BN2FYZ,None,BN2FY,2016,2027
+BN2FYZZ,Computerized Tomography (CT Scan) of Temporal Bones using Other Contrast,BN2FYZ,2016,2027
+BN2FZ,None,BN2F,2016,2027
+BN2FZZ,None,BN2FZ,2016,2027
+BN2FZZZ,Computerized Tomography (CT Scan) of Temporal Bones,BN2FZZ,2016,2027
+BN3,Magnetic Resonance Imaging (MRI),BN,2016,2027
+BN39,"Temporomandibular Joints, Bilateral",BN3,2016,2027
+BN39Y,Other Contrast,BN39,2016,2027
+BN39YZ,None,BN39Y,2016,2027
+BN39YZZ,Magnetic Resonance Imaging (MRI) of Bilateral Temporomandibular Joints using Other Contrast,BN39YZ,2016,2027
+BN39Z,None,BN39,2016,2027
+BN39ZZ,None,BN39Z,2016,2027
+BN39ZZZ,Magnetic Resonance Imaging (MRI) of Bilateral Temporomandibular Joints,BN39ZZ,2016,2027

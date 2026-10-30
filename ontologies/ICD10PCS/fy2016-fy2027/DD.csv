@@ -1,0 +1,566 @@
+code,description,parent,first_year,last_year
+DD,Gastrointestinal System,D,2016,2027
+DD0,Beam Radiation,DD,2016,2027
+DD00,Esophagus,DD0,2016,2027
+DD000,Photons <1 MeV,DD00,2016,2027
+DD000Z,None,DD000,2016,2027
+DD000ZZ,Beam Radiation of Esophagus using Photons <1 MeV,DD000Z,2016,2027
+DD001,Photons 1 - 10 MeV,DD00,2016,2027
+DD001Z,None,DD001,2016,2027
+DD001ZZ,Beam Radiation of Esophagus using Photons 1 - 10 MeV,DD001Z,2016,2027
+DD002,Photons >10 MeV,DD00,2016,2027
+DD002Z,None,DD002,2016,2027
+DD002ZZ,Beam Radiation of Esophagus using Photons >10 MeV,DD002Z,2016,2027
+DD003,Electrons,DD00,2016,2027
+DD003Z,None,DD003,2016,2027
+DD003Z0,"Beam Radiation of Esophagus using Electrons, Intraoperative",DD003Z,2016,2027
+DD003ZZ,Beam Radiation of Esophagus using Electrons,DD003Z,2016,2027
+DD004,"Heavy Particles (Protons,Ions)",DD00,2016,2027
+DD004Z,None,DD004,2016,2027
+DD004ZZ,"Beam Radiation of Esophagus using Heavy Particles (Protons,Ions)",DD004Z,2016,2027
+DD005,Neutrons,DD00,2016,2027
+DD005Z,None,DD005,2016,2027
+DD005ZZ,Beam Radiation of Esophagus using Neutrons,DD005Z,2016,2027
+DD006,Neutron Capture,DD00,2016,2027
+DD006Z,None,DD006,2016,2027
+DD006ZZ,Beam Radiation of Esophagus using Neutron Capture,DD006Z,2016,2027
+DD01,Stomach,DD0,2016,2027
+DD010,Photons <1 MeV,DD01,2016,2027
+DD010Z,None,DD010,2016,2027
+DD010ZZ,Beam Radiation of Stomach using Photons <1 MeV,DD010Z,2016,2027
+DD011,Photons 1 - 10 MeV,DD01,2016,2027
+DD011Z,None,DD011,2016,2027
+DD011ZZ,Beam Radiation of Stomach using Photons 1 - 10 MeV,DD011Z,2016,2027
+DD012,Photons >10 MeV,DD01,2016,2027
+DD012Z,None,DD012,2016,2027
+DD012ZZ,Beam Radiation of Stomach using Photons >10 MeV,DD012Z,2016,2027
+DD013,Electrons,DD01,2016,2027
+DD013Z,None,DD013,2016,2027
+DD013Z0,"Beam Radiation of Stomach using Electrons, Intraoperative",DD013Z,2016,2027
+DD013ZZ,Beam Radiation of Stomach using Electrons,DD013Z,2016,2027
+DD014,"Heavy Particles (Protons,Ions)",DD01,2016,2027
+DD014Z,None,DD014,2016,2027
+DD014ZZ,"Beam Radiation of Stomach using Heavy Particles (Protons,Ions)",DD014Z,2016,2027
+DD015,Neutrons,DD01,2016,2027
+DD015Z,None,DD015,2016,2027
+DD015ZZ,Beam Radiation of Stomach using Neutrons,DD015Z,2016,2027
+DD016,Neutron Capture,DD01,2016,2027
+DD016Z,None,DD016,2016,2027
+DD016ZZ,Beam Radiation of Stomach using Neutron Capture,DD016Z,2016,2027
+DD02,Duodenum,DD0,2016,2027
+DD020,Photons <1 MeV,DD02,2016,2027
+DD020Z,None,DD020,2016,2027
+DD020ZZ,Beam Radiation of Duodenum using Photons <1 MeV,DD020Z,2016,2027
+DD021,Photons 1 - 10 MeV,DD02,2016,2027
+DD021Z,None,DD021,2016,2027
+DD021ZZ,Beam Radiation of Duodenum using Photons 1 - 10 MeV,DD021Z,2016,2027
+DD022,Photons >10 MeV,DD02,2016,2027
+DD022Z,None,DD022,2016,2027
+DD022ZZ,Beam Radiation of Duodenum using Photons >10 MeV,DD022Z,2016,2027
+DD023,Electrons,DD02,2016,2027
+DD023Z,None,DD023,2016,2027
+DD023Z0,"Beam Radiation of Duodenum using Electrons, Intraoperative",DD023Z,2016,2027
+DD023ZZ,Beam Radiation of Duodenum using Electrons,DD023Z,2016,2027
+DD024,"Heavy Particles (Protons,Ions)",DD02,2016,2027
+DD024Z,None,DD024,2016,2027
+DD024ZZ,"Beam Radiation of Duodenum using Heavy Particles (Protons,Ions)",DD024Z,2016,2027
+DD025,Neutrons,DD02,2016,2027
+DD025Z,None,DD025,2016,2027
+DD025ZZ,Beam Radiation of Duodenum using Neutrons,DD025Z,2016,2027
+DD026,Neutron Capture,DD02,2016,2027
+DD026Z,None,DD026,2016,2027
+DD026ZZ,Beam Radiation of Duodenum using Neutron Capture,DD026Z,2016,2027
+DD03,Jejunum,DD0,2016,2027
+DD030,Photons <1 MeV,DD03,2016,2027
+DD030Z,None,DD030,2016,2027
+DD030ZZ,Beam Radiation of Jejunum using Photons <1 MeV,DD030Z,2016,2027
+DD031,Photons 1 - 10 MeV,DD03,2016,2027
+DD031Z,None,DD031,2016,2027
+DD031ZZ,Beam Radiation of Jejunum using Photons 1 - 10 MeV,DD031Z,2016,2027
+DD032,Photons >10 MeV,DD03,2016,2027
+DD032Z,None,DD032,2016,2027
+DD032ZZ,Beam Radiation of Jejunum using Photons >10 MeV,DD032Z,2016,2027
+DD033,Electrons,DD03,2016,2027
+DD033Z,None,DD033,2016,2027
+DD033Z0,"Beam Radiation of Jejunum using Electrons, Intraoperative",DD033Z,2016,2027
+DD033ZZ,Beam Radiation of Jejunum using Electrons,DD033Z,2016,2027
+DD034,"Heavy Particles (Protons,Ions)",DD03,2016,2027
+DD034Z,None,DD034,2016,2027
+DD034ZZ,"Beam Radiation of Jejunum using Heavy Particles (Protons,Ions)",DD034Z,2016,2027
+DD035,Neutrons,DD03,2016,2027
+DD035Z,None,DD035,2016,2027
+DD035ZZ,Beam Radiation of Jejunum using Neutrons,DD035Z,2016,2027
+DD036,Neutron Capture,DD03,2016,2027
+DD036Z,None,DD036,2016,2027
+DD036ZZ,Beam Radiation of Jejunum using Neutron Capture,DD036Z,2016,2027
+DD04,Ileum,DD0,2016,2027
+DD040,Photons <1 MeV,DD04,2016,2027
+DD040Z,None,DD040,2016,2027
+DD040ZZ,Beam Radiation of Ileum using Photons <1 MeV,DD040Z,2016,2027
+DD041,Photons 1 - 10 MeV,DD04,2016,2027
+DD041Z,None,DD041,2016,2027
+DD041ZZ,Beam Radiation of Ileum using Photons 1 - 10 MeV,DD041Z,2016,2027
+DD042,Photons >10 MeV,DD04,2016,2027
+DD042Z,None,DD042,2016,2027
+DD042ZZ,Beam Radiation of Ileum using Photons >10 MeV,DD042Z,2016,2027
+DD043,Electrons,DD04,2016,2027
+DD043Z,None,DD043,2016,2027
+DD043Z0,"Beam Radiation of Ileum using Electrons, Intraoperative",DD043Z,2016,2027
+DD043ZZ,Beam Radiation of Ileum using Electrons,DD043Z,2016,2027
+DD044,"Heavy Particles (Protons,Ions)",DD04,2016,2027
+DD044Z,None,DD044,2016,2027
+DD044ZZ,"Beam Radiation of Ileum using Heavy Particles (Protons,Ions)",DD044Z,2016,2027
+DD045,Neutrons,DD04,2016,2027
+DD045Z,None,DD045,2016,2027
+DD045ZZ,Beam Radiation of Ileum using Neutrons,DD045Z,2016,2027
+DD046,Neutron Capture,DD04,2016,2027
+DD046Z,None,DD046,2016,2027
+DD046ZZ,Beam Radiation of Ileum using Neutron Capture,DD046Z,2016,2027
+DD05,Colon,DD0,2016,2027
+DD050,Photons <1 MeV,DD05,2016,2027
+DD050Z,None,DD050,2016,2027
+DD050ZZ,Beam Radiation of Colon using Photons <1 MeV,DD050Z,2016,2027
+DD051,Photons 1 - 10 MeV,DD05,2016,2027
+DD051Z,None,DD051,2016,2027
+DD051ZZ,Beam Radiation of Colon using Photons 1 - 10 MeV,DD051Z,2016,2027
+DD052,Photons >10 MeV,DD05,2016,2027
+DD052Z,None,DD052,2016,2027
+DD052ZZ,Beam Radiation of Colon using Photons >10 MeV,DD052Z,2016,2027
+DD053,Electrons,DD05,2016,2027
+DD053Z,None,DD053,2016,2027
+DD053Z0,"Beam Radiation of Colon using Electrons, Intraoperative",DD053Z,2016,2027
+DD053ZZ,Beam Radiation of Colon using Electrons,DD053Z,2016,2027
+DD054,"Heavy Particles (Protons,Ions)",DD05,2016,2027
+DD054Z,None,DD054,2016,2027
+DD054ZZ,"Beam Radiation of Colon using Heavy Particles (Protons,Ions)",DD054Z,2016,2027
+DD055,Neutrons,DD05,2016,2027
+DD055Z,None,DD055,2016,2027
+DD055ZZ,Beam Radiation of Colon using Neutrons,DD055Z,2016,2027
+DD056,Neutron Capture,DD05,2016,2027
+DD056Z,None,DD056,2016,2027
+DD056ZZ,Beam Radiation of Colon using Neutron Capture,DD056Z,2016,2027
+DD07,Rectum,DD0,2016,2027
+DD070,Photons <1 MeV,DD07,2016,2027
+DD070Z,None,DD070,2016,2027
+DD070ZZ,Beam Radiation of Rectum using Photons <1 MeV,DD070Z,2016,2027
+DD071,Photons 1 - 10 MeV,DD07,2016,2027
+DD071Z,None,DD071,2016,2027
+DD071ZZ,Beam Radiation of Rectum using Photons 1 - 10 MeV,DD071Z,2016,2027
+DD072,Photons >10 MeV,DD07,2016,2027
+DD072Z,None,DD072,2016,2027
+DD072ZZ,Beam Radiation of Rectum using Photons >10 MeV,DD072Z,2016,2027
+DD073,Electrons,DD07,2016,2027
+DD073Z,None,DD073,2016,2027
+DD073Z0,"Beam Radiation of Rectum using Electrons, Intraoperative",DD073Z,2016,2027
+DD073ZZ,Beam Radiation of Rectum using Electrons,DD073Z,2016,2027
+DD074,"Heavy Particles (Protons,Ions)",DD07,2016,2027
+DD074Z,None,DD074,2016,2027
+DD074ZZ,"Beam Radiation of Rectum using Heavy Particles (Protons,Ions)",DD074Z,2016,2027
+DD075,Neutrons,DD07,2016,2027
+DD075Z,None,DD075,2016,2027
+DD075ZZ,Beam Radiation of Rectum using Neutrons,DD075Z,2016,2027
+DD076,Neutron Capture,DD07,2016,2027
+DD076Z,None,DD076,2016,2027
+DD076ZZ,Beam Radiation of Rectum using Neutron Capture,DD076Z,2016,2027
+DD1,Brachytherapy,DD,2016,2027
+DD10,Esophagus,DD1,2016,2027
+DD109,High Dose Rate (HDR),DD10,2016,2027
+DD1097,Cesium 137 (Cs-137),DD109,2016,2027
+DD1097Z,High Dose Rate (HDR) Brachytherapy of Esophagus using Cesium 137 (Cs-137),DD1097,2016,2027
+DD1098,Iridium 192 (Ir-192),DD109,2016,2027
+DD1098Z,High Dose Rate (HDR) Brachytherapy of Esophagus using Iridium 192 (Ir-192),DD1098,2016,2027
+DD1099,Iodine 125 (I-125),DD109,2016,2027
+DD1099Z,High Dose Rate (HDR) Brachytherapy of Esophagus using Iodine 125 (I-125),DD1099,2016,2027
+DD109B,Palladium 103 (Pd-103),DD109,2016,2027
+DD109BZ,High Dose Rate (HDR) Brachytherapy of Esophagus using Palladium 103 (Pd-103),DD109B,2016,2027
+DD109C,Californium 252 (Cf-252),DD109,2016,2027
+DD109CZ,High Dose Rate (HDR) Brachytherapy of Esophagus using Californium 252 (Cf-252),DD109C,2016,2027
+DD109Y,Other Isotope,DD109,2016,2027
+DD109YZ,High Dose Rate (HDR) Brachytherapy of Esophagus using Other Isotope,DD109Y,2016,2027
+DD10B,Low Dose Rate (LDR),DD10,2016,2027
+DD10B6,Cesium 131 (Cs-131),DD10B,2021,2027
+DD10B6Z,Low Dose Rate (LDR) Brachytherapy of Esophagus using Cesium 131 (Cs-131),DD10B6,2021,2027
+DD10B7,Cesium 137 (Cs-137),DD10B,2016,2027
+DD10B7Z,Low Dose Rate (LDR) Brachytherapy of Esophagus using Cesium 137 (Cs-137),DD10B7,2016,2027
+DD10B8,Iridium 192 (Ir-192),DD10B,2016,2027
+DD10B8Z,Low Dose Rate (LDR) Brachytherapy of Esophagus using Iridium 192 (Ir-192),DD10B8,2016,2027
+DD10B9,Iodine 125 (I-125),DD10B,2016,2027
+DD10B9Z,Low Dose Rate (LDR) Brachytherapy of Esophagus using Iodine 125 (I-125),DD10B9,2016,2027
+DD10BB,Palladium 103 (Pd-103),DD10B,2016,2027
+DD10BB1,"Low Dose Rate (LDR) Brachytherapy of Esophagus using Palladium 103 (Pd-103), Unidirectional Source",DD10BB,2020,2027
+DD10BBZ,Low Dose Rate (LDR) Brachytherapy of Esophagus using Palladium 103 (Pd-103),DD10BB,2016,2027
+DD10BC,Californium 252 (Cf-252),DD10B,2016,2027
+DD10BCZ,Low Dose Rate (LDR) Brachytherapy of Esophagus using Californium 252 (Cf-252),DD10BC,2016,2027
+DD10BY,Other Isotope,DD10B,2016,2027
+DD10BYZ,Low Dose Rate (LDR) Brachytherapy of Esophagus using Other Isotope,DD10BY,2016,2027
+DD11,Stomach,DD1,2016,2027
+DD119,High Dose Rate (HDR),DD11,2016,2027
+DD1197,Cesium 137 (Cs-137),DD119,2016,2027
+DD1197Z,High Dose Rate (HDR) Brachytherapy of Stomach using Cesium 137 (Cs-137),DD1197,2016,2027
+DD1198,Iridium 192 (Ir-192),DD119,2016,2027
+DD1198Z,High Dose Rate (HDR) Brachytherapy of Stomach using Iridium 192 (Ir-192),DD1198,2016,2027
+DD1199,Iodine 125 (I-125),DD119,2016,2027
+DD1199Z,High Dose Rate (HDR) Brachytherapy of Stomach using Iodine 125 (I-125),DD1199,2016,2027
+DD119B,Palladium 103 (Pd-103),DD119,2016,2027
+DD119BZ,High Dose Rate (HDR) Brachytherapy of Stomach using Palladium 103 (Pd-103),DD119B,2016,2027
+DD119C,Californium 252 (Cf-252),DD119,2016,2027
+DD119CZ,High Dose Rate (HDR) Brachytherapy of Stomach using Californium 252 (Cf-252),DD119C,2016,2027
+DD119Y,Other Isotope,DD119,2016,2027
+DD119YZ,High Dose Rate (HDR) Brachytherapy of Stomach using Other Isotope,DD119Y,2016,2027
+DD11B,Low Dose Rate (LDR),DD11,2016,2027
+DD11B6,Cesium 131 (Cs-131),DD11B,2021,2027
+DD11B6Z,Low Dose Rate (LDR) Brachytherapy of Stomach using Cesium 131 (Cs-131),DD11B6,2021,2027
+DD11B7,Cesium 137 (Cs-137),DD11B,2016,2027
+DD11B7Z,Low Dose Rate (LDR) Brachytherapy of Stomach using Cesium 137 (Cs-137),DD11B7,2016,2027
+DD11B8,Iridium 192 (Ir-192),DD11B,2016,2027
+DD11B8Z,Low Dose Rate (LDR) Brachytherapy of Stomach using Iridium 192 (Ir-192),DD11B8,2016,2027
+DD11B9,Iodine 125 (I-125),DD11B,2016,2027
+DD11B9Z,Low Dose Rate (LDR) Brachytherapy of Stomach using Iodine 125 (I-125),DD11B9,2016,2027
+DD11BB,Palladium 103 (Pd-103),DD11B,2016,2027
+DD11BB1,"Low Dose Rate (LDR) Brachytherapy of Stomach using Palladium 103 (Pd-103), Unidirectional Source",DD11BB,2020,2027
+DD11BBZ,Low Dose Rate (LDR) Brachytherapy of Stomach using Palladium 103 (Pd-103),DD11BB,2016,2027
+DD11BC,Californium 252 (Cf-252),DD11B,2016,2027
+DD11BCZ,Low Dose Rate (LDR) Brachytherapy of Stomach using Californium 252 (Cf-252),DD11BC,2016,2027
+DD11BY,Other Isotope,DD11B,2016,2027
+DD11BYZ,Low Dose Rate (LDR) Brachytherapy of Stomach using Other Isotope,DD11BY,2016,2027
+DD12,Duodenum,DD1,2016,2027
+DD129,High Dose Rate (HDR),DD12,2016,2027
+DD1297,Cesium 137 (Cs-137),DD129,2016,2027
+DD1297Z,High Dose Rate (HDR) Brachytherapy of Duodenum using Cesium 137 (Cs-137),DD1297,2016,2027
+DD1298,Iridium 192 (Ir-192),DD129,2016,2027
+DD1298Z,High Dose Rate (HDR) Brachytherapy of Duodenum using Iridium 192 (Ir-192),DD1298,2016,2027
+DD1299,Iodine 125 (I-125),DD129,2016,2027
+DD1299Z,High Dose Rate (HDR) Brachytherapy of Duodenum using Iodine 125 (I-125),DD1299,2016,2027
+DD129B,Palladium 103 (Pd-103),DD129,2016,2027
+DD129BZ,High Dose Rate (HDR) Brachytherapy of Duodenum using Palladium 103 (Pd-103),DD129B,2016,2027
+DD129C,Californium 252 (Cf-252),DD129,2016,2027
+DD129CZ,High Dose Rate (HDR) Brachytherapy of Duodenum using Californium 252 (Cf-252),DD129C,2016,2027
+DD129Y,Other Isotope,DD129,2016,2027
+DD129YZ,High Dose Rate (HDR) Brachytherapy of Duodenum using Other Isotope,DD129Y,2016,2027
+DD12B,Low Dose Rate (LDR),DD12,2016,2027
+DD12B6,Cesium 131 (Cs-131),DD12B,2021,2027
+DD12B6Z,Low Dose Rate (LDR) Brachytherapy of Duodenum using Cesium 131 (Cs-131),DD12B6,2021,2027
+DD12B7,Cesium 137 (Cs-137),DD12B,2016,2027
+DD12B7Z,Low Dose Rate (LDR) Brachytherapy of Duodenum using Cesium 137 (Cs-137),DD12B7,2016,2027
+DD12B8,Iridium 192 (Ir-192),DD12B,2016,2027
+DD12B8Z,Low Dose Rate (LDR) Brachytherapy of Duodenum using Iridium 192 (Ir-192),DD12B8,2016,2027
+DD12B9,Iodine 125 (I-125),DD12B,2016,2027
+DD12B9Z,Low Dose Rate (LDR) Brachytherapy of Duodenum using Iodine 125 (I-125),DD12B9,2016,2027
+DD12BB,Palladium 103 (Pd-103),DD12B,2016,2027
+DD12BB1,"Low Dose Rate (LDR) Brachytherapy of Duodenum using Palladium 103 (Pd-103), Unidirectional Source",DD12BB,2020,2027
+DD12BBZ,Low Dose Rate (LDR) Brachytherapy of Duodenum using Palladium 103 (Pd-103),DD12BB,2016,2027
+DD12BC,Californium 252 (Cf-252),DD12B,2016,2027
+DD12BCZ,Low Dose Rate (LDR) Brachytherapy of Duodenum using Californium 252 (Cf-252),DD12BC,2016,2027
+DD12BY,Other Isotope,DD12B,2016,2027
+DD12BYZ,Low Dose Rate (LDR) Brachytherapy of Duodenum using Other Isotope,DD12BY,2016,2027
+DD13,Jejunum,DD1,2016,2027
+DD139,High Dose Rate (HDR),DD13,2016,2027
+DD1397,Cesium 137 (Cs-137),DD139,2016,2027
+DD1397Z,High Dose Rate (HDR) Brachytherapy of Jejunum using Cesium 137 (Cs-137),DD1397,2016,2027
+DD1398,Iridium 192 (Ir-192),DD139,2016,2027
+DD1398Z,High Dose Rate (HDR) Brachytherapy of Jejunum using Iridium 192 (Ir-192),DD1398,2016,2027
+DD1399,Iodine 125 (I-125),DD139,2016,2027
+DD1399Z,High Dose Rate (HDR) Brachytherapy of Jejunum using Iodine 125 (I-125),DD1399,2016,2027
+DD139B,Palladium 103 (Pd-103),DD139,2016,2027
+DD139BZ,High Dose Rate (HDR) Brachytherapy of Jejunum using Palladium 103 (Pd-103),DD139B,2016,2027
+DD139C,Californium 252 (Cf-252),DD139,2016,2027
+DD139CZ,High Dose Rate (HDR) Brachytherapy of Jejunum using Californium 252 (Cf-252),DD139C,2016,2027
+DD139Y,Other Isotope,DD139,2016,2027
+DD139YZ,High Dose Rate (HDR) Brachytherapy of Jejunum using Other Isotope,DD139Y,2016,2027
+DD13B,Low Dose Rate (LDR),DD13,2016,2027
+DD13B6,Cesium 131 (Cs-131),DD13B,2021,2027
+DD13B6Z,Low Dose Rate (LDR) Brachytherapy of Jejunum using Cesium 131 (Cs-131),DD13B6,2021,2027
+DD13B7,Cesium 137 (Cs-137),DD13B,2016,2027
+DD13B7Z,Low Dose Rate (LDR) Brachytherapy of Jejunum using Cesium 137 (Cs-137),DD13B7,2016,2027
+DD13B8,Iridium 192 (Ir-192),DD13B,2016,2027
+DD13B8Z,Low Dose Rate (LDR) Brachytherapy of Jejunum using Iridium 192 (Ir-192),DD13B8,2016,2027
+DD13B9,Iodine 125 (I-125),DD13B,2016,2027
+DD13B9Z,Low Dose Rate (LDR) Brachytherapy of Jejunum using Iodine 125 (I-125),DD13B9,2016,2027
+DD13BB,Palladium 103 (Pd-103),DD13B,2016,2027
+DD13BB1,"Low Dose Rate (LDR) Brachytherapy of Jejunum using Palladium 103 (Pd-103), Unidirectional Source",DD13BB,2020,2027
+DD13BBZ,Low Dose Rate (LDR) Brachytherapy of Jejunum using Palladium 103 (Pd-103),DD13BB,2016,2027
+DD13BC,Californium 252 (Cf-252),DD13B,2016,2027
+DD13BCZ,Low Dose Rate (LDR) Brachytherapy of Jejunum using Californium 252 (Cf-252),DD13BC,2016,2027
+DD13BY,Other Isotope,DD13B,2016,2027
+DD13BYZ,Low Dose Rate (LDR) Brachytherapy of Jejunum using Other Isotope,DD13BY,2016,2027
+DD14,Ileum,DD1,2016,2027
+DD149,High Dose Rate (HDR),DD14,2016,2027
+DD1497,Cesium 137 (Cs-137),DD149,2016,2027
+DD1497Z,High Dose Rate (HDR) Brachytherapy of Ileum using Cesium 137 (Cs-137),DD1497,2016,2027
+DD1498,Iridium 192 (Ir-192),DD149,2016,2027
+DD1498Z,High Dose Rate (HDR) Brachytherapy of Ileum using Iridium 192 (Ir-192),DD1498,2016,2027
+DD1499,Iodine 125 (I-125),DD149,2016,2027
+DD1499Z,High Dose Rate (HDR) Brachytherapy of Ileum using Iodine 125 (I-125),DD1499,2016,2027
+DD149B,Palladium 103 (Pd-103),DD149,2016,2027
+DD149BZ,High Dose Rate (HDR) Brachytherapy of Ileum using Palladium 103 (Pd-103),DD149B,2016,2027
+DD149C,Californium 252 (Cf-252),DD149,2016,2027
+DD149CZ,High Dose Rate (HDR) Brachytherapy of Ileum using Californium 252 (Cf-252),DD149C,2016,2027
+DD149Y,Other Isotope,DD149,2016,2027
+DD149YZ,High Dose Rate (HDR) Brachytherapy of Ileum using Other Isotope,DD149Y,2016,2027
+DD14B,Low Dose Rate (LDR),DD14,2016,2027
+DD14B6,Cesium 131 (Cs-131),DD14B,2021,2027
+DD14B6Z,Low Dose Rate (LDR) Brachytherapy of Ileum using Cesium 131 (Cs-131),DD14B6,2021,2027
+DD14B7,Cesium 137 (Cs-137),DD14B,2016,2027
+DD14B7Z,Low Dose Rate (LDR) Brachytherapy of Ileum using Cesium 137 (Cs-137),DD14B7,2016,2027
+DD14B8,Iridium 192 (Ir-192),DD14B,2016,2027
+DD14B8Z,Low Dose Rate (LDR) Brachytherapy of Ileum using Iridium 192 (Ir-192),DD14B8,2016,2027
+DD14B9,Iodine 125 (I-125),DD14B,2016,2027
+DD14B9Z,Low Dose Rate (LDR) Brachytherapy of Ileum using Iodine 125 (I-125),DD14B9,2016,2027
+DD14BB,Palladium 103 (Pd-103),DD14B,2016,2027
+DD14BB1,"Low Dose Rate (LDR) Brachytherapy of Ileum using Palladium 103 (Pd-103), Unidirectional Source",DD14BB,2020,2027
+DD14BBZ,Low Dose Rate (LDR) Brachytherapy of Ileum using Palladium 103 (Pd-103),DD14BB,2016,2027
+DD14BC,Californium 252 (Cf-252),DD14B,2016,2027
+DD14BCZ,Low Dose Rate (LDR) Brachytherapy of Ileum using Californium 252 (Cf-252),DD14BC,2016,2027
+DD14BY,Other Isotope,DD14B,2016,2027
+DD14BYZ,Low Dose Rate (LDR) Brachytherapy of Ileum using Other Isotope,DD14BY,2016,2027
+DD15,Colon,DD1,2016,2027
+DD159,High Dose Rate (HDR),DD15,2016,2027
+DD1597,Cesium 137 (Cs-137),DD159,2016,2027
+DD1597Z,High Dose Rate (HDR) Brachytherapy of Colon using Cesium 137 (Cs-137),DD1597,2016,2027
+DD1598,Iridium 192 (Ir-192),DD159,2016,2027
+DD1598Z,High Dose Rate (HDR) Brachytherapy of Colon using Iridium 192 (Ir-192),DD1598,2016,2027
+DD1599,Iodine 125 (I-125),DD159,2016,2027
+DD1599Z,High Dose Rate (HDR) Brachytherapy of Colon using Iodine 125 (I-125),DD1599,2016,2027
+DD159B,Palladium 103 (Pd-103),DD159,2016,2027
+DD159BZ,High Dose Rate (HDR) Brachytherapy of Colon using Palladium 103 (Pd-103),DD159B,2016,2027
+DD159C,Californium 252 (Cf-252),DD159,2016,2027
+DD159CZ,High Dose Rate (HDR) Brachytherapy of Colon using Californium 252 (Cf-252),DD159C,2016,2027
+DD159Y,Other Isotope,DD159,2016,2027
+DD159YZ,High Dose Rate (HDR) Brachytherapy of Colon using Other Isotope,DD159Y,2016,2027
+DD15B,Low Dose Rate (LDR),DD15,2016,2027
+DD15B6,Cesium 131 (Cs-131),DD15B,2021,2027
+DD15B6Z,Low Dose Rate (LDR) Brachytherapy of Colon using Cesium 131 (Cs-131),DD15B6,2021,2027
+DD15B7,Cesium 137 (Cs-137),DD15B,2016,2027
+DD15B7Z,Low Dose Rate (LDR) Brachytherapy of Colon using Cesium 137 (Cs-137),DD15B7,2016,2027
+DD15B8,Iridium 192 (Ir-192),DD15B,2016,2027
+DD15B8Z,Low Dose Rate (LDR) Brachytherapy of Colon using Iridium 192 (Ir-192),DD15B8,2016,2027
+DD15B9,Iodine 125 (I-125),DD15B,2016,2027
+DD15B9Z,Low Dose Rate (LDR) Brachytherapy of Colon using Iodine 125 (I-125),DD15B9,2016,2027
+DD15BB,Palladium 103 (Pd-103),DD15B,2016,2027
+DD15BB1,"Low Dose Rate (LDR) Brachytherapy of Colon using Palladium 103 (Pd-103), Unidirectional Source",DD15BB,2020,2027
+DD15BBZ,Low Dose Rate (LDR) Brachytherapy of Colon using Palladium 103 (Pd-103),DD15BB,2016,2027
+DD15BC,Californium 252 (Cf-252),DD15B,2016,2027
+DD15BCZ,Low Dose Rate (LDR) Brachytherapy of Colon using Californium 252 (Cf-252),DD15BC,2016,2027
+DD15BY,Other Isotope,DD15B,2016,2027
+DD15BYZ,Low Dose Rate (LDR) Brachytherapy of Colon using Other Isotope,DD15BY,2016,2027
+DD17,Rectum,DD1,2016,2027
+DD179,High Dose Rate (HDR),DD17,2016,2027
+DD1797,Cesium 137 (Cs-137),DD179,2016,2027
+DD1797Z,High Dose Rate (HDR) Brachytherapy of Rectum using Cesium 137 (Cs-137),DD1797,2016,2027
+DD1798,Iridium 192 (Ir-192),DD179,2016,2027
+DD1798Z,High Dose Rate (HDR) Brachytherapy of Rectum using Iridium 192 (Ir-192),DD1798,2016,2027
+DD1799,Iodine 125 (I-125),DD179,2016,2027
+DD1799Z,High Dose Rate (HDR) Brachytherapy of Rectum using Iodine 125 (I-125),DD1799,2016,2027
+DD179B,Palladium 103 (Pd-103),DD179,2016,2027
+DD179BZ,High Dose Rate (HDR) Brachytherapy of Rectum using Palladium 103 (Pd-103),DD179B,2016,2027
+DD179C,Californium 252 (Cf-252),DD179,2016,2027
+DD179CZ,High Dose Rate (HDR) Brachytherapy of Rectum using Californium 252 (Cf-252),DD179C,2016,2027
+DD179Y,Other Isotope,DD179,2016,2027
+DD179YZ,High Dose Rate (HDR) Brachytherapy of Rectum using Other Isotope,DD179Y,2016,2027
+DD17B,Low Dose Rate (LDR),DD17,2016,2027
+DD17B6,Cesium 131 (Cs-131),DD17B,2021,2027
+DD17B6Z,Low Dose Rate (LDR) Brachytherapy of Rectum using Cesium 131 (Cs-131),DD17B6,2021,2027
+DD17B7,Cesium 137 (Cs-137),DD17B,2016,2027
+DD17B7Z,Low Dose Rate (LDR) Brachytherapy of Rectum using Cesium 137 (Cs-137),DD17B7,2016,2027
+DD17B8,Iridium 192 (Ir-192),DD17B,2016,2027
+DD17B8Z,Low Dose Rate (LDR) Brachytherapy of Rectum using Iridium 192 (Ir-192),DD17B8,2016,2027
+DD17B9,Iodine 125 (I-125),DD17B,2016,2027
+DD17B9Z,Low Dose Rate (LDR) Brachytherapy of Rectum using Iodine 125 (I-125),DD17B9,2016,2027
+DD17BB,Palladium 103 (Pd-103),DD17B,2016,2027
+DD17BB1,"Low Dose Rate (LDR) Brachytherapy of Rectum using Palladium 103 (Pd-103), Unidirectional Source",DD17BB,2020,2027
+DD17BBZ,Low Dose Rate (LDR) Brachytherapy of Rectum using Palladium 103 (Pd-103),DD17BB,2016,2027
+DD17BC,Californium 252 (Cf-252),DD17B,2016,2027
+DD17BCZ,Low Dose Rate (LDR) Brachytherapy of Rectum using Californium 252 (Cf-252),DD17BC,2016,2027
+DD17BY,Other Isotope,DD17B,2016,2027
+DD17BYZ,Low Dose Rate (LDR) Brachytherapy of Rectum using Other Isotope,DD17BY,2016,2027
+DD2,Stereotactic Radiosurgery,DD,2016,2027
+DD20,Esophagus,DD2,2016,2027
+DD20D,Stereotactic Other Photon Radiosurgery,DD20,2016,2027
+DD20DZ,None,DD20D,2016,2027
+DD20DZZ,Stereotactic Other Photon Radiosurgery of Esophagus,DD20DZ,2016,2027
+DD20H,Stereotactic Particulate Radiosurgery,DD20,2016,2027
+DD20HZ,None,DD20H,2016,2027
+DD20HZZ,Stereotactic Particulate Radiosurgery of Esophagus,DD20HZ,2016,2027
+DD20J,Stereotactic Gamma Beam Radiosurgery,DD20,2016,2027
+DD20JZ,None,DD20J,2016,2027
+DD20JZZ,Stereotactic Gamma Beam Radiosurgery of Esophagus,DD20JZ,2016,2027
+DD21,Stomach,DD2,2016,2027
+DD21D,Stereotactic Other Photon Radiosurgery,DD21,2016,2027
+DD21DZ,None,DD21D,2016,2027
+DD21DZZ,Stereotactic Other Photon Radiosurgery of Stomach,DD21DZ,2016,2027
+DD21H,Stereotactic Particulate Radiosurgery,DD21,2016,2027
+DD21HZ,None,DD21H,2016,2027
+DD21HZZ,Stereotactic Particulate Radiosurgery of Stomach,DD21HZ,2016,2027
+DD21J,Stereotactic Gamma Beam Radiosurgery,DD21,2016,2027
+DD21JZ,None,DD21J,2016,2027
+DD21JZZ,Stereotactic Gamma Beam Radiosurgery of Stomach,DD21JZ,2016,2027
+DD22,Duodenum,DD2,2016,2027
+DD22D,Stereotactic Other Photon Radiosurgery,DD22,2016,2027
+DD22DZ,None,DD22D,2016,2027
+DD22DZZ,Stereotactic Other Photon Radiosurgery of Duodenum,DD22DZ,2016,2027
+DD22H,Stereotactic Particulate Radiosurgery,DD22,2016,2027
+DD22HZ,None,DD22H,2016,2027
+DD22HZZ,Stereotactic Particulate Radiosurgery of Duodenum,DD22HZ,2016,2027
+DD22J,Stereotactic Gamma Beam Radiosurgery,DD22,2016,2027
+DD22JZ,None,DD22J,2016,2027
+DD22JZZ,Stereotactic Gamma Beam Radiosurgery of Duodenum,DD22JZ,2016,2027
+DD23,Jejunum,DD2,2016,2027
+DD23D,Stereotactic Other Photon Radiosurgery,DD23,2016,2027
+DD23DZ,None,DD23D,2016,2027
+DD23DZZ,Stereotactic Other Photon Radiosurgery of Jejunum,DD23DZ,2016,2027
+DD23H,Stereotactic Particulate Radiosurgery,DD23,2016,2027
+DD23HZ,None,DD23H,2016,2027
+DD23HZZ,Stereotactic Particulate Radiosurgery of Jejunum,DD23HZ,2016,2027
+DD23J,Stereotactic Gamma Beam Radiosurgery,DD23,2016,2027
+DD23JZ,None,DD23J,2016,2027
+DD23JZZ,Stereotactic Gamma Beam Radiosurgery of Jejunum,DD23JZ,2016,2027
+DD24,Ileum,DD2,2016,2027
+DD24D,Stereotactic Other Photon Radiosurgery,DD24,2016,2027
+DD24DZ,None,DD24D,2016,2027
+DD24DZZ,Stereotactic Other Photon Radiosurgery of Ileum,DD24DZ,2016,2027
+DD24H,Stereotactic Particulate Radiosurgery,DD24,2016,2027
+DD24HZ,None,DD24H,2016,2027
+DD24HZZ,Stereotactic Particulate Radiosurgery of Ileum,DD24HZ,2016,2027
+DD24J,Stereotactic Gamma Beam Radiosurgery,DD24,2016,2027
+DD24JZ,None,DD24J,2016,2027
+DD24JZZ,Stereotactic Gamma Beam Radiosurgery of Ileum,DD24JZ,2016,2027
+DD25,Colon,DD2,2016,2027
+DD25D,Stereotactic Other Photon Radiosurgery,DD25,2016,2027
+DD25DZ,None,DD25D,2016,2027
+DD25DZZ,Stereotactic Other Photon Radiosurgery of Colon,DD25DZ,2016,2027
+DD25H,Stereotactic Particulate Radiosurgery,DD25,2016,2027
+DD25HZ,None,DD25H,2016,2027
+DD25HZZ,Stereotactic Particulate Radiosurgery of Colon,DD25HZ,2016,2027
+DD25J,Stereotactic Gamma Beam Radiosurgery,DD25,2016,2027
+DD25JZ,None,DD25J,2016,2027
+DD25JZZ,Stereotactic Gamma Beam Radiosurgery of Colon,DD25JZ,2016,2027
+DD27,Rectum,DD2,2016,2027
+DD27D,Stereotactic Other Photon Radiosurgery,DD27,2016,2027
+DD27DZ,None,DD27D,2016,2027
+DD27DZZ,Stereotactic Other Photon Radiosurgery of Rectum,DD27DZ,2016,2027
+DD27H,Stereotactic Particulate Radiosurgery,DD27,2016,2027
+DD27HZ,None,DD27H,2016,2027
+DD27HZZ,Stereotactic Particulate Radiosurgery of Rectum,DD27HZ,2016,2027
+DD27J,Stereotactic Gamma Beam Radiosurgery,DD27,2016,2027
+DD27JZ,None,DD27J,2016,2027
+DD27JZZ,Stereotactic Gamma Beam Radiosurgery of Rectum,DD27JZ,2016,2027
+DDY,Other Radiation,DD,2016,2027
+DDY0,Esophagus,DDY,2016,2027
+DDY07,Contact Radiation,DDY0,2016,2027
+DDY07Z,None,DDY07,2016,2027
+DDY07ZZ,Contact Radiation of Esophagus,DDY07Z,2016,2027
+DDY08,Hyperthermia,DDY0,2016,2027
+DDY08Z,None,DDY08,2016,2027
+DDY08ZZ,Hyperthermia of Esophagus,DDY08Z,2016,2027
+DDY0F,Plaque Radiation,DDY0,2016,2027
+DDY0FZ,None,DDY0F,2016,2027
+DDY0FZZ,Plaque Radiation of Esophagus,DDY0FZ,2016,2027
+DDY0K,Laser Interstitial Thermal Therapy,DDY0,2016,2022
+DDY0KZ,None,DDY0K,2016,2022
+DDY0KZZ,Laser Interstitial Thermal Therapy of Esophagus,DDY0KZ,2016,2022
+DDY1,Stomach,DDY,2016,2027
+DDY17,Contact Radiation,DDY1,2016,2027
+DDY17Z,None,DDY17,2016,2027
+DDY17ZZ,Contact Radiation of Stomach,DDY17Z,2016,2027
+DDY18,Hyperthermia,DDY1,2016,2027
+DDY18Z,None,DDY18,2016,2027
+DDY18ZZ,Hyperthermia of Stomach,DDY18Z,2016,2027
+DDY1C,Intraoperative Radiation Therapy (IORT),DDY1,2016,2027
+DDY1CZ,None,DDY1C,2016,2027
+DDY1CZZ,Intraoperative Radiation Therapy (IORT) of Stomach,DDY1CZ,2016,2027
+DDY1F,Plaque Radiation,DDY1,2016,2027
+DDY1FZ,None,DDY1F,2016,2027
+DDY1FZZ,Plaque Radiation of Stomach,DDY1FZ,2016,2027
+DDY1K,Laser Interstitial Thermal Therapy,DDY1,2016,2022
+DDY1KZ,None,DDY1K,2016,2022
+DDY1KZZ,Laser Interstitial Thermal Therapy of Stomach,DDY1KZ,2016,2022
+DDY2,Duodenum,DDY,2016,2027
+DDY27,Contact Radiation,DDY2,2016,2027
+DDY27Z,None,DDY27,2016,2027
+DDY27ZZ,Contact Radiation of Duodenum,DDY27Z,2016,2027
+DDY28,Hyperthermia,DDY2,2016,2027
+DDY28Z,None,DDY28,2016,2027
+DDY28ZZ,Hyperthermia of Duodenum,DDY28Z,2016,2027
+DDY2C,Intraoperative Radiation Therapy (IORT),DDY2,2016,2027
+DDY2CZ,None,DDY2C,2016,2027
+DDY2CZZ,Intraoperative Radiation Therapy (IORT) of Duodenum,DDY2CZ,2016,2027
+DDY2F,Plaque Radiation,DDY2,2016,2027
+DDY2FZ,None,DDY2F,2016,2027
+DDY2FZZ,Plaque Radiation of Duodenum,DDY2FZ,2016,2027
+DDY2K,Laser Interstitial Thermal Therapy,DDY2,2016,2022
+DDY2KZ,None,DDY2K,2016,2022
+DDY2KZZ,Laser Interstitial Thermal Therapy of Duodenum,DDY2KZ,2016,2022
+DDY3,Jejunum,DDY,2016,2027
+DDY37,Contact Radiation,DDY3,2016,2027
+DDY37Z,None,DDY37,2016,2027
+DDY37ZZ,Contact Radiation of Jejunum,DDY37Z,2016,2027
+DDY38,Hyperthermia,DDY3,2016,2027
+DDY38Z,None,DDY38,2016,2027
+DDY38ZZ,Hyperthermia of Jejunum,DDY38Z,2016,2027
+DDY3C,Intraoperative Radiation Therapy (IORT),DDY3,2016,2027
+DDY3CZ,None,DDY3C,2016,2027
+DDY3CZZ,Intraoperative Radiation Therapy (IORT) of Jejunum,DDY3CZ,2016,2027
+DDY3F,Plaque Radiation,DDY3,2016,2027
+DDY3FZ,None,DDY3F,2016,2027
+DDY3FZZ,Plaque Radiation of Jejunum,DDY3FZ,2016,2027
+DDY3K,Laser Interstitial Thermal Therapy,DDY3,2016,2022
+DDY3KZ,None,DDY3K,2016,2022
+DDY3KZZ,Laser Interstitial Thermal Therapy of Jejunum,DDY3KZ,2016,2022
+DDY4,Ileum,DDY,2016,2027
+DDY47,Contact Radiation,DDY4,2016,2027
+DDY47Z,None,DDY47,2016,2027
+DDY47ZZ,Contact Radiation of Ileum,DDY47Z,2016,2027
+DDY48,Hyperthermia,DDY4,2016,2027
+DDY48Z,None,DDY48,2016,2027
+DDY48ZZ,Hyperthermia of Ileum,DDY48Z,2016,2027
+DDY4C,Intraoperative Radiation Therapy (IORT),DDY4,2016,2027
+DDY4CZ,None,DDY4C,2016,2027
+DDY4CZZ,Intraoperative Radiation Therapy (IORT) of Ileum,DDY4CZ,2016,2027
+DDY4F,Plaque Radiation,DDY4,2016,2027
+DDY4FZ,None,DDY4F,2016,2027
+DDY4FZZ,Plaque Radiation of Ileum,DDY4FZ,2016,2027
+DDY4K,Laser Interstitial Thermal Therapy,DDY4,2016,2022
+DDY4KZ,None,DDY4K,2016,2022
+DDY4KZZ,Laser Interstitial Thermal Therapy of Ileum,DDY4KZ,2016,2022
+DDY5,Colon,DDY,2016,2027
+DDY57,Contact Radiation,DDY5,2016,2027
+DDY57Z,None,DDY57,2016,2027
+DDY57ZZ,Contact Radiation of Colon,DDY57Z,2016,2027
+DDY58,Hyperthermia,DDY5,2016,2027
+DDY58Z,None,DDY58,2016,2027
+DDY58ZZ,Hyperthermia of Colon,DDY58Z,2016,2027
+DDY5C,Intraoperative Radiation Therapy (IORT),DDY5,2016,2027
+DDY5CZ,None,DDY5C,2016,2027
+DDY5CZZ,Intraoperative Radiation Therapy (IORT) of Colon,DDY5CZ,2016,2027
+DDY5F,Plaque Radiation,DDY5,2016,2027
+DDY5FZ,None,DDY5F,2016,2027
+DDY5FZZ,Plaque Radiation of Colon,DDY5FZ,2016,2027
+DDY5K,Laser Interstitial Thermal Therapy,DDY5,2016,2022
+DDY5KZ,None,DDY5K,2016,2022
+DDY5KZZ,Laser Interstitial Thermal Therapy of Colon,DDY5KZ,2016,2022
+DDY7,Rectum,DDY,2016,2027
+DDY77,Contact Radiation,DDY7,2016,2027
+DDY77Z,None,DDY77,2016,2027
+DDY77ZZ,Contact Radiation of Rectum,DDY77Z,2016,2027
+DDY78,Hyperthermia,DDY7,2016,2027
+DDY78Z,None,DDY78,2016,2027
+DDY78ZZ,Hyperthermia of Rectum,DDY78Z,2016,2027
+DDY7C,Intraoperative Radiation Therapy (IORT),DDY7,2016,2027
+DDY7CZ,None,DDY7C,2016,2027
+DDY7CZZ,Intraoperative Radiation Therapy (IORT) of Rectum,DDY7CZ,2016,2027
+DDY7F,Plaque Radiation,DDY7,2016,2027
+DDY7FZ,None,DDY7F,2016,2027
+DDY7FZZ,Plaque Radiation of Rectum,DDY7FZ,2016,2027
+DDY7K,Laser Interstitial Thermal Therapy,DDY7,2016,2022
+DDY7KZ,None,DDY7K,2016,2022
+DDY7KZZ,Laser Interstitial Thermal Therapy of Rectum,DDY7KZ,2016,2022
+DDY8,Anus,DDY,2016,2027
+DDY8C,Intraoperative Radiation Therapy (IORT),DDY8,2016,2027
+DDY8CZ,None,DDY8C,2016,2027
+DDY8CZZ,Intraoperative Radiation Therapy (IORT) of Anus,DDY8CZ,2016,2027
+DDY8F,Plaque Radiation,DDY8,2016,2027
+DDY8FZ,None,DDY8F,2016,2027
+DDY8FZZ,Plaque Radiation of Anus,DDY8FZ,2016,2027
+DDY8K,Laser Interstitial Thermal Therapy,DDY8,2016,2022
+DDY8KZ,None,DDY8K,2016,2022
+DDY8KZZ,Laser Interstitial Thermal Therapy of Anus,DDY8KZ,2016,2022
