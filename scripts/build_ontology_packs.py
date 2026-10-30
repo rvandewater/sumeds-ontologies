@@ -3,7 +3,9 @@
 
 The packs under ``ontologies/`` of the ``sumeds-ontologies`` repository are the
 static, release-tagged repository that ``suMEDS`` fetches shards from at
-enrichment time. Only public-domain vocabularies are built from downloads:
+enrichment time. Only vocabularies that their publishers distribute at no cost and
+without a license agreement are built from downloads (``LICENSES`` records what each
+publisher states; ICD-10-CM and ICD-9-CM adapt WHO classifications):
 
 * ``ICD10CM``  ICD-10-CM, union of FY2016 to FY2027 (CDC/NCHS order files)
 * ``ICD10PCS`` ICD-10-PCS, union of FY2016 to FY2027 (CMS order files and code tables),
@@ -52,12 +54,39 @@ from xml.etree import ElementTree
 PACK_SCHEMA = "sumeds-ontology-pack/0.1"
 INDEX_SCHEMA = "sumeds-ontologies/0.1"
 COLUMNS = ("code", "description", "parent", "first_year", "last_year")
-LICENSE = (
-    "Public domain. ICD-10-CM and ICD-9-CM are published by the National Center for "
-    "Health Statistics (CDC/NCHS) and ICD-10-PCS and the ICD-9-CM v32 descriptions by "
-    "the Centers for Medicare & Medicaid Services (CMS). As works of the U.S. Government "
-    "they are not subject to copyright in the United States (17 U.S.C. 105)."
-)
+_NO_LICENSE = "published at no cost and without a license agreement"
+_HTA = "https://www.hl7.org/fhir/us/core/STU4/qa-hta.html"
+#: What each publisher states, not a public-domain claim: ICD-10-CM and ICD-9-CM
+#: adapt WHO classifications, and WHO keeps the copyright in what they take from them.
+LICENSES = {
+    "ICD10CM": (
+        f"ICD-10-CM is {_NO_LICENSE} by the National Center for Health Statistics "
+        "(CDC/NCHS). It is the U.S. clinical modification of WHO's ICD-10: WHO owns and "
+        "publishes ICD-10 and authorized NCHS to develop ICD-10-CM "
+        "(https://www.cdc.gov/nchs/icd/icd-10-cm/index.html), so content taken from "
+        "ICD-10 remains WHO's copyright. Not a public-domain work as a whole. Codes and "
+        "titles are redistributed here unchanged."
+    ),
+    "ICD10PCS": (
+        f"ICD-10-PCS was developed for the Centers for Medicare & Medicaid Services "
+        f"(CMS), which maintains it and makes it available for public use ({_HTA}); it "
+        f"is {_NO_LICENSE} and contains no WHO content. Codes and table labels are "
+        "redistributed here unchanged."
+    ),
+    "ICD9CM": (
+        f"ICD-9-CM is {_NO_LICENSE} by CDC/NCHS and CMS (the v32 descriptions). It is "
+        "the U.S. clinical modification of WHO's ICD-9, which WHO authorized for U.S. "
+        f"government purposes ({_HTA}), so content taken from ICD-9 remains WHO's "
+        "copyright. Not a public-domain work as a whole. Codes and titles are "
+        "redistributed here unchanged."
+    ),
+    "ICD9Proc": (
+        f"The ICD-9-CM procedure volume is {_NO_LICENSE} by CMS and CDC/NCHS as part of "
+        "ICD-9-CM, the U.S. clinical modification of WHO's ICD-9, which WHO authorized "
+        f"for U.S. government purposes ({_HTA}). Content taken from WHO classifications "
+        "remains WHO's copyright. Codes and titles are redistributed here unchanged."
+    ),
+}
 PCS_SEPARATOR = " @ "
 
 CDC_CM = "https://ftp.cdc.gov/pub/Health_Statistics/NCHS/Publications/ICD10CM"
@@ -842,7 +871,7 @@ def write_pack(
         **extra,
         "rows": sum(shard["rows"] for shard in shards.values()),
         "bytes": sum(shard["bytes"] for shard in shards.values()),
-        "license": LICENSE,
+        "license": LICENSES[vocabulary],
         "sources": inputs,
         "build": f"python3 scripts/build_ontology_packs.py --output ontologies {vocabulary}",
         "shards": shards,
@@ -885,6 +914,42 @@ def _version_key(value: str) -> tuple[int, ...]:
     return tuple(int(part) for part in re.findall(r"\d+", value))
 
 
+def map_to_subset(data: bytes, codes: set[str]) -> tuple[bytes, int, int]:
+    """Keep the header and the MapTo records whose two codes are in ``codes``.
+
+    Records are copied byte for byte (CRLF line ends, quoting, a BOM), so a kept
+    row is exactly the official row.
+    """
+
+    text = data.decode("utf-8")
+    lines = [line for line in re.split(r"(?<=\n)", text) if line]
+    consumed: list[str] = []
+
+    def feed():
+        for index, line in enumerate(lines):
+            consumed.append(line)
+            # Parse without a BOM; the copied bytes keep it.
+            yield line.lstrip("\ufeff") if index == 0 else line
+
+    reader = csv.reader(feed())
+    header = next(reader)
+    if "LOINC" not in header or "MAP_TO" not in header:
+        raise SystemExit(f"MapTo.csv has no LOINC/MAP_TO columns: {header}")
+    out = ["".join(consumed)]
+    consumed.clear()
+    code, target = header.index("LOINC"), header.index("MAP_TO")
+    kept = dropped = 0
+    for record in reader:
+        raw = "".join(consumed)
+        consumed.clear()
+        if record[code] in codes and record[target] in codes:
+            out.append(raw)
+            kept += 1
+        else:
+            dropped += 1
+    return "".join(out).encode("utf-8"), kept, dropped
+
+
 def build_loinc(
     table_path: Path,
     license_path: Path | None,
@@ -898,8 +963,10 @@ def build_loinc(
 
     Field names and contents are unchanged; records carrying an
     ``EXTERNAL_COPYRIGHT_NOTICE`` are excluded and every ``STATUS`` is kept.
-    The full license, the Section 10 notice, and ``MapTo.csv`` (deprecated code
-    to replacement) are copied unchanged next to the shards.
+    The full license and the Section 10 notice are copied next to the shards.
+    ``MapTo.csv`` (deprecated code to replacement) keeps the official rows whose
+    two codes are both in the pack, byte for byte; a row naming an excluded code
+    would carry that code without its display name (license Section 10.3).
     """
 
     root = table_path.parent.parent
@@ -939,6 +1006,8 @@ def build_loinc(
     compress = plain_bytes > COMPRESS_ABOVE_BYTES
     shards = write_shards(directory, fields, rows, LOINC_KEY_LENGTH, compress)
     files = {}
+    originals = {}
+    map_to_rows = None
     for source, name in (
         (license_path, license_path.name),
         (map_to, "MapTo.csv"),
@@ -948,6 +1017,19 @@ def build_loinc(
                 continue
             raise SystemExit(f"missing {source}")
         data = Path(source).read_bytes()
+        originals[name] = {
+            "bytes": len(data),
+            "sha256": hashlib.sha256(data).hexdigest(),
+        }
+        if name == "MapTo.csv":
+            data, kept, dropped = map_to_subset(data, set(rows))
+            map_to_rows = {
+                "kept": kept,
+                "dropped": dropped,
+                "rule": "official rows whose LOINC and MAP_TO codes are both in "
+                "the pack, unchanged; rows naming a code excluded for its "
+                "EXTERNAL_COPYRIGHT_NOTICE are dropped",
+            }
         (directory / name).write_bytes(data)
         files[name] = {
             "bytes": len(data),
@@ -986,11 +1068,14 @@ def build_loinc(
         ),
         "status_counts": dict(sorted(statuses.items())),
         "excluded_external_copyright": excluded,
+        "map_to_rows": map_to_rows,
         "license": (
             f"LOINC license, full text in {license_path.name} "
-            "(http://loinc.org/license). Field names and contents are those of "
-            "the official LOINC Table, unchanged; records with an "
-            "EXTERNAL_COPYRIGHT_NOTICE are excluded; MapTo.csv is copied unchanged."
+            "(http://loinc.org/license), unchanged. Field names and contents are "
+            "those of the official LOINC Table, unchanged; records with an "
+            "EXTERNAL_COPYRIGHT_NOTICE are excluded (Section 10.2); MapTo.csv keeps "
+            "the official rows whose two codes are both in the pack, unchanged, so "
+            "every code comes with its LONG_COMMON_NAME (Section 10.3)."
         ),
         "notice": LOINC_NOTICE,
         "files": files,
@@ -1030,7 +1115,7 @@ def build_loinc(
                     "publisher": "Regenstrief Institute",
                     "release": f"LOINC {version}",
                     "file": _relative(Path(path), root),
-                    **files[name],
+                    **originals[name],
                 }
                 for name, path in (
                     (license_path.name, license_path),
@@ -1082,20 +1167,22 @@ CROSSWALKS = {
             "description": "eICU-CRD lab.labname -> LOINC (inferred bridge)",
             "origin": {
                 "repository": "https://github.com/Medical-Event-Data-Standard/eICU_MEDS",
-                "branch": "code-descriptions",
-                "commit": "abf5b26ab124e48c0d79303052a6af048ee1cad8",
+                "branch": "main",
+                "commit": "8ea8d948935400f9d03d7833b91a3ee0fb1671bd",
                 "path": "src/eICU_MEDS/metadata/lab_descriptions.csv",
                 "selection": "rows with a loinc_code; columns labname, loinc_code, "
-                "source, source_detail",
+                "source, source_detail (the table of public lab names after "
+                "eICU_MEDS #28)",
             },
             "sources": f"{_WEAVEHR}; {_MIMIC_CODE} d_labitems_to_loinc.csv; "
             "MIT-LCP/eicu-code (MIT); per-row provenance in source/source_detail",
-            "license": "MIT (suMEDS); built from MIT-licensed public sources",
+            "license": "Mapping columns: MIT (sumeds-ontologies), built from MIT-licensed "
+            "public sources. loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
             "pattern": "^LAB//RESULT//(?P<key>.+?)//",
-            "notes": "The lazy key stops at the first '//', exact for eICU (no lab "
-            "name contains '//' or ends in '/'); "
-            "'^LAB//RESULT//(?P<key>.+)//(?:(?!//).)*$' keeps everything up to the "
-            "last '//' instead.",
+            "notes": "The lazy key stops at the first '//', exact for every lab name of "
+            "the full eICU-CRD 2.0 release (none contains '//' or ends in '/'). Do not "
+            "cut at the last '//': some units start with '/', so those codes would "
+            "yield the name plus a trailing '/'.",
         }
     },
     "hirid": {
@@ -1116,10 +1203,13 @@ CROSSWALKS = {
             },
             "sources": "HiRID raw-variable spreadsheet linked at "
             "https://hirid.intensivecare.ai/data-details (cited only, no license "
-            "stated); ratschlab/HIRID-ICU-Benchmark preprocessing/resources/"
-            "varref.tsv @ bee7700 (MIT); codes resolved in LOINC 2.80; per-row "
-            "provenance in match/source and variable_name_source",
-            "license": "MIT (suMEDS); codes only, no LOINC text",
+            "stated; used to choose matches, no text copied); "
+            "ratschlab/HIRID-ICU-Benchmark preprocessing/resources/varref.tsv @ "
+            "bee7700 (MIT), the source of every variableid and variable_name; codes "
+            "resolved in LOINC 2.80; per-row provenance in match/source and "
+            "variable_name_source",
+            "license": "Mapping columns: MIT (sumeds-ontologies); variable names from "
+            "HIRID-ICU-Benchmark varref.tsv (MIT). loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
             "pattern": "^OBSERVATION//(?P<key>.+?)//",
             "notes": "HiRID MEDS codes are OBSERVATION//{variable name, else "
             "variableid}//{unit}. Key a rule on variable_name for named codes and a "
@@ -1142,7 +1232,8 @@ CROSSWALKS = {
             "sources": f"{_WEAVEHR} configs/datasets/nwicu/0.1.0/mappings and "
             f"mimic-iv/2.2/mappings; {_MIMIC_CODE} d_labitems_to_loinc.csv and "
             "meas_chartevents_main.csv; per-row provenance in source/source_detail",
-            "license": "MIT (suMEDS); built from MIT-licensed public sources",
+            "license": "Mapping columns: MIT (sumeds-ontologies), built from MIT-licensed "
+            "public sources. loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
             "pattern": "^LAB//(?P<key>[0-9]+)//",
             "notes": "labevents and chartevents items both give LAB//{itemid}//{unit} "
             "codes and their itemids do not overlap, so no where filter is needed; "
@@ -1163,7 +1254,7 @@ CROSSWALKS = {
             },
             "sources": "HL7 FHIR R4 vital-signs profile "
             "(https://hl7.org/fhir/R4/observation-vitalsigns.html, CC0)",
-            "license": "MIT (suMEDS); codes from a CC0 specification",
+            "license": "Mapping columns: codes from a CC0 specification. loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
             "pattern": "^(?P<key>NURSING//[A-Z_]+)$",
             "notes": "Oxygen saturation uses 59408-5 (by pulse oximetry), which the "
             "profile lists as an additional code next to 2708-6.",
@@ -1236,8 +1327,8 @@ def build_crosswalks(output: Path) -> dict[str, dict]:
             manifest["notice"] = LOINC_NOTICE
             manifest["loinc_names"] = (
                 f"{LOINC_NAME_COLUMN} holds LONG_COMMON_NAME verbatim from the "
-                "suMEDS LOINC pack built from the official LOINC Table; it is "
-                "empty until that pack is built"
+                "LOINC pack of this repository, built from the official LOINC Table; "
+                "it is empty until that pack is built"
             )
             (directory / "LOINC_short_license.txt").write_text(
                 LOINC_NOTICE + "\n", encoding="utf-8"
@@ -1337,7 +1428,7 @@ def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(
         description=__doc__.split("\n\n")[0],
         epilog="Targets: " + ", ".join([*PACKS, "LOINC", "crosswalks"]) + ". "
-        "Without targets, the public-domain packs and the crosswalk manifests "
+        "Without targets, the ICD packs and the crosswalk manifests "
         "are rebuilt; LOINC is built only when named.",
     )
     parser.add_argument("targets", nargs="*", metavar="TARGET")
@@ -1356,7 +1447,7 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument(
         "--loinc-map-to",
         type=Path,
-        help="MapTo.csv to copy unchanged (default: next to --loinc-table)",
+        help="MapTo.csv to subset to the pack's codes (default: next to --loinc-table)",
     )
     parser.add_argument("--loinc-version", help="override the detected LOINC version")
     parser.add_argument("--loinc-release-date", help="LOINC release date, YYYY-MM-DD")

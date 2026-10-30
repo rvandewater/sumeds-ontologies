@@ -1,6 +1,6 @@
 name: verify-sources
 
-# Rebuild the public-domain packs from the official CMS and CDC/NCHS files
+# Rebuild the ICD packs from the official CMS and CDC/NCHS files
 # (sha256-pinned in the builder) and fail if any byte differs from the release.
 on:
   push:

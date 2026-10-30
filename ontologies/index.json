@@ -3,35 +3,35 @@
  "vocabularies": {
   "ICD10CM": {
    "manifest": "ICD10CM/fy2016-fy2027/manifest.json",
-   "sha256": "1635b798d13d9a9d631c473327c9e6590480df008aadde2ad6211dca3da7d4d3",
+   "sha256": "7ecc26aea7c4fd2e3d796ffdaf6d603768538931d5306135538cdf27a7580b55",
    "release": "fy2016-fy2027",
    "rows": 99085,
    "bytes": 9727879
   },
   "ICD10PCS": {
    "manifest": "ICD10PCS/fy2016-fy2027/manifest.json",
-   "sha256": "bda644a2e7e99a003a9a0b0505157c3f09aa86b5683e1716929665455125ad74",
+   "sha256": "2019b4d627bb27820b219a363bfa19f628574942e23d2ab8ff813a8978743749",
    "release": "fy2016-fy2027",
    "rows": 197789,
    "bytes": 13020948
   },
   "ICD9CM": {
    "manifest": "ICD9CM/v32/manifest.json",
-   "sha256": "ee3ed6972aade8f8029e4394a35874846cf7edd69343c4f82a222188f1f7447a",
+   "sha256": "299a95b7debe9c69ae35278dfbf1d17080833ec0f17072efc78be22d98d647d3",
    "release": "v32",
    "rows": 17541,
    "bytes": 1166952
   },
   "ICD9Proc": {
    "manifest": "ICD9Proc/v32/manifest.json",
-   "sha256": "230467c1140ae67b7fae488268739830f8e145d7691c26a857322c75b77253e0",
+   "sha256": "0d454f4cab09c67de4a447d1eed173efbb840827d3d6d2a705845cfe6ec51e1c",
    "release": "v32",
    "rows": 4648,
    "bytes": 251787
   },
   "LOINC": {
    "manifest": "LOINC/2.83/manifest.json",
-   "sha256": "3a42c9708ef9abde131c29a18cc03af7148f1bd5326aab0825a269516d07fb25",
+   "sha256": "27609ed633d0ff10df65f6dad7bf06707dee0b2e2d7c99f916e4f8143ecf7842",
    "release": "2.83",
    "rows": 105050,
    "bytes": 2930127
@@ -40,19 +40,19 @@
  "crosswalks": {
   "eicu": {
    "manifest": "crosswalks/eicu/manifest.json",
-   "sha256": "47f0f39e4c7121c100f4c7c57faa9468a40e7071d48b02e78cc8b7c16f533c47"
+   "sha256": "19c87b73f1b3fe6d891635604bf0137ac2f58634fd56abf03fb16e74daf9d02e"
   },
   "hirid": {
    "manifest": "crosswalks/hirid/manifest.json",
-   "sha256": "11f041c09466354f735b2c1a7de58b18d502e893d78681e369e5a9443bc0749f"
+   "sha256": "87f3aacee9269b4fe69fbea319eb5479ab1a6a01049569586f2240764823d424"
   },
   "nwicu": {
    "manifest": "crosswalks/nwicu/manifest.json",
-   "sha256": "a4d0803bdf841a63d5b3643af44015a3685d68a02013a15140eb0629c7548023"
+   "sha256": "a0dd4bceea5367e516d081a7d4a7c4d50d5830a8e91c2153ef8fe0b7ce98a26c"
   },
   "zigong": {
    "manifest": "crosswalks/zigong/manifest.json",
-   "sha256": "27b8fd0bedb0f1a3e7e39439f47da71085d696256402762e428a3f325d6d5dc5"
+   "sha256": "85e9420bf8a61c16a5b8316ffb684053b3d963ba874f529d96283829430548c7"
   }
  }
 }

@@ -36,10 +36,19 @@ crosswalk tables.
 
 | Pack | Release | Source | License |
 |---|---|---|---|
-| `ICD10CM` | FY2016 to FY2027 | CDC/NCHS order files | Public domain (U.S. Government work, 17 U.S.C. 105) |
-| `ICD10PCS` | FY2016 to FY2027 | CMS order files and code tables | Public domain (U.S. Government work) |
-| `ICD9CM`, `ICD9Proc` | v32 (final) | CMS v32 descriptions, NCHS FY2012 tabular list | Public domain (U.S. Government work) |
-| `LOINC` | 2.83 | LOINC Table Core and `MapTo.csv` from loinc.org | [LOINC license](ontologies/LOINC/2.83/LoincLicense_5.8.txt), notice below |
+| `ICD10CM` | FY2016 to FY2027 | CDC/NCHS order files | No license agreement; adapts WHO's ICD-10, which WHO owns (see below) |
+| `ICD10PCS` | FY2016 to FY2027 | CMS order files and code tables | No license agreement; developed for CMS, available for public use, no WHO content |
+| `ICD9CM`, `ICD9Proc` | v32 (final) | CMS v32 descriptions, NCHS FY2012 tabular list | No license agreement; adapts WHO's ICD-9 (see below) |
+| `LOINC` | 2.83 | LOINC Table Core and the matching `MapTo.csv` rows from loinc.org | [LOINC license](ontologies/LOINC/2.83/LoincLicense_5.8.txt), notice below |
+
+The ICD-10-CM and ICD-9-CM files are not public-domain works as a whole. CDC/NCHS and
+CMS publish all ICD files at no cost and without a license agreement, and they are
+redistributed here unchanged. ICD-10-CM and ICD-9-CM are U.S. clinical modifications of
+WHO classifications: WHO owns and publishes ICD-10 and authorized NCHS to develop
+ICD-10-CM ([CDC](https://www.cdc.gov/nchs/icd/icd-10-cm/index.html)), so content taken
+from ICD-10 or ICD-9 remains WHO's copyright. ICD-10-PCS was developed for CMS and
+contains no WHO content. Each manifest's `license` field records what the publisher
+states.
 
 Every crosswalk table records its origin, sources and their licenses in its
 manifest and per row.
@@ -49,8 +58,9 @@ manifest and per row.
 Only content whose license allows public redistribution, with the source and
 license recorded in the manifest:
 
-- public-domain vocabularies, built from the publisher's own files with pinned
-  sha256 checksums;
+- vocabularies that their publisher distributes at no cost and without a license
+  agreement, built from the publisher's own files with pinned sha256 checksums, with
+  any third-party copyright (such as WHO's in ICD-10-CM) stated in the manifest;
 - vocabularies under a license that permits redistribution, with every notice
   the license requires (as for LOINC);
 - crosswalk tables derived only from public, permissively licensed sources.
@@ -63,7 +73,7 @@ user's own OHDSI Athena download (`validate: athena`) or only tag them
 
 ## Rebuilding from the official sources
 
-The public-domain packs are built from the official CMS and CDC/NCHS files,
+The ICD packs are built from the official CMS and CDC/NCHS files,
 downloaded once and verified against the sha256 pinned in the builder. Rebuilds
 are deterministic: the same inputs give byte-identical shards. Anyone who
 prefers not to trust this repository can rebuild the packs and point suMEDS at
@@ -88,7 +98,7 @@ python3 scripts/build_ontology_packs.py --output ontologies LOINC \
   --loinc-archive Loinc_2.83.zip "88.52 MB" 057ddf203164705d5a4c3604257060a4
 ```
 
-The `verify-sources` workflow repeats the public-domain rebuild on every
+The `verify-sources` workflow repeats the ICD rebuild on every
 release tag and fails if any byte differs.
 
 ## Maintenance

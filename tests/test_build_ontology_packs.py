@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import csv
 import gzip
+import hashlib
 import importlib.util
 import io
 import json
@@ -64,6 +65,11 @@ SYNTHETIC = [
 ]  # fmt: skip
 
 
+MAP_TO_HEADER = '\ufeff"LOINC","MAP_TO","COMMENT"\r\n'.encode()
+MAP_TO_KEPT = '"90002-9","90001-1","Made up,\r\nspans two lines"\r\n'.encode()
+MAP_TO_DROPPED = b'"91003-6","90001-1",""\r\n'
+
+
 @pytest.fixture
 def loinc_download(tmp_path: Path) -> Path:
     root = tmp_path / "Loinc_9.03"
@@ -73,9 +79,9 @@ def loinc_download(tmp_path: Path) -> Path:
         writer = csv.writer(file, quoting=csv.QUOTE_ALL, lineterminator="\r\n")
         writer.writerow(CORE_HEADER)
         writer.writerows(SYNTHETIC)
-    (core / "MapTo.csv").write_text(
-        '"LOINC","MAP_TO","COMMENT"\n"90002-9","90001-1",""\n'
-    )
+    # CRLF, a BOM and a quoted multi-line comment, as kept rows must stay byte-exact.
+    # The second row names 91003-6, which is excluded for its third-party notice.
+    (core / "MapTo.csv").write_bytes(MAP_TO_HEADER + MAP_TO_KEPT + MAP_TO_DROPPED)
     (root / "LoincLicense_0.0.txt").write_text("Synthetic license text for tests.\n")
     return root
 
@@ -131,9 +137,13 @@ def test_loinc_pack_keeps_fields_and_license(
     assert (
         pack / "LoincLicense_0.0.txt"
     ).read_text() == "Synthetic license text for tests.\n"
-    assert (pack / "MapTo.csv").read_bytes() == (
-        loinc_download / "LoincTableCore" / "MapTo.csv"
-    ).read_bytes()
+    assert (pack / "MapTo.csv").read_bytes() == MAP_TO_HEADER + MAP_TO_KEPT
+    assert manifest["map_to_rows"]["kept"] == 1
+    assert manifest["map_to_rows"]["dropped"] == 1
+    official = (loinc_download / "LoincTableCore" / "MapTo.csv").read_bytes()
+    source = next(item for item in manifest["sources"] if item["id"] == "MapTo.csv")
+    assert source["sha256"] == hashlib.sha256(official).hexdigest()
+    assert manifest["files"]["MapTo.csv"]["bytes"] == len(MAP_TO_HEADER + MAP_TO_KEPT)
     assert "Regenstrief Institute" in (pack / "LOINC_short_license.txt").read_text()
     rows = {}
     for shard in manifest["shards"].values():

@@ -35,5 +35,8 @@ jobs:
                       if "sha256" in item and "file" in item:
                           check(f"{base}/{item['file']}", item["sha256"])
                           checked += 1
+                  for name, item in (manifest.get("files") or {}).items():
+                      check(f"{base}/{name}", item["sha256"])  # license, MapTo
+                      checked += 1
           print(f"verified {checked} files")
           PY

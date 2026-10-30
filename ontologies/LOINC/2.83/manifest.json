@@ -37,7 +37,12 @@
   "TRIAL": 5432
  },
  "excluded_external_copyright": 7355,
- "license": "LOINC license, full text in LoincLicense_5.8.txt (http://loinc.org/license). Field names and contents are those of the official LOINC Table, unchanged; records with an EXTERNAL_COPYRIGHT_NOTICE are excluded; MapTo.csv is copied unchanged.",
+ "map_to_rows": {
+  "kept": 4638,
+  "dropped": 29,
+  "rule": "official rows whose LOINC and MAP_TO codes are both in the pack, unchanged; rows naming a code excluded for its EXTERNAL_COPYRIGHT_NOTICE are dropped"
+ },
+ "license": "LOINC license, full text in LoincLicense_5.8.txt (http://loinc.org/license), unchanged. Field names and contents are those of the official LOINC Table, unchanged; records with an EXTERNAL_COPYRIGHT_NOTICE are excluded (Section 10.2); MapTo.csv keeps the official rows whose two codes are both in the pack, unchanged, so every code comes with its LONG_COMMON_NAME (Section 10.3).",
  "notice": "This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.",
  "files": {
   "LoincLicense_5.8.txt": {
@@ -45,8 +50,8 @@
    "sha256": "05eb5069f8352b0513fe8c911d8a432e8ddc2d09f999b6f153617f2afd16ad85"
   },
   "MapTo.csv": {
-   "bytes": 122901,
-   "sha256": "775bab444c9c617edc7e6cf4e5f775a500f0391956552f40b2635ef7209ceeb0"
+   "bytes": 122066,
+   "sha256": "0a9c434b68bf35b135767716da4c378dfd6c36cb373fe62263b58dfbf62307d3"
   },
   "LOINC_short_license.txt": {
    "bytes": 340,

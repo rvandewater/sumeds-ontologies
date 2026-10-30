@@ -11,11 +11,11 @@ checked against the sha256 in its manifest (and every manifest against
 
 | Pack | Release | Rows | Shards | Size | Source | License |
 |---|---|---:|---:|---:|---|---|
-| `ICD10CM` | `fy2016-fy2027` | 99,085 | 26 (first character) | 9.7 MB CSV | CDC/NCHS ICD-10-CM order files FY2016 to FY2027 and the April 1, 2023 update | Public domain (U.S. Government work) |
-| `ICD10PCS` | `fy2016-fy2027` | 197,789 | 136 (first two characters) | 13.0 MB CSV | CMS ICD-10-PCS order files and code tables FY2016 to FY2027, April 1, 2025 and 2026 updates | Public domain (U.S. Government work) |
-| `ICD9CM` | `v32` | 17,541 | 12 (first character) | 1.2 MB CSV | CMS ICD-9-CM v32 (final) long descriptions; NCHS FY2012 tabular list for headers | Public domain (U.S. Government work) |
-| `ICD9Proc` | `v32` | 4,648 | 10 (first character) | 0.25 MB CSV | as ICD9CM, procedure files | Public domain (U.S. Government work) |
-| `LOINC` | `2.83` | 105,050 | 99 (first two characters) | 2.9 MB gzip (17.1 MB CSV) | LOINC 2.83 (2026-08-19) LOINC Table Core, `MapTo.csv` | LOINC license, see [`LOINC/2.83/LoincLicense_5.8.txt`](LOINC/2.83/LoincLicense_5.8.txt) |
+| `ICD10CM` | `fy2016-fy2027` | 99,085 | 26 (first character) | 9.7 MB CSV | CDC/NCHS ICD-10-CM order files FY2016 to FY2027 and the April 1, 2023 update | No license agreement; adapts WHO's ICD-10 (WHO copyright) |
+| `ICD10PCS` | `fy2016-fy2027` | 197,789 | 136 (first two characters) | 13.0 MB CSV | CMS ICD-10-PCS order files and code tables FY2016 to FY2027, April 1, 2025 and 2026 updates | No license agreement; developed for CMS, no WHO content |
+| `ICD9CM` | `v32` | 17,541 | 12 (first character) | 1.2 MB CSV | CMS ICD-9-CM v32 (final) long descriptions; NCHS FY2012 tabular list for headers | No license agreement; adapts WHO's ICD-9 (WHO copyright) |
+| `ICD9Proc` | `v32` | 4,648 | 10 (first character) | 0.25 MB CSV | as ICD9CM, procedure files | No license agreement; part of ICD-9-CM (WHO copyright in adapted content) |
+| `LOINC` | `2.83` | 105,050 | 99 (first two characters) | 2.9 MB gzip (17.1 MB CSV) | LOINC 2.83 (2026-08-19) LOINC Table Core, `MapTo.csv` rows for pack codes | LOINC license, see [`LOINC/2.83/LoincLicense_5.8.txt`](LOINC/2.83/LoincLicense_5.8.txt) |
 
 The exact download URLs, fiscal years and sha256 of every input are recorded in
 each `manifest.json` (`sources`).
@@ -51,13 +51,16 @@ each `manifest.json` (`sources`).
   STATUS, VersionLastChanged`. All statuses are kept (ACTIVE 92,435, TRIAL
   5,432, DISCOURAGED 2,212, DEPRECATED 4,971), so older dataset codes still
   validate; the 7,355 records with an `EXTERNAL_COPYRIGHT_NOTICE` are excluded.
-  `MapTo.csv` (deprecated code to replacement) is copied unchanged beside it.
+  `MapTo.csv` (deprecated code to replacement) sits beside it: the official rows
+  whose two codes are both in the pack, unchanged. The 29 rows that name an
+  excluded code are dropped, because the license requires every LOINC code to
+  come with its display name (Section 10.3).
   As the plain CSV exceeds 15 MB, its shards are stored gzip-compressed.
 
 ## Rebuilding
 
 ```bash
-# Public-domain packs: downloads the pinned CMS/CDC files, verifies their sha256.
+# ICD packs: downloads the pinned CMS/CDC files, verifies their sha256.
 python3 scripts/build_ontology_packs.py --output ontologies ICD10CM ICD10PCS ICD9CM ICD9Proc
 # LOINC, from the official download (needs a free loinc.org account):
 python3 scripts/build_ontology_packs.py --output ontologies LOINC \
@@ -72,14 +75,19 @@ Rebuilds are deterministic: the same inputs give byte-identical shards.
 
 ## Governance
 
-- Only public-domain vocabularies and vocabularies whose license allows
-  redistribution are hosted here. ICD-10-CM, ICD-10-PCS and ICD-9-CM are U.S.
-  Government works. LOINC is redistributed under its license (below).
-- Licensed vocabularies that may not be redistributed (SNOMED CT, CPT4, WHO
-  ICD-10, ICD-10-CN, ICD-O-3, ATC, and others) are never copied here. Rules
+- Only vocabularies whose publisher distributes them without a license
+  agreement, or whose license allows redistribution, are hosted here.
+  CDC/NCHS and CMS publish ICD-10-CM, ICD-10-PCS and ICD-9-CM at no cost and
+  without a license agreement; ICD-10-CM and ICD-9-CM adapt WHO
+  classifications, and WHO keeps the copyright in content taken from them (each
+  manifest's `license` field says so). LOINC is redistributed under its license
+  (below).
+- Vocabularies whose license forbids redistribution or whose terms are unknown
+  (SNOMED CT, CPT4, WHO ICD-10 itself, ICD-10-CN, ICD-O-3, ATC, and others)
+  are never copied here. Rules
   validate them against the user's own OHDSI Athena download
   (`validate: athena`) or only tag codes (`validate: none`).
-- **LOINC maintenance contract.** suMEDS is the single maintained copy of LOINC
+- **LOINC maintenance contract.** This repository is the single maintained copy of LOINC
   content for the MEDS ETLs. Its maintainers rebuild the LOINC pack from the
   official download for each LOINC release (twice a year) and record the
   release, its date, and the checksums of the archive and extracted files in

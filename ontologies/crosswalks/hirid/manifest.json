@@ -27,8 +27,8 @@
     "path": "src/HIRID_MEDS/metadata/observation_loinc.csv",
     "added": "variable_name, variable_name_source: description of the non-pharma varref.tsv rows, ratschlab/HIRID-ICU-Benchmark bee770094bf8389920bc09823895b87e09a563dd (MIT)"
    },
-   "sources": "HiRID raw-variable spreadsheet linked at https://hirid.intensivecare.ai/data-details (cited only, no license stated); ratschlab/HIRID-ICU-Benchmark preprocessing/resources/varref.tsv @ bee7700 (MIT); codes resolved in LOINC 2.80; per-row provenance in match/source and variable_name_source",
-   "license": "MIT (suMEDS); codes only, no LOINC text",
+   "sources": "HiRID raw-variable spreadsheet linked at https://hirid.intensivecare.ai/data-details (cited only, no license stated; used to choose matches, no text copied); ratschlab/HIRID-ICU-Benchmark preprocessing/resources/varref.tsv @ bee7700 (MIT), the source of every variableid and variable_name; codes resolved in LOINC 2.80; per-row provenance in match/source and variable_name_source",
+   "license": "Mapping columns: MIT (sumeds-ontologies); variable names from HIRID-ICU-Benchmark varref.tsv (MIT). loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
    "notes": "HiRID MEDS codes are OBSERVATION//{variable name, else variableid}//{unit}. Key a rule on variable_name for named codes and a second rule ('^OBSERVATION//(?P<key>[0-9]+)//', key_column variableid) for the id fallback. Names contain '/' but never '//'.",
    "suggested_pattern": "^OBSERVATION//(?P<key>.+?)//",
    "loinc_check": {
@@ -39,5 +39,5 @@
   }
  },
  "notice": "This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.",
- "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the suMEDS LOINC pack built from the official LOINC Table; it is empty until that pack is built"
+ "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the LOINC pack of this repository, built from the official LOINC Table; it is empty until that pack is built"
 }

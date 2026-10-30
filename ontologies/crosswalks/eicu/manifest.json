@@ -20,14 +20,14 @@
    "description": "eICU-CRD lab.labname -> LOINC (inferred bridge)",
    "origin": {
     "repository": "https://github.com/Medical-Event-Data-Standard/eICU_MEDS",
-    "branch": "code-descriptions",
-    "commit": "abf5b26ab124e48c0d79303052a6af048ee1cad8",
+    "branch": "main",
+    "commit": "8ea8d948935400f9d03d7833b91a3ee0fb1671bd",
     "path": "src/eICU_MEDS/metadata/lab_descriptions.csv",
-    "selection": "rows with a loinc_code; columns labname, loinc_code, source, source_detail"
+    "selection": "rows with a loinc_code; columns labname, loinc_code, source, source_detail (the table of public lab names after eICU_MEDS #28)"
    },
    "sources": "aidh-ms/WeavEHR (MIT), commit 210a539; MIT-LCP/mimic-code (MIT), v2.4.0 (570ef01) d_labitems_to_loinc.csv; MIT-LCP/eicu-code (MIT); per-row provenance in source/source_detail",
-   "license": "MIT (suMEDS); built from MIT-licensed public sources",
-   "notes": "The lazy key stops at the first '//', exact for eICU (no lab name contains '//' or ends in '/'); '^LAB//RESULT//(?P<key>.+)//(?:(?!//).)*$' keeps everything up to the last '//' instead.",
+   "license": "Mapping columns: MIT (sumeds-ontologies), built from MIT-licensed public sources. loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
+   "notes": "The lazy key stops at the first '//', exact for every lab name of the full eICU-CRD 2.0 release (none contains '//' or ends in '/'). Do not cut at the last '//': some units start with '/', so those codes would yield the name plus a trailing '/'.",
    "suggested_pattern": "^LAB//RESULT//(?P<key>.+?)//",
    "loinc_check": {
     "found": 50,
@@ -37,5 +37,5 @@
   }
  },
  "notice": "This material contains content from LOINC (http://loinc.org). LOINC is copyright © Regenstrief Institute, Inc. and the Logical Observation Identifiers Names and Codes (LOINC) Committee and is available at no cost under the license at http://loinc.org/license. LOINC® is a registered United States trademark of Regenstrief Institute, Inc.",
- "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the suMEDS LOINC pack built from the official LOINC Table; it is empty until that pack is built"
+ "loinc_names": "loinc_long_common_name holds LONG_COMMON_NAME verbatim from the LOINC pack of this repository, built from the official LOINC Table; it is empty until that pack is built"
 }

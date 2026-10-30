@@ -21,7 +21,7 @@
  "shard_key_length": 1,
  "rows": 4648,
  "bytes": 251787,
- "license": "Public domain. ICD-10-CM and ICD-9-CM are published by the National Center for Health Statistics (CDC/NCHS) and ICD-10-PCS and the ICD-9-CM v32 descriptions by the Centers for Medicare & Medicaid Services (CMS). As works of the U.S. Government they are not subject to copyright in the United States (17 U.S.C. 105).",
+ "license": "The ICD-9-CM procedure volume is published at no cost and without a license agreement by CMS and CDC/NCHS as part of ICD-9-CM, the U.S. clinical modification of WHO's ICD-9, which WHO authorized for U.S. government purposes (https://www.hl7.org/fhir/us/core/STU4/qa-hta.html). Content taken from WHO classifications remains WHO's copyright. Codes and titles are redistributed here unchanged.",
  "sources": [
   {
    "id": "icd9proc-tabular-fy2012",
