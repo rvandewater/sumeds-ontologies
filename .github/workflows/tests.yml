@@ -38,5 +38,9 @@ jobs:
                   for name, item in (manifest.get("files") or {}).items():
                       check(f"{base}/{name}", item["sha256"])  # license, MapTo
                       checked += 1
+                  hierarchy = manifest.get("hierarchy") or {}
+                  for item in (hierarchy.get("shards") or {}).values():
+                      check(f"{base}/{hierarchy['directory']}/{item['file']}", item["sha256"])
+                      checked += 1
           print(f"verified {checked} files")
           PY

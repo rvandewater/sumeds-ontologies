@@ -14,8 +14,8 @@ checked against the sha256 in its manifest (and every manifest against
 | `ICD10CM` | `fy2016-fy2027` | 99,085 | 26 (first character) | 9.7 MB CSV | CDC/NCHS ICD-10-CM order files FY2016 to FY2027 and the April 1, 2023 update | No license agreement; adapts WHO's ICD-10 (WHO copyright) |
 | `ICD10PCS` | `fy2016-fy2027` | 197,789 | 136 (first two characters) | 13.0 MB CSV | CMS ICD-10-PCS order files and code tables FY2016 to FY2027, April 1, 2025 and 2026 updates | No license agreement; developed for CMS, no WHO content |
 | `ICD9CM` | `v32` | 17,541 | 12 (first character) | 1.2 MB CSV | CMS ICD-9-CM v32 (final) long descriptions; NCHS FY2012 tabular list for headers | No license agreement; adapts WHO's ICD-9 (WHO copyright) |
-| `ICD9Proc` | `v32` | 4,648 | 10 (first character) | 0.25 MB CSV | as ICD9CM, procedure files | No license agreement; part of ICD-9-CM (WHO copyright in adapted content) |
-| `LOINC` | `2.83` | 105,050 | 99 (first two characters) | 2.9 MB gzip (17.1 MB CSV) | LOINC 2.83 (2026-08-19) LOINC Table Core, `MapTo.csv` rows for pack codes | LOINC license, see [`LOINC/2.83/LoincLicense_5.8.txt`](LOINC/2.83/LoincLicense_5.8.txt) |
+| `ICD9Proc` | `v32` | 4,650 | 10 (first character) | 0.25 MB CSV | as ICD9CM, procedure files | No license agreement; part of ICD-9-CM (WHO copyright in adapted content) |
+| `LOINC` | `2.83` | 105,050 | 99 (first two characters) | 2.9 MB gzip (17.1 MB CSV) | LOINC 2.83 (2026-08-19) LOINC Table Core, `MapTo.csv` rows for pack codes; hierarchy: 145,736 ComponentHierarchyBySystem rows in 100 shards, 2.7 MB gzip (17.7 MB CSV) | LOINC license, see [`LOINC/2.83/LoincLicense_5.8.txt`](LOINC/2.83/LoincLicense_5.8.txt) |
 
 The exact download URLs, fiscal years and sha256 of every input are recorded in
 each `manifest.json` (`sources`).
@@ -56,13 +56,29 @@ each `manifest.json` (`sources`).
   excluded code are dropped, because the license requires every LOINC code to
   come with its display name (Section 10.3).
   As the plain CSV exceeds 15 MB, its shards are stored gzip-compressed.
+- The LOINC hierarchy (`LOINC/<release>/hierarchy/`, described by `hierarchy`
+  in the manifest) holds the official `ComponentHierarchyBySystem` rows
+  (`PATH_TO_ROOT, SEQUENCE, IMMEDIATE_PARENT, CODE, CODE_TEXT`), byte for byte:
+  the 105,647 rows of the pack's 105,050 terms (a term can sit on several
+  paths) and the 40,089 rows of the LOINC Parts on their paths. `CODE_TEXT` is
+  the Part name or the term's short name, so every code keeps its display name
+  (Section 10.3). Dropped: the 7,355 rows of excluded terms and 34,653 Part
+  rows on no kept term's path (34,622 of them have no term below). Shards are
+  keyed by the first two characters of `CODE` (all Parts in `LP.csv.gz`), so a
+  term's rows, whose `PATH_TO_ROOT` lists all its ancestors, sit in its own
+  shard. suMEDS adds every Part on these paths as a parent.
+- ICD-9-CM headers come from the NCHS FY2012 tabular list. Two procedure
+  headers there, 84.8 and 92.4, have no tab between code and title; v0.1.0
+  missed them, v0.2.0 includes them. Header 14.8 was added after FY2012 and is
+  not in the pack, so 14.81 to 14.83 have 14 as parent.
 
 ## Rebuilding
 
 ```bash
 # ICD packs: downloads the pinned CMS/CDC files, verifies their sha256.
 python3 scripts/build_ontology_packs.py --output ontologies ICD10CM ICD10PCS ICD9CM ICD9Proc
-# LOINC, from the official download (needs a free loinc.org account):
+# LOINC, from the official download (needs a free loinc.org account); the
+# hierarchy is read from AccessoryFiles/ComponentHierarchyBySystem/:
 python3 scripts/build_ontology_packs.py --output ontologies LOINC \
   --loinc-table Loinc_2.83/LoincTableCore/LoincTableCore.csv \
   --loinc-release-date 2026-08-19 \

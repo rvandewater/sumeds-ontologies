@@ -19,8 +19,8 @@
  "parent": "nearest shorter truncation in the pack; 2-digit categories are roots",
  "years": "empty: single final release",
  "shard_key_length": 1,
- "rows": 4648,
- "bytes": 251787,
+ "rows": 4650,
+ "bytes": 251946,
  "license": "The ICD-9-CM procedure volume is published at no cost and without a license agreement by CMS and CDC/NCHS as part of ICD-9-CM, the U.S. clinical modification of WHO's ICD-9, which WHO authorized for U.S. government purposes (https://www.hl7.org/fhir/us/core/STU4/qa-hta.html). Content taken from WHO classifications remains WHO's copyright. Codes and titles are redistributed here unchanged.",
  "sources": [
   {
@@ -94,15 +94,15 @@
   },
   "8": {
    "file": "8.csv",
-   "rows": 768,
-   "bytes": 39341,
-   "sha256": "cdcaca6155088f35186898f43328dbf3d1dabae8fac3c3df14a449441e7102db"
+   "rows": 769,
+   "bytes": 39451,
+   "sha256": "027d0ce1d1f304d06142674b486943472da581e12ee05396689a49040d4b5de0"
   },
   "9": {
    "file": "9.csv",
-   "rows": 651,
-   "bytes": 41551,
-   "sha256": "84cf238659d20ea2e48634bc19d7e5c3ef3783a2ac61203d1c98f418573a5a48"
+   "rows": 652,
+   "bytes": 41600,
+   "sha256": "3f236f7bddc3ce67f8a4825c34904260c5b36d3db074b793b6e1df9f55037a14"
   }
  }
 }
