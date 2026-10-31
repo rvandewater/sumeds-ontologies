@@ -17,7 +17,8 @@ them.
 
 Each manifest records the origin (repository, branch, commit, path), the
 sources and license of every table, and every row keeps its own `source`
-columns. All 188 LOINC codes in these tables are present and not DEPRECATED in
+columns. BibTeX for every source is in the
+[References](../../README.md#references) section of the main README. All 188 LOINC codes in these tables are present and not DEPRECATED in
 LOINC 2.83 (`loinc_check` in the manifests).
 
 Notes:

@@ -720,10 +720,15 @@ def rtf_text(rtf: str) -> str:
 
 
 def tabular_entries(raw: bytes, pattern: str) -> dict[str, str]:
-    """``code<TAB>title`` entries of an NCHS ICD-9-CM tabular list (RTF)."""
+    """``code<TAB>title`` entries of an NCHS ICD-9-CM tabular list (RTF).
+
+    A few entries separate the title by spaces or not at all (``84.8Insertion,
+    replacement ...`` in the FY2012 procedure list); a range such as
+    ``140-195`` is never an entry.
+    """
 
     entries = {}
-    line_pattern = re.compile(rf"^({pattern})\t+(.+)$")
+    line_pattern = re.compile(rf"^({pattern})(?:[\t ]+|(?=[A-Z]))(.+)$")
     for line in rtf_text(decode(raw)).splitlines():
         match = line_pattern.match(line.strip(" "))
         if match:
@@ -950,6 +955,97 @@ def map_to_subset(data: bytes, codes: set[str]) -> tuple[bytes, int, int]:
     return "".join(out).encode("utf-8"), kept, dropped
 
 
+#: Columns of the official ComponentHierarchyBySystem file, all kept (Section 10.6).
+LOINC_HIERARCHY_COLUMNS = (
+    "PATH_TO_ROOT",
+    "SEQUENCE",
+    "IMMEDIATE_PARENT",
+    "CODE",
+    "CODE_TEXT",
+)
+
+
+def hierarchy_subset(
+    data: bytes, codes: set[str], key_length: int
+) -> tuple[str, dict[str, list[str]], dict[str, int]]:
+    """Keep the ComponentHierarchyBySystem rows that lead to a code in ``codes``.
+
+    A LOINC term row is kept when the term is in ``codes``, a LOINC Part row
+    when the Part lies on the path from the root to a kept term. Rows are copied
+    byte for byte and grouped by the shard key of their ``CODE``; the header
+    loses only a byte-order mark. Returns the header, the rows per shard key, and
+    counts of kept and dropped term and Part rows.
+    """
+
+    text = data.decode("utf-8")
+    lines = [line for line in re.split(r"(?<=\n)", text) if line]
+    consumed: list[str] = []
+
+    def feed():
+        for index, line in enumerate(lines):
+            consumed.append(line.lstrip("\ufeff") if index == 0 else line)
+            yield consumed[-1]
+
+    reader = csv.reader(feed())
+    header = next(reader)
+    missing = [name for name in LOINC_HIERARCHY_COLUMNS if name not in header]
+    if missing:
+        raise SystemExit(f"not a ComponentHierarchyBySystem file: missing {missing}")
+    head = "".join(consumed)
+    consumed.clear()
+    path_column, code_column = header.index("PATH_TO_ROOT"), header.index("CODE")
+    records = []
+    for record in reader:
+        records.append(("".join(consumed), record[path_column], record[code_column]))
+        consumed.clear()
+    # Every node on the path of a kept term, as its full dotted path from the root.
+    on_path = set()
+    for _, path, code in records:
+        if code in codes and path:
+            parts = path.split(".")
+            on_path.update(".".join(parts[:end]) for end in range(1, len(parts) + 1))
+    groups: dict[str, list[str]] = {}
+    counts = {"terms": 0, "parts": 0, "dropped_terms": 0, "dropped_parts": 0}
+    for raw, path, code in records:
+        if code in codes:
+            counts["terms"] += 1
+        elif not code.startswith("LP"):
+            counts["dropped_terms"] += 1
+            continue
+        elif (f"{path}.{code}" if path else code) in on_path:
+            counts["parts"] += 1
+        else:
+            counts["dropped_parts"] += 1
+            continue
+        groups.setdefault(shard_key(code, key_length), []).append(raw)
+    return head, groups, counts
+
+
+def write_raw_shards(
+    directory: Path, header: str, groups: dict[str, list[str]]
+) -> dict[str, dict]:
+    """Write rows copied verbatim as deterministic gzip shards ``<key>.csv.gz``."""
+
+    directory.mkdir(parents=True, exist_ok=True)
+    for stale in directory.glob("*.csv.gz"):
+        stale.unlink()
+    shards = {}
+    for key, rows in sorted(groups.items()):
+        plain = (header + "".join(rows)).encode("utf-8")
+        data = gzip.compress(plain, compresslevel=9, mtime=0)
+        path = directory / f"{key}.csv.gz"
+        path.write_bytes(data)
+        shards[key] = {
+            "file": path.name,
+            "rows": len(rows),
+            "bytes": len(data),
+            "sha256": hashlib.sha256(data).hexdigest(),
+            "csv_bytes": len(plain),
+            "csv_sha256": hashlib.sha256(plain).hexdigest(),
+        }
+    return shards
+
+
 def build_loinc(
     table_path: Path,
     license_path: Path | None,
@@ -958,6 +1054,7 @@ def build_loinc(
     release_date: str | None,
     output: Path,
     archive: tuple[str, str, str] | None = None,
+    hierarchy_path: Path | None = None,
 ) -> dict:
     """Subset the official LOINC Table (or Table Core) into a pack.
 
@@ -967,11 +1064,20 @@ def build_loinc(
     ``MapTo.csv`` (deprecated code to replacement) keeps the official rows whose
     two codes are both in the pack, byte for byte; a row naming an excluded code
     would carry that code without its display name (license Section 10.3).
+    The ComponentHierarchyBySystem file (the multiaxial hierarchy) keeps the
+    official rows of the pack's terms and of the LOINC Parts on their paths, byte
+    for byte, in its own shards under ``hierarchy/``.
     """
 
     root = table_path.parent.parent
     license_path = license_path or _single(root.glob("LoincLicense*.txt"), "license")
     map_to = map_to_path or table_path.parent / "MapTo.csv"
+    hierarchy_path = hierarchy_path or (
+        root
+        / "AccessoryFiles"
+        / "ComponentHierarchyBySystem"
+        / "ComponentHierarchyBySystem.csv"
+    )
     raw = table_path.read_bytes()
     reader = csv.DictReader(io.StringIO(raw.decode("utf-8-sig"), newline=""))
     header = list(reader.fieldnames or ())
@@ -1041,6 +1147,40 @@ def build_loinc(
         "bytes": len(notice),
         "sha256": hashlib.sha256(notice).hexdigest(),
     }
+    hierarchy = None
+    if hierarchy_path.is_file():
+        data = hierarchy_path.read_bytes()
+        originals["hierarchy"] = {
+            "bytes": len(data),
+            "sha256": hashlib.sha256(data).hexdigest(),
+        }
+        header, groups, counts = hierarchy_subset(data, set(rows), LOINC_KEY_LENGTH)
+        hierarchy_shards = write_raw_shards(directory / "hierarchy", header, groups)
+        hierarchy = {
+            "directory": "hierarchy",
+            "title": f"LOINC {version} ComponentHierarchyBySystem (multiaxial "
+            "hierarchy), the rows of the pack's terms and of their Parts",
+            "columns": list(LOINC_HIERARCHY_COLUMNS),
+            "code_column": "CODE",
+            "path_column": "PATH_TO_ROOT",
+            "path_separator": ".",
+            "shard_key_length": LOINC_KEY_LENGTH,
+            "compression": "gzip",
+            "rows": counts["terms"] + counts["parts"],
+            "terms": counts["terms"],
+            "parts": counts["parts"],
+            "dropped_term_rows": counts["dropped_terms"],
+            "dropped_part_rows": counts["dropped_parts"],
+            "rule": "official rows of the LOINC terms in the pack and of the LOINC "
+            "Parts on their paths to the root, unchanged; rows of terms excluded "
+            "for their EXTERNAL_COPYRIGHT_NOTICE and of Parts on no kept term's "
+            "path (most have no term below them) are dropped",
+            "bytes": sum(shard["bytes"] for shard in hierarchy_shards.values()),
+            "csv_bytes": sum(shard["csv_bytes"] for shard in hierarchy_shards.values()),
+            "shards": hierarchy_shards,
+        }
+    else:
+        print(f"no LOINC hierarchy at {hierarchy_path}; skipped", file=sys.stderr)
     statuses: dict[str, int] = {}
     status_index = fields.index("STATUS")
     for values in rows.values():
@@ -1058,7 +1198,12 @@ def build_loinc(
             "description": "LONG_COMMON_NAME",
             "parent": None,
         },
-        "parent": "none: the LOINC multiaxial hierarchy is not included",
+        "parent": (
+            "every LOINC Part on the term's paths to the root of the "
+            "ComponentHierarchyBySystem (hierarchy); terms are leaves"
+            if hierarchy
+            else "none: the LOINC multiaxial hierarchy is not included"
+        ),
         "shard_key_length": LOINC_KEY_LENGTH,
         "compression": "gzip" if compress else None,
         "rows": len(rows),
@@ -1069,6 +1214,7 @@ def build_loinc(
         "status_counts": dict(sorted(statuses.items())),
         "excluded_external_copyright": excluded,
         "map_to_rows": map_to_rows,
+        **({"hierarchy": hierarchy} if hierarchy else {}),
         "license": (
             f"LOINC license, full text in {license_path.name} "
             "(http://loinc.org/license), unchanged. Field names and contents are "
@@ -1076,6 +1222,17 @@ def build_loinc(
             "EXTERNAL_COPYRIGHT_NOTICE are excluded (Section 10.2); MapTo.csv keeps "
             "the official rows whose two codes are both in the pack, unchanged, so "
             "every code comes with its LONG_COMMON_NAME (Section 10.3)."
+            + (
+                " The hierarchy keeps the official ComponentHierarchyBySystem rows "
+                "of the pack's terms and of the Parts on their paths, unchanged "
+                "and with every column, so the hierarchy is used as presented in "
+                "the LOINC distribution (Section 5), every Part number comes with "
+                "its Part name and every term with its short name (Section 10.3), "
+                "and the fields that give the rows their meaning are kept "
+                "(Section 10.6)."
+                if hierarchy
+                else ""
+            )
         ),
         "notice": LOINC_NOTICE,
         "files": files,
@@ -1122,6 +1279,19 @@ def build_loinc(
                     ("MapTo.csv", map_to),
                 )
                 if name in files
+            ),
+            *(
+                [
+                    {
+                        "id": "ComponentHierarchyBySystem.csv",
+                        "publisher": "Regenstrief Institute",
+                        "release": f"LOINC {version}",
+                        "file": _relative(hierarchy_path, root),
+                        **originals["hierarchy"],
+                    }
+                ]
+                if hierarchy
+                else []
             ),
         ],
         "build": (
@@ -1449,6 +1619,12 @@ def main(argv: list[str] | None = None) -> int:
         type=Path,
         help="MapTo.csv to subset to the pack's codes (default: next to --loinc-table)",
     )
+    parser.add_argument(
+        "--loinc-hierarchy",
+        type=Path,
+        help="ComponentHierarchyBySystem.csv to subset to the pack's terms (default: "
+        "AccessoryFiles/ComponentHierarchyBySystem/ of the download)",
+    )
     parser.add_argument("--loinc-version", help="override the detected LOINC version")
     parser.add_argument("--loinc-release-date", help="LOINC release date, YYYY-MM-DD")
     parser.add_argument(
@@ -1494,6 +1670,7 @@ def main(argv: list[str] | None = None) -> int:
                 args.loinc_release_date,
                 args.output,
                 args.loinc_archive,
+                args.loinc_hierarchy,
             )
         else:
             spec = PACKS[target]

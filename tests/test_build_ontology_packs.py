@@ -69,6 +69,22 @@ MAP_TO_HEADER = '\ufeff"LOINC","MAP_TO","COMMENT"\r\n'.encode()
 MAP_TO_KEPT = '"90002-9","90001-1","Made up,\r\nspans two lines"\r\n'.encode()
 MAP_TO_DROPPED = b'"91003-6","90001-1",""\r\n'
 
+# A synthetic ComponentHierarchyBySystem file (CRLF): 90001-1 sits on two paths,
+# 91003-6 is excluded for its third-party notice, LP9-3 has no term below it.
+HIERARCHY_HEADER = (
+    b'"PATH_TO_ROOT","SEQUENCE","IMMEDIATE_PARENT","CODE","CODE_TEXT"\r\n'
+)
+HIERARCHY = [
+    (True, b'"","1","","LP1-1","{component}"\r\n'),
+    (True, b'"LP1-1","1","LP1-1","LP2-9","Synthetic branch"\r\n'),
+    (True, b'"LP1-1.LP2-9","1","LP2-9","90001-1","Synth A"\r\n'),
+    (False, b'"LP1-1","2","LP1-1","LP3-7","Third-party branch"\r\n'),
+    (False, b'"LP1-1.LP3-7","1","LP3-7","91003-6","Synth C"\r\n'),
+    (True, b'"LP1-1","3","LP1-1","LP4-5","Other branch"\r\n'),
+    (True, b'"LP1-1.LP4-5","1","LP4-5","90001-1","Synth A"\r\n'),
+    (False, b'"LP1-1","4","LP1-1","LP9-3","Empty branch"\r\n'),
+]
+
 
 @pytest.fixture
 def loinc_download(tmp_path: Path) -> Path:
@@ -83,6 +99,11 @@ def loinc_download(tmp_path: Path) -> Path:
     # The second row names 91003-6, which is excluded for its third-party notice.
     (core / "MapTo.csv").write_bytes(MAP_TO_HEADER + MAP_TO_KEPT + MAP_TO_DROPPED)
     (root / "LoincLicense_0.0.txt").write_text("Synthetic license text for tests.\n")
+    hierarchy = root / "AccessoryFiles" / "ComponentHierarchyBySystem"
+    hierarchy.mkdir(parents=True)
+    (hierarchy / "ComponentHierarchyBySystem.csv").write_bytes(
+        HIERARCHY_HEADER + b"".join(row for _, row in HIERARCHY)
+    )
     return root
 
 
@@ -145,6 +166,31 @@ def test_loinc_pack_keeps_fields_and_license(
     assert source["sha256"] == hashlib.sha256(official).hexdigest()
     assert manifest["files"]["MapTo.csv"]["bytes"] == len(MAP_TO_HEADER + MAP_TO_KEPT)
     assert "Regenstrief Institute" in (pack / "LOINC_short_license.txt").read_text()
+
+    # Hierarchy rows of kept terms and of the Parts on their paths, byte for byte.
+    hierarchy = manifest["hierarchy"]
+    assert (
+        hierarchy["terms"],
+        hierarchy["parts"],
+        hierarchy["dropped_term_rows"],
+        hierarchy["dropped_part_rows"],
+    ) == (2, 3, 1, 2)
+    kept = [row for keep, row in HIERARCHY if keep]
+    shards = {
+        key: gzip.decompress((pack / "hierarchy" / shard["file"]).read_bytes())
+        for key, shard in hierarchy["shards"].items()
+    }
+    assert shards == {
+        "LP": HIERARCHY_HEADER + kept[0] + kept[1] + kept[3],
+        "90": HIERARCHY_HEADER + kept[2] + kept[4],
+    }
+    assert all(
+        hashlib.sha256(shards[key]).hexdigest() == shard["csv_sha256"]
+        for key, shard in hierarchy["shards"].items()
+    )
+    assert "ComponentHierarchyBySystem.csv" in {
+        item["id"] for item in manifest["sources"]
+    }
     rows = {}
     for shard in manifest["shards"].values():
         assert shard["file"].endswith(".csv.gz")
@@ -260,4 +306,11 @@ def test_pcs_tables_and_rtf_tabular(build) -> None:
         "401.9": "Unspecified",
         "V58.61": "Long-term (current) use of anticoagulants",
         "E888.9": "Fallé",
+    }
+    # Titles separated by spaces or by nothing, as in the FY2012 procedure list.
+    rtf = r"{\rtf1\ansi \par 84.8Insertion, replacement\par 17.52 Implantation\par 84.80\tab Insertion\par 01-05\tab Operations}"
+    assert build.tabular_entries(rtf.encode("cp1252"), r"\d{2}(?:\.\d{1,2})?") == {
+        "84.8": "Insertion, replacement",
+        "17.52": "Implantation",
+        "84.80": "Insertion",
     }

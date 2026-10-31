@@ -24,14 +24,14 @@
   },
   "ICD9Proc": {
    "manifest": "ICD9Proc/v32/manifest.json",
-   "sha256": "0d454f4cab09c67de4a447d1eed173efbb840827d3d6d2a705845cfe6ec51e1c",
+   "sha256": "4203664a841f138b6e774ad07d6fdef2a1933e00de8a95441bba8d3cedb9ec46",
    "release": "v32",
-   "rows": 4648,
-   "bytes": 251787
+   "rows": 4650,
+   "bytes": 251946
   },
   "LOINC": {
    "manifest": "LOINC/2.83/manifest.json",
-   "sha256": "27609ed633d0ff10df65f6dad7bf06707dee0b2e2d7c99f916e4f8143ecf7842",
+   "sha256": "40f0a013fc6f3431083c4994734dc6b1618676402eb52828815edeadfd8ad16f",
    "release": "2.83",
    "rows": 105050,
    "bytes": 2930127
