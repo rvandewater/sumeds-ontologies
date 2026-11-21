@@ -40,7 +40,7 @@
  "crosswalks": {
   "eicu": {
    "manifest": "crosswalks/eicu/manifest.json",
-   "sha256": "19c87b73f1b3fe6d891635604bf0137ac2f58634fd56abf03fb16e74daf9d02e"
+   "sha256": "a7d95e4fc97d7f7d7ec6bee110d584e2ed475db084d4304b2770b8a0a471eb01"
   },
   "hirid": {
    "manifest": "crosswalks/hirid/manifest.json",

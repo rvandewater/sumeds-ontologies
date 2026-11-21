@@ -4,9 +4,9 @@
  "tables": {
   "lab_loinc": {
    "file": "lab_loinc.csv",
-   "rows": 50,
-   "bytes": 13076,
-   "sha256": "d05bfd136094c4f9ec7df7bb9644601d05c8155b27ee578131a0a4e9b02f8198",
+   "rows": 51,
+   "bytes": 13415,
+   "sha256": "87077351353a69174efcbe00568cc10c2013fb24dfe69df4bc07569334b85b2c",
    "columns": [
     "labname",
     "loinc_code",
@@ -23,14 +23,15 @@
     "branch": "main",
     "commit": "8ea8d948935400f9d03d7833b91a3ee0fb1671bd",
     "path": "src/eICU_MEDS/metadata/lab_descriptions.csv",
-    "selection": "rows with a loinc_code; columns labname, loinc_code, source, source_detail (the table of public lab names after eICU_MEDS #28)"
+    "selection": "rows with a loinc_code; columns labname, loinc_code, source, source_detail (the table of public lab names after eICU_MEDS #28)",
+    "added": "Carboxyhemoglobin -> 20563-3 (sumeds-ontologies#2): the MIMIC-IV lab item of the same label (50805) and its LOINC code in mimic-code d_labitems_to_loinc.csv"
    },
    "sources": "aidh-ms/WeavEHR (MIT), commit 210a539; MIT-LCP/mimic-code (MIT), v2.4.0 (570ef01) d_labitems_to_loinc.csv; MIT-LCP/eicu-code (MIT); per-row provenance in source/source_detail",
    "license": "Mapping columns: MIT (sumeds-ontologies), built from MIT-licensed public sources. loinc_long_common_name: LONG_COMMON_NAME from the LOINC pack, LOINC license (notice in LOINC_short_license.txt)",
    "notes": "The lazy key stops at the first '//', exact for every lab name of the full eICU-CRD 2.0 release (none contains '//' or ends in '/'). Do not cut at the last '//': some units start with '/', so those codes would yield the name plus a trailing '/'.",
    "suggested_pattern": "^LAB//RESULT//(?P<key>.+?)//",
    "loinc_check": {
-    "found": 50,
+    "found": 51,
     "deprecated": [],
     "missing": []
    }
