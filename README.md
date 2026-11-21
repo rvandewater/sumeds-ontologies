@@ -27,6 +27,7 @@ code lives in suMEDS.
 |---|---|---|
 | `v0.1.0` | first release with ontology rules | ICD-10-CM and ICD-10-PCS FY2016 to FY2027, ICD-9-CM and ICD-9 procedures v32, LOINC 2.83, crosswalks for eICU, HiRID, NWICU and Zigong |
 | `v0.2.0` | reads the LOINC hierarchy | LOINC 2.83 multiaxial hierarchy (ComponentHierarchyBySystem) for the pack's terms; ICD-9 procedure headers 84.8 and 92.4, which the v0.1.0 builder missed; all other files unchanged |
+| Unreleased (next minor) | needs a suMEDS release pinning it | `eicu/lab_loinc`: `Carboxyhemoglobin` -> LOINC `20563-3` (#2); all other files unchanged |
 
 ## Contents
 

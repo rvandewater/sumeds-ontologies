@@ -10,7 +10,7 @@ them.
 
 | Table | Key column | Rows | Vocabulary | Built from | Suggested pattern |
 |---|---|---:|---|---|---|
-| `eicu/lab_loinc` | `labname` | 50 | LOINC | WeavEHR (MIT) + mimic-code `d_labitems_to_loinc.csv` (MIT) + eicu-code (MIT), from eICU_MEDS `code-descriptions` | `^LAB//RESULT//(?P<key>.+?)//` |
+| `eicu/lab_loinc` | `labname` | 51 | LOINC | WeavEHR (MIT) + mimic-code `d_labitems_to_loinc.csv` (MIT) + eicu-code (MIT), from eICU_MEDS `code-descriptions` | `^LAB//RESULT//(?P<key>.+?)//` |
 | `hirid/observation_loinc` | `variable_name` (or `variableid`) | 82 | LOINC | exact LOINC name matches of HiRID variable names (HiRID variable sheet, HIRID-ICU-Benchmark `varref.tsv`, MIT), from HIRID_MEDS `metadata-descriptions`; names from `varref.tsv` | `^OBSERVATION//(?P<key>.+?)//` |
 | `nwicu/loinc_parents` | `itemid` | 50 | LOINC | WeavEHR (MIT) to MIMIC-IV to mimic-code (MIT) bridge, from NWICU_MEDS `metadata-descriptions` | `^LAB//(?P<key>[0-9]+)//` |
 | `zigong/nursing_vitals_loinc` | `code` | 6 | LOINC | HL7 FHIR R4 vital-signs profile (CC0) | `^(?P<key>NURSING//[A-Z_]+)$` |
@@ -18,7 +18,7 @@ them.
 Each manifest records the origin (repository, branch, commit, path), the
 sources and license of every table, and every row keeps its own `source`
 columns. BibTeX for every source is in the
-[References](../../README.md#references) section of the main README. All 188 LOINC codes in these tables are present and not DEPRECATED in
+[References](../../README.md#references) section of the main README. All 189 LOINC codes in these tables are present and not DEPRECATED in
 LOINC 2.83 (`loinc_check` in the manifests).
 
 Notes:

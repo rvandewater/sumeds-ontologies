@@ -1343,6 +1343,9 @@ CROSSWALKS = {
                 "selection": "rows with a loinc_code; columns labname, loinc_code, "
                 "source, source_detail (the table of public lab names after "
                 "eICU_MEDS #28)",
+                "added": "Carboxyhemoglobin -> 20563-3 (sumeds-ontologies#2): the "
+                "MIMIC-IV lab item of the same label (50805) and its LOINC code in "
+                "mimic-code d_labitems_to_loinc.csv",
             },
             "sources": f"{_WEAVEHR}; {_MIMIC_CODE} d_labitems_to_loinc.csv; "
             "MIT-LCP/eicu-code (MIT); per-row provenance in source/source_detail",
